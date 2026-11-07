@@ -1,0 +1,17 @@
+{
+  "_nota": "Etiquetas por palabras clave (sin tildes ni mayúsculas). Una palabra sola coincide como palabra entera; si termina en * coincide como prefijo (ej. 'incend*' casa con incendio, incendi, incendios). 'peso' suma a la puntuación de la mesa (0-3). Edítalo con la redacción.",
+  "umbralPropuesta": 3,
+  "etiquetas": [
+    { "id": "emergencias", "nombre": "Emergències", "peso": 3, "palabras": ["incend*", "bombers", "bomberos", "alerta", "alertes", "evacuacio", "evacuacion", "inundacio", "inundacion", "temporal", "tempesta", "apagon", "proteccio civil", "proteccion civil", "emergencia", "emergencies"] },
+    { "id": "movilidad", "nombre": "Mobilitat", "peso": 2, "palabras": ["corte", "talls", "tall", "cortada", "trafico", "transit", "carretera", "autopista", "retencio", "retencions", "congestio", "rodalies", "tren", "tramvia", "autobus", "bus", "ferrocarrils", "fgc", "renfe", "mobilitat", "movilidad"] },
+    { "id": "sucesos", "nombre": "Successos", "peso": 2, "palabras": ["accident*", "detingu*", "detenid*", "incident*", "agressio", "agresion", "robatori", "robo", "mossos", "policia", "policial"] },
+    { "id": "politica", "nombre": "Política local", "peso": 2, "palabras": ["ple", "pleno", "alcalde", "alcaldessa", "govern", "gobierno", "pressupost*", "presupuest*", "moció", "mocion", "oposicio", "oposicion", "regidor*", "concejal*"] },
+    { "id": "urbanismo", "nombre": "Obres i urbanisme", "peso": 1, "palabras": ["obres", "obras", "urbanisme", "urbanismo", "licitacio", "licitacion", "pla general", "habitatge", "vivienda", "asfaltat", "asfaltado"] },
+    { "id": "economia", "nombre": "Economia i ocupació", "peso": 1, "palabras": ["atur", "paro", "ocupacio", "empleo", "empresa", "empreses", "poligon", "comerc", "comercio"] },
+    { "id": "salud", "nombre": "Salut", "peso": 1, "palabras": ["hospital", "cap", "sanitat", "sanidad", "salut", "vacuna", "vacunacio", "urgencies"] },
+    { "id": "educacion", "nombre": "Educació", "peso": 1, "palabras": ["escola", "escuela", "institut", "educacio", "educacion", "curs escolar", "universitat", "uab"] },
+    { "id": "medioambiente", "nombre": "Medi ambient", "peso": 1, "palabras": ["aigua", "agua", "sequera", "sequia", "pluja", "lluvia", "calor", "contaminacio", "contaminacion", "residus", "residuos", "boscos", "bosque"] },
+    { "id": "deportes", "nombre": "Esports", "peso": 0, "palabras": ["futbol", "esport*", "deport*", "partit", "partido", "torneig", "torneo", "campionat", "campeonato", "club"] },
+    { "id": "cultura", "nombre": "Cultura i festes", "peso": 0, "palabras": ["festa", "fiesta", "concert", "exposicio", "exposicion", "cultura", "teatre", "teatro", "biblioteca", "fira", "feria", "jornada de puertas abiertas"] }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "_nota": "Plantilla de la redacció. 'tipo': 'reglas' = automatització sense IA; 'ia' = fa servir un model; 'pendiente' = encara no connectat. 'id' ha de coincidir amb el camp 'agente' dels esdeveniments d'activitat.",
+  "agentes": [
+    { "id": "rastreador", "nombre": "Marta", "rol": "Rastrejadora", "descripcion": "Llegeix els canals oficials i recull les novetats.", "color": "#0f5c8c", "tipo": "reglas" },
+    { "id": "deduplicador", "nombre": "Pau", "rol": "Deduplicador", "descripcion": "Detecta el mateix fet publicat per diverses fonts.", "color": "#7a4fb5", "tipo": "reglas" },
+    { "id": "etiquetador", "nombre": "Jordi", "rol": "Etiquetador", "descripcion": "Classifica les notícies per temes amb paraules clau editables.", "color": "#1d7a5a", "tipo": "reglas" },
+    { "id": "vigilante", "nombre": "Núria", "rol": "Vigilant", "descripcion": "Avisa dels temes sensibles que exigeixen revisió humana.", "color": "#b3402f", "tipo": "reglas" },
+    { "id": "mesa", "nombre": "Quim", "rol": "Taula", "descripcion": "Proposa què pot entrar a l'escaleta i n'explica els motius.", "color": "#a86a00", "tipo": "reglas" },
+    { "id": "archivo", "nombre": "Arxiu", "rol": "Arxiu", "descripcion": "Cercarà a l'arxiu de la televisió. Encara no està connectat.", "color": "#6b7280", "tipo": "pendiente" }
+  ]
+}

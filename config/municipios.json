@@ -1,0 +1,28 @@
+{
+  "_nota": "Municipios de cobertura. 'alias' se compara sin tildes ni mayúsculas. Evita alias ambiguos (p. ej. 'palau' a secas coincide con 'Palau de la Música').",
+  "municipios": [
+    { "id": "sabadell", "nombre": "Sabadell", "alias": ["sabadell"] },
+    { "id": "castellar", "nombre": "Castellar del Vallès", "alias": ["castellar del valles", "castellar"] },
+    { "id": "sentmenat", "nombre": "Sentmenat", "alias": ["sentmenat"] },
+    { "id": "palau", "nombre": "Palau-solità i Plegamans", "alias": ["palau-solita", "palau solita", "plegamans"] },
+    { "id": "polinya", "nombre": "Polinyà", "alias": ["polinya"] },
+    { "id": "santa-perpetua", "nombre": "Santa Perpètua de Mogoda", "alias": ["santa perpetua", "perpetua de mogoda"] },
+    { "id": "montcada", "nombre": "Montcada i Reixac", "alias": ["montcada i reixac", "montcada"] },
+    { "id": "ripollet", "nombre": "Ripollet", "alias": ["ripollet"] },
+    { "id": "barbera", "nombre": "Barberà del Vallès", "alias": ["barbera del valles"] },
+    { "id": "cerdanyola", "nombre": "Cerdanyola del Vallès", "alias": ["cerdanyola"] },
+    { "id": "badia", "nombre": "Badia del Vallès", "alias": ["badia del valles"] },
+    { "id": "sant-quirze", "nombre": "Sant Quirze del Vallès", "alias": ["sant quirze del valles", "sant quirze"] },
+    { "id": "castellbisbal", "nombre": "Castellbisbal", "alias": ["castellbisbal"] },
+    { "id": "gallifa", "nombre": "Gallifa", "alias": ["gallifa"] },
+    { "id": "matadepera", "nombre": "Matadepera", "alias": ["matadepera"] },
+    { "id": "rellinars", "nombre": "Rellinars", "alias": ["rellinars"] },
+    { "id": "rubi", "nombre": "Rubí", "alias": ["rubi"] },
+    { "id": "sant-cugat", "nombre": "Sant Cugat del Vallès", "alias": ["sant cugat del valles", "sant cugat"] },
+    { "id": "sant-llorenc-savall", "nombre": "Sant Llorenç Savall", "alias": ["sant llorenc savall"] },
+    { "id": "terrassa", "nombre": "Terrassa", "alias": ["terrassa"] },
+    { "id": "ullastrell", "nombre": "Ullastrell", "alias": ["ullastrell"] },
+    { "id": "vacarisses", "nombre": "Vacarisses", "alias": ["vacarisses"] },
+    { "id": "viladecavalls", "nombre": "Viladecavalls", "alias": ["viladecavalls"] }
+  ]
+}

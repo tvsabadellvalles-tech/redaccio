@@ -1,0 +1,1335 @@
+{
+  "eventos": [
+    {
+      "id": "9320f407fd84bdcd",
+      "t": "2026-10-28T18:44:43.923Z",
+      "agente": "rastreador",
+      "texto": "La fuente «Ajuntament de Barberà del Vallès» no responde (Invalid time value).",
+      "itemId": null
+    },
+    {
+      "id": "01c40ea886518447",
+      "t": "2026-10-28T18:44:43.924Z",
+      "agente": "rastreador",
+      "texto": "He recogido «'Anhedònia' i Suport Castellar posen rostre i veu a la depressió» (L'Actual - Castellar del Vallès).",
+      "itemId": "bb1a066078feb867"
+    },
+    {
+      "id": "25384b1422840367",
+      "t": "2026-10-28T18:44:43.925Z",
+      "agente": "rastreador",
+      "texto": "He recogido «Des de l’Ajuntament de Sentmenat lamentem profundament l’accident ferroviari ocorregut aquest matí entre dos trens d’alta velocitat a la província de Toledo.» (Ajuntament de Sentmenat).",
+      "itemId": "93f882e6d8310563"
+    },
+    {
+      "id": "69dab576def6ca1a",
+      "t": "2026-10-28T18:44:43.926Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetas: Sucesos.",
+      "itemId": "93f882e6d8310563"
+    },
+    {
+      "id": "e9f2bd7d84194cb7",
+      "t": "2026-10-28T18:44:43.927Z",
+      "agente": "mesa",
+      "texto": "Propongo para la escaleta (3 pts): fuente oficial · sucesos.",
+      "itemId": "93f882e6d8310563"
+    },
+    {
+      "id": "fe491182d2cdc448",
+      "t": "2026-10-28T18:44:43.928Z",
+      "agente": "rastreador",
+      "texto": "He recogido «Participa en el concurs nadalenc de dibuix» (Ajuntament de Polinyà).",
+      "itemId": "a2d45c2e38722bc7"
+    },
+    {
+      "id": "154f854c9bc58292",
+      "t": "2026-10-28T18:44:43.929Z",
+      "agente": "rastreador",
+      "texto": "He recogido «El CIM i el CAM inicien el treball i el debat aquest dimecres 28 d'octubre» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "270a167d267282fe"
+    },
+    {
+      "id": "8d3f406399e130c0",
+      "t": "2026-10-28T18:44:43.930Z",
+      "agente": "rastreador",
+      "texto": "He recogido «L'Ajuntament contracta 4 persones en situaci� d'atur per un per�ode de 12 mesos» (Ajuntament de Badia del Vallès).",
+      "itemId": "bd1c6ebe7ed937e5"
+    },
+    {
+      "id": "1a72376766a5380f",
+      "t": "2026-10-28T18:44:43.931Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetas: Economía y empleo.",
+      "itemId": "bd1c6ebe7ed937e5"
+    },
+    {
+      "id": "95d57a238dc25fa1",
+      "t": "2026-10-28T18:44:43.932Z",
+      "agente": "rastreador",
+      "texto": "He recogido «Badia se suma als tres dies de dol oficial per les v�ctimes de l'accident ferroviari a Toledo» (Ajuntament de Badia del Vallès).",
+      "itemId": "0182488afee43883"
+    },
+    {
+      "id": "9e0a1378831ae3d7",
+      "t": "2026-10-28T18:44:43.933Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetas: Sucesos.",
+      "itemId": "0182488afee43883"
+    },
+    {
+      "id": "6470570c65cfb124",
+      "t": "2026-10-28T18:44:43.934Z",
+      "agente": "mesa",
+      "texto": "Propongo para la escaleta (3 pts): fuente oficial · sucesos.",
+      "itemId": "0182488afee43883"
+    },
+    {
+      "id": "cbc1df1e9ed904d6",
+      "t": "2026-10-28T18:44:43.935Z",
+      "agente": "rastreador",
+      "texto": "He recogido «Fins al 17 de novembre es poden fer inscripcions a la Fira de Nadal» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "3fa264eebe646ac9"
+    },
+    {
+      "id": "d888ac49963f1aff",
+      "t": "2026-10-28T18:44:43.936Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetas: Cultura y fiestas.",
+      "itemId": "3fa264eebe646ac9"
+    },
+    {
+      "id": "18056cac28f16e6f",
+      "t": "2026-10-28T18:44:43.937Z",
+      "agente": "rastreador",
+      "texto": "He recogido «El carrer de Catalunya unifica el sentit de circulació cap a la Creueta» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "d18e3655d812eefc"
+    },
+    {
+      "id": "48d2100b5e06e4f6",
+      "t": "2026-10-28T18:44:43.938Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetas: Salud.",
+      "itemId": "d18e3655d812eefc"
+    },
+    {
+      "id": "652d0e1f16509b07",
+      "t": "2026-10-28T18:44:43.939Z",
+      "agente": "rastreador",
+      "texto": "He recogido «'Tal com raja' de Ràdio Castellar entrevista Joan Tubau, de Metges Sense Fronteres» (L'Actual - Castellar del Vallès).",
+      "itemId": "8184cb6d0af0cd91"
+    },
+    {
+      "id": "42068ba9d4bdc300",
+      "t": "2026-10-28T18:44:43.940Z",
+      "agente": "rastreador",
+      "texto": "He recogido «L'Ajuntament convoca a les 20 hores un minut de silenci per les víctimes de l'accident ferroviari» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "955921984b12a6bd"
+    },
+    {
+      "id": "2de8235a2d534aba",
+      "t": "2026-10-28T18:44:43.941Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetas: Sucesos.",
+      "itemId": "955921984b12a6bd"
+    },
+    {
+      "id": "77080c0af9f0ab64",
+      "t": "2026-10-28T18:44:43.942Z",
+      "agente": "vigilante",
+      "texto": "Posible tema sensible (menores, víctimas, detenidos o datos personales): revisión humana obligatoria antes de cualquier uso.",
+      "itemId": "955921984b12a6bd"
+    },
+    {
+      "id": "e12f31b00b7633c2",
+      "t": "2026-10-28T18:44:43.943Z",
+      "agente": "mesa",
+      "texto": "Propongo para la escaleta (3 pts): fuente oficial · sucesos.",
+      "itemId": "955921984b12a6bd"
+    },
+    {
+      "id": "60f684dcd4eb04a5",
+      "t": "2026-10-28T18:44:43.944Z",
+      "agente": "rastreador",
+      "texto": "He recogido «Ofensiva judicial dels bombers voluntaris» (L'Actual - Castellar del Vallès).",
+      "itemId": "f87d7c0bb4a7798e"
+    },
+    {
+      "id": "b3321c7ae598f921",
+      "t": "2026-10-28T18:44:43.945Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetas: Emergencias.",
+      "itemId": "f87d7c0bb4a7798e"
+    },
+    {
+      "id": "a3b1029571855c99",
+      "t": "2026-10-28T18:44:43.946Z",
+      "agente": "mesa",
+      "texto": "Propongo para la escaleta (3 pts): emergencias.",
+      "itemId": "f87d7c0bb4a7798e"
+    },
+    {
+      "id": "ab54645872b99e96",
+      "t": "2026-10-28T18:44:43.947Z",
+      "agente": "rastreador",
+      "texto": "He recogido «Comencen les obres de remodelació de la plaça Nova i dels carrers del seu entorn» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "c2008e2908d00e20"
+    },
+    {
+      "id": "5c635552771de2e2",
+      "t": "2026-10-28T18:44:43.948Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetas: Movilidad, Obras y urbanismo.",
+      "itemId": "c2008e2908d00e20"
+    },
+    {
+      "id": "cd4802d36fcc668d",
+      "t": "2026-10-28T18:44:43.949Z",
+      "agente": "mesa",
+      "texto": "Propongo para la escaleta (4 pts): fuente oficial · movilidad, obras y urbanismo.",
+      "itemId": "c2008e2908d00e20"
+    },
+    {
+      "id": "03bc08567b21c493",
+      "t": "2026-10-28T18:44:43.950Z",
+      "agente": "rastreador",
+      "texto": "He recogido «Un ciberatac afecta un servidor de la Unitat de Comunicació» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "d75b5f721d4cbf57"
+    },
+    {
+      "id": "94dfd75eccd17d3f",
+      "t": "2026-10-28T18:44:43.951Z",
+      "agente": "rastreador",
+      "texto": "He recogido «L'Ajuntament convoca un minut de silenci avui a les 20 h per l'accident ferroviari de Toledo» (L'Actual - Castellar del Vallès).",
+      "itemId": "22ccd8b84bee56a6"
+    },
+    {
+      "id": "bfdb9d5877c8f6b5",
+      "t": "2026-10-28T18:44:43.952Z",
+      "agente": "deduplicador",
+      "texto": "Descartada por duplicada: coincide con «L'Ajuntament convoca a les 20 hores un minut de silenci per les víctimes de l'accident ferroviari» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "22ccd8b84bee56a6"
+    },
+    {
+      "id": "ce40d3f56b39174c",
+      "t": "2026-10-28T18:44:43.953Z",
+      "agente": "rastreador",
+      "texto": "He recogido «Nova edició de les Jornades Esportives» (L'Actual - Castellar del Vallès).",
+      "itemId": "521af958069fd29a"
+    },
+    {
+      "id": "aa1ab7804b2e4e54",
+      "t": "2026-10-28T18:44:43.954Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetas: Deportes.",
+      "itemId": "521af958069fd29a"
+    },
+    {
+      "id": "6986c1c7f388fbf0",
+      "t": "2026-10-28T18:44:43.955Z",
+      "agente": "rastreador",
+      "texto": "He recogido «Queixes per la ràtio d'un grup a l'escola Mestre Pla» (L'Actual - Castellar del Vallès).",
+      "itemId": "e666a67fbc39ed7b"
+    },
+    {
+      "id": "969e72279911e591",
+      "t": "2026-10-28T18:44:43.956Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetas: Educación.",
+      "itemId": "e666a67fbc39ed7b"
+    },
+    {
+      "id": "d7cbdbefc69854ed",
+      "t": "2026-10-28T18:44:43.957Z",
+      "agente": "rastreador",
+      "texto": "He recogido «Presència castellarenca a la jornada comarcal de les persones grans» (L'Actual - Castellar del Vallès).",
+      "itemId": "919bd79b6062514b"
+    },
+    {
+      "id": "060da004bb2f94e7",
+      "t": "2026-10-28T18:45:33.419Z",
+      "agente": "rastreador",
+      "texto": "La fuente «Ajuntament de Barberà del Vallès» vuelve a responder.",
+      "itemId": null
+    },
+    {
+      "id": "8f22b27f025f9fb4",
+      "t": "2026-10-28T18:45:33.420Z",
+      "agente": "rastreador",
+      "texto": "He recogido «Aquest divendres 30, La Nau celebra la Castanyada!» (Ajuntament de Barberà del Vallès).",
+      "itemId": "ccdca50b0980608e"
+    },
+    {
+      "id": "64c31bb1e9190cd5",
+      "t": "2026-10-28T18:45:33.421Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetas: Cultura y fiestas.",
+      "itemId": "ccdca50b0980608e"
+    },
+    {
+      "id": "2271aa8c547aeb69",
+      "t": "2026-10-28T18:45:33.422Z",
+      "agente": "rastreador",
+      "texto": "He recogido «20 hores: Minut de silenci per les víctimes de l’accident ferroviari a la província de Toledo» (Ajuntament de Barberà del Vallès).",
+      "itemId": "81c70f959bb3a445"
+    },
+    {
+      "id": "ffa3261a602c838f",
+      "t": "2026-10-28T18:45:33.423Z",
+      "agente": "deduplicador",
+      "texto": "Descartada por duplicada: coincide con «L'Ajuntament convoca a les 20 hores un minut de silenci per les víctimes de l'accident ferroviari» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "81c70f959bb3a445"
+    },
+    {
+      "id": "d6c321463dd85094",
+      "t": "2026-10-28T18:49:43.884Z",
+      "agente": "rastreador",
+      "texto": "La fuente «Ajuntament de Sant Quirze del Vallès» no responde (The operation was aborted due to timeout).",
+      "itemId": null
+    },
+    {
+      "id": "9d796a7f99a40630",
+      "t": "2026-10-28T18:49:43.885Z",
+      "agente": "rastreador",
+      "texto": "He recogido «Palau al Dia - Notícies del 28/10/2026» (Ràdio Palau - Palau al Dia).",
+      "itemId": "14b11995e0414a8e"
+    },
+    {
+      "id": "82eb7001fcb4d0ab",
+      "t": "2026-10-28T18:49:43.886Z",
+      "agente": "deduplicador",
+      "texto": "Descartada por duplicada: coincide con «Palau al Dia - Notícies del 26/10/2026» (Ràdio Palau - Palau al Dia).",
+      "itemId": "14b11995e0414a8e"
+    },
+    {
+      "id": "d1a58d526f688b28",
+      "t": "2026-10-28T18:50:15.728Z",
+      "agente": "rastreador",
+      "texto": "La fuente «Ajuntament de Sant Quirze del Vallès» vuelve a responder.",
+      "itemId": null
+    },
+    {
+      "id": "0064b7cc8610e3c8",
+      "t": "2026-10-28T18:55:28.331Z",
+      "agente": "rastreador",
+      "texto": "La font «Ajuntament de Sant Quirze del Vallès» no respon (The operation was aborted due to timeout).",
+      "itemId": null
+    },
+    {
+      "id": "da63de24cce164b9",
+      "t": "2026-10-28T18:55:57.040Z",
+      "agente": "rastreador",
+      "texto": "La font «Ajuntament de Sant Quirze del Vallès» torna a respondre.",
+      "itemId": null
+    },
+    {
+      "id": "c52cd68370001d27",
+      "t": "2026-10-28T19:12:54.611Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El masculí del Club continua amb ple de victòries a la Champions» (iSabadell).",
+      "itemId": "80be624d14b605db"
+    },
+    {
+      "id": "e4f57f09c53fc4e3",
+      "t": "2026-10-28T19:12:54.612Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local, Esports.",
+      "itemId": "80be624d14b605db"
+    },
+    {
+      "id": "a82b5ba559fee5ac",
+      "t": "2026-10-28T19:12:54.613Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Des de l’Ajuntament de Sentmenat lamentem profundament l’accident ferroviari ocorregut aquest matí entre dos trens d’alta velocitat a la província de Toledo.» (Ajuntament de Sentmenat).",
+      "itemId": "7928c638ad8185d1"
+    },
+    {
+      "id": "2ee47d989217f0a4",
+      "t": "2026-10-28T19:12:54.614Z",
+      "agente": "deduplicador",
+      "texto": "Descartada perquè és duplicada: coincideix amb «Des de l’Ajuntament de Sentmenat lamentem profundament l’accident ferroviari ocorregut aquest matí entre dos trens d’alta velocitat a la província de Toledo.» (Ajuntament de Sentmenat).",
+      "itemId": "7928c638ad8185d1"
+    },
+    {
+      "id": "4aedd496e394765e",
+      "t": "2026-10-28T19:12:54.615Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Participa en el concurs nadalenc de dibuix» (Ajuntament de Polinyà).",
+      "itemId": "8cdb8869386295de"
+    },
+    {
+      "id": "e62732dfab9ac0f1",
+      "t": "2026-10-28T19:12:54.616Z",
+      "agente": "deduplicador",
+      "texto": "Descartada perquè és duplicada: coincideix amb «Participa en el concurs nadalenc de dibuix» (Ajuntament de Polinyà).",
+      "itemId": "8cdb8869386295de"
+    },
+    {
+      "id": "f2e566a3d2ab37e2",
+      "t": "2026-10-28T19:12:54.617Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El CIM i el CAM inicien el treball i el debat aquest dimecres 28 d'octubre» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "4c76163944c21303"
+    },
+    {
+      "id": "c207e07c9ee0e437",
+      "t": "2026-10-28T19:12:54.618Z",
+      "agente": "deduplicador",
+      "texto": "Descartada perquè és duplicada: coincideix amb «El CIM i el CAM inicien el treball i el debat aquest dimecres 28 d'octubre» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "4c76163944c21303"
+    },
+    {
+      "id": "a9c4d3feb05e2711",
+      "t": "2026-10-28T19:12:54.619Z",
+      "agente": "rastreador",
+      "texto": "He recollit «TREBALLS DE MANTENIMENT. Calçada restringida (Obres)» (Servei Català de Trànsit · Incidències viàries).",
+      "itemId": "768c605856ad6ae0"
+    },
+    {
+      "id": "a64c02e3b6c7b330",
+      "t": "2026-10-28T19:12:54.620Z",
+      "agente": "deduplicador",
+      "texto": "Descartada perquè és duplicada: coincideix amb «TREBALLS DE MANTENIMENT. Calçada restringida (Obres)» (Servei Català de Trànsit · Incidències viàries).",
+      "itemId": "768c605856ad6ae0"
+    },
+    {
+      "id": "e3dbc434e259f283",
+      "t": "2026-10-28T19:12:54.621Z",
+      "agente": "rastreador",
+      "texto": "He recollit «NETEJA. Calçada restringida (Obres)» (Servei Català de Trànsit · Incidències viàries).",
+      "itemId": "e7de62cbbfaf62bb"
+    },
+    {
+      "id": "897866f2b6c55451",
+      "t": "2026-10-28T19:12:54.622Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Obres i urbanisme, Salut.",
+      "itemId": "e7de62cbbfaf62bb"
+    },
+    {
+      "id": "e85f592fa08ee3eb",
+      "t": "2026-10-28T19:12:54.623Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · obres i urbanisme, salut.",
+      "itemId": "e7de62cbbfaf62bb"
+    },
+    {
+      "id": "4b51cf67b90646b1",
+      "t": "2026-10-28T19:12:54.624Z",
+      "agente": "rastreador",
+      "texto": "He recollit «‘Feijóo ante el espejo: la historia que delata a un candidato ‘» (iSabadell).",
+      "itemId": "7faa2a29d15d7d95"
+    },
+    {
+      "id": "53ecc0efa17cf8d2",
+      "t": "2026-10-28T19:12:54.625Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Fins al 17 de novembre es poden fer inscripcions a la Fira de Nadal» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "316a1a424876f37b"
+    },
+    {
+      "id": "07898c43f483fc89",
+      "t": "2026-10-28T19:12:54.626Z",
+      "agente": "deduplicador",
+      "texto": "Descartada perquè és duplicada: coincideix amb «Fins al 17 de novembre es poden fer inscripcions a la Fira de Nadal» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "316a1a424876f37b"
+    },
+    {
+      "id": "7e48d1291ee95c0a",
+      "t": "2026-10-28T19:12:54.627Z",
+      "agente": "rastreador",
+      "texto": "He recollit «\"Estic més tranquil·la si passo per fora\": els veïns qüestionen els passos soterrats de la Gran Via» (Diari de Sabadell).",
+      "itemId": "4105e5825bc481bd"
+    },
+    {
+      "id": "6c0cda8eb6730362",
+      "t": "2026-10-28T19:12:54.628Z",
+      "agente": "rastreador",
+      "texto": "He recollit «NETEJA. Calçada restringida (Obres)» (Servei Català de Trànsit · Incidències viàries).",
+      "itemId": "b0afa7ba8f741d7d"
+    },
+    {
+      "id": "a6a618d80a0a6c50",
+      "t": "2026-10-28T19:12:54.629Z",
+      "agente": "deduplicador",
+      "texto": "Descartada perquè és duplicada: coincideix amb «NETEJA. Calçada restringida (Obres)» (Servei Català de Trànsit · Incidències viàries).",
+      "itemId": "b0afa7ba8f741d7d"
+    },
+    {
+      "id": "88eee84435b5b96b",
+      "t": "2026-10-28T19:12:54.630Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Nova jornada de vaga a Rodalies aquest dijous 29 d'octubre» (Diari de Sabadell).",
+      "itemId": "ffed9d847ed50a41"
+    },
+    {
+      "id": "db53262c29f5e629",
+      "t": "2026-10-28T19:12:54.631Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat.",
+      "itemId": "ffed9d847ed50a41"
+    },
+    {
+      "id": "19a22c0829180f3b",
+      "t": "2026-10-28T19:12:54.632Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El carrer de Catalunya unifica el sentit de circulació cap a la Creueta» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "cdab8963a0e18b29"
+    },
+    {
+      "id": "8d1235445c046b3a",
+      "t": "2026-10-28T19:12:54.633Z",
+      "agente": "deduplicador",
+      "texto": "Descartada perquè és duplicada: coincideix amb «El carrer de Catalunya unifica el sentit de circulació cap a la Creueta» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "cdab8963a0e18b29"
+    },
+    {
+      "id": "7e97273b3ca07715",
+      "t": "2026-10-28T19:12:54.634Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Emotiu homenatge a Robert Ferrer» (iSabadell).",
+      "itemId": "8d3b53d33ac9e68e"
+    },
+    {
+      "id": "ab26cda84cc65494",
+      "t": "2026-10-28T19:12:54.635Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L'Ajuntament convoca a les 20 hores un minut de silenci per les víctimes de l'accident ferroviari» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "f133bb600eb0cd08"
+    },
+    {
+      "id": "162bdfcf2a1e927d",
+      "t": "2026-10-28T19:12:54.636Z",
+      "agente": "deduplicador",
+      "texto": "Descartada perquè és duplicada: coincideix amb «L'Ajuntament convoca a les 20 hores un minut de silenci per les víctimes de l'accident ferroviari» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "f133bb600eb0cd08"
+    },
+    {
+      "id": "b52d78016119f137",
+      "t": "2026-10-28T19:12:54.637Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El cementiri ja té un espai de dol perinatal i estrena un nou accés» (iSabadell).",
+      "itemId": "26d5a60a327800d5"
+    },
+    {
+      "id": "e443727989c05214",
+      "t": "2026-10-28T19:12:54.638Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Indra Group crearà 50 nous llocs de treball per desenvolupar les noves estacions remotes de Galileu» (Diari de Sabadell).",
+      "itemId": "909d17850fb54526"
+    },
+    {
+      "id": "90a64e53ab2b69ea",
+      "t": "2026-10-28T19:12:54.639Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Organitzen una jornada per cobrir prop de 80 llocs de feina» (iSabadell).",
+      "itemId": "3f1536d746143443"
+    },
+    {
+      "id": "092c26527fe2ec87",
+      "t": "2026-10-28T19:12:54.640Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Economia i ocupació, Cultura i festes.",
+      "itemId": "3f1536d746143443"
+    },
+    {
+      "id": "39041bfb7672ecae",
+      "t": "2026-10-28T19:12:54.641Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Suspès el partit de Copa del Rei del CE Sabadell a Utebo per la tragèdia ferroviària» (Diari de Sabadell).",
+      "itemId": "b9b92f82e4555e0e"
+    },
+    {
+      "id": "02305e8861bf6957",
+      "t": "2026-10-28T19:12:54.642Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Successos, Esports.",
+      "itemId": "b9b92f82e4555e0e"
+    },
+    {
+      "id": "423a772960177703",
+      "t": "2026-10-28T19:12:54.643Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "b9b92f82e4555e0e"
+    },
+    {
+      "id": "3704de39b1117c4b",
+      "t": "2026-10-28T19:12:54.644Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Comencen les obres de remodelació de la plaça Nova i dels carrers del seu entorn» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "60cf0977c800eba3"
+    },
+    {
+      "id": "dcc2cde95fa77f1e",
+      "t": "2026-10-28T19:12:54.645Z",
+      "agente": "deduplicador",
+      "texto": "Descartada perquè és duplicada: coincideix amb «Comencen les obres de remodelació de la plaça Nova i dels carrers del seu entorn» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "60cf0977c800eba3"
+    },
+    {
+      "id": "310b7213886be46c",
+      "t": "2026-10-28T19:12:54.646Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Un ciberatac afecta un servidor de la Unitat de Comunicació» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "220fe7f425b8aa96"
+    },
+    {
+      "id": "143a2ed4e3c9262f",
+      "t": "2026-10-28T19:12:54.647Z",
+      "agente": "deduplicador",
+      "texto": "Descartada perquè és duplicada: coincideix amb «Un ciberatac afecta un servidor de la Unitat de Comunicació» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "220fe7f425b8aa96"
+    },
+    {
+      "id": "33dea0305a9043e1",
+      "t": "2026-10-28T19:12:54.648Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L’Utebo-CE Sabadell de Copa, suspès per l’accident de tren a Toledo» (iSabadell).",
+      "itemId": "cab1deba2aa6e34b"
+    },
+    {
+      "id": "51f894cc441a6ecb",
+      "t": "2026-10-28T19:12:54.649Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat, Successos.",
+      "itemId": "cab1deba2aa6e34b"
+    },
+    {
+      "id": "db43c8453a59864b",
+      "t": "2026-10-28T19:12:54.650Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): mobilitat, successos.",
+      "itemId": "cab1deba2aa6e34b"
+    },
+    {
+      "id": "c62bd3d3060ed222",
+      "t": "2026-10-28T19:12:54.651Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L’Ajuntament convoca un minut de silenci per l’accident ferroviari a Toledo» (iSabadell).",
+      "itemId": "a9c19650e6373f1d"
+    },
+    {
+      "id": "8866279dd2f4ff28",
+      "t": "2026-10-28T19:12:54.652Z",
+      "agente": "deduplicador",
+      "texto": "Descartada perquè és duplicada: coincideix amb «L'Ajuntament convoca a les 20 hores un minut de silenci per les víctimes de l'accident ferroviari» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "a9c19650e6373f1d"
+    },
+    {
+      "id": "4344e37c603c28e4",
+      "t": "2026-10-28T19:12:54.653Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El govern municipal impulsa una ordenança per regular el preu dels serveis funeraris» (Ràdio Sabadell).",
+      "itemId": "3f846692f8738bfb"
+    },
+    {
+      "id": "e1c9f82c5b69d952",
+      "t": "2026-10-28T19:12:54.654Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local.",
+      "itemId": "3f846692f8738bfb"
+    },
+    {
+      "id": "8053e4b7cad8057d",
+      "t": "2026-10-28T19:12:54.655Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El Podi (IX): L'aposta del Cercle Sabadellès pel pickleball, a punt de ser una realitat» (Ràdio Sabadell).",
+      "itemId": "58a84ce95a86cee3"
+    },
+    {
+      "id": "06d11c0b1131b374",
+      "t": "2026-10-28T19:12:54.656Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat, Economia i ocupació, Salut, Educació, Medi ambient, Esports.",
+      "itemId": "58a84ce95a86cee3"
+    },
+    {
+      "id": "326d010bbec33f91",
+      "t": "2026-10-28T19:12:54.657Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): mobilitat, economia i ocupació, salut, educació, medi ambient.",
+      "itemId": "58a84ce95a86cee3"
+    },
+    {
+      "id": "64ff76bb1add531f",
+      "t": "2026-10-28T19:12:54.658Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El govern farà una consulta de mercat sobre la viabilitat d'un tanatori públic» (Ràdio Sabadell).",
+      "itemId": "8278e231637bb1ba"
+    },
+    {
+      "id": "185f7913ad5bc971",
+      "t": "2026-10-28T19:12:54.659Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local.",
+      "itemId": "8278e231637bb1ba"
+    },
+    {
+      "id": "6429624e2b7de88b",
+      "t": "2026-10-28T19:12:54.660Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "8278e231637bb1ba"
+    },
+    {
+      "id": "a82b47d5129fcd15",
+      "t": "2026-10-28T19:12:54.661Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Comença la vaga de metges, que es farà notar al Parc Taulí: \"Prenem decisions sobre la teva salut, hem d'estar en plenes facultats\"» (Diari de Sabadell).",
+      "itemId": "d4ad91ff1cc33b33"
+    },
+    {
+      "id": "df9840f005dca0a4",
+      "t": "2026-10-28T19:12:54.662Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut.",
+      "itemId": "d4ad91ff1cc33b33"
+    },
+    {
+      "id": "814326c71d462898",
+      "t": "2026-10-28T19:12:54.663Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Eloi Cortés, tinent d'alcaldessa: \"Un tanatori públic d'onze sales és inviable, però no hi renunciem\"» (Ràdio Sabadell).",
+      "itemId": "4a59c2e6c1ea0bc2"
+    },
+    {
+      "id": "0e107627afd46528",
+      "t": "2026-10-28T19:12:54.664Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local.",
+      "itemId": "4a59c2e6c1ea0bc2"
+    },
+    {
+      "id": "7ea50b9aaa690ee4",
+      "t": "2026-10-28T19:12:54.665Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L'aposta del Cercle Sabadellès pel pickleball, a punt de ser una realitat» (Ràdio Sabadell).",
+      "itemId": "e519bc9ca99d79d4"
+    },
+    {
+      "id": "a231fe808f4af24d",
+      "t": "2026-10-28T19:12:54.666Z",
+      "agente": "deduplicador",
+      "texto": "Descartada perquè és duplicada: coincideix amb «El Podi (IX): L'aposta del Cercle Sabadellès pel pickleball, a punt de ser una realitat» (Ràdio Sabadell).",
+      "itemId": "e519bc9ca99d79d4"
+    },
+    {
+      "id": "244fcd980c29fa33",
+      "t": "2026-10-28T19:12:54.667Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Més queixes pel desplegament dels autobusos: Palau-solità reclama millores urgents en l'e9» (Diari de Sabadell).",
+      "itemId": "3052b99635e17c81"
+    },
+    {
+      "id": "52cae47d2508bec7",
+      "t": "2026-10-28T19:12:54.668Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Primera jornada de la vaga indefinida dels metges per reclamar millores laborals» (Ràdio Sabadell).",
+      "itemId": "7a69df092acb4a74"
+    },
+    {
+      "id": "4852dda0af4de352",
+      "t": "2026-10-28T19:12:54.669Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Emergències, Política local, Salut.",
+      "itemId": "7a69df092acb4a74"
+    },
+    {
+      "id": "8fdf27ab06b76f33",
+      "t": "2026-10-28T19:12:54.670Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): emergències, política local, salut.",
+      "itemId": "7a69df092acb4a74"
+    },
+    {
+      "id": "8946cf76214524a8",
+      "t": "2026-10-28T19:12:54.671Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Ja hi ha data per al retorn de l'activitat al pavelló de Cal Balsach» (Ràdio Sabadell).",
+      "itemId": "a2ccfaa0c647255c"
+    },
+    {
+      "id": "72188e17a453b7b6",
+      "t": "2026-10-28T19:12:54.672Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Obres i urbanisme, Salut, Esports.",
+      "itemId": "a2ccfaa0c647255c"
+    },
+    {
+      "id": "5a19c67bd26df69c",
+      "t": "2026-10-28T19:12:54.673Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Suspès l'Utebo-Sabadell i tota la resta de la jornada de la Copa del Rei; dimecres 4, la nova data» (Ràdio Sabadell).",
+      "itemId": "b7322c07092d4834"
+    },
+    {
+      "id": "0d3cd39c4db9bd3d",
+      "t": "2026-10-28T19:12:54.674Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Successos, Esports.",
+      "itemId": "b7322c07092d4834"
+    },
+    {
+      "id": "02ba764ae6155e99",
+      "t": "2026-10-28T19:12:54.675Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "b7322c07092d4834"
+    },
+    {
+      "id": "73f1e41196cd396b",
+      "t": "2026-10-28T19:12:54.676Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Sabadell guarda un minut de silenci per les víctimes de l’accident ferroviari de Toledo» (Ràdio Sabadell).",
+      "itemId": "4a316b6bd3c85b05"
+    },
+    {
+      "id": "145c87419452daba",
+      "t": "2026-10-28T19:12:54.677Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Successos, Política local, Economia i ocupació, Salut, Esports.",
+      "itemId": "4a316b6bd3c85b05"
+    },
+    {
+      "id": "8555e07eee320814",
+      "t": "2026-10-28T19:12:54.678Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "4a316b6bd3c85b05"
+    },
+    {
+      "id": "b00e492880acd386",
+      "t": "2026-10-28T19:12:54.679Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): successos, política local, economia i ocupació, salut.",
+      "itemId": "4a316b6bd3c85b05"
+    },
+    {
+      "id": "095da705ef64bbf8",
+      "t": "2026-10-28T19:12:54.680Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El Sabadell, concentrat a València per preparar el partit de lliga a Albacete» (Ràdio Sabadell).",
+      "itemId": "724857ba67651169"
+    },
+    {
+      "id": "945c43574c55f04f",
+      "t": "2026-10-28T19:12:54.681Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut, Esports.",
+      "itemId": "724857ba67651169"
+    },
+    {
+      "id": "28f144e0800f69c8",
+      "t": "2026-10-28T19:12:54.682Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Sentmenat guarda un minut de silenci en record de les víctimes de l’accident ferroviari de Toledo» (Ajuntament de Sentmenat).",
+      "itemId": "11cb84d888628774"
+    },
+    {
+      "id": "5458786d1fa604ec",
+      "t": "2026-10-28T19:12:54.683Z",
+      "agente": "deduplicador",
+      "texto": "Descartada perquè és duplicada: coincideix amb «Sabadell guarda un minut de silenci per les víctimes de l’accident ferroviari de Toledo» (Ràdio Sabadell).",
+      "itemId": "11cb84d888628774"
+    },
+    {
+      "id": "07223839c6a2478d",
+      "t": "2026-10-28T19:15:24.600Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Sabadell guarda un minut de silenci per les víctimes de l’accident ferroviari de Toledo» (Ràdio Sabadell).",
+      "itemId": "cb2e503c05111f15"
+    },
+    {
+      "id": "ead3a9299223b378",
+      "t": "2026-10-28T19:15:24.601Z",
+      "agente": "deduplicador",
+      "texto": "Descartada perquè és duplicada: coincideix amb «Sabadell guarda un minut de silenci per les víctimes de l’accident ferroviari de Toledo» (Ràdio Sabadell).",
+      "itemId": "cb2e503c05111f15"
+    },
+    {
+      "id": "bf7c4b080800139e",
+      "t": "2026-10-28T19:26:37.581Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Camí del milió d'habitants: quins reptes implica el creixement demogràfic al Vallès Occidental?» (Diari de Sabadell).",
+      "itemId": "98105d1b7e6e9906"
+    },
+    {
+      "id": "4cb7cd919f719e2a",
+      "t": "2026-11-01T10:03:00.640Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Sentmenat celebra una nova edició de la Festa Major d’Hivern en honor a Sant Menna» (Ajuntament de Sentmenat).",
+      "itemId": "b42e1bf37720f856"
+    },
+    {
+      "id": "c42c61ce2e36f0c1",
+      "t": "2026-11-01T10:03:00.641Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports, Cultura i festes.",
+      "itemId": "b42e1bf37720f856"
+    },
+    {
+      "id": "7412d6437a8edb60",
+      "t": "2026-11-01T10:03:00.642Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Sentmenat acull una jornada informativa sobre el nou Reglament europeu d’envasos i residus d’envasos» (Ajuntament de Sentmenat).",
+      "itemId": "a87fc598b76ccd10"
+    },
+    {
+      "id": "b2bb46c8123e2e80",
+      "t": "2026-11-01T10:03:00.643Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Economia i ocupació, Medi ambient.",
+      "itemId": "a87fc598b76ccd10"
+    },
+    {
+      "id": "abb7f9e79e2568c6",
+      "t": "2026-11-01T10:03:00.644Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · economia i ocupació, medi ambient.",
+      "itemId": "a87fc598b76ccd10"
+    },
+    {
+      "id": "600431e22b6de7f7",
+      "t": "2026-11-01T10:03:00.645Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Esgarrifosa imatge de Quadri Liameed grogui a l'Albacete-Sabadell» (Ràdio Sabadell).",
+      "itemId": "d6d3f13a2282f1f5"
+    },
+    {
+      "id": "9f7136ca0a8f6029",
+      "t": "2026-11-01T10:03:00.646Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local, Salut, Esports.",
+      "itemId": "d6d3f13a2282f1f5"
+    },
+    {
+      "id": "db49099c0b4724bf",
+      "t": "2026-11-01T10:03:00.647Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): política local, salut.",
+      "itemId": "d6d3f13a2282f1f5"
+    },
+    {
+      "id": "4b63915f271acaf8",
+      "t": "2026-11-01T10:03:00.648Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L'esgarrifosa puntada a Quadri queda en un ensurt: rep l'alta mèdica i torna cap a Sabadell» (Diari de Sabadell).",
+      "itemId": "153b04521504cc6c"
+    },
+    {
+      "id": "8d742df3e4b7f608",
+      "t": "2026-11-01T10:03:00.649Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut.",
+      "itemId": "153b04521504cc6c"
+    },
+    {
+      "id": "c3541e91a7d157ce",
+      "t": "2026-11-01T10:03:00.650Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Quins personatges il·lustres hi ha enterrats al Cementiri de Sabadell?» (Ràdio Sabadell).",
+      "itemId": "81f3041d8f3a5e12"
+    },
+    {
+      "id": "bb4e80632caed1da",
+      "t": "2026-11-01T10:03:00.651Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "81f3041d8f3a5e12"
+    },
+    {
+      "id": "239c3a0729f883f2",
+      "t": "2026-11-01T10:03:00.652Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La Cooperativa La Sabadellenca (1881-1980)» (iSabadell).",
+      "itemId": "e092f90eb10d0c30"
+    },
+    {
+      "id": "a6702d0c5ef4c18f",
+      "t": "2026-11-01T10:03:00.653Z",
+      "agente": "rastreador",
+      "texto": "He recollit «‘La campanya de Feijóo’, per Surroca (1/11/26)» (iSabadell).",
+      "itemId": "7de125255ccbb905"
+    },
+    {
+      "id": "8bc70567d7c20caf",
+      "t": "2026-11-01T10:03:00.654Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El grup de rock que va vendre els ossos per comprar instruments» (Diari de Sabadell).",
+      "itemId": "f0d49be89a70e922"
+    },
+    {
+      "id": "b06fa48ab82163a9",
+      "t": "2026-11-01T10:03:00.655Z",
+      "agente": "rastreador",
+      "texto": "He recollit «AVARIA. Circulació amb retencions (Retenció)» (Servei Català de Trànsit · Incidències viàries).",
+      "itemId": "d54bcf8ac2f883b6"
+    },
+    {
+      "id": "73be5bbc2e40e5f0",
+      "t": "2026-11-01T10:03:00.656Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat, Salut.",
+      "itemId": "d54bcf8ac2f883b6"
+    },
+    {
+      "id": "16b03981f9d25bfb",
+      "t": "2026-11-01T10:03:00.657Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): font oficial · mobilitat, salut.",
+      "itemId": "d54bcf8ac2f883b6"
+    },
+    {
+      "id": "82baf8cf075fa6c4",
+      "t": "2026-11-01T11:00:40.545Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La tradició que mai no falla» (L'Actual - Castellar del Vallès).",
+      "itemId": "4da53b4ddb547066"
+    },
+    {
+      "id": "318c75b11684d83e",
+      "t": "2026-11-01T11:10:04.261Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Lluís Puig: “Abans de l’acte públic, volia retrobar-me amb la casa i la família”» (Diari de Terrassa).",
+      "itemId": "1ae51543f0af5719"
+    },
+    {
+      "id": "035e3cafabf44bcc",
+      "t": "2026-11-01T11:10:04.262Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "1ae51543f0af5719"
+    },
+    {
+      "id": "bf5e5760bb2559d0",
+      "t": "2026-11-01T12:16:58.763Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Agònic primer triomf de la temporada del FS Sabadell Femení» (Diari de Sabadell).",
+      "itemId": "bd884bea91e0ec04"
+    },
+    {
+      "id": "651f56a21f486393",
+      "t": "2026-11-01T12:56:58.739Z",
+      "agente": "rastreador",
+      "texto": "La font «Ajuntament de Sant Quirze del Vallès» no respon (fetch failed).",
+      "itemId": null
+    },
+    {
+      "id": "f5e1473e6ea3561a",
+      "t": "2026-11-01T14:26:47.599Z",
+      "agente": "rastreador",
+      "texto": "He recollit «De Terrassa o des de París, les famílies no falten a la cita de Tots Sants: “No ho vivim com un dia trist, sinó de respecte”» (Diari de Terrassa).",
+      "itemId": "1d66549f4cd15ee5"
+    },
+    {
+      "id": "9a94d4b5306b0094",
+      "t": "2026-11-01T14:26:47.600Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La Castanyada més jove: així es viu la venda de castanyes als esplais i les escoles de Sabadell» (Diari de Sabadell).",
+      "itemId": "bbd7e4400edd42b1"
+    },
+    {
+      "id": "eec5b4dede07f07e",
+      "t": "2026-11-01T14:26:47.601Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "bbd7e4400edd42b1"
+    },
+    {
+      "id": "8f5b566f281f14e4",
+      "t": "2026-11-01T14:26:47.602Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Desenes de sabadellencs acudeixen al cementiri per recordar els seus éssers estimats» (Ràdio Sabadell).",
+      "itemId": "1bf9079bdc9f2ff4"
+    },
+    {
+      "id": "782f93d13ebaae06",
+      "t": "2026-11-01T14:26:47.603Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "1bf9079bdc9f2ff4"
+    },
+    {
+      "id": "d651034052d178ee",
+      "t": "2026-11-01T17:41:26.159Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El Cementiri de Sabadell rep la visita de nombroses famílies per Tots Sants» (Diari de Sabadell).",
+      "itemId": "034b8aa15b444595"
+    },
+    {
+      "id": "cb9fc24c045183fc",
+      "t": "2026-11-01T17:41:26.160Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Dos exarlequinats del Castelldefels frustren la primera victòria a domicili del Sabadell ‘B’ (2-2)» (Ràdio Sabadell).",
+      "itemId": "ad94abf9ed3058c1"
+    },
+    {
+      "id": "a95f0a8d8bcba700",
+      "t": "2026-11-01T17:41:26.161Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Medi ambient.",
+      "itemId": "ad94abf9ed3058c1"
+    },
+    {
+      "id": "532855d2c9b3c622",
+      "t": "2026-11-01T17:41:26.162Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Jordi Saura rep una menció als Premis Capital de la Sardana 2026» (Ràdio Sabadell).",
+      "itemId": "aa74061f9eb06735"
+    },
+    {
+      "id": "05d9d244dea000a2",
+      "t": "2026-11-01T17:41:26.163Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut, Cultura i festes.",
+      "itemId": "aa74061f9eb06735"
+    },
+    {
+      "id": "9ad45aa98dd8799f",
+      "t": "2026-11-07T09:18:33.306Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Angoixa entre veïns de Montcada i Reixac per l'amenaça d'enderroc de les seves cases i l'embargament de comptes» (Agència Catalana de Notícies (ACN)).",
+      "itemId": "8c4cf0ad57ba972c"
+    },
+    {
+      "id": "c5d6dfd7d480463b",
+      "t": "2026-11-07T09:18:33.307Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Êthos celebra dues dècades d’història a Sabadell» (iSabadell).",
+      "itemId": "6b75b6a7beb44f3e"
+    },
+    {
+      "id": "d052c52391d34bee",
+      "t": "2026-11-07T09:18:33.308Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "6b75b6a7beb44f3e"
+    },
+    {
+      "id": "1ef7b6a6817bd8b4",
+      "t": "2026-11-07T09:18:33.309Z",
+      "agente": "rastreador",
+      "texto": "He recollit «‘Gracias, ministro’» (iSabadell).",
+      "itemId": "b0c9b80d4142ed75"
+    },
+    {
+      "id": "5beea03df0c3206a",
+      "t": "2026-11-07T09:18:33.310Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local.",
+      "itemId": "b0c9b80d4142ed75"
+    },
+    {
+      "id": "e03bc214cb7d0ed2",
+      "t": "2026-11-07T09:18:33.311Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "b0c9b80d4142ed75"
+    },
+    {
+      "id": "abcebd0aa82fcc6b",
+      "t": "2026-11-07T09:18:33.312Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Un detingut al Vallès Occidental vinculat als canals Blocus» (Ràdio Sabadell).",
+      "itemId": "308ae8270d993737"
+    },
+    {
+      "id": "ec663cee1a2170c8",
+      "t": "2026-11-07T09:18:33.313Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Successos.",
+      "itemId": "308ae8270d993737"
+    },
+    {
+      "id": "e32576e6ca0a8716",
+      "t": "2026-11-07T09:18:33.314Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "308ae8270d993737"
+    },
+    {
+      "id": "8e083b029f6d422b",
+      "t": "2026-11-07T09:18:33.315Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Detenen un menor vinculat als canals de Blocus i als saquejos a Barcelona» (iSabadell).",
+      "itemId": "80984697a23e51a3"
+    },
+    {
+      "id": "602a9839091eea6f",
+      "t": "2026-11-07T09:18:33.316Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Successos.",
+      "itemId": "80984697a23e51a3"
+    },
+    {
+      "id": "45bc8613d14b0c91",
+      "t": "2026-11-07T09:18:33.317Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "80984697a23e51a3"
+    },
+    {
+      "id": "49c3468ef53384c5",
+      "t": "2026-11-07T09:18:33.318Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Trobar la primera feina continua sent un repte» (Diari de Sabadell).",
+      "itemId": "53b39370ee3ba19f"
+    },
+    {
+      "id": "158c1d7a1c2eeb4b",
+      "t": "2026-11-07T09:18:33.319Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Economia i ocupació, Cultura i festes.",
+      "itemId": "53b39370ee3ba19f"
+    },
+    {
+      "id": "1f65fc24953efc5a",
+      "t": "2026-11-07T09:18:33.320Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Dissabte amb retards a l'R1, R2, R2 Nord, R2 Sud, R4 i Regionals Sud per una \"incidència operativa\"» (Agència Catalana de Notícies (ACN)).",
+      "itemId": "46fd85532b97a72e"
+    },
+    {
+      "id": "a23a5f0f8399d85a",
+      "t": "2026-11-07T09:18:33.321Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Sabadell-Real Sociedad 'B': per Jesús de Miguel» (Ràdio Sabadell).",
+      "itemId": "f21bb6e28a172b06"
+    },
+    {
+      "id": "309c182b86d0d831",
+      "t": "2026-11-07T09:18:33.322Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut, Medi ambient, Esports, Cultura i festes.",
+      "itemId": "f21bb6e28a172b06"
+    },
+    {
+      "id": "cc3af68dda0d0e26",
+      "t": "2026-11-07T10:26:07.579Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Incendi a la Creu Alta amb una vintena de vehicles afectats» (Ràdio Sabadell).",
+      "itemId": "4de30f5f0801c169"
+    },
+    {
+      "id": "d5a8d5c89df178e8",
+      "t": "2026-11-07T10:26:07.580Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Emergències, Successos, Salut.",
+      "itemId": "4de30f5f0801c169"
+    },
+    {
+      "id": "d31d1b5ea0d809cb",
+      "t": "2026-11-07T10:26:07.581Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): emergències, successos, salut.",
+      "itemId": "4de30f5f0801c169"
+    },
+    {
+      "id": "5750530634d52145",
+      "t": "2026-11-07T10:26:07.582Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Un incendi crema una dotzena de motos al barri de la Creu Alta» (Diari de Sabadell).",
+      "itemId": "4638d842f9d92d51"
+    },
+    {
+      "id": "a25959d970a7d44e",
+      "t": "2026-11-07T10:26:07.583Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Emergències.",
+      "itemId": "4638d842f9d92d51"
+    },
+    {
+      "id": "ccfaf8e4985d3c1c",
+      "t": "2026-11-07T10:26:07.584Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): emergències.",
+      "itemId": "4638d842f9d92d51"
+    },
+    {
+      "id": "79cd5fe2f21f71b5",
+      "t": "2026-11-07T10:56:07.635Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Miquel Sàmper, conseller d'Empresa i Treball: “Terrassa hauria d’aspirar a tenir alguna minifàbrica de semiconductors”» (Diari de Terrassa).",
+      "itemId": "5460c72549fcb185"
+    },
+    {
+      "id": "a9e522ae32dda30d",
+      "t": "2026-11-07T10:56:07.636Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Economia i ocupació.",
+      "itemId": "5460c72549fcb185"
+    },
+    {
+      "id": "fbd7cabad121c5e5",
+      "t": "2026-11-07T11:06:07.634Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Una xarxa va guanyar més de 3 milions introduint immigrants de manera irregular a Catalunya» (Diari de Terrassa).",
+      "itemId": "f2133335726daddc"
+    },
+    {
+      "id": "0acab09788bc5ad4",
+      "t": "2026-11-07T11:06:07.635Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "f2133335726daddc"
+    },
+    {
+      "id": "b3e92aee2c1fafa3",
+      "t": "2026-11-07T11:56:07.684Z",
+      "agente": "rastreador",
+      "texto": "La font «Ajuntament de Badia del Vallès» no respon (fetch failed).",
+      "itemId": null
+    },
+    {
+      "id": "f9c650efaf07bc40",
+      "t": "2026-11-07T11:56:07.688Z",
+      "agente": "rastreador",
+      "texto": "He recollit «FOTOS | El Som Capaços 2026 arrenca amb 'Pinocho, el musical' per reivindicar la inclusió des de la infància» (Diari de Sabadell).",
+      "itemId": "00439e7d5d83b623"
+    },
+    {
+      "id": "3fee11eaec2dbceb",
+      "t": "2026-11-07T11:56:07.689Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El Llaminer ja té les seves postres» (Ràdio Sabadell).",
+      "itemId": "3a71e51969919f75"
+    },
+    {
+      "id": "62f583f7931ee95a",
+      "t": "2026-11-07T11:56:07.690Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "3a71e51969919f75"
+    },
+    {
+      "id": "1ee57ca492fea109",
+      "t": "2026-11-07T12:06:07.730Z",
+      "agente": "rastreador",
+      "texto": "La font «Ajuntament de Badia del Vallès» torna a respondre.",
+      "itemId": null
+    },
+    {
+      "id": "d6c6a3d5ac7eb4ee",
+      "t": "2026-11-07T12:36:07.712Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Cau una xarxa que facilitava l’entrada irregular d’immigrants pakistanesos» (iSabadell).",
+      "itemId": "d66d1a536597f63e"
+    },
+    {
+      "id": "234a21c59afd5635",
+      "t": "2026-11-07T12:36:07.713Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Successos.",
+      "itemId": "d66d1a536597f63e"
+    },
+    {
+      "id": "213dae19039b6abf",
+      "t": "2026-11-07T12:36:07.714Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "d66d1a536597f63e"
+    }
+  ],
+  "actualizado": "2026-11-07T12:36:24.944Z"
+}

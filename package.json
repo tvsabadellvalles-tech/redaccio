@@ -1,0 +1,19 @@
+{
+  "name": "redaccion-viva",
+  "version": "0.1.0",
+  "description": "Mesa de entrada para la redacción de TV Sabadell-Vallès: rastrea fuentes oficiales y las presenta en un panel.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "rastreo": "node scripts/rastreo.js",
+    "prueba": "node scripts/rastreo.js --config config/fuentes.prueba.json --out docs/data/prueba --reset",
+    "servir": "node scripts/servir.js"
+  },
+  "engines": {
+    "node": ">=20.11"
+  },
+  "dependencies": {
+    "node-ical": "^0.26.1",
+    "rss-parser": "^3.13.0"
+  }
+}

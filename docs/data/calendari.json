@@ -1,0 +1,32 @@
+{
+  "estat": "ok",
+  "origen": "ical",
+  "colorsDisponibles": false,
+  "consultat": "2026-11-07T12:36:07.708Z",
+  "total": 3,
+  "activitats": [
+    {
+      "titol": "PAULINO FESTA",
+      "inici": "2026-11-05T23:00:00.000Z",
+      "final": "2026-11-10T23:00:00.000Z",
+      "totElDia": true,
+      "color": null
+    },
+    {
+      "titol": "Ronda La Llana",
+      "inici": "2026-11-07T08:00:00.000Z",
+      "final": "2026-11-07T09:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "CN Sabadell-Catalunya",
+      "inici": "2026-11-07T11:45:00.000Z",
+      "final": "2026-11-07T12:45:00.000Z",
+      "totElDia": false,
+      "color": null
+    }
+  ],
+  "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
+  "actualizado": "2026-11-07T12:36:34.561Z"
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Mitjà de prova (dades fictícies)</title>
+    <link>https://ejemplo.invalid/</link>
+    <description>Canal fictici d'un mitjà.</description>
+    <item>
+      <title>[PROVA] Tall d'una línia de tren entre Sant Quirze i Barberà del Vallès</title>
+      <link>https://ejemplo.invalid/medio/1</link>
+      <guid>prueba-medio-1</guid>
+      <pubDate>Wed, 28 Oct 2026 09:00:00 +0100</pubDate>
+      <description>Aquest text no s'ha de desar perquè la font és un mitjà: només se'n conserven el titular, la font i l'enllaç.</description>
+    </item>
+    <item>
+      <title>[PROVA] Tall de trànsit a Ripollet per obres al carrer Major</title>
+      <link>https://ejemplo.invalid/medio/2</link>
+      <guid>prueba-medio-2</guid>
+      <pubDate>Wed, 28 Oct 2026 12:00:00 +0100</pubDate>
+      <description>El mateix fet que la nota de l'ajuntament, publicat més tard: s'ha de detectar com a duplicat.</description>
+    </item>
+  </channel>
+</rss>

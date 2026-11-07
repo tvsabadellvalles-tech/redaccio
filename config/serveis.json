@@ -1,0 +1,49 @@
+{
+  "_nota": "Fonts oficials del resum de mobilitat i alertes. Els avisos recents de transport no confirmen per si sols que una incidència continuï activa.",
+  "serveis": [
+    {
+      "id": "fgc",
+      "nom": "FGC Barcelona–Vallès",
+      "tipus": "fgc",
+      "url": "https://www.fgc.cat/adequacions-horaries/",
+      "enllac": "https://www.fgc.cat/adequacions-horaries/"
+    },
+    {
+      "id": "rodalies",
+      "nom": "Rodalies R4 i R7",
+      "tipus": "rodalies",
+      "url": "https://serveisgrs.rodalies.gencat.cat/api/notices?limit=500&sort=date,desc&sort=time,desc",
+      "enllac": "https://rodalies.gencat.cat/ca/alteracions_del_servei/",
+      "linies": ["R4", "R7"]
+    },
+    {
+      "id": "transit",
+      "nom": "Trànsit · Vallès Occidental",
+      "tipus": "transit",
+      "url": "https://cit.transit.gencat.cat/cit/rest/incidents",
+      "enllac": "https://cit.transit.gencat.cat/",
+      "demarcacio": "08",
+      "comarca": 40,
+      "vies": ["C-58", "B-30", "AP-7", "N-150"],
+      "tipusIncidents": ["retencions", "obres", "cons"],
+      "maxSnapshotAgeMinutes": 180
+    },
+    {
+      "id": "meteocat",
+      "nom": "Meteocat · Vallès Occidental",
+      "tipus": "meteocat",
+      "url": "https://www.meteo.cat/",
+      "previsioUrl": "https://static-m.meteo.cat/content/opendata/ctermini_comarcal.xml",
+      "comarca": 40,
+      "enllac": "https://www.meteo.cat/prediccio/general"
+    },
+    {
+      "id": "emergencies",
+      "nom": "Emergències · Protecció Civil",
+      "tipus": "emergencies",
+      "url": "https://interior.gencat.cat/",
+      "enllac": "https://interior.gencat.cat/ca/actualitat/",
+      "alternatiu": "https://govern.cat/salapremsa/notes-premsa"
+    }
+  ]
+}

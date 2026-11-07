@@ -1,0 +1,417 @@
+{
+  "municipios": [
+    {
+      "id": "sabadell",
+      "nombre": "Sabadell"
+    },
+    {
+      "id": "castellar",
+      "nombre": "Castellar del Vallès"
+    },
+    {
+      "id": "sentmenat",
+      "nombre": "Sentmenat"
+    },
+    {
+      "id": "palau",
+      "nombre": "Palau-solità i Plegamans"
+    },
+    {
+      "id": "polinya",
+      "nombre": "Polinyà"
+    },
+    {
+      "id": "santa-perpetua",
+      "nombre": "Santa Perpètua de Mogoda"
+    },
+    {
+      "id": "montcada",
+      "nombre": "Montcada i Reixac"
+    },
+    {
+      "id": "ripollet",
+      "nombre": "Ripollet"
+    },
+    {
+      "id": "barbera",
+      "nombre": "Barberà del Vallès"
+    },
+    {
+      "id": "cerdanyola",
+      "nombre": "Cerdanyola del Vallès"
+    },
+    {
+      "id": "badia",
+      "nombre": "Badia del Vallès"
+    },
+    {
+      "id": "sant-quirze",
+      "nombre": "Sant Quirze del Vallès"
+    },
+    {
+      "id": "castellbisbal",
+      "nombre": "Castellbisbal"
+    },
+    {
+      "id": "gallifa",
+      "nombre": "Gallifa"
+    },
+    {
+      "id": "matadepera",
+      "nombre": "Matadepera"
+    },
+    {
+      "id": "rellinars",
+      "nombre": "Rellinars"
+    },
+    {
+      "id": "rubi",
+      "nombre": "Rubí"
+    },
+    {
+      "id": "sant-cugat",
+      "nombre": "Sant Cugat del Vallès"
+    },
+    {
+      "id": "sant-llorenc-savall",
+      "nombre": "Sant Llorenç Savall"
+    },
+    {
+      "id": "terrassa",
+      "nombre": "Terrassa"
+    },
+    {
+      "id": "ullastrell",
+      "nombre": "Ullastrell"
+    },
+    {
+      "id": "vacarisses",
+      "nombre": "Vacarisses"
+    },
+    {
+      "id": "viladecavalls",
+      "nombre": "Viladecavalls"
+    }
+  ],
+  "etiquetas": {
+    "emergencias": "Emergències",
+    "movilidad": "Mobilitat",
+    "sucesos": "Successos",
+    "politica": "Política local",
+    "urbanismo": "Obres i urbanisme",
+    "economia": "Economia i ocupació",
+    "salud": "Salut",
+    "educacion": "Educació",
+    "medioambiente": "Medi ambient",
+    "deportes": "Esports",
+    "cultura": "Cultura i festes"
+  },
+  "items": [
+    {
+      "id": "d66d1a536597f63e",
+      "titulo": "Cau una xarxa que facilitava l’entrada irregular d’immigrants pakistanesos",
+      "enlace": "https://www.isabadell.cat/successos/cau-una-xarxa-que-facilitava-lentrada-irregular-dimmigrants-pakistanesos-340243/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-07T12:32:13.000Z",
+      "detectado": "2026-11-07T12:36:07.708Z",
+      "sensible": true,
+      "etiquetas": [
+        "sucesos"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "successos"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "3a71e51969919f75",
+      "titulo": "El Llaminer ja té les seves postres",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/llaminer-postres-intrepid-sabadell",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-07T12:27:07.000Z",
+      "detectado": "2026-11-07T11:56:07.684Z",
+      "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "00439e7d5d83b623",
+      "titulo": "FOTOS | El Som Capaços 2026 arrenca amb 'Pinocho, el musical' per reivindicar la inclusió des de la infància",
+      "enlace": "https://www.diaridesabadell.com/sabadell/fotos-som-capacos-2026-pinocho-el-musical.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-07T11:50:20.000Z",
+      "detectado": "2026-11-07T11:56:07.684Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "4638d842f9d92d51",
+      "titulo": "Un incendi crema una dotzena de motos al barri de la Creu Alta",
+      "enlace": "https://www.diaridesabadell.com/sabadell/incendi-crema-dotzena-motos-creu-alta.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-07T10:16:46.000Z",
+      "detectado": "2026-11-07T10:26:07.578Z",
+      "sensible": false,
+      "etiquetas": [
+        "emergencias"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "emergències"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "4de30f5f0801c169",
+      "titulo": "Incendi a la Creu Alta amb una vintena de vehicles afectats",
+      "enlace": "https://radiosabadell.fm/actualitat/successos/incendi-creu-alta-vehicles",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-07T09:54:24.000Z",
+      "detectado": "2026-11-07T10:26:07.578Z",
+      "sensible": false,
+      "etiquetas": [
+        "emergencias",
+        "sucesos",
+        "salud"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "emergències, successos, salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "f21bb6e28a172b06",
+      "titulo": "Sabadell-Real Sociedad 'B': per Jesús de Miguel",
+      "enlace": "https://radiosabadell.fm/esports/ce-sabadell/sabadell-real-sociedad-laliga-hypermotion-jornada-13",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-07T09:26:38.000Z",
+      "detectado": "2026-11-07T09:18:33.306Z",
+      "sensible": false,
+      "etiquetas": [
+        "salud",
+        "medioambiente",
+        "deportes",
+        "cultura"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "salut, medi ambient"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "53b39370ee3ba19f",
+      "titulo": "Trobar la primera feina continua sent un repte",
+      "enlace": "https://www.diaridesabadell.com/diners/fotos-participants-experiencies-fira-ocupacio-valles-treball-cambra-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-07T07:46:46.000Z",
+      "detectado": "2026-11-07T09:18:33.306Z",
+      "sensible": false,
+      "etiquetas": [
+        "economia",
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "economia i ocupació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "80984697a23e51a3",
+      "titulo": "Detenen un menor vinculat als canals de Blocus i als saquejos a Barcelona",
+      "enlace": "https://www.isabadell.cat/successos/detenen-un-menor-vinculat-als-canals-de-blocus-i-als-saquejos-a-barcelona-340238/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-07T07:21:05.000Z",
+      "detectado": "2026-11-07T09:18:33.306Z",
+      "sensible": true,
+      "etiquetas": [
+        "sucesos"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "successos"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "308ae8270d993737",
+      "titulo": "Un detingut al Vallès Occidental vinculat als canals Blocus",
+      "enlace": "https://radiosabadell.fm/actualitat/comarca/detingut-valles-canals-blocus",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-07T07:06:59.000Z",
+      "detectado": "2026-11-07T09:18:33.306Z",
+      "sensible": true,
+      "etiquetas": [
+        "sucesos"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "successos"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "6b75b6a7beb44f3e",
+      "titulo": "Êthos celebra dues dècades d’història a Sabadell",
+      "enlace": "https://www.isabadell.cat/el-raco-de-valua/ethos-celebra-dues-decades-dhistoria-a-sabadell-339908/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-07T07:00:00.000Z",
+      "detectado": "2026-11-07T09:18:33.306Z",
+      "sensible": false,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "b0c9b80d4142ed75",
+      "titulo": "‘Gracias, ministro’",
+      "enlace": "https://www.isabadell.cat/opinio/motu-proprio/gracias-ministro-340173/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-07T07:00:00.000Z",
+      "detectado": "2026-11-07T09:18:33.306Z",
+      "sensible": true,
+      "etiquetas": [
+        "politica"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "5460c72549fcb185",
+      "titulo": "Miquel Sàmper, conseller d'Empresa i Treball: “Terrassa hauria d’aspirar a tenir alguna minifàbrica de semiconductors”",
+      "enlace": "https://www.diarideterrassa.com/economia/miquel-samper-conseller-dempresa-i-treball-terrassa-hauria-daspirar-a-tenir-alguna-minifabrica-de-semiconductors.html",
+      "fuente": "diari-terrassa",
+      "fuenteNombre": "Diari de Terrassa",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "terrassa"
+      ],
+      "publicado": "2026-11-07T06:33:02.000Z",
+      "detectado": "2026-11-07T10:56:07.635Z",
+      "sensible": false,
+      "etiquetas": [
+        "economia"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "economia i ocupació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "8c4cf0ad57ba972c",
+      "titulo": "Angoixa entre veïns de Montcada i Reixac per l'amenaça d'enderroc de les seves cases i l'embargament de comptes",
+      "enlace": "https://www.acn.cat/new/veins-de-montcada-i-reixac-viuen-entre-langoixa-i-lembargament-dels-comptes-per-pagar-lenderroc-de-casa-seva/texts",
+      "fuente": "acn",
+      "fuenteNombre": "Agència Catalana de Notícies (ACN)",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "montcada"
+      ],
+      "publicado": "2026-11-07T03:00:00.000Z",
+      "detectado": "2026-11-07T09:18:33.306Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    }
+  ],
+  "actualizado": "2026-11-07T12:36:24.936Z"
+}

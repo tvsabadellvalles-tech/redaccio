@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="ca">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <title>TV Sabadell-Vallès · Redacció virtual</title>
+  <link rel="stylesheet" href="estil.css">
+</head>
+<body>
+  <header class="cabecera">
+    <div class="marca">
+      <div class="marca-logo-enllac">
+        <img class="marca-logo" src="https://www.sabadell.canaltaronja.cat/wp-content/uploads/2025/01/Valle-1.svg" alt="TV Sabadell-Vallès">
+      </div>
+      <span class="marca-separador" aria-hidden="true"></span>
+      <div class="marca-producte">
+        <h1>REDACCIÓ VIRTUAL</h1>
+      </div>
+    </div>
+    <div class="cabecera-dades">
+      <div class="rellotge-caja">
+        <time id="hora-actual" aria-label="Hora local actual">--:--:--</time>
+        <span id="data-actual"></span>
+      </div>
+      <section id="prevision-cabecera" class="prevision-cabecera" aria-label="Previsió d’avui al Vallès Occidental">
+        <p class="prevision-buits">Carregant la previsió de Meteocat…</p>
+      </section>
+    </div>
+  </header>
+
+  <section class="serveis-panell" aria-labelledby="titol-serveis">
+    <div class="serveis-cap">
+      <div>
+        <h2 id="titol-serveis"><span aria-hidden="true">●</span> Serveis</h2>
+      </div>
+      <span id="serveis-actualitzat" class="serveis-actualitzat" aria-live="polite">Comprovant les fonts oficials…</span>
+    </div>
+    <div id="serveis-grid" class="serveis-grid" aria-live="polite">
+      <p class="serveis-buits">Carregant l’estat de FGC, Rodalies, trànsit i avisos oficials…</p>
+    </div>
+    <div id="serveis-avisos" class="serveis-avisos" aria-live="polite" hidden></div>
+  </section>
+
+  <div class="contingut-principal">
+    <main class="panell-noticies" aria-label="Panell de seguiment de notícies">
+      <div class="panell-cap">
+        <h2 id="titol-avui">Notícies</h2>
+        <span id="noticies-actualitzat" class="noticies-actualitzat" aria-live="polite">Comprovant les fonts…</span>
+      </div>
+      <section id="avisos" class="avisos" hidden></section>
+      <div id="lista" class="llista-noticies" tabindex="0" aria-label="Notícies d’avui; llista amb desplaçament automàtic"></div>
+    </main>
+
+    <aside class="agenda-panell" aria-labelledby="titol-agenda">
+      <div class="agenda-cap">
+        <h2 id="titol-agenda"><span aria-hidden="true">▦</span> Agenda d’avui</h2>
+        <div class="agenda-accions">
+          <a href="https://calendar.google.com/calendar/u/0?cid=dHZzYWJhZGVsbHZhbGxlc0BnbWFpbC5jb20" target="_blank" rel="noopener noreferrer">Obrir calendari ↗</a>
+        </div>
+      </div>
+      <div id="agenda-activitats" class="agenda-activitats" aria-live="polite">
+        <p class="agenda-buits">Carregant les activitats d’avui…</p>
+      </div>
+    </aside>
+  </div>
+
+  <footer class="pie">
+    <p>Només es mostren notícies publicades avui. La font original és sempre l’última referència per confirmar la informació.</p>
+  </footer>
+
+  <script src="app.js" type="module"></script>
+</body>
+</html>

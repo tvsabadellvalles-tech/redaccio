@@ -1,0 +1,86 @@
+{
+  "fuentes": {
+    "isabadell": {
+      "ok": true,
+      "items": 4
+    },
+    "radio-sabadell": {
+      "ok": true,
+      "items": 4
+    },
+    "diari-sabadell": {
+      "ok": true,
+      "items": 3
+    },
+    "diari-terrassa": {
+      "ok": true,
+      "items": 2
+    },
+    "acn": {
+      "ok": true,
+      "items": 2
+    },
+    "ayto-castellar": {
+      "ok": true,
+      "items": 0
+    },
+    "ayto-sentmenat": {
+      "ok": true,
+      "items": 0
+    },
+    "radio-palau": {
+      "ok": true,
+      "items": 0
+    },
+    "ayto-polinya": {
+      "ok": true,
+      "items": 0
+    },
+    "avisos-polinya": {
+      "ok": true,
+      "items": 0
+    },
+    "ayto-santa-perpetua": {
+      "ok": true,
+      "items": 0
+    },
+    "avisos-santa-perpetua": {
+      "ok": true,
+      "items": 0
+    },
+    "ayto-montcada": {
+      "ok": true,
+      "items": 0
+    },
+    "avisos-montcada": {
+      "ok": true,
+      "items": 0
+    },
+    "ayto-ripollet": {
+      "ok": true,
+      "items": 0
+    },
+    "ayto-barbera": {
+      "ok": true,
+      "items": 0
+    },
+    "ayto-cerdanyola": {
+      "ok": true,
+      "items": 0
+    },
+    "ayto-badia": {
+      "ok": true,
+      "items": 0
+    },
+    "ayto-sant-quirze": {
+      "ok": true,
+      "items": 0
+    },
+    "324-comarques": {
+      "ok": true,
+      "items": 0
+    }
+  },
+  "consultat": "2026-11-07T12:36:07.708Z",
+  "actualizado": "2026-11-07T12:36:24.938Z"
+}

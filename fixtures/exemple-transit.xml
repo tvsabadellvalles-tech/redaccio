@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Trànsit de prova</title>
+    <link>https://cit.transit.gencat.cat/</link>
+    <description>Incidències fictícies de carretera per provar el filtre territorial.</description>
+    <item>
+      <title>Retenció a la C-58</title>
+      <link>https://cit.transit.gencat.cat/</link>
+      <guid>prova-c58-1</guid>
+      <pubDate>Wed, 28 Oct 2026 08:30:00 +0100</pubDate>
+      <description>Sabadell, sentit Barcelona. Incidència activa.</description>
+    </item>
+    <item>
+      <title>Obres a l'AP-7</title>
+      <link>https://cit.transit.gencat.cat/</link>
+      <guid>prova-ap7-1</guid>
+      <pubDate>Wed, 28 Oct 2026 08:32:00 +0100</pubDate>
+      <description>Montcada i Reixac. Incidència fictícia per provar la identificació per GUID.</description>
+    </item>
+    <item>
+      <title>Retenció a la C-32</title>
+      <link>https://cit.transit.gencat.cat/</link>
+      <guid>prova-c32-1</guid>
+      <pubDate>Wed, 28 Oct 2026 08:35:00 +0100</pubDate>
+      <description>Incidència fictícia fora de les carreteres seleccionades.</description>
+    </item>
+    <item>
+      <title>Obres a la B-30</title>
+      <link>https://cit.transit.gencat.cat/</link>
+      <guid>prova-b30-antiga</guid>
+      <pubDate>Wed, 15 Jan 2025 08:30:00 +0100</pubDate>
+      <description>Incidència fictícia antiga que cal excloure.</description>
+    </item>
+  </channel>
+</rss>

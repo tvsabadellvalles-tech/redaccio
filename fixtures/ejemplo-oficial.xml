@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Ajuntament de prova (dades fictícies)</title>
+    <link>https://ejemplo.invalid/</link>
+    <description>Canal fictici per provar el rastreig. Cap notícia no és real.</description>
+    <item>
+      <title>[PROVA] Tall de trànsit a Ripollet per obres al carrer Major</title>
+      <link>https://ejemplo.invalid/ayto/1</link>
+      <guid>prueba-ayto-1</guid>
+      <pubDate>Wed, 28 Oct 2026 08:30:00 +0100</pubDate>
+      <description><![CDATA[<p>Obres d'<strong>asfaltatge</strong> durant tres dies. Text de prova.</p>]]></description>
+    </item>
+    <item>
+      <title>[PROVA] El ple de Cerdanyola del Vallès aprova el pressupost</title>
+      <link>https://ejemplo.invalid/ayto/2</link>
+      <guid>prueba-ayto-2</guid>
+      <pubDate>Wed, 28 Oct 2026 10:15:00 +0100</pubDate>
+      <description>Sessió ordinària de prova amb votació del pressupost.</description>
+    </item>
+    <item>
+      <title>[PROVA] Detingut un home arran d'un incident amb un menor a Sabadell</title>
+      <link>https://ejemplo.invalid/ayto/3</link>
+      <guid>prueba-ayto-3</guid>
+      <pubDate>Wed, 28 Oct 2026 11:00:00 +0100</pubDate>
+      <description>Nota fictícia per comprovar que es marca com a sensible i exigeix revisió humana.</description>
+    </item>
+    <item>
+      <title>[PROVA] Jornada de portes obertes al centre cívic</title>
+      <link>https://ejemplo.invalid/ayto/4</link>
+      <guid>prueba-ayto-4</guid>
+      <pubDate>Wed, 28 Oct 2026 12:45:00 +0100</pubDate>
+      <description>Activitat sense rellevància especial. Prova de la categoria normal.</description>
+    </item>
+  </channel>
+</rss>
