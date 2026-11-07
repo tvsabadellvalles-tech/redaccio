@@ -31,7 +31,7 @@ const LOGOS_LINIA = {
   }
 };
 const LOGO_FGC = 'https://upload.wikimedia.org/wikipedia/commons/a/a4/FGC_logo_%282019%29.svg';
-const LOGO_RODALIES = 'https://upload.wikimedia.org/wikipedia/commons/2/26/Rodalies_de_Catalunya_logo.svg';
+const LOGO_RODALIES = 'https://upload.wikimedia.org/wikipedia/commons/f/f8/Rodalies_de_Catalunya_s%C3%ADmbol.svg';
 const LOGOS_CARRETERA = {
   'AP-7': {
     imatge: 'https://upload.wikimedia.org/wikipedia/commons/5/5a/ESP_AP-7.svg',
