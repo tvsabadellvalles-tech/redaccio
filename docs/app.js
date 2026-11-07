@@ -32,9 +32,23 @@ const LOGOS_LINIA = {
 };
 const LOGO_FGC = 'https://upload.wikimedia.org/wikipedia/commons/a/a4/FGC_logo_%282019%29.svg';
 const LOGO_RODALIES = 'https://upload.wikimedia.org/wikipedia/commons/2/26/Rodalies_de_Catalunya_logo.svg';
-const LOGO_AP7 = {
-  imatge: 'https://upload.wikimedia.org/wikipedia/commons/5/5a/ESP_AP-7.svg',
-  fitxer: 'https://commons.wikimedia.org/wiki/File:ESP_AP-7.svg'
+const LOGOS_CARRETERA = {
+  'AP-7': {
+    imatge: 'https://upload.wikimedia.org/wikipedia/commons/5/5a/ESP_AP-7.svg',
+    fitxer: 'https://commons.wikimedia.org/wiki/File:ESP_AP-7.svg'
+  },
+  'B-30': {
+    imatge: 'https://upload.wikimedia.org/wikipedia/commons/d/d9/ESP_B-30.svg',
+    fitxer: 'https://commons.wikimedia.org/wiki/File:ESP_B-30.svg'
+  },
+  'C-58': {
+    imatge: 'https://upload.wikimedia.org/wikipedia/commons/7/7a/ESP_C-58.svg',
+    fitxer: 'https://commons.wikimedia.org/wiki/File:ESP_C-58.svg'
+  },
+  'N-150': {
+    imatge: 'https://upload.wikimedia.org/wikipedia/commons/e/ef/ESP_N-150.svg',
+    fitxer: 'https://commons.wikimedia.org/wiki/File:ESP_N-150.svg'
+  }
 };
 
 function el(tag, props = {}, ...fills) {
@@ -402,17 +416,18 @@ function targetaIncidenciaServei({ servei, resum }) {
     enllac.append(imatge);
     return enllac;
   });
+  const logoCarretera = LOGOS_CARRETERA[carretera];
   const distintiuCarretera = carretera
-    ? carretera === 'AP-7'
+    ? logoCarretera
       ? el('a', {
         class: 'incidencia-logo-carretera',
-        href: LOGO_AP7.fitxer,
+        href: logoCarretera.fitxer,
         target: '_blank',
         rel: 'noopener noreferrer',
-        title: 'Senyal AP-7 · Wikimedia Commons'
+        title: `Senyal ${carretera} · Wikimedia Commons`
       }, el('img', {
         class: 'incidencia-via-logo',
-        src: LOGO_AP7.imatge,
+        src: logoCarretera.imatge,
         alt: carretera,
         decoding: 'async'
       }))
