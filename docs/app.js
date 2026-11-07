@@ -31,6 +31,7 @@ const LOGOS_LINIA = {
   }
 };
 const LOGO_FGC = 'https://upload.wikimedia.org/wikipedia/commons/a/a4/FGC_logo_%282019%29.svg';
+const LOGO_RODALIES = 'https://upload.wikimedia.org/wikipedia/commons/2/26/Rodalies_de_Catalunya_logo.svg';
 const LOGO_AP7 = {
   imatge: 'https://upload.wikimedia.org/wikipedia/commons/5/5a/ESP_AP-7.svg',
   fitxer: 'https://commons.wikimedia.org/wiki/File:ESP_AP-7.svg'
@@ -283,6 +284,34 @@ function iconaServei(servei) {
   return { fgc: '🚆', rodalies: '🚉', transit: '🚗', emergencies: '🚨' }[servei.id] || '•';
 }
 
+function iconaServeiElement(servei) {
+  const logos = { fgc: LOGO_FGC, rodalies: LOGO_RODALIES };
+  const src = logos[servei.id];
+  if (!src) return el('span', { class: 'servei-icona', 'aria-hidden': 'true', text: iconaServei(servei) });
+
+  const fallback = servei.id === 'fgc' ? 'FGC' : 'R';
+  const imatge = el('img', {
+    class: 'servei-icona servei-icona-logo',
+    src,
+    alt: '',
+    'aria-hidden': 'true',
+    decoding: 'async'
+  });
+  imatge.addEventListener('error', () => {
+    imatge.replaceWith(el('span', {
+      class: 'servei-icona servei-icona-fallback',
+      'aria-hidden': 'true',
+      text: fallback
+    }));
+  }, { once: true });
+  return imatge;
+}
+
+function normalitzarCarretera(valor) {
+  const match = String(valor || '').trim().match(/^(AP|A|C|B|N)\s*-?\s*(\d+[A-Z]?)$/i);
+  return match ? `${match[1].toUpperCase()}-${match[2].toUpperCase()}` : null;
+}
+
 function resumAvisServei(servei, avis) {
   const contingut = `${avis.titol || ''} ${avis.detall || ''}`.replace(/\s+/g, ' ').trim();
   if (servei.id === 'rodalies') {
@@ -316,7 +345,9 @@ function resumAvisServei(servei, avis) {
   }
   if (servei.id === 'transit') {
     const parts = (avis.detall || '').split('|').map((part) => part.trim()).filter(Boolean);
-    const carretera = parts.find((part) => /^(?:C|AP|N|B)-?\d+/i.test(part)) || 'CARRETERA';
+    const carretera = normalitzarCarretera(avis.carretera)
+      || normalitzarCarretera(parts[0])
+      || 'CARRETERA';
     const sentit = parts.find((part) => /^sentit\b/i.test(part)) || '';
     const destinacio = sentit.match(/cap a\s+(.+?)(?=-?\s*un carril tallat|$)/i)?.[1]?.replace(/-/g, ' ').trim();
     const motiu = /carril\s+tallat/i.test(contingut) ? 'CARRIL TALLAT'
@@ -385,14 +416,20 @@ function targetaIncidenciaServei({ servei, resum }) {
         alt: carretera,
         decoding: 'async'
       }))
-      : el('span', { class: 'incidencia-via-text', 'aria-hidden': 'true', text: carretera })
+      : el('span', {
+        class: 'incidencia-via-text incidencia-via-carretera',
+        'aria-hidden': 'true',
+        title: `Identificador de carretera ${carretera}`,
+        text: carretera
+      })
     : null;
   const imatgeCarretera = distintiuCarretera?.querySelector('img');
   if (imatgeCarretera) {
     imatgeCarretera.addEventListener('error', () => {
       distintiuCarretera.replaceWith(el('span', {
-        class: 'incidencia-via-text',
+        class: 'incidencia-via-text incidencia-via-carretera',
         'aria-hidden': 'true',
+        title: `Identificador de carretera ${carretera}`,
         text: carretera
       }));
     }, { once: true });
@@ -556,7 +593,7 @@ function pintarServeis(dadesServeis) {
       : null;
     graella.append(el('article', { class: `servei-card ${estat.classe}` },
       el('div', { class: 'servei-resum' },
-        el('span', { class: 'servei-icona', 'aria-hidden': 'true', text: iconaServei(servei) }),
+        iconaServeiElement(servei),
         el('span', { class: 'servei-nom', text: noms[servei.id] || servei.nom }),
         el('span', { class: 'servei-badge', text: estat.text })
       ),
