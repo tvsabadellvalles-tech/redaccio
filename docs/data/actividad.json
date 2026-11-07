@@ -1476,7 +1476,14 @@
       "agente": "vigilante",
       "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
       "itemId": "b04e2362382a5a44"
+    },
+    {
+      "id": "e3ede1d2f9faa108",
+      "t": "2026-11-07T19:27:57.415Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Un Terrassa FC de dues cares guanya en el camp d'un Peña Sport que feia dos anys que no perdia a casa» (Diari de Terrassa).",
+      "itemId": "cc50e9d0be9897c5"
     }
   ],
-  "actualizado": "2026-11-07T19:05:04.355Z"
+  "actualizado": "2026-11-07T19:29:12.048Z"
 }
