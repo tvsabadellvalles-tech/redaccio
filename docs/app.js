@@ -350,8 +350,25 @@ function iconaTemps(condicio) {
   return '🌤️';
 }
 
+function etiquetaDiaPrevisio(dataISO, ara) {
+  if (!dataISO) return 'Avui';
+  const avui = dataClau(ara);
+  if (dataISO === avui) return 'Avui';
+  const dema = new Date(`${avui}T00:00:00Z`);
+  dema.setUTCDate(dema.getUTCDate() + 1);
+  if (dataISO === dema.toISOString().slice(0, 10)) return 'Demà';
+  return new Intl.DateTimeFormat('ca-ES', {
+    timeZone: ZONA,
+    weekday: 'short',
+    day: 'numeric',
+    month: 'numeric'
+  }).format(new Date(`${dataISO}T12:00:00Z`));
+}
+
 function actualitzarIconaPrevisio(ara) {
-  const horaLocal = Number(horaLocalFormat.format(ara));
+  const dataAvui = dataClau(ara);
+  const dataPrevisio = previsioActual?.dataISO || dataAvui;
+  const horaLocal = dataPrevisio === dataAvui ? Number(horaLocalFormat.format(ara)) : 9;
   const periode = horaLocal < 12 ? 'mati' : 'tarda';
   if (!previsioActual || (periode === periodePrevisio && $('previsio-icona'))) return;
 
@@ -359,10 +376,12 @@ function actualitzarIconaPrevisio(ara) {
   const condicio = previsioActual[periode];
   const icona = $('previsio-icona');
   if (!icona) return;
+  const dia = etiquetaDiaPrevisio(dataPrevisio, ara);
+  $('previsio-dia').textContent = dia;
   icona.textContent = iconaTemps(condicio);
   $('prevision-cabecera').setAttribute(
     'aria-label',
-    `Previsió d’avui al Vallès Occidental. ${periode === 'mati' ? 'Matí' : 'Tarda'}: ${condicio || 'sense dades'}. Màxima ${previsioActual.maxima} graus, mínima ${previsioActual.minima} graus.`
+    `Previsió de ${dia} al Vallès Occidental. ${periode === 'mati' ? 'Matí' : 'Tarda'}: ${condicio || 'sense dades'}. Màxima ${previsioActual.maxima} graus, mínima ${previsioActual.minima} graus.`
   );
 }
 
@@ -379,6 +398,7 @@ function pintarPrevisio(dadesServeis) {
   }
 
   caixa.append(
+    el('span', { id: 'previsio-dia', class: 'prevision-dia' }),
     el('span', { id: 'previsio-icona', class: 'prevision-icona', 'aria-hidden': 'true' }),
     el('strong', { class: 'prevision-temperatura maxima', text: `${previsio.maxima}°`, 'aria-label': `Màxima ${previsio.maxima} graus` }),
     el('strong', { class: 'prevision-temperatura minima', text: `${previsio.minima}°`, 'aria-label': `Mínima ${previsio.minima} graus` })

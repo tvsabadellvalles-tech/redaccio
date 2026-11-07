@@ -1148,6 +1148,7 @@ body {
   gap: clamp(10px, 1.25vw, 20px);
   white-space: nowrap;
 }
+.prevision-dia { color: #aab8c8; font-size: 0.78rem; }
 .prevision-icona {
   font-size: clamp(2.2rem, 3.2vw, 3.25rem);
   line-height: 1;

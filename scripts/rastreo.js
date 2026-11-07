@@ -437,11 +437,17 @@ function previsioMeteocat(xml, idComarca, ara) {
   const avui = clauDiaLocal(ara);
   const variable = [...registre.matchAll(/<variable\b[^>]*\/?>/gi)]
     .map(([element]) => atributsXml(element))
-    .find(({ data }) => {
-      const coincidencia = data?.match(/^(\d{2})-(\d{2})-(\d{4})$/);
-      return coincidencia && `${coincidencia[3]}-${coincidencia[2]}-${coincidencia[1]}` === avui;
-    });
-  if (!variable) throw new Error(`Meteocat no publica la previsió d’avui (${avui}) per a la comarca ${idComarca}`);
+    .map((atributs) => {
+      const coincidencia = atributs.data?.match(/^(\d{2})-(\d{2})-(\d{4})$/);
+      if (!coincidencia) return null;
+      const dataISO = `${coincidencia[3]}-${coincidencia[2]}-${coincidencia[1]}`;
+      const data = new Date(`${dataISO}T00:00:00Z`);
+      if (!Number.isFinite(data.getTime()) || data.toISOString().slice(0, 10) !== dataISO) return null;
+      return { ...atributs, dataISO };
+    })
+    .filter((atributs) => atributs && atributs.dataISO >= avui)
+    .sort((a, b) => a.dataISO.localeCompare(b.dataISO))[0];
+  if (!variable) throw new Error(`Meteocat no publica previsió des d’avui (${avui}) per a la comarca ${idComarca}`);
 
   const nomSimbol = (valor) => simbols.get(String(valor || '').replace(/\.png$/i, '')) || 'estat del cel no especificat';
   const estatPluja = (codi) => ({
@@ -463,8 +469,16 @@ function previsioMeteocat(xml, idComarca, ara) {
     `Pluja ${precipitacio || 'sense dades'}`,
     dataCreacio ? `Actualitzada ${dataCreacio}` : ''
   ].filter(Boolean).join(' · ');
+  const dataPrevisio = new Intl.DateTimeFormat('ca-ES', {
+    timeZone: 'Europe/Madrid',
+    weekday: 'long',
+    day: 'numeric',
+    month: 'long'
+  }).format(new Date(`${variable.dataISO}T12:00:00Z`));
   return {
     data: variable.data,
+    dataISO: variable.dataISO,
+    dataLlarga: dataPrevisio,
     actualitzat: dataCreacio,
     maxima: variable.tempmax,
     minima: variable.tempmin,
@@ -547,7 +561,7 @@ async function consultarServei(servei, ara, userAgent, parser, municipis) {
         estat: avisos.length ? 'avis' : 'previsio',
         detall: avisos.length
           ? `${avisos.length} ${avisos.length === 1 ? 'avís o preavís actiu' : 'avisos o preavisos actius'} al Vallès Occidental.`
-          : `Sense avisos actius. Previsió d’avui al Vallès Occidental: màxima ${previsio.maxima}°, mínima ${previsio.minima}°. ${previsio.detall}.`,
+          : `Sense avisos actius. Previsió de ${previsio.dataLlarga} al Vallès Occidental: màxima ${previsio.maxima}°, mínima ${previsio.minima}°. ${previsio.detall}.`,
         previsio,
         avisos
       };
