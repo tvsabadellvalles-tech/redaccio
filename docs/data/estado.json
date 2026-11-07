@@ -2,19 +2,19 @@
   "fuentes": {
     "isabadell": {
       "ok": true,
-      "items": 7
+      "items": 0
     },
     "radio-sabadell": {
       "ok": true,
-      "items": 7
+      "items": 0
     },
     "diari-sabadell": {
       "ok": true,
-      "items": 9
+      "items": 0
     },
     "diari-terrassa": {
       "ok": true,
-      "items": 3
+      "items": 0
     },
     "acn": {
       "ok": true,
@@ -81,6 +81,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-07T22:54:51.767Z",
-  "actualizado": "2026-11-07T22:55:36.980Z"
+  "consultat": "2026-11-07T23:22:45.439Z",
+  "actualizado": "2026-11-07T23:23:23.659Z"
 }

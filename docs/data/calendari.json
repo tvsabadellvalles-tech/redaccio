@@ -2,7 +2,7 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-07T22:54:51.767Z",
+  "consultat": "2026-11-07T23:22:45.439Z",
   "total": 3,
   "activitats": [
     {
@@ -13,20 +13,20 @@
       "color": null
     },
     {
-      "titol": "Ronda La Llana",
-      "inici": "2026-11-07T08:00:00.000Z",
-      "final": "2026-11-07T09:00:00.000Z",
+      "titol": "CE Sabadell 'B' - Turó Peira",
+      "inici": "2026-11-08T11:00:00.000Z",
+      "final": "2026-11-08T12:30:00.000Z",
       "totElDia": false,
       "color": null
     },
     {
-      "titol": "CN Sabadell-Catalunya",
-      "inici": "2026-11-07T11:45:00.000Z",
-      "final": "2026-11-07T12:45:00.000Z",
+      "titol": "Festa galega",
+      "inici": "2026-11-08T13:00:00.000Z",
+      "final": "2026-11-08T14:00:00.000Z",
       "totElDia": false,
       "color": null
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-07T22:55:55.775Z"
+  "actualizado": "2026-11-07T23:23:43.096Z"
 }
