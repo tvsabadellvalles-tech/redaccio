@@ -5,7 +5,7 @@
       "nom": "FGC Barcelona–Vallès",
       "enllac": "https://www.fgc.cat/adequacions-horaries/",
       "alternatiu": null,
-      "consultat": "2026-11-07T17:46:24.151Z",
+      "consultat": "2026-11-07T17:48:04.642Z",
       "estat": "cap-avis-recent",
       "detall": "Sense adequacions horàries."
     },
@@ -14,7 +14,7 @@
       "nom": "Rodalies R4 i R7",
       "enllac": "https://rodalies.gencat.cat/ca/alteracions_del_servei/",
       "alternatiu": null,
-      "consultat": "2026-11-07T17:46:24.151Z",
+      "consultat": "2026-11-07T17:48:04.642Z",
       "estat": "avis",
       "detall": "3 avisos publicats avui a les línies R4 i R7.",
       "avisos": [
@@ -49,7 +49,7 @@
       "nom": "Trànsit · Vallès Occidental",
       "enllac": "https://cit.transit.gencat.cat/",
       "alternatiu": null,
-      "consultat": "2026-11-07T17:46:24.151Z",
+      "consultat": "2026-11-07T17:48:04.642Z",
       "estat": "no-verificat",
       "detall": "No s’ha pogut consultar la font oficial: Command failed: curl --fail --silent --show-error --location --max-time 20 --user-agent TVSabadellValles-Redaccio/1.0 (contacte: pendent) --header Accept: application/json https://"
     },
@@ -58,7 +58,7 @@
       "nom": "Meteocat · Vallès Occidental",
       "enllac": "https://www.meteo.cat/prediccio/general",
       "alternatiu": null,
-      "consultat": "2026-11-07T17:46:24.151Z",
+      "consultat": "2026-11-07T17:48:04.642Z",
       "estat": "no-verificat",
       "detall": "No s’ha pogut consultar la font oficial: Meteocat no publica la previsió d’avui (2026-11-07) per a la comarca 40"
     },
@@ -67,12 +67,12 @@
       "nom": "Emergències · Protecció Civil",
       "enllac": "https://interior.gencat.cat/ca/actualitat/",
       "alternatiu": "https://govern.cat/salapremsa/notes-premsa",
-      "consultat": "2026-11-07T17:46:24.151Z",
+      "consultat": "2026-11-07T17:48:04.642Z",
       "estat": "cap-avis-recent",
       "detall": "Cap alerta local no meteorològica identificada a les alertes destacades d’Interior.",
       "avisos": []
     }
   ],
-  "consultat": "2026-11-07T17:46:24.151Z",
-  "actualizado": "2026-11-07T17:46:43.802Z"
+  "consultat": "2026-11-07T17:48:04.642Z",
+  "actualizado": "2026-11-07T17:48:27.184Z"
 }
