@@ -26,7 +26,7 @@
       "comarca": 40,
       "vies": ["C-58", "B-30", "AP-7", "N-150"],
       "tipusIncidents": ["retencions", "obres", "cons"],
-      "maxSnapshotAgeMinutes": 180
+      "maxSnapshotAgeMinutes": 5
     },
     {
       "id": "meteocat",

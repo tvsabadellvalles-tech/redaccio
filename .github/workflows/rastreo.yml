@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '*/30 * * * *'   # cada 30 min (GitHub puede retrasarlo en horas punta)
+    - cron: '*/5 * * * *'    # mínimo de GitHub Actions; puede retrasarse en horas punta
   workflow_dispatch:         # permite lanzarlo a mano desde la pestaña Actions
 
 permissions:
@@ -19,7 +19,7 @@ concurrency:
 
 jobs:
   rastrear:
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
     timeout-minutes: 10
     environment:
       name: github-pages
@@ -51,6 +51,7 @@ jobs:
             git commit -m "Rastreo: actualización de datos"
             git push
           fi
+        shell: bash
 
       - name: Configurar GitHub Pages
         uses: actions/configure-pages@v5

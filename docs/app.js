@@ -3,6 +3,7 @@
 const params = new URLSearchParams(location.search);
 const carpetaDatos = params.get('datos') ? `data/${params.get('datos').replace(/[^a-z0-9_-]/gi, '')}` : 'data';
 const REFRESCO_MS = 60000;
+const ANTIGUITAT_MAXIMA_SERVEIS_MS = 10 * 60 * 1000;
 const ANTIGUITAT_MAXIMA_DADES_MS = 45 * 60 * 1000;
 const NOVETAT_NOTICIA_MS = 15 * 60 * 1000;
 const ZONA = 'Europe/Madrid';
@@ -421,7 +422,7 @@ function pintarServeis(dadesServeis) {
 
   const consulta = dadesServeis.consultat ? new Date(dadesServeis.consultat) : null;
   const consultaValida = consulta && Number.isFinite(consulta.getTime());
-  const dadesVelles = consultaValida && Date.now() - consulta.getTime() > ANTIGUITAT_MAXIMA_DADES_MS;
+  const dadesVelles = consultaValida && Date.now() - consulta.getTime() > ANTIGUITAT_MAXIMA_SERVEIS_MS;
   $('serveis-actualitzat').textContent = consultaValida
     ? `CONSULTAT ${hora(consulta.toISOString())} · ${textRelatiu(consulta.toISOString())}${dadesVelles ? ' · DESACTUALITZAT' : ''}`
     : 'HORA DE CONSULTA DESCONEGUDA';
@@ -432,12 +433,21 @@ function pintarServeis(dadesServeis) {
   const avisos = [];
   for (const servei of dadesServeis.serveis) {
     const estat = etiquetaEstatServei(servei);
+    const dataTransit = servei.id === 'transit' && servei.actualitzat
+      ? new Date(servei.actualitzat)
+      : null;
     graella.append(el('article', { class: `servei-card ${estat.classe}` },
       el('div', { class: 'servei-resum' },
         el('span', { class: 'servei-icona', 'aria-hidden': 'true', text: iconaServei(servei) }),
         el('span', { class: 'servei-nom', text: noms[servei.id] || servei.nom }),
         el('span', { class: 'servei-badge', text: estat.text })
-      )
+      ),
+      dataTransit && Number.isFinite(dataTransit.getTime())
+        ? el('span', {
+          class: 'servei-actualitzacio',
+          text: `DADES ${hora(dataTransit.toISOString())} · ${textRelatiu(dataTransit.toISOString())}`
+        })
+        : null
     ));
     for (const avis of servei.avisos || []) {
       avisos.push({ servei, avis, resum: resumAvisServei(servei, avis) });

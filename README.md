@@ -21,7 +21,7 @@ Veureu el monitor amb notícies fictícies i el resum de l’estat dels serveis.
 
 > Si ya habías ejecutado la prueba antes de esta versión, `npm run prueba` borra y regenera sus datos (usa `--reset`), así que no hace falta limpiar nada.
 
-En local, `npm run servir` inicia un rastreig en arrencar i el repeteix cada 10 minuts (configurable amb `RASTREO_CADA_MS`). La pàgina consulta els fitxers de dades cada minut. A GitHub Pages, el workflow rastreja i publica el lloc cada 30 minuts; també ho fa en cada `push` a `main` i es pot iniciar manualment des de la pestanya Actions. GitHub pot endarrerir el `cron`, i la freqüència de publicació de cada mitjà o ajuntament és independent i no es pot garantir des del monitor.
+En local, `npm run servir` inicia un rastreig en arrencar i el repeteix cada 10 minuts (configurable amb `RASTREO_CADA_MS`). La pàgina consulta els fitxers de dades cada minut. A GitHub Pages, el workflow rastreja i publica el lloc cada 5 minuts; també ho fa en cada `push` a `main` i es pot iniciar manualment des de la pestanya Actions. Cinc minuts és el mínim de programació de GitHub Actions, i GitHub pot endarrerir el `cron`; per tant, no es pot garantir una actualització al minut.
 
 El lloc es publica a <https://tvsabadellvalles-tech.github.io/redaccio/>. El workflow configura GitHub Pages automàticament en el primer desplegament i utilitza `docs/` com a contingut del lloc.
 
@@ -34,7 +34,7 @@ El lloc es publica a <https://tvsabadellvalles-tech.github.io/redaccio/>. El wor
 | Procés | Freqüència | Què significa |
 |---|---:|---|
 | Rastreig local | A l'inici i cada 10 min | `npm run servir`; configurable amb `RASTREO_CADA_MS`. |
-| GitHub Actions | Cada 30 min | `cron` orientatiu: GitHub pot endarrerir-lo. |
+| GitHub Actions | Cada 5 min | Interval mínim programable; GitHub pot endarrerir-lo. |
 | Consulta del navegador | Cada 60 s | Torna a llegir els JSON; no força una nova ingesta. |
 | Calendari públic | Cada rastreig | Les activitats d'avui es publiquen al JSON de dades amb títol i horari, sense descripció ni assistents. |
 
@@ -56,11 +56,11 @@ La comprovació de connectivitat i parseig s'ha fet durant aquesta revisió. Un 
 | Barberà, Cerdanyola, Badia | HTTP 200 | Fonts municipals; sense novetats d'avui no vol dir que el feed falli. |
 | Sant Quirze del Vallès | Timeout intermitent en la prova directa; la ingesta completa ha acabat correctament | Configurat amb 30 s i un segon intent abans de marcar-lo com a fallit. |
 
-Les URLs i els estats d'activació es mantenen a `config/fuentes.json`; l'estat de cada font i l'hora de l'últim rastreig (`consultat`) queden a `docs/data/estado.json`. El monitor mostra aquesta frescor separada de la consulta dels serveis i marca les dades com a desactualitzades al cap de 45 minuts. La ingesta diària descarta deliberadament peces antigues i elements sense una data fiable.
+Les URLs i els estats d'activació es mantenen a `config/fuentes.json`; l'estat de cada font i l'hora de l'últim rastreig (`consultat`) queden a `docs/data/estado.json`. El monitor mostra aquesta frescor separada de la consulta dels serveis i marca els serveis com a desactualitzats al cap de 10 minuts i les notícies al cap de 45 minuts. La ingesta diària descarta deliberadament peces antigues i elements sense una data fiable.
 
 Abans de programar rastrejos, reviseu les condicions d'ús de cada web i el seu `robots.txt`, i substituïu el contacte pendent de `userAgent`. Després: `npm run servir` → <http://localhost:8080>. El rastreig local s’executa automàticament mentre el servidor és obert; també es pot llançar manualment amb `npm run rastreo`.
 
-- El monitor de serveis consulta les incidències i retards de Rodalies publicats avui a les línies R4 i R7; s'exclouen avisos antics que l'API manté a l'històric, i el text del panell diferencia retards d'interrupcions. Trànsit es consulta a la llista oficial d'incidències del Vallès Occidental, limitada a les vies configurades i a registres d'avui. Només s'accepta una càrrega de dades de fins a tres hores; la consulta usa `curl` perquè el servidor del CIT no negocia TLS amb el client HTTPS de Node. FGC i Meteocat conserven les consultes actuals. Emergències només mostra avisos no meteorològics que identifiquin el Vallès Occidental o un municipi cobert; els avisos meteorològics es mostren únicament a Meteocat. No trobar un avís local a la portada d'Interior no certifica que no hi hagi cap emergència.
+- El monitor de serveis consulta les incidències i retards de Rodalies publicats avui a les línies R4 i R7; s'exclouen avisos antics que l'API manté a l'històric, i el text del panell diferencia retards d'interrupcions. Trànsit es consulta a la llista oficial d'incidències del Vallès Occidental, limitada a les vies configurades i a registres d'avui. La resposta es verifica amb la seva hora de càrrega i es descarta si té més de cinc minuts. La ingesta usa el `curl` natiu de Windows perquè el servidor del CIT no negocia TLS amb el client HTTPS de Node ni amb el `curl` de Linux del runner de GitHub. FGC i Meteocat conserven les consultes actuals. Emergències només mostra avisos no meteorològics que identifiquin el Vallès Occidental o un municipi cobert; els avisos meteorològics es mostren únicament a Meteocat. No trobar un avís local a la portada d'Interior no certifica que no hi hagi cap emergència.
 - El monitor de notícies filtra la data de publicació al dia natural de Barcelona, tant en el rastrejador com a la interfície. Els elements sense data fiable queden fora. La configuració de prova conserva dates fixes per poder repetir les proves en qualsevol moment.
 - Meteocat es consulta a partir de les dades públiques que incorpora el visor de la seva pàgina oficial; la previsió comarcal (màximes, mínimes, cel i probabilitat de pluja) es llegeix de `https://static-m.meteo.cat/content/opendata/ctermini_comarcal.xml`. Aquest XML és una previsió, no un feed d'alertes. Si la previsió d'avui ja no hi és, el panell mostra la data futura més propera disponible i l'etiqueta com a «Demà» o amb el dia corresponent. Si canvien els formats, el panell indica «No verificat».
 - Emergències es consulta des de les alertes destacades a la portada del Departament d'Interior. No trobar una alerta destacada no certifica que no hi hagi cap incident local; el panell descriu exactament l'abast de la consulta.
@@ -76,14 +76,14 @@ Abans de programar rastrejos, reviseu les condicions d'ús de cada web i el seu 
 - **El Periódico i AEMET RSS:** El Periódico respon HTTP 406 i l'URL RSS d'AEMET retorna HTTP 404. Meteocat s'integra amb les dades públiques del visor oficial. La clau de l'API d'AEMET no s'ha afegit a cap fitxer; les credencials s'han de desar com a secrets d'entorn.
 - **La Vanguardia · Vallès Occidental:** el RSS és parsejable, però l'últim article observat era del 29 de setembre de 2026; es manté desactivat perquè no és una font recent en aquesta comprovació.
 - **Cobertura municipal:** els 23 municipis ja participen en els filtres locals, les mencions d'ACN i les alertes de Protecció Civil/Trànsit. Això no equival a tenir 23 feeds municipals: cal validar un canal recent per cada ajuntament abans d'activar-lo.
-- **Trànsit:** el recurs `uyam-bs37` és de tipus enllaç i els seus metadades exposen un RSS natiu (`https://www.gencat.cat/transit/opendata/incidenciesRSS.xml`). S'utilitza aquest RSS en comptes de fer una petició JSON que respon HTTP 403.
+- **Trànsit:** es consulta l'API oficial d'incidències del Vallès Occidental. La resposta es demana amb `curl.exe` a Windows perquè la negociació TLS falla amb els clients Node i Linux disponibles; no s'abaixa el nivell de seguretat TLS.
 - **Protecció Civil:** Telegram és un canal de missatgeria, no un feed RSS. El dataset d'activació de plans indicat retorna HTTP 404; el panell consulta les alertes destacades a la portada d'Interior. DOGC i BOPB continuen pendents de localitzar i verificar.
 
 ## Publicarlo gratis (GitHub)
 
 1. Crea un repositorio en GitHub y sube la carpeta (`git init`, `git add .`, `git commit`, `git push`).
 2. **Settings → Pages → Deploy from a branch → `main` / carpeta `/docs`.**
-3. El workflow `.github/workflows/rastreo.yml` rastrea cada 30 minutos y guarda los cambios en `docs/data/`. También se puede lanzar a mano desde la pestaña *Actions*.
+3. El workflow `.github/workflows/rastreo.yml` rastrea y publica cada 5 minutos (mínimo programable de GitHub; puede retrasarse) y guarda los cambios en `docs/data/`. También se puede lanzar a mano desde la pestaña *Actions*.
 
 Cosas que conviene comprobar en la documentación de GitHub, porque cambian:
 

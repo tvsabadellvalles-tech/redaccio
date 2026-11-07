@@ -277,24 +277,30 @@ async function descarregarResposta(url, accept, userAgent, capcaleres = {}) {
 
 async function descarregarJsonTransit(url, userAgent) {
   const executavel = process.platform === 'win32' ? 'curl.exe' : 'curl';
-  const { stdout } = await executarFitxer(executavel, [
-    '--fail',
-    '--silent',
-    '--show-error',
-    '--location',
-    '--max-time',
-    '20',
-    '--user-agent',
-    userAgent,
-    '--header',
-    'Accept: application/json',
-    url
-  ], {
-    encoding: 'utf8',
-    timeout: 25000,
-    maxBuffer: 10 * 1024 * 1024,
-    windowsHide: true
-  });
+  let stdout;
+  try {
+    ({ stdout } = await executarFitxer(executavel, [
+      '--fail',
+      '--silent',
+      '--show-error',
+      '--location',
+      '--max-time',
+      '20',
+      '--user-agent',
+      userAgent,
+      '--header',
+      'Accept: application/json',
+      url
+    ], {
+      encoding: 'utf8',
+      timeout: 25000,
+      maxBuffer: 10 * 1024 * 1024,
+      windowsHide: true
+    }));
+  } catch (error) {
+    const diagnòstic = error.stderr?.trim() || error.code || error.message || error;
+    throw new Error(`curl: ${diagnòstic}`, { cause: error });
+  }
   return JSON.parse(stdout);
 }
 
