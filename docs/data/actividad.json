@@ -1504,7 +1504,35 @@
       "agente": "vigilante",
       "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
       "itemId": "815fc478f6cffd76"
+    },
+    {
+      "id": "0d00ed30284e7567",
+      "t": "2026-11-07T21:13:14.602Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El COAC celebra la Festa d'Arquitectes del Vallès a l'Aeroport de Sabadell» (Diari de Sabadell).",
+      "itemId": "d2c3da9770b2301d"
+    },
+    {
+      "id": "98d1830aafd1c6dc",
+      "t": "2026-11-07T21:13:14.603Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "d2c3da9770b2301d"
+    },
+    {
+      "id": "8c05f22a1e746fce",
+      "t": "2026-11-07T21:13:14.604Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Sabadell planta cara a l’oblit i restitueix la memòria de les víctimes de la repressió franquista» (Diari de Sabadell).",
+      "itemId": "6d7bc97310d8e7fd"
+    },
+    {
+      "id": "fcb604facca2c1ca",
+      "t": "2026-11-07T21:13:14.605Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "6d7bc97310d8e7fd"
     }
   ],
-  "actualizado": "2026-11-07T20:03:08.526Z"
+  "actualizado": "2026-11-07T21:14:17.250Z"
 }
