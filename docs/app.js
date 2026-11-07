@@ -591,7 +591,7 @@ function pintarServeis(dadesServeis) {
     const dataTransit = servei.id === 'transit' && servei.actualitzat
       ? new Date(servei.actualitzat)
       : null;
-    graella.append(el('article', { class: `servei-card ${estat.classe}` },
+    graella.append(el('article', { class: `servei-card servei-card-${servei.id} ${estat.classe}` },
       el('div', { class: 'servei-resum' },
         iconaServeiElement(servei),
         el('span', { class: 'servei-nom', text: noms[servei.id] || servei.nom }),

@@ -1897,3 +1897,9 @@ body {
 @media (prefers-reduced-motion: reduce) {
   .servei-incidencia { transition: none; }
 }
+.servei-card-rodalies .servei-resum { grid-template-columns: 62px minmax(0, 1fr); }
+.servei-card-rodalies .servei-icona-logo { width: 58px; height: 30px; }
+@media (max-width: 699px) {
+  .servei-card-rodalies .servei-resum { grid-template-columns: 52px minmax(0, 1fr); }
+  .servei-card-rodalies .servei-icona-logo { width: 48px; height: 26px; }
+}
