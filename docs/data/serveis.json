@@ -5,7 +5,7 @@
       "nom": "FGC Barcelona–Vallès",
       "enllac": "https://www.fgc.cat/adequacions-horaries/",
       "alternatiu": null,
-      "consultat": "2026-11-07T17:48:04.642Z",
+      "consultat": "2026-11-07T17:55:39.264Z",
       "estat": "cap-avis-recent",
       "detall": "Sense adequacions horàries."
     },
@@ -14,7 +14,7 @@
       "nom": "Rodalies R4 i R7",
       "enllac": "https://rodalies.gencat.cat/ca/alteracions_del_servei/",
       "alternatiu": null,
-      "consultat": "2026-11-07T17:48:04.642Z",
+      "consultat": "2026-11-07T17:55:39.264Z",
       "estat": "avis",
       "detall": "3 avisos publicats avui a les línies R4 i R7.",
       "avisos": [
@@ -49,7 +49,7 @@
       "nom": "Trànsit · Vallès Occidental",
       "enllac": "https://cit.transit.gencat.cat/",
       "alternatiu": null,
-      "consultat": "2026-11-07T17:48:04.642Z",
+      "consultat": "2026-11-07T17:55:39.264Z",
       "estat": "no-verificat",
       "detall": "No s’ha pogut consultar la font oficial: Command failed: curl --fail --silent --show-error --location --max-time 20 --user-agent TVSabadellValles-Redaccio/1.0 (contacte: pendent) --header Accept: application/json https://"
     },
@@ -58,21 +58,34 @@
       "nom": "Meteocat · Vallès Occidental",
       "enllac": "https://www.meteo.cat/prediccio/general",
       "alternatiu": null,
-      "consultat": "2026-11-07T17:48:04.642Z",
-      "estat": "no-verificat",
-      "detall": "No s’ha pogut consultar la font oficial: Meteocat no publica la previsió d’avui (2026-11-07) per a la comarca 40"
+      "consultat": "2026-11-07T17:55:39.264Z",
+      "estat": "previsio",
+      "detall": "Sense avisos actius. Previsió de diumenge, 8 de novembre al Vallès Occidental: màxima 19°, mínima 9°. sol i núvols alts al matí · entre mig i molt ennuvolat a la tarda · Pluja matí: No se n’espera · tarda: No es descarta (<10%) · Actualitzada 07-11-2026 15:00:00.",
+      "previsio": {
+        "data": "08-11-2026",
+        "dataISO": "2026-11-08",
+        "dataLlarga": "diumenge, 8 de novembre",
+        "actualitzat": "07-11-2026 15:00:00",
+        "maxima": "19",
+        "minima": "9",
+        "mati": "sol i núvols alts",
+        "tarda": "entre mig i molt ennuvolat",
+        "precipitacio": "matí: No se n’espera · tarda: No es descarta (<10%)",
+        "detall": "sol i núvols alts al matí · entre mig i molt ennuvolat a la tarda · Pluja matí: No se n’espera · tarda: No es descarta (<10%) · Actualitzada 07-11-2026 15:00:00"
+      },
+      "avisos": []
     },
     {
       "id": "emergencies",
       "nom": "Emergències · Protecció Civil",
       "enllac": "https://interior.gencat.cat/ca/actualitat/",
       "alternatiu": "https://govern.cat/salapremsa/notes-premsa",
-      "consultat": "2026-11-07T17:48:04.642Z",
+      "consultat": "2026-11-07T17:55:39.264Z",
       "estat": "cap-avis-recent",
       "detall": "Cap alerta local no meteorològica identificada a les alertes destacades d’Interior.",
       "avisos": []
     }
   ],
-  "consultat": "2026-11-07T17:48:04.642Z",
-  "actualizado": "2026-11-07T17:48:27.184Z"
+  "consultat": "2026-11-07T17:55:39.264Z",
+  "actualizado": "2026-11-07T17:56:01.711Z"
 }
