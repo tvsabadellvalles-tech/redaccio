@@ -54,8 +54,6 @@ jobs:
 
       - name: Configurar GitHub Pages
         uses: actions/configure-pages@v5
-        with:
-          enablement: true
 
       - name: Preparar archivos del sitio
         uses: actions/upload-pages-artifact@v3
