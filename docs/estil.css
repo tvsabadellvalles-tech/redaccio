@@ -1584,6 +1584,12 @@ body {
   overscroll-behavior: contain;
   scrollbar-width: none;
 }
+.noticies-cicle {
+  display: flex;
+  width: 100%;
+  flex: 0 0 auto;
+  flex-direction: column;
+}
 .llista-noticies::-webkit-scrollbar {
   display: none;
 }
