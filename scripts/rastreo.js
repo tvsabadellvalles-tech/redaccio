@@ -610,14 +610,15 @@ async function consultarServei(servei, ara, userAgent, parser, municipis) {
     }
     if (servei.tipus === 'transit') {
       const dades = await descarregarJsonTransit(urlIncidentsTransit(servei), userAgent);
+      const araTransit = new Date();
       if (!Array.isArray(dades.incidents)) throw new Error('La API de Trànsit no inclou la llista d’incidències');
       const dataCarrega = Number(dades.dataCarrega);
-      if (!Number.isFinite(dataCarrega) || dataCarrega <= 0 || dataCarrega > ara.getTime()) {
+      if (!Number.isFinite(dataCarrega) || dataCarrega <= 0 || dataCarrega > araTransit.getTime()) {
         throw new Error('La API de Trànsit no inclou una data de càrrega vàlida');
       }
-      const antiguitatCarrega = ara.getTime() - dataCarrega;
+      const antiguitatCarrega = araTransit.getTime() - dataCarrega;
       if (antiguitatCarrega > (servei.maxSnapshotAgeMinutes || 180) * 60000) {
-        throw new Error('Les dades de Trànsit tenen més de tres hores i no es poden donar per actuals');
+        throw new Error(`Les dades de Trànsit tenen més de ${servei.maxSnapshotAgeMinutes || 180} minuts i no es poden donar per actuals`);
       }
       const vies = new Set(servei.vies || []);
       const avisos = dades.incidents
@@ -647,8 +648,8 @@ async function consultarServei(servei, ara, userAgent, parser, municipis) {
           avís.publicat &&
           avís.comarca === Number(servei.comarca) &&
           vies.has(avís.carretera) &&
-          clauDiaLocal(new Date(avís.publicat)) === clauDiaLocal(ara) &&
-          new Date(avís.publicat).getTime() <= ara.getTime()
+          clauDiaLocal(new Date(avís.publicat)) === clauDiaLocal(araTransit) &&
+          new Date(avís.publicat).getTime() <= araTransit.getTime()
         )
         .sort((a, b) => new Date(b.publicat) - new Date(a.publicat))
         .slice(0, 5);
