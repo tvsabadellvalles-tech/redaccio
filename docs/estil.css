@@ -1431,14 +1431,68 @@ body {
   box-shadow: 0 0 0 0 #ff525d;
 }
 .incidencia-titol {
-  display: -webkit-box;
-  overflow: hidden;
+  display: flex;
+  min-width: 0;
+  align-items: center;
+  gap: 8px;
   color: #ffe3e5;
   font-size: clamp(0.92rem, 1.12vw, 1.3rem);
   font-weight: 700;
   line-height: 1.15;
+}
+.incidencia-motiu {
+  display: -webkit-box;
+  min-width: 0;
+  overflow: hidden;
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 2;
+}
+.incidencia-via-logo {
+  width: clamp(42px, 4vw, 58px);
+  height: auto;
+  flex: none;
+  border-radius: 3px;
+}
+.incidencia-logo-enllac {
+  display: inline-flex;
+  width: 30px;
+  height: 30px;
+  flex: none;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+}
+.incidencia-logo-enllac:focus-visible {
+  outline: 2px solid #fff;
+  outline-offset: 2px;
+}
+.incidencia-logo-linia {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+.incidencia-logo-fgc {
+  width: 52px;
+  height: 24px;
+  flex: none;
+  object-fit: contain;
+}
+.incidencia-via-text {
+  display: inline-flex;
+  min-width: 44px;
+  height: 23px;
+  flex: none;
+  align-items: center;
+  justify-content: center;
+  padding: 0 5px;
+  border: 1px solid #d6e0ea;
+  border-radius: 5px;
+  background: #e9eef4;
+  color: #152538;
+  font-size: 0.66em;
+  font-weight: 800;
+  line-height: 1;
 }
 .servei-incidencia.emergencies .incidencia-titol,
 .servei-incidencia.meteocat .incidencia-titol { color: #ffc2c7; }

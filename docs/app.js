@@ -8,6 +8,29 @@ const ANTIGUITAT_MAXIMA_DADES_MS = 45 * 60 * 1000;
 const NOVETAT_NOTICIA_MS = 15 * 60 * 1000;
 const ZONA = 'Europe/Madrid';
 const $ = (id) => document.getElementById(id);
+const LOGOS_LINIA = {
+  R4: {
+    imatge: 'https://upload.wikimedia.org/wikipedia/commons/a/a1/R4_barcelona.svg',
+    fitxer: 'https://commons.wikimedia.org/wiki/File:R4_barcelona.svg',
+    atribucio: 'Vilarrubla · CC BY-SA 3.0'
+  },
+  R7: {
+    imatge: 'https://upload.wikimedia.org/wikipedia/commons/c/c0/R7_barcelona.svg',
+    fitxer: 'https://commons.wikimedia.org/wiki/File:R7_barcelona.svg',
+    atribucio: 'Vilarrubla · CC BY-SA 3.0'
+  },
+  S1: {
+    imatge: 'https://upload.wikimedia.org/wikipedia/commons/e/e3/S1_barcelona.svg',
+    fitxer: 'https://commons.wikimedia.org/wiki/File:S1_barcelona.svg',
+    atribucio: 'Vilarrubla · CC BY-SA 3.0'
+  },
+  S2: {
+    imatge: 'https://upload.wikimedia.org/wikipedia/commons/e/ef/S2_barcelona.svg',
+    fitxer: 'https://commons.wikimedia.org/wiki/File:S2_barcelona.svg',
+    atribucio: 'Vilarrubla · CC BY-SA 3.0'
+  }
+};
+const LOGO_FGC = 'https://upload.wikimedia.org/wikipedia/commons/a/a4/FGC_logo_%282019%29.svg';
 
 function el(tag, props = {}, ...fills) {
   const node = document.createElement(tag);
@@ -230,7 +253,7 @@ function etiquetaEstatServei(servei) {
     return { text: 'SENSE AVISOS', classe: 'servei-ok' };
   }
   if (servei.estat === 'avis') {
-    const total = servei.avisos?.length || 0;
+    const total = servei.id === 'fgc' && !servei.avisos?.length ? 1 : servei.avisos?.length || 0;
     const text = servei.id === 'emergencies'
       ? `${total} ${total === 1 ? 'ALERTA' : 'ALERTES'}`
       : ['rodalies', 'transit'].includes(servei.id)
@@ -259,7 +282,7 @@ function iconaServei(servei) {
 function resumAvisServei(servei, avis) {
   const contingut = `${avis.titol || ''} ${avis.detall || ''}`.replace(/\s+/g, ' ').trim();
   if (servei.id === 'rodalies') {
-    const linies = avis.linies?.join(' / ') || contingut.match(/\bR[1-9]\b/gi)?.join(' / ');
+    const linies = avis.linies?.length ? avis.linies : [...new Set(contingut.match(/\bR[1-9]\b/gi) || [])];
     const estacions = contingut.match(/entre\s+(.+?)\s+i\s+(.+?)(?:\.|,| Es recomana|$)/i);
     const retards = contingut.match(/(?:superar|superiors(?:\s+a)?)\s+(?:els?\s+)?(\d+)\s+minuts?/i);
     const titol = /interromp|suspendr|tallad[ae]/i.test(contingut)
@@ -270,10 +293,21 @@ function resumAvisServei(servei, avis) {
           ? 'RETARDS'
           : 'AVÍS DE CIRCULACIÓ';
     return {
-      titol: `${linies ? `${linies} · ` : ''}${titol}`,
+      titol: `${linies.length ? `${linies.join(' / ')} · ` : ''}${titol}`,
+      linies,
       detall: estacions
         ? `${estacions[1].trim()} → ${estacions[2].trim()}`
         : `${contingut.slice(0, 100)}${contingut.length > 100 ? '…' : ''}`
+    };
+  }
+  if (servei.id === 'fgc') {
+    const linies = avis.linies?.length
+      ? avis.linies.map((linia) => String(linia).toUpperCase())
+      : [...new Set(contingut.match(/\bS[1-9]\b/gi) || [])].map((linia) => linia.toUpperCase());
+    return {
+      titol: `${linies.length ? `${linies.join(' / ')} · ` : ''}AVÍS DE SERVEI`,
+      linies,
+      detall: `${contingut.slice(0, 100)}${contingut.length > 100 ? '…' : ''}`
     };
   }
   if (servei.id === 'transit') {
@@ -289,6 +323,7 @@ function resumAvisServei(servei, avis) {
     const direccio = sentit.match(/^sentit\s+(\w+)/i)?.[1];
     return {
       titol: `${carretera} · ${motiu}`,
+      carretera,
       detall: [parts[1] || '', direccio ? `Sentit ${direccio.toLocaleLowerCase('ca')}` : '', destinacio ? `cap a ${destinacio}` : '', parts.find((part) => /^Punt km\./i.test(part)) || '', parts.find((part) => /^HORARI:/i.test(part)) || ''].filter(Boolean).join(' · ')
     };
   }
@@ -307,12 +342,79 @@ function resumAvisServei(servei, avis) {
 
 function targetaIncidenciaServei({ servei, resum }) {
   const noms = { fgc: 'FGC', rodalies: 'Rodalies', transit: 'Trànsit', meteocat: 'Meteocat', emergencies: 'Emergències' };
+  const carretera = resum.carretera;
+  const distintiusLinies = (resum.linies || []).map((linia) => {
+    const logo = Object.prototype.hasOwnProperty.call(LOGOS_LINIA, linia) ? LOGOS_LINIA[linia] : null;
+    if (!logo) return el('span', { class: 'incidencia-via-text', 'aria-hidden': 'true', text: linia });
+    const atribucio = `${linia} · ${logo.atribucio} · Wikimedia Commons`;
+    const enllac = el('a', {
+      class: 'incidencia-logo-enllac',
+      href: logo.fitxer,
+      target: '_blank',
+      rel: 'noopener noreferrer',
+      title: atribucio,
+      'aria-label': `${linia}, ${logo.atribucio}; veure el fitxer a Wikimedia Commons`
+    });
+    const imatge = el('img', {
+      class: 'incidencia-logo-linia',
+      src: logo.imatge,
+      alt: linia,
+      decoding: 'async'
+    });
+    imatge.addEventListener('error', () => {
+      enllac.replaceWith(el('span', { class: 'incidencia-via-text', 'aria-hidden': 'true', text: linia }));
+    }, { once: true });
+    enllac.append(imatge);
+    return enllac;
+  });
+  const distintiuCarretera = carretera
+    ? carretera === 'AP-7'
+      ? el('img', {
+        class: 'incidencia-via-logo',
+        src: 'https://www.radiovila-real.es/wp-content/uploads/2019/08/ap7.png',
+        alt: carretera,
+        'aria-hidden': 'true',
+        decoding: 'async'
+      })
+      : el('span', { class: 'incidencia-via-text', 'aria-hidden': 'true', text: carretera })
+    : null;
+  if (distintiuCarretera?.tagName === 'IMG') {
+    distintiuCarretera.addEventListener('error', () => {
+      distintiuCarretera.replaceWith(el('span', {
+        class: 'incidencia-via-text',
+        'aria-hidden': 'true',
+        text: carretera
+      }));
+    }, { once: true });
+  }
+  const distintiuFgc = servei.id === 'fgc' && !distintiusLinies.length
+    ? el('img', {
+      class: 'incidencia-logo-fgc',
+      src: LOGO_FGC,
+      alt: '',
+      'aria-hidden': 'true',
+      decoding: 'async'
+    })
+    : null;
+  distintiuFgc?.addEventListener('error', () => {
+    distintiuFgc.replaceWith(el('span', { class: 'incidencia-via-text', 'aria-hidden': 'true', text: 'FGC' }));
+  }, { once: true });
+  const titol = carretera
+    ? resum.titol.slice(`${carretera} · `.length)
+    : resum.linies?.length
+      ? resum.titol.slice(`${resum.linies.join(' / ')} · `.length)
+      : resum.titol;
   return el('article', { class: `servei-incidencia ${servei.id}`, 'aria-label': `${noms[servei.id] || servei.nom}: ${resum.titol}` },
     el('div', { class: 'incidencia-font' },
       el('span', { 'aria-hidden': 'true', text: iconaServei(servei) }),
       el('span', { text: noms[servei.id] || servei.nom })
     ),
-    el('strong', { class: 'incidencia-titol', text: resum.titol }),
+    el('strong', { class: 'incidencia-titol' },
+      ...distintiusLinies,
+      distintiuCarretera,
+      distintiuFgc,
+      el('span', { class: 'incidencia-motiu', text: titol })
+    ),
     resum.detall ? el('p', { class: 'incidencia-detall', text: resum.detall }) : null
   );
 }
@@ -455,7 +557,10 @@ function pintarServeis(dadesServeis) {
         })
         : null
     ));
-    for (const avis of servei.avisos || []) {
+    const avisosServei = servei.id === 'fgc' && servei.estat === 'avis' && !servei.avisos?.length
+      ? [{ titol: servei.detall, detall: servei.detall }]
+      : servei.avisos || [];
+    for (const avis of avisosServei) {
       avisos.push({ servei, avis, resum: resumAvisServei(servei, avis) });
     }
   }
