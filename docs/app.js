@@ -775,13 +775,10 @@ carregar();
 setInterval(() => {
   if (document.hidden) return;
   carregar();
-  if (avisosServeis.length > 1 && !temporitzadorTransicioAvis) {
-    mostrarAvisServei((indexAvisServei + 1) % avisosServeis.length, true);
-  }
 }, REFRESCO_MS);
 setInterval(() => {
   if (document.hidden || avisosServeis.length < 2 || temporitzadorTransicioAvis !== null) return;
-  mostrarAvisServei((indexAvisServei + 1) % avisosServeis.length, true);
+  mostrarAvisServei(indexAvisServei, true);
 }, TEMPS_AVIS_SERVEI_MS);
 document.addEventListener('visibilitychange', () => {
   if (!document.hidden) {
