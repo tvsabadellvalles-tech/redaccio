@@ -1448,10 +1448,20 @@ body {
   -webkit-line-clamp: 2;
 }
 .incidencia-via-logo {
-  width: clamp(42px, 4vw, 58px);
+  display: block;
+  width: clamp(56px, 5vw, 72px);
   height: auto;
-  flex: none;
   border-radius: 3px;
+}
+.incidencia-logo-carretera {
+  display: inline-flex;
+  flex: none;
+  align-items: center;
+  border-radius: 3px;
+}
+.incidencia-logo-carretera:focus-visible {
+  outline: 2px solid #fff;
+  outline-offset: 2px;
 }
 .incidencia-logo-enllac {
   display: inline-flex;

@@ -31,6 +31,10 @@ const LOGOS_LINIA = {
   }
 };
 const LOGO_FGC = 'https://upload.wikimedia.org/wikipedia/commons/a/a4/FGC_logo_%282019%29.svg';
+const LOGO_AP7 = {
+  imatge: 'https://upload.wikimedia.org/wikipedia/commons/5/5a/ESP_AP-7.svg',
+  fitxer: 'https://commons.wikimedia.org/wiki/File:ESP_AP-7.svg'
+};
 
 function el(tag, props = {}, ...fills) {
   const node = document.createElement(tag);
@@ -369,17 +373,23 @@ function targetaIncidenciaServei({ servei, resum }) {
   });
   const distintiuCarretera = carretera
     ? carretera === 'AP-7'
-      ? el('img', {
+      ? el('a', {
+        class: 'incidencia-logo-carretera',
+        href: LOGO_AP7.fitxer,
+        target: '_blank',
+        rel: 'noopener noreferrer',
+        title: 'Senyal AP-7 · Wikimedia Commons'
+      }, el('img', {
         class: 'incidencia-via-logo',
-        src: 'https://www.radiovila-real.es/wp-content/uploads/2019/08/ap7.png',
+        src: LOGO_AP7.imatge,
         alt: carretera,
-        'aria-hidden': 'true',
         decoding: 'async'
-      })
+      }))
       : el('span', { class: 'incidencia-via-text', 'aria-hidden': 'true', text: carretera })
     : null;
-  if (distintiuCarretera?.tagName === 'IMG') {
-    distintiuCarretera.addEventListener('error', () => {
+  const imatgeCarretera = distintiuCarretera?.querySelector('img');
+  if (imatgeCarretera) {
+    imatgeCarretera.addEventListener('error', () => {
       distintiuCarretera.replaceWith(el('span', {
         class: 'incidencia-via-text',
         'aria-hidden': 'true',
