@@ -108,6 +108,138 @@
   },
   "items": [
     {
+      "id": "3a5b05836b4cb8fe",
+      "titulo": "Parlem d'Òpera 663: \"Anem a descobrir (LIV): Lalla Roukh\"",
+      "enlace": "https://radiosabadell.fm/alacarta/audio/parlem-dopera-663-anem-descobrir-liv-lalla-roukh",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-07T16:12:44.000Z",
+      "detectado": "2026-11-07T17:42:53.801Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "324b6d68d53ea35c",
+      "titulo": "Instal·len nous reductors de velocitat i passos de vianants elevats en una quarantena de carrers",
+      "enlace": "https://www.diaridesabadell.com/sabadell/installen-nous-reductors-de-velocitat-i-passos-de-vianants-elevats-en-una-quarantena-de-carrers.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-07T14:17:05.000Z",
+      "detectado": "2026-11-07T17:42:53.801Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "1d340799997a4ca4",
+      "titulo": "Martí Gironell: \"Les remeieres eren temudes i rebutjades, però necessitades com l’aire”",
+      "enlace": "https://www.diaridesabadell.com/oci-cultura/marti-gironell-malaveina-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-07T14:16:15.000Z",
+      "detectado": "2026-11-07T17:42:53.801Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "2f0e721799642974",
+      "titulo": "El pop pren el protagonisme a l’Eix Macià",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/pop-festa-do-pulpo-eix-macia",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-07T13:12:11.000Z",
+      "detectado": "2026-11-07T17:42:53.801Z",
+      "sensible": false,
+      "etiquetas": [
+        "salud",
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "14bfdbaab1d0d8d1",
+      "titulo": "Incendi al barri de La Creu Alta crema diverses motos",
+      "enlace": "https://www.isabadell.cat/successos/incendi-al-barri-de-la-creu-alta-crema-diverses-motos-340252/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-07T13:06:30.000Z",
+      "detectado": "2026-11-07T17:42:53.801Z",
+      "sensible": false,
+      "etiquetas": [
+        "emergencias"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "emergències"
+      ],
+      "duplicadaDe": "4638d842f9d92d51",
+      "propuesta": false
+    },
+    {
+      "id": "7c83cb043b8f4e2e",
+      "titulo": "Desmantellen un cultiu de marihuana en un pis de Cerdanyola",
+      "enlace": "https://www.isabadell.cat/valles/cerdanyola/desmantellen-un-cultiu-de-marihuana-en-un-pis-de-cerdanyola-340247/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "cerdanyola"
+      ],
+      "publicado": "2026-11-07T12:46:44.000Z",
+      "detectado": "2026-11-07T17:42:53.801Z",
+      "sensible": true,
+      "etiquetas": [
+        "sucesos",
+        "urbanismo"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "successos, obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
       "id": "d66d1a536597f63e",
       "titulo": "Cau una xarxa que facilitava l’entrada irregular d’immigrants pakistanesos",
       "enlace": "https://www.isabadell.cat/successos/cau-una-xarxa-que-facilitava-lentrada-irregular-dimmigrants-pakistanesos-340243/",
@@ -413,5 +545,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-07T12:36:24.936Z"
+  "actualizado": "2026-11-07T17:43:56.713Z"
 }

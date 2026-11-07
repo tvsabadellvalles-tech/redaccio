@@ -1329,7 +1329,84 @@
       "agente": "vigilante",
       "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
       "itemId": "d66d1a536597f63e"
+    },
+    {
+      "id": "0aab83cd236731af",
+      "t": "2026-11-07T17:42:53.803Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Desmantellen un cultiu de marihuana en un pis de Cerdanyola» (iSabadell).",
+      "itemId": "7c83cb043b8f4e2e"
+    },
+    {
+      "id": "4734b3c8d8e679c8",
+      "t": "2026-11-07T17:42:53.804Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Successos, Obres i urbanisme.",
+      "itemId": "7c83cb043b8f4e2e"
+    },
+    {
+      "id": "d149e00251d55fb8",
+      "t": "2026-11-07T17:42:53.805Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "7c83cb043b8f4e2e"
+    },
+    {
+      "id": "4dd6454647033cb1",
+      "t": "2026-11-07T17:42:53.806Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): successos, obres i urbanisme.",
+      "itemId": "7c83cb043b8f4e2e"
+    },
+    {
+      "id": "39afa307ee5c6771",
+      "t": "2026-11-07T17:42:53.807Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Incendi al barri de La Creu Alta crema diverses motos» (iSabadell).",
+      "itemId": "14bfdbaab1d0d8d1"
+    },
+    {
+      "id": "640ea3e82362af70",
+      "t": "2026-11-07T17:42:53.808Z",
+      "agente": "deduplicador",
+      "texto": "Descartada perquè és duplicada: coincideix amb «Un incendi crema una dotzena de motos al barri de la Creu Alta» (Diari de Sabadell).",
+      "itemId": "14bfdbaab1d0d8d1"
+    },
+    {
+      "id": "28e22be0b0ec7502",
+      "t": "2026-11-07T17:42:53.809Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El pop pren el protagonisme a l’Eix Macià» (Ràdio Sabadell).",
+      "itemId": "2f0e721799642974"
+    },
+    {
+      "id": "96df45fd729cd836",
+      "t": "2026-11-07T17:42:53.810Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut, Cultura i festes.",
+      "itemId": "2f0e721799642974"
+    },
+    {
+      "id": "2e29e1467edbf2be",
+      "t": "2026-11-07T17:42:53.811Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Martí Gironell: \"Les remeieres eren temudes i rebutjades, però necessitades com l’aire”» (Diari de Sabadell).",
+      "itemId": "1d340799997a4ca4"
+    },
+    {
+      "id": "db651b91db9d079a",
+      "t": "2026-11-07T17:42:53.812Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Instal·len nous reductors de velocitat i passos de vianants elevats en una quarantena de carrers» (Diari de Sabadell).",
+      "itemId": "324b6d68d53ea35c"
+    },
+    {
+      "id": "fbb380e8f87d02ec",
+      "t": "2026-11-07T17:42:53.813Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Parlem d'Òpera 663: \"Anem a descobrir (LIV): Lalla Roukh\"» (Ràdio Sabadell).",
+      "itemId": "3a5b05836b4cb8fe"
     }
   ],
-  "actualizado": "2026-11-07T12:36:24.944Z"
+  "actualizado": "2026-11-07T17:43:56.715Z"
 }
