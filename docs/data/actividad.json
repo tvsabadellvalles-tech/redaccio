@@ -1448,7 +1448,21 @@
       "agente": "vigilante",
       "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
       "itemId": "0033808de981a82e"
+    },
+    {
+      "id": "982a81974d720026",
+      "t": "2026-11-07T18:45:04.615Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Sabadell restitueix la memòria de les víctimes del franquisme» (Ràdio Sabadell).",
+      "itemId": "c7d3f51c0d680bac"
+    },
+    {
+      "id": "8ade61f8995a7e3c",
+      "t": "2026-11-07T18:45:04.616Z",
+      "agente": "deduplicador",
+      "texto": "Descartada perquè és duplicada: coincideix amb «Sabadell restitueix la memòria de les víctimes del franquisme» (Ràdio Sabadell).",
+      "itemId": "c7d3f51c0d680bac"
     }
   ],
-  "actualizado": "2026-11-07T18:30:16.183Z"
+  "actualizado": "2026-11-07T18:45:22.903Z"
 }

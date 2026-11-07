@@ -155,6 +155,34 @@
       "propuesta": true
     },
     {
+      "id": "c7d3f51c0d680bac",
+      "titulo": "Sabadell restitueix la memòria de les víctimes del franquisme",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/acte-restitucio-memoria-democratica-071126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-07T18:11:33.000Z",
+      "detectado": "2026-11-07T18:45:04.612Z",
+      "sensible": true,
+      "etiquetas": [
+        "movilidad",
+        "politica",
+        "salud",
+        "deportes"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "mobilitat, política local, salut"
+      ],
+      "duplicadaDe": "a6b8bbf018142d37",
+      "propuesta": false
+    },
+    {
       "id": "3a5b05836b4cb8fe",
       "titulo": "Parlem d'Òpera 663: \"Anem a descobrir (LIV): Lalla Roukh\"",
       "enlace": "https://radiosabadell.fm/alacarta/audio/parlem-dopera-663-anem-descobrir-liv-lalla-roukh",
@@ -592,5 +620,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-07T18:30:16.180Z"
+  "actualizado": "2026-11-07T18:45:22.901Z"
 }
