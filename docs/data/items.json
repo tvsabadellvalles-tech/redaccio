@@ -108,6 +108,27 @@
   },
   "items": [
     {
+      "id": "b04e2362382a5a44",
+      "titulo": "Sabadell homenatja les víctimes dels judicis sumaríssims franquistes",
+      "enlace": "https://www.isabadell.cat/societat/sabadell-homenatja-les-victimes-dels-judicis-sumarissims-franquistes-340259/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-07T18:58:32.000Z",
+      "detectado": "2026-11-07T19:03:46.330Z",
+      "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "0033808de981a82e",
       "titulo": "'Som la Ceba!' reivindica el joc compartit com a alternativa a les pantalles",
       "enlace": "https://www.diaridesabadell.com/sabadell/som-la-ceba-2026-sabadell.html",
@@ -236,6 +257,34 @@
       "etiquetas": [],
       "puntuacion": 0,
       "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "f21bb6e28a172b06",
+      "titulo": "Sabadell-Real Sociedad 'B': per Jesús de Miguel",
+      "enlace": "https://radiosabadell.fm/esports/ce-sabadell/sabadell-real-sociedad-laliga-hypermotion-jornada-13",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-07T13:26:38.000Z",
+      "detectado": "2026-11-07T09:18:33.306Z",
+      "sensible": false,
+      "etiquetas": [
+        "salud",
+        "medioambiente",
+        "deportes",
+        "cultura"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "salut, medi ambient"
+      ],
       "duplicadaDe": null,
       "propuesta": false
     },
@@ -430,34 +479,6 @@
       "propuesta": true
     },
     {
-      "id": "f21bb6e28a172b06",
-      "titulo": "Sabadell-Real Sociedad 'B': per Jesús de Miguel",
-      "enlace": "https://radiosabadell.fm/esports/ce-sabadell/sabadell-real-sociedad-laliga-hypermotion-jornada-13",
-      "fuente": "radio-sabadell",
-      "fuenteNombre": "Ràdio Sabadell",
-      "tipo": "medio",
-      "resumen": "",
-      "municipio": "sabadell",
-      "municipiosMencionados": [
-        "sabadell"
-      ],
-      "publicado": "2026-11-07T09:26:38.000Z",
-      "detectado": "2026-11-07T09:18:33.306Z",
-      "sensible": false,
-      "etiquetas": [
-        "salud",
-        "medioambiente",
-        "deportes",
-        "cultura"
-      ],
-      "puntuacion": 2,
-      "motivos": [
-        "salut, medi ambient"
-      ],
-      "duplicadaDe": null,
-      "propuesta": false
-    },
-    {
       "id": "53b39370ee3ba19f",
       "titulo": "Trobar la primera feina continua sent un repte",
       "enlace": "https://www.diaridesabadell.com/diners/fotos-participants-experiencies-fira-ocupacio-valles-treball-cambra-sabadell.html",
@@ -620,5 +641,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-07T18:45:22.901Z"
+  "actualizado": "2026-11-07T19:05:04.351Z"
 }

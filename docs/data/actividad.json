@@ -1462,7 +1462,21 @@
       "agente": "deduplicador",
       "texto": "Descartada perquè és duplicada: coincideix amb «Sabadell restitueix la memòria de les víctimes del franquisme» (Ràdio Sabadell).",
       "itemId": "c7d3f51c0d680bac"
+    },
+    {
+      "id": "e71eac67eacd48de",
+      "t": "2026-11-07T19:03:46.332Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Sabadell homenatja les víctimes dels judicis sumaríssims franquistes» (iSabadell).",
+      "itemId": "b04e2362382a5a44"
+    },
+    {
+      "id": "5b5822acdea1198e",
+      "t": "2026-11-07T19:03:46.333Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "b04e2362382a5a44"
     }
   ],
-  "actualizado": "2026-11-07T18:45:22.903Z"
+  "actualizado": "2026-11-07T19:05:04.355Z"
 }
