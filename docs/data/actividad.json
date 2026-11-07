@@ -1406,7 +1406,49 @@
       "agente": "rastreador",
       "texto": "He recollit «Parlem d'Òpera 663: \"Anem a descobrir (LIV): Lalla Roukh\"» (Ràdio Sabadell).",
       "itemId": "3a5b05836b4cb8fe"
+    },
+    {
+      "id": "65c0ad1d0764161d",
+      "t": "2026-11-07T18:29:01.117Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Sabadell restitueix la memòria de les víctimes del franquisme» (Ràdio Sabadell).",
+      "itemId": "a6b8bbf018142d37"
+    },
+    {
+      "id": "e65483bec4235270",
+      "t": "2026-11-07T18:29:01.118Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat, Política local, Salut, Esports.",
+      "itemId": "a6b8bbf018142d37"
+    },
+    {
+      "id": "f94c680c47bc27f0",
+      "t": "2026-11-07T18:29:01.119Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "a6b8bbf018142d37"
+    },
+    {
+      "id": "ce48780b66ad2635",
+      "t": "2026-11-07T18:29:01.120Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): mobilitat, política local, salut.",
+      "itemId": "a6b8bbf018142d37"
+    },
+    {
+      "id": "78bb436571c1b189",
+      "t": "2026-11-07T18:29:01.121Z",
+      "agente": "rastreador",
+      "texto": "He recollit «'Som la Ceba!' reivindica el joc compartit com a alternativa a les pantalles» (Diari de Sabadell).",
+      "itemId": "0033808de981a82e"
+    },
+    {
+      "id": "d152eb0602100e3c",
+      "t": "2026-11-07T18:29:01.122Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "0033808de981a82e"
     }
   ],
-  "actualizado": "2026-11-07T17:43:56.715Z"
+  "actualizado": "2026-11-07T18:30:16.183Z"
 }

@@ -108,6 +108,53 @@
   },
   "items": [
     {
+      "id": "0033808de981a82e",
+      "titulo": "'Som la Ceba!' reivindica el joc compartit com a alternativa a les pantalles",
+      "enlace": "https://www.diaridesabadell.com/sabadell/som-la-ceba-2026-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-07T18:19:45.000Z",
+      "detectado": "2026-11-07T18:29:01.114Z",
+      "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "a6b8bbf018142d37",
+      "titulo": "Sabadell restitueix la memòria de les víctimes del franquisme",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/sabadell-restitueix-la-memoria-de-les-victimes-del-franquisme",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-07T18:11:33.000Z",
+      "detectado": "2026-11-07T18:29:01.114Z",
+      "sensible": true,
+      "etiquetas": [
+        "movilidad",
+        "politica",
+        "salud",
+        "deportes"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "mobilitat, política local, salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
       "id": "3a5b05836b4cb8fe",
       "titulo": "Parlem d'Òpera 663: \"Anem a descobrir (LIV): Lalla Roukh\"",
       "enlace": "https://radiosabadell.fm/alacarta/audio/parlem-dopera-663-anem-descobrir-liv-lalla-roukh",
@@ -545,5 +592,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-07T17:43:56.713Z"
+  "actualizado": "2026-11-07T18:30:16.180Z"
 }
