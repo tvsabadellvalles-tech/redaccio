@@ -1897,9 +1897,9 @@ body {
 @media (prefers-reduced-motion: reduce) {
   .servei-incidencia { transition: none; }
 }
-.servei-card-rodalies .servei-resum { grid-template-columns: 62px minmax(0, 1fr); }
-.servei-card-rodalies .servei-icona-logo { width: 58px; height: 30px; }
+.servei-card-rodalies .servei-resum { grid-template-columns: 80px minmax(0, 1fr); }
+.servei-card-rodalies .servei-icona-logo { width: 76px; height: 34px; }
 @media (max-width: 699px) {
-  .servei-card-rodalies .servei-resum { grid-template-columns: 52px minmax(0, 1fr); }
-  .servei-card-rodalies .servei-icona-logo { width: 48px; height: 26px; }
+  .servei-card-rodalies .servei-resum { grid-template-columns: 72px minmax(0, 1fr); }
+  .servei-card-rodalies .servei-icona-logo { width: 68px; height: 30px; }
 }
