@@ -1483,7 +1483,28 @@
       "agente": "rastreador",
       "texto": "He recollit «Un Terrassa FC de dues cares guanya en el camp d'un Peña Sport que feia dos anys que no perdia a casa» (Diari de Terrassa).",
       "itemId": "cc50e9d0be9897c5"
+    },
+    {
+      "id": "20ec970c474d4193",
+      "t": "2026-11-07T20:02:21.107Z",
+      "agente": "rastreador",
+      "texto": "He recollit «FOTOS | ExpoNadó omple Fira Sabadell de propostes i activitats per a les famílies» (Diari de Sabadell).",
+      "itemId": "815fc478f6cffd76"
+    },
+    {
+      "id": "fecd200b5ceebe15",
+      "t": "2026-11-07T20:02:21.108Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut, Cultura i festes.",
+      "itemId": "815fc478f6cffd76"
+    },
+    {
+      "id": "3b2e34849b3f3e2c",
+      "t": "2026-11-07T20:02:21.109Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "815fc478f6cffd76"
     }
   ],
-  "actualizado": "2026-11-07T19:29:12.048Z"
+  "actualizado": "2026-11-07T20:03:08.526Z"
 }

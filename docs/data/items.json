@@ -108,6 +108,32 @@
   },
   "items": [
     {
+      "id": "815fc478f6cffd76",
+      "titulo": "FOTOS | ExpoNadó omple Fira Sabadell de propostes i activitats per a les famílies",
+      "enlace": "https://www.diaridesabadell.com/sabadell/fotos-exponado-fira-sabadell-propostes-activitats-families.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-07T19:38:18.000Z",
+      "detectado": "2026-11-07T20:02:21.104Z",
+      "sensible": true,
+      "etiquetas": [
+        "salud",
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "b04e2362382a5a44",
       "titulo": "Sabadell homenatja les víctimes dels judicis sumaríssims franquistes",
       "enlace": "https://www.isabadell.cat/societat/sabadell-homenatja-les-victimes-dels-judicis-sumarissims-franquistes-340259/",
@@ -662,5 +688,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-07T19:29:12.045Z"
+  "actualizado": "2026-11-07T20:03:08.523Z"
 }
