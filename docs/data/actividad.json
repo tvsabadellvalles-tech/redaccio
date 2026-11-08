@@ -1889,7 +1889,14 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Economia i ocupació.",
       "itemId": "a049577c932f9000"
+    },
+    {
+      "id": "03e6806a04e7119a",
+      "t": "2026-11-08T23:13:25.265Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Infopòdcast Sabadell 09.11.26» (Ràdio Sabadell).",
+      "itemId": "3d4723d73a97242c"
     }
   ],
-  "actualizado": "2026-11-08T19:15:57.074Z"
+  "actualizado": "2026-11-08T23:14:39.723Z"
 }

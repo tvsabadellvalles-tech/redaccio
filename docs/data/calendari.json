@@ -2,8 +2,8 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-08T22:38:09.436Z",
-  "total": 3,
+  "consultat": "2026-11-08T23:13:25.264Z",
+  "total": 11,
   "activitats": [
     {
       "titol": "PAULINO FESTA",
@@ -13,20 +13,76 @@
       "color": null
     },
     {
-      "titol": "CE Sabadell 'B' - Turó Peira",
-      "inici": "2026-11-08T11:00:00.000Z",
-      "final": "2026-11-08T12:30:00.000Z",
+      "titol": "Ple extraordinari pressupostos",
+      "inici": "2026-11-09T08:30:00.000Z",
+      "final": "2026-11-09T09:30:00.000Z",
       "totElDia": false,
       "color": null
     },
     {
-      "titol": "Festa galega",
-      "inici": "2026-11-08T13:00:00.000Z",
-      "final": "2026-11-08T14:00:00.000Z",
+      "titol": "comença pràctiques (JM) Juliana",
+      "inici": "2026-11-09T09:00:00.000Z",
+      "final": "2026-11-09T10:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "Gent de Sabadell",
+      "inici": "2026-11-09T10:00:00.000Z",
+      "final": "2026-11-09T11:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "(Joan) Acreditacions LaLiga",
+      "inici": "2026-11-09T11:00:00.000Z",
+      "final": "2026-11-09T11:30:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "Ferran entra més tard",
+      "inici": "2026-11-09T14:00:00.000Z",
+      "final": "2026-11-09T14:15:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "L'Informatiu",
+      "inici": "2026-11-09T15:00:00.000Z",
+      "final": "2026-11-09T16:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "CX - VIA 15 (Cost de la vida i els sous)",
+      "inici": "2026-11-09T17:00:00.000Z",
+      "final": "2026-11-09T18:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "(Ferran) LÍMIT Reels VDM",
+      "inici": "2026-11-09T18:45:00.000Z",
+      "final": "2026-11-09T19:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "COTXE! (Ferran) CE Sabadell - Real Sociedad",
+      "inici": "2026-11-09T19:30:00.000Z",
+      "final": "2026-11-09T21:30:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "(Ferran) LÍMIT REEL 1P, 19.45",
+      "inici": "2026-11-09T19:45:00.000Z",
+      "final": "2026-11-09T20:00:00.000Z",
       "totElDia": false,
       "color": null
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-08T22:39:00.309Z"
+  "actualizado": "2026-11-08T23:14:58.781Z"
 }
