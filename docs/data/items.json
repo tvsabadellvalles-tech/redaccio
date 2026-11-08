@@ -108,6 +108,57 @@
   },
   "items": [
     {
+      "id": "a049577c932f9000",
+      "titulo": "Més de dos milions d’euros per fomentar l’ocupació als barris",
+      "enlace": "https://www.isabadell.cat/societat/mes-de-2-milions-deuros-per-fomentar-locupacio-als-barris-340292/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-08T18:51:35.000Z",
+      "detectado": "2026-11-08T19:15:42.039Z",
+      "sensible": false,
+      "etiquetas": [
+        "economia"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "economia i ocupació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "efeec4395ef61143",
+      "titulo": "La botiga centenària 1800 tancarà a finals de gener",
+      "enlace": "https://radiosabadell.fm/actualitat/economia/la-botiga-centenaria-1800-tancara-finals-de-gener",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-08T18:13:56.000Z",
+      "detectado": "2026-11-08T19:15:42.039Z",
+      "sensible": false,
+      "etiquetas": [
+        "urbanismo",
+        "economia"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "obres i urbanisme, economia i ocupació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "4d0840c036f83e85",
       "titulo": "Mercantil 0-0 CE Sabadell 'B': al derbi de juvenils li ha faltat el gol",
       "enlace": "https://radiosabadell.fm/esports/futbol/mercantil-juvenil-b-ce-sabadell-resum-lnj-jornada-8",
@@ -625,5 +676,5 @@
       "propuesta": true
     }
   ],
-  "actualizado": "2026-11-08T18:30:19.690Z"
+  "actualizado": "2026-11-08T19:15:57.070Z"
 }
