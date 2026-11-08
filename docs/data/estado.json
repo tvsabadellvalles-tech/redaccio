@@ -69,12 +69,12 @@
       "items": 0
     },
     "ayto-badia": {
-      "ok": false,
-      "error": "fetch failed",
+      "ok": true,
       "items": 0
     },
     "ayto-sant-quirze": {
-      "ok": true,
+      "ok": false,
+      "error": "The operation was aborted due to timeout",
       "items": 0
     },
     "324-comarques": {
@@ -82,6 +82,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-08T05:03:02.581Z",
-  "actualizado": "2026-11-08T05:03:46.600Z"
+  "consultat": "2026-11-08T05:48:39.302Z",
+  "actualizado": "2026-11-08T05:49:57.449Z"
 }
