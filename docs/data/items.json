@@ -108,6 +108,50 @@
   },
   "items": [
     {
+      "id": "b11ea310ec359171",
+      "titulo": "El CE Sabadell vol retrobar-se amb la victòria en una jornada marcada pel record i els homenatges",
+      "enlace": "https://www.diaridesabadell.com/sabadell/ce-sabadell-real-sociedad-b-previa.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-08T10:24:03.000Z",
+      "detectado": "2026-11-08T10:30:55.443Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "4db870dac92cc14d",
+      "titulo": "\"Cuidar és molt dur, però trobar-nos ens fa sentir en família\"",
+      "enlace": "https://www.diaridesabadell.com/sabadell/trobada-cuidadors-families-fira-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-08T10:07:02.000Z",
+      "detectado": "2026-11-08T10:30:55.443Z",
+      "sensible": false,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "9ee2040b11004330",
       "titulo": "La música que camina enrere",
       "enlace": "https://radiosabadell.fm/alacarta/audio/la-musica-que-camina-enrere",
@@ -281,5 +325,5 @@
       "propuesta": true
     }
   ],
-  "actualizado": "2026-11-08T09:57:17.870Z"
+  "actualizado": "2026-11-08T10:31:41.526Z"
 }

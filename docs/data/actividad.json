@@ -1658,7 +1658,28 @@
       "agente": "rastreador",
       "texto": "He recollit «La música que camina enrere» (Ràdio Sabadell).",
       "itemId": "9ee2040b11004330"
+    },
+    {
+      "id": "4ea81c5280d5f07e",
+      "t": "2026-11-08T10:30:55.444Z",
+      "agente": "rastreador",
+      "texto": "He recollit «\"Cuidar és molt dur, però trobar-nos ens fa sentir en família\"» (Diari de Sabadell).",
+      "itemId": "4db870dac92cc14d"
+    },
+    {
+      "id": "7b917cef6c6e2dff",
+      "t": "2026-11-08T10:30:55.445Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "4db870dac92cc14d"
+    },
+    {
+      "id": "0ebb4a9cc49792a2",
+      "t": "2026-11-08T10:30:55.446Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El CE Sabadell vol retrobar-se amb la victòria en una jornada marcada pel record i els homenatges» (Diari de Sabadell).",
+      "itemId": "b11ea310ec359171"
     }
   ],
-  "actualizado": "2026-11-08T09:57:17.873Z"
+  "actualizado": "2026-11-08T10:31:41.529Z"
 }
