@@ -1770,7 +1770,28 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Salut, Cultura i festes.",
       "itemId": "3060644dbb231e49"
+    },
+    {
+      "id": "0d93662c5735c98e",
+      "t": "2026-11-08T15:14:42.544Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Prop de 700.000 euros per col·locar bandes reductores de velocitat a una quarantena de carrers» (Ràdio Sabadell).",
+      "itemId": "5851ea3d702705fd"
+    },
+    {
+      "id": "22e261b691102985",
+      "t": "2026-11-08T15:14:42.545Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat, Política local, Obres i urbanisme.",
+      "itemId": "5851ea3d702705fd"
+    },
+    {
+      "id": "825fa54514c8e247",
+      "t": "2026-11-08T15:14:42.546Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): mobilitat, política local, obres i urbanisme.",
+      "itemId": "5851ea3d702705fd"
     }
   ],
-  "actualizado": "2026-11-08T14:37:13.387Z"
+  "actualizado": "2026-11-08T15:15:29.609Z"
 }

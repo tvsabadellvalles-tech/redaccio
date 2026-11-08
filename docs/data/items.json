@@ -108,6 +108,33 @@
   },
   "items": [
     {
+      "id": "5851ea3d702705fd",
+      "titulo": "Prop de 700.000 euros per col·locar bandes reductores de velocitat a una quarantena de carrers",
+      "enlace": "https://radiosabadell.fm/actualitat/urbanisme/700000-euros-bandes-reductores-velocitat",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-08T14:20:37.000Z",
+      "detectado": "2026-11-08T15:14:42.543Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad",
+        "politica",
+        "urbanismo"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "mobilitat, política local, obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
       "id": "3060644dbb231e49",
       "titulo": "La gastronomia gallega i la música omplen de vida l’Eix Macià amb la Festa do Pulpo",
       "enlace": "https://www.diaridesabadell.com/sabadell/centro-galego-nos-festa-do-pulpo-sabadell.html",
@@ -459,5 +486,5 @@
       "propuesta": true
     }
   ],
-  "actualizado": "2026-11-08T14:37:13.383Z"
+  "actualizado": "2026-11-08T15:15:29.606Z"
 }
