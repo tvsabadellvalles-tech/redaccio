@@ -1735,7 +1735,14 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Salut, Esports.",
       "itemId": "34f7e4ac2513426d"
+    },
+    {
+      "id": "12dceb4f82e3da85",
+      "t": "2026-11-08T13:17:29.161Z",
+      "agente": "rastreador",
+      "texto": "La font «Ajuntament de Cerdanyola del Vallès» torna a respondre.",
+      "itemId": null
     }
   ],
-  "actualizado": "2026-11-08T12:24:37.596Z"
+  "actualizado": "2026-11-08T13:18:31.051Z"
 }
