@@ -1742,7 +1742,35 @@
       "agente": "rastreador",
       "texto": "La font «Ajuntament de Cerdanyola del Vallès» torna a respondre.",
       "itemId": null
+    },
+    {
+      "id": "c8689bf28be2d128",
+      "t": "2026-11-08T14:35:57.383Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Sabadell 'B' 1-2 Turó Peira: el filial torna a caure derrotat Olímpia» (Ràdio Sabadell).",
+      "itemId": "a59d3ccb57f08c74"
+    },
+    {
+      "id": "1661fd3e44f6a3b0",
+      "t": "2026-11-08T14:35:57.384Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "a59d3ccb57f08c74"
+    },
+    {
+      "id": "b62116da60a834e8",
+      "t": "2026-11-08T14:35:57.385Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La gastronomia gallega i la música omplen de vida l’Eix Macià amb la Festa do Pulpo» (Diari de Sabadell).",
+      "itemId": "3060644dbb231e49"
+    },
+    {
+      "id": "1d03df2f429dd5b3",
+      "t": "2026-11-08T14:35:57.386Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut, Cultura i festes.",
+      "itemId": "3060644dbb231e49"
     }
   ],
-  "actualizado": "2026-11-08T13:18:31.051Z"
+  "actualizado": "2026-11-08T14:37:13.387Z"
 }

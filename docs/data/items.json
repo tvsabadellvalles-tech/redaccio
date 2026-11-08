@@ -108,6 +108,53 @@
   },
   "items": [
     {
+      "id": "3060644dbb231e49",
+      "titulo": "La gastronomia gallega i la música omplen de vida l’Eix Macià amb la Festa do Pulpo",
+      "enlace": "https://www.diaridesabadell.com/sabadell/centro-galego-nos-festa-do-pulpo-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-08T14:14:51.000Z",
+      "detectado": "2026-11-08T14:35:57.382Z",
+      "sensible": false,
+      "etiquetas": [
+        "salud",
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "a59d3ccb57f08c74",
+      "titulo": "Sabadell 'B' 1-2 Turó Peira: el filial torna a caure derrotat Olímpia",
+      "enlace": "https://radiosabadell.fm/esports/ce-sabadell/sabadell-b-turo-peira-resum-jornada8-elit",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-08T13:55:55.000Z",
+      "detectado": "2026-11-08T14:35:57.382Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "34f7e4ac2513426d",
       "titulo": "Un espectacular 'fly' gairebé salva un punt per a l'OAR Gràcia a Almassora",
       "enlace": "https://radiosabadell.fm/esports/handbol/un-espectacular-fly-gairebe-salva-punt-oar-gracia-almassora",
@@ -412,5 +459,5 @@
       "propuesta": true
     }
   ],
-  "actualizado": "2026-11-08T12:24:37.593Z"
+  "actualizado": "2026-11-08T14:37:13.383Z"
 }
