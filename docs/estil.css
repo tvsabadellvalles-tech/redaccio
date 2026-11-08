@@ -1630,40 +1630,15 @@ body {
 @media (prefers-reduced-motion: reduce) {
   .noticia-fila.noticia-nova { animation: none; }
 }
-.panell-noticies {
-  display: flex;
-  min-height: 0;
-  flex-direction: column;
-  overflow: hidden;
-}
 .panell-cap { flex: none; }
 .llista-noticies {
   display: flex;
-  min-height: 0;
-  flex: 1 1 0;
   flex-direction: column;
-  grid-template-rows: none;
-  overflow-x: hidden;
-  overflow-y: auto;
-  overscroll-behavior: contain;
-  scrollbar-width: none;
-}
-.noticies-cicle {
-  display: flex;
-  width: 100%;
-  flex: 0 0 auto;
-  flex-direction: column;
-}
-.llista-noticies::-webkit-scrollbar {
-  display: none;
+  overflow: visible;
 }
 .noticia-fila {
   min-height: clamp(48px, 6vh, 68px);
   flex: none;
-}
-.llista-noticies:focus-visible {
-  outline: 2px solid #ff744f;
-  outline-offset: -2px;
 }
 .contingut-principal {
   display: grid;

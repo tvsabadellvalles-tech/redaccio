@@ -146,11 +146,6 @@ let dades = { items: [], municipis: [], etiquetes: {} };
 let nomsMunicipi = { comarca: 'Comarca' };
 let previsioActual = null;
 let periodePrevisio = null;
-const movimentNoticies = {
-  ultimMarc: 0,
-  residu: 0
-};
-const VELOCITAT_SCROLL_NOTICIES = 18;
 const TEMPS_AVIS_SERVEI_MS = 15000;
 const TRANSICIO_AVIS_SERVEI_MS = 650;
 let avisosServeis = [];
@@ -201,7 +196,6 @@ function targetaNoticia(item) {
 function renderNoticies() {
   const llista = $('lista');
   const items = noticiesAvui();
-  const scrollAnterior = llista.scrollTop;
   llista.replaceChildren();
 
   if (!items.length) {
@@ -211,55 +205,7 @@ function renderNoticies() {
       el('p', { text: 'El monitor s’actualitza automàticament quan arriben noves publicacions.' })
     ));
   } else {
-    const cicle = el('div', { class: 'noticies-cicle' });
-    for (const item of items) cicle.append(targetaNoticia(item));
-    llista.append(cicle);
-
-    const alçadaCicle = cicle.getBoundingClientRect().height;
-    const movimentReduit = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-    const ciclesNecessaris = movimentReduit || alçadaCicle <= 0
-      ? 1
-      : Math.max(2, Math.ceil(llista.clientHeight / alçadaCicle) + 1);
-    for (let index = 1; index < ciclesNecessaris; index += 1) {
-      const repeticio = cicle.cloneNode(true);
-      repeticio.setAttribute('aria-hidden', 'true');
-      llista.append(repeticio);
-    }
-
-    llista.scrollTop = movimentReduit || alçadaCicle <= 0
-      ? Math.min(scrollAnterior, llista.scrollHeight - llista.clientHeight)
-      : scrollAnterior % alçadaCicle;
-    return;
-  }
-  llista.scrollTop = 0;
-}
-
-function desplacarNoticies(marca) {
-  const llista = $('lista');
-  if (!movimentNoticies.ultimMarc) movimentNoticies.ultimMarc = marca;
-  const delta = Math.min(marca - movimentNoticies.ultimMarc, 100);
-  movimentNoticies.ultimMarc = marca;
-
-  if (!document.hidden && !window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
-    const cicle = llista.querySelector('.noticies-cicle');
-    const alçadaCicle = cicle?.getBoundingClientRect().height || 0;
-    if (alçadaCicle > 0) {
-      const moviment = VELOCITAT_SCROLL_NOTICIES * delta / 1000 + movimentNoticies.residu;
-      const pas = Math.trunc(moviment);
-      movimentNoticies.residu = moviment - pas;
-      if (pas > 0) {
-        llista.scrollTop = (llista.scrollTop + pas) % alçadaCicle;
-      }
-    }
-  }
-  requestAnimationFrame(desplacarNoticies);
-}
-
-function normalitzarScrollNoticies() {
-  const llista = $('lista');
-  const alçadaCicle = llista.querySelector('.noticies-cicle')?.getBoundingClientRect().height || 0;
-  if (alçadaCicle > 0 && llista.scrollTop >= alçadaCicle) {
-    llista.scrollTop %= alçadaCicle;
+    for (const item of items) llista.append(targetaNoticia(item));
   }
 }
 
@@ -782,11 +728,7 @@ setInterval(() => {
 }, TEMPS_AVIS_SERVEI_MS);
 document.addEventListener('visibilitychange', () => {
   if (!document.hidden) {
-    movimentNoticies.ultimMarc = 0;
-    movimentNoticies.residu = 0;
     carregar();
   }
 });
 window.addEventListener('resize', renderNoticies);
-$('lista').addEventListener('scroll', normalitzarScrollNoticies, { passive: true });
-requestAnimationFrame(desplacarNoticies);
