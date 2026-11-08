@@ -108,6 +108,32 @@
   },
   "items": [
     {
+      "id": "4d0840c036f83e85",
+      "titulo": "Mercantil 0-0 CE Sabadell 'B': al derbi de juvenils li ha faltat el gol",
+      "enlace": "https://radiosabadell.fm/esports/futbol/mercantil-juvenil-b-ce-sabadell-resum-lnj-jornada-8",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-08T17:50:39.000Z",
+      "detectado": "2026-11-08T18:29:01.971Z",
+      "sensible": false,
+      "etiquetas": [
+        "salud",
+        "deportes"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "03b95731666b2bf1",
       "titulo": "Sabadell camina per millorar les condicions educatives de centenars d'infants del Senegal",
       "enlace": "https://www.diaridesabadell.com/sabadell/xxix-marxa-de-la-solidaritat-de-mans-unides-sabadell.html",
@@ -599,5 +625,5 @@
       "propuesta": true
     }
   ],
-  "actualizado": "2026-11-08T17:58:50.670Z"
+  "actualizado": "2026-11-08T18:30:19.690Z"
 }

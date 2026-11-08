@@ -1847,7 +1847,21 @@
       "agente": "vigilante",
       "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
       "itemId": "03b95731666b2bf1"
+    },
+    {
+      "id": "cf9d6cf05685edbe",
+      "t": "2026-11-08T18:29:01.971Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Mercantil 0-0 CE Sabadell 'B': al derbi de juvenils li ha faltat el gol» (Ràdio Sabadell).",
+      "itemId": "4d0840c036f83e85"
+    },
+    {
+      "id": "608015cb011cbc00",
+      "t": "2026-11-08T18:29:01.972Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut, Esports.",
+      "itemId": "4d0840c036f83e85"
     }
   ],
-  "actualizado": "2026-11-08T17:58:50.674Z"
+  "actualizado": "2026-11-08T18:30:19.694Z"
 }
