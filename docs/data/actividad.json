@@ -1581,7 +1581,14 @@
       "agente": "mesa",
       "texto": "Proposo incloure-ho a l'escaleta (3 punts): mobilitat, economia i ocupació.",
       "itemId": "c08e27712788b2c8"
+    },
+    {
+      "id": "d264cbb89216fb1d",
+      "t": "2026-11-08T08:24:52.784Z",
+      "agente": "rastreador",
+      "texto": "He recollit «‘Acte cancel·lat’, per Surroca (8/11/26)» (iSabadell).",
+      "itemId": "a5fe31b15110e25d"
     }
   ],
-  "actualizado": "2026-11-08T07:38:26.119Z"
+  "actualizado": "2026-11-08T08:25:37.202Z"
 }

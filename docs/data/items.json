@@ -108,6 +108,27 @@
   },
   "items": [
     {
+      "id": "a5fe31b15110e25d",
+      "titulo": "‘Acte cancel·lat’, per Surroca (8/11/26)",
+      "enlace": "https://www.isabadell.cat/la-vinyeta/acte-cancellat-per-surroca-8-11-26-340280/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-08T08:15:00.000Z",
+      "detectado": "2026-11-08T08:24:52.784Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "c08e27712788b2c8",
       "titulo": "La major catàstrofe ferroviària de la història de Sabadell (1920)",
       "enlace": "https://www.isabadell.cat/sabadell/historia/major-catastrofe-ferroviaria-historia-sabadell-1920-340079/",
@@ -161,5 +182,5 @@
       "propuesta": true
     }
   ],
-  "actualizado": "2026-11-08T07:38:26.116Z"
+  "actualizado": "2026-11-08T08:25:37.199Z"
 }
