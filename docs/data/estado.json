@@ -73,8 +73,7 @@
       "items": 0
     },
     "ayto-sant-quirze": {
-      "ok": false,
-      "error": "The operation was aborted due to timeout",
+      "ok": true,
       "items": 0
     },
     "324-comarques": {
@@ -82,6 +81,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-08T23:13:25.264Z",
-  "actualizado": "2026-11-08T23:14:39.720Z"
+  "consultat": "2026-11-08T23:44:39.586Z",
+  "actualizado": "2026-11-08T23:45:21.048Z"
 }
