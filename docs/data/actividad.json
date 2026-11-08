@@ -1588,7 +1588,14 @@
       "agente": "rastreador",
       "texto": "He recollit «‘Acte cancel·lat’, per Surroca (8/11/26)» (iSabadell).",
       "itemId": "a5fe31b15110e25d"
+    },
+    {
+      "id": "c1d08820e1b732b3",
+      "t": "2026-11-08T09:13:51.955Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Diumenge amb retards a l'R1, R2 Sud, R4 i Regionals Sud per una \"incidència operativa\"» (Agència Catalana de Notícies (ACN)).",
+      "itemId": "95a356ac9519b708"
     }
   ],
-  "actualizado": "2026-11-08T08:25:37.202Z"
+  "actualizado": "2026-11-08T09:14:26.014Z"
 }
