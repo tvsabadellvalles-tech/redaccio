@@ -1805,7 +1805,35 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Medi ambient.",
       "itemId": "be536ee74b5ceee0"
+    },
+    {
+      "id": "e16ab41a16a5ed7f",
+      "t": "2026-11-08T17:26:45.979Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Els Castellers de Terrassa celebren la seva Diada» (Diari de Terrassa).",
+      "itemId": "1ab2bd723bae6802"
+    },
+    {
+      "id": "50518135a3abe173",
+      "t": "2026-11-08T17:26:45.980Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La pastisseria Villaró posa un peu a Sabadell» (L'Actual - Castellar del Vallès).",
+      "itemId": "906c3420447756ce"
+    },
+    {
+      "id": "a7ac1b9b42407ad4",
+      "t": "2026-11-08T17:26:45.981Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El pavelló de Cal Balsach recupera l’activitat després de les obres» (iSabadell).",
+      "itemId": "16e0c6e6ee6c5e29"
+    },
+    {
+      "id": "e82b350bd0c758b3",
+      "t": "2026-11-08T17:26:45.982Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Obres i urbanisme, Esports.",
+      "itemId": "16e0c6e6ee6c5e29"
     }
   ],
-  "actualizado": "2026-11-08T16:59:15.374Z"
+  "actualizado": "2026-11-08T17:27:39.637Z"
 }

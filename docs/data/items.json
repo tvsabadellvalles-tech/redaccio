@@ -108,6 +108,72 @@
   },
   "items": [
     {
+      "id": "16e0c6e6ee6c5e29",
+      "titulo": "El pavelló de Cal Balsach recupera l’activitat després de les obres",
+      "enlace": "https://www.isabadell.cat/societat/el-pavello-de-cal-balsach-recupera-lactivitat-despres-de-les-obres-340293/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-08T17:26:17.000Z",
+      "detectado": "2026-11-08T17:26:45.978Z",
+      "sensible": false,
+      "etiquetas": [
+        "urbanismo",
+        "deportes"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "906c3420447756ce",
+      "titulo": "La pastisseria Villaró posa un peu a Sabadell",
+      "enlace": "https://www.lactual.cat/actualitat/pastisseria-villaro-posa-peu-sabadell_55335_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-08T17:17:53.000Z",
+      "detectado": "2026-11-08T17:26:45.978Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "1ab2bd723bae6802",
+      "titulo": "Els Castellers de Terrassa celebren la seva Diada",
+      "enlace": "https://www.diarideterrassa.com/terrassa/els-castellers-de-terrassa-celebren-la-seva-diada-2026-11-08.html",
+      "fuente": "diari-terrassa",
+      "fuenteNombre": "Diari de Terrassa",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "terrassa"
+      ],
+      "publicado": "2026-11-08T17:04:42.000Z",
+      "detectado": "2026-11-08T17:26:45.978Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "be536ee74b5ceee0",
       "titulo": "El meteoròleg Francesc Mauri va canviar Matadepera per Terrassa: \"Perdíem molt de temps en els desplaçaments en cotxe\"",
       "enlace": "https://www.diarideterrassa.com/terrassa/francesc-mauri-va-trobar-a-terrassa-el-temps-que-li-faltava-a-matadepera.html",
@@ -512,5 +578,5 @@
       "propuesta": true
     }
   ],
-  "actualizado": "2026-11-08T16:59:15.371Z"
+  "actualizado": "2026-11-08T17:27:39.633Z"
 }
