@@ -108,6 +108,27 @@
   },
   "items": [
     {
+      "id": "88b9d3ad2ed30be5",
+      "titulo": "Ballada de country solidari en benefici d'Atendis",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/ballada-de-country-solidari-en-benefici-datendis",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-08T11:29:50.000Z",
+      "detectado": "2026-11-08T11:48:34.612Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "b11ea310ec359171",
       "titulo": "El CE Sabadell vol retrobar-se amb la victòria en una jornada marcada pel record i els homenatges",
       "enlace": "https://www.diaridesabadell.com/sabadell/ce-sabadell-real-sociedad-b-previa.html",
@@ -325,5 +346,5 @@
       "propuesta": true
     }
   ],
-  "actualizado": "2026-11-08T10:31:41.526Z"
+  "actualizado": "2026-11-08T11:49:42.635Z"
 }

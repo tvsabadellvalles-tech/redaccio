@@ -1679,7 +1679,14 @@
       "agente": "rastreador",
       "texto": "He recollit «El CE Sabadell vol retrobar-se amb la victòria en una jornada marcada pel record i els homenatges» (Diari de Sabadell).",
       "itemId": "b11ea310ec359171"
+    },
+    {
+      "id": "813849f0279f08c2",
+      "t": "2026-11-08T11:48:34.613Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Ballada de country solidari en benefici d'Atendis» (Ràdio Sabadell).",
+      "itemId": "88b9d3ad2ed30be5"
     }
   ],
-  "actualizado": "2026-11-08T10:31:41.529Z"
+  "actualizado": "2026-11-08T11:49:42.638Z"
 }
