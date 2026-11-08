@@ -108,6 +108,27 @@
   },
   "items": [
     {
+      "id": "03b95731666b2bf1",
+      "titulo": "Sabadell camina per millorar les condicions educatives de centenars d'infants del Senegal",
+      "enlace": "https://www.diaridesabadell.com/sabadell/xxix-marxa-de-la-solidaritat-de-mans-unides-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-08T17:33:11.000Z",
+      "detectado": "2026-11-08T17:57:35.879Z",
+      "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "16e0c6e6ee6c5e29",
       "titulo": "El pavelló de Cal Balsach recupera l’activitat després de les obres",
       "enlace": "https://www.isabadell.cat/societat/el-pavello-de-cal-balsach-recupera-lactivitat-despres-de-les-obres-340293/",
@@ -578,5 +599,5 @@
       "propuesta": true
     }
   ],
-  "actualizado": "2026-11-08T17:27:39.633Z"
+  "actualizado": "2026-11-08T17:58:50.670Z"
 }

@@ -1833,7 +1833,21 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Obres i urbanisme, Esports.",
       "itemId": "16e0c6e6ee6c5e29"
+    },
+    {
+      "id": "1382d4806894a2b3",
+      "t": "2026-11-08T17:57:35.880Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Sabadell camina per millorar les condicions educatives de centenars d'infants del Senegal» (Diari de Sabadell).",
+      "itemId": "03b95731666b2bf1"
+    },
+    {
+      "id": "726b15e9fd716594",
+      "t": "2026-11-08T17:57:35.881Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "03b95731666b2bf1"
     }
   ],
-  "actualizado": "2026-11-08T17:27:39.637Z"
+  "actualizado": "2026-11-08T17:58:50.674Z"
 }
