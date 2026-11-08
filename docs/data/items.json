@@ -108,6 +108,32 @@
   },
   "items": [
     {
+      "id": "be536ee74b5ceee0",
+      "titulo": "El meteoròleg Francesc Mauri va canviar Matadepera per Terrassa: \"Perdíem molt de temps en els desplaçaments en cotxe\"",
+      "enlace": "https://www.diarideterrassa.com/terrassa/francesc-mauri-va-trobar-a-terrassa-el-temps-que-li-faltava-a-matadepera.html",
+      "fuente": "diari-terrassa",
+      "fuenteNombre": "Diari de Terrassa",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "matadepera",
+        "terrassa"
+      ],
+      "publicado": "2026-11-08T16:39:11.000Z",
+      "detectado": "2026-11-08T16:57:59.389Z",
+      "sensible": false,
+      "etiquetas": [
+        "medioambiente"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "medi ambient"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "5851ea3d702705fd",
       "titulo": "Prop de 700.000 euros per col·locar bandes reductores de velocitat a una quarantena de carrers",
       "enlace": "https://radiosabadell.fm/actualitat/urbanisme/700000-euros-bandes-reductores-velocitat",
@@ -486,5 +512,5 @@
       "propuesta": true
     }
   ],
-  "actualizado": "2026-11-08T15:15:29.606Z"
+  "actualizado": "2026-11-08T16:59:15.371Z"
 }

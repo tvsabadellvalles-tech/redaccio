@@ -1791,7 +1791,21 @@
       "agente": "mesa",
       "texto": "Proposo incloure-ho a l'escaleta (4 punts): mobilitat, política local, obres i urbanisme.",
       "itemId": "5851ea3d702705fd"
+    },
+    {
+      "id": "d6a7a95e126837bd",
+      "t": "2026-11-08T16:57:59.390Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El meteoròleg Francesc Mauri va canviar Matadepera per Terrassa: \"Perdíem molt de temps en els desplaçaments en cotxe\"» (Diari de Terrassa).",
+      "itemId": "be536ee74b5ceee0"
+    },
+    {
+      "id": "c3f264a364587624",
+      "t": "2026-11-08T16:57:59.391Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Medi ambient.",
+      "itemId": "be536ee74b5ceee0"
     }
   ],
-  "actualizado": "2026-11-08T15:15:29.609Z"
+  "actualizado": "2026-11-08T16:59:15.374Z"
 }
