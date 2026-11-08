@@ -108,6 +108,51 @@
   },
   "items": [
     {
+      "id": "34f7e4ac2513426d",
+      "titulo": "Un espectacular 'fly' gairebé salva un punt per a l'OAR Gràcia a Almassora",
+      "enlace": "https://radiosabadell.fm/esports/handbol/un-espectacular-fly-gairebe-salva-punt-oar-gracia-almassora",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-08T12:05:08.000Z",
+      "detectado": "2026-11-08T12:23:31.188Z",
+      "sensible": false,
+      "etiquetas": [
+        "salud",
+        "deportes"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "35470a1f7972ae50",
+      "titulo": "Les grans oblidades de la Guerra Civil i la postguerra: \"De les dones no se n'ha parlat gens\"",
+      "enlace": "https://www.diaridesabadell.com/valles/ripollet/les-grans-oblidades-de-la-guerra-civil-i-la-postguerra-de-les-dones-no-se-nha-parlat-gens.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "ripollet"
+      ],
+      "publicado": "2026-11-08T12:01:19.000Z",
+      "detectado": "2026-11-08T12:23:31.188Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "88b9d3ad2ed30be5",
       "titulo": "Ballada de country solidari en benefici d'Atendis",
       "enlace": "https://radiosabadell.fm/actualitat/societat/ballada-de-country-solidari-en-benefici-datendis",
@@ -126,6 +171,27 @@
       "puntuacion": 0,
       "motivos": [],
       "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "16b4c5b5963022df",
+      "titulo": "Ballada de country solidària en benefici d'Atendis",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/ballada-country-solidaria-benefici-atendis",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-08T11:29:50.000Z",
+      "detectado": "2026-11-08T12:23:31.188Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": "88b9d3ad2ed30be5",
       "propuesta": false
     },
     {
@@ -346,5 +412,5 @@
       "propuesta": true
     }
   ],
-  "actualizado": "2026-11-08T11:49:42.635Z"
+  "actualizado": "2026-11-08T12:24:37.593Z"
 }

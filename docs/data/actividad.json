@@ -1686,7 +1686,56 @@
       "agente": "rastreador",
       "texto": "He recollit «Ballada de country solidari en benefici d'Atendis» (Ràdio Sabadell).",
       "itemId": "88b9d3ad2ed30be5"
+    },
+    {
+      "id": "38c181af64b7130b",
+      "t": "2026-11-08T12:23:31.188Z",
+      "agente": "rastreador",
+      "texto": "La font «Ajuntament de Cerdanyola del Vallès» no respon (The operation was aborted due to timeout).",
+      "itemId": null
+    },
+    {
+      "id": "b5af80d9641256f9",
+      "t": "2026-11-08T12:23:31.189Z",
+      "agente": "rastreador",
+      "texto": "La font «Ajuntament de Sant Quirze del Vallès» no respon (HTTP 503).",
+      "itemId": null
+    },
+    {
+      "id": "88a8240c8b301ed5",
+      "t": "2026-11-08T12:23:31.191Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Ballada de country solidària en benefici d'Atendis» (Ràdio Sabadell).",
+      "itemId": "16b4c5b5963022df"
+    },
+    {
+      "id": "bdc79c9e2521fef8",
+      "t": "2026-11-08T12:23:31.192Z",
+      "agente": "deduplicador",
+      "texto": "Descartada perquè és duplicada: coincideix amb «Ballada de country solidari en benefici d'Atendis» (Ràdio Sabadell).",
+      "itemId": "16b4c5b5963022df"
+    },
+    {
+      "id": "520a7e05c963ae8a",
+      "t": "2026-11-08T12:23:31.193Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Les grans oblidades de la Guerra Civil i la postguerra: \"De les dones no se n'ha parlat gens\"» (Diari de Sabadell).",
+      "itemId": "35470a1f7972ae50"
+    },
+    {
+      "id": "1b51521eaf373ec3",
+      "t": "2026-11-08T12:23:31.194Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Un espectacular 'fly' gairebé salva un punt per a l'OAR Gràcia a Almassora» (Ràdio Sabadell).",
+      "itemId": "34f7e4ac2513426d"
+    },
+    {
+      "id": "7281a45bec634a7d",
+      "t": "2026-11-08T12:23:31.195Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut, Esports.",
+      "itemId": "34f7e4ac2513426d"
     }
   ],
-  "actualizado": "2026-11-08T11:49:42.638Z"
+  "actualizado": "2026-11-08T12:24:37.596Z"
 }

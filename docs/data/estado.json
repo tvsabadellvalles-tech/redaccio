@@ -6,11 +6,11 @@
     },
     "radio-sabadell": {
       "ok": true,
-      "items": 5
+      "items": 6
     },
     "diari-sabadell": {
       "ok": true,
-      "items": 2
+      "items": 3
     },
     "diari-terrassa": {
       "ok": true,
@@ -65,7 +65,8 @@
       "items": 0
     },
     "ayto-cerdanyola": {
-      "ok": true,
+      "ok": false,
+      "error": "The operation was aborted due to timeout",
       "items": 0
     },
     "ayto-badia": {
@@ -73,7 +74,8 @@
       "items": 0
     },
     "ayto-sant-quirze": {
-      "ok": true,
+      "ok": false,
+      "error": "HTTP 503",
       "items": 0
     },
     "324-comarques": {
@@ -81,6 +83,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-08T11:48:34.612Z",
-  "actualizado": "2026-11-08T11:49:42.636Z"
+  "consultat": "2026-11-08T12:23:31.188Z",
+  "actualizado": "2026-11-08T12:24:37.595Z"
 }
