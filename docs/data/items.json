@@ -106,6 +106,60 @@
     "deportes": "Esports",
     "cultura": "Cultura i festes"
   },
-  "items": [],
-  "actualizado": "2026-11-07T23:23:23.658Z"
+  "items": [
+    {
+      "id": "c08e27712788b2c8",
+      "titulo": "La major catàstrofe ferroviària de la història de Sabadell (1920)",
+      "enlace": "https://www.isabadell.cat/sabadell/historia/major-catastrofe-ferroviaria-historia-sabadell-1920-340079/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-08T07:00:43.000Z",
+      "detectado": "2026-11-08T07:37:45.086Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad",
+        "economia"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "mobilitat, economia i ocupació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "1a602e738b56c872",
+      "titulo": "Cop a una xarxa criminal que introduïa irregularment immigrants pakistanesos",
+      "enlace": "https://radiosabadell.fm/actualitat/successos/cop-xarxa-criminal-immigrants-pakistanesos",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell",
+        "terrassa"
+      ],
+      "publicado": "2026-11-08T06:51:22.000Z",
+      "detectado": "2026-11-08T07:37:45.086Z",
+      "sensible": true,
+      "etiquetas": [
+        "sucesos",
+        "economia"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "successos, economia i ocupació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    }
+  ],
+  "actualizado": "2026-11-08T07:38:26.116Z"
 }
