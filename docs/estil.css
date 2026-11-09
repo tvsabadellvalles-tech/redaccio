@@ -2039,3 +2039,132 @@ body {
   .incidencia-detall { white-space: normal; -webkit-line-clamp: 1; }
   .streaming-marc { max-height: 20vh; }
 }
+
+/* Composició del monitor: serveis i notícies a l'esquerra; directe i agenda a la dreta. */
+body { grid-template-rows: auto minmax(0, 1fr); }
+.cabecera {
+  align-items: center;
+  padding-block: 4px;
+}
+.marca { align-items: center; }
+.marca-separador { height: 42px; }
+.cabecera-dades { align-items: center; gap: clamp(14px, 1.8vw, 30px); }
+.rellotge-caja { align-content: center; gap: 0; }
+#hora-actual {
+  font-size: clamp(2.45rem, 3.7vw, 3.9rem);
+  letter-spacing: -0.055em;
+  line-height: 0.84;
+}
+#data-actual { margin-top: 2px; line-height: 1.05; }
+.prevision-icona { font-size: clamp(2rem, 2.8vw, 2.8rem); }
+.prevision-temperatura { font-size: clamp(1.7rem, 2.25vw, 2.35rem); }
+
+.contingut-principal {
+  width: calc(100% - clamp(32px, 3vw, 56px));
+  max-width: none;
+  grid-template-columns: minmax(0, 1.62fr) minmax(360px, 1fr);
+  align-items: stretch;
+  gap: clamp(14px, 1.2vw, 22px);
+  margin: 0 auto;
+  overflow: hidden;
+}
+.columna-noticies {
+  display: flex;
+  min-width: 0;
+  min-height: 0;
+  flex-direction: column;
+  overflow: hidden;
+}
+.serveis-panell {
+  width: 100%;
+  max-width: none;
+  flex: none;
+  margin: 0 0 6px;
+  padding: 7px 0 8px;
+}
+.serveis-cap { margin-bottom: 5px; }
+.serveis-grid { gap: 5px; }
+.servei-card { min-height: 50px; height: 50px; padding: 4px 7px; }
+.serveis-avisos:not([hidden]) { min-height: 54px; margin-top: 5px; }
+.servei-incidencia { min-height: 54px; padding-block: 5px; }
+
+.panell-noticies {
+  width: 100%;
+  min-height: 0;
+  flex: 1 1 auto;
+  margin: 0;
+  padding: 0 0 6px;
+}
+.panell-cap { padding-block: 6px 8px; }
+.panell-cap h2 { font-size: clamp(1.12rem, 1.3vw, 1.42rem); }
+.llista-noticies {
+  min-height: 0;
+  flex: 1 1 auto;
+  overflow-x: hidden;
+  overflow-y: auto;
+  scrollbar-width: thin;
+  scrollbar-color: #46515f transparent;
+}
+
+.agenda-panell {
+  padding: 7px 0 0 clamp(12px, 1vw, 18px);
+}
+.streaming-panell { margin-bottom: 8px; }
+.streaming-contingut {
+  display: grid;
+  grid-template-columns: minmax(0, 370px) minmax(130px, 1fr);
+  align-items: stretch;
+  gap: 10px;
+}
+.streaming-marc {
+  width: 100%;
+  max-height: none;
+  aspect-ratio: 16 / 9;
+  border-radius: 4px;
+}
+.streaming-video { min-width: 0; min-height: 0; }
+.streaming-meta {
+  display: flex;
+  min-width: 0;
+  flex-direction: column;
+  justify-content: center;
+  gap: 7px;
+  padding: 8px 10px;
+  border-left: 2px solid #34404e;
+  background: #111720;
+}
+.streaming-meta strong {
+  color: #e8edf3;
+  font-size: clamp(0.75rem, 0.85vw, 0.94rem);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+.streaming-meta span, .streaming-meta small {
+  color: #9aa7b6;
+  font-size: clamp(0.66rem, 0.72vw, 0.8rem);
+  line-height: 1.35;
+}
+.agenda-cap { margin-bottom: 5px; }
+.agenda-activitats { flex: 1 1 auto; }
+
+@media (max-width: 1100px) {
+  .contingut-principal { grid-template-columns: minmax(0, 1.4fr) minmax(320px, 1fr); }
+  .streaming-contingut { grid-template-columns: minmax(0, 1.1fr) minmax(120px, 0.9fr); gap: 7px; }
+}
+@media (max-width: 800px) {
+  body { height: auto; min-height: 100%; overflow: auto; grid-template-rows: auto auto; }
+  .contingut-principal {
+    width: calc(100% - 24px);
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-rows: minmax(500px, 1fr) minmax(0, 0.8fr);
+    overflow: visible;
+  }
+  .agenda-panell { padding: 8px 0 0; border-top: 1px solid var(--borde); border-left: 0; }
+  .streaming-contingut { grid-template-columns: minmax(0, 1.1fr) minmax(140px, 0.9fr); }
+}
+@media (max-width: 699px) {
+  .contingut-principal { grid-template-rows: minmax(580px, auto) minmax(540px, auto); }
+  .serveis-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .streaming-contingut { grid-template-columns: minmax(0, 1fr); }
+  .streaming-meta { display: none; }
+}
