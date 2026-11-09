@@ -1,20 +1,6 @@
 {
   "eventos": [
     {
-      "id": "60f684dcd4eb04a5",
-      "t": "2026-10-28T18:44:43.944Z",
-      "agente": "rastreador",
-      "texto": "He recogido «Ofensiva judicial dels bombers voluntaris» (L'Actual - Castellar del Vallès).",
-      "itemId": "f87d7c0bb4a7798e"
-    },
-    {
-      "id": "b3321c7ae598f921",
-      "t": "2026-10-28T18:44:43.945Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetas: Emergencias.",
-      "itemId": "f87d7c0bb4a7798e"
-    },
-    {
       "id": "a3b1029571855c99",
       "t": "2026-10-28T18:44:43.946Z",
       "agente": "mesa",
@@ -2799,7 +2785,21 @@
       "agente": "mesa",
       "texto": "Proposo incloure-ho a l'escaleta (3 punts): obres i urbanisme, salut, educació.",
       "itemId": "37691103e1687c56"
+    },
+    {
+      "id": "709a798a6b237661",
+      "t": "2026-11-09T18:37:33.190Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Els sindicats, preparats per a l’11-N: “Tenim més piquets apuntats que mai”» (iSabadell).",
+      "itemId": "3a53c8ae6a814141"
+    },
+    {
+      "id": "fcfb4ae9ef84a1fb",
+      "t": "2026-11-09T18:37:33.191Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Economia i ocupació.",
+      "itemId": "3a53c8ae6a814141"
     }
   ],
-  "actualizado": "2026-11-09T18:19:00.490Z"
+  "actualizado": "2026-11-09T18:37:46.848Z"
 }

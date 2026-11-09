@@ -104,6 +104,29 @@
   },
   "items": [
     {
+      "id": "3a53c8ae6a814141",
+      "titulo": "Els sindicats, preparats per a l’11-N: “Tenim més piquets apuntats que mai”",
+      "enlace": "https://www.isabadell.cat/societat/els-sindicats-preparats-per-a-l11-n-tenim-mes-piquets-apuntats-que-mai-340383/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-09T18:23:07.000Z",
+      "detectado": "2026-11-09T18:37:33.190Z",
+      "sensible": false,
+      "etiquetas": [
+        "economia"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "economia i ocupació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "37691103e1687c56",
       "titulo": "CCOO, UGT i la FAVS criden a la vaga de l'11N: \"El nostre salari se'n va per tot arreu\"",
       "enlace": "https://www.diaridesabadell.com/sabadell/crida-vaga-general-ccoo-ugt-favs-sabadell.html",
@@ -1723,5 +1746,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-09T18:19:00.486Z"
+  "actualizado": "2026-11-09T18:37:46.844Z"
 }
