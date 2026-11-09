@@ -55,6 +55,21 @@
     </main>
 
     <aside class="agenda-panell" aria-labelledby="titol-agenda">
+      <section class="streaming-panell" aria-labelledby="titol-streaming">
+        <div class="streaming-cap">
+          <h2 id="titol-streaming"><span aria-hidden="true">●</span> Streaming</h2>
+          <span class="streaming-directe">En directe</span>
+        </div>
+        <div class="streaming-marc">
+          <video id="streaming-video" class="streaming-video"
+            data-source="https://ingest1-video.streaming-pro.com/canaltaronja/sabadell/playlist.m3u8"
+            autoplay muted playsinline controls preload="none"
+            aria-label="Streaming en directe de Canal Taronja Sabadell">
+            El navegador no pot reproduir aquest streaming.
+          </video>
+          <span id="streaming-estat" class="streaming-estat" role="status" aria-live="polite">Connectant amb el directe…</span>
+        </div>
+      </section>
       <div class="agenda-cap">
         <h2 id="titol-agenda"><span aria-hidden="true">▦</span> Agenda</h2>
       </div>

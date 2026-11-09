@@ -426,8 +426,14 @@ function targetaIncidenciaServei({ servei, resum }) {
     : resum.linies?.length
       ? resum.titol.slice(`${resum.linies.join(' / ')} · `.length)
       : resum.titol;
-  return el('article', { class: `servei-incidencia ${servei.id}`, 'aria-label': `${noms[servei.id] || servei.nom}: ${resum.titol}` },
-    el('div', { class: 'incidencia-font' },
+  const identificadorVisible = distintiusLinies.length > 0
+    || Boolean(carretera && carretera !== 'CARRETERA')
+    || Boolean(distintiuFgc);
+  return el('article', {
+    class: `servei-incidencia ${servei.id}${identificadorVisible ? ' servei-incidencia-identificada' : ''}`,
+    'aria-label': `${noms[servei.id] || servei.nom}: ${resum.titol}`
+  },
+    identificadorVisible ? null : el('div', { class: 'incidencia-font' },
       el('span', { 'aria-hidden': 'true', text: iconaServei(servei) }),
       el('span', { text: noms[servei.id] || servei.nom })
     ),
@@ -563,11 +569,15 @@ function pintarServeis(dadesServeis) {
   const avisos = [];
   for (const servei of dadesServeis.serveis) {
     const estat = etiquetaEstatServei(servei);
-    graella.append(el('article', { class: `servei-card servei-card-${servei.id} ${estat.classe}` },
+    const nomServei = noms[servei.id] || servei.nom;
+    graella.append(el('article', {
+      class: `servei-card servei-card-${servei.id} ${estat.classe}`,
+      'aria-label': `${nomServei}: ${estat.text}`,
+      title: `${nomServei}: ${estat.text}`
+    },
       el('div', { class: 'servei-resum' },
         iconaServeiElement(servei),
-        el('span', { class: 'servei-nom', text: noms[servei.id] || servei.nom }),
-        el('span', { class: 'servei-badge', text: estat.text })
+        el('span', { class: 'servei-nom', text: nomServei })
       )
     ));
     const avisosServei = servei.id === 'fgc' && servei.estat === 'avis' && !servei.avisos?.length
@@ -728,9 +738,69 @@ async function carregar() {
   renderNoticies();
 }
 
+function iniciarStreaming() {
+  const video = $('streaming-video');
+  const estat = $('streaming-estat');
+  if (!video || !estat) return;
+
+  const mostrarEstat = (text, error = false) => {
+    estat.textContent = text;
+    estat.hidden = false;
+    estat.classList.toggle('streaming-estat-error', error);
+  };
+  const reproduir = () => {
+    const promesa = video.play();
+    promesa?.catch(() => mostrarEstat('Prem ▶ per iniciar el directe'));
+  };
+  const conectarHls = () => {
+    const Hls = window.Hls;
+    if (!Hls?.isSupported()) {
+      mostrarEstat('Aquest navegador no admet la reproducció HLS', true);
+      return;
+    }
+    const hls = new Hls({ lowLatencyMode: true, liveSyncDurationCount: 3 });
+    hls.loadSource(video.dataset.source);
+    hls.attachMedia(video);
+    hls.on(Hls.Events.MANIFEST_PARSED, reproduir);
+    hls.on(Hls.Events.ERROR, (_event, data) => {
+      if (!data.fatal) return;
+      if (data.type === Hls.ErrorTypes.NETWORK_ERROR) {
+        mostrarEstat('Connexió interrompuda · reconnectant…', true);
+        hls.startLoad();
+      } else if (data.type === Hls.ErrorTypes.MEDIA_ERROR) {
+        mostrarEstat('Recuperant el senyal…');
+        hls.recoverMediaError();
+      } else {
+        mostrarEstat('El streaming no està disponible ara mateix', true);
+        hls.destroy();
+      }
+    });
+  };
+
+  video.addEventListener('playing', () => {
+    estat.hidden = true;
+    video.closest('.streaming-marc')?.classList.add('streaming-actiu');
+  });
+  video.addEventListener('waiting', () => mostrarEstat('Carregant el directe…'));
+  video.addEventListener('error', () => mostrarEstat('El streaming no està disponible ara mateix', true));
+
+  if (video.canPlayType('application/vnd.apple.mpegurl')) {
+    video.src = video.dataset.source;
+    reproduir();
+    return;
+  }
+  const script = document.createElement('script');
+  script.src = 'https://cdn.jsdelivr.net/npm/hls.js@1.7.0/dist/hls.min.js';
+  script.async = true;
+  script.addEventListener('load', conectarHls, { once: true });
+  script.addEventListener('error', () => mostrarEstat('No s’ha pogut carregar el reproductor del directe', true), { once: true });
+  document.head.append(script);
+}
+
 actualitzarRellotge();
 setInterval(actualitzarRellotge, 1000);
 carregar();
+iniciarStreaming();
 setInterval(() => {
   if (document.hidden) return;
   carregar();

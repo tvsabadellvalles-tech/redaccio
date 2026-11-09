@@ -1960,3 +1960,82 @@ body {
   .agenda-cap { margin-bottom: 4px; }
   .agenda-activitat { padding-block: 6px; }
 }
+
+/* Targetes de serveis compactes: l'estat s'expressa al marc i el nom és suficient. */
+.servei-card {
+  min-height: 54px;
+  height: 54px;
+  padding: 5px 8px;
+}
+.servei-card.servei-ok { border-color: #347956; border-left-color: var(--ok); }
+.servei-card.servei-avis { border-color: #a33b43; border-left-color: var(--peligro); }
+.servei-card.servei-desconegut { border-color: #465361; border-left-color: #8491a0; }
+.servei-resum {
+  min-height: 0;
+  grid-template-columns: 36px minmax(0, 1fr);
+  grid-template-rows: auto;
+  align-content: center;
+  gap: 0 6px;
+  padding: 0;
+}
+.servei-icona { grid-row: 1; width: 32px; height: 28px; }
+.servei-card-rodalies .servei-icona-logo { width: 30px; height: 30px; }
+.servei-nom {
+  grid-row: 1;
+  grid-column: 2;
+  align-self: center;
+  font-size: clamp(0.82rem, 0.9vw, 1rem);
+}
+.servei-badge { display: none; }
+
+/* Una sola franja ampla: línia o carretera, motiu i detall. */
+.serveis-avisos:not([hidden]) {
+  min-height: 56px;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 0;
+  margin-top: 6px;
+}
+.servei-incidencia {
+  min-height: 56px;
+  height: auto;
+  grid-template-columns: auto minmax(0, 0.85fr) minmax(0, 2fr);
+  grid-template-rows: auto;
+  align-items: center;
+  gap: 6px 12px;
+  padding: 6px 10px;
+  overflow: hidden;
+  animation: none;
+}
+.servei-incidencia-identificada {
+  grid-template-columns: minmax(0, 0.85fr) minmax(0, 2fr);
+}
+.servei-incidencia-identificada .incidencia-font { display: none; }
+.servei-incidencia-identificada .incidencia-titol { grid-row: 1; grid-column: 1; gap: 6px; }
+.servei-incidencia-identificada .incidencia-detall { grid-row: 1; grid-column: 2; }
+.incidencia-motiu { -webkit-line-clamp: 1; }
+.incidencia-detall { white-space: nowrap; }
+
+/* El reproductor ocupa l'espai immediatament sobre l'agenda. */
+.streaming-panell { flex: none; min-width: 0; margin: 0 0 9px; }
+.streaming-cap { display: flex; align-items: center; justify-content: space-between; gap: 8px; margin: 0 0 6px; }
+.streaming-cap h2 { display: flex; align-items: center; gap: 7px; margin: 0; color: var(--texto); font-size: clamp(0.8rem, 0.9vw, 0.98rem); }
+.streaming-cap h2 span { color: #ff525d; font-size: 0.62rem; }
+.streaming-directe { color: #ff8c91; font-size: 0.66rem; font-weight: 800; letter-spacing: 0.09em; text-transform: uppercase; }
+.streaming-marc { position: relative; width: 100%; max-height: clamp(132px, 23vh, 220px); aspect-ratio: 16 / 9; overflow: hidden; border: 1px solid var(--borde); border-radius: 8px; background: #05080c; }
+.streaming-video { display: block; width: 100%; height: 100%; background: #05080c; object-fit: contain; }
+.streaming-estat { position: absolute; inset: auto 8px 8px; padding: 5px 8px; border: 1px solid #3b4652; border-radius: 5px; background: #0b1119dd; color: #d8e0e8; font-size: 0.72rem; text-align: center; pointer-events: none; }
+.streaming-estat[hidden] { display: none; }
+.streaming-estat-error { border-color: #873d43; color: #ffb5b8; }
+.agenda-activitats { flex: 1 1 auto; }
+
+@media (max-width: 699px) {
+  .servei-card { min-height: 48px; height: 48px; padding: 4px 6px; }
+  .servei-resum { grid-template-columns: 30px minmax(0, 1fr); gap: 0 4px; }
+  .servei-icona, .servei-card-rodalies .servei-icona-logo { width: 27px; height: 26px; }
+  .servei-nom { font-size: 0.78rem; }
+  .servei-incidencia, .servei-incidencia-identificada { min-height: 60px; grid-template-columns: minmax(0, 1fr); gap: 4px; }
+  .servei-incidencia-identificada .incidencia-titol,
+  .servei-incidencia-identificada .incidencia-detall { grid-column: 1; grid-row: auto; }
+  .incidencia-detall { white-space: normal; -webkit-line-clamp: 1; }
+  .streaming-marc { max-height: 20vh; }
+}
