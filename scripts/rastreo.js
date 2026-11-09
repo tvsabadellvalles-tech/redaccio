@@ -780,7 +780,7 @@ async function consultarCalendari(config, ara) {
   try {
     const avui = clauDiaLocal(ara);
     const iniciDia = dataHoraLocal(avui, '00:00', 'Europe/Madrid');
-    const fiDia = dataHoraLocal(sumarDia(avui, 1), '00:00', 'Europe/Madrid');
+    const fiDia = dataHoraLocal(sumarDia(avui, 2), '00:00', 'Europe/Madrid');
     if (!iniciDia || !fiDia) throw new Error(`No s’ha pogut determinar el dia local ${avui}`);
 
     const clau = process.env.GOOGLE_CALENDAR_API_KEY?.trim();
@@ -1112,7 +1112,7 @@ async function main() {
   const calendari = await consultarCalendari(config, ahora);
   await escribirSiCambia(path.join(dirSalida, 'calendari.json'), calendari);
   if (calendari.estat === 'ok') {
-    console.log(`[calendari] ${calendari.total} activitats avui`);
+    console.log(`[calendari] ${calendari.total} activitats avui i demà`);
   }
 
   console.log(`Novetats: ${nuevosItems.length} · Esdeveniments nous: ${eventos.length} · Total desat: ${items.length} · ${cambioItems ? 'items.json actualitzat' : 'sense canvis'}`);

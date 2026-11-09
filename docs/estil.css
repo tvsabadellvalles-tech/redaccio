@@ -1882,7 +1882,7 @@ body {
 /* ---------- Ajustos finals de lectura per al monitor de redacció ---------- */
 .serveis-panell { margin-block: 8px 10px; }
 .serveis-cap h2 { font-size: 0.92rem; }
-.serveis-actualitzat { font-size: 0.8rem; }
+.serveis-actualitzat { font-size: 0.8rem; letter-spacing: 0.04em; }
 .servei-card { min-height: 84px; padding: 8px 10px; }
 .servei-resum { grid-template-columns: 42px minmax(0, 1fr); gap: 3px 8px; }
 .servei-icona { width: 38px; height: 30px; }
@@ -1890,8 +1890,8 @@ body {
 .servei-nom { font-size: clamp(0.9rem, 0.95vw, 1.05rem); }
 .servei-badge { font-size: clamp(0.8rem, 0.82vw, 0.92rem); }
 .servei-actualitzacio { font-size: 0.76rem; }
-.serveis-avisos:not([hidden]) { min-height: 80px; }
-.servei-incidencia { min-height: 80px; animation: none; }
+.serveis-avisos:not([hidden]) { min-height: 94px; }
+.servei-incidencia { min-height: 94px; height: auto; overflow: visible; animation: none; }
 .incidencia-font { font-size: 0.74rem; }
 .incidencia-titol { font-size: clamp(0.98rem, 1.15vw, 1.25rem); }
 .incidencia-detall { font-size: clamp(0.78rem, 0.84vw, 0.92rem); }
@@ -1920,6 +1920,8 @@ body {
 .agenda-hora { min-width: 72px; font-size: clamp(0.88rem, 0.94vw, 1.02rem); }
 .agenda-titol { font-size: clamp(0.98rem, 1.05vw, 1.18rem); line-height: 1.28; }
 .agenda-activitats { scrollbar-color: #69788a transparent; }
+.agenda-dia-cap { margin: 8px 0 2px; padding: 3px 8px; border-left: 3px solid #65c7f2; color: #9bcde2; font-size: 0.76rem; letter-spacing: 0.1em; text-transform: uppercase; }
+.agenda-activitat-curs { border-left-color: #65c7f2; }
 
 @media (max-width: 1100px) {
   .contingut-principal { grid-template-columns: minmax(0, 1fr) minmax(300px, 0.42fr); }
@@ -1941,7 +1943,6 @@ body {
   .servei-actualitzacio { font-size: 0.72rem; }
   .contingut-principal { grid-template-rows: minmax(0, 1fr) minmax(0, 0.5fr); }
   .panell-cap h2, .agenda-cap h2 { font-size: 1.15rem; }
-  #pantalla-actualitzada { font-size: 0.7rem; }
   .noticies-actualitzat { font-size: 0.68rem; }
   .noticia-fila { grid-template-columns: 48px minmax(0, 1fr); min-height: 56px; }
   .fila-font { font-size: 0.7rem; }
@@ -1953,7 +1954,7 @@ body {
 @media (max-height: 800px) and (min-width: 700px) {
   .serveis-panell { margin-block: 4px 6px; }
   .servei-card { min-height: 72px; padding-block: 6px; }
-  .serveis-avisos:not([hidden]), .servei-incidencia { min-height: 68px; }
+  .serveis-avisos:not([hidden]), .servei-incidencia { min-height: 88px; height: auto; }
   .panell-cap { padding-block: 4px 5px; }
   .noticia-fila { min-height: clamp(48px, 5.4vh, 58px); padding-block: 4px; }
   .agenda-cap { margin-bottom: 4px; }

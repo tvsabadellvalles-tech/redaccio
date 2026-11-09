@@ -2,13 +2,13 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-09T17:33:22.771Z",
-  "total": 12,
+  "consultat": "2026-11-09T17:44:39.276Z",
+  "total": 18,
   "activitats": [
     {
       "titol": "PAULINO FESTA",
-      "inici": "2026-11-06T00:00:00.000Z",
-      "final": "2026-11-11T00:00:00.000Z",
+      "inici": "2026-11-05T23:00:00.000Z",
+      "final": "2026-11-10T23:00:00.000Z",
       "totElDia": true,
       "color": null
     },
@@ -88,8 +88,50 @@
       "final": "2026-11-09T20:00:00.000Z",
       "totElDia": false,
       "color": null
+    },
+    {
+      "titol": "Joan marxa i torna",
+      "inici": "2026-11-10T09:45:00.000Z",
+      "final": "2026-11-10T10:45:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "Lorena entra",
+      "inici": "2026-11-10T14:00:00.000Z",
+      "final": "2026-11-10T14:30:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "L'Informatiu",
+      "inici": "2026-11-10T15:00:00.000Z",
+      "final": "2026-11-10T16:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "L'Arlequinat",
+      "inici": "2026-11-10T16:30:00.000Z",
+      "final": "2026-11-10T18:30:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "CX - VIA 15 (Habitatge)",
+      "inici": "2026-11-10T17:00:00.000Z",
+      "final": "2026-11-10T18:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "CN Sabadell F-CN Terrassa",
+      "inici": "2026-11-10T19:45:00.000Z",
+      "final": "2026-11-10T20:45:00.000Z",
+      "totElDia": false,
+      "color": null
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-09T17:34:04.281Z"
+  "actualizado": "2026-11-09T17:44:54.321Z"
 }

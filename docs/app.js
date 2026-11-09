@@ -8,7 +8,21 @@ const ANTIGUITAT_MAXIMA_DADES_MS = 45 * 60 * 1000;
 const NOVETAT_NOTICIA_MS = 15 * 60 * 1000;
 const ZONA = 'Europe/Madrid';
 const $ = (id) => document.getElementById(id);
+function logoCommons(arxiu) {
+  const ruta = encodeURIComponent(arxiu);
+  return { imatge: `https://commons.wikimedia.org/wiki/Special:Redirect/file/${ruta}`, fitxer: `https://commons.wikimedia.org/wiki/File:${ruta}`, atribucio: 'Wikimedia Commons' };
+}
 const LOGOS_LINIA = {
+  R1: logoCommons('R1 barcelona.svg'), R2: logoCommons('R2 barcelona.svg'),
+  R2N: logoCommons('R2N barcelona.svg'), R2S: logoCommons('R2S barcelona.svg'),
+  R3: logoCommons('R3 barcelona.svg'), R8: logoCommons('R8 barcelona.svg'),
+  R9: logoCommons('R9 Rodalies de Catalunya.svg'), R10: logoCommons('R10 barcelona.svg'),
+  R11: logoCommons('R11 Rodalies de Catalunya.svg'), R12: logoCommons('R12 Rodalies de Catalunya.svg'),
+  R13: logoCommons('R13 Rodalies de Catalunya.svg'), R14: logoCommons('R14 Rodalies de Catalunya.svg'),
+  R15: logoCommons('R15 Rodalies de Catalunya.svg'), R16: logoCommons('R16 Rodalies de Catalunya.svg'),
+  R17: logoCommons('R17 Rodalies de Catalunya.svg'), RG1: logoCommons('RG1 girona.svg'),
+  RL3: logoCommons('RL3 Rodalies de Catalunya.svg'), RL4: logoCommons('RL4 Rodalia de Lleida.png'),
+  RT1: logoCommons('RT1 tarragona.svg'), RT2: logoCommons('RT2 tarragona.svg'),
   R4: {
     imatge: 'https://upload.wikimedia.org/wikipedia/commons/a/a1/R4_barcelona.svg',
     fitxer: 'https://commons.wikimedia.org/wiki/File:R4_barcelona.svg',
@@ -540,7 +554,7 @@ function pintarServeis(dadesServeis) {
   const consultaValida = consulta && Number.isFinite(consulta.getTime());
   const dadesVelles = consultaValida && Date.now() - consulta.getTime() > ANTIGUITAT_MAXIMA_SERVEIS_MS;
   $('serveis-actualitzat').textContent = consultaValida
-    ? `CONSULTAT ${hora(consulta.toISOString())} · ${textRelatiu(consulta.toISOString())}${dadesVelles ? ' · DESACTUALITZAT' : ''}`
+    ? `${dadesVelles ? 'DADES ANTIGUES' : 'CONSULTA'} ${hora(consulta.toISOString())}`
     : 'HORA DE CONSULTA DESCONEGUDA';
   $('serveis-actualitzat').classList.toggle('dades-velles', Boolean(dadesVelles));
   pintarPrevisio(dadesServeis);
@@ -549,21 +563,12 @@ function pintarServeis(dadesServeis) {
   const avisos = [];
   for (const servei of dadesServeis.serveis) {
     const estat = etiquetaEstatServei(servei);
-    const dataTransit = servei.id === 'transit' && servei.actualitzat
-      ? new Date(servei.actualitzat)
-      : null;
     graella.append(el('article', { class: `servei-card servei-card-${servei.id} ${estat.classe}` },
       el('div', { class: 'servei-resum' },
         iconaServeiElement(servei),
         el('span', { class: 'servei-nom', text: noms[servei.id] || servei.nom }),
         el('span', { class: 'servei-badge', text: estat.text })
-      ),
-      dataTransit && Number.isFinite(dataTransit.getTime())
-        ? el('span', {
-          class: 'servei-actualitzacio',
-          text: `DADES ${hora(dataTransit.toISOString())} · ${textRelatiu(dataTransit.toISOString())}`
-        })
-        : null
+      )
     ));
     const avisosServei = servei.id === 'fgc' && servei.estat === 'avis' && !servei.avisos?.length
       ? [{ titol: servei.detall, detall: servei.detall }]
@@ -602,26 +607,37 @@ function pintarAgenda(calendari) {
     }));
     return;
   }
-  if (!calendari.activitats?.length) {
-    llista.append(el('p', {
-      class: 'agenda-buits',
-      text: 'Cap activitat programada per avui.'
-    }));
+  const ara = Date.now();
+  const avui = dataClau(new Date(ara));
+  const demàDate = new Date(`${avui}T12:00:00Z`);
+  demàDate.setUTCDate(demàDate.getUTCDate() + 1);
+  const demà = demàDate.toISOString().slice(0, 10);
+  const activitats = (calendari.activitats || []).filter((activitat) => {
+    const final = new Date(activitat.final);
+    return !Number.isFinite(final.getTime()) || final.getTime() > ara;
+  });
+  const grups = [
+    ['Avui', activitats.filter((a) => dataClau(new Date(a.inici)) <= avui)],
+    ['Demà', activitats.filter((a) => dataClau(new Date(a.inici)) === demà)]
+  ];
+  if (!activitats.length) {
+    llista.append(el('p', { class: 'agenda-buits', text: 'No queden activitats per avui ni demà.' }));
     return;
   }
-
-  for (const activitat of calendari.activitats) {
+  for (const [nomDia, elements] of grups) {
+    if (!elements.length) continue;
+    llista.append(el('h3', { class: 'agenda-dia-cap', text: nomDia }));
+    for (const activitat of elements) {
     const inici = new Date(activitat.inici);
     const final = new Date(activitat.final);
     const horaInici = hora(activitat.inici);
     const horaFinal = hora(activitat.final);
     const temps = activitat.totElDia
       ? 'TOT EL DIA'
-      : esDAvui(activitat.inici)
-        ? `${horaInici}${Number.isFinite(final.getTime()) && horaFinal !== horaInici ? ` – ${horaFinal}` : ''}`
-        : 'EN CURS';
-    const acabada = Number.isFinite(final.getTime()) && final.getTime() <= Date.now();
-    const article = el('article', { class: `agenda-activitat${acabada ? ' agenda-activitat-passada' : ''}` },
+      : inici.getTime() <= ara
+        ? 'EN CURS'
+        : `${horaInici}${Number.isFinite(final.getTime()) && horaFinal !== horaInici ? ` – ${horaFinal}` : ''}`;
+    const article = el('article', { class: `agenda-activitat${inici.getTime() <= ara ? ' agenda-activitat-curs' : ''}` },
       el('time', {
         class: 'agenda-hora',
         datetime: activitat.inici,
@@ -634,12 +650,8 @@ function pintarAgenda(calendari) {
       article.style.setProperty('--agenda-tint', `${activitat.color}18`);
     }
     llista.append(article);
+    }
   }
-  const pendents = Math.max(0, Number(calendari.total || 0) - calendari.activitats.length);
-  if (pendents) llista.append(el('p', {
-    class: 'agenda-mes',
-    text: `+ ${pendents} activitats més al calendari`
-  }));
 }
 
 function pintarAvisos(estado) {
@@ -671,7 +683,7 @@ function pintarFrescorNoticies(estado) {
   const valida = data && Number.isFinite(data.getTime());
   const vell = valida && Date.now() - data.getTime() > ANTIGUITAT_MAXIMA_DADES_MS;
   indicador.textContent = valida
-    ? `FONTS CONSULTADES ${hora(data.toISOString())} · ${textRelatiu(data.toISOString())}${vell ? ' · DESACTUALITZAT' : ''}`
+    ? `${vell ? 'DADES ANTIGUES' : 'DADES'} ${hora(data.toISOString())}`
     : 'ACTUALITZACIÓ DE NOTÍCIES DESCONEGUDA';
   indicador.classList.toggle('dades-velles', Boolean(vell || !valida));
 }
@@ -692,8 +704,6 @@ async function jsonOpcional(url) {
 }
 
 async function carregar() {
-  const comprovacio = $('pantalla-actualitzada');
-  if (comprovacio) comprovacio.textContent = 'Comprovant dades…';
   const [items, estat, serveis, calendari] = await Promise.all([
     jsonOpcional(`${carpetaDatos}/items.json`),
     jsonOpcional(`${carpetaDatos}/estado.json`),
@@ -705,9 +715,6 @@ async function carregar() {
   pintarFrescorNoticies(estat);
   pintarAvisos(estat || { fuentes: {} });
   if (!serveis) pintarPrevisio(null);
-  if (comprovacio) {
-    comprovacio.textContent = `Pantalla comprovada ${rellotgeFormat.format(new Date())} · les dades canvien quan es publica el rastreig`;
-  }
   if (!items) {
     if (!dades.items.length) $('lista').replaceChildren(el('p', {
       class: 'buit-avui',
