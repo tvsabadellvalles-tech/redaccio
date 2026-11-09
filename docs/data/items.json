@@ -108,6 +108,78 @@
   },
   "items": [
     {
+      "id": "1a59b7faa3acbbb8",
+      "titulo": "Retards generalitzats a Rodalies per una \"incidència operativa\"",
+      "enlace": "https://radiosabadell.fm/actualitat/mobilitat/retards-generalitzats-rodalies-una-incidencia-operativa",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell",
+        "cerdanyola"
+      ],
+      "publicado": "2026-11-09T07:42:53.000Z",
+      "detectado": "2026-11-09T07:53:15.701Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad",
+        "salud",
+        "educacion"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "mobilitat, salut, educació"
+      ],
+      "duplicadaDe": "91376455a27f2dd7",
+      "propuesta": false
+    },
+    {
+      "id": "91376455a27f2dd7",
+      "titulo": "Nova jornada de retards generalitzats a Rodalies per una “incidència operativa”",
+      "enlace": "https://www.diaridesabadell.com/valles/rodalies-retards-servei-afectacions.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-09T07:38:57.000Z",
+      "detectado": "2026-11-09T07:53:15.701Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "mobilitat"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "20835b1950787155",
+      "titulo": "Mentors per impulsar el futur de 40 joves de Terrassa",
+      "enlace": "https://www.diarideterrassa.com/terrassa/mentors-per-impulsar-el-futur-de-40-joves-de-terrassa.html",
+      "fuente": "diari-terrassa",
+      "fuenteNombre": "Diari de Terrassa",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "terrassa"
+      ],
+      "publicado": "2026-11-09T07:25:30.000Z",
+      "detectado": "2026-11-09T07:53:15.701Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "3d4723d73a97242c",
       "titulo": "Infopòdcast Sabadell 09.11.26",
       "enlace": "https://radiosabadell.fm/alacarta/audio/infopodcast-sabadell-091126",
@@ -181,7 +253,28 @@
       ],
       "duplicadaDe": "ce5c9240049ec57a",
       "propuesta": false
+    },
+    {
+      "id": "5310468f6f39c543",
+      "titulo": "La Pink Run Mir 2026 torna a ser un èxit de participació i recapta 22.000 euros per seguir investigant contra el càncer de mama",
+      "enlace": "https://www.montcada.cat/actualitat/noticies/la-pink-run-mir-2026-torna-a-ser-un-exit-de-participacio-i-recapta-22000-euros-per-seguir-investigant-contra-el-cancer-de-mama.html",
+      "fuente": "ayto-montcada",
+      "fuenteNombre": "Ajuntament de Montcada i Reixac",
+      "tipo": "oficial",
+      "resumen": "",
+      "municipio": "montcada",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-08T23:00:00.000Z",
+      "detectado": "2026-11-09T07:53:15.701Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
     }
   ],
-  "actualizado": "2026-11-09T01:31:06.162Z"
+  "actualizado": "2026-11-09T07:53:55.732Z"
 }

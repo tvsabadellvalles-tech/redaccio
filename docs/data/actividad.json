@@ -1931,7 +1931,49 @@
       "agente": "deduplicador",
       "texto": "Descartada perquè és duplicada: coincideix amb «La història curiosa del Sabadell-Sanse: quan Alberto Edjogo va rebre l'alternativa» (Ràdio Sabadell).",
       "itemId": "ef429587a1f4c203"
+    },
+    {
+      "id": "6bd4eedc7e756130",
+      "t": "2026-11-09T07:53:15.701Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La Pink Run Mir 2026 torna a ser un èxit de participació i recapta 22.000 euros per seguir investigant contra el càncer de mama» (Ajuntament de Montcada i Reixac).",
+      "itemId": "5310468f6f39c543"
+    },
+    {
+      "id": "6062c2797bcbf136",
+      "t": "2026-11-09T07:53:15.702Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Mentors per impulsar el futur de 40 joves de Terrassa» (Diari de Terrassa).",
+      "itemId": "20835b1950787155"
+    },
+    {
+      "id": "03dfaae2c1fe1454",
+      "t": "2026-11-09T07:53:15.703Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Nova jornada de retards generalitzats a Rodalies per una “incidència operativa”» (Diari de Sabadell).",
+      "itemId": "91376455a27f2dd7"
+    },
+    {
+      "id": "fc8842ebf1bde727",
+      "t": "2026-11-09T07:53:15.704Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat.",
+      "itemId": "91376455a27f2dd7"
+    },
+    {
+      "id": "f3c737b41a79b5b7",
+      "t": "2026-11-09T07:53:15.705Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Retards generalitzats a Rodalies per una \"incidència operativa\"» (Ràdio Sabadell).",
+      "itemId": "1a59b7faa3acbbb8"
+    },
+    {
+      "id": "31d102c269b06777",
+      "t": "2026-11-09T07:53:15.706Z",
+      "agente": "deduplicador",
+      "texto": "Descartada perquè és duplicada: coincideix amb «Nova jornada de retards generalitzats a Rodalies per una “incidència operativa”» (Diari de Sabadell).",
+      "itemId": "1a59b7faa3acbbb8"
     }
   ],
-  "actualizado": "2026-11-09T01:31:06.165Z"
+  "actualizado": "2026-11-09T07:53:55.735Z"
 }

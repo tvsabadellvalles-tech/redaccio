@@ -6,15 +6,15 @@
     },
     "radio-sabadell": {
       "ok": true,
-      "items": 2
+      "items": 3
     },
     "diari-sabadell": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "diari-terrassa": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "acn": {
       "ok": true,
@@ -50,7 +50,7 @@
     },
     "ayto-montcada": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "avisos-montcada": {
       "ok": true,
@@ -81,6 +81,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-09T06:28:37.600Z",
-  "actualizado": "2026-11-09T06:29:19.682Z"
+  "consultat": "2026-11-09T07:53:15.701Z",
+  "actualizado": "2026-11-09T07:53:55.733Z"
 }

@@ -5,7 +5,7 @@
       "nom": "FGC Barcelona–Vallès",
       "enllac": "https://www.fgc.cat/adequacions-horaries/",
       "alternatiu": null,
-      "consultat": "2026-11-09T06:28:37.600Z",
+      "consultat": "2026-11-09T07:53:15.701Z",
       "estat": "cap-avis-recent",
       "detall": "Sense adequacions horàries."
     },
@@ -14,34 +14,60 @@
       "nom": "Rodalies R4 i R7",
       "enllac": "https://rodalies.gencat.cat/ca/alteracions_del_servei/",
       "alternatiu": null,
-      "consultat": "2026-11-09T06:28:37.600Z",
+      "consultat": "2026-11-09T07:53:15.701Z",
       "estat": "avis",
-      "detall": "3 avisos publicats avui a les línies R4 i R7.",
+      "detall": "4 avisos publicats avui a les línies R4 i R7.",
       "avisos": [
         {
           "titol": "A causa d'una incidència operativa, els trens circulen fora del seu horari habitual. Recomanem consultar les pantalles i monitors de l",
-          "detall": "A causa d'una incidència operativa, els trens circulen fora del seu horari habitual. Recomanem consultar les pantalles i monitors de les estacions.Disculpeu les molèsties.",
-          "publicat": "2026-11-09T06:22:00.000Z",
+          "detall": "A causa d'una incidència operativa, els trens circulen fora del seu horari habitual. Recomanem consultar les pantalles i monitors de les estacions. Recomanem consultar els serveis alternatius a mou-te.gencat.cat. Disculpeu les molèsties.",
+          "publicat": "2026-11-09T07:49:00.000Z",
           "linies": [
-            "R8",
+            "R7",
             "R11",
-            "R16",
-            "R17",
-            "R2S",
-            "R3",
-            "RL3",
-            "R2N",
-            "R13",
-            "RL4",
+            "RT2",
             "R1",
             "R2",
-            "R4",
-            "R7",
-            "RT2",
-            "RG1",
-            "R15",
             "RT1",
-            "R14"
+            "RL3",
+            "R14",
+            "R2S",
+            "R3",
+            "R8",
+            "R13",
+            "R15",
+            "R2N",
+            "R4",
+            "RG1",
+            "R17",
+            "R16",
+            "RL4"
+          ]
+        },
+        {
+          "titol": "A causa d'una incidència operativa, els trens circulen fora del seu horari habitual. Recomanem consultar les pantalles i monitors de l",
+          "detall": "A causa d'una incidència operativa, els trens circulen fora del seu horari habitual. Recomanem consultar les pantalles i monitors de les estacions. Disculpeu les molèsties.",
+          "publicat": "2026-11-09T06:22:00.000Z",
+          "linies": [
+            "R7",
+            "R11",
+            "RT2",
+            "R1",
+            "R2",
+            "RT1",
+            "RL3",
+            "R14",
+            "R2S",
+            "R3",
+            "R8",
+            "R13",
+            "R15",
+            "R2N",
+            "R4",
+            "RG1",
+            "R17",
+            "R16",
+            "RL4"
           ]
         },
         {
@@ -57,25 +83,25 @@
           "detall": "Amb motiu de les jornades de vaga convocades per als dies 10, 11 i 12 de novembre, el servei de Rodalies de Catalunya es prestarà d'acord amb els serveis mínims establerts. Més informació a les estacions i a rodalies.gencat.cat",
           "publicat": "2026-11-09T05:10:00.000Z",
           "linies": [
-            "R8",
+            "R7",
             "R11",
-            "R16",
-            "R17",
-            "R2S",
-            "R3",
-            "RL3",
-            "R2N",
-            "R13",
-            "RL4",
+            "RT2",
             "R1",
             "R2",
-            "R4",
-            "R7",
-            "RT2",
-            "RG1",
-            "R15",
             "RT1",
-            "R14"
+            "RL3",
+            "R14",
+            "R2S",
+            "R3",
+            "R8",
+            "R13",
+            "R15",
+            "R2N",
+            "R4",
+            "RG1",
+            "R17",
+            "R16",
+            "RL4"
           ]
         }
       ]
@@ -85,23 +111,30 @@
       "nom": "Trànsit · Vallès Occidental",
       "enllac": "https://cit.transit.gencat.cat/",
       "alternatiu": null,
-      "consultat": "2026-11-09T06:28:37.600Z",
+      "consultat": "2026-11-09T07:53:15.701Z",
       "estat": "avis",
       "detall": "5 incidències d’avui a les carreteres seleccionades del Vallès Occidental, segons la llista actual de Trànsit.",
-      "actualitzat": "2026-11-09T06:29:03.000Z",
+      "actualitzat": "2026-11-09T07:53:02.000Z",
       "avisos": [
+        {
+          "titol": "Circulació · Circulació amb retencions",
+          "detall": "B-30 | BADIA DEL VALLÈS | Sentit Nord cap a GIRONA | Punt km. 10-7",
+          "publicat": "2026-11-09T06:42:54.000Z",
+          "carretera": "B-30",
+          "comarca": 40
+        },
+        {
+          "titol": "Circulació · Circulació amb retencions",
+          "detall": "AP-7 | BARBERÀ DEL VALLÈS | Sentit Sud cap a TARRAGONA | Punt km. 147-141",
+          "publicat": "2026-11-09T06:41:19.000Z",
+          "carretera": "AP-7",
+          "comarca": 40
+        },
         {
           "titol": "Circulació · Circulació amb retencions",
           "detall": "C-58 | SABADELL | Sentit Sud cap a BARCELONA | Punt km. 12-15",
           "publicat": "2026-11-09T06:19:12.000Z",
           "carretera": "C-58",
-          "comarca": 40
-        },
-        {
-          "titol": "Avaria · Circulació amb retencions",
-          "detall": "AP-7 | SANT CUGAT DEL VALLÈS | Sentit Sud cap a TARRAGONA | Punt km. 160-157 | UN CARRIL TALLAT",
-          "publicat": "2026-11-09T06:03:22.000Z",
-          "carretera": "AP-7",
           "comarca": 40
         },
         {
@@ -112,17 +145,10 @@
           "comarca": 40
         },
         {
-          "titol": "Accident · Circulació amb retencions",
-          "detall": "B-30 | CERDANYOLA DEL VALLÈS | Sentit Sud cap a TARRAGONA | Punt km. 9.5-10 | VEHICLES AL VORAL",
+          "titol": "Circulació · Circulació amb retencions",
+          "detall": "B-30 | CERDANYOLA DEL VALLÈS | Sentit Sud cap a TARRAGONA | Punt km. 9.5-11",
           "publicat": "2026-11-09T05:38:16.000Z",
           "carretera": "B-30",
-          "comarca": 40
-        },
-        {
-          "titol": "Treballs de jardineria · Calçada restringida",
-          "detall": "AP-7 | SANTA PERPÈTUA DE MOGODA | Sentit Nord cap a GIRONA | Punt km. 142.8-136",
-          "publicat": "2026-11-08T23:09:46.000Z",
-          "carretera": "AP-7",
           "comarca": 40
         }
       ]
@@ -132,7 +158,7 @@
       "nom": "Meteocat · Vallès Occidental",
       "enllac": "https://www.meteo.cat/prediccio/general",
       "alternatiu": null,
-      "consultat": "2026-11-09T06:28:37.600Z",
+      "consultat": "2026-11-09T07:53:15.701Z",
       "estat": "previsio",
       "detall": "Sense avisos actius. Previsió de dilluns, 9 de novembre al Vallès Occidental: màxima 19°, mínima 12°. entre mig i molt ennuvolat al matí · entre mig i molt ennuvolat a la tarda · Pluja matí: No se n’espera · tarda: No es descarta (<10%) · Actualitzada 08-11-2026 15:00:00.",
       "previsio": {
@@ -154,12 +180,12 @@
       "nom": "Emergències · Protecció Civil",
       "enllac": "https://interior.gencat.cat/ca/actualitat/",
       "alternatiu": "https://govern.cat/salapremsa/notes-premsa",
-      "consultat": "2026-11-09T06:28:37.600Z",
+      "consultat": "2026-11-09T07:53:15.701Z",
       "estat": "cap-avis-recent",
       "detall": "Cap alerta local no meteorològica identificada a les alertes destacades d’Interior.",
       "avisos": []
     }
   ],
-  "consultat": "2026-11-09T06:28:37.600Z",
-  "actualizado": "2026-11-09T06:29:20.682Z"
+  "consultat": "2026-11-09T07:53:15.701Z",
+  "actualizado": "2026-11-09T07:53:58.139Z"
 }
