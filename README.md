@@ -2,7 +2,7 @@
 
 Panell intern de seguiment: rastreja fonts municipals, mitjans locals i avisos de servei, i presenta les notícies en una graella visual per a pantalles de redacció. Només mostra peces publicades durant el dia actual a l’hora de Barcelona. **No publica res**.
 
-Cobertura territorial: els 23 municipis del Vallès Occidental, inclosos a `config/municipios.json` per detectar mencions als titulars i filtrar avisos locals. La cobertura de fonts municipals no és encara completa: alguns ajuntaments no ofereixen un feed vigent o accessible.
+Cobertura territorial: 22 municipis del Vallès Occidental; Terrassa queda fora dels filtres editorials. Els municipis inclosos a `config/municipios.json` s'utilitzen per detectar mencions als titulars i filtrar avisos locals. La cobertura de fonts municipals no és encara completa: alguns ajuntaments no ofereixen un feed vigent o accessible.
 
 La interfície utilitza BR Sonoma, amb els pesos i estils inclosos a `docs/fonts/`.
 
@@ -27,7 +27,7 @@ El lloc es publica a <https://tvsabadellvalles-tech.github.io/redaccio/>. El wor
 
 ## Connectar fonts reals
 
-`config/fuentes.json` activa 20 canals de notícies. El rastrejador conserva només les peces d'avui i, als mitjans comarcals, aplica una llista de localitats dels 23 municipis. ACN no ofereix un RSS accessible a les rutes verificades: s'utilitzen les dades estructurades de portada i es conserva només titular, data i enllaç original. 3CatInfo utilitza el seu RSS oficial de Barcelona i filtra les peces que mencionen municipis del Vallès Occidental. El resum de serveis consulta a part FGC, Rodalies, Trànsit, Meteocat i Interior; les incidències de trànsit no s'inclouen com a notícies. També consulta el calendari públic de TV Sabadell-Vallès: l'exportació ICS es processa per generar només les activitats del dia amb hora i títol; no es desen descripcions ni assistents.
+`config/fuentes.json` activa 20 canals de notícies. El rastrejador conserva només les peces d'avui i, als mitjans comarcals, aplica una llista de localitats dels 22 municipis d'interès, sense Terrassa. ACN no ofereix un RSS accessible a les rutes verificades: s'utilitzen les dades estructurades de portada i es conserva només titular, data i enllaç original. 3CatInfo utilitza el seu RSS oficial de Barcelona i filtra les peces que mencionen municipis del Vallès Occidental. El resum de serveis consulta a part FGC, Rodalies, Trànsit, Meteocat i Interior; les incidències de trànsit no s'inclouen com a notícies. També consulta el calendari públic de TV Sabadell-Vallès: l'exportació ICS es processa per generar només les activitats del dia amb hora i títol; no es desen descripcions ni assistents.
 
 En Ràdio Sabadell s'exclou la sèrie d'àudio «Tertúlies Intergeneracionals» perquè els seus episodis no ocupin l'escaleta de notícies.
 
@@ -47,7 +47,7 @@ La comprovació de connectivitat i parseig s'ha fet durant aquesta revisió. Un 
 | Canal actiu | Estat comprovat | Abast |
 |---|---|---|
 | iSabadell, Ràdio Sabadell, Diari de Sabadell | HTTP 200 | Sabadell i Vallès quan el titular ho identifica. |
-| Diari de Terrassa | HTTP 200; RSS parsejable i amb peça d'avui | Filtrat per menció d'un dels 23 municipis o del Vallès Occidental. |
+| Diari de Terrassa | HTTP 200; RSS parsejable i amb peça d'avui | Filtrat per menció d'un dels 22 municipis d'interès o del Vallès Occidental; Terrassa queda exclosa. |
 | Ajuntament de Ripollet | HTTP 200; Atom parsejable amb notícies recents | S'incorpora el feed municipal; es conserven només les peces d'avui. |
 | 3CatInfo · Barcelona | HTTP 200; RSS parsejable | Col·lecció de diverses comarques, filtrada per municipis del Vallès Occidental. |
 | ACN | HTTP 200; dades estructurades de portada | Només peces amb localitat comarcal detectada; la portada no és un arxiu complet. |
@@ -56,7 +56,7 @@ La comprovació de connectivitat i parseig s'ha fet durant aquesta revisió. Un 
 | Santa Perpètua, avisos de Santa Perpètua | HTTP 200 | Font local. |
 | Montcada i Reixac, avisos de Montcada | HTTP 200 | Font local. |
 | Barberà, Cerdanyola, Badia | HTTP 200 | Fonts municipals; sense novetats d'avui no vol dir que el feed falli. |
-| Sant Quirze del Vallès | Timeout intermitent en la prova directa; la ingesta completa ha acabat correctament | Configurat amb 30 s i un segon intent abans de marcar-lo com a fallit. |
+| Sant Quirze del Vallès | HTTP 200; Atom parsejable amb 15 entrades recents | Feed oficial de Plone filtrat a «Actualitat / Notícies»; provat el 9 de novembre de 2026. |
 
 Les URLs i els estats d'activació es mantenen a `config/fuentes.json`; l'estat de cada font i l'hora de l'últim rastreig (`consultat`) queden a `docs/data/estado.json`. El monitor mostra aquesta frescor separada de la consulta dels serveis i marca els serveis com a desactualitzats al cap de 10 minuts i les notícies al cap de 45 minuts. La ingesta diària descarta deliberadament peces antigues i elements sense una data fiable.
 
@@ -77,7 +77,7 @@ Abans de programar rastrejos, reviseu les condicions d'ús de cada web i el seu 
 - **Govern.cat:** l'endpoint RSS facilitat continua retornant HTTP 403; la font es manté desactivada perquè encara no es poden filtrar les notícies comarcals.
 - **El Periódico i AEMET RSS:** El Periódico respon HTTP 406 i l'URL RSS d'AEMET retorna HTTP 404. Meteocat s'integra amb les dades públiques del visor oficial. La clau de l'API d'AEMET no s'ha afegit a cap fitxer; les credencials s'han de desar com a secrets d'entorn.
 - **La Vanguardia · Vallès Occidental:** el RSS és parsejable, però l'últim article observat era del 29 de setembre de 2026; es manté desactivat perquè no és una font recent en aquesta comprovació.
-- **Cobertura municipal:** els 23 municipis ja participen en els filtres locals, les mencions d'ACN i les alertes de Protecció Civil/Trànsit. Això no equival a tenir 23 feeds municipals: cal validar un canal recent per cada ajuntament abans d'activar-lo.
+- **Cobertura municipal:** 22 municipis participen en els filtres locals, les mencions d'ACN i les alertes de Protecció Civil/Trànsit; Terrassa queda exclosa. Això no equival a tenir 22 feeds municipals: cal validar un canal recent per cada ajuntament abans d'activar-lo.
 - **Trànsit:** es consulta l'API oficial d'incidències del Vallès Occidental. La resposta es demana amb `curl.exe` a Windows perquè la negociació TLS falla amb els clients Node i Linux disponibles; no s'abaixa el nivell de seguretat TLS.
 - **Protecció Civil:** Telegram és un canal de missatgeria, no un feed RSS. El dataset d'activació de plans indicat retorna HTTP 404; el panell consulta les alertes destacades a la portada d'Interior. DOGC i BOPB continuen pendents de localitzar i verificar.
 

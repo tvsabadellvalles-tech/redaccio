@@ -869,7 +869,7 @@ async function consultarCalendari(config, ara) {
 
 function coincideixFont(crud, font, ara, municipis) {
   const text = normalizar(`${crud.title || ''} ${crud.contentSnippet || ''} ${crud.content || ''} ${crud.summary || ''}`);
-  if (font.exclou?.some((terme) => text.includes(normalizar(terme)))) return false;
+  if (font.exclou?.some((terme) => coincideixTerme(text, terme))) return false;
   if (font.inclou?.length && !font.inclou.some((terme) => text.includes(normalizar(terme)))) return false;
   if (font.localitats?.length && !font.localitats.some((lloc) => coincideixTerme(text, lloc))) return false;
   if (font.municipis?.length && !municipis.some((municipi) =>
@@ -928,6 +928,9 @@ function normalizarItem(crudo, fuente, municipios, ahora) {
 async function main() {
   const ahora = new Date();
   const config = await leerJson(rutaConfig);
+  for (const fuente of config.fuentes) {
+    fuente.exclou = [...new Set([...(fuente.exclou || []), ...(config.exclouGlobal || [])])];
+  }
   const filtrarAvui = config.filtrarNoticiesAvui !== false;
   const diaAvui = clauDiaLocal(ahora);
   const { municipios } = await leerJson(rutaMunicipios);
@@ -1084,7 +1087,11 @@ async function main() {
       return ahora.getTime() - new Date(i.publicado).getTime() <= antiguitatMaxima * 86400000;
     })
     .sort((a, b) => fechaDe(b) - fechaDe(a))
-    .slice(0, 3000);
+    .slice(0, 3000)
+    .map((item) => ({
+      ...item,
+      municipiosMencionados: (item.municipiosMencionados || []).filter((id) => id !== 'terrassa')
+    }));
 
   const idsEventos = new Set(actividadPrevia.eventos.map((e) => e.id));
   const todosEventos = [...actividadPrevia.eventos, ...eventos.filter((e) => !idsEventos.has(e.id))]

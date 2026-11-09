@@ -20,7 +20,6 @@
     { "id": "rubi", "nombre": "Rubí", "alias": ["rubi"] },
     { "id": "sant-cugat", "nombre": "Sant Cugat del Vallès", "alias": ["sant cugat del valles", "sant cugat"] },
     { "id": "sant-llorenc-savall", "nombre": "Sant Llorenç Savall", "alias": ["sant llorenc savall"] },
-    { "id": "terrassa", "nombre": "Terrassa", "alias": ["terrassa"] },
     { "id": "ullastrell", "nombre": "Ullastrell", "alias": ["ullastrell"] },
     { "id": "vacarisses", "nombre": "Vacarisses", "alias": ["vacarisses"] },
     { "id": "viladecavalls", "nombre": "Viladecavalls", "alias": ["viladecavalls"] }

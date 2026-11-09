@@ -2,6 +2,7 @@
   "_nota": "S'activen fonts RSS/Atom comprovades. Les webs sense RSS no s'ingereixen fins que es configuri i validi un extractor. 'tipo': 'oficial' o 'medio'; 'municipio': id de config/municipios.json o 'comarca'.",
   "userAgent": "TVSabadellValles-Redaccio/1.0 (contacte: pendent)",
   "diasRetencion": 14,
+  "exclouGlobal": ["Terrassa"],
   "filtrarNoticiesAvui": true,
   "monitorServeis": true,
   "calendari": {
@@ -21,9 +22,9 @@
       "municipio": "comarca",
       "tipo": "medio",
       "url": "https://www.diarideterrassa.com/feed/",
-      "localitats": ["Sabadell", "Castellar del Vallès", "Sentmenat", "Palau-solità i Plegamans", "Polinyà", "Santa Perpètua de Mogoda", "Montcada i Reixac", "Ripollet", "Barberà del Vallès", "Cerdanyola del Vallès", "Badia del Vallès", "Sant Quirze del Vallès", "Castellbisbal", "Gallifa", "Matadepera", "Rellinars", "Rubí", "Sant Cugat del Vallès", "Sant Llorenç Savall", "Terrassa", "Ullastrell", "Vacarisses", "Viladecavalls", "Vallès Occidental"],
+      "localitats": ["Sabadell", "Castellar del Vallès", "Sentmenat", "Palau-solità i Plegamans", "Polinyà", "Santa Perpètua de Mogoda", "Montcada i Reixac", "Ripollet", "Barberà del Vallès", "Cerdanyola del Vallès", "Badia del Vallès", "Sant Quirze del Vallès", "Castellbisbal", "Gallifa", "Matadepera", "Rellinars", "Rubí", "Sant Cugat del Vallès", "Sant Llorenç Savall", "Ullastrell", "Vacarisses", "Viladecavalls", "Vallès Occidental"],
       "activa": true,
-      "nota": "Feed RSS verificat; s'hi conserven només titulars que mencionen un dels 23 municipis o el Vallès Occidental."
+      "nota": "Feed RSS verificat; s'hi conserven només titulars que mencionen un dels 22 municipis o el Vallès Occidental, sense Terrassa."
     },
     {
       "id": "acn",
@@ -32,7 +33,7 @@
       "tipo": "medio",
       "formato": "acn-homepage",
       "url": "https://www.acn.cat/",
-      "localitats": ["Sabadell", "Castellar del Vallès", "Sentmenat", "Palau-solità i Plegamans", "Polinyà", "Santa Perpètua de Mogoda", "Montcada i Reixac", "Ripollet", "Barberà del Vallès", "Cerdanyola del Vallès", "Badia del Vallès", "Sant Quirze del Vallès", "Castellbisbal", "Gallifa", "Matadepera", "Rellinars", "Rubí", "Sant Cugat del Vallès", "Sant Llorenç Savall", "Terrassa", "Ullastrell", "Vacarisses", "Viladecavalls", "Vallès Occidental"],
+      "localitats": ["Sabadell", "Castellar del Vallès", "Sentmenat", "Palau-solità i Plegamans", "Polinyà", "Santa Perpètua de Mogoda", "Montcada i Reixac", "Ripollet", "Barberà del Vallès", "Cerdanyola del Vallès", "Badia del Vallès", "Sant Quirze del Vallès", "Castellbisbal", "Gallifa", "Matadepera", "Rellinars", "Rubí", "Sant Cugat del Vallès", "Sant Llorenç Savall", "Ullastrell", "Vacarisses", "Viladecavalls", "Vallès Occidental"],
       "maxAntiguitatDies": 14,
       "activa": true,
       "nota": "Llegeix les notícies estructurades de portada d’ACN i conserva només titulars que mencionen Sabadell o municipis del Vallès Occidental."
@@ -51,12 +52,12 @@
     { "id": "ayto-barbera", "nombre": "Ajuntament de Barberà del Vallès", "municipio": "barbera", "tipo": "oficial", "url": "https://www.bdv.cat/rss.xml", "activa": true },
     { "id": "ayto-cerdanyola", "nombre": "Ajuntament de Cerdanyola del Vallès", "municipio": "cerdanyola", "tipo": "oficial", "url": "http://www.cerdanyola.cat/actualitat/rssactualitat", "activa": true },
     { "id": "ayto-badia", "nombre": "Ajuntament de Badia del Vallès", "municipio": "badia", "tipo": "oficial", "url": "https://www.badiadelvalles.cat/a.php?fer=SINDICACIO&seccio=10", "activa": true },
-    { "id": "ayto-sant-quirze", "nombre": "Ajuntament de Sant Quirze del Vallès", "municipio": "sant-quirze", "tipo": "oficial", "url": "https://www.santquirzevalles.cat/actualitat/noticies/RSS", "activa": true, "timeoutMs": 30000, "reintentos": 1, "nota": "El feed ha tingut timeouts intermitents; s'hi aplica un temps d'espera més llarg i un segon intent." },
+    { "id": "ayto-sant-quirze", "nombre": "Ajuntament de Sant Quirze del Vallès", "municipio": "sant-quirze", "tipo": "oficial", "url": "https://www.santquirzevalles.cat/search_rss?path.query=%2Factualitat%2Fnoticies&path.depth=2&portal_type=News%20Item", "activa": true, "reintentos": 1, "nota": "Feed oficial Plone de notícies; retorna titulars i dates recents." },
     { "id": "proteccio-civil", "nombre": "Protecció Civil de Catalunya", "municipio": "comarca", "tipo": "oficial", "url": "https://interior.gencat.cat/ca/actualitat/noticies-de-proteccio-civil/", "activa": false, "nota": "La pàgina respon HTTP 200, però és HTML i no s'ha validat cap RSS; les alertes urgents ja es consulten al monitor de serveis." },
     { "id": "meteocat", "nombre": "Meteocat", "municipio": "comarca", "tipo": "oficial", "url": "", "activa": false },
     { "id": "transit", "nombre": "Servei Català de Trànsit · Incidències viàries", "municipio": "comarca", "tipo": "oficial", "url": "https://www.gencat.cat/transit/opendata/incidenciesRSS.xml", "inclou": ["C-58", "B-30", "AP-7", "N-150"], "municipis": ["sabadell", "castellar", "sentmenat", "palau", "polinya", "santa-perpetua", "montcada", "ripollet", "barbera", "cerdanyola", "badia", "sant-quirze"], "maxAntiguitatDies": 14, "usaGuidComId": true, "activa": false, "nota": "Només s'utilitza al resum de serveis; les incidències no es presenten com a notícies." },
     { "id": "govern", "nombre": "Govern.cat · Notes de premsa", "municipio": "comarca", "tipo": "oficial", "url": "https://govern.cat/salapremsa/api/v1/rss/search?objectType=1", "activa": false, "nota": "L'endpoint RSS proposat retorna HTTP 403 des de l'entorn de rastreig; no es pot aplicar el filtre comarcal fins a validar una resposta accessible." },
-    { "id": "324-comarques", "nombre": "3CatInfo · Actualitat de Barcelona filtrada per Vallès Occidental", "municipio": "comarca", "tipo": "medio", "url": "https://api.3cat.cat/noticies?_format=rss&id=24790&origen=colleccio&items_pagina=31&sdom=img&version=2.0&cache=90&https=true&master=yes&perfils_extra=imatges_3catinfo", "localitats": ["Sabadell", "Castellar del Vallès", "Sentmenat", "Palau-solità i Plegamans", "Polinyà", "Santa Perpètua de Mogoda", "Montcada i Reixac", "Ripollet", "Barberà del Vallès", "Cerdanyola del Vallès", "Badia del Vallès", "Sant Quirze del Vallès", "Castellbisbal", "Gallifa", "Matadepera", "Rellinars", "Rubí", "Sant Cugat del Vallès", "Sant Llorenç Savall", "Terrassa", "Ullastrell", "Vacarisses", "Viladecavalls", "Vallès Occidental"], "maxAntiguitatDies": 14, "activa": true, "nota": "RSS oficial de la pàgina Barcelona (inclou diverses comarques); només es conserven peces que mencionen municipis del Vallès Occidental." },
+    { "id": "324-comarques", "nombre": "3CatInfo · Actualitat de Barcelona filtrada per Vallès Occidental", "municipio": "comarca", "tipo": "medio", "url": "https://api.3cat.cat/noticies?_format=rss&id=24790&origen=colleccio&items_pagina=31&sdom=img&version=2.0&cache=90&https=true&master=yes&perfils_extra=imatges_3catinfo", "localitats": ["Sabadell", "Castellar del Vallès", "Sentmenat", "Palau-solità i Plegamans", "Polinyà", "Santa Perpètua de Mogoda", "Montcada i Reixac", "Ripollet", "Barberà del Vallès", "Cerdanyola del Vallès", "Badia del Vallès", "Sant Quirze del Vallès", "Castellbisbal", "Gallifa", "Matadepera", "Rellinars", "Rubí", "Sant Cugat del Vallès", "Sant Llorenç Savall", "Ullastrell", "Vacarisses", "Viladecavalls", "Vallès Occidental"], "maxAntiguitatDies": 14, "activa": true, "nota": "RSS oficial de la pàgina Barcelona (inclou diverses comarques); només es conserven peces que mencionen municipis del Vallès Occidental." },
     { "id": "elperiodico-valles", "nombre": "El Periódico · Vallès Occidental", "municipio": "comarca", "tipo": "medio", "url": "https://www.elperiodico.com/es/rss/valles-occidental/rss.xml", "activa": false, "nota": "No verificat: el servidor retorna HTTP 406 al comprovar el feed." },
     { "id": "aemet-barcelona", "nombre": "AEMET · Avisos meteorològics de Barcelona", "municipio": "comarca", "tipo": "oficial", "url": "https://www.aemet.es/es/rss/avisos/cap/41", "activa": false, "nota": "L'URL RSS retorna HTTP 404. La integració amb l'API oficial requereix un endpoint compatible i una clau desada com a secret d'entorn, mai al fitxer de configuració." },
     { "id": "meteocat-avisos", "nombre": "Meteocat · Avisos", "municipio": "comarca", "tipo": "oficial", "url": "https://www.meteo.cat/rss/avisos", "activa": false, "nota": "L'URL facilitada retorna HTTP 404; no activat sense un endpoint vigent." },

@@ -9,6 +9,6 @@
     { "id": "prueba-ayto", "nombre": "Ajuntament de prova", "municipio": "sabadell", "tipo": "oficial", "archivo": "fixtures/ejemplo-oficial.xml", "activa": true },
     { "id": "prueba-medio", "nombre": "Mitjà de prova", "municipio": "comarca", "tipo": "medio", "archivo": "fixtures/ejemplo-medio.xml", "activa": true },
     { "id": "prova-transit", "nombre": "Trànsit de prova", "municipio": "comarca", "tipo": "oficial", "archivo": "fixtures/exemple-transit.xml", "inclou": ["C-58", "B-30", "AP-7", "N-150"], "municipis": ["sabadell", "montcada"], "maxAntiguitatDies": 14, "usaGuidComId": true, "activa": true },
-    { "id": "acn-prova", "nombre": "ACN de prova", "municipio": "comarca", "tipo": "medio", "formato": "acn-homepage", "url": "https://www.acn.cat/", "archivo": "fixtures/acn-homepage.html", "localitats": ["Sabadell", "Terrassa", "Vallès Occidental"], "maxAntiguitatDies": 14, "activa": true }
+    { "id": "acn-prova", "nombre": "ACN de prova", "municipio": "comarca", "tipo": "medio", "formato": "acn-homepage", "url": "https://www.acn.cat/", "archivo": "fixtures/acn-homepage.html", "localitats": ["Sabadell", "Vallès Occidental"], "maxAntiguitatDies": 14, "activa": true }
   ]
 }
