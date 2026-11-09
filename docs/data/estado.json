@@ -2,19 +2,19 @@
   "fuentes": {
     "isabadell": {
       "ok": true,
-      "items": 3
+      "items": 6
     },
     "radio-sabadell": {
       "ok": true,
-      "items": 7
+      "items": 10
     },
     "diari-sabadell": {
       "ok": true,
-      "items": 8
+      "items": 11
     },
     "diari-terrassa": {
       "ok": true,
-      "items": 1
+      "items": 3
     },
     "acn": {
       "ok": true,
@@ -42,7 +42,7 @@
     },
     "ayto-santa-perpetua": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "avisos-santa-perpetua": {
       "ok": true,
@@ -58,7 +58,7 @@
     },
     "ayto-ripollet": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "ayto-barbera": {
       "ok": true,
@@ -81,6 +81,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-09T11:29:13.610Z",
-  "actualizado": "2026-11-09T11:30:23.402Z"
+  "consultat": "2026-11-09T12:26:03.414Z",
+  "actualizado": "2026-11-09T12:27:00.403Z"
 }

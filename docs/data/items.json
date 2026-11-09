@@ -108,6 +108,263 @@
   },
   "items": [
     {
+      "id": "13c578c5b1751be0",
+      "titulo": "‘El ple crític’. 303 milions d’euros: continuisme i recapitulacions",
+      "enlace": "https://www.isabadell.cat/opinio/el-ple-critic/el-ple-critic-303-milions-deuros-continuisme-i-recapitulacions-340355/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-09T12:23:48.000Z",
+      "detectado": "2026-11-09T12:26:03.414Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "0c0c7c96ee36453a",
+      "titulo": "Terrassa és de novel·la negra: “Mai es pot subestimar el lector, no el podem enganyar”",
+      "enlace": "https://www.diarideterrassa.com/cultura-i-espectacles/terrassa-es-de-novella-negra-mai-es-pot-subestimar-el-lector-no-el-podem-enganyar.html",
+      "fuente": "diari-terrassa",
+      "fuenteNombre": "Diari de Terrassa",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "terrassa"
+      ],
+      "publicado": "2026-11-09T12:14:49.000Z",
+      "detectado": "2026-11-09T12:26:03.414Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "d3c93cd18a04809d",
+      "titulo": "El ple de Sabadell aprova inicialment els pressupostos de 2027, entre crítiques",
+      "enlace": "https://www.diaridesabadell.com/sabadell/ple-sabadell-aprova-incialment-pressupostos-2027-entre-critiques-oposicio-habitatge-seguretat.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-09T12:09:17.000Z",
+      "detectado": "2026-11-09T12:26:03.414Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica",
+        "urbanismo"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "política local, obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "b398f3d10d1663d5",
+      "titulo": "L'Astralpool CN Sabadell, a l'assalt del Pireu per continuar amb la plena a la Champions",
+      "enlace": "https://www.diaridesabadell.com/esports/olympiacos-astralpool-club-natacio-sabadell-previa-champions-waterpolo-grups.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-09T12:00:02.000Z",
+      "detectado": "2026-11-09T12:26:03.414Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "9b92314f84d671f6",
+      "titulo": "Aprovat el pressupost 2027 amb els vots del PSC i els expulsats de Junts",
+      "enlace": "https://www.isabadell.cat/politica/ple-municipal/aprovat-pressupost-2027-340301/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-09T11:51:43.000Z",
+      "detectado": "2026-11-09T12:26:03.414Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "b7180672b74f27bd",
+      "titulo": "Vandalisme a la plaça de Granada de Can Puiggener poques setmanes després de ser renovada",
+      "enlace": "https://www.diaridesabadell.com/sabadell/vandalisme-canpuiggener-martafarres-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-09T11:50:46.000Z",
+      "detectado": "2026-11-09T12:26:03.414Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "105dd32f0760617f",
+      "titulo": "Accident amb un conductor begut acaba amb el vehicle bolcat a la via",
+      "enlace": "https://www.isabadell.cat/successos/accident-amb-un-conductor-begut-acaba-amb-el-cotxe-bolcat-a-la-via-340332/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-09T11:41:22.000Z",
+      "detectado": "2026-11-09T12:26:03.414Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad",
+        "sucesos",
+        "salud"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "mobilitat, successos, salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "53efb01e3cba071b",
+      "titulo": "L'Eva Pla ens fa una selecció de llibres-joc",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-mati-petits-grans-llibres-llibre-joc-091126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-09T11:35:21.000Z",
+      "detectado": "2026-11-09T12:26:03.414Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "062b295c350ce099",
+      "titulo": "Llum verda inicial al pressupost 2027 amb l'oposició en contra",
+      "enlace": "https://radiosabadell.fm/actualitat/politica/llum-verda-inicial-al-pressupost-2027-amb-loposicio-en-contra",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-09T11:32:13.000Z",
+      "detectado": "2026-11-09T12:26:03.414Z",
+      "sensible": true,
+      "etiquetas": [
+        "sucesos",
+        "politica",
+        "urbanismo",
+        "salud",
+        "educacion",
+        "medioambiente",
+        "deportes"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "successos, política local, obres i urbanisme, salut, educació, medi ambient"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "6ecf4bfb3372380d",
+      "titulo": "Joan Madaula, president CIPO: \"L'outlet és l'activitat que ens dona més fons\"",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-mati-outlet-cipo-091126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-09T11:29:36.000Z",
+      "detectado": "2026-11-09T12:26:03.414Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "85b51f0dbc2ebc10",
+      "titulo": "Torna la Fira d’Ocupació ActiVallès: 25 empreses busquen treballadors a Terrassa",
+      "enlace": "https://www.diarideterrassa.com/economia/torna-la-fira-docupacio-activalles-25-empreses-busquen-treballadors-a-terrassa.html",
+      "fuente": "diari-terrassa",
+      "fuenteNombre": "Diari de Terrassa",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "terrassa"
+      ],
+      "publicado": "2026-11-09T11:26:32.000Z",
+      "detectado": "2026-11-09T12:26:03.414Z",
+      "sensible": false,
+      "etiquetas": [
+        "economia",
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "economia i ocupació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "74c66cf99ede52f6",
       "titulo": "Posem rostre a la repressió franquista a Sabadell",
       "enlace": "https://radiosabadell.fm/podcast/noticies-mati-judicis-sumarissims-091126",
@@ -196,6 +453,33 @@
       ],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "b9c438849ed6a5a5",
+      "titulo": "Desesperació entre els usuaris de l'R4 per una jornada de caos a les portes de tres dies de vaga",
+      "enlace": "https://radiosabadell.fm/actualitat/mobilitat/desesperacio-usuaris-r4-jornada-caos",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell",
+        "terrassa"
+      ],
+      "publicado": "2026-11-09T11:08:37.000Z",
+      "detectado": "2026-11-09T12:26:03.414Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad",
+        "salud"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "mobilitat, salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
     },
     {
       "id": "906c3420447756ce",
@@ -391,6 +675,29 @@
       "detectado": "2026-11-09T10:36:23.354Z",
       "sensible": false,
       "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "03f230c161bb04dd",
+      "titulo": "Torna la Festa dels Peluixos a la Biblioteca",
+      "enlace": "https://www.ripollet.cat/actualitat/noticies/torna-la-festa-dels-peluixos-a-la-biblioteca",
+      "fuente": "ayto-ripollet",
+      "fuenteNombre": "Ajuntament de Ripollet",
+      "tipo": "oficial",
+      "resumen": "L'èxit de la primera convocatòria ha fet que l'equipament torni a organitzar aquesta activitat, on els infants deixen el seu peluix per gaudir d'activitats, amb l'objectiu de fomentar l'hàbit de lectura.",
+      "municipio": "ripollet",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-09T09:10:00.000Z",
+      "detectado": "2026-11-09T12:26:03.414Z",
+      "sensible": true,
+      "etiquetas": [
+        "cultura"
+      ],
       "puntuacion": 1,
       "motivos": [
         "font oficial"
@@ -856,7 +1163,34 @@
       ],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "0b93775bc384be16",
+      "titulo": "L'Ajuntament retira disset nius de cotorres",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/lajuntament-retira-disset-nius-de-cotorres.html",
+      "fuente": "ayto-santa-perpetua",
+      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
+      "tipo": "oficial",
+      "resumen": "La Regidoria de Salut Pública de l’Ajuntament de Santa Perpètua va dur a terme a inicis d'aquest mes de novembre una actuació de retirada mecànica de nius de cotorra argentina per garantir la seguretat de la ciutadania i prevenir…",
+      "municipio": "santa-perpetua",
+      "municipiosMencionados": [
+        "santa-perpetua"
+      ],
+      "publicado": "2026-11-08T23:00:00.000Z",
+      "detectado": "2026-11-09T12:26:03.414Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica",
+        "salud"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "font oficial",
+        "política local, salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
     }
   ],
-  "actualizado": "2026-11-09T11:30:23.400Z"
+  "actualizado": "2026-11-09T12:27:00.401Z"
 }

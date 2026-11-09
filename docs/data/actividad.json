@@ -2309,7 +2309,224 @@
       "agente": "rastreador",
       "texto": "He recollit «Posem rostre a la repressió franquista a Sabadell» (Ràdio Sabadell).",
       "itemId": "74c66cf99ede52f6"
+    },
+    {
+      "id": "08f152a5860ff40f",
+      "t": "2026-11-09T12:26:03.414Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L'Ajuntament retira disset nius de cotorres» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "0b93775bc384be16"
+    },
+    {
+      "id": "a287a24756da8af7",
+      "t": "2026-11-09T12:26:03.415Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local, Salut.",
+      "itemId": "0b93775bc384be16"
+    },
+    {
+      "id": "0a3977d5d4e48fff",
+      "t": "2026-11-09T12:26:03.416Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): font oficial · política local, salut.",
+      "itemId": "0b93775bc384be16"
+    },
+    {
+      "id": "38a9b3f25ee4e6bc",
+      "t": "2026-11-09T12:26:03.417Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Torna la Festa dels Peluixos a la Biblioteca» (Ajuntament de Ripollet).",
+      "itemId": "03f230c161bb04dd"
+    },
+    {
+      "id": "63505e387ccfaa52",
+      "t": "2026-11-09T12:26:03.418Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "03f230c161bb04dd"
+    },
+    {
+      "id": "a836a89dbd67ef7f",
+      "t": "2026-11-09T12:26:03.419Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "03f230c161bb04dd"
+    },
+    {
+      "id": "e69ad26d3169e7e1",
+      "t": "2026-11-09T12:26:03.420Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Desesperació entre els usuaris de l'R4 per una jornada de caos a les portes de tres dies de vaga» (Ràdio Sabadell).",
+      "itemId": "b9c438849ed6a5a5"
+    },
+    {
+      "id": "2c19b7dad711cd4e",
+      "t": "2026-11-09T12:26:03.421Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat, Salut.",
+      "itemId": "b9c438849ed6a5a5"
+    },
+    {
+      "id": "9609ccb29cc8b063",
+      "t": "2026-11-09T12:26:03.422Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): mobilitat, salut.",
+      "itemId": "b9c438849ed6a5a5"
+    },
+    {
+      "id": "bcb3c4fa7877ac25",
+      "t": "2026-11-09T12:26:03.423Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Torna la Fira d’Ocupació ActiVallès: 25 empreses busquen treballadors a Terrassa» (Diari de Terrassa).",
+      "itemId": "85b51f0dbc2ebc10"
+    },
+    {
+      "id": "d46e230eef98ed40",
+      "t": "2026-11-09T12:26:03.424Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Economia i ocupació, Cultura i festes.",
+      "itemId": "85b51f0dbc2ebc10"
+    },
+    {
+      "id": "d4459ba2d3f71c17",
+      "t": "2026-11-09T12:26:03.425Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Joan Madaula, president CIPO: \"L'outlet és l'activitat que ens dona més fons\"» (Ràdio Sabadell).",
+      "itemId": "6ecf4bfb3372380d"
+    },
+    {
+      "id": "4873cf2d6a6699d2",
+      "t": "2026-11-09T12:26:03.426Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Llum verda inicial al pressupost 2027 amb l'oposició en contra» (Ràdio Sabadell).",
+      "itemId": "062b295c350ce099"
+    },
+    {
+      "id": "c00de499503f55c2",
+      "t": "2026-11-09T12:26:03.427Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Successos, Política local, Obres i urbanisme, Salut, Educació, Medi ambient, Esports.",
+      "itemId": "062b295c350ce099"
+    },
+    {
+      "id": "53ffe4e83a833dc8",
+      "t": "2026-11-09T12:26:03.428Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "062b295c350ce099"
+    },
+    {
+      "id": "70c78483bb7472b0",
+      "t": "2026-11-09T12:26:03.429Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): successos, política local, obres i urbanisme, salut, educació, medi ambient.",
+      "itemId": "062b295c350ce099"
+    },
+    {
+      "id": "29ea952486b914e8",
+      "t": "2026-11-09T12:26:03.430Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L'Eva Pla ens fa una selecció de llibres-joc» (Ràdio Sabadell).",
+      "itemId": "53efb01e3cba071b"
+    },
+    {
+      "id": "b383f2b8869dfafa",
+      "t": "2026-11-09T12:26:03.431Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Accident amb un conductor begut acaba amb el vehicle bolcat a la via» (iSabadell).",
+      "itemId": "105dd32f0760617f"
+    },
+    {
+      "id": "68d3a884c019420e",
+      "t": "2026-11-09T12:26:03.432Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat, Successos, Salut.",
+      "itemId": "105dd32f0760617f"
+    },
+    {
+      "id": "d4b107bf238bf66d",
+      "t": "2026-11-09T12:26:03.433Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): mobilitat, successos, salut.",
+      "itemId": "105dd32f0760617f"
+    },
+    {
+      "id": "40317e4c2f1a61b8",
+      "t": "2026-11-09T12:26:03.434Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Vandalisme a la plaça de Granada de Can Puiggener poques setmanes després de ser renovada» (Diari de Sabadell).",
+      "itemId": "b7180672b74f27bd"
+    },
+    {
+      "id": "9596b7072e3eb7e0",
+      "t": "2026-11-09T12:26:03.435Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local.",
+      "itemId": "b7180672b74f27bd"
+    },
+    {
+      "id": "398e435dba21240d",
+      "t": "2026-11-09T12:26:03.436Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Aprovat el pressupost 2027 amb els vots del PSC i els expulsats de Junts» (iSabadell).",
+      "itemId": "9b92314f84d671f6"
+    },
+    {
+      "id": "310047c162095a15",
+      "t": "2026-11-09T12:26:03.437Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local.",
+      "itemId": "9b92314f84d671f6"
+    },
+    {
+      "id": "d2d1e1014fb2abff",
+      "t": "2026-11-09T12:26:03.438Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L'Astralpool CN Sabadell, a l'assalt del Pireu per continuar amb la plena a la Champions» (Diari de Sabadell).",
+      "itemId": "b398f3d10d1663d5"
+    },
+    {
+      "id": "ea0e3a8ace472235",
+      "t": "2026-11-09T12:26:03.439Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El ple de Sabadell aprova inicialment els pressupostos de 2027, entre crítiques» (Diari de Sabadell).",
+      "itemId": "d3c93cd18a04809d"
+    },
+    {
+      "id": "c29fd76eb6874ccf",
+      "t": "2026-11-09T12:26:03.440Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local, Obres i urbanisme.",
+      "itemId": "d3c93cd18a04809d"
+    },
+    {
+      "id": "6377b50ec4301431",
+      "t": "2026-11-09T12:26:03.441Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): política local, obres i urbanisme.",
+      "itemId": "d3c93cd18a04809d"
+    },
+    {
+      "id": "8329b1d69290fa17",
+      "t": "2026-11-09T12:26:03.442Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Terrassa és de novel·la negra: “Mai es pot subestimar el lector, no el podem enganyar”» (Diari de Terrassa).",
+      "itemId": "0c0c7c96ee36453a"
+    },
+    {
+      "id": "796dea2903f68bdf",
+      "t": "2026-11-09T12:26:03.443Z",
+      "agente": "rastreador",
+      "texto": "He recollit «‘El ple crític’. 303 milions d’euros: continuisme i recapitulacions» (iSabadell).",
+      "itemId": "13c578c5b1751be0"
+    },
+    {
+      "id": "31670ee5dfab67b1",
+      "t": "2026-11-09T12:26:03.444Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local.",
+      "itemId": "13c578c5b1751be0"
     }
   ],
-  "actualizado": "2026-11-09T11:30:23.405Z"
+  "actualizado": "2026-11-09T12:27:00.405Z"
 }
