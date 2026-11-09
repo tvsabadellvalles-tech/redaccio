@@ -263,6 +263,29 @@
       "propuesta": false
     },
     {
+      "id": "c466a98cc74631aa",
+      "titulo": "El Sant Nicolau assalta el lideratge de la Super Copa amb una altra victòria inapel·lable",
+      "enlace": "https://radiosabadell.fm/esports/basquet/sant-nicolau-victoria-minguella-assalta-lideratge",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "cerdanyola"
+      ],
+      "publicado": "2026-11-09T16:07:56.000Z",
+      "detectado": "2026-11-09T18:46:09.288Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "f7fc91c35232fd8b",
       "titulo": "Retorn a Cal Balsach sense premi per al FS Sabadell Femení",
       "enlace": "https://radiosabadell.fm/esports/futbol-sala/retorn-cal-balsach-fs-sabadell-femeni-glories",
@@ -1746,5 +1769,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-09T18:37:46.844Z"
+  "actualizado": "2026-11-09T18:46:26.023Z"
 }

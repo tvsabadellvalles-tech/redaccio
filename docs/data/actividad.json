@@ -1,20 +1,6 @@
 {
   "eventos": [
     {
-      "id": "a3b1029571855c99",
-      "t": "2026-10-28T18:44:43.946Z",
-      "agente": "mesa",
-      "texto": "Propongo para la escaleta (3 pts): emergencias.",
-      "itemId": "f87d7c0bb4a7798e"
-    },
-    {
-      "id": "ab54645872b99e96",
-      "t": "2026-10-28T18:44:43.947Z",
-      "agente": "rastreador",
-      "texto": "He recogido «Comencen les obres de remodelació de la plaça Nova i dels carrers del seu entorn» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "c2008e2908d00e20"
-    },
-    {
       "id": "5c635552771de2e2",
       "t": "2026-10-28T18:44:43.948Z",
       "agente": "etiquetador",
@@ -2799,7 +2785,21 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Economia i ocupació.",
       "itemId": "3a53c8ae6a814141"
+    },
+    {
+      "id": "1dbd452d84111011",
+      "t": "2026-11-09T18:46:09.288Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El Sant Nicolau assalta el lideratge de la Super Copa amb una altra victòria inapel·lable» (Ràdio Sabadell).",
+      "itemId": "c466a98cc74631aa"
+    },
+    {
+      "id": "b1388941fa01ff4f",
+      "t": "2026-11-09T18:46:09.289Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "c466a98cc74631aa"
     }
   ],
-  "actualizado": "2026-11-09T18:37:46.848Z"
+  "actualizado": "2026-11-09T18:46:26.025Z"
 }
