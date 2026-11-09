@@ -1,34 +1,6 @@
 {
   "eventos": [
     {
-      "id": "69dab576def6ca1a",
-      "t": "2026-10-28T18:44:43.926Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetas: Sucesos.",
-      "itemId": "93f882e6d8310563"
-    },
-    {
-      "id": "e9f2bd7d84194cb7",
-      "t": "2026-10-28T18:44:43.927Z",
-      "agente": "mesa",
-      "texto": "Propongo para la escaleta (3 pts): fuente oficial · sucesos.",
-      "itemId": "93f882e6d8310563"
-    },
-    {
-      "id": "fe491182d2cdc448",
-      "t": "2026-10-28T18:44:43.928Z",
-      "agente": "rastreador",
-      "texto": "He recogido «Participa en el concurs nadalenc de dibuix» (Ajuntament de Polinyà).",
-      "itemId": "a2d45c2e38722bc7"
-    },
-    {
-      "id": "154f854c9bc58292",
-      "t": "2026-10-28T18:44:43.929Z",
-      "agente": "rastreador",
-      "texto": "He recogido «El CIM i el CAM inicien el treball i el debat aquest dimecres 28 d'octubre» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "270a167d267282fe"
-    },
-    {
       "id": "8d3f406399e130c0",
       "t": "2026-10-28T18:44:43.930Z",
       "agente": "rastreador",
@@ -2799,7 +2771,35 @@
       "agente": "rastreador",
       "texto": "He recollit «Signat el conveni amb la Generalitat per a la construcció de 94 pisos de protecció oficial a Sentmenat» (Diari de Sabadell).",
       "itemId": "4236d9804db6c44a"
+    },
+    {
+      "id": "7314a1b27203717e",
+      "t": "2026-11-09T16:58:52.149Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Retorn a Cal Balsach sense premi per al FS Sabadell Femení» (Ràdio Sabadell).",
+      "itemId": "f7fc91c35232fd8b"
+    },
+    {
+      "id": "e823239de0f6f0af",
+      "t": "2026-11-09T16:58:52.150Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Obres i urbanisme, Medi ambient, Esports.",
+      "itemId": "f7fc91c35232fd8b"
+    },
+    {
+      "id": "dc933782de8b23aa",
+      "t": "2026-11-09T16:58:52.151Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Flashy Ice Cream, 31 FAM i Ven’nus, entre els artistes que s’uneixen per cantar contra la crisi de l’habitatge» (Ràdio Sabadell).",
+      "itemId": "a0fbcba4253173f2"
+    },
+    {
+      "id": "1088b6796f9bef4e",
+      "t": "2026-11-09T16:58:52.152Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Obres i urbanisme.",
+      "itemId": "a0fbcba4253173f2"
     }
   ],
-  "actualizado": "2026-11-09T16:38:24.922Z"
+  "actualizado": "2026-11-09T17:00:11.143Z"
 }

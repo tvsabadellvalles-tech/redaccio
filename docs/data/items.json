@@ -108,6 +108,31 @@
   },
   "items": [
     {
+      "id": "a0fbcba4253173f2",
+      "titulo": "Flashy Ice Cream, 31 FAM i Ven’nus, entre els artistes que s’uneixen per cantar contra la crisi de l’habitatge",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/flashy-31-fam-i-vennus-artistes-habitatge",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-09T16:40:56.000Z",
+      "detectado": "2026-11-09T16:58:52.149Z",
+      "sensible": false,
+      "etiquetas": [
+        "urbanismo"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "4236d9804db6c44a",
       "titulo": "Signat el conveni amb la Generalitat per a la construcció de 94 pisos de protecció oficial a Sentmenat",
       "enlace": "https://www.diaridesabadell.com/valles/sentmenat/conveni-pisos-protegits-sentmenat-can-vilar-generalitat.html",
@@ -125,6 +150,33 @@
       "etiquetas": [],
       "puntuacion": 0,
       "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "f7fc91c35232fd8b",
+      "titulo": "Retorn a Cal Balsach sense premi per al FS Sabadell Femení",
+      "enlace": "https://radiosabadell.fm/esports/futbol-sala/retorn-cal-balsach-fs-sabadell-femeni-glories",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-09T16:07:53.000Z",
+      "detectado": "2026-11-09T16:58:52.149Z",
+      "sensible": false,
+      "etiquetas": [
+        "urbanismo",
+        "medioambiente",
+        "deportes"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "obres i urbanisme, medi ambient"
+      ],
       "duplicadaDe": null,
       "propuesta": false
     },
@@ -1768,5 +1820,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-09T16:38:24.918Z"
+  "actualizado": "2026-11-09T17:00:11.139Z"
 }
