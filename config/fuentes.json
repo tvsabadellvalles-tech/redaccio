@@ -13,7 +13,7 @@
   "fuentes": [
     { "id": "ayto-sabadell", "nombre": "Ajuntament de Sabadell", "municipio": "sabadell", "tipo": "oficial", "url": "https://web.sabadell.cat/servei-de-premsa/notes-premsa", "activa": false, "nota": "La pàgina de notes de premsa respon HTTP 200, però és HTML i no s'ha validat cap RSS; el rastrejador actual només processa RSS/Atom i la portada no exposa dates fiables." },
     { "id": "isabadell", "nombre": "iSabadell", "municipio": "sabadell", "tipo": "medio", "url": "https://www.isabadell.cat/feed/", "activa": true },
-    { "id": "radio-sabadell", "nombre": "Ràdio Sabadell", "municipio": "sabadell", "tipo": "medio", "url": "https://radiosabadell.fm/rss.xml", "activa": true },
+    { "id": "radio-sabadell", "nombre": "Ràdio Sabadell", "municipio": "sabadell", "tipo": "medio", "url": "https://radiosabadell.fm/rss.xml", "exclou": ["tertulies intergeneracionals"], "activa": true },
     { "id": "diari-sabadell", "nombre": "Diari de Sabadell", "municipio": "comarca", "tipo": "medio", "url": "https://www.diaridesabadell.com/feed/", "activa": true },
     {
       "id": "diari-terrassa",

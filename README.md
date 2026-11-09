@@ -29,6 +29,8 @@ El lloc es publica a <https://tvsabadellvalles-tech.github.io/redaccio/>. El wor
 
 `config/fuentes.json` activa 20 canals de notícies. El rastrejador conserva només les peces d'avui i, als mitjans comarcals, aplica una llista de localitats dels 23 municipis. ACN no ofereix un RSS accessible a les rutes verificades: s'utilitzen les dades estructurades de portada i es conserva només titular, data i enllaç original. 3CatInfo utilitza el seu RSS oficial de Barcelona i filtra les peces que mencionen municipis del Vallès Occidental. El resum de serveis consulta a part FGC, Rodalies, Trànsit, Meteocat i Interior; les incidències de trànsit no s'inclouen com a notícies. També consulta el calendari públic de TV Sabadell-Vallès: l'exportació ICS es processa per generar només les activitats del dia amb hora i títol; no es desen descripcions ni assistents.
 
+En Ràdio Sabadell s'exclou la sèrie d'àudio «Tertúlies Intergeneracionals» perquè els seus episodis no ocupin l'escaleta de notícies.
+
 ### Cadència i salut de les fonts
 
 | Procés | Freqüència | Què significa |

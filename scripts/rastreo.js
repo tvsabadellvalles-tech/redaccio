@@ -869,6 +869,7 @@ async function consultarCalendari(config, ara) {
 
 function coincideixFont(crud, font, ara, municipis) {
   const text = normalizar(`${crud.title || ''} ${crud.contentSnippet || ''} ${crud.content || ''} ${crud.summary || ''}`);
+  if (font.exclou?.some((terme) => text.includes(normalizar(terme)))) return false;
   if (font.inclou?.length && !font.inclou.some((terme) => text.includes(normalizar(terme)))) return false;
   if (font.localitats?.length && !font.localitats.some((lloc) => coincideixTerme(text, lloc))) return false;
   if (font.municipis?.length && !municipis.some((municipi) =>
