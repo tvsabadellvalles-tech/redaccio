@@ -77,10 +77,6 @@
       "nombre": "Sant Llorenç Savall"
     },
     {
-      "id": "terrassa",
-      "nombre": "Terrassa"
-    },
-    {
       "id": "ullastrell",
       "nombre": "Ullastrell"
     },
@@ -154,27 +150,6 @@
       "motivos": [
         "obres i urbanisme"
       ],
-      "duplicadaDe": null,
-      "propuesta": false
-    },
-    {
-      "id": "9e8b45d6c4d16a0b",
-      "titulo": "El Diari de Terrassa revalida el seu lideratge: prop d'un 70% dels terrassencs l'usen per informar-se",
-      "enlace": "https://www.diarideterrassa.com/terrassa/el-diari-de-terrassa-revalida-el-seu-lideratge-prop-dun-70-dels-terrassencs-lusen-per-informar-se.html",
-      "fuente": "diari-terrassa",
-      "fuenteNombre": "Diari de Terrassa",
-      "tipo": "medio",
-      "resumen": "",
-      "municipio": "comarca",
-      "municipiosMencionados": [
-        "terrassa"
-      ],
-      "publicado": "2026-11-09T16:19:56.000Z",
-      "detectado": "2026-11-09T17:04:32.088Z",
-      "sensible": false,
-      "etiquetas": [],
-      "puntuacion": 0,
-      "motivos": [],
       "duplicadaDe": null,
       "propuesta": false
     },
@@ -342,31 +317,6 @@
       "propuesta": false
     },
     {
-      "id": "094f3725ec53791f",
-      "titulo": "Creix la desconnexió amb l'activitat política de Terrassa: un 40% dels veïns no saben quins partits tenen representació",
-      "enlace": "https://www.diarideterrassa.com/terrassa/creix-la-desconnexio-amb-lactivitat-politica-de-terrassa-un-40-dels-veins-no-saben-quins-partits-tenen-representacio.html",
-      "fuente": "diari-terrassa",
-      "fuenteNombre": "Diari de Terrassa",
-      "tipo": "medio",
-      "resumen": "",
-      "municipio": "comarca",
-      "municipiosMencionados": [
-        "terrassa"
-      ],
-      "publicado": "2026-11-09T13:04:00.000Z",
-      "detectado": "2026-11-09T13:42:56.988Z",
-      "sensible": false,
-      "etiquetas": [
-        "politica"
-      ],
-      "puntuacion": 2,
-      "motivos": [
-        "política local"
-      ],
-      "duplicadaDe": null,
-      "propuesta": false
-    },
-    {
       "id": "3f4dddb96afbf4a0",
       "titulo": "Obert el termini d’inscripcions per participar a la 56a edició del Concurs d’Aparadors de Nadal",
       "enlace": "https://www.montcada.cat/actualitat/noticies/obert-el-termini-dinscripcions-per-participar-a-la-56a-edicio-del-concurs-daparadors-de-nadal.html",
@@ -521,27 +471,6 @@
       "motivos": [
         "economia i ocupació"
       ],
-      "duplicadaDe": null,
-      "propuesta": false
-    },
-    {
-      "id": "0c0c7c96ee36453a",
-      "titulo": "Terrassa és de novel·la negra: “Mai es pot subestimar el lector, no el podem enganyar”",
-      "enlace": "https://www.diarideterrassa.com/cultura-i-espectacles/terrassa-es-de-novella-negra-mai-es-pot-subestimar-el-lector-no-el-podem-enganyar.html",
-      "fuente": "diari-terrassa",
-      "fuenteNombre": "Diari de Terrassa",
-      "tipo": "medio",
-      "resumen": "",
-      "municipio": "comarca",
-      "municipiosMencionados": [
-        "terrassa"
-      ],
-      "publicado": "2026-11-09T12:14:49.000Z",
-      "detectado": "2026-11-09T12:26:03.414Z",
-      "sensible": false,
-      "etiquetas": [],
-      "puntuacion": 0,
-      "motivos": [],
       "duplicadaDe": null,
       "propuesta": false
     },
@@ -790,32 +719,6 @@
       "propuesta": false
     },
     {
-      "id": "85b51f0dbc2ebc10",
-      "titulo": "Torna la Fira d’Ocupació ActiVallès: 25 empreses busquen treballadors a Terrassa",
-      "enlace": "https://www.diarideterrassa.com/economia/torna-la-fira-docupacio-activalles-25-empreses-busquen-treballadors-a-terrassa.html",
-      "fuente": "diari-terrassa",
-      "fuenteNombre": "Diari de Terrassa",
-      "tipo": "medio",
-      "resumen": "",
-      "municipio": "comarca",
-      "municipiosMencionados": [
-        "terrassa"
-      ],
-      "publicado": "2026-11-09T11:26:32.000Z",
-      "detectado": "2026-11-09T12:26:03.414Z",
-      "sensible": false,
-      "etiquetas": [
-        "economia",
-        "cultura"
-      ],
-      "puntuacion": 1,
-      "motivos": [
-        "economia i ocupació"
-      ],
-      "duplicadaDe": null,
-      "propuesta": false
-    },
-    {
       "id": "74c66cf99ede52f6",
       "titulo": "Posem rostre a la repressió franquista a Sabadell",
       "enlace": "https://radiosabadell.fm/podcast/noticies-mati-judicis-sumarissims-091126",
@@ -915,8 +818,7 @@
       "resumen": "",
       "municipio": "sabadell",
       "municipiosMencionados": [
-        "sabadell",
-        "terrassa"
+        "sabadell"
       ],
       "publicado": "2026-11-09T11:08:37.000Z",
       "detectado": "2026-11-09T12:26:03.414Z",
@@ -1134,6 +1036,27 @@
       "propuesta": false
     },
     {
+      "id": "9e0e5e028a5f64dd",
+      "titulo": "“Formem part d’un projecte col·lectiu més enllà de les classes”",
+      "enlace": "https://www.santquirzevalles.cat/actualitat/noticies/201cser-membre-significa-formar-part-d2019un-projecte-col-lectiu-mes-enlla-de-les-classes201d",
+      "fuente": "ayto-sant-quirze",
+      "fuenteNombre": "Ajuntament de Sant Quirze del Vallès",
+      "tipo": "oficial",
+      "resumen": "Àngels Lacoma, presidenta de l’Associació d’Alumnat i Amistats de l’Olivera",
+      "municipio": "sant-quirze",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-09T09:35:28.000Z",
+      "detectado": "2026-11-09T17:18:54.802Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "03f230c161bb04dd",
       "titulo": "Torna la Festa dels Peluixos a la Biblioteca",
       "enlace": "https://www.ripollet.cat/actualitat/noticies/torna-la-festa-dels-peluixos-a-la-biblioteca",
@@ -1222,6 +1145,31 @@
       ],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "03aecfe80bdd7c44",
+      "titulo": "La Policia Local apropa al jovent eines per prevenir conflictes i situacions d'intimidació",
+      "enlace": "https://www.santquirzevalles.cat/actualitat/noticies/la-policia-local-de-sant-quirze-del-valles-apropa-als-joves-eines-per-prevenir-conflictes-i-situacions-dintimidacio",
+      "fuente": "ayto-sant-quirze",
+      "fuenteNombre": "Ajuntament de Sant Quirze del Vallès",
+      "tipo": "oficial",
+      "resumen": "La xerrada, adreçada a l’alumnat de 4t d’ESO de l’Institut Escola Onze de Setembre, ha tractat sobre les amenaces, les coaccions i la prevenció de conflictes",
+      "municipio": "sant-quirze",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-09T08:45:00.000Z",
+      "detectado": "2026-11-09T17:18:54.802Z",
+      "sensible": false,
+      "etiquetas": [
+        "sucesos",
+        "educacion"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "font oficial",
+        "successos, educació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
     },
     {
       "id": "cb8669673cc6311e",
@@ -1477,27 +1425,6 @@
       "propuesta": false
     },
     {
-      "id": "20835b1950787155",
-      "titulo": "Mentors per impulsar el futur de 40 joves de Terrassa",
-      "enlace": "https://www.diarideterrassa.com/terrassa/mentors-per-impulsar-el-futur-de-40-joves-de-terrassa.html",
-      "fuente": "diari-terrassa",
-      "fuenteNombre": "Diari de Terrassa",
-      "tipo": "medio",
-      "resumen": "",
-      "municipio": "comarca",
-      "municipiosMencionados": [
-        "terrassa"
-      ],
-      "publicado": "2026-11-09T07:25:30.000Z",
-      "detectado": "2026-11-09T07:53:15.701Z",
-      "sensible": false,
-      "etiquetas": [],
-      "puntuacion": 0,
-      "motivos": [],
-      "duplicadaDe": null,
-      "propuesta": false
-    },
-    {
       "id": "3ea99672bc1126ba",
       "titulo": "‘La vida que hi ha entre les parets’",
       "enlace": "https://www.isabadell.cat/opinio/la-vida-que-hi-ha-entre-parets-340308/",
@@ -1712,5 +1639,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-09T17:04:48.004Z"
+  "actualizado": "2026-11-09T17:19:14.009Z"
 }

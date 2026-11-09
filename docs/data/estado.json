@@ -14,7 +14,7 @@
     },
     "diari-terrassa": {
       "ok": true,
-      "items": 4
+      "items": 0
     },
     "acn": {
       "ok": true,
@@ -74,13 +74,13 @@
     },
     "ayto-sant-quirze": {
       "ok": true,
-      "items": 0
+      "items": 2
     },
     "324-comarques": {
       "ok": true,
       "items": 0
     }
   },
-  "consultat": "2026-11-09T17:04:32.088Z",
-  "actualizado": "2026-11-09T17:04:48.006Z"
+  "consultat": "2026-11-09T17:18:54.802Z",
+  "actualizado": "2026-11-09T17:19:14.012Z"
 }

@@ -1,34 +1,6 @@
 {
   "eventos": [
     {
-      "id": "9e0a1378831ae3d7",
-      "t": "2026-10-28T18:44:43.933Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetas: Sucesos.",
-      "itemId": "0182488afee43883"
-    },
-    {
-      "id": "6470570c65cfb124",
-      "t": "2026-10-28T18:44:43.934Z",
-      "agente": "mesa",
-      "texto": "Propongo para la escaleta (3 pts): fuente oficial · sucesos.",
-      "itemId": "0182488afee43883"
-    },
-    {
-      "id": "cbc1df1e9ed904d6",
-      "t": "2026-10-28T18:44:43.935Z",
-      "agente": "rastreador",
-      "texto": "He recogido «Fins al 17 de novembre es poden fer inscripcions a la Fira de Nadal» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "3fa264eebe646ac9"
-    },
-    {
-      "id": "d888ac49963f1aff",
-      "t": "2026-10-28T18:44:43.936Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetas: Cultura y fiestas.",
-      "itemId": "3fa264eebe646ac9"
-    },
-    {
       "id": "18056cac28f16e6f",
       "t": "2026-10-28T18:44:43.937Z",
       "agente": "rastreador",
@@ -2799,7 +2771,35 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Educació.",
       "itemId": "b05161b4cabc771c"
+    },
+    {
+      "id": "85ae01b96410ffa2",
+      "t": "2026-11-09T17:18:54.802Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La Policia Local apropa al jovent eines per prevenir conflictes i situacions d'intimidació» (Ajuntament de Sant Quirze del Vallès).",
+      "itemId": "03aecfe80bdd7c44"
+    },
+    {
+      "id": "0f9864b30dacadec",
+      "t": "2026-11-09T17:18:54.803Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Successos, Educació.",
+      "itemId": "03aecfe80bdd7c44"
+    },
+    {
+      "id": "964a19c16060aaef",
+      "t": "2026-11-09T17:18:54.804Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): font oficial · successos, educació.",
+      "itemId": "03aecfe80bdd7c44"
+    },
+    {
+      "id": "ed223471a952bc13",
+      "t": "2026-11-09T17:18:54.805Z",
+      "agente": "rastreador",
+      "texto": "He recollit «“Formem part d’un projecte col·lectiu més enllà de les classes”» (Ajuntament de Sant Quirze del Vallès).",
+      "itemId": "9e0e5e028a5f64dd"
     }
   ],
-  "actualizado": "2026-11-09T17:04:48.008Z"
+  "actualizado": "2026-11-09T17:19:14.014Z"
 }
