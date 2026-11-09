@@ -104,6 +104,71 @@
   },
   "items": [
     {
+      "id": "37691103e1687c56",
+      "titulo": "CCOO, UGT i la FAVS criden a la vaga de l'11N: \"El nostre salari se'n va per tot arreu\"",
+      "enlace": "https://www.diaridesabadell.com/sabadell/crida-vaga-general-ccoo-ugt-favs-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-09T18:00:44.000Z",
+      "detectado": "2026-11-09T18:18:41.437Z",
+      "sensible": false,
+      "etiquetas": [
+        "urbanismo",
+        "salud",
+        "educacion"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "obres i urbanisme, salut, educació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "4ad6344bee6fcd01",
+      "titulo": "Segueix el CE Sabadell - Real Sociedad 'B', en directe",
+      "enlace": "https://www.diaridesabadell.com/esports/centre-esports-sabadell-real-sociedad-minut-a-minut-directe-segona-divisio.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-09T18:00:23.000Z",
+      "detectado": "2026-11-09T18:18:41.437Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "eabf9cd795ab79a1",
+      "titulo": "Noves incorporacions al patronat de la Fundació per la Indústria",
+      "enlace": "https://www.diaridesabadell.com/diners/nous-membres-patronat-fundacio-per-la-industria.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-09T17:29:18.000Z",
+      "detectado": "2026-11-09T18:18:41.437Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "b05161b4cabc771c",
       "titulo": "L'Institut Castellar dona un nou impuls al seu mural",
       "enlace": "https://www.lactual.cat/actualitat/institut-castellar-dona-nou-impuls-seu-mural_55348_102.html",
@@ -198,6 +263,25 @@
       "motivos": [
         "obres i urbanisme, medi ambient"
       ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "ce19911b459db413",
+      "titulo": "Les arts escèniques per a nens amb pares a la presó",
+      "enlace": "https://www.diaridesabadell.com/oci-cultura/festival-elpetit-centre-penitenciari-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-09T15:42:29.000Z",
+      "detectado": "2026-11-09T18:18:41.437Z",
+      "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
       "duplicadaDe": null,
       "propuesta": false
     },
@@ -1639,5 +1723,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-09T17:19:14.009Z"
+  "actualizado": "2026-11-09T18:19:00.486Z"
 }

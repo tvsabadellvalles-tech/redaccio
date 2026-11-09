@@ -1,55 +1,6 @@
 {
   "eventos": [
     {
-      "id": "18056cac28f16e6f",
-      "t": "2026-10-28T18:44:43.937Z",
-      "agente": "rastreador",
-      "texto": "He recogido «El carrer de Catalunya unifica el sentit de circulació cap a la Creueta» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "d18e3655d812eefc"
-    },
-    {
-      "id": "48d2100b5e06e4f6",
-      "t": "2026-10-28T18:44:43.938Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetas: Salud.",
-      "itemId": "d18e3655d812eefc"
-    },
-    {
-      "id": "652d0e1f16509b07",
-      "t": "2026-10-28T18:44:43.939Z",
-      "agente": "rastreador",
-      "texto": "He recogido «'Tal com raja' de Ràdio Castellar entrevista Joan Tubau, de Metges Sense Fronteres» (L'Actual - Castellar del Vallès).",
-      "itemId": "8184cb6d0af0cd91"
-    },
-    {
-      "id": "42068ba9d4bdc300",
-      "t": "2026-10-28T18:44:43.940Z",
-      "agente": "rastreador",
-      "texto": "He recogido «L'Ajuntament convoca a les 20 hores un minut de silenci per les víctimes de l'accident ferroviari» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "955921984b12a6bd"
-    },
-    {
-      "id": "2de8235a2d534aba",
-      "t": "2026-10-28T18:44:43.941Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetas: Sucesos.",
-      "itemId": "955921984b12a6bd"
-    },
-    {
-      "id": "77080c0af9f0ab64",
-      "t": "2026-10-28T18:44:43.942Z",
-      "agente": "vigilante",
-      "texto": "Posible tema sensible (menores, víctimas, detenidos o datos personales): revisión humana obligatoria antes de cualquier uso.",
-      "itemId": "955921984b12a6bd"
-    },
-    {
-      "id": "e12f31b00b7633c2",
-      "t": "2026-10-28T18:44:43.943Z",
-      "agente": "mesa",
-      "texto": "Propongo para la escaleta (3 pts): fuente oficial · sucesos.",
-      "itemId": "955921984b12a6bd"
-    },
-    {
       "id": "60f684dcd4eb04a5",
       "t": "2026-10-28T18:44:43.944Z",
       "agente": "rastreador",
@@ -2799,7 +2750,56 @@
       "agente": "rastreador",
       "texto": "He recollit «“Formem part d’un projecte col·lectiu més enllà de les classes”» (Ajuntament de Sant Quirze del Vallès).",
       "itemId": "9e0e5e028a5f64dd"
+    },
+    {
+      "id": "165b98238cf44678",
+      "t": "2026-11-09T18:18:41.437Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Les arts escèniques per a nens amb pares a la presó» (Diari de Sabadell).",
+      "itemId": "ce19911b459db413"
+    },
+    {
+      "id": "69c5e4c865caa936",
+      "t": "2026-11-09T18:18:41.438Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "ce19911b459db413"
+    },
+    {
+      "id": "6beae6d3c3ba737a",
+      "t": "2026-11-09T18:18:41.439Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Noves incorporacions al patronat de la Fundació per la Indústria» (Diari de Sabadell).",
+      "itemId": "eabf9cd795ab79a1"
+    },
+    {
+      "id": "ca528abbb04180e4",
+      "t": "2026-11-09T18:18:41.440Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Segueix el CE Sabadell - Real Sociedad 'B', en directe» (Diari de Sabadell).",
+      "itemId": "4ad6344bee6fcd01"
+    },
+    {
+      "id": "77024d708afb0229",
+      "t": "2026-11-09T18:18:41.441Z",
+      "agente": "rastreador",
+      "texto": "He recollit «CCOO, UGT i la FAVS criden a la vaga de l'11N: \"El nostre salari se'n va per tot arreu\"» (Diari de Sabadell).",
+      "itemId": "37691103e1687c56"
+    },
+    {
+      "id": "cedea89cb8b485e7",
+      "t": "2026-11-09T18:18:41.442Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Obres i urbanisme, Salut, Educació.",
+      "itemId": "37691103e1687c56"
+    },
+    {
+      "id": "2d02ec2a96dc8113",
+      "t": "2026-11-09T18:18:41.443Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): obres i urbanisme, salut, educació.",
+      "itemId": "37691103e1687c56"
     }
   ],
-  "actualizado": "2026-11-09T17:19:14.014Z"
+  "actualizado": "2026-11-09T18:19:00.490Z"
 }
