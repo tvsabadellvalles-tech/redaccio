@@ -55,12 +55,15 @@ jobs:
 
       - name: Configurar GitHub Pages
         uses: actions/configure-pages@v5
+        if: always()
 
       - name: Preparar archivos del sitio
         uses: actions/upload-pages-artifact@v3
+        if: always()
         with:
           path: docs
 
       - name: Publicar en GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+        if: always()
