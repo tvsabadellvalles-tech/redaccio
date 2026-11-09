@@ -2218,7 +2218,98 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Medi ambient.",
       "itemId": "c2f5508295120fac"
+    },
+    {
+      "id": "128918669b6465f8",
+      "t": "2026-11-09T11:29:13.610Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L’Ajuntament confirma que les incidències detectades al riu Besòs van ser puntuals i reforça el seu compromís amb el control ambiental de les obres del soterrament» (Ajuntament de Montcada i Reixac).",
+      "itemId": "5e6a05bf73cb00dc"
+    },
+    {
+      "id": "98d1ab99379e28df",
+      "t": "2026-11-09T11:29:13.611Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Obres i urbanisme.",
+      "itemId": "5e6a05bf73cb00dc"
+    },
+    {
+      "id": "e171da027a240167",
+      "t": "2026-11-09T11:29:13.612Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Dem� dimarts, projecci� de la pel�l�cula Solas a la Biblioteca de Badia» (Ajuntament de Badia del Vallès).",
+      "itemId": "633deee576b4c343"
+    },
+    {
+      "id": "141ef6c0f33732ea",
+      "t": "2026-11-09T11:29:13.613Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "633deee576b4c343"
+    },
+    {
+      "id": "7c03bab2b30f8342",
+      "t": "2026-11-09T11:29:13.614Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Rodalies viu un nou matí de retards a les portes de tres jornades de vaga» (iSabadell).",
+      "itemId": "9498382517c11201"
+    },
+    {
+      "id": "7b94590a9e0d48d9",
+      "t": "2026-11-09T11:29:13.615Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat, Salut.",
+      "itemId": "9498382517c11201"
+    },
+    {
+      "id": "6af001816366de44",
+      "t": "2026-11-09T11:29:13.616Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): mobilitat, salut.",
+      "itemId": "9498382517c11201"
+    },
+    {
+      "id": "c5c7ab561193307b",
+      "t": "2026-11-09T11:29:13.618Z",
+      "agente": "rastreador",
+      "texto": "He recollit «TEATRE: DAKOTA» (Ajuntament de Barberà del Vallès).",
+      "itemId": "7ceb0c7c778f5d82"
+    },
+    {
+      "id": "21fca3d53b3d5413",
+      "t": "2026-11-09T11:29:13.619Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "7ceb0c7c778f5d82"
+    },
+    {
+      "id": "40852123207fb708",
+      "t": "2026-11-09T11:29:13.620Z",
+      "agente": "rastreador",
+      "texto": "He recollit «JUGATECAMBIENTAL: LA SAMARRETA DEL PARC» (Ajuntament de Barberà del Vallès).",
+      "itemId": "5d7df8cbd62dba27"
+    },
+    {
+      "id": "07978cbc7a200273",
+      "t": "2026-11-09T11:29:13.621Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Serveis mínims a FGC per a la jornada de vaga de l'11 de novembre» (Diari de Sabadell).",
+      "itemId": "06dddf1eee2bcdd8"
+    },
+    {
+      "id": "5bd079918d1396d9",
+      "t": "2026-11-09T11:29:13.622Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat.",
+      "itemId": "06dddf1eee2bcdd8"
+    },
+    {
+      "id": "6e9e3e82c3ed2d58",
+      "t": "2026-11-09T11:29:13.623Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Posem rostre a la repressió franquista a Sabadell» (Ràdio Sabadell).",
+      "itemId": "74c66cf99ede52f6"
     }
   ],
-  "actualizado": "2026-11-09T10:36:59.618Z"
+  "actualizado": "2026-11-09T11:30:23.405Z"
 }

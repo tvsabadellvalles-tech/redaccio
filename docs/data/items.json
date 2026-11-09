@@ -108,6 +108,141 @@
   },
   "items": [
     {
+      "id": "74c66cf99ede52f6",
+      "titulo": "Posem rostre a la repressió franquista a Sabadell",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-mati-judicis-sumarissims-091126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-09T11:25:10.000Z",
+      "detectado": "2026-11-09T11:29:13.610Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "06dddf1eee2bcdd8",
+      "titulo": "Serveis mínims a FGC per a la jornada de vaga de l'11 de novembre",
+      "enlace": "https://www.diaridesabadell.com/valles/vaga-11-novembre-fgc-serveis-minims.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-09T11:22:15.000Z",
+      "detectado": "2026-11-09T11:29:13.610Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "mobilitat"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "5d7df8cbd62dba27",
+      "titulo": "JUGATECAMBIENTAL: LA SAMARRETA DEL PARC",
+      "enlace": "https://www.bdv.cat/agenda/jugatecambiental-la-samarreta-del-parc",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "Vine amb la teva samarreta i pinta-la amb elements del parc, celebrem la importància dels espais verds metropolitans Organitza: AMB amb la col·laboració de l'Ajuntament de Barberà del Vallès",
+      "municipio": "barbera",
+      "municipiosMencionados": [
+        "barbera"
+      ],
+      "publicado": "2026-11-09T11:17:00.000Z",
+      "detectado": "2026-11-09T11:29:13.610Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "7ceb0c7c778f5d82",
+      "titulo": "TEATRE: DAKOTA",
+      "enlace": "https://www.bdv.cat/agenda/teatre-dakota",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "Si tens somnis premonitoris, t'atreviries a canviar la realitat? L'Hipòlit, es un dentista obsessionat amb el control, es desperta d'un coma amb un do inquietant: somnis premonitoris. Quan hi veu la sevada dona amb un altre home, comença…",
+      "municipio": "barbera",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-09T11:09:00.000Z",
+      "detectado": "2026-11-09T11:29:13.610Z",
+      "sensible": false,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "906c3420447756ce",
+      "titulo": "La pastisseria Villaró posa un peu a Sabadell",
+      "enlace": "https://www.lactual.cat/actualitat/pastisseria-villaro-posa-peu-sabadell_55335_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-09T10:59:46.000Z",
+      "detectado": "2026-11-09T11:29:13.610Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "9498382517c11201",
+      "titulo": "Rodalies viu un nou matí de retards a les portes de tres jornades de vaga",
+      "enlace": "https://www.isabadell.cat/societat/mobilitat/rodalies-viu-un-nou-mati-de-retards-a-les-portes-de-tres-jornades-de-vaga-340329/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-09T10:59:37.000Z",
+      "detectado": "2026-11-09T11:29:13.610Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad",
+        "salud"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "mobilitat, salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
       "id": "c2f5508295120fac",
       "titulo": "Premi milionari al Vallès Occidental en l'Euromillones",
       "enlace": "https://www.diaridesabadell.com/valles/santa-perpetua-mogoda/euromillones-santa-perpetua-sorteig-premi.html",
@@ -674,7 +809,54 @@
       ],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "5e6a05bf73cb00dc",
+      "titulo": "L’Ajuntament confirma que les incidències detectades al riu Besòs van ser puntuals i reforça el seu compromís amb el control ambiental de les obres del soterrament",
+      "enlace": "https://www.montcada.cat/actualitat/noticies/lajuntament-confirma-que-les-incidencies-detectades-al-riu-besos-van-ser-puntuals-i-reforca-el-seu-compromis-amb-el-control-ambiental-de-les-obres-del-soterrament.html",
+      "fuente": "ayto-montcada",
+      "fuenteNombre": "Ajuntament de Montcada i Reixac",
+      "tipo": "oficial",
+      "resumen": "",
+      "municipio": "montcada",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-08T23:00:00.000Z",
+      "detectado": "2026-11-09T11:29:13.610Z",
+      "sensible": false,
+      "etiquetas": [
+        "urbanismo"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "font oficial",
+        "obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "633deee576b4c343",
+      "titulo": "Dem� dimarts, projecci� de la pel�l�cula Solas a la Biblioteca de Badia",
+      "enlace": "http://www.badiadelvalles.cat/document.php?id=12322",
+      "fuente": "ayto-badia",
+      "fuenteNombre": "Ajuntament de Badia del Vallès",
+      "tipo": "oficial",
+      "resumen": "",
+      "municipio": "badia",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-08T23:00:00.000Z",
+      "detectado": "2026-11-09T11:29:13.610Z",
+      "sensible": false,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
     }
   ],
-  "actualizado": "2026-11-09T10:36:59.614Z"
+  "actualizado": "2026-11-09T11:30:23.400Z"
 }

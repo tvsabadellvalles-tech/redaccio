@@ -2,15 +2,15 @@
   "fuentes": {
     "isabadell": {
       "ok": true,
-      "items": 2
+      "items": 3
     },
     "radio-sabadell": {
       "ok": true,
-      "items": 6
+      "items": 7
     },
     "diari-sabadell": {
       "ok": true,
-      "items": 7
+      "items": 8
     },
     "diari-terrassa": {
       "ok": true,
@@ -22,7 +22,7 @@
     },
     "ayto-castellar": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "ayto-sentmenat": {
       "ok": true,
@@ -50,7 +50,7 @@
     },
     "ayto-montcada": {
       "ok": true,
-      "items": 1
+      "items": 2
     },
     "avisos-montcada": {
       "ok": true,
@@ -62,7 +62,7 @@
     },
     "ayto-barbera": {
       "ok": true,
-      "items": 5
+      "items": 7
     },
     "ayto-cerdanyola": {
       "ok": true,
@@ -70,7 +70,7 @@
     },
     "ayto-badia": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "ayto-sant-quirze": {
       "ok": true,
@@ -81,6 +81,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-09T10:36:23.354Z",
-  "actualizado": "2026-11-09T10:36:59.616Z"
+  "consultat": "2026-11-09T11:29:13.610Z",
+  "actualizado": "2026-11-09T11:30:23.402Z"
 }
