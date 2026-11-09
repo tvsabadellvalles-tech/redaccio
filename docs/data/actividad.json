@@ -1,13 +1,6 @@
 {
   "eventos": [
     {
-      "id": "8f22b27f025f9fb4",
-      "t": "2026-10-28T18:45:33.420Z",
-      "agente": "rastreador",
-      "texto": "He recogido «Aquest divendres 30, La Nau celebra la Castanyada!» (Ajuntament de Barberà del Vallès).",
-      "itemId": "ccdca50b0980608e"
-    },
-    {
       "id": "64c31bb1e9190cd5",
       "t": "2026-10-28T18:45:33.421Z",
       "agente": "etiquetador",
@@ -2799,7 +2792,14 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Esports.",
       "itemId": "a3a2d756df142a65"
+    },
+    {
+      "id": "c51f2b322a387fb4",
+      "t": "2026-11-09T23:08:30.798Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Infopòdcast Sabadell 10.11.26» (Ràdio Sabadell).",
+      "itemId": "47edd5662c4b0fce"
     }
   ],
-  "actualizado": "2026-11-09T22:25:35.916Z"
+  "actualizado": "2026-11-09T23:08:44.248Z"
 }

@@ -2,8 +2,8 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-09T22:25:22.436Z",
-  "total": 18,
+  "consultat": "2026-11-09T23:08:30.798Z",
+  "total": 12,
   "activitats": [
     {
       "titol": "PAULINO FESTA",
@@ -13,80 +13,10 @@
       "color": null
     },
     {
-      "titol": "Joan entra",
-      "inici": "2026-11-09T07:45:00.000Z",
-      "final": "2026-11-09T08:15:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "COTXE! (Joan) Ple extraordinari pressupostos",
-      "inici": "2026-11-09T08:30:00.000Z",
-      "final": "2026-11-09T09:30:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "comença pràctiques (JM) Juliana",
-      "inici": "2026-11-09T09:00:00.000Z",
-      "final": "2026-11-09T10:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "Gent de Sabadell",
-      "inici": "2026-11-09T10:00:00.000Z",
-      "final": "2026-11-09T11:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "(Joan) Acreditacions LaLiga",
-      "inici": "2026-11-09T11:00:00.000Z",
-      "final": "2026-11-09T11:30:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "Ferran entra més tard",
-      "inici": "2026-11-09T14:00:00.000Z",
-      "final": "2026-11-09T14:15:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "L'Informatiu",
-      "inici": "2026-11-09T15:00:00.000Z",
-      "final": "2026-11-09T16:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "CX - VIA 15 (Cost de la vida i els sous)",
-      "inici": "2026-11-09T17:00:00.000Z",
-      "final": "2026-11-09T18:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "(Ferran) LÍMIT Reels VDM",
-      "inici": "2026-11-09T18:45:00.000Z",
-      "final": "2026-11-09T19:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "COTXE! (Ferran) CE Sabadell - Real Sociedad",
-      "inici": "2026-11-09T19:30:00.000Z",
-      "final": "2026-11-09T21:30:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "(Ferran) LÍMIT REEL 1P, 19.45",
-      "inici": "2026-11-09T19:45:00.000Z",
-      "final": "2026-11-09T20:00:00.000Z",
-      "totElDia": false,
+      "titol": "VAGA GENERAL HABITATGE",
+      "inici": "2026-11-11T00:00:00.000Z",
+      "final": "2026-11-12T00:00:00.000Z",
+      "totElDia": true,
       "color": null
     },
     {
@@ -111,13 +41,6 @@
       "color": null
     },
     {
-      "titol": "L'Arlequinat",
-      "inici": "2026-11-10T16:30:00.000Z",
-      "final": "2026-11-10T18:30:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
       "titol": "CX - VIA 15 (Habitatge)",
       "inici": "2026-11-10T17:00:00.000Z",
       "final": "2026-11-10T18:00:00.000Z",
@@ -130,8 +53,43 @@
       "final": "2026-11-10T20:45:00.000Z",
       "totElDia": false,
       "color": null
+    },
+    {
+      "titol": "Vaga Alcampo",
+      "inici": "2026-11-11T08:00:00.000Z",
+      "final": "2026-11-11T09:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "Espai Obert",
+      "inici": "2026-11-11T10:00:00.000Z",
+      "final": "2026-11-11T11:30:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "Reunió Va de moda (teams)",
+      "inici": "2026-11-11T11:00:00.000Z",
+      "final": "2026-11-11T12:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "L'Informatiu",
+      "inici": "2026-11-11T15:00:00.000Z",
+      "final": "2026-11-11T16:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "CX - VIA 15 (Vaga general)",
+      "inici": "2026-11-11T17:00:00.000Z",
+      "final": "2026-11-11T18:00:00.000Z",
+      "totElDia": false,
+      "color": null
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-09T22:25:52.929Z"
+  "actualizado": "2026-11-09T23:09:01.755Z"
 }
