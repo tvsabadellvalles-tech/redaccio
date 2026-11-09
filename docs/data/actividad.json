@@ -2743,7 +2743,21 @@
       "agente": "rastreador",
       "texto": "He recollit «Plenergy obre una nova gasolinera a Castellar» (L'Actual - Castellar del Vallès).",
       "itemId": "80b9e06bb35d06fc"
+    },
+    {
+      "id": "57a5f0adefd1a8fe",
+      "t": "2026-11-09T15:32:52.905Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Un viatge al barri de Harlem de fa cent anys: el swing guanya pes en l'imaginari de Castellar» (Diari de Sabadell).",
+      "itemId": "a850ebfce9e6ec48"
+    },
+    {
+      "id": "68a7d6509a69af44",
+      "t": "2026-11-09T15:32:52.906Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Tertúlies Intergeneracionals: Civisme a la via publica» (Ràdio Sabadell).",
+      "itemId": "eb0a201f59cd86ad"
     }
   ],
-  "actualizado": "2026-11-09T14:39:20.789Z"
+  "actualizado": "2026-11-09T15:34:10.351Z"
 }
