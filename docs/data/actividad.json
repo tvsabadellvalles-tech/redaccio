@@ -2085,7 +2085,140 @@
       "agente": "mesa",
       "texto": "Proposo incloure-ho a l'escaleta (5 punts): font oficial · política local, obres i urbanisme, educació.",
       "itemId": "5ea4598e65805b33"
+    },
+    {
+      "id": "3eb104b31493a724",
+      "t": "2026-11-09T10:36:23.355Z",
+      "agente": "rastreador",
+      "texto": "He recollit «‘La vida que hi ha entre les parets’» (iSabadell).",
+      "itemId": "3ea99672bc1126ba"
+    },
+    {
+      "id": "59ab09953db1b6f2",
+      "t": "2026-11-09T10:36:23.356Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Educació.",
+      "itemId": "3ea99672bc1126ba"
+    },
+    {
+      "id": "f6c45b174fe0b95d",
+      "t": "2026-11-09T10:36:23.357Z",
+      "agente": "rastreador",
+      "texto": "He recollit «21 de novembre: Activitat comunitària intercultural al Centre Cívic Ca n'Amiguet» (Ajuntament de Barberà del Vallès).",
+      "itemId": "cb8669673cc6311e"
+    },
+    {
+      "id": "d0842cb5ea4478ce",
+      "t": "2026-11-09T10:36:23.358Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "cb8669673cc6311e"
+    },
+    {
+      "id": "a24446a723ba057c",
+      "t": "2026-11-09T10:36:23.359Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Bellmunt: “Tot arrenca amb el Compromís de Casp de 1412”» (iSabadell).",
+      "itemId": "a052e424bb8461c6"
+    },
+    {
+      "id": "4463c71f864e5f9f",
+      "t": "2026-11-09T10:36:23.360Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Educació.",
+      "itemId": "a052e424bb8461c6"
+    },
+    {
+      "id": "453fc136d34c7b3a",
+      "t": "2026-11-09T10:36:23.361Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Santa Perpètua de Mogoda s'emporta 'El Millón'» (Ràdio Sabadell).",
+      "itemId": "4fe83c0eb5e3c640"
+    },
+    {
+      "id": "de57beb6763aba6f",
+      "t": "2026-11-09T10:36:23.362Z",
+      "agente": "rastreador",
+      "texto": "He recollit «JUGATECAMBIENTAL: ARRELA'T ALS PARCS. FEM DE JARDINERES» (Ajuntament de Barberà del Vallès).",
+      "itemId": "38e7e26e645c333a"
+    },
+    {
+      "id": "dd5d380e1e6eb511",
+      "t": "2026-11-09T10:36:23.363Z",
+      "agente": "rastreador",
+      "texto": "He recollit «CONFERÈNCIA: NINGÚ DORMINT AL CARRER» (Ajuntament de Barberà del Vallès).",
+      "itemId": "0b4b007f50c42dfc"
+    },
+    {
+      "id": "06b1df39ae007b83",
+      "t": "2026-11-09T10:36:23.364Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Cap de setmana accidentat: un cotxe acaba bolcat i xocant contra tres vehicles aparcats a Sabadell» (Diari de Sabadell).",
+      "itemId": "78583b0b25eb9172"
+    },
+    {
+      "id": "a51a2b86e2ddca73",
+      "t": "2026-11-09T10:36:23.365Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Successos, Salut.",
+      "itemId": "78583b0b25eb9172"
+    },
+    {
+      "id": "efaa6462ce805a24",
+      "t": "2026-11-09T10:36:23.366Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): successos, salut.",
+      "itemId": "78583b0b25eb9172"
+    },
+    {
+      "id": "b0751597369b2c84",
+      "t": "2026-11-09T10:36:23.367Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La Pink Run recapta més de 20.000 euros per seguir investigant contra el càncer de mama» (Diari de Sabadell).",
+      "itemId": "4fae32c935791331"
+    },
+    {
+      "id": "9668b3c9e7c84105",
+      "t": "2026-11-09T10:36:23.368Z",
+      "agente": "deduplicador",
+      "texto": "Descartada perquè és duplicada: coincideix amb «La Pink Run Mir 2026 torna a ser un èxit de participació i recapta 22.000 euros per seguir investigant contra el càncer de mama» (Ajuntament de Montcada i Reixac).",
+      "itemId": "4fae32c935791331"
+    },
+    {
+      "id": "1b74d40c00458616",
+      "t": "2026-11-09T10:36:23.369Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Aida Guidus, PAHC: \"La vaga de l'11N és un punt d'inici del que vindrà\"» (Ràdio Sabadell).",
+      "itemId": "5ec36e39320f1311"
+    },
+    {
+      "id": "c1592b88af696439",
+      "t": "2026-11-09T10:36:23.370Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La tertúlia: la vaga general de l'11N i els pressupostos» (Ràdio Sabadell).",
+      "itemId": "8bf805d524cd2189"
+    },
+    {
+      "id": "9914331234f8fc29",
+      "t": "2026-11-09T10:36:23.371Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local.",
+      "itemId": "8bf805d524cd2189"
+    },
+    {
+      "id": "b2a627e69924ed7b",
+      "t": "2026-11-09T10:36:23.372Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Premi milionari al Vallès Occidental en l'Euromillones» (Diari de Sabadell).",
+      "itemId": "c2f5508295120fac"
+    },
+    {
+      "id": "6c11ab9503437803",
+      "t": "2026-11-09T10:36:23.373Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Medi ambient.",
+      "itemId": "c2f5508295120fac"
     }
   ],
-  "actualizado": "2026-11-09T08:55:10.386Z"
+  "actualizado": "2026-11-09T10:36:59.618Z"
 }

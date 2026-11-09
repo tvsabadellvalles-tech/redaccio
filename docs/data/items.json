@@ -108,6 +108,229 @@
   },
   "items": [
     {
+      "id": "c2f5508295120fac",
+      "titulo": "Premi milionari al Vallès Occidental en l'Euromillones",
+      "enlace": "https://www.diaridesabadell.com/valles/santa-perpetua-mogoda/euromillones-santa-perpetua-sorteig-premi.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-09T10:31:49.000Z",
+      "detectado": "2026-11-09T10:36:23.354Z",
+      "sensible": false,
+      "etiquetas": [
+        "medioambiente"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "medi ambient"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "8bf805d524cd2189",
+      "titulo": "La tertúlia: la vaga general de l'11N i els pressupostos",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-mati-tertulia-091126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-09T10:31:46.000Z",
+      "detectado": "2026-11-09T10:36:23.354Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "5ec36e39320f1311",
+      "titulo": "Aida Guidus, PAHC: \"La vaga de l'11N és un punt d'inici del que vindrà\"",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-mati-vaga-11N-091126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-09T10:24:15.000Z",
+      "detectado": "2026-11-09T10:36:23.354Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "4fae32c935791331",
+      "titulo": "La Pink Run recapta més de 20.000 euros per seguir investigant contra el càncer de mama",
+      "enlace": "https://www.diaridesabadell.com/valles/montcada/pink-run-montcada-cancer-mama-recaptacio.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "montcada"
+      ],
+      "publicado": "2026-11-09T10:18:06.000Z",
+      "detectado": "2026-11-09T10:36:23.354Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": "5310468f6f39c543",
+      "propuesta": false
+    },
+    {
+      "id": "78583b0b25eb9172",
+      "titulo": "Cap de setmana accidentat: un cotxe acaba bolcat i xocant contra tres vehicles aparcats a Sabadell",
+      "enlace": "https://www.diaridesabadell.com/sabadell/accident-sabadell-cotxe-bolcat.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-09T10:04:03.000Z",
+      "detectado": "2026-11-09T10:36:23.354Z",
+      "sensible": false,
+      "etiquetas": [
+        "sucesos",
+        "salud"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "successos, salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "0b4b007f50c42dfc",
+      "titulo": "CONFERÈNCIA: NINGÚ DORMINT AL CARRER",
+      "enlace": "https://www.bdv.cat/agenda/conferencia-ningu-dormint-al-carrer",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "A càrrec de Beatriz Fernàndez Llicenciada en Dret. Directora d'Arrels Fundació. Organitza: Aula d'Extensió Universitària",
+      "municipio": "barbera",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-09T09:54:00.000Z",
+      "detectado": "2026-11-09T10:36:23.354Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "38e7e26e645c333a",
+      "titulo": "JUGATECAMBIENTAL: ARRELA'T ALS PARCS. FEM DE JARDINERES",
+      "enlace": "https://www.bdv.cat/agenda/jugatecambiental-arrelat-als-parcs-fem-de-jardineres",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "Plantació popular per ajudar a regenerar la vegetació del parc. Organitza: AMB amb la col·laboració de l'Ajuntament de Barberà del VAllès",
+      "municipio": "barbera",
+      "municipiosMencionados": [
+        "barbera"
+      ],
+      "publicado": "2026-11-09T09:49:00.000Z",
+      "detectado": "2026-11-09T10:36:23.354Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "4fe83c0eb5e3c640",
+      "titulo": "Santa Perpètua de Mogoda s'emporta 'El Millón'",
+      "enlace": "https://radiosabadell.fm/actualitat/comarca/santa-perpetua-mogoda-el-millon",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "santa-perpetua"
+      ],
+      "publicado": "2026-11-09T09:09:29.000Z",
+      "detectado": "2026-11-09T10:36:23.354Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "a052e424bb8461c6",
+      "titulo": "Bellmunt: “Tot arrenca amb el Compromís de Casp de 1412”",
+      "enlace": "https://www.isabadell.cat/cultura/llibres/francesc-bellmunt-via-morta-339850/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-09T09:00:00.000Z",
+      "detectado": "2026-11-09T10:36:23.354Z",
+      "sensible": false,
+      "etiquetas": [
+        "educacion"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "educació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "cb8669673cc6311e",
+      "titulo": "21 de novembre: Activitat comunitària intercultural al Centre Cívic Ca n'Amiguet",
+      "enlace": "https://www.bdv.cat/noticies/21-de-novembre-activitat-comunitaria-intercultural-al-centre-civic-ca-namiguet",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "El pròxim 21 de novembre, el Centre Cívic Ca n'Amiguet acollirà tot un matí de propostes en el marc d'una activitat comunitària intercultural. Així, des de l'Ajuntament s'ha programat una jornada de convivència, amb música, dansa i cuina…",
+      "municipio": "barbera",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-09T08:33:00.000Z",
+      "detectado": "2026-11-09T10:36:23.354Z",
+      "sensible": false,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "5ea4598e65805b33",
       "titulo": "Núria Perpinyà ens convida a explorar el cos humà amb la novel·la 'El cos invisible'",
       "enlace": "http://www.cerdanyola.cat/actualitat/nuria-perpinya-ens-convida-explorar-el-cos-huma-amb-la-novella-el-cos-invisible",
@@ -334,6 +557,29 @@
       "propuesta": false
     },
     {
+      "id": "3ea99672bc1126ba",
+      "titulo": "‘La vida que hi ha entre les parets’",
+      "enlace": "https://www.isabadell.cat/opinio/la-vida-que-hi-ha-entre-parets-340308/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-09T07:00:00.000Z",
+      "detectado": "2026-11-09T10:36:23.354Z",
+      "sensible": false,
+      "etiquetas": [
+        "educacion"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "educació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "3d4723d73a97242c",
       "titulo": "Infopòdcast Sabadell 09.11.26",
       "enlace": "https://radiosabadell.fm/alacarta/audio/infopodcast-sabadell-091126",
@@ -430,5 +676,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-09T08:55:10.381Z"
+  "actualizado": "2026-11-09T10:36:59.614Z"
 }
