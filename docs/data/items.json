@@ -154,7 +154,34 @@
       ],
       "duplicadaDe": null,
       "propuesta": true
+    },
+    {
+      "id": "ef429587a1f4c203",
+      "titulo": "La història curiosa del Sabadell-Sanse: quan Alberto Edjogo va rebre l'alternativa",
+      "enlace": "https://radiosabadell.fm/esports/ce-sabadell/historia-curiosa-sabadell-sanse-alberto-edjogo",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-08T23:03:19.000Z",
+      "detectado": "2026-11-09T01:30:27.372Z",
+      "sensible": false,
+      "etiquetas": [
+        "sucesos",
+        "salud",
+        "deportes"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "successos, salut"
+      ],
+      "duplicadaDe": "ce5c9240049ec57a",
+      "propuesta": false
     }
   ],
-  "actualizado": "2026-11-09T00:18:38.292Z"
+  "actualizado": "2026-11-09T01:31:06.162Z"
 }

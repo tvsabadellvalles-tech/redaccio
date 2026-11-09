@@ -1917,7 +1917,21 @@
       "agente": "mesa",
       "texto": "Proposo incloure-ho a l'escaleta (3 punts): successos, salut.",
       "itemId": "ce5c9240049ec57a"
+    },
+    {
+      "id": "83d1cfcdfca596ef",
+      "t": "2026-11-09T01:30:27.372Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La història curiosa del Sabadell-Sanse: quan Alberto Edjogo va rebre l'alternativa» (Ràdio Sabadell).",
+      "itemId": "ef429587a1f4c203"
+    },
+    {
+      "id": "70e2d51616af4b1a",
+      "t": "2026-11-09T01:30:27.373Z",
+      "agente": "deduplicador",
+      "texto": "Descartada perquè és duplicada: coincideix amb «La història curiosa del Sabadell-Sanse: quan Alberto Edjogo va rebre l'alternativa» (Ràdio Sabadell).",
+      "itemId": "ef429587a1f4c203"
     }
   ],
-  "actualizado": "2026-11-09T00:18:38.296Z"
+  "actualizado": "2026-11-09T01:31:06.165Z"
 }
