@@ -1,13 +1,6 @@
 {
   "eventos": [
     {
-      "id": "5c635552771de2e2",
-      "t": "2026-10-28T18:44:43.948Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetas: Movilidad, Obras y urbanismo.",
-      "itemId": "c2008e2908d00e20"
-    },
-    {
       "id": "cd4802d36fcc668d",
       "t": "2026-10-28T18:44:43.949Z",
       "agente": "mesa",
@@ -2799,7 +2792,14 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Esports.",
       "itemId": "c466a98cc74631aa"
+    },
+    {
+      "id": "921313b4c1d9176b",
+      "t": "2026-11-09T18:54:47.896Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Palau al Dia - Notícies del 9/11/2026» (Ràdio Palau - Palau al Dia).",
+      "itemId": "dbbaf228be2c445a"
     }
   ],
-  "actualizado": "2026-11-09T18:46:26.025Z"
+  "actualizado": "2026-11-09T18:55:03.547Z"
 }

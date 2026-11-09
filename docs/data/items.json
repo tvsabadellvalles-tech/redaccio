@@ -173,6 +173,25 @@
       "propuesta": false
     },
     {
+      "id": "dbbaf228be2c445a",
+      "titulo": "Palau al Dia - Notícies del 9/11/2026",
+      "enlace": "https://www.radiopalau.cat/podcasts/palau-al-dia/radiopalau_podcast_6826/",
+      "fuente": "radio-palau",
+      "fuenteNombre": "Ràdio Palau - Palau al Dia",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "palau",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-09T17:59:59.000Z",
+      "detectado": "2026-11-09T18:54:47.896Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "eabf9cd795ab79a1",
       "titulo": "Noves incorporacions al patronat de la Fundació per la Indústria",
       "enlace": "https://www.diaridesabadell.com/diners/nous-membres-patronat-fundacio-per-la-industria.html",
@@ -1769,5 +1788,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-09T18:46:26.023Z"
+  "actualizado": "2026-11-09T18:55:03.544Z"
 }
