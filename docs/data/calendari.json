@@ -2,7 +2,7 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-09T12:26:03.414Z",
+  "consultat": "2026-11-09T13:42:56.988Z",
   "total": 12,
   "activitats": [
     {
@@ -56,8 +56,8 @@
     },
     {
       "titol": "L'Informatiu",
-      "inici": "2026-11-09T15:00:00.000Z",
-      "final": "2026-11-09T16:00:00.000Z",
+      "inici": "2026-11-09T14:30:00.000Z",
+      "final": "2026-11-09T15:30:00.000Z",
       "totElDia": false,
       "color": null
     },
@@ -91,5 +91,5 @@
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-09T12:27:19.616Z"
+  "actualizado": "2026-11-09T13:44:22.130Z"
 }

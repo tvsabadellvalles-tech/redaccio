@@ -108,6 +108,214 @@
   },
   "items": [
     {
+      "id": "46ebe021fd82488a",
+      "titulo": "Llum verda inicial al pressupost municipal per al 2027",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-migdia-pressupost-2027-091126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-09T13:31:16.000Z",
+      "detectado": "2026-11-09T13:42:56.988Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "política local"
+      ],
+      "duplicadaDe": "062b295c350ce099",
+      "propuesta": false
+    },
+    {
+      "id": "c496bc6dedd653ec",
+      "titulo": "12 de novembre: Jornada 'IA contra IA: com defensar-se de la nova generació de ciberatacs?'",
+      "enlace": "https://www.bdv.cat/noticies/12-de-novembre-jornada-ia-contra-ia-com-defensar-se-de-la-nova-generacio-de-ciberatacs",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "En aquesta sessió, es veurà com està evolucionant aquesta nova generació d’amenaces, quins riscos pot plantejar la IA generativa per a les empreses i com la mateixa intel·ligència artificial pot ajudar a reforçar la detecció, la prevenció…",
+      "municipio": "barbera",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-09T13:17:00.000Z",
+      "detectado": "2026-11-09T13:42:56.988Z",
+      "sensible": false,
+      "etiquetas": [
+        "emergencias",
+        "sucesos",
+        "economia",
+        "cultura"
+      ],
+      "puntuacion": 5,
+      "motivos": [
+        "font oficial",
+        "emergències, successos, economia i ocupació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "2654c12ca63e573a",
+      "titulo": "Torna el futbol a la Nova Creu Alta: la prèvia del Sabadell-Sanse",
+      "enlace": "https://radiosabadell.fm/podcast/hotel-suis-091126-Previa-Sanse",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-09T13:09:23.000Z",
+      "detectado": "2026-11-09T13:42:56.988Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "094f3725ec53791f",
+      "titulo": "Creix la desconnexió amb l'activitat política de Terrassa: un 40% dels veïns no saben quins partits tenen representació",
+      "enlace": "https://www.diarideterrassa.com/terrassa/creix-la-desconnexio-amb-lactivitat-politica-de-terrassa-un-40-dels-veins-no-saben-quins-partits-tenen-representacio.html",
+      "fuente": "diari-terrassa",
+      "fuenteNombre": "Diari de Terrassa",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "terrassa"
+      ],
+      "publicado": "2026-11-09T13:04:00.000Z",
+      "detectado": "2026-11-09T13:42:56.988Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "3f4dddb96afbf4a0",
+      "titulo": "Obert el termini d’inscripcions per participar a la 56a edició del Concurs d’Aparadors de Nadal",
+      "enlace": "https://www.montcada.cat/actualitat/noticies/obert-el-termini-dinscripcions-per-participar-a-la-56a-edicio-del-concurs-daparadors-de-nadal.html",
+      "fuente": "ayto-montcada",
+      "fuenteNombre": "Ajuntament de Montcada i Reixac",
+      "tipo": "oficial",
+      "resumen": "",
+      "municipio": "montcada",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-09T13:00:00.000Z",
+      "detectado": "2026-11-09T13:42:56.988Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "c9c57a83d24b870c",
+      "titulo": "Can Puiggener busca espai per aparcar el cotxe: \"La pressió al barri és molt gran\"",
+      "enlace": "https://www.diaridesabadell.com/sabadell/nou-aparcament-can-puiggener-solar-camp-futbol-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-09T12:59:30.000Z",
+      "detectado": "2026-11-09T13:42:56.988Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "32ca58fdec6f2ffb",
+      "titulo": "Així commemorarà Sabadell el dia contra la violència masclista",
+      "enlace": "https://www.isabadell.cat/societat/aixi-commemorara-sabadell-el-dia-contra-la-violencia-masclista-340361/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-09T12:54:35.000Z",
+      "detectado": "2026-11-09T13:42:56.988Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "1c8ecc30fdec2352",
+      "titulo": "Vandalisme a la plaça Granada poc després de la inauguració",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/vandalisme-placa-granada-inauguracio",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-09T12:52:57.000Z",
+      "detectado": "2026-11-09T13:42:56.988Z",
+      "sensible": false,
+      "etiquetas": [
+        "sucesos",
+        "politica"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "successos, política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "e00d4155a8e01a98",
+      "titulo": "Arriba a Sabadell el punt de venda d’estris de cuina més esperat",
+      "enlace": "https://www.diaridesabadell.com/contingut-patrocinat/botiga-efimera-marca-suissa-kuhn-rikon-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-09T12:32:19.000Z",
+      "detectado": "2026-11-09T13:42:56.988Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "13c578c5b1751be0",
       "titulo": "‘El ple crític’. 303 milions d’euros: continuisme i recapitulacions",
       "enlace": "https://www.isabadell.cat/opinio/el-ple-critic/el-ple-critic-303-milions-deuros-continuisme-i-recapitulacions-340355/",
@@ -126,6 +334,31 @@
       "puntuacion": 2,
       "motivos": [
         "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "b672c97518cbc77d",
+      "titulo": "Bon comportament comercial del Centre, malgrat el tancament de locals",
+      "enlace": "https://radiosabadell.fm/actualitat/economia/comportament-comercial-centre-091126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-09T12:22:50.000Z",
+      "detectado": "2026-11-09T13:42:56.988Z",
+      "sensible": false,
+      "etiquetas": [
+        "economia"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "economia i ocupació"
       ],
       "duplicadaDe": null,
       "propuesta": false
@@ -150,6 +383,31 @@
       "motivos": [],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "a0b331d248bd8637",
+      "titulo": "BATECS, un nou Espai de diàlegs per transformar que vol visibilitzar i fer reflexionar sobre la Violència Vicària",
+      "enlace": "https://www.bdv.cat/noticies/batecs-un-nou-espai-de-dialegs-transformar-que-vol-visibilitzar-i-fer-reflexionar-sobre-la",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "La trobada vol donar veu a les dones supervivents que han patit Violència Vicària, compartir experiències i generar consciència col·lectiva sobre l'impacte d'aquesta forma de Violència Masclista, així com contribuir a trencar el silenci…",
+      "municipio": "barbera",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-09T12:11:00.000Z",
+      "detectado": "2026-11-09T13:42:56.988Z",
+      "sensible": true,
+      "etiquetas": [
+        "politica",
+        "cultura"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "font oficial",
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
     },
     {
       "id": "d3c93cd18a04809d",
@@ -750,6 +1008,29 @@
       "propuesta": false
     },
     {
+      "id": "53e74adacca39b4d",
+      "titulo": "S'obren les inscripcions a l'itinerari El camí reial que travessa La Florida",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/sobren-les-inscripcions-a-litinerari-el-cami-reial-que-travessa-la-florida.html",
+      "fuente": "ayto-santa-perpetua",
+      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
+      "tipo": "oficial",
+      "resumen": "El MTIV obre el 9 de novembre les inscripcions per participar en la darrera activitat complementària de l'exposició del centenari de La Florida que se celebrarà el dissabte 21 de novembre, a les 11 hores.",
+      "municipio": "santa-perpetua",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-09T09:00:00.000Z",
+      "detectado": "2026-11-09T13:42:56.988Z",
+      "sensible": false,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "cb8669673cc6311e",
       "titulo": "21 de novembre: Activitat comunitària intercultural al Centre Cívic Ca n'Amiguet",
       "enlace": "https://www.bdv.cat/noticies/21-de-novembre-activitat-comunitaria-intercultural-al-centre-civic-ca-namiguet",
@@ -819,6 +1100,31 @@
       "etiquetas": [],
       "puntuacion": 0,
       "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "23a22d3d7a8c91f0",
+      "titulo": "El Gremi de Fabricants, Entitat Amiga de l’Escola d’Òpera de Sabadell",
+      "enlace": "https://www.isabadell.cat/cultura/el-gremi-de-fabricants-entitat-amiga-de-lescola-dopera-de-sabadell-340182/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-09T08:00:00.000Z",
+      "detectado": "2026-11-09T13:42:56.988Z",
+      "sensible": false,
+      "etiquetas": [
+        "educacion"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "educació"
+      ],
       "duplicadaDe": null,
       "propuesta": false
     },
@@ -1190,7 +1496,28 @@
       ],
       "duplicadaDe": null,
       "propuesta": true
+    },
+    {
+      "id": "182620a8fcdabd4e",
+      "titulo": "Divendres, vine a donar sang al Casal de la Gent Gran!",
+      "enlace": "http://www.badiadelvalles.cat/document.php?id=12323",
+      "fuente": "ayto-badia",
+      "fuenteNombre": "Ajuntament de Badia del Vallès",
+      "tipo": "oficial",
+      "resumen": "",
+      "municipio": "badia",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-08T23:00:00.000Z",
+      "detectado": "2026-11-09T13:42:56.988Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
     }
   ],
-  "actualizado": "2026-11-09T12:27:00.401Z"
+  "actualizado": "2026-11-09T13:44:02.126Z"
 }
