@@ -1,27 +1,6 @@
 {
   "eventos": [
     {
-      "id": "8d3f406399e130c0",
-      "t": "2026-10-28T18:44:43.930Z",
-      "agente": "rastreador",
-      "texto": "He recogido «L'Ajuntament contracta 4 persones en situaci� d'atur per un per�ode de 12 mesos» (Ajuntament de Badia del Vallès).",
-      "itemId": "bd1c6ebe7ed937e5"
-    },
-    {
-      "id": "1a72376766a5380f",
-      "t": "2026-10-28T18:44:43.931Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetas: Economía y empleo.",
-      "itemId": "bd1c6ebe7ed937e5"
-    },
-    {
-      "id": "95d57a238dc25fa1",
-      "t": "2026-10-28T18:44:43.932Z",
-      "agente": "rastreador",
-      "texto": "He recogido «Badia se suma als tres dies de dol oficial per les v�ctimes de l'accident ferroviari a Toledo» (Ajuntament de Badia del Vallès).",
-      "itemId": "0182488afee43883"
-    },
-    {
       "id": "9e0a1378831ae3d7",
       "t": "2026-10-28T18:44:43.933Z",
       "agente": "etiquetador",
@@ -2799,7 +2778,28 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Obres i urbanisme.",
       "itemId": "a0fbcba4253173f2"
+    },
+    {
+      "id": "daa6f8ca68149919",
+      "t": "2026-11-09T17:04:32.089Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El Diari de Terrassa revalida el seu lideratge: prop d'un 70% dels terrassencs l'usen per informar-se» (Diari de Terrassa).",
+      "itemId": "9e8b45d6c4d16a0b"
+    },
+    {
+      "id": "cd067d6e7f0bebde",
+      "t": "2026-11-09T17:04:32.090Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L'Institut Castellar dona un nou impuls al seu mural» (L'Actual - Castellar del Vallès).",
+      "itemId": "b05161b4cabc771c"
+    },
+    {
+      "id": "19fbabbbc97bc88f",
+      "t": "2026-11-09T17:04:32.091Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Educació.",
+      "itemId": "b05161b4cabc771c"
     }
   ],
-  "actualizado": "2026-11-09T17:00:11.143Z"
+  "actualizado": "2026-11-09T17:04:48.008Z"
 }

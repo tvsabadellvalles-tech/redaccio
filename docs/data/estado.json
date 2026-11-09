@@ -6,7 +6,7 @@
     },
     "radio-sabadell": {
       "ok": true,
-      "items": 10
+      "items": 2
     },
     "diari-sabadell": {
       "ok": true,
@@ -22,7 +22,7 @@
     },
     "ayto-castellar": {
       "ok": true,
-      "items": 2
+      "items": 3
     },
     "ayto-sentmenat": {
       "ok": true,
@@ -73,8 +73,7 @@
       "items": 2
     },
     "ayto-sant-quirze": {
-      "ok": false,
-      "error": "The operation was aborted due to timeout",
+      "ok": true,
       "items": 0
     },
     "324-comarques": {
@@ -82,6 +81,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-09T16:58:52.149Z",
-  "actualizado": "2026-11-09T17:00:11.141Z"
+  "consultat": "2026-11-09T17:04:32.088Z",
+  "actualizado": "2026-11-09T17:04:48.006Z"
 }

@@ -108,6 +108,31 @@
   },
   "items": [
     {
+      "id": "b05161b4cabc771c",
+      "titulo": "L'Institut Castellar dona un nou impuls al seu mural",
+      "enlace": "https://www.lactual.cat/actualitat/institut-castellar-dona-nou-impuls-seu-mural_55348_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [
+        "castellar"
+      ],
+      "publicado": "2026-11-09T16:54:11.000Z",
+      "detectado": "2026-11-09T17:04:32.088Z",
+      "sensible": false,
+      "etiquetas": [
+        "educacion"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "educació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "a0fbcba4253173f2",
       "titulo": "Flashy Ice Cream, 31 FAM i Ven’nus, entre els artistes que s’uneixen per cantar contra la crisi de l’habitatge",
       "enlace": "https://radiosabadell.fm/actualitat/societat/flashy-31-fam-i-vennus-artistes-habitatge",
@@ -129,6 +154,27 @@
       "motivos": [
         "obres i urbanisme"
       ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "9e8b45d6c4d16a0b",
+      "titulo": "El Diari de Terrassa revalida el seu lideratge: prop d'un 70% dels terrassencs l'usen per informar-se",
+      "enlace": "https://www.diarideterrassa.com/terrassa/el-diari-de-terrassa-revalida-el-seu-lideratge-prop-dun-70-dels-terrassencs-lusen-per-informar-se.html",
+      "fuente": "diari-terrassa",
+      "fuenteNombre": "Diari de Terrassa",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "terrassa"
+      ],
+      "publicado": "2026-11-09T16:19:56.000Z",
+      "detectado": "2026-11-09T17:04:32.088Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
       "duplicadaDe": null,
       "propuesta": false
     },
@@ -177,160 +223,6 @@
       "motivos": [
         "obres i urbanisme, medi ambient"
       ],
-      "duplicadaDe": null,
-      "propuesta": false
-    },
-    {
-      "id": "0dd2ccb1142d4de4",
-      "titulo": "Tertúlies Intergeneracionals: Celebració festa gran",
-      "enlace": "https://radiosabadell.fm/alacarta/audio/tertulies-intergeneracionals-celebracio-festa-gran",
-      "fuente": "radio-sabadell",
-      "fuenteNombre": "Ràdio Sabadell",
-      "tipo": "medio",
-      "resumen": "",
-      "municipio": "sabadell",
-      "municipiosMencionados": [],
-      "publicado": "2026-11-09T15:45:50.000Z",
-      "detectado": "2026-11-09T16:37:06.831Z",
-      "sensible": false,
-      "etiquetas": [
-        "cultura"
-      ],
-      "puntuacion": 0,
-      "motivos": [],
-      "duplicadaDe": null,
-      "propuesta": false
-    },
-    {
-      "id": "5352ecd68c26a56f",
-      "titulo": "Tertúlies Intergeneracionals: WC públics a la ciutat",
-      "enlace": "https://radiosabadell.fm/alacarta/audio/tertulies-intergeneracionals-wc-publics-la-ciutat",
-      "fuente": "radio-sabadell",
-      "fuenteNombre": "Ràdio Sabadell",
-      "tipo": "medio",
-      "resumen": "",
-      "municipio": "sabadell",
-      "municipiosMencionados": [],
-      "publicado": "2026-11-09T15:43:46.000Z",
-      "detectado": "2026-11-09T16:37:06.831Z",
-      "sensible": false,
-      "etiquetas": [],
-      "puntuacion": 0,
-      "motivos": [],
-      "duplicadaDe": null,
-      "propuesta": false
-    },
-    {
-      "id": "2bd731e7c43c9f4a",
-      "titulo": "Tertúlies Intergeneracionals: Canvi climàtic",
-      "enlace": "https://radiosabadell.fm/alacarta/audio/tertulies-intergeneracionals-canvi-climatic",
-      "fuente": "radio-sabadell",
-      "fuenteNombre": "Ràdio Sabadell",
-      "tipo": "medio",
-      "resumen": "",
-      "municipio": "sabadell",
-      "municipiosMencionados": [],
-      "publicado": "2026-11-09T15:42:37.000Z",
-      "detectado": "2026-11-09T16:37:06.831Z",
-      "sensible": false,
-      "etiquetas": [],
-      "puntuacion": 0,
-      "motivos": [],
-      "duplicadaDe": null,
-      "propuesta": false
-    },
-    {
-      "id": "3916723c8ad826c4",
-      "titulo": "Tertúlies Intergeneracionals: Violència sexual",
-      "enlace": "https://radiosabadell.fm/alacarta/audio/tertulies-intergeneracionals-violencia-sexual",
-      "fuente": "radio-sabadell",
-      "fuenteNombre": "Ràdio Sabadell",
-      "tipo": "medio",
-      "resumen": "",
-      "municipio": "sabadell",
-      "municipiosMencionados": [],
-      "publicado": "2026-11-09T15:41:21.000Z",
-      "detectado": "2026-11-09T16:37:06.831Z",
-      "sensible": false,
-      "etiquetas": [],
-      "puntuacion": 0,
-      "motivos": [],
-      "duplicadaDe": null,
-      "propuesta": false
-    },
-    {
-      "id": "901b35d4550348d8",
-      "titulo": "Tertúlies Intergeneracionals: Edatisme, prejudicis i discriminació",
-      "enlace": "https://radiosabadell.fm/alacarta/audio/tertulies-intergeneracionals-edatisme-prejudicis-i-discriminacio",
-      "fuente": "radio-sabadell",
-      "fuenteNombre": "Ràdio Sabadell",
-      "tipo": "medio",
-      "resumen": "",
-      "municipio": "sabadell",
-      "municipiosMencionados": [],
-      "publicado": "2026-11-09T15:39:28.000Z",
-      "detectado": "2026-11-09T16:37:06.831Z",
-      "sensible": false,
-      "etiquetas": [],
-      "puntuacion": 0,
-      "motivos": [],
-      "duplicadaDe": null,
-      "propuesta": false
-    },
-    {
-      "id": "a299098925d3235a",
-      "titulo": "Tertúlies Intergeneracionals: Manifestació, vagues i protestes",
-      "enlace": "https://radiosabadell.fm/alacarta/audio/tertulies-intergeneracionals-manifestacio-vagues-i-protestes",
-      "fuente": "radio-sabadell",
-      "fuenteNombre": "Ràdio Sabadell",
-      "tipo": "medio",
-      "resumen": "",
-      "municipio": "sabadell",
-      "municipiosMencionados": [],
-      "publicado": "2026-11-09T15:34:07.000Z",
-      "detectado": "2026-11-09T16:37:06.831Z",
-      "sensible": false,
-      "etiquetas": [],
-      "puntuacion": 0,
-      "motivos": [],
-      "duplicadaDe": null,
-      "propuesta": false
-    },
-    {
-      "id": "b5da27bceceb1fb8",
-      "titulo": "Tertúlies Intergeneracionals: Com podem millorar la ciutat",
-      "enlace": "https://radiosabadell.fm/alacarta/audio/tertulies-intergeneracionals-com-podem-millorar-la-ciutat",
-      "fuente": "radio-sabadell",
-      "fuenteNombre": "Ràdio Sabadell",
-      "tipo": "medio",
-      "resumen": "",
-      "municipio": "sabadell",
-      "municipiosMencionados": [],
-      "publicado": "2026-11-09T15:31:43.000Z",
-      "detectado": "2026-11-09T16:37:06.831Z",
-      "sensible": false,
-      "etiquetas": [],
-      "puntuacion": 0,
-      "motivos": [],
-      "duplicadaDe": null,
-      "propuesta": false
-    },
-    {
-      "id": "eb0a201f59cd86ad",
-      "titulo": "Tertúlies Intergeneracionals: Civisme a la via publica",
-      "enlace": "https://radiosabadell.fm/alacarta/audio/tertulies-intergeneracionals-civisme-la-publica",
-      "fuente": "radio-sabadell",
-      "fuenteNombre": "Ràdio Sabadell",
-      "tipo": "medio",
-      "resumen": "",
-      "municipio": "sabadell",
-      "municipiosMencionados": [],
-      "publicado": "2026-11-09T15:25:03.000Z",
-      "detectado": "2026-11-09T15:32:52.905Z",
-      "sensible": false,
-      "etiquetas": [],
-      "puntuacion": 0,
-      "motivos": [],
       "duplicadaDe": null,
       "propuesta": false
     },
@@ -1820,5 +1712,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-09T17:00:11.139Z"
+  "actualizado": "2026-11-09T17:04:48.004Z"
 }
