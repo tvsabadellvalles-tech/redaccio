@@ -104,6 +104,55 @@
   },
   "items": [
     {
+      "id": "672c048360536ed7",
+      "titulo": "Sabadell 0-0 Real Sociedad 'B': una nit estranya i poc brillant al 'Temple'",
+      "enlace": "https://radiosabadell.fm/esports/ce-sabadell/sabadell-real-sociedad-b-cronica-laliga-hypermotion",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-09T21:31:21.000Z",
+      "detectado": "2026-11-09T21:39:18.747Z",
+      "sensible": false,
+      "etiquetas": [
+        "salud",
+        "deportes"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "bb59009b19eb3ede",
+      "titulo": "Combat nul entre CE Sabadell i Real Sociedad 'B'",
+      "enlace": "https://www.diaridesabadell.com/esports/centre-esports-sabadell-real-sociedad-b-cronica-segona-divisio.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-09T21:31:17.000Z",
+      "detectado": "2026-11-09T21:39:18.747Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "cdede1f2dbee82c8",
       "titulo": "Les obres d'ampliació de la sala d'estudi de la biblioteca Vapor Badia duraran sis mesos",
       "enlace": "https://www.diaridesabadell.com/sabadell/calendari-obres-sala-estudi-24-hores-biblioteca-vapor-badia-sabadell.html",
@@ -1812,5 +1861,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-09T19:18:35.769Z"
+  "actualizado": "2026-11-09T21:39:39.397Z"
 }

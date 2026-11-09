@@ -1,34 +1,6 @@
 {
   "eventos": [
     {
-      "id": "ce40d3f56b39174c",
-      "t": "2026-10-28T18:44:43.953Z",
-      "agente": "rastreador",
-      "texto": "He recogido «Nova edició de les Jornades Esportives» (L'Actual - Castellar del Vallès).",
-      "itemId": "521af958069fd29a"
-    },
-    {
-      "id": "aa1ab7804b2e4e54",
-      "t": "2026-10-28T18:44:43.954Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetas: Deportes.",
-      "itemId": "521af958069fd29a"
-    },
-    {
-      "id": "6986c1c7f388fbf0",
-      "t": "2026-10-28T18:44:43.955Z",
-      "agente": "rastreador",
-      "texto": "He recogido «Queixes per la ràtio d'un grup a l'escola Mestre Pla» (L'Actual - Castellar del Vallès).",
-      "itemId": "e666a67fbc39ed7b"
-    },
-    {
-      "id": "969e72279911e591",
-      "t": "2026-10-28T18:44:43.956Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetas: Educación.",
-      "itemId": "e666a67fbc39ed7b"
-    },
-    {
       "id": "d7cbdbefc69854ed",
       "t": "2026-10-28T18:44:43.957Z",
       "agente": "rastreador",
@@ -2799,7 +2771,35 @@
       "agente": "rastreador",
       "texto": "La font «3CatInfo · Actualitat de Barcelona filtrada per Vallès Occidental» torna a respondre.",
       "itemId": null
+    },
+    {
+      "id": "75d47f4308e5c161",
+      "t": "2026-11-09T21:39:18.747Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Combat nul entre CE Sabadell i Real Sociedad 'B'» (Diari de Sabadell).",
+      "itemId": "bb59009b19eb3ede"
+    },
+    {
+      "id": "076c88611c708e18",
+      "t": "2026-11-09T21:39:18.748Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "bb59009b19eb3ede"
+    },
+    {
+      "id": "b2711cea457fc046",
+      "t": "2026-11-09T21:39:18.749Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Sabadell 0-0 Real Sociedad 'B': una nit estranya i poc brillant al 'Temple'» (Ràdio Sabadell).",
+      "itemId": "672c048360536ed7"
+    },
+    {
+      "id": "3e49936e5a4d7913",
+      "t": "2026-11-09T21:39:18.750Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut, Esports.",
+      "itemId": "672c048360536ed7"
     }
   ],
-  "actualizado": "2026-11-09T20:56:43.205Z"
+  "actualizado": "2026-11-09T21:39:39.400Z"
 }
