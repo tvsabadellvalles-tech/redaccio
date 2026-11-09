@@ -678,7 +678,8 @@ function pintarFrescorNoticies(estado) {
 
 async function jsonOpcional(url) {
   try {
-    const resposta = await fetch(url, { cache: 'no-store' });
+    const separador = url.includes('?') ? '&' : '?';
+    const resposta = await fetch(`${url}${separador}_=${Date.now()}`, { cache: 'no-store' });
     if (!resposta.ok) {
       console.error(`No s’han pogut carregar les dades (${resposta.status}): ${url}`);
       return null;
@@ -691,6 +692,8 @@ async function jsonOpcional(url) {
 }
 
 async function carregar() {
+  const comprovacio = $('pantalla-actualitzada');
+  if (comprovacio) comprovacio.textContent = 'Comprovant dades…';
   const [items, estat, serveis, calendari] = await Promise.all([
     jsonOpcional(`${carpetaDatos}/items.json`),
     jsonOpcional(`${carpetaDatos}/estado.json`),
@@ -702,6 +705,9 @@ async function carregar() {
   pintarFrescorNoticies(estat);
   pintarAvisos(estat || { fuentes: {} });
   if (!serveis) pintarPrevisio(null);
+  if (comprovacio) {
+    comprovacio.textContent = `Pantalla comprovada ${rellotgeFormat.format(new Date())} · les dades canvien quan es publica el rastreig`;
+  }
   if (!items) {
     if (!dades.items.length) $('lista').replaceChildren(el('p', {
       class: 'buit-avui',

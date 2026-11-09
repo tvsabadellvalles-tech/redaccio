@@ -1878,3 +1878,75 @@ body {
   .servei-card-rodalies .servei-resum { grid-template-columns: 38px minmax(0, 1fr); }
   .servei-card-rodalies .servei-icona-logo { width: 34px; height: 34px; }
 }
+
+/* ---------- Ajustos finals de lectura per al monitor de redacció ---------- */
+.serveis-panell { margin-block: 10px 14px; }
+.serveis-cap h2 { font-size: 1rem; }
+.serveis-actualitzat { font-size: 0.9rem; }
+.servei-card { min-height: 104px; padding: 12px 14px; }
+.servei-resum { grid-template-columns: 48px minmax(0, 1fr); gap: 5px 11px; }
+.servei-icona { width: 44px; height: 34px; }
+.servei-card-rodalies .servei-icona-logo { width: 42px; height: 42px; }
+.servei-nom { font-size: clamp(1rem, 1.05vw, 1.2rem); }
+.servei-badge { font-size: clamp(0.92rem, 0.95vw, 1.08rem); }
+.servei-actualitzacio { font-size: 0.88rem; }
+.serveis-avisos:not([hidden]) { min-height: 96px; }
+.servei-incidencia { min-height: 96px; animation: none; }
+.incidencia-font { font-size: 0.82rem; }
+.incidencia-titol { font-size: clamp(1.1rem, 1.35vw, 1.5rem); }
+.incidencia-detall { font-size: clamp(0.9rem, 0.95vw, 1.05rem); }
+
+.contingut-principal {
+  grid-template-columns: minmax(0, 1fr) minmax(350px, 0.4fr);
+  gap: clamp(20px, 1.8vw, 34px);
+}
+.panell-cap { align-items: center; padding-block: 10px 12px; }
+.panell-cap h2, .agenda-cap h2 { font-size: clamp(1.35rem, 1.6vw, 1.8rem); }
+.estat-actualitzacio { display: grid; justify-items: end; gap: 3px; text-align: right; }
+#pantalla-actualitzada {
+  color: #c8d3df;
+  font-size: clamp(0.9rem, 0.95vw, 1.05rem);
+  font-variant-numeric: tabular-nums;
+}
+.noticies-actualitzat { font-size: clamp(0.86rem, 0.9vw, 1rem); }
+.noticia-fila { min-height: clamp(62px, 7vh, 84px); grid-template-columns: 88px minmax(160px, 0.22fr) minmax(0, 1fr); gap: 0 18px; padding: 9px 14px; }
+.fila-hora { font-size: clamp(1rem, 1.05vw, 1.2rem); }
+.fila-font { font-size: clamp(0.9rem, 0.95vw, 1.08rem); }
+.fila-titular { font-size: clamp(1.12rem, 1.28vw, 1.45rem); line-height: 1.28; }
+.noticia-fila:nth-child(-n+2) .fila-titular { font-size: clamp(1.2rem, 1.4vw, 1.58rem); }
+.agenda-panell { padding-top: 10px; padding-left: clamp(16px, 1.5vw, 28px); }
+.agenda-cap { align-items: center; margin-bottom: 12px; }
+.agenda-activitat { grid-template-columns: minmax(82px, auto) minmax(0, 1fr); gap: 12px; padding: 13px 8px 13px 10px; }
+.agenda-hora { min-width: 82px; font-size: clamp(1rem, 1.05vw, 1.18rem); }
+.agenda-titol { font-size: clamp(1.12rem, 1.2vw, 1.36rem); line-height: 1.34; }
+.agenda-activitats { scrollbar-color: #69788a transparent; }
+
+@media (max-width: 1100px) {
+  .contingut-principal { grid-template-columns: minmax(0, 1fr) minmax(300px, 0.42fr); }
+  .noticia-fila { grid-template-columns: 72px minmax(130px, 0.24fr) minmax(0, 1fr); gap: 0 10px; }
+}
+@media (max-width: 800px) {
+  .contingut-principal { grid-template-columns: minmax(0, 1fr); grid-template-rows: minmax(0, 1fr) minmax(0, 0.5fr); }
+  .agenda-panell { padding-left: 0; }
+  .estat-actualitzacio { justify-items: end; }
+}
+@media (max-width: 699px) {
+  .serveis-cap h2 { font-size: 0.9rem; }
+  .serveis-actualitzat { font-size: 0.72rem; }
+  .servei-card { min-height: 76px; padding: 7px; }
+  .servei-resum { grid-template-columns: 34px minmax(0, 1fr); gap: 3px 6px; }
+  .servei-icona, .servei-card-rodalies .servei-icona-logo { width: 32px; height: 27px; }
+  .servei-nom { font-size: 0.9rem; }
+  .servei-badge { font-size: 0.78rem; }
+  .servei-actualitzacio { font-size: 0.72rem; }
+  .contingut-principal { grid-template-rows: minmax(0, 1fr) minmax(0, 0.5fr); }
+  .panell-cap h2, .agenda-cap h2 { font-size: 1.15rem; }
+  #pantalla-actualitzada { font-size: 0.7rem; }
+  .noticies-actualitzat { font-size: 0.68rem; }
+  .noticia-fila { grid-template-columns: 48px minmax(0, 1fr); min-height: 56px; }
+  .fila-font { font-size: 0.7rem; }
+  .fila-titular, .noticia-fila:nth-child(-n+2) .fila-titular { font-size: 0.9rem; }
+  .agenda-activitat { grid-template-columns: minmax(70px, auto) minmax(0, 1fr); }
+  .agenda-hora { min-width: 70px; font-size: 0.9rem; }
+  .agenda-titol { font-size: 0.95rem; }
+}
