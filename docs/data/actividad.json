@@ -1,20 +1,6 @@
 {
   "eventos": [
     {
-      "id": "d7cbdbefc69854ed",
-      "t": "2026-10-28T18:44:43.957Z",
-      "agente": "rastreador",
-      "texto": "He recogido «Presència castellarenca a la jornada comarcal de les persones grans» (L'Actual - Castellar del Vallès).",
-      "itemId": "919bd79b6062514b"
-    },
-    {
-      "id": "060da004bb2f94e7",
-      "t": "2026-10-28T18:45:33.419Z",
-      "agente": "rastreador",
-      "texto": "La fuente «Ajuntament de Barberà del Vallès» vuelve a responder.",
-      "itemId": null
-    },
-    {
       "id": "8f22b27f025f9fb4",
       "t": "2026-10-28T18:45:33.420Z",
       "agente": "rastreador",
@@ -2799,7 +2785,21 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Salut, Esports.",
       "itemId": "672c048360536ed7"
+    },
+    {
+      "id": "25091523d3f7cefe",
+      "t": "2026-11-09T22:25:22.436Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Nul encert en un nou empat gris (0-0)» (iSabadell).",
+      "itemId": "a3a2d756df142a65"
+    },
+    {
+      "id": "0f817c94b6d1fb27",
+      "t": "2026-11-09T22:25:22.437Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "a3a2d756df142a65"
     }
   ],
-  "actualizado": "2026-11-09T21:39:39.400Z"
+  "actualizado": "2026-11-09T22:25:35.916Z"
 }

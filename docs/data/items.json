@@ -104,6 +104,29 @@
   },
   "items": [
     {
+      "id": "a3a2d756df142a65",
+      "titulo": "Nul encert en un nou empat gris (0-0)",
+      "enlace": "https://www.isabadell.cat/esports/futbol/nul-encert-en-un-nou-empat-gris-0-0-340397/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-09T21:52:15.000Z",
+      "detectado": "2026-11-09T22:25:22.436Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "672c048360536ed7",
       "titulo": "Sabadell 0-0 Real Sociedad 'B': una nit estranya i poc brillant al 'Temple'",
       "enlace": "https://radiosabadell.fm/esports/ce-sabadell/sabadell-real-sociedad-b-cronica-laliga-hypermotion",
@@ -1861,5 +1884,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-09T21:39:39.397Z"
+  "actualizado": "2026-11-09T22:25:35.912Z"
 }
