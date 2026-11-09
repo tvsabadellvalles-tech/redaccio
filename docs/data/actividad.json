@@ -1,13 +1,6 @@
 {
   "eventos": [
     {
-      "id": "bfdb9d5877c8f6b5",
-      "t": "2026-10-28T18:44:43.952Z",
-      "agente": "deduplicador",
-      "texto": "Descartada por duplicada: coincide con «L'Ajuntament convoca a les 20 hores un minut de silenci per les víctimes de l'accident ferroviari» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "22ccd8b84bee56a6"
-    },
-    {
       "id": "ce40d3f56b39174c",
       "t": "2026-10-28T18:44:43.953Z",
       "agente": "rastreador",
@@ -2799,7 +2792,14 @@
       "agente": "rastreador",
       "texto": "La font «3CatInfo · Actualitat de Barcelona filtrada per Vallès Occidental» no respon (terminated).",
       "itemId": null
+    },
+    {
+      "id": "972c3a20f7d6936b",
+      "t": "2026-11-09T20:56:25.628Z",
+      "agente": "rastreador",
+      "texto": "La font «3CatInfo · Actualitat de Barcelona filtrada per Vallès Occidental» torna a respondre.",
+      "itemId": null
     }
   ],
-  "actualizado": "2026-11-09T20:09:31.111Z"
+  "actualizado": "2026-11-09T20:56:43.205Z"
 }
