@@ -290,7 +290,6 @@ function resumAvisServei(servei, avis) {
   const contingut = `${avis.titol || ''} ${avis.detall || ''}`.replace(/\s+/g, ' ').trim();
   if (servei.id === 'rodalies') {
     const linies = avis.linies?.length ? avis.linies : [...new Set(contingut.match(/\bR[1-9]\b/gi) || [])];
-    const estacions = contingut.match(/entre\s+(.+?)\s+i\s+(.+?)(?:\.|,| Es recomana|$)/i);
     const retards = contingut.match(/(?:superar|superiors(?:\s+a)?)\s+(?:els?\s+)?(\d+)\s+minuts?/i);
     const titol = /interromp|suspendr|tallad[ae]/i.test(contingut)
       ? 'CIRCULACIÓ INTERROMPUDA'
@@ -302,9 +301,7 @@ function resumAvisServei(servei, avis) {
     return {
       titol: `${linies.length ? `${linies.join(' / ')} · ` : ''}${titol}`,
       linies,
-      detall: estacions
-        ? `${estacions[1].trim()} → ${estacions[2].trim()}`
-        : `${contingut.slice(0, 100)}${contingut.length > 100 ? '…' : ''}`
+      detall: contingut
     };
   }
   if (servei.id === 'fgc') {
@@ -314,7 +311,7 @@ function resumAvisServei(servei, avis) {
     return {
       titol: `${linies.length ? `${linies.join(' / ')} · ` : ''}AVÍS DE SERVEI`,
       linies,
-      detall: `${contingut.slice(0, 100)}${contingut.length > 100 ? '…' : ''}`
+      detall: contingut
     };
   }
   if (servei.id === 'transit') {

@@ -2034,7 +2034,14 @@ body {
   max-width: 100%;
 }
 .incidencia-motiu { -webkit-line-clamp: 1; }
-.incidencia-detall { white-space: nowrap; }
+.servei-incidencia { overflow: visible; }
+.incidencia-detall {
+  display: block;
+  overflow: visible;
+  white-space: normal;
+  overflow-wrap: anywhere;
+  -webkit-line-clamp: unset;
+}
 
 /* El reproductor ocupa l'espai immediatament sobre l'agenda. */
 .streaming-panell { flex: none; min-width: 0; margin: 0 0 9px; }
