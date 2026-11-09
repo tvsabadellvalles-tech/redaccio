@@ -104,6 +104,30 @@
   },
   "items": [
     {
+      "id": "cdede1f2dbee82c8",
+      "titulo": "Les obres d'ampliació de la sala d'estudi de la biblioteca Vapor Badia duraran sis mesos",
+      "enlace": "https://www.diaridesabadell.com/sabadell/calendari-obres-sala-estudi-24-hores-biblioteca-vapor-badia-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-09T19:00:52.000Z",
+      "detectado": "2026-11-09T19:18:18.521Z",
+      "sensible": false,
+      "etiquetas": [
+        "urbanismo",
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "3a53c8ae6a814141",
       "titulo": "Els sindicats, preparats per a l’11-N: “Tenim més piquets apuntats que mai”",
       "enlace": "https://www.isabadell.cat/societat/els-sindicats-preparats-per-a-l11-n-tenim-mes-piquets-apuntats-que-mai-340383/",
@@ -1788,5 +1812,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-09T18:55:03.544Z"
+  "actualizado": "2026-11-09T19:18:35.769Z"
 }

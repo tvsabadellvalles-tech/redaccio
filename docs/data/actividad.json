@@ -1,20 +1,6 @@
 {
   "eventos": [
     {
-      "id": "cd4802d36fcc668d",
-      "t": "2026-10-28T18:44:43.949Z",
-      "agente": "mesa",
-      "texto": "Propongo para la escaleta (4 pts): fuente oficial · movilidad, obras y urbanismo.",
-      "itemId": "c2008e2908d00e20"
-    },
-    {
-      "id": "03bc08567b21c493",
-      "t": "2026-10-28T18:44:43.950Z",
-      "agente": "rastreador",
-      "texto": "He recogido «Un ciberatac afecta un servidor de la Unitat de Comunicació» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "d75b5f721d4cbf57"
-    },
-    {
       "id": "94dfd75eccd17d3f",
       "t": "2026-10-28T18:44:43.951Z",
       "agente": "rastreador",
@@ -2799,7 +2785,21 @@
       "agente": "rastreador",
       "texto": "He recollit «Palau al Dia - Notícies del 9/11/2026» (Ràdio Palau - Palau al Dia).",
       "itemId": "dbbaf228be2c445a"
+    },
+    {
+      "id": "4d66b7717e7c332a",
+      "t": "2026-11-09T19:18:18.521Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Les obres d'ampliació de la sala d'estudi de la biblioteca Vapor Badia duraran sis mesos» (Diari de Sabadell).",
+      "itemId": "cdede1f2dbee82c8"
+    },
+    {
+      "id": "c2f49cb1debf0051",
+      "t": "2026-11-09T19:18:18.522Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Obres i urbanisme, Cultura i festes.",
+      "itemId": "cdede1f2dbee82c8"
     }
   ],
-  "actualizado": "2026-11-09T18:55:03.547Z"
+  "actualizado": "2026-11-09T19:18:35.773Z"
 }
