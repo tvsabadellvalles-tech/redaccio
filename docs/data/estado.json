@@ -77,10 +77,11 @@
       "items": 2
     },
     "324-comarques": {
-      "ok": true,
+      "ok": false,
+      "error": "terminated",
       "items": 0
     }
   },
-  "consultat": "2026-11-09T19:18:18.521Z",
-  "actualizado": "2026-11-09T19:18:35.771Z"
+  "consultat": "2026-11-09T20:09:04.640Z",
+  "actualizado": "2026-11-09T20:09:31.108Z"
 }

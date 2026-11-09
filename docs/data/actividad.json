@@ -1,13 +1,6 @@
 {
   "eventos": [
     {
-      "id": "94dfd75eccd17d3f",
-      "t": "2026-10-28T18:44:43.951Z",
-      "agente": "rastreador",
-      "texto": "He recogido «L'Ajuntament convoca un minut de silenci avui a les 20 h per l'accident ferroviari de Toledo» (L'Actual - Castellar del Vallès).",
-      "itemId": "22ccd8b84bee56a6"
-    },
-    {
       "id": "bfdb9d5877c8f6b5",
       "t": "2026-10-28T18:44:43.952Z",
       "agente": "deduplicador",
@@ -2799,7 +2792,14 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Obres i urbanisme, Cultura i festes.",
       "itemId": "cdede1f2dbee82c8"
+    },
+    {
+      "id": "97fab53e25882c4d",
+      "t": "2026-11-09T20:09:04.640Z",
+      "agente": "rastreador",
+      "texto": "La font «3CatInfo · Actualitat de Barcelona filtrada per Vallès Occidental» no respon (terminated).",
+      "itemId": null
     }
   ],
-  "actualizado": "2026-11-09T19:18:35.773Z"
+  "actualizado": "2026-11-09T20:09:31.111Z"
 }
