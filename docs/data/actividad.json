@@ -1,27 +1,6 @@
 {
   "eventos": [
     {
-      "id": "9320f407fd84bdcd",
-      "t": "2026-10-28T18:44:43.923Z",
-      "agente": "rastreador",
-      "texto": "La fuente «Ajuntament de Barberà del Vallès» no responde (Invalid time value).",
-      "itemId": null
-    },
-    {
-      "id": "01c40ea886518447",
-      "t": "2026-10-28T18:44:43.924Z",
-      "agente": "rastreador",
-      "texto": "He recogido «'Anhedònia' i Suport Castellar posen rostre i veu a la depressió» (L'Actual - Castellar del Vallès).",
-      "itemId": "bb1a066078feb867"
-    },
-    {
-      "id": "25384b1422840367",
-      "t": "2026-10-28T18:44:43.925Z",
-      "agente": "rastreador",
-      "texto": "He recogido «Des de l’Ajuntament de Sentmenat lamentem profundament l’accident ferroviari ocorregut aquest matí entre dos trens d’alta velocitat a la província de Toledo.» (Ajuntament de Sentmenat).",
-      "itemId": "93f882e6d8310563"
-    },
-    {
       "id": "69dab576def6ca1a",
       "t": "2026-10-28T18:44:43.926Z",
       "agente": "etiquetador",
@@ -2757,7 +2736,70 @@
       "agente": "rastreador",
       "texto": "He recollit «Tertúlies Intergeneracionals: Civisme a la via publica» (Ràdio Sabadell).",
       "itemId": "eb0a201f59cd86ad"
+    },
+    {
+      "id": "3bc5f65fac0ffca5",
+      "t": "2026-11-09T16:37:06.831Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Tertúlies Intergeneracionals: Com podem millorar la ciutat» (Ràdio Sabadell).",
+      "itemId": "b5da27bceceb1fb8"
+    },
+    {
+      "id": "1921caaf9e699cd8",
+      "t": "2026-11-09T16:37:06.832Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Tertúlies Intergeneracionals: Manifestació, vagues i protestes» (Ràdio Sabadell).",
+      "itemId": "a299098925d3235a"
+    },
+    {
+      "id": "22a1cd17e4ea5cd7",
+      "t": "2026-11-09T16:37:06.833Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Tertúlies Intergeneracionals: Edatisme, prejudicis i discriminació» (Ràdio Sabadell).",
+      "itemId": "901b35d4550348d8"
+    },
+    {
+      "id": "5e26ec194b040d4e",
+      "t": "2026-11-09T16:37:06.834Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Tertúlies Intergeneracionals: Violència sexual» (Ràdio Sabadell).",
+      "itemId": "3916723c8ad826c4"
+    },
+    {
+      "id": "9aba3fd90354358c",
+      "t": "2026-11-09T16:37:06.835Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Tertúlies Intergeneracionals: Canvi climàtic» (Ràdio Sabadell).",
+      "itemId": "2bd731e7c43c9f4a"
+    },
+    {
+      "id": "eb9b506de3c807d7",
+      "t": "2026-11-09T16:37:06.836Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Tertúlies Intergeneracionals: WC públics a la ciutat» (Ràdio Sabadell).",
+      "itemId": "5352ecd68c26a56f"
+    },
+    {
+      "id": "e369ce37fef0d4c6",
+      "t": "2026-11-09T16:37:06.837Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Tertúlies Intergeneracionals: Celebració festa gran» (Ràdio Sabadell).",
+      "itemId": "0dd2ccb1142d4de4"
+    },
+    {
+      "id": "e960e85396139f3c",
+      "t": "2026-11-09T16:37:06.838Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "0dd2ccb1142d4de4"
+    },
+    {
+      "id": "711885cf58f60d88",
+      "t": "2026-11-09T16:37:06.839Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Signat el conveni amb la Generalitat per a la construcció de 94 pisos de protecció oficial a Sentmenat» (Diari de Sabadell).",
+      "itemId": "4236d9804db6c44a"
     }
   ],
-  "actualizado": "2026-11-09T15:34:10.351Z"
+  "actualizado": "2026-11-09T16:38:24.922Z"
 }
