@@ -22,7 +22,7 @@
     },
     "ayto-castellar": {
       "ok": true,
-      "items": 1
+      "items": 2
     },
     "ayto-sentmenat": {
       "ok": true,
@@ -73,7 +73,8 @@
       "items": 2
     },
     "ayto-sant-quirze": {
-      "ok": true,
+      "ok": false,
+      "error": "The operation was aborted due to timeout",
       "items": 0
     },
     "324-comarques": {
@@ -81,6 +82,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-09T13:42:56.988Z",
-  "actualizado": "2026-11-09T13:44:02.128Z"
+  "consultat": "2026-11-09T14:38:03.329Z",
+  "actualizado": "2026-11-09T14:39:20.787Z"
 }

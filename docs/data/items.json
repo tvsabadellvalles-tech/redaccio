@@ -108,6 +108,27 @@
   },
   "items": [
     {
+      "id": "80b9e06bb35d06fc",
+      "titulo": "Plenergy obre una nova gasolinera a Castellar",
+      "enlace": "https://www.lactual.cat/actualitat/plenergy-obre-nova-gasolinera-castellar_55345_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [
+        "castellar"
+      ],
+      "publicado": "2026-11-09T14:18:27.000Z",
+      "detectado": "2026-11-09T14:38:03.329Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "46ebe021fd82488a",
       "titulo": "Llum verda inicial al pressupost municipal per al 2027",
       "enlace": "https://radiosabadell.fm/podcast/noticies-migdia-pressupost-2027-091126",
@@ -576,6 +597,38 @@
       ],
       "duplicadaDe": null,
       "propuesta": true
+    },
+    {
+      "id": "ad7d535ca4cb1218",
+      "titulo": "Llum verda inicial al pressupost 2027 amb l'oposició en contra",
+      "enlace": "https://radiosabadell.fm/actualitat/politica/llum-verda-inicial-pressupost-2027-oposicio-en-contra",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-09T11:32:13.000Z",
+      "detectado": "2026-11-09T14:38:03.329Z",
+      "sensible": true,
+      "etiquetas": [
+        "sucesos",
+        "politica",
+        "urbanismo",
+        "economia",
+        "salud",
+        "educacion",
+        "medioambiente",
+        "deportes"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "successos, política local, obres i urbanisme, economia i ocupació, salut, educació, medi ambient"
+      ],
+      "duplicadaDe": "062b295c350ce099",
+      "propuesta": false
     },
     {
       "id": "6ecf4bfb3372380d",
@@ -1519,5 +1572,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-09T13:44:02.126Z"
+  "actualizado": "2026-11-09T14:39:20.786Z"
 }

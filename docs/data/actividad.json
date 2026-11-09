@@ -2722,7 +2722,28 @@
       "agente": "deduplicador",
       "texto": "Descartada perquè és duplicada: coincideix amb «Llum verda inicial al pressupost 2027 amb l'oposició en contra» (Ràdio Sabadell).",
       "itemId": "46ebe021fd82488a"
+    },
+    {
+      "id": "e968b247265253d4",
+      "t": "2026-11-09T14:38:03.330Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Llum verda inicial al pressupost 2027 amb l'oposició en contra» (Ràdio Sabadell).",
+      "itemId": "ad7d535ca4cb1218"
+    },
+    {
+      "id": "d3c164583362636a",
+      "t": "2026-11-09T14:38:03.331Z",
+      "agente": "deduplicador",
+      "texto": "Descartada perquè és duplicada: coincideix amb «Llum verda inicial al pressupost 2027 amb l'oposició en contra» (Ràdio Sabadell).",
+      "itemId": "ad7d535ca4cb1218"
+    },
+    {
+      "id": "4325b6ab3d2ee39f",
+      "t": "2026-11-09T14:38:03.332Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Plenergy obre una nova gasolinera a Castellar» (L'Actual - Castellar del Vallès).",
+      "itemId": "80b9e06bb35d06fc"
     }
   ],
-  "actualizado": "2026-11-09T13:44:02.130Z"
+  "actualizado": "2026-11-09T14:39:20.789Z"
 }
