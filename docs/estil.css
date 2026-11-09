@@ -1472,6 +1472,15 @@ body {
   justify-content: center;
   border-radius: 50%;
 }
+.incidencia-linies {
+  display: flex;
+  min-width: 0;
+  max-width: 100%;
+  flex: 0 1 auto;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 2px;
+}
 .incidencia-logo-enllac:focus-visible {
   outline: 2px solid #fff;
   outline-offset: 2px;
@@ -2007,11 +2016,23 @@ body {
   animation: none;
 }
 .servei-incidencia-identificada {
-  grid-template-columns: minmax(0, 0.85fr) minmax(0, 2fr);
+  grid-template-columns: minmax(0, 1fr);
+  grid-template-rows: auto auto;
 }
 .servei-incidencia-identificada .incidencia-font { display: none; }
-.servei-incidencia-identificada .incidencia-titol { grid-row: 1; grid-column: 1; gap: 6px; }
-.servei-incidencia-identificada .incidencia-detall { grid-row: 1; grid-column: 2; }
+.servei-incidencia-identificada .incidencia-titol {
+  grid-row: 1; grid-column: 1;
+  display: flex;
+  min-width: 0;
+  flex-wrap: wrap;
+  gap: 4px 7px;
+}
+.servei-incidencia-identificada .incidencia-motiu { flex: 1 1 100%; }
+.servei-incidencia-identificada .incidencia-detall {
+  grid-row: 2; grid-column: 1;
+  min-width: 0;
+  max-width: 100%;
+}
 .incidencia-motiu { -webkit-line-clamp: 1; }
 .incidencia-detall { white-space: nowrap; }
 

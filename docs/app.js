@@ -429,6 +429,9 @@ function targetaIncidenciaServei({ servei, resum }) {
   const identificadorVisible = distintiusLinies.length > 0
     || Boolean(carretera && carretera !== 'CARRETERA')
     || Boolean(distintiuFgc);
+  const distintiuLinies = distintiusLinies.length
+    ? el('span', { class: 'incidencia-linies' }, ...distintiusLinies)
+    : null;
   return el('article', {
     class: `servei-incidencia ${servei.id}${identificadorVisible ? ' servei-incidencia-identificada' : ''}`,
     'aria-label': `${noms[servei.id] || servei.nom}: ${resum.titol}`
@@ -438,7 +441,7 @@ function targetaIncidenciaServei({ servei, resum }) {
       el('span', { text: noms[servei.id] || servei.nom })
     ),
     el('strong', { class: 'incidencia-titol' },
-      ...distintiusLinies,
+      distintiuLinies,
       distintiuCarretera,
       distintiuFgc,
       el('span', { class: 'incidencia-motiu', text: titol })
