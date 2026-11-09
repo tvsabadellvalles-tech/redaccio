@@ -2,8 +2,8 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-09T07:53:15.701Z",
-  "total": 11,
+  "consultat": "2026-11-09T08:53:52.184Z",
+  "total": 12,
   "activitats": [
     {
       "titol": "PAULINO FESTA",
@@ -13,7 +13,14 @@
       "color": null
     },
     {
-      "titol": "Ple extraordinari pressupostos",
+      "titol": "Joan entra",
+      "inici": "2026-11-09T07:45:00.000Z",
+      "final": "2026-11-09T08:15:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "COTXE! (Joan) Ple extraordinari pressupostos",
       "inici": "2026-11-09T08:30:00.000Z",
       "final": "2026-11-09T09:30:00.000Z",
       "totElDia": false,
@@ -84,5 +91,5 @@
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-09T07:54:15.752Z"
+  "actualizado": "2026-11-09T08:55:32.028Z"
 }

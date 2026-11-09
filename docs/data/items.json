@@ -108,6 +108,132 @@
   },
   "items": [
     {
+      "id": "5ea4598e65805b33",
+      "titulo": "Núria Perpinyà ens convida a explorar el cos humà amb la novel·la 'El cos invisible'",
+      "enlace": "http://www.cerdanyola.cat/actualitat/nuria-perpinya-ens-convida-explorar-el-cos-huma-amb-la-novella-el-cos-invisible",
+      "fuente": "ayto-cerdanyola",
+      "fuenteNombre": "Ajuntament de Cerdanyola del Vallès",
+      "tipo": "oficial",
+      "resumen": "Núria Perpinyà ens convida a explorar el cos humà amb la novel·la 'El cos invisible' El Cafè amb lletres de novembre tindrà com a protagonista l'escriptora Núria Perpinyà, que presentarà la seva novel·la El cos invisible (La Magrana,…",
+      "municipio": "cerdanyola",
+      "municipiosMencionados": [
+        "cerdanyola"
+      ],
+      "publicado": "2026-11-09T08:31:19.000Z",
+      "detectado": "2026-11-09T08:53:52.184Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica",
+        "urbanismo",
+        "educacion",
+        "cultura"
+      ],
+      "puntuacion": 5,
+      "motivos": [
+        "font oficial",
+        "política local, obres i urbanisme, educació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "e4d794dba2caea7c",
+      "titulo": "El temps a Sabadell: inestabilitat i possibilitat de pluges durant la setmana",
+      "enlace": "https://www.diaridesabadell.com/sabadell/temps-sabadell-consulta-meteocat.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-09T08:22:09.000Z",
+      "detectado": "2026-11-09T08:53:52.184Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "b1accd90b479b146",
+      "titulo": "L’Esplai l’Esquirol celebra els seus 40 anys amb una festa pel Dia Universal dels Drets dels Infants",
+      "enlace": "https://www.bdv.cat/noticies/lesplai-lesquirol-celebra-els-seus-40-anys-amb-una-festa-pel-dia-universal-dels-drets-dels",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "El pròxim dissabte 21 de novembre, la plaça de la Vila de Barberà del Vallès acollirà una tarda d’activitats per celebrar el Dia Universal dels Drets dels Infants (DUDI) i el 40è aniversari de l’Esplai l’Esquirol. Així, de 16 a 18.30 h,…",
+      "municipio": "barbera",
+      "municipiosMencionados": [
+        "barbera"
+      ],
+      "publicado": "2026-11-09T07:58:00.000Z",
+      "detectado": "2026-11-09T08:53:52.184Z",
+      "sensible": true,
+      "etiquetas": [
+        "salud",
+        "educacion",
+        "cultura"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "font oficial",
+        "salut, educació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "54dc1740f966756a",
+      "titulo": "Cau una xarxa amb presència a Sabadell que introduïa immigrants de manera irregular a Catalunya",
+      "enlace": "https://www.diaridesabadell.com/sabadell/immigrants-pakistan-banda-detinguts-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-09T07:52:50.000Z",
+      "detectado": "2026-11-09T08:53:52.184Z",
+      "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "73a7f7c0baea80f0",
+      "titulo": "Barberà del Vallès dona el tret de sortida al programa del 25N amb el cinefòrum \"La buena hija\"",
+      "enlace": "https://www.bdv.cat/noticies/barbera-del-valles-dona-el-tret-de-sortida-al-programa-del-25n-amb-el-cineforum-la-buena",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "La projecció del film, que va comptar amb la presència de la seva directora, Júlia de Paz Solvas, i el debat posterior van permetre aprofundir en la Violència Vicària, una forma de Violència Masclista que utilitza les filles i els fills…",
+      "municipio": "barbera",
+      "municipiosMencionados": [
+        "barbera"
+      ],
+      "publicado": "2026-11-09T07:43:00.000Z",
+      "detectado": "2026-11-09T08:53:52.184Z",
+      "sensible": true,
+      "etiquetas": [
+        "politica",
+        "cultura"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "font oficial",
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
       "id": "1a59b7faa3acbbb8",
       "titulo": "Retards generalitzats a Rodalies per una \"incidència operativa\"",
       "enlace": "https://radiosabadell.fm/actualitat/mobilitat/retards-generalitzats-rodalies-una-incidencia-operativa",
@@ -122,6 +248,34 @@
       ],
       "publicado": "2026-11-09T07:42:53.000Z",
       "detectado": "2026-11-09T07:53:15.701Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad",
+        "salud",
+        "educacion"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "mobilitat, salut, educació"
+      ],
+      "duplicadaDe": "91376455a27f2dd7",
+      "propuesta": false
+    },
+    {
+      "id": "b0d732d558884788",
+      "titulo": "Retards generalitzats a Rodalies per una \"incidència operativa\"",
+      "enlace": "https://radiosabadell.fm/actualitat/mobilitat/retards-generalitzats-rodalies-incidencia-operativa",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell",
+        "cerdanyola"
+      ],
+      "publicado": "2026-11-09T07:42:53.000Z",
+      "detectado": "2026-11-09T08:53:52.184Z",
       "sensible": false,
       "etiquetas": [
         "movilidad",
@@ -276,5 +430,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-09T07:53:55.732Z"
+  "actualizado": "2026-11-09T08:55:10.381Z"
 }

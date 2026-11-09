@@ -1973,7 +1973,119 @@
       "agente": "deduplicador",
       "texto": "Descartada perquè és duplicada: coincideix amb «Nova jornada de retards generalitzats a Rodalies per una “incidència operativa”» (Diari de Sabadell).",
       "itemId": "1a59b7faa3acbbb8"
+    },
+    {
+      "id": "b34d4f3f7f953485",
+      "t": "2026-11-09T08:53:52.185Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Retards generalitzats a Rodalies per una \"incidència operativa\"» (Ràdio Sabadell).",
+      "itemId": "b0d732d558884788"
+    },
+    {
+      "id": "f09fe3b9621c819c",
+      "t": "2026-11-09T08:53:52.186Z",
+      "agente": "deduplicador",
+      "texto": "Descartada perquè és duplicada: coincideix amb «Nova jornada de retards generalitzats a Rodalies per una “incidència operativa”» (Diari de Sabadell).",
+      "itemId": "b0d732d558884788"
+    },
+    {
+      "id": "dad148a13d65e6ca",
+      "t": "2026-11-09T08:53:52.187Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Barberà del Vallès dona el tret de sortida al programa del 25N amb el cinefòrum \"La buena hija\"» (Ajuntament de Barberà del Vallès).",
+      "itemId": "73a7f7c0baea80f0"
+    },
+    {
+      "id": "fe03284f1142e1c1",
+      "t": "2026-11-09T08:53:52.188Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local, Cultura i festes.",
+      "itemId": "73a7f7c0baea80f0"
+    },
+    {
+      "id": "30bc3ab657ddf2ba",
+      "t": "2026-11-09T08:53:52.189Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "73a7f7c0baea80f0"
+    },
+    {
+      "id": "1c55d3066098bfe8",
+      "t": "2026-11-09T08:53:52.190Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · política local.",
+      "itemId": "73a7f7c0baea80f0"
+    },
+    {
+      "id": "83c77e563d51e13a",
+      "t": "2026-11-09T08:53:52.191Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Cau una xarxa amb presència a Sabadell que introduïa immigrants de manera irregular a Catalunya» (Diari de Sabadell).",
+      "itemId": "54dc1740f966756a"
+    },
+    {
+      "id": "fb96939385a927f4",
+      "t": "2026-11-09T08:53:52.192Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "54dc1740f966756a"
+    },
+    {
+      "id": "a3e7ca008b60e2ec",
+      "t": "2026-11-09T08:53:52.193Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L’Esplai l’Esquirol celebra els seus 40 anys amb una festa pel Dia Universal dels Drets dels Infants» (Ajuntament de Barberà del Vallès).",
+      "itemId": "b1accd90b479b146"
+    },
+    {
+      "id": "fe54c720451ee226",
+      "t": "2026-11-09T08:53:52.194Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut, Educació, Cultura i festes.",
+      "itemId": "b1accd90b479b146"
+    },
+    {
+      "id": "a21ee03fa72c2e0f",
+      "t": "2026-11-09T08:53:52.195Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "b1accd90b479b146"
+    },
+    {
+      "id": "2568683443080917",
+      "t": "2026-11-09T08:53:52.196Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · salut, educació.",
+      "itemId": "b1accd90b479b146"
+    },
+    {
+      "id": "e01ff6ce04aaac8f",
+      "t": "2026-11-09T08:53:52.197Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El temps a Sabadell: inestabilitat i possibilitat de pluges durant la setmana» (Diari de Sabadell).",
+      "itemId": "e4d794dba2caea7c"
+    },
+    {
+      "id": "4d66635302736633",
+      "t": "2026-11-09T08:53:52.198Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Núria Perpinyà ens convida a explorar el cos humà amb la novel·la 'El cos invisible'» (Ajuntament de Cerdanyola del Vallès).",
+      "itemId": "5ea4598e65805b33"
+    },
+    {
+      "id": "90aab19df0a4fe04",
+      "t": "2026-11-09T08:53:52.199Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local, Obres i urbanisme, Educació, Cultura i festes.",
+      "itemId": "5ea4598e65805b33"
+    },
+    {
+      "id": "963bd6b21f0ba31b",
+      "t": "2026-11-09T08:53:52.200Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (5 punts): font oficial · política local, obres i urbanisme, educació.",
+      "itemId": "5ea4598e65805b33"
     }
   ],
-  "actualizado": "2026-11-09T07:53:55.735Z"
+  "actualizado": "2026-11-09T08:55:10.386Z"
 }
