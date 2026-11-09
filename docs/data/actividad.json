@@ -1896,7 +1896,28 @@
       "agente": "rastreador",
       "texto": "He recollit «Infopòdcast Sabadell 09.11.26» (Ràdio Sabadell).",
       "itemId": "3d4723d73a97242c"
+    },
+    {
+      "id": "c87b2c7c491e8de1",
+      "t": "2026-11-09T00:18:00.124Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La història curiosa del Sabadell-Sanse: quan Alberto Edjogo va rebre l'alternativa» (Ràdio Sabadell).",
+      "itemId": "ce5c9240049ec57a"
+    },
+    {
+      "id": "4a56a9ba457bf414",
+      "t": "2026-11-09T00:18:00.125Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Successos, Salut, Esports.",
+      "itemId": "ce5c9240049ec57a"
+    },
+    {
+      "id": "19b8b558e64ed4a0",
+      "t": "2026-11-09T00:18:00.126Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): successos, salut.",
+      "itemId": "ce5c9240049ec57a"
     }
   ],
-  "actualizado": "2026-11-08T23:14:39.723Z"
+  "actualizado": "2026-11-09T00:18:38.296Z"
 }
