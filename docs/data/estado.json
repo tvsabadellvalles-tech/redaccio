@@ -2,15 +2,15 @@
   "fuentes": {
     "isabadell": {
       "ok": true,
-      "items": 1
+      "items": 2
     },
     "radio-sabadell": {
       "ok": true,
-      "items": 3
+      "items": 4
     },
     "diari-sabadell": {
       "ok": true,
-      "items": 2
+      "items": 3
     },
     "diari-terrassa": {
       "ok": true,
@@ -42,7 +42,7 @@
     },
     "ayto-santa-perpetua": {
       "ok": true,
-      "items": 0
+      "items": 2
     },
     "avisos-santa-perpetua": {
       "ok": true,
@@ -81,6 +81,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-10T08:36:43.881Z",
-  "actualizado": "2026-11-10T08:36:57.300Z"
+  "consultat": "2026-11-10T09:28:21.065Z",
+  "actualizado": "2026-11-10T09:28:42.959Z"
 }

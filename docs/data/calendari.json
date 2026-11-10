@@ -2,8 +2,8 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-10T08:36:43.881Z",
-  "total": 12,
+  "consultat": "2026-11-10T09:28:21.065Z",
+  "total": 11,
   "activitats": [
     {
       "titol": "PAULINO FESTA",
@@ -27,13 +27,6 @@
       "color": null
     },
     {
-      "titol": "Lorena entra",
-      "inici": "2026-11-10T14:00:00.000Z",
-      "final": "2026-11-10T14:30:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
       "titol": "L'Informatiu",
       "inici": "2026-11-10T15:00:00.000Z",
       "final": "2026-11-10T16:00:00.000Z",
@@ -41,14 +34,14 @@
       "color": null
     },
     {
-      "titol": "CX - VIA 15 (Habitatge)",
+      "titol": "(Ferran) CX - VIA 15 (Habitatge)",
       "inici": "2026-11-10T17:00:00.000Z",
       "final": "2026-11-10T18:00:00.000Z",
       "totElDia": false,
       "color": null
     },
     {
-      "titol": "CN Sabadell F-CN Terrassa",
+      "titol": "(Ferran) CN Sabadell F-CN Terrassa",
       "inici": "2026-11-10T19:45:00.000Z",
       "final": "2026-11-10T20:45:00.000Z",
       "totElDia": false,
@@ -91,5 +84,5 @@
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-10T08:37:16.838Z"
+  "actualizado": "2026-11-10T09:29:03.379Z"
 }

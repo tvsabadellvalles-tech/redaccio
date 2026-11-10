@@ -104,6 +104,101 @@
   },
   "items": [
     {
+      "id": "5418475f9c902c6a",
+      "titulo": "Més baixes de pes al Sabadell: Quadri, 'Urri' i Eneko no jugaran a Elda",
+      "enlace": "https://radiosabadell.fm/esports/ce-sabadell/quadri-urri-eneko-baixa-eldense-sabadell",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-10T09:07:29.000Z",
+      "detectado": "2026-11-10T09:28:21.065Z",
+      "sensible": false,
+      "etiquetas": [
+        "salud",
+        "deportes"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "e6261a4fdb506031",
+      "titulo": "David Lyme / Jordi Cubino i el ‘Sabadell Sound’, a ‘El doble’",
+      "enlace": "https://www.isabadell.cat/cultura/david-lyme-jordi-cubino-i-el-sabadell-sound-a-el-doble-340285/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-10T09:00:00.000Z",
+      "detectado": "2026-11-10T09:28:21.065Z",
+      "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "c0f8a918e8166327",
+      "titulo": "L'Ajuntament inicia una campanya de vigilància i sancions contra l'incivisme en matèria de residus",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/lajuntament-inicia-una-campanya-de-vigilancia-i-sancions-contra-lincivisme-en-materia-de-residus.html",
+      "fuente": "ayto-santa-perpetua",
+      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
+      "tipo": "oficial",
+      "resumen": "L'alcalde, Joan Carles Mingueza, també anuncia reforç en la neteja viària i millores en el sistema de recollida",
+      "municipio": "santa-perpetua",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-10T09:00:00.000Z",
+      "detectado": "2026-11-10T09:28:21.065Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica",
+        "medioambiente"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "font oficial",
+        "política local, medi ambient"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "b5cc336eb6ed6774",
+      "titulo": "'Estimada Valentina': artistes sabadellencs se sumen a la cançó pel dret a l'habitatge",
+      "enlace": "https://www.diaridesabadell.com/oci-cultura/estimada-valentina-canco-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-10T08:52:02.000Z",
+      "detectado": "2026-11-10T09:28:21.065Z",
+      "sensible": false,
+      "etiquetas": [
+        "urbanismo"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "51c985f0e407c565",
       "titulo": "Ja podeu consultar la revista municipal núm. 457",
       "enlace": "https://www.bdv.cat/noticies/ja-podeu-consultar-la-revista-municipal-num-457",
@@ -171,6 +266,30 @@
       "puntuacion": 2,
       "motivos": [
         "mobilitat"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "9ffe245e4c92dc33",
+      "titulo": "L'EMA torna a iniciar projectes com la Banda, l'Orquestra i el Cor comunitari, oberts a la participació de tothom",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/lema-torna-a-iniciar-projectes-com-la-banda-lorquestra-i-el-cor-comunitari-oberts-a-la-participacio-de-tothom.html",
+      "fuente": "ayto-santa-perpetua",
+      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
+      "tipo": "oficial",
+      "resumen": "La Banda, l’Orquestra i el Cor Comunitaris de l’Escola Municipal de Música (EMA) ja han començat els assajos.",
+      "municipio": "santa-perpetua",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-10T08:00:00.000Z",
+      "detectado": "2026-11-10T09:28:21.065Z",
+      "sensible": false,
+      "etiquetas": [
+        "educacion"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "font oficial",
+        "educació"
       ],
       "duplicadaDe": null,
       "propuesta": false
@@ -293,5 +412,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-10T08:36:57.299Z"
+  "actualizado": "2026-11-10T09:28:42.958Z"
 }

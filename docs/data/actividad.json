@@ -1,83 +1,6 @@
 {
   "eventos": [
     {
-      "id": "a9c4d3feb05e2711",
-      "t": "2026-10-28T19:12:54.619Z",
-      "agente": "rastreador",
-      "texto": "He recollit «TREBALLS DE MANTENIMENT. Calçada restringida (Obres)» (Servei Català de Trànsit · Incidències viàries).",
-      "itemId": "768c605856ad6ae0"
-    },
-    {
-      "id": "a64c02e3b6c7b330",
-      "t": "2026-10-28T19:12:54.620Z",
-      "agente": "deduplicador",
-      "texto": "Descartada perquè és duplicada: coincideix amb «TREBALLS DE MANTENIMENT. Calçada restringida (Obres)» (Servei Català de Trànsit · Incidències viàries).",
-      "itemId": "768c605856ad6ae0"
-    },
-    {
-      "id": "e3dbc434e259f283",
-      "t": "2026-10-28T19:12:54.621Z",
-      "agente": "rastreador",
-      "texto": "He recollit «NETEJA. Calçada restringida (Obres)» (Servei Català de Trànsit · Incidències viàries).",
-      "itemId": "e7de62cbbfaf62bb"
-    },
-    {
-      "id": "897866f2b6c55451",
-      "t": "2026-10-28T19:12:54.622Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Obres i urbanisme, Salut.",
-      "itemId": "e7de62cbbfaf62bb"
-    },
-    {
-      "id": "e85f592fa08ee3eb",
-      "t": "2026-10-28T19:12:54.623Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · obres i urbanisme, salut.",
-      "itemId": "e7de62cbbfaf62bb"
-    },
-    {
-      "id": "4b51cf67b90646b1",
-      "t": "2026-10-28T19:12:54.624Z",
-      "agente": "rastreador",
-      "texto": "He recollit «‘Feijóo ante el espejo: la historia que delata a un candidato ‘» (iSabadell).",
-      "itemId": "7faa2a29d15d7d95"
-    },
-    {
-      "id": "53ecc0efa17cf8d2",
-      "t": "2026-10-28T19:12:54.625Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Fins al 17 de novembre es poden fer inscripcions a la Fira de Nadal» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "316a1a424876f37b"
-    },
-    {
-      "id": "07898c43f483fc89",
-      "t": "2026-10-28T19:12:54.626Z",
-      "agente": "deduplicador",
-      "texto": "Descartada perquè és duplicada: coincideix amb «Fins al 17 de novembre es poden fer inscripcions a la Fira de Nadal» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "316a1a424876f37b"
-    },
-    {
-      "id": "7e48d1291ee95c0a",
-      "t": "2026-10-28T19:12:54.627Z",
-      "agente": "rastreador",
-      "texto": "He recollit «\"Estic més tranquil·la si passo per fora\": els veïns qüestionen els passos soterrats de la Gran Via» (Diari de Sabadell).",
-      "itemId": "4105e5825bc481bd"
-    },
-    {
-      "id": "6c0cda8eb6730362",
-      "t": "2026-10-28T19:12:54.628Z",
-      "agente": "rastreador",
-      "texto": "He recollit «NETEJA. Calçada restringida (Obres)» (Servei Català de Trànsit · Incidències viàries).",
-      "itemId": "b0afa7ba8f741d7d"
-    },
-    {
-      "id": "a6a618d80a0a6c50",
-      "t": "2026-10-28T19:12:54.629Z",
-      "agente": "deduplicador",
-      "texto": "Descartada perquè és duplicada: coincideix amb «NETEJA. Calçada restringida (Obres)» (Servei Català de Trànsit · Incidències viàries).",
-      "itemId": "b0afa7ba8f741d7d"
-    },
-    {
       "id": "88eee84435b5b96b",
       "t": "2026-10-28T19:12:54.630Z",
       "agente": "rastreador",
@@ -2799,7 +2722,84 @@
       "agente": "mesa",
       "texto": "Proposo incloure-ho a l'escaleta (4 punts): font oficial · mobilitat, obres i urbanisme.",
       "itemId": "51c985f0e407c565"
+    },
+    {
+      "id": "bd94ca1dd4dcabb2",
+      "t": "2026-11-10T09:28:21.065Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L'EMA torna a iniciar projectes com la Banda, l'Orquestra i el Cor comunitari, oberts a la participació de tothom» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "9ffe245e4c92dc33"
+    },
+    {
+      "id": "181fd5687ae01592",
+      "t": "2026-11-10T09:28:21.066Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Educació.",
+      "itemId": "9ffe245e4c92dc33"
+    },
+    {
+      "id": "1fa7f9a953e03fdf",
+      "t": "2026-11-10T09:28:21.067Z",
+      "agente": "rastreador",
+      "texto": "He recollit «'Estimada Valentina': artistes sabadellencs se sumen a la cançó pel dret a l'habitatge» (Diari de Sabadell).",
+      "itemId": "b5cc336eb6ed6774"
+    },
+    {
+      "id": "0ad74be5a49bbe2d",
+      "t": "2026-11-10T09:28:21.068Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Obres i urbanisme.",
+      "itemId": "b5cc336eb6ed6774"
+    },
+    {
+      "id": "c5d09fbc43afea66",
+      "t": "2026-11-10T09:28:21.069Z",
+      "agente": "rastreador",
+      "texto": "He recollit «David Lyme / Jordi Cubino i el ‘Sabadell Sound’, a ‘El doble’» (iSabadell).",
+      "itemId": "e6261a4fdb506031"
+    },
+    {
+      "id": "50401a62200c75be",
+      "t": "2026-11-10T09:28:21.070Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "e6261a4fdb506031"
+    },
+    {
+      "id": "31870f241030cb5e",
+      "t": "2026-11-10T09:28:21.071Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L'Ajuntament inicia una campanya de vigilància i sancions contra l'incivisme en matèria de residus» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "c0f8a918e8166327"
+    },
+    {
+      "id": "0c5a2dc54ec40db2",
+      "t": "2026-11-10T09:28:21.072Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local, Medi ambient.",
+      "itemId": "c0f8a918e8166327"
+    },
+    {
+      "id": "4431456f60f43bc7",
+      "t": "2026-11-10T09:28:21.073Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): font oficial · política local, medi ambient.",
+      "itemId": "c0f8a918e8166327"
+    },
+    {
+      "id": "8270884a74aca438",
+      "t": "2026-11-10T09:28:21.074Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Més baixes de pes al Sabadell: Quadri, 'Urri' i Eneko no jugaran a Elda» (Ràdio Sabadell).",
+      "itemId": "5418475f9c902c6a"
+    },
+    {
+      "id": "62c1b3e94cb350b2",
+      "t": "2026-11-10T09:28:21.075Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut, Esports.",
+      "itemId": "5418475f9c902c6a"
     }
   ],
-  "actualizado": "2026-11-10T08:36:57.302Z"
+  "actualizado": "2026-11-10T09:28:42.961Z"
 }
