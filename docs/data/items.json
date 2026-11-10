@@ -104,6 +104,91 @@
   },
   "items": [
     {
+      "id": "79c10c3bd77cd68b",
+      "titulo": "Torna l'Empíric Festival per connectar ciència, salut i societat",
+      "enlace": "http://www.cerdanyola.cat/actualitat/torna-lempiric-festival-connectar-ciencia-salut-i-societat",
+      "fuente": "ayto-cerdanyola",
+      "fuenteNombre": "Ajuntament de Cerdanyola del Vallès",
+      "tipo": "oficial",
+      "resumen": "Torna l'Empíric Festival per connectar ciència, salut i societat L’Empíric, el Festival de Literatura i Ciència de Cerdanyola del Vallès, torna amb una tercera edició que convida a explorar els vincles entre ciència, salut i societat. Del…",
+      "municipio": "cerdanyola",
+      "municipiosMencionados": [
+        "cerdanyola"
+      ],
+      "publicado": "2026-11-10T11:16:49.000Z",
+      "detectado": "2026-11-10T11:56:19.617Z",
+      "sensible": true,
+      "etiquetas": [
+        "emergencias",
+        "salud",
+        "educacion",
+        "deportes",
+        "cultura"
+      ],
+      "puntuacion": 5,
+      "motivos": [
+        "font oficial",
+        "emergències, salut, educació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "3244a02eb53c0428",
+      "titulo": "Vaga general de l’11-N: quins són els serveis mínims?",
+      "enlace": "https://www.isabadell.cat/societat/vaga-general-de-l11-n-quins-son-els-serveis-minims-340427/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-10T11:12:58.000Z",
+      "detectado": "2026-11-10T11:56:19.617Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad",
+        "salud",
+        "educacion"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "mobilitat, salut, educació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "933cf4616d35a448",
+      "titulo": "Aida Guidus, Comitè de Vaga 11-N: \"El monstre del capitalisme ens està escanyant\"",
+      "enlace": "https://radiosabadell.fm/actualitat/politica/comite-vaga-general-11N-Sabadell",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-10T11:11:04.000Z",
+      "detectado": "2026-11-10T11:56:19.617Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad",
+        "urbanismo",
+        "economia",
+        "salud",
+        "educacion",
+        "deportes"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "mobilitat, obres i urbanisme, economia i ocupació, salut, educació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
       "id": "7153fe5f1ab14e16",
       "titulo": "El bled: una mala herba molt bona",
       "enlace": "https://radiosabadell.fm/podcast/fils-ciutat-tothomataula-bled-101126",
@@ -167,6 +252,27 @@
       "propuesta": false
     },
     {
+      "id": "4382629eac2e31a9",
+      "titulo": "El CIM i el CAM treballaran sobre la diversitat funcional, cultural i social",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/el-cim-i-el-cam-treballaran-sobre-la-diversitat-funcional-cultural-i-social.html",
+      "fuente": "ayto-santa-perpetua",
+      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
+      "tipo": "oficial",
+      "resumen": "El Consell Infantil Municipal (CIM) i el Consell d’Adolescents Municipal (CAM) ja han escollit la temàtica que treballaran al llarg d’aquest curs. El CIM ha decidit tractar la diversitat funcional i el CAM es centrarà en la diversitat…",
+      "municipio": "santa-perpetua",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-10T10:45:00.000Z",
+      "detectado": "2026-11-10T11:56:19.617Z",
+      "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "b6d1311797d3b6e9",
       "titulo": "El CIESC i la Cambra de Comerç, sobre l'11-N: \"No és el moment\"",
       "enlace": "https://radiosabadell.fm/alacarta/audio/el-ciesc-la-cambra-de-comerc-sobre-l11-n-no-es-el-moment",
@@ -188,6 +294,33 @@
       ],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "591269e0eade25b7",
+      "titulo": "Una grua de grans dimensions talla la Rambla",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/una-grua-de-grans-dimensions-talla-la-rambla",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-10T10:41:58.000Z",
+      "detectado": "2026-11-10T11:56:19.617Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad",
+        "urbanismo",
+        "economia"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "mobilitat, obres i urbanisme, economia i ocupació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
     },
     {
       "id": "314f0caa49cc7694",
@@ -249,6 +382,31 @@
       ],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "ef5ca95b130dac6f",
+      "titulo": "Què duies posat? L'exposició que denuncia la revictimització de les víctimes de violència de gènere",
+      "enlace": "https://www.ripollet.cat/actualitat/noticies/que-duies-posat-lexposicio-que-denuncia-la-revictimitzacio-de-les-victimes-de-violencia-de-genere",
+      "fuente": "ayto-ripollet",
+      "fuenteNombre": "Ajuntament de Ripollet",
+      "tipo": "oficial",
+      "resumen": "L'exposició està disponible al vestíbul del Centre Cultural fins al 30 de novembre i cerca visibilitzar i qüestionar els estigmes que encara es mantenen al voltant de la violència sexual i vol denunciar la doble victimització que viuen…",
+      "municipio": "ripollet",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-10T10:10:00.000Z",
+      "detectado": "2026-11-10T11:56:19.617Z",
+      "sensible": true,
+      "etiquetas": [
+        "sucesos",
+        "cultura"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "font oficial",
+        "successos"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
     },
     {
       "id": "8c9b0619ac6beea5",
@@ -628,5 +786,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-10T11:12:55.272Z"
+  "actualizado": "2026-11-10T11:56:37.070Z"
 }

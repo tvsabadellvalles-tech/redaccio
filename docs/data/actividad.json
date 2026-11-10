@@ -1,139 +1,6 @@
 {
   "eventos": [
     {
-      "id": "310b7213886be46c",
-      "t": "2026-10-28T19:12:54.646Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Un ciberatac afecta un servidor de la Unitat de Comunicació» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "220fe7f425b8aa96"
-    },
-    {
-      "id": "143a2ed4e3c9262f",
-      "t": "2026-10-28T19:12:54.647Z",
-      "agente": "deduplicador",
-      "texto": "Descartada perquè és duplicada: coincideix amb «Un ciberatac afecta un servidor de la Unitat de Comunicació» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "220fe7f425b8aa96"
-    },
-    {
-      "id": "33dea0305a9043e1",
-      "t": "2026-10-28T19:12:54.648Z",
-      "agente": "rastreador",
-      "texto": "He recollit «L’Utebo-CE Sabadell de Copa, suspès per l’accident de tren a Toledo» (iSabadell).",
-      "itemId": "cab1deba2aa6e34b"
-    },
-    {
-      "id": "51f894cc441a6ecb",
-      "t": "2026-10-28T19:12:54.649Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat, Successos.",
-      "itemId": "cab1deba2aa6e34b"
-    },
-    {
-      "id": "db43c8453a59864b",
-      "t": "2026-10-28T19:12:54.650Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): mobilitat, successos.",
-      "itemId": "cab1deba2aa6e34b"
-    },
-    {
-      "id": "c62bd3d3060ed222",
-      "t": "2026-10-28T19:12:54.651Z",
-      "agente": "rastreador",
-      "texto": "He recollit «L’Ajuntament convoca un minut de silenci per l’accident ferroviari a Toledo» (iSabadell).",
-      "itemId": "a9c19650e6373f1d"
-    },
-    {
-      "id": "8866279dd2f4ff28",
-      "t": "2026-10-28T19:12:54.652Z",
-      "agente": "deduplicador",
-      "texto": "Descartada perquè és duplicada: coincideix amb «L'Ajuntament convoca a les 20 hores un minut de silenci per les víctimes de l'accident ferroviari» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "a9c19650e6373f1d"
-    },
-    {
-      "id": "4344e37c603c28e4",
-      "t": "2026-10-28T19:12:54.653Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El govern municipal impulsa una ordenança per regular el preu dels serveis funeraris» (Ràdio Sabadell).",
-      "itemId": "3f846692f8738bfb"
-    },
-    {
-      "id": "e1c9f82c5b69d952",
-      "t": "2026-10-28T19:12:54.654Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local.",
-      "itemId": "3f846692f8738bfb"
-    },
-    {
-      "id": "8053e4b7cad8057d",
-      "t": "2026-10-28T19:12:54.655Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El Podi (IX): L'aposta del Cercle Sabadellès pel pickleball, a punt de ser una realitat» (Ràdio Sabadell).",
-      "itemId": "58a84ce95a86cee3"
-    },
-    {
-      "id": "06d11c0b1131b374",
-      "t": "2026-10-28T19:12:54.656Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat, Economia i ocupació, Salut, Educació, Medi ambient, Esports.",
-      "itemId": "58a84ce95a86cee3"
-    },
-    {
-      "id": "326d010bbec33f91",
-      "t": "2026-10-28T19:12:54.657Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): mobilitat, economia i ocupació, salut, educació, medi ambient.",
-      "itemId": "58a84ce95a86cee3"
-    },
-    {
-      "id": "64ff76bb1add531f",
-      "t": "2026-10-28T19:12:54.658Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El govern farà una consulta de mercat sobre la viabilitat d'un tanatori públic» (Ràdio Sabadell).",
-      "itemId": "8278e231637bb1ba"
-    },
-    {
-      "id": "185f7913ad5bc971",
-      "t": "2026-10-28T19:12:54.659Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local.",
-      "itemId": "8278e231637bb1ba"
-    },
-    {
-      "id": "6429624e2b7de88b",
-      "t": "2026-10-28T19:12:54.660Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "8278e231637bb1ba"
-    },
-    {
-      "id": "a82b47d5129fcd15",
-      "t": "2026-10-28T19:12:54.661Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Comença la vaga de metges, que es farà notar al Parc Taulí: \"Prenem decisions sobre la teva salut, hem d'estar en plenes facultats\"» (Diari de Sabadell).",
-      "itemId": "d4ad91ff1cc33b33"
-    },
-    {
-      "id": "df9840f005dca0a4",
-      "t": "2026-10-28T19:12:54.662Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Salut.",
-      "itemId": "d4ad91ff1cc33b33"
-    },
-    {
-      "id": "814326c71d462898",
-      "t": "2026-10-28T19:12:54.663Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Eloi Cortés, tinent d'alcaldessa: \"Un tanatori públic d'onze sales és inviable, però no hi renunciem\"» (Ràdio Sabadell).",
-      "itemId": "4a59c2e6c1ea0bc2"
-    },
-    {
-      "id": "0e107627afd46528",
-      "t": "2026-10-28T19:12:54.664Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local.",
-      "itemId": "4a59c2e6c1ea0bc2"
-    },
-    {
       "id": "7ea50b9aaa690ee4",
       "t": "2026-10-28T19:12:54.665Z",
       "agente": "rastreador",
@@ -2799,7 +2666,140 @@
       "agente": "rastreador",
       "texto": "He recollit «El bled: una mala herba molt bona» (Ràdio Sabadell).",
       "itemId": "7153fe5f1ab14e16"
+    },
+    {
+      "id": "c59b0498c2c76023",
+      "t": "2026-11-10T11:56:19.617Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Què duies posat? L'exposició que denuncia la revictimització de les víctimes de violència de gènere» (Ajuntament de Ripollet).",
+      "itemId": "ef5ca95b130dac6f"
+    },
+    {
+      "id": "f1968c61a8030d60",
+      "t": "2026-11-10T11:56:19.618Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Successos, Cultura i festes.",
+      "itemId": "ef5ca95b130dac6f"
+    },
+    {
+      "id": "edfbed1831b9f955",
+      "t": "2026-11-10T11:56:19.619Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "ef5ca95b130dac6f"
+    },
+    {
+      "id": "c57fe3e6ab75a35d",
+      "t": "2026-11-10T11:56:19.620Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · successos.",
+      "itemId": "ef5ca95b130dac6f"
+    },
+    {
+      "id": "14704b65a752e553",
+      "t": "2026-11-10T11:56:19.621Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Una grua de grans dimensions talla la Rambla» (Ràdio Sabadell).",
+      "itemId": "591269e0eade25b7"
+    },
+    {
+      "id": "c7f684c5d8566e03",
+      "t": "2026-11-10T11:56:19.622Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat, Obres i urbanisme, Economia i ocupació.",
+      "itemId": "591269e0eade25b7"
+    },
+    {
+      "id": "46969d7536c00a54",
+      "t": "2026-11-10T11:56:19.623Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): mobilitat, obres i urbanisme, economia i ocupació.",
+      "itemId": "591269e0eade25b7"
+    },
+    {
+      "id": "6d7e7f0edede7f71",
+      "t": "2026-11-10T11:56:19.624Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El CIM i el CAM treballaran sobre la diversitat funcional, cultural i social» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "4382629eac2e31a9"
+    },
+    {
+      "id": "bb7b70a605f88619",
+      "t": "2026-11-10T11:56:19.625Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "4382629eac2e31a9"
+    },
+    {
+      "id": "352cff7ccd603911",
+      "t": "2026-11-10T11:56:19.626Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Aida Guidus, Comitè de Vaga 11-N: \"El monstre del capitalisme ens està escanyant\"» (Ràdio Sabadell).",
+      "itemId": "933cf4616d35a448"
+    },
+    {
+      "id": "ab9de0f018a98e9a",
+      "t": "2026-11-10T11:56:19.627Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat, Obres i urbanisme, Economia i ocupació, Salut, Educació, Esports.",
+      "itemId": "933cf4616d35a448"
+    },
+    {
+      "id": "3c0646d8c2355226",
+      "t": "2026-11-10T11:56:19.628Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): mobilitat, obres i urbanisme, economia i ocupació, salut, educació.",
+      "itemId": "933cf4616d35a448"
+    },
+    {
+      "id": "8be4080befb53abc",
+      "t": "2026-11-10T11:56:19.629Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Vaga general de l’11-N: quins són els serveis mínims?» (iSabadell).",
+      "itemId": "3244a02eb53c0428"
+    },
+    {
+      "id": "2c9e6415a8298f85",
+      "t": "2026-11-10T11:56:19.630Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat, Salut, Educació.",
+      "itemId": "3244a02eb53c0428"
+    },
+    {
+      "id": "813689205626d76e",
+      "t": "2026-11-10T11:56:19.631Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): mobilitat, salut, educació.",
+      "itemId": "3244a02eb53c0428"
+    },
+    {
+      "id": "9e0bd7c28c4e2d8d",
+      "t": "2026-11-10T11:56:19.632Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Torna l'Empíric Festival per connectar ciència, salut i societat» (Ajuntament de Cerdanyola del Vallès).",
+      "itemId": "79c10c3bd77cd68b"
+    },
+    {
+      "id": "2589aa7e65867eaf",
+      "t": "2026-11-10T11:56:19.633Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Emergències, Salut, Educació, Esports, Cultura i festes.",
+      "itemId": "79c10c3bd77cd68b"
+    },
+    {
+      "id": "21cbcc5063e4f979",
+      "t": "2026-11-10T11:56:19.634Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "79c10c3bd77cd68b"
+    },
+    {
+      "id": "ad3f1226964d703d",
+      "t": "2026-11-10T11:56:19.635Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (5 punts): font oficial · emergències, salut, educació.",
+      "itemId": "79c10c3bd77cd68b"
     }
   ],
-  "actualizado": "2026-11-10T11:12:55.275Z"
+  "actualizado": "2026-11-10T11:56:37.073Z"
 }
