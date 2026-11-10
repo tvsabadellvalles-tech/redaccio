@@ -104,6 +104,145 @@
   },
   "items": [
     {
+      "id": "613c1c5dc12a219d",
+      "titulo": "La metgessa Montserrat Baré, premiada per una trajectòria al servei de la Creu Alta: \"És el lloc on sempre havia volgut exercir\"",
+      "enlace": "https://www.diaridesabadell.com/sabadell/doctora-montserrat-bare-premiada-excellencia-professional-cap-creu-alta-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-10T16:59:54.000Z",
+      "detectado": "2026-11-10T17:09:13.296Z",
+      "sensible": false,
+      "etiquetas": [
+        "salud"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "c41faab7634bd03d",
+      "titulo": "VÍDEO | Graven un individu llançant deixalles davant d'un edifici del Centre de Sabadell: \"N'estem molt cansats\"",
+      "enlace": "https://www.diaridesabadell.com/sabadell/video-graven-individu-deixalles-sabadell-veins.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-10T16:37:09.000Z",
+      "detectado": "2026-11-10T17:09:13.296Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "dbd5ec59850cfbea",
+      "titulo": "S'acumulen les cartes a la Generalitat pels problemes a la xarxa d'autobusos",
+      "enlace": "https://www.diaridesabadell.com/valles/santa-perpetua-mogoda/transport-public-autobusos-santa-perpetua-generalitat-queixes.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "santa-perpetua"
+      ],
+      "publicado": "2026-11-10T16:31:44.000Z",
+      "detectado": "2026-11-10T17:09:13.296Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "mobilitat"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "74ac4147454106f0",
+      "titulo": "El periodista sabadellenc Plàcid Garcia-Planas rebrà el Premi Tenacitat 2026",
+      "enlace": "https://www.diaridesabadell.com/sabadell/el-periodista-sabadellenc-placid-garcia-planas-rebra-el-premi-tenacitat-2026.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-10T16:10:29.000Z",
+      "detectado": "2026-11-10T17:09:13.296Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "cfbf07aebeaa03b3",
+      "titulo": "Plàcid Garcia-Planas, Premi Tenacitat 2026 del Rotary Club Sabadell",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/garcia-planas-tenacitat-2026-rotary",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-10T16:09:10.000Z",
+      "detectado": "2026-11-10T17:09:13.296Z",
+      "sensible": false,
+      "etiquetas": [
+        "urbanismo",
+        "deportes"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "ae7f987f946c0c3a",
+      "titulo": "Alerten que dues empreses del riu Ripoll operen sense llicència d'activitats",
+      "enlace": "https://www.diaridesabadell.com/sabadell/empreses-sense-llicencia-riu-ripoll-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-10T15:56:39.000Z",
+      "detectado": "2026-11-10T17:09:13.296Z",
+      "sensible": false,
+      "etiquetas": [
+        "economia"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "economia i ocupació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "00420e919728e971",
       "titulo": "11-N, una vaga general a les portes de les eleccions generals",
       "enlace": "https://www.lactual.cat/actualitat/11-n-vaga-general-portes-eleccions-generals_55350_102.html",
@@ -1133,5 +1272,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-10T15:25:42.622Z"
+  "actualizado": "2026-11-10T17:09:28.379Z"
 }

@@ -1,76 +1,6 @@
 {
   "eventos": [
     {
-      "id": "db49099c0b4724bf",
-      "t": "2026-11-01T10:03:00.647Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): política local, salut.",
-      "itemId": "d6d3f13a2282f1f5"
-    },
-    {
-      "id": "4b63915f271acaf8",
-      "t": "2026-11-01T10:03:00.648Z",
-      "agente": "rastreador",
-      "texto": "He recollit «L'esgarrifosa puntada a Quadri queda en un ensurt: rep l'alta mèdica i torna cap a Sabadell» (Diari de Sabadell).",
-      "itemId": "153b04521504cc6c"
-    },
-    {
-      "id": "8d742df3e4b7f608",
-      "t": "2026-11-01T10:03:00.649Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Salut.",
-      "itemId": "153b04521504cc6c"
-    },
-    {
-      "id": "c3541e91a7d157ce",
-      "t": "2026-11-01T10:03:00.650Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Quins personatges il·lustres hi ha enterrats al Cementiri de Sabadell?» (Ràdio Sabadell).",
-      "itemId": "81f3041d8f3a5e12"
-    },
-    {
-      "id": "bb4e80632caed1da",
-      "t": "2026-11-01T10:03:00.651Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Cultura i festes.",
-      "itemId": "81f3041d8f3a5e12"
-    },
-    {
-      "id": "239c3a0729f883f2",
-      "t": "2026-11-01T10:03:00.652Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La Cooperativa La Sabadellenca (1881-1980)» (iSabadell).",
-      "itemId": "e092f90eb10d0c30"
-    },
-    {
-      "id": "a6702d0c5ef4c18f",
-      "t": "2026-11-01T10:03:00.653Z",
-      "agente": "rastreador",
-      "texto": "He recollit «‘La campanya de Feijóo’, per Surroca (1/11/26)» (iSabadell).",
-      "itemId": "7de125255ccbb905"
-    },
-    {
-      "id": "8bc70567d7c20caf",
-      "t": "2026-11-01T10:03:00.654Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El grup de rock que va vendre els ossos per comprar instruments» (Diari de Sabadell).",
-      "itemId": "f0d49be89a70e922"
-    },
-    {
-      "id": "b06fa48ab82163a9",
-      "t": "2026-11-01T10:03:00.655Z",
-      "agente": "rastreador",
-      "texto": "He recollit «AVARIA. Circulació amb retencions (Retenció)» (Servei Català de Trànsit · Incidències viàries).",
-      "itemId": "d54bcf8ac2f883b6"
-    },
-    {
-      "id": "73be5bbc2e40e5f0",
-      "t": "2026-11-01T10:03:00.656Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat, Salut.",
-      "itemId": "d54bcf8ac2f883b6"
-    },
-    {
       "id": "16b03981f9d25bfb",
       "t": "2026-11-01T10:03:00.657Z",
       "agente": "mesa",
@@ -2799,7 +2729,77 @@
       "agente": "rastreador",
       "texto": "He recollit «11-N, una vaga general a les portes de les eleccions generals» (L'Actual - Castellar del Vallès).",
       "itemId": "00420e919728e971"
+    },
+    {
+      "id": "b334447794535831",
+      "t": "2026-11-10T17:09:13.296Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Alerten que dues empreses del riu Ripoll operen sense llicència d'activitats» (Diari de Sabadell).",
+      "itemId": "ae7f987f946c0c3a"
+    },
+    {
+      "id": "963afd8eedb6d159",
+      "t": "2026-11-10T17:09:13.297Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Economia i ocupació.",
+      "itemId": "ae7f987f946c0c3a"
+    },
+    {
+      "id": "af80ac7735e669a8",
+      "t": "2026-11-10T17:09:13.298Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Plàcid Garcia-Planas, Premi Tenacitat 2026 del Rotary Club Sabadell» (Ràdio Sabadell).",
+      "itemId": "cfbf07aebeaa03b3"
+    },
+    {
+      "id": "d7aa70f38412daec",
+      "t": "2026-11-10T17:09:13.299Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Obres i urbanisme, Esports.",
+      "itemId": "cfbf07aebeaa03b3"
+    },
+    {
+      "id": "38a60683c6d59837",
+      "t": "2026-11-10T17:09:13.300Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El periodista sabadellenc Plàcid Garcia-Planas rebrà el Premi Tenacitat 2026» (Diari de Sabadell).",
+      "itemId": "74ac4147454106f0"
+    },
+    {
+      "id": "1a54266d0ccfe0b4",
+      "t": "2026-11-10T17:09:13.301Z",
+      "agente": "rastreador",
+      "texto": "He recollit «S'acumulen les cartes a la Generalitat pels problemes a la xarxa d'autobusos» (Diari de Sabadell).",
+      "itemId": "dbd5ec59850cfbea"
+    },
+    {
+      "id": "9bf0e39548787d11",
+      "t": "2026-11-10T17:09:13.302Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat.",
+      "itemId": "dbd5ec59850cfbea"
+    },
+    {
+      "id": "b6c40ef74ca2994c",
+      "t": "2026-11-10T17:09:13.303Z",
+      "agente": "rastreador",
+      "texto": "He recollit «VÍDEO | Graven un individu llançant deixalles davant d'un edifici del Centre de Sabadell: \"N'estem molt cansats\"» (Diari de Sabadell).",
+      "itemId": "c41faab7634bd03d"
+    },
+    {
+      "id": "1b2217778179aefd",
+      "t": "2026-11-10T17:09:13.304Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La metgessa Montserrat Baré, premiada per una trajectòria al servei de la Creu Alta: \"És el lloc on sempre havia volgut exercir\"» (Diari de Sabadell).",
+      "itemId": "613c1c5dc12a219d"
+    },
+    {
+      "id": "1d2153a23a3bae16",
+      "t": "2026-11-10T17:09:13.305Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut.",
+      "itemId": "613c1c5dc12a219d"
     }
   ],
-  "actualizado": "2026-11-10T15:25:42.625Z"
+  "actualizado": "2026-11-10T17:09:28.383Z"
 }
