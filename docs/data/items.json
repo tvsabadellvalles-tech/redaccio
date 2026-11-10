@@ -104,6 +104,180 @@
   },
   "items": [
     {
+      "id": "7153fe5f1ab14e16",
+      "titulo": "El bled: una mala herba molt bona",
+      "enlace": "https://radiosabadell.fm/podcast/fils-ciutat-tothomataula-bled-101126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-10T10:59:28.000Z",
+      "detectado": "2026-11-10T11:12:35.641Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "18765c50c49f0fb3",
+      "titulo": "La vaga de maquinistes se suma al caos diari dels usuaris: \"Hem estat mitja hora amb el tren parat\"",
+      "enlace": "https://www.diaridesabadell.com/sabadell/vaga-rodalies-caos-usuaris-retards-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-10T10:51:34.000Z",
+      "detectado": "2026-11-10T11:12:35.641Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "mobilitat"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "221df245a77c4812",
+      "titulo": "Gerard Torres Sanmartí, Acadèmia de Belles Arts: \"Camil Fàbregas és el millor escultor que ha tingut Sabadell\"",
+      "enlace": "https://radiosabadell.fm/podcast/fils-ciutat-belles-arts-exposicio-101126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-10T10:49:40.000Z",
+      "detectado": "2026-11-10T11:12:35.641Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "b6d1311797d3b6e9",
+      "titulo": "El CIESC i la Cambra de Comerç, sobre l'11-N: \"No és el moment\"",
+      "enlace": "https://radiosabadell.fm/alacarta/audio/el-ciesc-la-cambra-de-comerc-sobre-l11-n-no-es-el-moment",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-10T10:43:31.000Z",
+      "detectado": "2026-11-10T11:12:35.641Z",
+      "sensible": false,
+      "etiquetas": [
+        "economia"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "economia i ocupació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "314f0caa49cc7694",
+      "titulo": "Arnau Aguilar, músic: \"La música surt de posar paraules al que no puc explicar\"",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-mati-arnau-aguilar-101126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-10T10:33:55.000Z",
+      "detectado": "2026-11-10T11:12:35.641Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "22a375e0aea577a5",
+      "titulo": "La tertúlia: la vaga de maquinistes i la prèvia de la vaga general",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-mati-tertulia-101126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-10T10:28:27.000Z",
+      "detectado": "2026-11-10T11:12:35.641Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "6939795f41fa28da",
+      "titulo": "Marta Gargallo, nutricionista: \"Hi ha més prevalença d'obesitat en infants amb vulnerabilitat econòmica\"",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-mati-curat-salut-obesitat-infantil-101126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-10T10:24:39.000Z",
+      "detectado": "2026-11-10T11:12:35.641Z",
+      "sensible": true,
+      "etiquetas": [
+        "salud"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "8c9b0619ac6beea5",
+      "titulo": "La patronal, en contra de la vaga general",
+      "enlace": "https://radiosabadell.fm/actualitat/economia/patronal-en-contra-vaga-general",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-10T10:06:25.000Z",
+      "detectado": "2026-11-10T11:12:35.641Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad",
+        "economia",
+        "salud"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "mobilitat, economia i ocupació, salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
       "id": "5418475f9c902c6a",
       "titulo": "Més baixes de pes al Sabadell: Quadri, 'Urri' i Eneko no jugaran a Elda",
       "enlace": "https://radiosabadell.fm/esports/ce-sabadell/quadri-urri-eneko-baixa-eldense-sabadell",
@@ -454,5 +628,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-10T10:22:45.089Z"
+  "actualizado": "2026-11-10T11:12:55.272Z"
 }

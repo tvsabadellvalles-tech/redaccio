@@ -1,104 +1,6 @@
 {
   "eventos": [
     {
-      "id": "19a22c0829180f3b",
-      "t": "2026-10-28T19:12:54.632Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El carrer de Catalunya unifica el sentit de circulació cap a la Creueta» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "cdab8963a0e18b29"
-    },
-    {
-      "id": "8d1235445c046b3a",
-      "t": "2026-10-28T19:12:54.633Z",
-      "agente": "deduplicador",
-      "texto": "Descartada perquè és duplicada: coincideix amb «El carrer de Catalunya unifica el sentit de circulació cap a la Creueta» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "cdab8963a0e18b29"
-    },
-    {
-      "id": "7e97273b3ca07715",
-      "t": "2026-10-28T19:12:54.634Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Emotiu homenatge a Robert Ferrer» (iSabadell).",
-      "itemId": "8d3b53d33ac9e68e"
-    },
-    {
-      "id": "ab26cda84cc65494",
-      "t": "2026-10-28T19:12:54.635Z",
-      "agente": "rastreador",
-      "texto": "He recollit «L'Ajuntament convoca a les 20 hores un minut de silenci per les víctimes de l'accident ferroviari» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "f133bb600eb0cd08"
-    },
-    {
-      "id": "162bdfcf2a1e927d",
-      "t": "2026-10-28T19:12:54.636Z",
-      "agente": "deduplicador",
-      "texto": "Descartada perquè és duplicada: coincideix amb «L'Ajuntament convoca a les 20 hores un minut de silenci per les víctimes de l'accident ferroviari» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "f133bb600eb0cd08"
-    },
-    {
-      "id": "b52d78016119f137",
-      "t": "2026-10-28T19:12:54.637Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El cementiri ja té un espai de dol perinatal i estrena un nou accés» (iSabadell).",
-      "itemId": "26d5a60a327800d5"
-    },
-    {
-      "id": "e443727989c05214",
-      "t": "2026-10-28T19:12:54.638Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Indra Group crearà 50 nous llocs de treball per desenvolupar les noves estacions remotes de Galileu» (Diari de Sabadell).",
-      "itemId": "909d17850fb54526"
-    },
-    {
-      "id": "90a64e53ab2b69ea",
-      "t": "2026-10-28T19:12:54.639Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Organitzen una jornada per cobrir prop de 80 llocs de feina» (iSabadell).",
-      "itemId": "3f1536d746143443"
-    },
-    {
-      "id": "092c26527fe2ec87",
-      "t": "2026-10-28T19:12:54.640Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Economia i ocupació, Cultura i festes.",
-      "itemId": "3f1536d746143443"
-    },
-    {
-      "id": "39041bfb7672ecae",
-      "t": "2026-10-28T19:12:54.641Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Suspès el partit de Copa del Rei del CE Sabadell a Utebo per la tragèdia ferroviària» (Diari de Sabadell).",
-      "itemId": "b9b92f82e4555e0e"
-    },
-    {
-      "id": "02305e8861bf6957",
-      "t": "2026-10-28T19:12:54.642Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Successos, Esports.",
-      "itemId": "b9b92f82e4555e0e"
-    },
-    {
-      "id": "423a772960177703",
-      "t": "2026-10-28T19:12:54.643Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "b9b92f82e4555e0e"
-    },
-    {
-      "id": "3704de39b1117c4b",
-      "t": "2026-10-28T19:12:54.644Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Comencen les obres de remodelació de la plaça Nova i dels carrers del seu entorn» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "60cf0977c800eba3"
-    },
-    {
-      "id": "dcc2cde95fa77f1e",
-      "t": "2026-10-28T19:12:54.645Z",
-      "agente": "deduplicador",
-      "texto": "Descartada perquè és duplicada: coincideix amb «Comencen les obres de remodelació de la plaça Nova i dels carrers del seu entorn» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "60cf0977c800eba3"
-    },
-    {
       "id": "310b7213886be46c",
       "t": "2026-10-28T19:12:54.646Z",
       "agente": "rastreador",
@@ -2799,7 +2701,105 @@
       "agente": "rastreador",
       "texto": "He recollit «La portada de L'Informatiu especial 20N es donarà a conèixer el 10 de novembre» (Ajuntament de Santa Perpètua de Mogoda).",
       "itemId": "00e4c1dd1fede430"
+    },
+    {
+      "id": "dcd21619de9c9181",
+      "t": "2026-11-10T11:12:35.641Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La patronal, en contra de la vaga general» (Ràdio Sabadell).",
+      "itemId": "8c9b0619ac6beea5"
+    },
+    {
+      "id": "c247a942f4396706",
+      "t": "2026-11-10T11:12:35.642Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat, Economia i ocupació, Salut.",
+      "itemId": "8c9b0619ac6beea5"
+    },
+    {
+      "id": "198ad582fd43fbc0",
+      "t": "2026-11-10T11:12:35.643Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): mobilitat, economia i ocupació, salut.",
+      "itemId": "8c9b0619ac6beea5"
+    },
+    {
+      "id": "2f4e25cd14b2c0af",
+      "t": "2026-11-10T11:12:35.644Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Marta Gargallo, nutricionista: \"Hi ha més prevalença d'obesitat en infants amb vulnerabilitat econòmica\"» (Ràdio Sabadell).",
+      "itemId": "6939795f41fa28da"
+    },
+    {
+      "id": "2917292304af0c35",
+      "t": "2026-11-10T11:12:35.645Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut.",
+      "itemId": "6939795f41fa28da"
+    },
+    {
+      "id": "c3667b01d5c6f652",
+      "t": "2026-11-10T11:12:35.646Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "6939795f41fa28da"
+    },
+    {
+      "id": "fc1c42340a5b40c1",
+      "t": "2026-11-10T11:12:35.647Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La tertúlia: la vaga de maquinistes i la prèvia de la vaga general» (Ràdio Sabadell).",
+      "itemId": "22a375e0aea577a5"
+    },
+    {
+      "id": "608bd0309655ff87",
+      "t": "2026-11-10T11:12:35.648Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Arnau Aguilar, músic: \"La música surt de posar paraules al que no puc explicar\"» (Ràdio Sabadell).",
+      "itemId": "314f0caa49cc7694"
+    },
+    {
+      "id": "4a3afa977bf8bdb9",
+      "t": "2026-11-10T11:12:35.649Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El CIESC i la Cambra de Comerç, sobre l'11-N: \"No és el moment\"» (Ràdio Sabadell).",
+      "itemId": "b6d1311797d3b6e9"
+    },
+    {
+      "id": "3434f523de7ba4bd",
+      "t": "2026-11-10T11:12:35.650Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Economia i ocupació.",
+      "itemId": "b6d1311797d3b6e9"
+    },
+    {
+      "id": "e1be506ad8a89c0d",
+      "t": "2026-11-10T11:12:35.651Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Gerard Torres Sanmartí, Acadèmia de Belles Arts: \"Camil Fàbregas és el millor escultor que ha tingut Sabadell\"» (Ràdio Sabadell).",
+      "itemId": "221df245a77c4812"
+    },
+    {
+      "id": "e40acdd0471abff7",
+      "t": "2026-11-10T11:12:35.652Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La vaga de maquinistes se suma al caos diari dels usuaris: \"Hem estat mitja hora amb el tren parat\"» (Diari de Sabadell).",
+      "itemId": "18765c50c49f0fb3"
+    },
+    {
+      "id": "6e44cf7c14169483",
+      "t": "2026-11-10T11:12:35.653Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat.",
+      "itemId": "18765c50c49f0fb3"
+    },
+    {
+      "id": "0347943c78dc3405",
+      "t": "2026-11-10T11:12:35.654Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El bled: una mala herba molt bona» (Ràdio Sabadell).",
+      "itemId": "7153fe5f1ab14e16"
     }
   ],
-  "actualizado": "2026-11-10T10:22:45.092Z"
+  "actualizado": "2026-11-10T11:12:55.275Z"
 }
