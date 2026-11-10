@@ -5,7 +5,7 @@
       "nom": "FGC Barcelona–Vallès",
       "enllac": "https://www.fgc.cat/adequacions-horaries/",
       "alternatiu": null,
-      "consultat": "2026-11-10T17:09:13.296Z",
+      "consultat": "2026-11-10T17:51:58.064Z",
       "estat": "cap-avis-recent",
       "detall": "Sense adequacions horàries."
     },
@@ -14,7 +14,7 @@
       "nom": "Rodalies R4 i R7",
       "enllac": "https://rodalies.gencat.cat/ca/alteracions_del_servei/",
       "alternatiu": null,
-      "consultat": "2026-11-10T17:09:13.296Z",
+      "consultat": "2026-11-10T17:51:58.064Z",
       "estat": "avis",
       "detall": "2 avisos publicats avui a les línies R4 i R7.",
       "avisos": [
@@ -77,10 +77,10 @@
       "nom": "Trànsit · Vallès Occidental",
       "enllac": "https://cit.transit.gencat.cat/",
       "alternatiu": null,
-      "consultat": "2026-11-10T17:09:13.296Z",
+      "consultat": "2026-11-10T17:51:58.064Z",
       "estat": "avis",
       "detall": "5 incidències d’avui a les carreteres seleccionades del Vallès Occidental, segons la llista actual de Trànsit.",
-      "actualitzat": "2026-11-10T17:09:03.000Z",
+      "actualitzat": "2026-11-10T17:52:05.000Z",
       "avisos": [
         {
           "titol": "Circulació · Circulació amb retencions",
@@ -91,7 +91,7 @@
         },
         {
           "titol": "Avaria · Circulació amb retencions",
-          "detall": "AP-7 | SANT CUGAT DEL VALLÈS | Sentit Nord cap a GIRONA | Punt km. 160-168 | DOS CARRILS TALLATS",
+          "detall": "AP-7 | SANT CUGAT DEL VALLÈS | Sentit Nord cap a GIRONA | Punt km. 160-171 | DOS CARRILS TALLATS",
           "publicat": "2026-11-10T14:36:17.000Z",
           "carretera": "AP-7",
           "comarca": 40
@@ -124,7 +124,7 @@
       "nom": "Meteocat · Vallès Occidental",
       "enllac": "https://www.meteo.cat/prediccio/general",
       "alternatiu": null,
-      "consultat": "2026-11-10T17:09:13.296Z",
+      "consultat": "2026-11-10T17:51:58.064Z",
       "estat": "previsio",
       "detall": "Sense avisos actius. Previsió de dimecres, 11 de novembre al Vallès Occidental: màxima 22°, mínima 12°. sol i núvols alts al matí · entre poc i mig ennuvolat a la tarda · Pluja matí: No se n’espera · tarda: Molt probable (>70%) · Actualitzada 10-11-2026 15:00:00.",
       "previsio": {
@@ -146,12 +146,12 @@
       "nom": "Emergències · Protecció Civil",
       "enllac": "https://interior.gencat.cat/ca/actualitat/",
       "alternatiu": "https://govern.cat/salapremsa/notes-premsa",
-      "consultat": "2026-11-10T17:09:13.296Z",
+      "consultat": "2026-11-10T17:51:58.064Z",
       "estat": "cap-avis-recent",
       "detall": "Cap alerta local no meteorològica identificada a les alertes destacades d’Interior.",
       "avisos": []
     }
   ],
-  "consultat": "2026-11-10T17:09:13.296Z",
-  "actualizado": "2026-11-10T17:09:42.118Z"
+  "consultat": "2026-11-10T17:51:58.064Z",
+  "actualizado": "2026-11-10T17:52:15.977Z"
 }

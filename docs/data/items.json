@@ -104,6 +104,29 @@
   },
   "items": [
     {
+      "id": "effd26e776bcc246",
+      "titulo": "El periodista Plàcid Garcia-Planas, Premi Tenacitat 2026",
+      "enlace": "https://www.isabadell.cat/societat/el-periodista-placid-garcia-planas-premi-tenacitat-2026-340451/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-10T17:46:08.000Z",
+      "detectado": "2026-11-10T17:51:58.064Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": "74ac4147454106f0",
+      "propuesta": false
+    },
+    {
       "id": "613c1c5dc12a219d",
       "titulo": "La metgessa Montserrat Baré, premiada per una trajectòria al servei de la Creu Alta: \"És el lloc on sempre havia volgut exercir\"",
       "enlace": "https://www.diaridesabadell.com/sabadell/doctora-montserrat-bare-premiada-excellencia-professional-cap-creu-alta-sabadell.html",
@@ -1272,5 +1295,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-10T17:09:28.379Z"
+  "actualizado": "2026-11-10T17:52:13.709Z"
 }

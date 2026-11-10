@@ -1,20 +1,6 @@
 {
   "eventos": [
     {
-      "id": "16b03981f9d25bfb",
-      "t": "2026-11-01T10:03:00.657Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): font oficial · mobilitat, salut.",
-      "itemId": "d54bcf8ac2f883b6"
-    },
-    {
-      "id": "82baf8cf075fa6c4",
-      "t": "2026-11-01T11:00:40.545Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La tradició que mai no falla» (L'Actual - Castellar del Vallès).",
-      "itemId": "4da53b4ddb547066"
-    },
-    {
       "id": "318c75b11684d83e",
       "t": "2026-11-01T11:10:04.261Z",
       "agente": "rastreador",
@@ -2799,7 +2785,21 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Salut.",
       "itemId": "613c1c5dc12a219d"
+    },
+    {
+      "id": "a7ac74a8f1f62f14",
+      "t": "2026-11-10T17:51:58.064Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El periodista Plàcid Garcia-Planas, Premi Tenacitat 2026» (iSabadell).",
+      "itemId": "effd26e776bcc246"
+    },
+    {
+      "id": "79a342c9e30d4625",
+      "t": "2026-11-10T17:51:58.065Z",
+      "agente": "deduplicador",
+      "texto": "Descartada perquè és duplicada: coincideix amb «El periodista sabadellenc Plàcid Garcia-Planas rebrà el Premi Tenacitat 2026» (Diari de Sabadell).",
+      "itemId": "effd26e776bcc246"
     }
   ],
-  "actualizado": "2026-11-10T17:09:28.383Z"
+  "actualizado": "2026-11-10T17:52:13.713Z"
 }

@@ -2,8 +2,8 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-10T17:09:13.296Z",
-  "total": 12,
+  "consultat": "2026-11-10T17:51:58.064Z",
+  "total": 13,
   "activitats": [
     {
       "titol": "PAULINO FESTA",
@@ -76,6 +76,13 @@
       "color": null
     },
     {
+      "titol": "Entrevista Lucrecia La mar de bé",
+      "inici": "2026-11-11T12:30:00.000Z",
+      "final": "2026-11-11T13:30:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
       "titol": "L'Informatiu",
       "inici": "2026-11-11T15:00:00.000Z",
       "final": "2026-11-11T16:00:00.000Z",
@@ -91,5 +98,5 @@
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-10T17:09:59.637Z"
+  "actualizado": "2026-11-10T17:52:34.375Z"
 }
