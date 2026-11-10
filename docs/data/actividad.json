@@ -1,20 +1,6 @@
 {
   "eventos": [
     {
-      "id": "9d796a7f99a40630",
-      "t": "2026-10-28T18:49:43.885Z",
-      "agente": "rastreador",
-      "texto": "He recogido «Palau al Dia - Notícies del 28/10/2026» (Ràdio Palau - Palau al Dia).",
-      "itemId": "14b11995e0414a8e"
-    },
-    {
-      "id": "82eb7001fcb4d0ab",
-      "t": "2026-10-28T18:49:43.886Z",
-      "agente": "deduplicador",
-      "texto": "Descartada por duplicada: coincide con «Palau al Dia - Notícies del 26/10/2026» (Ràdio Palau - Palau al Dia).",
-      "itemId": "14b11995e0414a8e"
-    },
-    {
       "id": "d1a58d526f688b28",
       "t": "2026-10-28T18:50:15.728Z",
       "agente": "rastreador",
@@ -2799,7 +2785,21 @@
       "agente": "mesa",
       "texto": "Proposo incloure-ho a l'escaleta (3 punts): mobilitat, obres i urbanisme.",
       "itemId": "6c1bc60f80b0eff3"
+    },
+    {
+      "id": "ada7e9903f3f8d22",
+      "t": "2026-11-10T07:40:40.835Z",
+      "agente": "rastreador",
+      "texto": "He recollit «‘Abascal y su ideología, sin maquillaje’» (iSabadell).",
+      "itemId": "26f1f50cff0ccbc6"
+    },
+    {
+      "id": "01bbaa33eca2862f",
+      "t": "2026-11-10T07:40:40.836Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "26f1f50cff0ccbc6"
     }
   ],
-  "actualizado": "2026-11-10T06:25:08.794Z"
+  "actualizado": "2026-11-10T07:40:59.929Z"
 }

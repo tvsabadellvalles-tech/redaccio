@@ -104,6 +104,27 @@
   },
   "items": [
     {
+      "id": "26f1f50cff0ccbc6",
+      "titulo": "‘Abascal y su ideología, sin maquillaje’",
+      "enlace": "https://www.isabadell.cat/opinio/abascal-y-su-ideologia-sin-maquillaje-340316/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-10T07:00:00.000Z",
+      "detectado": "2026-11-10T07:40:40.835Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "47edd5662c4b0fce",
       "titulo": "Infopòdcast Sabadell 10.11.26",
       "enlace": "https://radiosabadell.fm/alacarta/audio/infopodcast-sabadell-101126",
@@ -172,5 +193,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-10T06:25:08.791Z"
+  "actualizado": "2026-11-10T07:40:59.927Z"
 }
