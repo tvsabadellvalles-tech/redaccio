@@ -1,118 +1,6 @@
 {
   "eventos": [
     {
-      "id": "651f56a21f486393",
-      "t": "2026-11-01T12:56:58.739Z",
-      "agente": "rastreador",
-      "texto": "La font «Ajuntament de Sant Quirze del Vallès» no respon (fetch failed).",
-      "itemId": null
-    },
-    {
-      "id": "f5e1473e6ea3561a",
-      "t": "2026-11-01T14:26:47.599Z",
-      "agente": "rastreador",
-      "texto": "He recollit «De Terrassa o des de París, les famílies no falten a la cita de Tots Sants: “No ho vivim com un dia trist, sinó de respecte”» (Diari de Terrassa).",
-      "itemId": "1d66549f4cd15ee5"
-    },
-    {
-      "id": "9a94d4b5306b0094",
-      "t": "2026-11-01T14:26:47.600Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La Castanyada més jove: així es viu la venda de castanyes als esplais i les escoles de Sabadell» (Diari de Sabadell).",
-      "itemId": "bbd7e4400edd42b1"
-    },
-    {
-      "id": "eec5b4dede07f07e",
-      "t": "2026-11-01T14:26:47.601Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "bbd7e4400edd42b1"
-    },
-    {
-      "id": "8f5b566f281f14e4",
-      "t": "2026-11-01T14:26:47.602Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Desenes de sabadellencs acudeixen al cementiri per recordar els seus éssers estimats» (Ràdio Sabadell).",
-      "itemId": "1bf9079bdc9f2ff4"
-    },
-    {
-      "id": "782f93d13ebaae06",
-      "t": "2026-11-01T14:26:47.603Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "1bf9079bdc9f2ff4"
-    },
-    {
-      "id": "d651034052d178ee",
-      "t": "2026-11-01T17:41:26.159Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El Cementiri de Sabadell rep la visita de nombroses famílies per Tots Sants» (Diari de Sabadell).",
-      "itemId": "034b8aa15b444595"
-    },
-    {
-      "id": "cb9fc24c045183fc",
-      "t": "2026-11-01T17:41:26.160Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Dos exarlequinats del Castelldefels frustren la primera victòria a domicili del Sabadell ‘B’ (2-2)» (Ràdio Sabadell).",
-      "itemId": "ad94abf9ed3058c1"
-    },
-    {
-      "id": "a95f0a8d8bcba700",
-      "t": "2026-11-01T17:41:26.161Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Medi ambient.",
-      "itemId": "ad94abf9ed3058c1"
-    },
-    {
-      "id": "532855d2c9b3c622",
-      "t": "2026-11-01T17:41:26.162Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Jordi Saura rep una menció als Premis Capital de la Sardana 2026» (Ràdio Sabadell).",
-      "itemId": "aa74061f9eb06735"
-    },
-    {
-      "id": "05d9d244dea000a2",
-      "t": "2026-11-01T17:41:26.163Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Salut, Cultura i festes.",
-      "itemId": "aa74061f9eb06735"
-    },
-    {
-      "id": "9ad45aa98dd8799f",
-      "t": "2026-11-07T09:18:33.306Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Angoixa entre veïns de Montcada i Reixac per l'amenaça d'enderroc de les seves cases i l'embargament de comptes» (Agència Catalana de Notícies (ACN)).",
-      "itemId": "8c4cf0ad57ba972c"
-    },
-    {
-      "id": "c5d6dfd7d480463b",
-      "t": "2026-11-07T09:18:33.307Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Êthos celebra dues dècades d’història a Sabadell» (iSabadell).",
-      "itemId": "6b75b6a7beb44f3e"
-    },
-    {
-      "id": "d052c52391d34bee",
-      "t": "2026-11-07T09:18:33.308Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Cultura i festes.",
-      "itemId": "6b75b6a7beb44f3e"
-    },
-    {
-      "id": "1ef7b6a6817bd8b4",
-      "t": "2026-11-07T09:18:33.309Z",
-      "agente": "rastreador",
-      "texto": "He recollit «‘Gracias, ministro’» (iSabadell).",
-      "itemId": "b0c9b80d4142ed75"
-    },
-    {
-      "id": "5beea03df0c3206a",
-      "t": "2026-11-07T09:18:33.310Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local.",
-      "itemId": "b0c9b80d4142ed75"
-    },
-    {
       "id": "e03bc214cb7d0ed2",
       "t": "2026-11-07T09:18:33.311Z",
       "agente": "vigilante",
@@ -2799,7 +2687,119 @@
       "agente": "mesa",
       "texto": "Proposo incloure-ho a l'escaleta (3 punts): emergències.",
       "itemId": "bf74573a9d9174a4"
+    },
+    {
+      "id": "99abbe47e6f8ef65",
+      "t": "2026-11-10T19:27:09.400Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Sabadell lidera el creixement al Vallès» (Diari de Sabadell).",
+      "itemId": "5bae360dcbdc2b72"
+    },
+    {
+      "id": "b4a844ff6d29ba65",
+      "t": "2026-11-10T19:27:09.401Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Economia i ocupació.",
+      "itemId": "5bae360dcbdc2b72"
+    },
+    {
+      "id": "cdb87fe36a3cad60",
+      "t": "2026-11-10T19:27:09.402Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Palau al Dia - Notícies del 10/11/2026» (Ràdio Palau - Palau al Dia).",
+      "itemId": "22556bf55ecd6a9f"
+    },
+    {
+      "id": "5ce1c0e6dc9373a7",
+      "t": "2026-11-10T19:27:09.403Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Economia i ocupació.",
+      "itemId": "22556bf55ecd6a9f"
+    },
+    {
+      "id": "88a3cc1c848dc718",
+      "t": "2026-11-10T19:27:09.404Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Traslladen les restes de mossèn Geis a Sant Fèlix: \"Tenia una grandesa cultural i humana important\"» (Diari de Sabadell).",
+      "itemId": "a6b4789c068d0af1"
+    },
+    {
+      "id": "77a9ffe5a0e185f6",
+      "t": "2026-11-10T19:27:09.405Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "a6b4789c068d0af1"
+    },
+    {
+      "id": "0919364ff1265ba6",
+      "t": "2026-11-10T19:27:09.406Z",
+      "agente": "rastreador",
+      "texto": "He recollit «FOTOS | Un cotxe atropella una vianant a Can Gambús» (Diari de Sabadell).",
+      "itemId": "58a93ecdb3bd1cb4"
+    },
+    {
+      "id": "d1f5d14efd5eb6ff",
+      "t": "2026-11-10T19:27:09.407Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Emergències.",
+      "itemId": "58a93ecdb3bd1cb4"
+    },
+    {
+      "id": "3dc208e3f20f3b50",
+      "t": "2026-11-10T19:27:09.408Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): emergències.",
+      "itemId": "58a93ecdb3bd1cb4"
+    },
+    {
+      "id": "ec8300771d13fb00",
+      "t": "2026-11-10T19:27:09.409Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Tot el que has de saber sobre la vaga general d'aquest dimecres: convocatòries, afectacions, serveis mínims...» (Diari de Sabadell).",
+      "itemId": "695fff0404c9a7b4"
+    },
+    {
+      "id": "ff27c8a828361f9c",
+      "t": "2026-11-10T19:27:09.410Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L'Astralpool CN Sabadell masculí encaixa la primera derrota de la temporada a la Champions» (Diari de Sabadell).",
+      "itemId": "e0a7cdace5d18002"
+    },
+    {
+      "id": "80859fa5ac98a32c",
+      "t": "2026-11-10T19:27:09.411Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Olympiacos 15-10 Astralpool CN Sabadell: la primera plaça canvia de mans» (Ràdio Sabadell).",
+      "itemId": "033e0dc3ef2afb51"
+    },
+    {
+      "id": "87004554a352c0e8",
+      "t": "2026-11-10T19:27:09.412Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut, Esports.",
+      "itemId": "033e0dc3ef2afb51"
+    },
+    {
+      "id": "cfe1de763b24cbd1",
+      "t": "2026-11-10T19:27:09.413Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "033e0dc3ef2afb51"
+    },
+    {
+      "id": "8a1da0c690e411b4",
+      "t": "2026-11-10T19:27:09.414Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Champions: el Club cedeix la primera derrota de la fase de grups» (iSabadell).",
+      "itemId": "893c58c5ec9b57db"
+    },
+    {
+      "id": "004794cd1403de4c",
+      "t": "2026-11-10T19:27:09.415Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "893c58c5ec9b57db"
     }
   ],
-  "actualizado": "2026-11-10T18:28:44.414Z"
+  "actualizado": "2026-11-10T19:27:28.857Z"
 }

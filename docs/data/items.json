@@ -104,6 +104,160 @@
   },
   "items": [
     {
+      "id": "893c58c5ec9b57db",
+      "titulo": "Champions: el Club cedeix la primera derrota de la fase de grups",
+      "enlace": "https://www.isabadell.cat/esports/waterpolo/champions-el-club-cedeix-la-primera-derrota-de-la-fase-de-grups-340472/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-10T19:16:07.000Z",
+      "detectado": "2026-11-10T19:27:09.400Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "033e0dc3ef2afb51",
+      "titulo": "Olympiacos 15-10 Astralpool CN Sabadell: la primera plaça canvia de mans",
+      "enlace": "https://radiosabadell.fm/esports/waterpolo/olympiacos-15-10-astralpool-cn-sabadell-champions-league",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-10T18:45:31.000Z",
+      "detectado": "2026-11-10T19:27:09.400Z",
+      "sensible": true,
+      "etiquetas": [
+        "salud",
+        "deportes"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "e0a7cdace5d18002",
+      "titulo": "L'Astralpool CN Sabadell masculí encaixa la primera derrota de la temporada a la Champions",
+      "enlace": "https://www.diaridesabadell.com/esports/olympiacos-astralpool-club-natacio-sabadell-masculi-waterpolo-champions-cronica.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-10T18:44:18.000Z",
+      "detectado": "2026-11-10T19:27:09.400Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "695fff0404c9a7b4",
+      "titulo": "Tot el que has de saber sobre la vaga general d'aquest dimecres: convocatòries, afectacions, serveis mínims...",
+      "enlace": "https://www.diaridesabadell.com/sabadell/informacio-vaga-general-convocatories-afectacions-serveis-minims-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-10T18:43:31.000Z",
+      "detectado": "2026-11-10T19:27:09.400Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "58a93ecdb3bd1cb4",
+      "titulo": "FOTOS | Un cotxe atropella una vianant a Can Gambús",
+      "enlace": "https://www.diaridesabadell.com/sabadell/fotos-atropellament-carretera-terrassa-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-10T18:38:08.000Z",
+      "detectado": "2026-11-10T19:27:09.400Z",
+      "sensible": false,
+      "etiquetas": [
+        "emergencias"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "emergències"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "a6b4789c068d0af1",
+      "titulo": "Traslladen les restes de mossèn Geis a Sant Fèlix: \"Tenia una grandesa cultural i humana important\"",
+      "enlace": "https://www.diaridesabadell.com/sabadell/traslladen-restes-mossen-camil-geis-sant-felix.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-10T18:06:09.000Z",
+      "detectado": "2026-11-10T19:27:09.400Z",
+      "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "22556bf55ecd6a9f",
+      "titulo": "Palau al Dia - Notícies del 10/11/2026",
+      "enlace": "https://www.radiopalau.cat/podcasts/palau-al-dia/radiopalau_podcast_6828/",
+      "fuente": "radio-palau",
+      "fuenteNombre": "Ràdio Palau - Palau al Dia",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "palau",
+      "municipiosMencionados": [
+        "palau"
+      ],
+      "publicado": "2026-11-10T17:59:57.000Z",
+      "detectado": "2026-11-10T19:27:09.400Z",
+      "sensible": false,
+      "etiquetas": [
+        "economia"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "economia i ocupació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "effd26e776bcc246",
       "titulo": "El periodista Plàcid Garcia-Planas, Premi Tenacitat 2026",
       "enlace": "https://www.isabadell.cat/societat/el-periodista-placid-garcia-planas-premi-tenacitat-2026-340451/",
@@ -974,6 +1128,31 @@
       "propuesta": true
     },
     {
+      "id": "5bae360dcbdc2b72",
+      "titulo": "Sabadell lidera el creixement al Vallès",
+      "enlace": "https://www.diaridesabadell.com/diners/ciesc-empreses-creixement-setembre.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-10T09:07:36.000Z",
+      "detectado": "2026-11-10T19:27:09.400Z",
+      "sensible": false,
+      "etiquetas": [
+        "economia"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "economia i ocupació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "5418475f9c902c6a",
       "titulo": "Més baixes de pes al Sabadell: Quadri, 'Urri' i Eneko no jugaran a Elda",
       "enlace": "https://radiosabadell.fm/esports/ce-sabadell/quadri-urri-eneko-baixa-eldense-sabadell",
@@ -1320,5 +1499,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-10T18:28:44.410Z"
+  "actualizado": "2026-11-10T19:27:28.854Z"
 }
