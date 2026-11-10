@@ -1,20 +1,6 @@
 {
   "eventos": [
     {
-      "id": "88eee84435b5b96b",
-      "t": "2026-10-28T19:12:54.630Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Nova jornada de vaga a Rodalies aquest dijous 29 d'octubre» (Diari de Sabadell).",
-      "itemId": "ffed9d847ed50a41"
-    },
-    {
-      "id": "db53262c29f5e629",
-      "t": "2026-10-28T19:12:54.631Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat.",
-      "itemId": "ffed9d847ed50a41"
-    },
-    {
       "id": "19a22c0829180f3b",
       "t": "2026-10-28T19:12:54.632Z",
       "agente": "rastreador",
@@ -2799,7 +2785,21 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Salut, Esports.",
       "itemId": "5418475f9c902c6a"
+    },
+    {
+      "id": "53b2b3e759d9a333",
+      "t": "2026-11-10T10:22:28.442Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Serveis m�nims durant la vaga general de l'11 de novembre» (Ajuntament de Badia del Vallès).",
+      "itemId": "89bb76f3256698cf"
+    },
+    {
+      "id": "40b44279be810e80",
+      "t": "2026-11-10T10:22:28.443Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La portada de L'Informatiu especial 20N es donarà a conèixer el 10 de novembre» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "00e4c1dd1fede430"
     }
   ],
-  "actualizado": "2026-11-10T09:28:42.961Z"
+  "actualizado": "2026-11-10T10:22:45.092Z"
 }

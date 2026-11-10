@@ -225,6 +225,27 @@
       "propuesta": true
     },
     {
+      "id": "00e4c1dd1fede430",
+      "titulo": "La portada de L'Informatiu especial 20N es donarà a conèixer el 10 de novembre",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/la-portada-de-linformatiu-especial-20n-es-donara-a-coneixer-el-10-de-novembre.html",
+      "fuente": "ayto-santa-perpetua",
+      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
+      "tipo": "oficial",
+      "resumen": "L’Informatiu donarà a conèixer la portada guanyadora de l’especial infància i adolescència aquest dimarts 10 de novembre a la Sala de Plens de l'Ajuntament.",
+      "municipio": "santa-perpetua",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-10T08:30:00.000Z",
+      "detectado": "2026-11-10T10:22:28.442Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "dd006d9a7c878c73",
       "titulo": "Els residus que no es reciclen es redueixen un 25% a Barberà",
       "enlace": "https://www.diaridesabadell.com/valles/barbera/reciclatge-barbera-residus-dades.html",
@@ -410,7 +431,28 @@
       "motivos": [],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "89bb76f3256698cf",
+      "titulo": "Serveis m�nims durant la vaga general de l'11 de novembre",
+      "enlace": "http://www.badiadelvalles.cat/document.php?id=12324",
+      "fuente": "ayto-badia",
+      "fuenteNombre": "Ajuntament de Badia del Vallès",
+      "tipo": "oficial",
+      "resumen": "",
+      "municipio": "badia",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-09T23:00:00.000Z",
+      "detectado": "2026-11-10T10:22:28.442Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
     }
   ],
-  "actualizado": "2026-11-10T09:28:42.958Z"
+  "actualizado": "2026-11-10T10:22:45.089Z"
 }
