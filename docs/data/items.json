@@ -104,6 +104,106 @@
   },
   "items": [
     {
+      "id": "51c985f0e407c565",
+      "titulo": "Ja podeu consultar la revista municipal núm. 457",
+      "enlace": "https://www.bdv.cat/noticies/ja-podeu-consultar-la-revista-municipal-num-457",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "Durant aquest dimarts 10 de novembre, el nou número de la revista en paper ja es pot recollir dels expositors ubicats a equipaments municipals i espais amb una gran afluència de ciutadania. També podeu consultar el nou número de la…",
+      "municipio": "barbera",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-10T08:31:00.000Z",
+      "detectado": "2026-11-10T08:36:43.881Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad",
+        "urbanismo",
+        "cultura"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "font oficial",
+        "mobilitat, obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "dd006d9a7c878c73",
+      "titulo": "Els residus que no es reciclen es redueixen un 25% a Barberà",
+      "enlace": "https://www.diaridesabadell.com/valles/barbera/reciclatge-barbera-residus-dades.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-10T08:19:45.000Z",
+      "detectado": "2026-11-10T08:36:43.881Z",
+      "sensible": false,
+      "etiquetas": [
+        "medioambiente"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "medi ambient"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "e95778d9bae656dd",
+      "titulo": "\"El meu pare m'haurà de tornar a casa amb cotxe\": els usuaris de Rodalies es preparen per tres dies d'aturades al servei",
+      "enlace": "https://www.diaridesabadell.com/sabadell/usuaris-rodalies-es-preparen-per-tres-dies-aturades-al-servei-vaga.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-10T08:09:09.000Z",
+      "detectado": "2026-11-10T08:36:43.881Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "mobilitat"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "93bb9f157378d5fe",
+      "titulo": "L’Ajuntament fa una crida a la ciutadania per recollir materials relacionats amb l’antiga fàbrica Aiscondel",
+      "enlace": "http://www.cerdanyola.cat/actualitat/lajuntament-fa-una-crida-la-ciutadania-recollir-materials-relacionats-amb-lantiga-fabrica",
+      "fuente": "ayto-cerdanyola",
+      "fuenteNombre": "Ajuntament de Cerdanyola del Vallès",
+      "tipo": "oficial",
+      "resumen": "L’Ajuntament fa una crida a la ciutadania per recollir materials relacionats amb l’antiga fàbrica Aiscondel L’Ajuntament fa una crida a la ciutadania perquè aporti materials relacionats amb l’antiga fàbrica Aiscondel. La iniciativa vol…",
+      "municipio": "cerdanyola",
+      "municipiosMencionados": [
+        "cerdanyola"
+      ],
+      "publicado": "2026-11-10T07:30:02.000Z",
+      "detectado": "2026-11-10T08:36:43.881Z",
+      "sensible": true,
+      "etiquetas": [
+        "economia",
+        "educacion",
+        "cultura"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "font oficial",
+        "economia i ocupació, educació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
       "id": "26f1f50cff0ccbc6",
       "titulo": "‘Abascal y su ideología, sin maquillaje’",
       "enlace": "https://www.isabadell.cat/opinio/abascal-y-su-ideologia-sin-maquillaje-340316/",
@@ -193,5 +293,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-10T07:40:59.927Z"
+  "actualizado": "2026-11-10T08:36:57.299Z"
 }

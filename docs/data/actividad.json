@@ -1,83 +1,6 @@
 {
   "eventos": [
     {
-      "id": "d1a58d526f688b28",
-      "t": "2026-10-28T18:50:15.728Z",
-      "agente": "rastreador",
-      "texto": "La fuente «Ajuntament de Sant Quirze del Vallès» vuelve a responder.",
-      "itemId": null
-    },
-    {
-      "id": "0064b7cc8610e3c8",
-      "t": "2026-10-28T18:55:28.331Z",
-      "agente": "rastreador",
-      "texto": "La font «Ajuntament de Sant Quirze del Vallès» no respon (The operation was aborted due to timeout).",
-      "itemId": null
-    },
-    {
-      "id": "da63de24cce164b9",
-      "t": "2026-10-28T18:55:57.040Z",
-      "agente": "rastreador",
-      "texto": "La font «Ajuntament de Sant Quirze del Vallès» torna a respondre.",
-      "itemId": null
-    },
-    {
-      "id": "c52cd68370001d27",
-      "t": "2026-10-28T19:12:54.611Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El masculí del Club continua amb ple de victòries a la Champions» (iSabadell).",
-      "itemId": "80be624d14b605db"
-    },
-    {
-      "id": "e4f57f09c53fc4e3",
-      "t": "2026-10-28T19:12:54.612Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local, Esports.",
-      "itemId": "80be624d14b605db"
-    },
-    {
-      "id": "a82b5ba559fee5ac",
-      "t": "2026-10-28T19:12:54.613Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Des de l’Ajuntament de Sentmenat lamentem profundament l’accident ferroviari ocorregut aquest matí entre dos trens d’alta velocitat a la província de Toledo.» (Ajuntament de Sentmenat).",
-      "itemId": "7928c638ad8185d1"
-    },
-    {
-      "id": "2ee47d989217f0a4",
-      "t": "2026-10-28T19:12:54.614Z",
-      "agente": "deduplicador",
-      "texto": "Descartada perquè és duplicada: coincideix amb «Des de l’Ajuntament de Sentmenat lamentem profundament l’accident ferroviari ocorregut aquest matí entre dos trens d’alta velocitat a la província de Toledo.» (Ajuntament de Sentmenat).",
-      "itemId": "7928c638ad8185d1"
-    },
-    {
-      "id": "4aedd496e394765e",
-      "t": "2026-10-28T19:12:54.615Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Participa en el concurs nadalenc de dibuix» (Ajuntament de Polinyà).",
-      "itemId": "8cdb8869386295de"
-    },
-    {
-      "id": "e62732dfab9ac0f1",
-      "t": "2026-10-28T19:12:54.616Z",
-      "agente": "deduplicador",
-      "texto": "Descartada perquè és duplicada: coincideix amb «Participa en el concurs nadalenc de dibuix» (Ajuntament de Polinyà).",
-      "itemId": "8cdb8869386295de"
-    },
-    {
-      "id": "f2e566a3d2ab37e2",
-      "t": "2026-10-28T19:12:54.617Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El CIM i el CAM inicien el treball i el debat aquest dimecres 28 d'octubre» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "4c76163944c21303"
-    },
-    {
-      "id": "c207e07c9ee0e437",
-      "t": "2026-10-28T19:12:54.618Z",
-      "agente": "deduplicador",
-      "texto": "Descartada perquè és duplicada: coincideix amb «El CIM i el CAM inicien el treball i el debat aquest dimecres 28 d'octubre» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "4c76163944c21303"
-    },
-    {
       "id": "a9c4d3feb05e2711",
       "t": "2026-10-28T19:12:54.619Z",
       "agente": "rastreador",
@@ -2799,7 +2722,84 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Esports.",
       "itemId": "26f1f50cff0ccbc6"
+    },
+    {
+      "id": "fbc21d8a5e388a0e",
+      "t": "2026-11-10T08:36:43.881Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L’Ajuntament fa una crida a la ciutadania per recollir materials relacionats amb l’antiga fàbrica Aiscondel» (Ajuntament de Cerdanyola del Vallès).",
+      "itemId": "93bb9f157378d5fe"
+    },
+    {
+      "id": "807fbedcdfdd8a8d",
+      "t": "2026-11-10T08:36:43.882Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Economia i ocupació, Educació, Cultura i festes.",
+      "itemId": "93bb9f157378d5fe"
+    },
+    {
+      "id": "adcdfc2318a01275",
+      "t": "2026-11-10T08:36:43.883Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "93bb9f157378d5fe"
+    },
+    {
+      "id": "cc347cebfcc35d48",
+      "t": "2026-11-10T08:36:43.884Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · economia i ocupació, educació.",
+      "itemId": "93bb9f157378d5fe"
+    },
+    {
+      "id": "a18f42b7309e89f5",
+      "t": "2026-11-10T08:36:43.885Z",
+      "agente": "rastreador",
+      "texto": "He recollit «\"El meu pare m'haurà de tornar a casa amb cotxe\": els usuaris de Rodalies es preparen per tres dies d'aturades al servei» (Diari de Sabadell).",
+      "itemId": "e95778d9bae656dd"
+    },
+    {
+      "id": "f44042e5cc79caad",
+      "t": "2026-11-10T08:36:43.886Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat.",
+      "itemId": "e95778d9bae656dd"
+    },
+    {
+      "id": "31a6c3a485a0b487",
+      "t": "2026-11-10T08:36:43.887Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Els residus que no es reciclen es redueixen un 25% a Barberà» (Diari de Sabadell).",
+      "itemId": "dd006d9a7c878c73"
+    },
+    {
+      "id": "d4f9c57c5d69d07a",
+      "t": "2026-11-10T08:36:43.888Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Medi ambient.",
+      "itemId": "dd006d9a7c878c73"
+    },
+    {
+      "id": "a6b39036fa6dbbfd",
+      "t": "2026-11-10T08:36:43.889Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Ja podeu consultar la revista municipal núm. 457» (Ajuntament de Barberà del Vallès).",
+      "itemId": "51c985f0e407c565"
+    },
+    {
+      "id": "7c56bee0c4cc8c0e",
+      "t": "2026-11-10T08:36:43.890Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat, Obres i urbanisme, Cultura i festes.",
+      "itemId": "51c985f0e407c565"
+    },
+    {
+      "id": "54af3dbfff0605fc",
+      "t": "2026-11-10T08:36:43.891Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): font oficial · mobilitat, obres i urbanisme.",
+      "itemId": "51c985f0e407c565"
     }
   ],
-  "actualizado": "2026-11-10T07:40:59.929Z"
+  "actualizado": "2026-11-10T08:36:57.302Z"
 }
