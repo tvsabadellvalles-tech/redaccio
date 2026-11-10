@@ -5,7 +5,7 @@
       "nom": "FGC Barcelona–Vallès",
       "enllac": "https://www.fgc.cat/adequacions-horaries/",
       "alternatiu": null,
-      "consultat": "2026-11-10T22:55:17.267Z",
+      "consultat": "2026-11-10T23:23:52.469Z",
       "estat": "cap-avis-recent",
       "detall": "Sense adequacions horàries."
     },
@@ -14,77 +14,28 @@
       "nom": "Rodalies R4 i R7",
       "enllac": "https://rodalies.gencat.cat/ca/alteracions_del_servei/",
       "alternatiu": null,
-      "consultat": "2026-11-10T22:55:17.267Z",
-      "estat": "avis",
-      "detall": "1 avís publicat avui a les línies R4 i R7.",
-      "avisos": [
-        {
-          "titol": "Amb motiu de les jornades de vaga convocades per als dies 10, 11 i 12 de novembre, el servei de Rodalies de Catalunya es prestarà d'ac",
-          "detall": "Amb motiu de les jornades de vaga convocades per als dies 10, 11 i 12 de novembre, el servei de Rodalies de Catalunya es prestarà d'acord amb els serveis mínims establerts. Més informació a les estacions i a rodalies.gencat.cat",
-          "publicat": "2026-11-10T05:25:00.000Z",
-          "linies": [
-            "R7",
-            "R11",
-            "RT2",
-            "R1",
-            "R2",
-            "RT1",
-            "RL3",
-            "R14",
-            "R2S",
-            "R3",
-            "R8",
-            "R13",
-            "R15",
-            "R2N",
-            "R4",
-            "RG1",
-            "R17",
-            "R16",
-            "RL4"
-          ]
-        }
-      ]
+      "consultat": "2026-11-10T23:23:52.469Z",
+      "estat": "cap-avis-recent",
+      "detall": "Cap avís publicat avui a les línies R4 i R7.",
+      "avisos": []
     },
     {
       "id": "transit",
       "nom": "Trànsit · Vallès Occidental",
       "enllac": "https://cit.transit.gencat.cat/",
       "alternatiu": null,
-      "consultat": "2026-11-10T22:55:17.267Z",
-      "estat": "avis",
-      "detall": "3 incidències d’avui a les carreteres seleccionades del Vallès Occidental, segons la llista actual de Trànsit.",
-      "actualitzat": "2026-11-10T22:55:03.000Z",
-      "avisos": [
-        {
-          "titol": "Obres · Circulació amb retencions",
-          "detall": "AP-7 | CASTELLBISBAL | Sentit Sud cap a TARRAGONA | Punt km. 168.5-166.5 | DOS CARRILS TALLATS",
-          "publicat": "2026-11-10T21:34:08.000Z",
-          "carretera": "AP-7",
-          "comarca": 40
-        },
-        {
-          "titol": "Obres en general · Calçada restringida",
-          "detall": "AP-7 | CASTELLBISBAL | Sentit Sud cap a TARRAGONA | Punt km. 166.5-169",
-          "publicat": "2026-11-10T21:02:37.000Z",
-          "carretera": "AP-7",
-          "comarca": 40
-        },
-        {
-          "titol": "Carril BICI · Calçada restringida",
-          "detall": "AP-7 | SANT CUGAT DEL VALLÈS | Sentit Sud | Punt km. 153.7-154",
-          "publicat": "2026-11-10T21:00:00.000Z",
-          "carretera": "AP-7",
-          "comarca": 40
-        }
-      ]
+      "consultat": "2026-11-10T23:23:52.469Z",
+      "estat": "cap-avis-recent",
+      "detall": "Cap incidència d’avui a les carreteres seleccionades del Vallès Occidental, segons la llista actual de Trànsit.",
+      "actualitzat": "2026-11-10T23:24:03.000Z",
+      "avisos": []
     },
     {
       "id": "meteocat",
       "nom": "Meteocat · Vallès Occidental",
       "enllac": "https://www.meteo.cat/prediccio/general",
       "alternatiu": null,
-      "consultat": "2026-11-10T22:55:17.267Z",
+      "consultat": "2026-11-10T23:23:52.469Z",
       "estat": "previsio",
       "detall": "Sense avisos actius. Previsió de dimecres, 11 de novembre al Vallès Occidental: màxima 22°, mínima 12°. sol i núvols alts al matí · entre poc i mig ennuvolat a la tarda · Pluja matí: No se n’espera · tarda: Molt probable (>70%) · Actualitzada 10-11-2026 15:00:00.",
       "previsio": {
@@ -106,12 +57,12 @@
       "nom": "Emergències · Protecció Civil",
       "enllac": "https://interior.gencat.cat/ca/actualitat/",
       "alternatiu": "https://govern.cat/salapremsa/notes-premsa",
-      "consultat": "2026-11-10T22:55:17.267Z",
+      "consultat": "2026-11-10T23:23:52.469Z",
       "estat": "cap-avis-recent",
       "detall": "Cap alerta local no meteorològica identificada a les alertes destacades d’Interior.",
       "avisos": []
     }
   ],
-  "consultat": "2026-11-10T22:55:17.267Z",
-  "actualizado": "2026-11-10T22:55:36.865Z"
+  "consultat": "2026-11-10T23:23:52.469Z",
+  "actualizado": "2026-11-10T23:24:12.369Z"
 }

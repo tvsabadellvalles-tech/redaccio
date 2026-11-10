@@ -1,13 +1,6 @@
 {
   "eventos": [
     {
-      "id": "e03bc214cb7d0ed2",
-      "t": "2026-11-07T09:18:33.311Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "b0c9b80d4142ed75"
-    },
-    {
       "id": "abcebd0aa82fcc6b",
       "t": "2026-11-07T09:18:33.312Z",
       "agente": "rastreador",
@@ -2799,7 +2792,14 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Esports.",
       "itemId": "893c58c5ec9b57db"
+    },
+    {
+      "id": "46f6e32211031080",
+      "t": "2026-11-10T23:23:52.469Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Infopòdcast Sabadell 11.11.26» (Ràdio Sabadell).",
+      "itemId": "9bac95ed873967e5"
     }
   ],
-  "actualizado": "2026-11-10T19:27:28.857Z"
+  "actualizado": "2026-11-10T23:24:09.859Z"
 }

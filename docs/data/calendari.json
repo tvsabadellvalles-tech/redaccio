@@ -2,8 +2,8 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-10T22:55:17.267Z",
-  "total": 13,
+  "consultat": "2026-11-10T23:23:52.469Z",
+  "total": 17,
   "activitats": [
     {
       "titol": "PAULINO FESTA",
@@ -17,34 +17,6 @@
       "inici": "2026-11-11T00:00:00.000Z",
       "final": "2026-11-12T00:00:00.000Z",
       "totElDia": true,
-      "color": null
-    },
-    {
-      "titol": "Joan marxa i torna",
-      "inici": "2026-11-10T09:45:00.000Z",
-      "final": "2026-11-10T11:15:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "L'Informatiu",
-      "inici": "2026-11-10T15:00:00.000Z",
-      "final": "2026-11-10T16:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "(Ferran) CX - VIA 15 (Habitatge)",
-      "inici": "2026-11-10T17:00:00.000Z",
-      "final": "2026-11-10T18:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "COTXE! (Ferran) CN Sabadell F-CN Terrassa",
-      "inici": "2026-11-10T19:45:00.000Z",
-      "final": "2026-11-10T20:45:00.000Z",
-      "totElDia": false,
       "color": null
     },
     {
@@ -95,8 +67,64 @@
       "final": "2026-11-11T18:00:00.000Z",
       "totElDia": false,
       "color": null
+    },
+    {
+      "titol": "(JM i Lidia) Publi Vitalia",
+      "inici": "2026-11-12T10:00:00.000Z",
+      "final": "2026-11-12T11:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "(JM i Lidia) Publi restaurant",
+      "inici": "2026-11-12T11:30:00.000Z",
+      "final": "2026-11-12T12:30:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "En Primera Persona",
+      "inici": "2026-11-12T14:00:00.000Z",
+      "final": "2026-11-12T15:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "Joan ha de marxar",
+      "inici": "2026-11-12T16:15:00.000Z",
+      "final": "2026-11-12T16:45:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "CX - VIA 15 (Treballar en parella)",
+      "inici": "2026-11-12T17:00:00.000Z",
+      "final": "2026-11-12T18:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "(Ferran) Presentació del Nadal a Sabadell",
+      "inici": "2026-11-12T17:00:00.000Z",
+      "final": "2026-11-12T18:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "(Pep) Primera sessió de BATECS, Espai de diàlegs per transformar “Reflexió i anàlisi sobre Violència Vicària des de l’experiència”",
+      "inici": "2026-11-12T17:00:00.000Z",
+      "final": "2026-11-12T18:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "(Ferran) LÍMIT REEL VA DE MODA",
+      "inici": "2026-11-12T18:45:00.000Z",
+      "final": "2026-11-12T19:00:00.000Z",
+      "totElDia": false,
+      "color": null
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-10T22:55:53.525Z"
+  "actualizado": "2026-11-10T23:24:29.101Z"
 }
