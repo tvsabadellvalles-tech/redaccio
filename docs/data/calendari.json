@@ -2,8 +2,8 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-10T15:25:25.894Z",
-  "total": 11,
+  "consultat": "2026-11-10T16:17:04.130Z",
+  "total": 12,
   "activitats": [
     {
       "titol": "PAULINO FESTA",
@@ -48,6 +48,13 @@
       "color": null
     },
     {
+      "titol": "Pep i Joan entren (si els sindicats volen)",
+      "inici": "2026-11-11T07:30:00.000Z",
+      "final": "2026-11-11T08:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
       "titol": "Vaga Alcampo",
       "inici": "2026-11-11T08:00:00.000Z",
       "final": "2026-11-11T09:00:00.000Z",
@@ -84,5 +91,5 @@
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-10T15:26:02.428Z"
+  "actualizado": "2026-11-10T16:17:40.600Z"
 }

@@ -5,7 +5,7 @@
       "nom": "FGC Barcelona–Vallès",
       "enllac": "https://www.fgc.cat/adequacions-horaries/",
       "alternatiu": null,
-      "consultat": "2026-11-10T15:25:25.894Z",
+      "consultat": "2026-11-10T16:17:04.130Z",
       "estat": "cap-avis-recent",
       "detall": "Sense adequacions horàries."
     },
@@ -14,7 +14,7 @@
       "nom": "Rodalies R4 i R7",
       "enllac": "https://rodalies.gencat.cat/ca/alteracions_del_servei/",
       "alternatiu": null,
-      "consultat": "2026-11-10T15:25:25.894Z",
+      "consultat": "2026-11-10T16:17:04.130Z",
       "estat": "avis",
       "detall": "2 avisos publicats avui a les línies R4 i R7.",
       "avisos": [
@@ -77,14 +77,14 @@
       "nom": "Trànsit · Vallès Occidental",
       "enllac": "https://cit.transit.gencat.cat/",
       "alternatiu": null,
-      "consultat": "2026-11-10T15:25:25.894Z",
+      "consultat": "2026-11-10T16:17:04.130Z",
       "estat": "avis",
       "detall": "5 incidències d’avui a les carreteres seleccionades del Vallès Occidental, segons la llista actual de Trànsit.",
-      "actualitzat": "2026-11-10T15:25:04.000Z",
+      "actualitzat": "2026-11-10T16:17:03.000Z",
       "avisos": [
         {
-          "titol": "Circulació · Circulació amb retencions",
-          "detall": "AP-7 | SANT CUGAT DEL VALLÈS | Sentit Nord cap a GIRONA | Punt km. 158-161",
+          "titol": "Avaria · Circulació amb retencions",
+          "detall": "AP-7 | SANT CUGAT DEL VALLÈS | Sentit Nord cap a GIRONA | Punt km. 160-162 | un carril tallat",
           "publicat": "2026-11-10T14:36:17.000Z",
           "carretera": "AP-7",
           "comarca": 40
@@ -124,34 +124,21 @@
       "nom": "Meteocat · Vallès Occidental",
       "enllac": "https://www.meteo.cat/prediccio/general",
       "alternatiu": null,
-      "consultat": "2026-11-10T15:25:25.894Z",
-      "estat": "previsio",
-      "detall": "Sense avisos actius. Previsió de dimecres, 11 de novembre al Vallès Occidental: màxima 22°, mínima 12°. sol i núvols alts al matí · entre poc i mig ennuvolat a la tarda · Pluja matí: No se n’espera · tarda: Molt probable (>70%) · Actualitzada 10-11-2026 15:00:00.",
-      "previsio": {
-        "data": "11-11-2026",
-        "dataISO": "2026-11-11",
-        "dataLlarga": "dimecres, 11 de novembre",
-        "actualitzat": "10-11-2026 15:00:00",
-        "maxima": "22",
-        "minima": "12",
-        "mati": "sol i núvols alts",
-        "tarda": "entre poc i mig ennuvolat",
-        "precipitacio": "matí: No se n’espera · tarda: Molt probable (>70%)",
-        "detall": "sol i núvols alts al matí · entre poc i mig ennuvolat a la tarda · Pluja matí: No se n’espera · tarda: Molt probable (>70%) · Actualitzada 10-11-2026 15:00:00"
-      },
-      "avisos": []
+      "consultat": "2026-11-10T16:17:04.130Z",
+      "estat": "no-verificat",
+      "detall": "No s’ha pogut consultar la font oficial: fetch failed"
     },
     {
       "id": "emergencies",
       "nom": "Emergències · Protecció Civil",
       "enllac": "https://interior.gencat.cat/ca/actualitat/",
       "alternatiu": "https://govern.cat/salapremsa/notes-premsa",
-      "consultat": "2026-11-10T15:25:25.894Z",
+      "consultat": "2026-11-10T16:17:04.130Z",
       "estat": "cap-avis-recent",
       "detall": "Cap alerta local no meteorològica identificada a les alertes destacades d’Interior.",
       "avisos": []
     }
   ],
-  "consultat": "2026-11-10T15:25:25.894Z",
-  "actualizado": "2026-11-10T15:25:45.165Z"
+  "consultat": "2026-11-10T16:17:04.130Z",
+  "actualizado": "2026-11-10T16:17:22.571Z"
 }
