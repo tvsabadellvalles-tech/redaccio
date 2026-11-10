@@ -125,6 +125,32 @@
       "propuesta": false
     },
     {
+      "id": "6c1bc60f80b0eff3",
+      "titulo": "Comprar un habitatge de segona mà a Sabadell, equivalent als ingressos d'una llar en 5 anys",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/comprar-habitatge-segona-ma-sabadell-ingressos-llar",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-10T06:06:03.000Z",
+      "detectado": "2026-11-10T06:24:51.175Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad",
+        "urbanismo"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "mobilitat, obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
       "id": "c59a148a9ce30d2d",
       "titulo": "Tribuna Preferent 26-27 #09 (214): El post del Sabadell 0-0 Real Sociedad 'B'",
       "enlace": "https://radiosabadell.fm/podcast/tribuna-preferent-101126",
@@ -146,5 +172,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-09T23:44:57.457Z"
+  "actualizado": "2026-11-10T06:25:08.791Z"
 }
