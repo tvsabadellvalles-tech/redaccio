@@ -1,27 +1,6 @@
 {
   "eventos": [
     {
-      "id": "abb7f9e79e2568c6",
-      "t": "2026-11-01T10:03:00.644Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · economia i ocupació, medi ambient.",
-      "itemId": "a87fc598b76ccd10"
-    },
-    {
-      "id": "600431e22b6de7f7",
-      "t": "2026-11-01T10:03:00.645Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Esgarrifosa imatge de Quadri Liameed grogui a l'Albacete-Sabadell» (Ràdio Sabadell).",
-      "itemId": "d6d3f13a2282f1f5"
-    },
-    {
-      "id": "9f7136ca0a8f6029",
-      "t": "2026-11-01T10:03:00.646Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local, Salut, Esports.",
-      "itemId": "d6d3f13a2282f1f5"
-    },
-    {
       "id": "db49099c0b4724bf",
       "t": "2026-11-01T10:03:00.647Z",
       "agente": "mesa",
@@ -2799,7 +2778,28 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Obres i urbanisme.",
       "itemId": "a212eb349924d8c1"
+    },
+    {
+      "id": "678f6e421fb82232",
+      "t": "2026-11-10T15:25:25.894Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Els preus dels pisos de Sabadell creixen el doble de ràpid que els salaris» (Diari de Sabadell).",
+      "itemId": "55ccfc7d68735d05"
+    },
+    {
+      "id": "f5dd176424b4f4e8",
+      "t": "2026-11-10T15:25:25.895Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Obres i urbanisme.",
+      "itemId": "55ccfc7d68735d05"
+    },
+    {
+      "id": "9cd5d515a5f135b7",
+      "t": "2026-11-10T15:25:25.896Z",
+      "agente": "rastreador",
+      "texto": "He recollit «11-N, una vaga general a les portes de les eleccions generals» (L'Actual - Castellar del Vallès).",
+      "itemId": "00420e919728e971"
     }
   ],
-  "actualizado": "2026-11-10T14:40:48.708Z"
+  "actualizado": "2026-11-10T15:25:42.625Z"
 }

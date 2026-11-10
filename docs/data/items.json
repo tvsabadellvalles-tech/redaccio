@@ -104,6 +104,50 @@
   },
   "items": [
     {
+      "id": "00420e919728e971",
+      "titulo": "11-N, una vaga general a les portes de les eleccions generals",
+      "enlace": "https://www.lactual.cat/actualitat/11-n-vaga-general-portes-eleccions-generals_55350_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-10T15:15:22.000Z",
+      "detectado": "2026-11-10T15:25:25.894Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "55ccfc7d68735d05",
+      "titulo": "Els preus dels pisos de Sabadell creixen el doble de ràpid que els salaris",
+      "enlace": "https://www.diaridesabadell.com/sabadell/preus-pisos-lloguer-compra-sabadell-salaris.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-10T14:58:31.000Z",
+      "detectado": "2026-11-10T15:25:25.894Z",
+      "sensible": false,
+      "etiquetas": [
+        "urbanismo"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "a212eb349924d8c1",
       "titulo": "“És gairebé impossible”: les veus de joves sabadellencs davant de la crisi de l’habitatge",
       "enlace": "https://www.diaridesabadell.com/sabadell/crisi-habitatge-preu-lloguer-sabadell-11n.html",
@@ -1089,5 +1133,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-10T14:40:48.704Z"
+  "actualizado": "2026-11-10T15:25:42.622Z"
 }
