@@ -1,20 +1,6 @@
 {
   "eventos": [
     {
-      "id": "7412d6437a8edb60",
-      "t": "2026-11-01T10:03:00.642Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Sentmenat acull una jornada informativa sobre el nou Reglament europeu d’envasos i residus d’envasos» (Ajuntament de Sentmenat).",
-      "itemId": "a87fc598b76ccd10"
-    },
-    {
-      "id": "b2bb46c8123e2e80",
-      "t": "2026-11-01T10:03:00.643Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Economia i ocupació, Medi ambient.",
-      "itemId": "a87fc598b76ccd10"
-    },
-    {
       "id": "abb7f9e79e2568c6",
       "t": "2026-11-01T10:03:00.644Z",
       "agente": "mesa",
@@ -2799,7 +2785,21 @@
       "agente": "rastreador",
       "texto": "He recollit «L'encàrrec de Ferran Costa: \"Hem de ser ambiciosos, però també realistes\"» (Ràdio Sabadell).",
       "itemId": "56ae611a03ade22b"
+    },
+    {
+      "id": "087612c16de5b4e5",
+      "t": "2026-11-10T14:40:29.440Z",
+      "agente": "rastreador",
+      "texto": "He recollit «“És gairebé impossible”: les veus de joves sabadellencs davant de la crisi de l’habitatge» (Diari de Sabadell).",
+      "itemId": "a212eb349924d8c1"
+    },
+    {
+      "id": "f008cb68d615c436",
+      "t": "2026-11-10T14:40:29.441Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Obres i urbanisme.",
+      "itemId": "a212eb349924d8c1"
     }
   ],
-  "actualizado": "2026-11-10T13:55:23.086Z"
+  "actualizado": "2026-11-10T14:40:48.708Z"
 }

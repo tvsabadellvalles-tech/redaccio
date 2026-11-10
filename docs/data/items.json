@@ -104,6 +104,29 @@
   },
   "items": [
     {
+      "id": "a212eb349924d8c1",
+      "titulo": "“És gairebé impossible”: les veus de joves sabadellencs davant de la crisi de l’habitatge",
+      "enlace": "https://www.diaridesabadell.com/sabadell/crisi-habitatge-preu-lloguer-sabadell-11n.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-10T14:35:14.000Z",
+      "detectado": "2026-11-10T14:40:29.440Z",
+      "sensible": false,
+      "etiquetas": [
+        "urbanismo"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "56ae611a03ade22b",
       "titulo": "L'encàrrec de Ferran Costa: \"Hem de ser ambiciosos, però també realistes\"",
       "enlace": "https://radiosabadell.fm/podcast/hotel-suis-101126-Sabadell-Sanse",
@@ -1066,5 +1089,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-10T13:55:23.084Z"
+  "actualizado": "2026-11-10T14:40:48.704Z"
 }
