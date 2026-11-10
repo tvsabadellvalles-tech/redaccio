@@ -1,27 +1,6 @@
 {
   "eventos": [
     {
-      "id": "318c75b11684d83e",
-      "t": "2026-11-01T11:10:04.261Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Lluís Puig: “Abans de l’acte públic, volia retrobar-me amb la casa i la família”» (Diari de Terrassa).",
-      "itemId": "1ae51543f0af5719"
-    },
-    {
-      "id": "035e3cafabf44bcc",
-      "t": "2026-11-01T11:10:04.262Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Cultura i festes.",
-      "itemId": "1ae51543f0af5719"
-    },
-    {
-      "id": "bf5e5760bb2559d0",
-      "t": "2026-11-01T12:16:58.763Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Agònic primer triomf de la temporada del FS Sabadell Femení» (Diari de Sabadell).",
-      "itemId": "bd884bea91e0ec04"
-    },
-    {
       "id": "651f56a21f486393",
       "t": "2026-11-01T12:56:58.739Z",
       "agente": "rastreador",
@@ -2799,7 +2778,28 @@
       "agente": "deduplicador",
       "texto": "Descartada perquè és duplicada: coincideix amb «El periodista sabadellenc Plàcid Garcia-Planas rebrà el Premi Tenacitat 2026» (Diari de Sabadell).",
       "itemId": "effd26e776bcc246"
+    },
+    {
+      "id": "9702e56c16a7bfb5",
+      "t": "2026-11-10T18:28:30.971Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Dues botigues pop-up s’instal·len a Sabadell» (Ràdio Sabadell).",
+      "itemId": "bf74573a9d9174a4"
+    },
+    {
+      "id": "1bb417222928857c",
+      "t": "2026-11-10T18:28:30.972Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Emergències.",
+      "itemId": "bf74573a9d9174a4"
+    },
+    {
+      "id": "5b81fec96ccdfcd6",
+      "t": "2026-11-10T18:28:30.973Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): emergències.",
+      "itemId": "bf74573a9d9174a4"
     }
   ],
-  "actualizado": "2026-11-10T17:52:13.713Z"
+  "actualizado": "2026-11-10T18:28:44.414Z"
 }

@@ -127,6 +127,31 @@
       "propuesta": false
     },
     {
+      "id": "bf74573a9d9174a4",
+      "titulo": "Dues botigues pop-up s’instal·len a Sabadell",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/dues-botigues-pop-sinstallen-sabadell",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-10T17:33:13.000Z",
+      "detectado": "2026-11-10T18:28:30.971Z",
+      "sensible": false,
+      "etiquetas": [
+        "emergencias"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "emergències"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
       "id": "613c1c5dc12a219d",
       "titulo": "La metgessa Montserrat Baré, premiada per una trajectòria al servei de la Creu Alta: \"És el lloc on sempre havia volgut exercir\"",
       "enlace": "https://www.diaridesabadell.com/sabadell/doctora-montserrat-bare-premiada-excellencia-professional-cap-creu-alta-sabadell.html",
@@ -1295,5 +1320,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-10T17:52:13.709Z"
+  "actualizado": "2026-11-10T18:28:44.410Z"
 }
