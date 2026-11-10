@@ -104,6 +104,151 @@
   },
   "items": [
     {
+      "id": "e95e5592ad5586fa",
+      "titulo": "L’Ajuntament mantindrà els serveis essencials i l’atenció a la ciutadania durant la jornada de vaga",
+      "enlace": "https://www.santquirzevalles.cat/actualitat/noticies/l2019ajuntament-mantindra-els-serveis-essencials-i-l2019atencio-a-la-ciutadania-durant-la-jornada-de-vaga",
+      "fuente": "ayto-sant-quirze",
+      "fuenteNombre": "Ajuntament de Sant Quirze del Vallès",
+      "tipo": "oficial",
+      "resumen": "S'han establert uns recursos mínims per garantir l'atenció ciutadana i el funcionament d'àmbits essencials",
+      "municipio": "sant-quirze",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-10T12:39:03.000Z",
+      "detectado": "2026-11-10T12:47:45.457Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "c0f8a918e8166327",
+      "titulo": "L'Ajuntament inicia una campanya de vigilància i sancions contra l'incivisme en matèria de residus",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/lajuntament-inicia-una-campanya-de-vigilancia-i-sancions-contra-lincivisme-en-materia-de-residus.html",
+      "fuente": "ayto-santa-perpetua",
+      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
+      "tipo": "oficial",
+      "resumen": "L'alcalde, Joan Carles Mingueza, també anuncia reforç en la neteja viària i millores en el sistema de recollida",
+      "municipio": "santa-perpetua",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-10T12:33:00.000Z",
+      "detectado": "2026-11-10T09:28:21.065Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica",
+        "medioambiente"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "font oficial",
+        "política local, medi ambient"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "3121eaa545252638",
+      "titulo": "La vaga general d’aquest dimecres pot afectar els serveis i equipaments municipals de Santa Perpètua",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/la-vaga-general-daquest-dimecres-pot-afectar-els-serveis-i-equipaments-municipals-de-santa-perpetua.html",
+      "fuente": "ayto-santa-perpetua",
+      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
+      "tipo": "oficial",
+      "resumen": "El funcionament habitual dels serveis i equipaments municipals es podria veure afectat amb motiu de la vaga general convocada per demà, dimecres 11 de novembre de 2026.",
+      "municipio": "santa-perpetua",
+      "municipiosMencionados": [
+        "santa-perpetua"
+      ],
+      "publicado": "2026-11-10T12:30:00.000Z",
+      "detectado": "2026-11-10T12:47:45.457Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "ac846094a573243e",
+      "titulo": "Demanen reduir el trànsit als entorns escolars per protegir els infants",
+      "enlace": "https://www.isabadell.cat/societat/demanen-reduir-transit-als-entorns-escolars-per-protegir-els-infants-340435/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-10T12:14:12.000Z",
+      "detectado": "2026-11-10T12:47:45.457Z",
+      "sensible": true,
+      "etiquetas": [
+        "movilidad",
+        "salud",
+        "medioambiente"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "mobilitat, salut, medi ambient"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "518ff0a6def8a9c1",
+      "titulo": "L’exposició \"Les dones que falten\" arriba a Barberà per homenatjar les dones i criatures assassinades per violència masclista i vicària",
+      "enlace": "https://www.bdv.cat/noticies/lexposicio-les-dones-que-falten-arriba-barbera-homenatjar-les-dones-i-criatures",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "La mostra es podrà visitar del 16 al 27 de novembre al Teatre Municipal Cooperativa i inclou una visita guiada el dilluns 16 de novembre, a les 18h Del 16 al 27 de novembre, el Teatre Municipal Cooperativa acollirà l’exposició Les dones…",
+      "municipio": "barbera",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-10T12:07:00.000Z",
+      "detectado": "2026-11-10T12:47:45.457Z",
+      "sensible": true,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "152da175a3e7c93e",
+      "titulo": "L’obra de Camil Fàbregas reneix sota la mirada de Gerard Torres Sanmartí",
+      "enlace": "https://radiosabadell.fm/actualitat/cultura/lobra-de-camil-fabregas-reneix-sota-la-mirada-de-gerard-torres-sanmarti",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-10T11:58:35.000Z",
+      "detectado": "2026-11-10T12:47:45.457Z",
+      "sensible": false,
+      "etiquetas": [
+        "urbanismo",
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "79c10c3bd77cd68b",
       "titulo": "Torna l'Empíric Festival per connectar ciència, salut i societat",
       "enlace": "http://www.cerdanyola.cat/actualitat/torna-lempiric-festival-connectar-ciencia-salut-i-societat",
@@ -483,31 +628,6 @@
       "propuesta": false
     },
     {
-      "id": "c0f8a918e8166327",
-      "titulo": "L'Ajuntament inicia una campanya de vigilància i sancions contra l'incivisme en matèria de residus",
-      "enlace": "https://www.staperpetua.cat/actualitat/noticies/lajuntament-inicia-una-campanya-de-vigilancia-i-sancions-contra-lincivisme-en-materia-de-residus.html",
-      "fuente": "ayto-santa-perpetua",
-      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
-      "tipo": "oficial",
-      "resumen": "L'alcalde, Joan Carles Mingueza, també anuncia reforç en la neteja viària i millores en el sistema de recollida",
-      "municipio": "santa-perpetua",
-      "municipiosMencionados": [],
-      "publicado": "2026-11-10T09:00:00.000Z",
-      "detectado": "2026-11-10T09:28:21.065Z",
-      "sensible": false,
-      "etiquetas": [
-        "politica",
-        "medioambiente"
-      ],
-      "puntuacion": 4,
-      "motivos": [
-        "font oficial",
-        "política local, medi ambient"
-      ],
-      "duplicadaDe": null,
-      "propuesta": true
-    },
-    {
       "id": "b5cc336eb6ed6774",
       "titulo": "'Estimada Valentina': artistes sabadellencs se sumen a la cançó pel dret a l'habitatge",
       "enlace": "https://www.diaridesabadell.com/oci-cultura/estimada-valentina-canco-sabadell.html",
@@ -784,7 +904,28 @@
       ],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "47924f908c58172f",
+      "titulo": "Serveis mínims vaga general 11N",
+      "enlace": "https://www.montcada.cat/actualitat/avisos/serveis-minims-vaga-general-11n.html",
+      "fuente": "avisos-montcada",
+      "fuenteNombre": "Avisos de l'Ajuntament de Montcada i Reixac",
+      "tipo": "oficial",
+      "resumen": "",
+      "municipio": "montcada",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-09T23:00:00.000Z",
+      "detectado": "2026-11-10T12:47:45.457Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
     }
   ],
-  "actualizado": "2026-11-10T11:56:37.070Z"
+  "actualizado": "2026-11-10T12:48:00.341Z"
 }

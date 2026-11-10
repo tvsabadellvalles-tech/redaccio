@@ -1,90 +1,6 @@
 {
   "eventos": [
     {
-      "id": "7ea50b9aaa690ee4",
-      "t": "2026-10-28T19:12:54.665Z",
-      "agente": "rastreador",
-      "texto": "He recollit «L'aposta del Cercle Sabadellès pel pickleball, a punt de ser una realitat» (Ràdio Sabadell).",
-      "itemId": "e519bc9ca99d79d4"
-    },
-    {
-      "id": "a231fe808f4af24d",
-      "t": "2026-10-28T19:12:54.666Z",
-      "agente": "deduplicador",
-      "texto": "Descartada perquè és duplicada: coincideix amb «El Podi (IX): L'aposta del Cercle Sabadellès pel pickleball, a punt de ser una realitat» (Ràdio Sabadell).",
-      "itemId": "e519bc9ca99d79d4"
-    },
-    {
-      "id": "244fcd980c29fa33",
-      "t": "2026-10-28T19:12:54.667Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Més queixes pel desplegament dels autobusos: Palau-solità reclama millores urgents en l'e9» (Diari de Sabadell).",
-      "itemId": "3052b99635e17c81"
-    },
-    {
-      "id": "52cae47d2508bec7",
-      "t": "2026-10-28T19:12:54.668Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Primera jornada de la vaga indefinida dels metges per reclamar millores laborals» (Ràdio Sabadell).",
-      "itemId": "7a69df092acb4a74"
-    },
-    {
-      "id": "4852dda0af4de352",
-      "t": "2026-10-28T19:12:54.669Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Emergències, Política local, Salut.",
-      "itemId": "7a69df092acb4a74"
-    },
-    {
-      "id": "8fdf27ab06b76f33",
-      "t": "2026-10-28T19:12:54.670Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): emergències, política local, salut.",
-      "itemId": "7a69df092acb4a74"
-    },
-    {
-      "id": "8946cf76214524a8",
-      "t": "2026-10-28T19:12:54.671Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Ja hi ha data per al retorn de l'activitat al pavelló de Cal Balsach» (Ràdio Sabadell).",
-      "itemId": "a2ccfaa0c647255c"
-    },
-    {
-      "id": "72188e17a453b7b6",
-      "t": "2026-10-28T19:12:54.672Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Obres i urbanisme, Salut, Esports.",
-      "itemId": "a2ccfaa0c647255c"
-    },
-    {
-      "id": "5a19c67bd26df69c",
-      "t": "2026-10-28T19:12:54.673Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Suspès l'Utebo-Sabadell i tota la resta de la jornada de la Copa del Rei; dimecres 4, la nova data» (Ràdio Sabadell).",
-      "itemId": "b7322c07092d4834"
-    },
-    {
-      "id": "0d3cd39c4db9bd3d",
-      "t": "2026-10-28T19:12:54.674Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Successos, Esports.",
-      "itemId": "b7322c07092d4834"
-    },
-    {
-      "id": "02ba764ae6155e99",
-      "t": "2026-10-28T19:12:54.675Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "b7322c07092d4834"
-    },
-    {
-      "id": "73f1e41196cd396b",
-      "t": "2026-10-28T19:12:54.676Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Sabadell guarda un minut de silenci per les víctimes de l’accident ferroviari de Toledo» (Ràdio Sabadell).",
-      "itemId": "4a316b6bd3c85b05"
-    },
-    {
       "id": "145c87419452daba",
       "t": "2026-10-28T19:12:54.677Z",
       "agente": "etiquetador",
@@ -2799,7 +2715,91 @@
       "agente": "mesa",
       "texto": "Proposo incloure-ho a l'escaleta (5 punts): font oficial · emergències, salut, educació.",
       "itemId": "79c10c3bd77cd68b"
+    },
+    {
+      "id": "30042e45979a4e5a",
+      "t": "2026-11-10T12:47:45.457Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Serveis mínims vaga general 11N» (Avisos de l'Ajuntament de Montcada i Reixac).",
+      "itemId": "47924f908c58172f"
+    },
+    {
+      "id": "6eaec816787d7937",
+      "t": "2026-11-10T12:47:45.458Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L’obra de Camil Fàbregas reneix sota la mirada de Gerard Torres Sanmartí» (Ràdio Sabadell).",
+      "itemId": "152da175a3e7c93e"
+    },
+    {
+      "id": "e7b58f8b42ed48b3",
+      "t": "2026-11-10T12:47:45.459Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Obres i urbanisme, Cultura i festes.",
+      "itemId": "152da175a3e7c93e"
+    },
+    {
+      "id": "77947d2aeada1fae",
+      "t": "2026-11-10T12:47:45.460Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L’exposició \"Les dones que falten\" arriba a Barberà per homenatjar les dones i criatures assassinades per violència masclista i vicària» (Ajuntament de Barberà del Vallès).",
+      "itemId": "518ff0a6def8a9c1"
+    },
+    {
+      "id": "6c31270c46beaf4d",
+      "t": "2026-11-10T12:47:45.461Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "518ff0a6def8a9c1"
+    },
+    {
+      "id": "d7680bc9d023a36a",
+      "t": "2026-11-10T12:47:45.462Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "518ff0a6def8a9c1"
+    },
+    {
+      "id": "44c90dd1c17d3865",
+      "t": "2026-11-10T12:47:45.463Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Demanen reduir el trànsit als entorns escolars per protegir els infants» (iSabadell).",
+      "itemId": "ac846094a573243e"
+    },
+    {
+      "id": "5a527595b21be6b1",
+      "t": "2026-11-10T12:47:45.464Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat, Salut, Medi ambient.",
+      "itemId": "ac846094a573243e"
+    },
+    {
+      "id": "8ed1fc5286f248cc",
+      "t": "2026-11-10T12:47:45.465Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "ac846094a573243e"
+    },
+    {
+      "id": "5479aaba875bf526",
+      "t": "2026-11-10T12:47:45.466Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): mobilitat, salut, medi ambient.",
+      "itemId": "ac846094a573243e"
+    },
+    {
+      "id": "018a1516cff38cc6",
+      "t": "2026-11-10T12:47:45.467Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La vaga general d’aquest dimecres pot afectar els serveis i equipaments municipals de Santa Perpètua» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "3121eaa545252638"
+    },
+    {
+      "id": "2a8e6b04c8733e25",
+      "t": "2026-11-10T12:47:45.468Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L’Ajuntament mantindrà els serveis essencials i l’atenció a la ciutadania durant la jornada de vaga» (Ajuntament de Sant Quirze del Vallès).",
+      "itemId": "e95e5592ad5586fa"
     }
   ],
-  "actualizado": "2026-11-10T11:56:37.073Z"
+  "actualizado": "2026-11-10T12:48:00.344Z"
 }
