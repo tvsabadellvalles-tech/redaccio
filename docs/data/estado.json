@@ -2,7 +2,7 @@
   "fuentes": {
     "isabadell": {
       "ok": true,
-      "items": 3
+      "items": 4
     },
     "radio-sabadell": {
       "ok": true,
@@ -62,7 +62,7 @@
     },
     "ayto-barbera": {
       "ok": true,
-      "items": 2
+      "items": 3
     },
     "ayto-cerdanyola": {
       "ok": true,
@@ -81,6 +81,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-10T12:47:45.457Z",
-  "actualizado": "2026-11-10T12:48:00.342Z"
+  "consultat": "2026-11-10T13:55:07.135Z",
+  "actualizado": "2026-11-10T13:55:23.085Z"
 }

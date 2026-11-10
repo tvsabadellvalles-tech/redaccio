@@ -104,6 +104,93 @@
   },
   "items": [
     {
+      "id": "56ae611a03ade22b",
+      "titulo": "L'encàrrec de Ferran Costa: \"Hem de ser ambiciosos, però també realistes\"",
+      "enlace": "https://radiosabadell.fm/podcast/hotel-suis-101126-Sabadell-Sanse",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-10T13:23:06.000Z",
+      "detectado": "2026-11-10T13:55:07.135Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "ec0d94a9273fcdc4",
+      "titulo": "Sabadell escalfa motors per a la vaga general de l'11-N",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-migdia-vaga-general-101126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-10T13:21:08.000Z",
+      "detectado": "2026-11-10T13:55:07.135Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "968ceb69fbe875d9",
+      "titulo": "S’inicia la reurbanització del tram lateral de la carretera de Barcelona",
+      "enlace": "https://www.bdv.cat/noticies/sinicia-la-reurbanitzacio-del-tram-lateral-de-la-carretera-de-barcelona",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "Aquest 9 de novembre comencen les obres de reurbanització del tram lateral de la carretera de Barcelona, entre la ronda de Ca n’Amiguet i la Via Sant Oleguer. El projecte, impulsat per l’Ajuntament amb el suport de l’Àrea Metropolitana de…",
+      "municipio": "barbera",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-10T12:56:00.000Z",
+      "detectado": "2026-11-10T13:55:07.135Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad",
+        "politica",
+        "urbanismo"
+      ],
+      "puntuacion": 5,
+      "motivos": [
+        "font oficial",
+        "mobilitat, política local, obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "edae325c7d8bc3a2",
+      "titulo": "La primera vaga general en 14 anys tindrà doble manifestació a Sabadell",
+      "enlace": "https://www.isabadell.cat/societat/la-primera-vaga-general-en-14-anys-tindra-doble-manifestacio-a-sabadell-340438/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-10T12:51:16.000Z",
+      "detectado": "2026-11-10T13:55:07.135Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "e95e5592ad5586fa",
       "titulo": "L’Ajuntament mantindrà els serveis essencials i l’atenció a la ciutadania durant la jornada de vaga",
       "enlace": "https://www.santquirzevalles.cat/actualitat/noticies/l2019ajuntament-mantindra-els-serveis-essencials-i-l2019atencio-a-la-ciutadania-durant-la-jornada-de-vaga",
@@ -113,7 +200,7 @@
       "resumen": "S'han establert uns recursos mínims per garantir l'atenció ciutadana i el funcionament d'àmbits essencials",
       "municipio": "sant-quirze",
       "municipiosMencionados": [],
-      "publicado": "2026-11-10T12:39:03.000Z",
+      "publicado": "2026-11-10T12:39:00.000Z",
       "detectado": "2026-11-10T12:47:45.457Z",
       "sensible": false,
       "etiquetas": [],
@@ -145,6 +232,35 @@
       "motivos": [
         "font oficial",
         "política local, medi ambient"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "1c9f90432741ffc4",
+      "titulo": "Consulta els serveis mínims de l'11-N a Sabadell",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/consulta-serveis-minims-l11-n-sabadell",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-10T12:32:39.000Z",
+      "detectado": "2026-11-10T13:55:07.135Z",
+      "sensible": true,
+      "etiquetas": [
+        "emergencias",
+        "movilidad",
+        "salud",
+        "educacion",
+        "medioambiente"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "emergències, mobilitat, salut, educació, medi ambient"
       ],
       "duplicadaDe": null,
       "propuesta": true
@@ -347,6 +463,29 @@
       "detectado": "2026-11-10T11:12:35.641Z",
       "sensible": false,
       "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "50d546cfc824014e",
+      "titulo": "Genar debuta a Segona Divisió: \"Faig realitat un somni\"",
+      "enlace": "https://radiosabadell.fm/esports/ce-sabadell/genar-debut-segona-divisio-sabadell-real-sociedad-b",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-10T10:59:26.000Z",
+      "detectado": "2026-11-10T13:55:07.135Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
       "puntuacion": 0,
       "motivos": [],
       "duplicadaDe": null,
@@ -927,5 +1066,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-10T12:48:00.341Z"
+  "actualizado": "2026-11-10T13:55:23.084Z"
 }

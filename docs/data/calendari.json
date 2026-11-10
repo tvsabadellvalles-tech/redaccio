@@ -2,7 +2,7 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-10T12:47:45.457Z",
+  "consultat": "2026-11-10T13:55:07.135Z",
   "total": 11,
   "activitats": [
     {
@@ -41,7 +41,7 @@
       "color": null
     },
     {
-      "titol": "(Ferran) CN Sabadell F-CN Terrassa",
+      "titol": "COTXE! (Ferran) CN Sabadell F-CN Terrassa",
       "inici": "2026-11-10T19:45:00.000Z",
       "final": "2026-11-10T20:45:00.000Z",
       "totElDia": false,
@@ -84,5 +84,5 @@
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-10T12:48:18.373Z"
+  "actualizado": "2026-11-10T13:55:42.651Z"
 }

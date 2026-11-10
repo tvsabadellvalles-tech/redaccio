@@ -1,90 +1,6 @@
 {
   "eventos": [
     {
-      "id": "145c87419452daba",
-      "t": "2026-10-28T19:12:54.677Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Successos, Política local, Economia i ocupació, Salut, Esports.",
-      "itemId": "4a316b6bd3c85b05"
-    },
-    {
-      "id": "8555e07eee320814",
-      "t": "2026-10-28T19:12:54.678Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "4a316b6bd3c85b05"
-    },
-    {
-      "id": "b00e492880acd386",
-      "t": "2026-10-28T19:12:54.679Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): successos, política local, economia i ocupació, salut.",
-      "itemId": "4a316b6bd3c85b05"
-    },
-    {
-      "id": "095da705ef64bbf8",
-      "t": "2026-10-28T19:12:54.680Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El Sabadell, concentrat a València per preparar el partit de lliga a Albacete» (Ràdio Sabadell).",
-      "itemId": "724857ba67651169"
-    },
-    {
-      "id": "945c43574c55f04f",
-      "t": "2026-10-28T19:12:54.681Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Salut, Esports.",
-      "itemId": "724857ba67651169"
-    },
-    {
-      "id": "28f144e0800f69c8",
-      "t": "2026-10-28T19:12:54.682Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Sentmenat guarda un minut de silenci en record de les víctimes de l’accident ferroviari de Toledo» (Ajuntament de Sentmenat).",
-      "itemId": "11cb84d888628774"
-    },
-    {
-      "id": "5458786d1fa604ec",
-      "t": "2026-10-28T19:12:54.683Z",
-      "agente": "deduplicador",
-      "texto": "Descartada perquè és duplicada: coincideix amb «Sabadell guarda un minut de silenci per les víctimes de l’accident ferroviari de Toledo» (Ràdio Sabadell).",
-      "itemId": "11cb84d888628774"
-    },
-    {
-      "id": "07223839c6a2478d",
-      "t": "2026-10-28T19:15:24.600Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Sabadell guarda un minut de silenci per les víctimes de l’accident ferroviari de Toledo» (Ràdio Sabadell).",
-      "itemId": "cb2e503c05111f15"
-    },
-    {
-      "id": "ead3a9299223b378",
-      "t": "2026-10-28T19:15:24.601Z",
-      "agente": "deduplicador",
-      "texto": "Descartada perquè és duplicada: coincideix amb «Sabadell guarda un minut de silenci per les víctimes de l’accident ferroviari de Toledo» (Ràdio Sabadell).",
-      "itemId": "cb2e503c05111f15"
-    },
-    {
-      "id": "bf7c4b080800139e",
-      "t": "2026-10-28T19:26:37.581Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Camí del milió d'habitants: quins reptes implica el creixement demogràfic al Vallès Occidental?» (Diari de Sabadell).",
-      "itemId": "98105d1b7e6e9906"
-    },
-    {
-      "id": "4cb7cd919f719e2a",
-      "t": "2026-11-01T10:03:00.640Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Sentmenat celebra una nova edició de la Festa Major d’Hivern en honor a Sant Menna» (Ajuntament de Sentmenat).",
-      "itemId": "b42e1bf37720f856"
-    },
-    {
-      "id": "c42c61ce2e36f0c1",
-      "t": "2026-11-01T10:03:00.641Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Esports, Cultura i festes.",
-      "itemId": "b42e1bf37720f856"
-    },
-    {
       "id": "7412d6437a8edb60",
       "t": "2026-11-01T10:03:00.642Z",
       "agente": "rastreador",
@@ -2799,7 +2715,91 @@
       "agente": "rastreador",
       "texto": "He recollit «L’Ajuntament mantindrà els serveis essencials i l’atenció a la ciutadania durant la jornada de vaga» (Ajuntament de Sant Quirze del Vallès).",
       "itemId": "e95e5592ad5586fa"
+    },
+    {
+      "id": "1694413776916693",
+      "t": "2026-11-10T13:55:07.135Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Genar debuta a Segona Divisió: \"Faig realitat un somni\"» (Ràdio Sabadell).",
+      "itemId": "50d546cfc824014e"
+    },
+    {
+      "id": "9e53e36cc58fcea8",
+      "t": "2026-11-10T13:55:07.136Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "50d546cfc824014e"
+    },
+    {
+      "id": "561c713776bb6e04",
+      "t": "2026-11-10T13:55:07.137Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Consulta els serveis mínims de l'11-N a Sabadell» (Ràdio Sabadell).",
+      "itemId": "1c9f90432741ffc4"
+    },
+    {
+      "id": "40bd455586c841b1",
+      "t": "2026-11-10T13:55:07.138Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Emergències, Mobilitat, Salut, Educació, Medi ambient.",
+      "itemId": "1c9f90432741ffc4"
+    },
+    {
+      "id": "7efa5c549c8a12d2",
+      "t": "2026-11-10T13:55:07.139Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "1c9f90432741ffc4"
+    },
+    {
+      "id": "a884af83028a442a",
+      "t": "2026-11-10T13:55:07.140Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): emergències, mobilitat, salut, educació, medi ambient.",
+      "itemId": "1c9f90432741ffc4"
+    },
+    {
+      "id": "01b2fd9179fe9a41",
+      "t": "2026-11-10T13:55:07.141Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La primera vaga general en 14 anys tindrà doble manifestació a Sabadell» (iSabadell).",
+      "itemId": "edae325c7d8bc3a2"
+    },
+    {
+      "id": "e47abfe7af89525e",
+      "t": "2026-11-10T13:55:07.142Z",
+      "agente": "rastreador",
+      "texto": "He recollit «S’inicia la reurbanització del tram lateral de la carretera de Barcelona» (Ajuntament de Barberà del Vallès).",
+      "itemId": "968ceb69fbe875d9"
+    },
+    {
+      "id": "b877584851c75757",
+      "t": "2026-11-10T13:55:07.143Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat, Política local, Obres i urbanisme.",
+      "itemId": "968ceb69fbe875d9"
+    },
+    {
+      "id": "02ffff386ea71184",
+      "t": "2026-11-10T13:55:07.144Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (5 punts): font oficial · mobilitat, política local, obres i urbanisme.",
+      "itemId": "968ceb69fbe875d9"
+    },
+    {
+      "id": "daf3d01d5e7da8c2",
+      "t": "2026-11-10T13:55:07.145Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Sabadell escalfa motors per a la vaga general de l'11-N» (Ràdio Sabadell).",
+      "itemId": "ec0d94a9273fcdc4"
+    },
+    {
+      "id": "45c11d0b0bddd81f",
+      "t": "2026-11-10T13:55:07.146Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L'encàrrec de Ferran Costa: \"Hem de ser ambiciosos, però també realistes\"» (Ràdio Sabadell).",
+      "itemId": "56ae611a03ade22b"
     }
   ],
-  "actualizado": "2026-11-10T12:48:00.344Z"
+  "actualizado": "2026-11-10T13:55:23.086Z"
 }
