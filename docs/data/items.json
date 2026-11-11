@@ -104,6 +104,27 @@
   },
   "items": [
     {
+      "id": "b2e99a7615c75306",
+      "titulo": "Palau al Dia - Notícies del 11/11/2026",
+      "enlace": "https://www.radiopalau.cat/podcasts/palau-al-dia/radiopalau_podcast_6831/",
+      "fuente": "radio-palau",
+      "fuenteNombre": "Ràdio Palau - Palau al Dia",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "palau",
+      "municipiosMencionados": [
+        "palau"
+      ],
+      "publicado": "2026-11-11T17:59:57.000Z",
+      "detectado": "2026-11-11T18:34:55.965Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "50a1c79215f564a6",
       "titulo": "El nou Esclat de Castellar entra en funcionament aquest mes",
       "enlace": "https://www.diaridesabadell.com/diners/obertura-esclat-castellar-del-valles.html",
@@ -846,5 +867,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-11T16:56:33.951Z"
+  "actualizado": "2026-11-11T18:35:10.244Z"
 }

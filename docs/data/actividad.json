@@ -1,13 +1,6 @@
 {
   "eventos": [
     {
-      "id": "9e62e66d69305c8f",
-      "t": "2026-11-08T09:56:37.808Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Diumenge amb retards a l'R1, R2, R2 Nord, R2 Sud, R4, R11 i Regionals Sud per una \"incidència operativa\"» (Agència Catalana de Notícies (ACN)).",
-      "itemId": "95a356ac9519b708"
-    },
-    {
       "id": "0d747eecc9e787cc",
       "t": "2026-11-08T09:56:37.809Z",
       "agente": "rastreador",
@@ -2799,7 +2792,14 @@
       "agente": "rastreador",
       "texto": "He recollit «El nou Esclat de Castellar entra en funcionament aquest mes» (Diari de Sabadell).",
       "itemId": "50a1c79215f564a6"
+    },
+    {
+      "id": "cc57bb0ec49aa198",
+      "t": "2026-11-11T18:34:55.967Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Palau al Dia - Notícies del 11/11/2026» (Ràdio Palau - Palau al Dia).",
+      "itemId": "b2e99a7615c75306"
     }
   ],
-  "actualizado": "2026-11-11T16:56:33.954Z"
+  "actualizado": "2026-11-11T18:35:10.248Z"
 }
