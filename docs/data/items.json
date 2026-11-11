@@ -104,6 +104,90 @@
   },
   "items": [
     {
+      "id": "cb1eaa21476a4560",
+      "titulo": "Castellar respon a la vaga",
+      "enlace": "https://www.lactual.cat/actualitat/castellar-respon-vaga_55353_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [
+        "castellar"
+      ],
+      "publicado": "2026-11-11T10:42:55.000Z",
+      "detectado": "2026-11-11T11:20:46.246Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "7d9a8332c2ebb8ee",
+      "titulo": "La tertúlia: la Vaga de l'11N",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-mati-tertulia-111126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-11T10:42:03.000Z",
+      "detectado": "2026-11-11T11:20:46.246Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "7bbf6d1916f10f6d",
+      "titulo": "Acció sorpresa del comitè de vaga de Castellar a la B-124",
+      "enlace": "https://www.lactual.cat/actualitat/accio-sorpresa-comite-vaga-castellar-b-124_55352_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [
+        "castellar"
+      ],
+      "publicado": "2026-11-11T10:41:44.000Z",
+      "detectado": "2026-11-11T09:26:19.514Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "dc61fec8c9500156",
+      "titulo": "El Centre d'Esports estrenarà els divendres aquesta temporada a Butarque",
+      "enlace": "https://radiosabadell.fm/esports/ce-sabadell/leganes-sabadell-hypermotion-j16-horari",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-11T10:38:53.000Z",
+      "detectado": "2026-11-11T11:20:46.246Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "eae5087cfa6ac03a",
       "titulo": "Piquets i accessos tallats a primera hora a la UAB i silenci posterior al campus",
       "enlace": "https://www.diaridesabadell.com/valles/cerdanyola/uab-talls-piquets-activitat-accessos.html",
@@ -191,27 +275,6 @@
       "motivos": [
         "mobilitat"
       ],
-      "duplicadaDe": null,
-      "propuesta": false
-    },
-    {
-      "id": "7bbf6d1916f10f6d",
-      "titulo": "Acció sorpresa del comitè de vaga de Castellar a la B-124",
-      "enlace": "https://www.lactual.cat/actualitat/accio-sorpresa-comite-vaga-castellar-b-124_55352_102.html",
-      "fuente": "ayto-castellar",
-      "fuenteNombre": "L'Actual - Castellar del Vallès",
-      "tipo": "medio",
-      "resumen": "",
-      "municipio": "castellar",
-      "municipiosMencionados": [
-        "castellar"
-      ],
-      "publicado": "2026-11-11T09:42:30.000Z",
-      "detectado": "2026-11-11T09:26:19.514Z",
-      "sensible": false,
-      "etiquetas": [],
-      "puntuacion": 0,
-      "motivos": [],
       "duplicadaDe": null,
       "propuesta": false
     },
@@ -377,5 +440,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-11T10:25:38.527Z"
+  "actualizado": "2026-11-11T11:20:59.938Z"
 }

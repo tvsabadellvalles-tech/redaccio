@@ -6,7 +6,7 @@
     },
     "radio-sabadell": {
       "ok": true,
-      "items": 1
+      "items": 3
     },
     "diari-sabadell": {
       "ok": true,
@@ -22,7 +22,7 @@
     },
     "ayto-castellar": {
       "ok": true,
-      "items": 1
+      "items": 2
     },
     "ayto-sentmenat": {
       "ok": true,
@@ -81,6 +81,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-11T10:25:18.936Z",
-  "actualizado": "2026-11-11T10:25:38.528Z"
+  "consultat": "2026-11-11T11:20:46.246Z",
+  "actualizado": "2026-11-11T11:20:59.940Z"
 }

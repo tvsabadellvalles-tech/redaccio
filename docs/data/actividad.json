@@ -1,34 +1,6 @@
 {
   "eventos": [
     {
-      "id": "234a21c59afd5635",
-      "t": "2026-11-07T12:36:07.713Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Successos.",
-      "itemId": "d66d1a536597f63e"
-    },
-    {
-      "id": "213dae19039b6abf",
-      "t": "2026-11-07T12:36:07.714Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "d66d1a536597f63e"
-    },
-    {
-      "id": "0aab83cd236731af",
-      "t": "2026-11-07T17:42:53.803Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Desmantellen un cultiu de marihuana en un pis de Cerdanyola» (iSabadell).",
-      "itemId": "7c83cb043b8f4e2e"
-    },
-    {
-      "id": "4734b3c8d8e679c8",
-      "t": "2026-11-07T17:42:53.804Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Successos, Obres i urbanisme.",
-      "itemId": "7c83cb043b8f4e2e"
-    },
-    {
       "id": "d149e00251d55fb8",
       "t": "2026-11-07T17:42:53.805Z",
       "agente": "vigilante",
@@ -2799,7 +2771,35 @@
       "agente": "mesa",
       "texto": "Proposo incloure-ho a l'escaleta (3 punts): mobilitat, educació.",
       "itemId": "eae5087cfa6ac03a"
+    },
+    {
+      "id": "93870dff4a67fa02",
+      "t": "2026-11-11T11:20:46.249Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El Centre d'Esports estrenarà els divendres aquesta temporada a Butarque» (Ràdio Sabadell).",
+      "itemId": "dc61fec8c9500156"
+    },
+    {
+      "id": "0b53313de81ece26",
+      "t": "2026-11-11T11:20:46.250Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "dc61fec8c9500156"
+    },
+    {
+      "id": "9ffd1d15f6e40150",
+      "t": "2026-11-11T11:20:46.251Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La tertúlia: la Vaga de l'11N» (Ràdio Sabadell).",
+      "itemId": "7d9a8332c2ebb8ee"
+    },
+    {
+      "id": "63f99c4e0a0770c3",
+      "t": "2026-11-11T11:20:46.252Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Castellar respon a la vaga» (L'Actual - Castellar del Vallès).",
+      "itemId": "cb1eaa21476a4560"
     }
   ],
-  "actualizado": "2026-11-11T10:25:38.530Z"
+  "actualizado": "2026-11-11T11:20:59.942Z"
 }
