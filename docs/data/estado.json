@@ -10,11 +10,11 @@
     },
     "diari-sabadell": {
       "ok": true,
-      "items": 3
+      "items": 6
     },
     "diari-terrassa": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "acn": {
       "ok": true,
@@ -81,6 +81,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-11T09:26:19.514Z",
-  "actualizado": "2026-11-11T09:26:36.373Z"
+  "consultat": "2026-11-11T10:25:18.936Z",
+  "actualizado": "2026-11-11T10:25:38.528Z"
 }

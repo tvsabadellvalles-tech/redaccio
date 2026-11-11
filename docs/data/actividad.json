@@ -1,69 +1,6 @@
 {
   "eventos": [
     {
-      "id": "a9e522ae32dda30d",
-      "t": "2026-11-07T10:56:07.636Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Economia i ocupació.",
-      "itemId": "5460c72549fcb185"
-    },
-    {
-      "id": "fbd7cabad121c5e5",
-      "t": "2026-11-07T11:06:07.634Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Una xarxa va guanyar més de 3 milions introduint immigrants de manera irregular a Catalunya» (Diari de Terrassa).",
-      "itemId": "f2133335726daddc"
-    },
-    {
-      "id": "0acab09788bc5ad4",
-      "t": "2026-11-07T11:06:07.635Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "f2133335726daddc"
-    },
-    {
-      "id": "b3e92aee2c1fafa3",
-      "t": "2026-11-07T11:56:07.684Z",
-      "agente": "rastreador",
-      "texto": "La font «Ajuntament de Badia del Vallès» no respon (fetch failed).",
-      "itemId": null
-    },
-    {
-      "id": "f9c650efaf07bc40",
-      "t": "2026-11-07T11:56:07.688Z",
-      "agente": "rastreador",
-      "texto": "He recollit «FOTOS | El Som Capaços 2026 arrenca amb 'Pinocho, el musical' per reivindicar la inclusió des de la infància» (Diari de Sabadell).",
-      "itemId": "00439e7d5d83b623"
-    },
-    {
-      "id": "3fee11eaec2dbceb",
-      "t": "2026-11-07T11:56:07.689Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El Llaminer ja té les seves postres» (Ràdio Sabadell).",
-      "itemId": "3a71e51969919f75"
-    },
-    {
-      "id": "62f583f7931ee95a",
-      "t": "2026-11-07T11:56:07.690Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "3a71e51969919f75"
-    },
-    {
-      "id": "1ee57ca492fea109",
-      "t": "2026-11-07T12:06:07.730Z",
-      "agente": "rastreador",
-      "texto": "La font «Ajuntament de Badia del Vallès» torna a respondre.",
-      "itemId": null
-    },
-    {
-      "id": "d6c6a3d5ac7eb4ee",
-      "t": "2026-11-07T12:36:07.712Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Cau una xarxa que facilitava l’entrada irregular d’immigrants pakistanesos» (iSabadell).",
-      "itemId": "d66d1a536597f63e"
-    },
-    {
       "id": "234a21c59afd5635",
       "t": "2026-11-07T12:36:07.713Z",
       "agente": "etiquetador",
@@ -2799,7 +2736,70 @@
       "agente": "rastreador",
       "texto": "He recollit «Desenes de vaguistes van al centre de Sabadell per fer piquets» (Agència Catalana de Notícies (ACN)).",
       "itemId": "1ceb70ecbf0ea099"
+    },
+    {
+      "id": "a047f4e1b66c68b7",
+      "t": "2026-11-11T10:25:18.936Z",
+      "agente": "rastreador",
+      "texto": "He recollit «VÍDEO | Trànsit al riu Ripoll per la vaga general: l'alternativa per entrar i sortir de Sabadell» (Diari de Sabadell).",
+      "itemId": "2904d60ca3c8b49f"
+    },
+    {
+      "id": "81402494a8139e14",
+      "t": "2026-11-11T10:25:18.937Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat.",
+      "itemId": "2904d60ca3c8b49f"
+    },
+    {
+      "id": "620a4e09f3bf0680",
+      "t": "2026-11-11T10:25:18.938Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La Cecot parla de \"normalitat\" als polígons, amb problemes \"puntuals\" de mobilitat i accés» (Diari de Terrassa).",
+      "itemId": "a4e5bef10d90b82e"
+    },
+    {
+      "id": "90b87cb3f5dbb91b",
+      "t": "2026-11-11T10:25:18.939Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat, Economia i ocupació.",
+      "itemId": "a4e5bef10d90b82e"
+    },
+    {
+      "id": "fcd977464f5072bc",
+      "t": "2026-11-11T10:25:18.940Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): mobilitat, economia i ocupació.",
+      "itemId": "a4e5bef10d90b82e"
+    },
+    {
+      "id": "33f6f957f3d510ce",
+      "t": "2026-11-11T10:25:18.941Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Les escoles de Sabadell es buiden per la vaga: \"Han vingut només 18 alumnes i menys de la meitat dels treballadors\"» (Diari de Sabadell).",
+      "itemId": "774cb2b81a089e17"
+    },
+    {
+      "id": "8f3d82b006a2e836",
+      "t": "2026-11-11T10:25:18.942Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Piquets i accessos tallats a primera hora a la UAB i silenci posterior al campus» (Diari de Sabadell).",
+      "itemId": "eae5087cfa6ac03a"
+    },
+    {
+      "id": "64f4405361d5671f",
+      "t": "2026-11-11T10:25:18.943Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat, Educació.",
+      "itemId": "eae5087cfa6ac03a"
+    },
+    {
+      "id": "96072b1226703fec",
+      "t": "2026-11-11T10:25:18.944Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): mobilitat, educació.",
+      "itemId": "eae5087cfa6ac03a"
     }
   ],
-  "actualizado": "2026-11-11T09:26:36.375Z"
+  "actualizado": "2026-11-11T10:25:38.530Z"
 }

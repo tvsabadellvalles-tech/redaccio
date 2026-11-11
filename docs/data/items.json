@@ -104,6 +104,51 @@
   },
   "items": [
     {
+      "id": "eae5087cfa6ac03a",
+      "titulo": "Piquets i accessos tallats a primera hora a la UAB i silenci posterior al campus",
+      "enlace": "https://www.diaridesabadell.com/valles/cerdanyola/uab-talls-piquets-activitat-accessos.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-11T09:59:09.000Z",
+      "detectado": "2026-11-11T10:25:18.936Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad",
+        "educacion"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "mobilitat, educació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "774cb2b81a089e17",
+      "titulo": "Les escoles de Sabadell es buiden per la vaga: \"Han vingut només 18 alumnes i menys de la meitat dels treballadors\"",
+      "enlace": "https://www.diaridesabadell.com/sabadell/escoles-sabadell-es-buiden-vaga-han-vingut-nomes-18-alumnes-menys-meitat-treballadors.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-11T09:57:49.000Z",
+      "detectado": "2026-11-11T10:25:18.936Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "1ceb70ecbf0ea099",
       "titulo": "Desenes de vaguistes van al centre de Sabadell per fer piquets",
       "enlace": "https://www.acn.cat/new/desenes-de-vaguistes-van-al-centre-de-sabadell-per-fer-piquets/texts",
@@ -115,7 +160,53 @@
       "municipiosMencionados": [
         "sabadell"
       ],
-      "publicado": "2026-11-11T09:18:22.714Z",
+      "publicado": "2026-11-11T09:50:54.528Z",
+      "detectado": "2026-11-11T09:26:19.514Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "2904d60ca3c8b49f",
+      "titulo": "VÍDEO | Trànsit al riu Ripoll per la vaga general: l'alternativa per entrar i sortir de Sabadell",
+      "enlace": "https://www.diaridesabadell.com/sabadell/video-collapse-riu-ripoll-vaga-general-carreteres-alternatives.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-11T09:50:04.000Z",
+      "detectado": "2026-11-11T10:25:18.936Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "mobilitat"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "7bbf6d1916f10f6d",
+      "titulo": "Acció sorpresa del comitè de vaga de Castellar a la B-124",
+      "enlace": "https://www.lactual.cat/actualitat/accio-sorpresa-comite-vaga-castellar-b-124_55352_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [
+        "castellar"
+      ],
+      "publicado": "2026-11-11T09:42:30.000Z",
       "detectado": "2026-11-11T09:26:19.514Z",
       "sensible": false,
       "etiquetas": [],
@@ -146,27 +237,6 @@
       "motivos": [
         "obres i urbanisme"
       ],
-      "duplicadaDe": null,
-      "propuesta": false
-    },
-    {
-      "id": "7bbf6d1916f10f6d",
-      "titulo": "Acció sorpresa del comitè de vaga de Castellar a la B-124",
-      "enlace": "https://www.lactual.cat/actualitat/accio-sorpresa-comite-vaga-castellar-b-124_55352_102.html",
-      "fuente": "ayto-castellar",
-      "fuenteNombre": "L'Actual - Castellar del Vallès",
-      "tipo": "medio",
-      "resumen": "",
-      "municipio": "castellar",
-      "municipiosMencionados": [
-        "castellar"
-      ],
-      "publicado": "2026-11-11T09:03:41.000Z",
-      "detectado": "2026-11-11T09:26:19.514Z",
-      "sensible": false,
-      "etiquetas": [],
-      "puntuacion": 0,
-      "motivos": [],
       "duplicadaDe": null,
       "propuesta": false
     },
@@ -307,5 +377,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-11T09:26:36.371Z"
+  "actualizado": "2026-11-11T10:25:38.527Z"
 }
