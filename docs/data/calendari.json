@@ -2,16 +2,9 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-11T22:51:33.619Z",
-  "total": 19,
+  "consultat": "2026-11-11T23:36:59.465Z",
+  "total": 20,
   "activitats": [
-    {
-      "titol": "PAULINO FESTA",
-      "inici": "2026-11-06T00:00:00.000Z",
-      "final": "2026-11-11T00:00:00.000Z",
-      "totElDia": true,
-      "color": null
-    },
     {
       "titol": "VAGA GENERAL",
       "inici": "2026-11-11T00:00:00.000Z",
@@ -20,38 +13,17 @@
       "color": null
     },
     {
-      "titol": "Pep i Joan entren (si els sindicats volen)",
-      "inici": "2026-11-11T07:30:00.000Z",
-      "final": "2026-11-11T08:00:00.000Z",
-      "totElDia": false,
+      "titol": "Peces vídeo notícies del Badalaboca i Comerç",
+      "inici": "2026-11-13T00:00:00.000Z",
+      "final": "2026-11-14T00:00:00.000Z",
+      "totElDia": true,
       "color": null
     },
     {
-      "titol": "Vaga Alcampo",
-      "inici": "2026-11-11T08:00:00.000Z",
-      "final": "2026-11-11T09:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "Espai Obert",
-      "inici": "2026-11-11T10:00:00.000Z",
-      "final": "2026-11-11T11:30:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "Reunió Va de moda (teams)",
-      "inici": "2026-11-11T11:00:00.000Z",
-      "final": "2026-11-11T12:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "L'Informatiu",
-      "inici": "2026-11-11T15:00:00.000Z",
-      "final": "2026-11-11T16:00:00.000Z",
-      "totElDia": false,
+      "titol": "PRÈVIA ÚLTIMES FUNCIONS SIRENETA",
+      "inici": "2026-11-13T00:00:00.000Z",
+      "final": "2026-11-14T00:00:00.000Z",
+      "totElDia": true,
       "color": null
     },
     {
@@ -62,14 +34,14 @@
       "color": null
     },
     {
-      "titol": "(Joan) Promo Albiol",
+      "titol": "(Joan) Prova directe Alo",
       "inici": "2026-11-12T10:00:00.000Z",
       "final": "2026-11-12T11:00:00.000Z",
       "totElDia": false,
       "color": null
     },
     {
-      "titol": "(Joan) Prova directe Alo",
+      "titol": "(Joan) Promo Albiol",
       "inici": "2026-11-12T10:00:00.000Z",
       "final": "2026-11-12T11:00:00.000Z",
       "totElDia": false,
@@ -118,14 +90,14 @@
       "color": null
     },
     {
-      "titol": "(Ferran) Presentació del Nadal a Sabadell",
+      "titol": "(Pep) Primera sessió de BATECS, Espai de diàlegs per transformar “Reflexió i anàlisi sobre Violència Vicària des de l’experiència”",
       "inici": "2026-11-12T17:00:00.000Z",
       "final": "2026-11-12T18:00:00.000Z",
       "totElDia": false,
       "color": null
     },
     {
-      "titol": "(Pep) Primera sessió de BATECS, Espai de diàlegs per transformar “Reflexió i anàlisi sobre Violència Vicària des de l’experiència”",
+      "titol": "(Ferran) Presentació del Nadal a Sabadell",
       "inici": "2026-11-12T17:00:00.000Z",
       "final": "2026-11-12T18:00:00.000Z",
       "totElDia": false,
@@ -137,8 +109,43 @@
       "final": "2026-11-12T19:00:00.000Z",
       "totElDia": false,
       "color": null
+    },
+    {
+      "titol": "Gravació La Mar de bé",
+      "inici": "2026-11-13T10:00:00.000Z",
+      "final": "2026-11-13T12:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "COTXE! (Paulino) Rdp Ferran Costa",
+      "inici": "2026-11-13T12:15:00.000Z",
+      "final": "2026-11-13T13:15:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "L'Informatiu",
+      "inici": "2026-11-13T14:45:00.000Z",
+      "final": "2026-11-13T15:45:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "Protagonistes Xavier Garcia Albiol",
+      "inici": "2026-11-13T16:00:00.000Z",
+      "final": "2026-11-13T17:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "CX - VIA 15 (ElPetit)",
+      "inici": "2026-11-13T17:00:00.000Z",
+      "final": "2026-11-13T18:00:00.000Z",
+      "totElDia": false,
+      "color": null
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-11T22:52:10.469Z"
+  "actualizado": "2026-11-11T23:37:35.572Z"
 }

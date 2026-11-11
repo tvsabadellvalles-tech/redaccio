@@ -1,13 +1,6 @@
 {
   "eventos": [
     {
-      "id": "93fd58b208659616",
-      "t": "2026-11-08T09:56:37.812Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat.",
-      "itemId": "6ffe1eec89669d01"
-    },
-    {
       "id": "a2755b574c7b1180",
       "t": "2026-11-08T09:56:37.813Z",
       "agente": "rastreador",
@@ -2799,7 +2792,14 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Obres i urbanisme.",
       "itemId": "05720273a6169bfe"
+    },
+    {
+      "id": "6a488b00f843116d",
+      "t": "2026-11-11T23:36:59.465Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Infopòdcast Sabadell 12.11.26» (Ràdio Sabadell).",
+      "itemId": "478cd7c828e77da8"
     }
   ],
-  "actualizado": "2026-11-11T19:36:38.086Z"
+  "actualizado": "2026-11-11T23:37:17.232Z"
 }
