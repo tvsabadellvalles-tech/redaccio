@@ -2,7 +2,7 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-11T03:18:41.646Z",
+  "consultat": "2026-11-11T04:17:00.647Z",
   "total": 17,
   "activitats": [
     {
@@ -104,14 +104,14 @@
       "color": null
     },
     {
-      "titol": "(Ferran) Presentació del Nadal a Sabadell",
+      "titol": "(Pep) Primera sessió de BATECS, Espai de diàlegs per transformar “Reflexió i anàlisi sobre Violència Vicària des de l’experiència”",
       "inici": "2026-11-12T17:00:00.000Z",
       "final": "2026-11-12T18:00:00.000Z",
       "totElDia": false,
       "color": null
     },
     {
-      "titol": "(Pep) Primera sessió de BATECS, Espai de diàlegs per transformar “Reflexió i anàlisi sobre Violència Vicària des de l’experiència”",
+      "titol": "(Ferran) Presentació del Nadal a Sabadell",
       "inici": "2026-11-12T17:00:00.000Z",
       "final": "2026-11-12T18:00:00.000Z",
       "totElDia": false,
@@ -126,5 +126,5 @@
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-11T03:19:31.770Z"
+  "actualizado": "2026-11-11T04:17:33.875Z"
 }
