@@ -104,6 +104,74 @@
   },
   "items": [
     {
+      "id": "42903dd9c49e6849",
+      "titulo": "La vaga general té un \"seguiment desigual\" als centres d'atenció primària i conviu amb l'aturada indefinida dels facultatius",
+      "enlace": "https://www.diaridesabadell.com/sabadell/la-vaga-sanitaria-te-un-seguiment-desigual-als-centres-datencio-primaria.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-11T15:35:47.000Z",
+      "detectado": "2026-11-11T16:04:47.451Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "7e92c1d6f06b368c",
+      "titulo": "Montserrat Baré, CAP Creu Alta: “La meva essència és fer de metge i ser útil a la societat”",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/montserrat-bare-cap-creu-alta-meva-essencia-fer-metge-util",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-11T15:24:15.000Z",
+      "detectado": "2026-11-11T16:04:47.451Z",
+      "sensible": false,
+      "etiquetas": [
+        "emergencias",
+        "salud"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "emergències, salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "31d4c566e0027d3f",
+      "titulo": "Adeu a l'històric membre del CEC Josep Sors Badia",
+      "enlace": "https://www.lactual.cat/actualitat/adeu-historic-membre-cec-josep-sors-badia_55355_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-11T15:22:01.000Z",
+      "detectado": "2026-11-11T16:04:47.451Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "41bfeb749e26e4b3",
       "titulo": "Manifestació multitudinària per la vaga general",
       "enlace": "https://www.isabadell.cat/societat/manifestacio-multitudinaria-per-la-vaga-general-340575/",
@@ -732,5 +800,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-11T15:16:03.906Z"
+  "actualizado": "2026-11-11T16:05:03.944Z"
 }

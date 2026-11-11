@@ -1,48 +1,6 @@
 {
   "eventos": [
     {
-      "id": "d249ca077c2ca4f8",
-      "t": "2026-11-08T07:37:45.088Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "1a602e738b56c872"
-    },
-    {
-      "id": "73993a4a6f005c6a",
-      "t": "2026-11-08T07:37:45.089Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): successos, economia i ocupació.",
-      "itemId": "1a602e738b56c872"
-    },
-    {
-      "id": "8de05f4747902e57",
-      "t": "2026-11-08T07:37:45.090Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La major catàstrofe ferroviària de la història de Sabadell (1920)» (iSabadell).",
-      "itemId": "c08e27712788b2c8"
-    },
-    {
-      "id": "e52cbead06cfd197",
-      "t": "2026-11-08T07:37:45.091Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat, Economia i ocupació.",
-      "itemId": "c08e27712788b2c8"
-    },
-    {
-      "id": "5bfd9bf5c830db4c",
-      "t": "2026-11-08T07:37:45.092Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): mobilitat, economia i ocupació.",
-      "itemId": "c08e27712788b2c8"
-    },
-    {
-      "id": "d264cbb89216fb1d",
-      "t": "2026-11-08T08:24:52.784Z",
-      "agente": "rastreador",
-      "texto": "He recollit «‘Acte cancel·lat’, per Surroca (8/11/26)» (iSabadell).",
-      "itemId": "a5fe31b15110e25d"
-    },
-    {
       "id": "c1d08820e1b732b3",
       "t": "2026-11-08T09:13:51.955Z",
       "agente": "rastreador",
@@ -2799,7 +2757,49 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Economia i ocupació.",
       "itemId": "b729a6f6409f6709"
+    },
+    {
+      "id": "ec97d67e17e4b1a3",
+      "t": "2026-11-11T16:04:47.453Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Adeu a l'històric membre del CEC Josep Sors Badia» (L'Actual - Castellar del Vallès).",
+      "itemId": "31d4c566e0027d3f"
+    },
+    {
+      "id": "45c27c04d42e49d1",
+      "t": "2026-11-11T16:04:47.454Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Montserrat Baré, CAP Creu Alta: “La meva essència és fer de metge i ser útil a la societat”» (Ràdio Sabadell).",
+      "itemId": "7e92c1d6f06b368c"
+    },
+    {
+      "id": "7d69e31db8b8dea3",
+      "t": "2026-11-11T16:04:47.455Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Emergències, Salut.",
+      "itemId": "7e92c1d6f06b368c"
+    },
+    {
+      "id": "46c7918a5177c247",
+      "t": "2026-11-11T16:04:47.456Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): emergències, salut.",
+      "itemId": "7e92c1d6f06b368c"
+    },
+    {
+      "id": "4a783330c5bb08a9",
+      "t": "2026-11-11T16:04:47.457Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La vaga general té un \"seguiment desigual\" als centres d'atenció primària i conviu amb l'aturada indefinida dels facultatius» (Diari de Sabadell).",
+      "itemId": "42903dd9c49e6849"
+    },
+    {
+      "id": "ecb10754694a4187",
+      "t": "2026-11-11T16:04:47.458Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local.",
+      "itemId": "42903dd9c49e6849"
     }
   ],
-  "actualizado": "2026-11-11T15:16:03.909Z"
+  "actualizado": "2026-11-11T16:05:03.947Z"
 }
