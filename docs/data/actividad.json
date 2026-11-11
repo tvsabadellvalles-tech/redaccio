@@ -1,27 +1,6 @@
 {
   "eventos": [
     {
-      "id": "0d747eecc9e787cc",
-      "t": "2026-11-08T09:56:37.809Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Retards a l'R4 de Rodalies per una “incidència operativa”» (Ràdio Sabadell).",
-      "itemId": "7883686515be4842"
-    },
-    {
-      "id": "dfddd2384751626e",
-      "t": "2026-11-08T09:56:37.810Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat.",
-      "itemId": "7883686515be4842"
-    },
-    {
-      "id": "b2f3a9e70786d7b1",
-      "t": "2026-11-08T09:56:37.811Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Retards a l'R4 de Renfe a Terrassa per una \"incidència operativa\"» (Diari de Terrassa).",
-      "itemId": "6ffe1eec89669d01"
-    },
-    {
       "id": "93fd58b208659616",
       "t": "2026-11-08T09:56:37.812Z",
       "agente": "etiquetador",
@@ -2799,7 +2778,28 @@
       "agente": "rastreador",
       "texto": "He recollit «Palau al Dia - Notícies del 11/11/2026» (Ràdio Palau - Palau al Dia).",
       "itemId": "b2e99a7615c75306"
+    },
+    {
+      "id": "c3ca124d92ae896b",
+      "t": "2026-11-11T19:36:16.661Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Continua la velocitat de creuer al CE Sant Nicolau: nova victòria a casa i assalt al lideratge de Super Copa» (Diari de Sabadell).",
+      "itemId": "c24a192da22fa3ca"
+    },
+    {
+      "id": "d67a61bcc402c448",
+      "t": "2026-11-11T19:36:16.662Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Comencen les obres de renovació del Paddock» (Diari de Sabadell).",
+      "itemId": "05720273a6169bfe"
+    },
+    {
+      "id": "073d24425e9bdf65",
+      "t": "2026-11-11T19:36:16.663Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Obres i urbanisme.",
+      "itemId": "05720273a6169bfe"
     }
   ],
-  "actualizado": "2026-11-11T18:35:10.248Z"
+  "actualizado": "2026-11-11T19:36:38.086Z"
 }
