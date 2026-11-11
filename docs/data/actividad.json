@@ -1,20 +1,6 @@
 {
   "eventos": [
     {
-      "id": "a23a5f0f8399d85a",
-      "t": "2026-11-07T09:18:33.321Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Sabadell-Real Sociedad 'B': per Jesús de Miguel» (Ràdio Sabadell).",
-      "itemId": "f21bb6e28a172b06"
-    },
-    {
-      "id": "309c182b86d0d831",
-      "t": "2026-11-07T09:18:33.322Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Salut, Medi ambient, Esports, Cultura i festes.",
-      "itemId": "f21bb6e28a172b06"
-    },
-    {
       "id": "cc3af68dda0d0e26",
       "t": "2026-11-07T10:26:07.579Z",
       "agente": "rastreador",
@@ -2799,7 +2785,21 @@
       "agente": "mesa",
       "texto": "Proposo incloure-ho a l'escaleta (4 punts): emergències, obres i urbanisme.",
       "itemId": "67f7d5bd169f1e38"
+    },
+    {
+      "id": "5105ac245ccd0e3c",
+      "t": "2026-11-11T08:29:45.209Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La vaga general col·lapsa la mobilitat al Vallès: carreteres tallades i retards a la xarxa ferroviària» (Diari de Sabadell).",
+      "itemId": "12f6ce451441df33"
+    },
+    {
+      "id": "a4f29a94ae01cf35",
+      "t": "2026-11-11T08:29:45.210Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat.",
+      "itemId": "12f6ce451441df33"
     }
   ],
-  "actualizado": "2026-11-11T07:27:25.004Z"
+  "actualizado": "2026-11-11T08:30:00.131Z"
 }

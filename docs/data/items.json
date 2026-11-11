@@ -104,6 +104,29 @@
   },
   "items": [
     {
+      "id": "12f6ce451441df33",
+      "titulo": "La vaga general col·lapsa la mobilitat al Vallès: carreteres tallades i retards a la xarxa ferroviària",
+      "enlace": "https://www.diaridesabadell.com/sabadell/vaga-genera-carreteres-tallades.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-11T08:07:29.000Z",
+      "detectado": "2026-11-11T08:29:45.209Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "mobilitat"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "67f7d5bd169f1e38",
       "titulo": "‘Fons voltors, portes giràtories… qui s’està enriquint amb l’habitatge?’",
       "enlace": "https://www.isabadell.cat/opinio/fons-voltors-portes-giratories-qui-sesta-enriquint-amb-lhabitatge-340420/",
@@ -193,5 +216,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-11T07:27:25.001Z"
+  "actualizado": "2026-11-11T08:30:00.127Z"
 }
