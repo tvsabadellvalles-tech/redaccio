@@ -149,6 +149,29 @@
       "propuesta": false
     },
     {
+      "id": "b729a6f6409f6709",
+      "titulo": "Xifres desiguals sobre el seguiment de la vaga a les empreses del Vallès",
+      "enlace": "https://www.diaridesabadell.com/diners/imapcte-emrpeses-vaga-general-11-novembre.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-11T13:25:37.000Z",
+      "detectado": "2026-11-11T15:15:46.715Z",
+      "sensible": false,
+      "etiquetas": [
+        "economia"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "economia i ocupació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "b8a36e5dff272d49",
       "titulo": "La indústria qualifica el dia “de normal” en la vaga de l’11-N",
       "enlace": "https://radiosabadell.fm/actualitat/economia/la-industria-qualifica-el-dia-de-normal-en-la-vaga-de-l11-n",
@@ -709,5 +732,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-11T14:29:03.157Z"
+  "actualizado": "2026-11-11T15:16:03.906Z"
 }

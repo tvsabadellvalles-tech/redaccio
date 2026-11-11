@@ -2,8 +2,8 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-11T14:28:43.945Z",
-  "total": 16,
+  "consultat": "2026-11-11T15:15:46.715Z",
+  "total": 19,
   "activitats": [
     {
       "titol": "PAULINO FESTA",
@@ -55,7 +55,28 @@
       "color": null
     },
     {
+      "titol": "(Joan) Promo directe Nadal",
+      "inici": "2026-11-12T09:00:00.000Z",
+      "final": "2026-11-12T10:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "(Joan) Prova directe Alo",
+      "inici": "2026-11-12T10:00:00.000Z",
+      "final": "2026-11-12T11:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
       "titol": "(JM) Publi Vitalia",
+      "inici": "2026-11-12T10:00:00.000Z",
+      "final": "2026-11-12T11:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "(Joan) Promo Albiol",
       "inici": "2026-11-12T10:00:00.000Z",
       "final": "2026-11-12T11:00:00.000Z",
       "totElDia": false,
@@ -97,14 +118,14 @@
       "color": null
     },
     {
-      "titol": "(Pep) Primera sessió de BATECS, Espai de diàlegs per transformar “Reflexió i anàlisi sobre Violència Vicària des de l’experiència”",
+      "titol": "(Ferran) Presentació del Nadal a Sabadell",
       "inici": "2026-11-12T17:00:00.000Z",
       "final": "2026-11-12T18:00:00.000Z",
       "totElDia": false,
       "color": null
     },
     {
-      "titol": "(Ferran) Presentació del Nadal a Sabadell",
+      "titol": "(Pep) Primera sessió de BATECS, Espai de diàlegs per transformar “Reflexió i anàlisi sobre Violència Vicària des de l’experiència”",
       "inici": "2026-11-12T17:00:00.000Z",
       "final": "2026-11-12T18:00:00.000Z",
       "totElDia": false,
@@ -119,5 +140,5 @@
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-11T14:29:22.930Z"
+  "actualizado": "2026-11-11T15:16:40.967Z"
 }

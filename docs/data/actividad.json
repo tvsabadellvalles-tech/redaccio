@@ -1,20 +1,6 @@
 {
   "eventos": [
     {
-      "id": "9daeac58253f01e3",
-      "t": "2026-11-08T07:37:45.086Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Cop a una xarxa criminal que introduïa irregularment immigrants pakistanesos» (Ràdio Sabadell).",
-      "itemId": "1a602e738b56c872"
-    },
-    {
-      "id": "6f9a8e02bdb8ed96",
-      "t": "2026-11-08T07:37:45.087Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Successos, Economia i ocupació.",
-      "itemId": "1a602e738b56c872"
-    },
-    {
       "id": "d249ca077c2ca4f8",
       "t": "2026-11-08T07:37:45.088Z",
       "agente": "vigilante",
@@ -2799,7 +2785,21 @@
       "agente": "mesa",
       "texto": "Proposo incloure-ho a l'escaleta (3 punts): successos, salut.",
       "itemId": "41bfeb749e26e4b3"
+    },
+    {
+      "id": "59c344dd852afcd9",
+      "t": "2026-11-11T15:15:46.717Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Xifres desiguals sobre el seguiment de la vaga a les empreses del Vallès» (Diari de Sabadell).",
+      "itemId": "b729a6f6409f6709"
+    },
+    {
+      "id": "1488404bf4c551f9",
+      "t": "2026-11-11T15:15:46.718Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Economia i ocupació.",
+      "itemId": "b729a6f6409f6709"
     }
   ],
-  "actualizado": "2026-11-11T14:29:03.162Z"
+  "actualizado": "2026-11-11T15:16:03.909Z"
 }
