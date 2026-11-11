@@ -104,6 +104,51 @@
   },
   "items": [
     {
+      "id": "41bfeb749e26e4b3",
+      "titulo": "Manifestació multitudinària per la vaga general",
+      "enlace": "https://www.isabadell.cat/societat/manifestacio-multitudinaria-per-la-vaga-general-340575/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-11T14:28:21.000Z",
+      "detectado": "2026-11-11T14:28:43.945Z",
+      "sensible": false,
+      "etiquetas": [
+        "sucesos",
+        "salud"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "successos, salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "3120e4ad40c06a7b",
+      "titulo": "Ampli seguiment de la manifestació per la vaga general de l'11-N",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-migdia-vaga-general-111126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-11T13:26:56.000Z",
+      "detectado": "2026-11-11T14:28:43.945Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "b8a36e5dff272d49",
       "titulo": "La indústria qualifica el dia “de normal” en la vaga de l’11-N",
       "enlace": "https://radiosabadell.fm/actualitat/economia/la-industria-qualifica-el-dia-de-normal-en-la-vaga-de-l11-n",
@@ -664,5 +709,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-11T13:23:49.977Z"
+  "actualizado": "2026-11-11T14:29:03.157Z"
 }
