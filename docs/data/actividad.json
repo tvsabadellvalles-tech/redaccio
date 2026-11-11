@@ -1,34 +1,6 @@
 {
   "eventos": [
     {
-      "id": "45bc8613d14b0c91",
-      "t": "2026-11-07T09:18:33.317Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "80984697a23e51a3"
-    },
-    {
-      "id": "49c3468ef53384c5",
-      "t": "2026-11-07T09:18:33.318Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Trobar la primera feina continua sent un repte» (Diari de Sabadell).",
-      "itemId": "53b39370ee3ba19f"
-    },
-    {
-      "id": "158c1d7a1c2eeb4b",
-      "t": "2026-11-07T09:18:33.319Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Economia i ocupació, Cultura i festes.",
-      "itemId": "53b39370ee3ba19f"
-    },
-    {
-      "id": "1f65fc24953efc5a",
-      "t": "2026-11-07T09:18:33.320Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Dissabte amb retards a l'R1, R2, R2 Nord, R2 Sud, R4 i Regionals Sud per una \"incidència operativa\"» (Agència Catalana de Notícies (ACN)).",
-      "itemId": "46fd85532b97a72e"
-    },
-    {
       "id": "a23a5f0f8399d85a",
       "t": "2026-11-07T09:18:33.321Z",
       "agente": "rastreador",
@@ -2799,7 +2771,35 @@
       "agente": "rastreador",
       "texto": "He recollit «Diverses carreteres tallades i accessos a polígons bloquejats pels piquets amb motiu de la vaga general» (Agència Catalana de Notícies (ACN)).",
       "itemId": "50bd6d7d3c941a24"
+    },
+    {
+      "id": "b363ac787254e5f3",
+      "t": "2026-11-11T07:27:07.854Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La vaga general de l’11-N, EN DIRECTE» (iSabadell).",
+      "itemId": "0b8b461a33cd406a"
+    },
+    {
+      "id": "b0f2c57b4c5ee07b",
+      "t": "2026-11-11T07:27:07.855Z",
+      "agente": "rastreador",
+      "texto": "He recollit «‘Fons voltors, portes giràtories… qui s’està enriquint amb l’habitatge?’» (iSabadell).",
+      "itemId": "67f7d5bd169f1e38"
+    },
+    {
+      "id": "75851a8b88d1db12",
+      "t": "2026-11-11T07:27:07.856Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Emergències, Obres i urbanisme.",
+      "itemId": "67f7d5bd169f1e38"
+    },
+    {
+      "id": "54ffc94219a41b5e",
+      "t": "2026-11-11T07:27:07.857Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): emergències, obres i urbanisme.",
+      "itemId": "67f7d5bd169f1e38"
     }
   ],
-  "actualizado": "2026-11-11T06:14:24.756Z"
+  "actualizado": "2026-11-11T07:27:25.004Z"
 }

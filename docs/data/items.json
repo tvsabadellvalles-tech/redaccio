@@ -104,6 +104,49 @@
   },
   "items": [
     {
+      "id": "67f7d5bd169f1e38",
+      "titulo": "‘Fons voltors, portes giràtories… qui s’està enriquint amb l’habitatge?’",
+      "enlace": "https://www.isabadell.cat/opinio/fons-voltors-portes-giratories-qui-sesta-enriquint-amb-lhabitatge-340420/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-11T07:00:00.000Z",
+      "detectado": "2026-11-11T07:27:07.854Z",
+      "sensible": false,
+      "etiquetas": [
+        "emergencias",
+        "urbanismo"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "emergències, obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "0b8b461a33cd406a",
+      "titulo": "La vaga general de l’11-N, EN DIRECTE",
+      "enlace": "https://www.isabadell.cat/societat/la-vaga-general-de-l11-n-en-directe-340479/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-11T06:34:41.000Z",
+      "detectado": "2026-11-11T07:27:07.854Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "9bac95ed873967e5",
       "titulo": "Infopòdcast Sabadell 11.11.26",
       "enlace": "https://radiosabadell.fm/alacarta/audio/infopodcast-sabadell-111126",
@@ -150,5 +193,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-11T06:14:24.753Z"
+  "actualizado": "2026-11-11T07:27:25.001Z"
 }
