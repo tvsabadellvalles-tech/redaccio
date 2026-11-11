@@ -1,34 +1,6 @@
 {
   "eventos": [
     {
-      "id": "ec663cee1a2170c8",
-      "t": "2026-11-07T09:18:33.313Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Successos.",
-      "itemId": "308ae8270d993737"
-    },
-    {
-      "id": "e32576e6ca0a8716",
-      "t": "2026-11-07T09:18:33.314Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "308ae8270d993737"
-    },
-    {
-      "id": "8e083b029f6d422b",
-      "t": "2026-11-07T09:18:33.315Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Detenen un menor vinculat als canals de Blocus i als saquejos a Barcelona» (iSabadell).",
-      "itemId": "80984697a23e51a3"
-    },
-    {
-      "id": "602a9839091eea6f",
-      "t": "2026-11-07T09:18:33.316Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Successos.",
-      "itemId": "80984697a23e51a3"
-    },
-    {
       "id": "45bc8613d14b0c91",
       "t": "2026-11-07T09:18:33.317Z",
       "agente": "vigilante",
@@ -2799,7 +2771,35 @@
       "agente": "rastreador",
       "texto": "La font «Ràdio Sabadell» no respon (The operation was aborted due to timeout).",
       "itemId": null
+    },
+    {
+      "id": "da57a27cbb9cee27",
+      "t": "2026-11-11T06:14:03.457Z",
+      "agente": "rastreador",
+      "texto": "La font «Ràdio Sabadell» torna a respondre.",
+      "itemId": null
+    },
+    {
+      "id": "73b9946a39f2feb3",
+      "t": "2026-11-11T06:14:03.458Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La vaga general de l'11-N, minut a minut» (Ràdio Sabadell).",
+      "itemId": "dfdc0411ebb6f0d5"
+    },
+    {
+      "id": "4f02384ea30f266f",
+      "t": "2026-11-11T06:14:03.459Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat.",
+      "itemId": "dfdc0411ebb6f0d5"
+    },
+    {
+      "id": "e96c1f4283dd8c92",
+      "t": "2026-11-11T06:14:03.460Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Diverses carreteres tallades i accessos a polígons bloquejats pels piquets amb motiu de la vaga general» (Agència Catalana de Notícies (ACN)).",
+      "itemId": "50bd6d7d3c941a24"
     }
   ],
-  "actualizado": "2026-11-11T05:16:52.052Z"
+  "actualizado": "2026-11-11T06:14:24.756Z"
 }
