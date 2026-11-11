@@ -1,34 +1,6 @@
 {
   "eventos": [
     {
-      "id": "c1d08820e1b732b3",
-      "t": "2026-11-08T09:13:51.955Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Diumenge amb retards a l'R1, R2 Sud, R4 i Regionals Sud per una \"incidència operativa\"» (Agència Catalana de Notícies (ACN)).",
-      "itemId": "95a356ac9519b708"
-    },
-    {
-      "id": "d19c475b3eec9ecd",
-      "t": "2026-11-08T09:56:37.805Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Quatre precedents a la Nova Creu Alta en què el Sabadell no va fer servir la primera equipació» (Ràdio Sabadell).",
-      "itemId": "599b3cbb93081f1d"
-    },
-    {
-      "id": "f60615080b8c76b8",
-      "t": "2026-11-08T09:56:37.806Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Salut, Medi ambient, Esports, Cultura i festes.",
-      "itemId": "599b3cbb93081f1d"
-    },
-    {
-      "id": "05b62e8272c7d5b2",
-      "t": "2026-11-08T09:56:37.807Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "599b3cbb93081f1d"
-    },
-    {
       "id": "9e62e66d69305c8f",
       "t": "2026-11-08T09:56:37.808Z",
       "agente": "rastreador",
@@ -2799,7 +2771,35 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Política local.",
       "itemId": "42903dd9c49e6849"
+    },
+    {
+      "id": "2654b57e63eb9ecc",
+      "t": "2026-11-11T16:56:17.578Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Els joves, sobre la crisi de l'habitatge: \"Tinc una puta merda de sou i no puc pagar un lloguer digne\"» (Diari de Sabadell).",
+      "itemId": "34ff90143fe06569"
+    },
+    {
+      "id": "dd76adeb250f7975",
+      "t": "2026-11-11T16:56:17.579Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Obres i urbanisme.",
+      "itemId": "34ff90143fe06569"
+    },
+    {
+      "id": "2e78ca64a6291f33",
+      "t": "2026-11-11T16:56:17.580Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "34ff90143fe06569"
+    },
+    {
+      "id": "4fdee9d71f4586f9",
+      "t": "2026-11-11T16:56:17.581Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El nou Esclat de Castellar entra en funcionament aquest mes» (Diari de Sabadell).",
+      "itemId": "50a1c79215f564a6"
     }
   ],
-  "actualizado": "2026-11-11T16:05:03.947Z"
+  "actualizado": "2026-11-11T16:56:33.954Z"
 }

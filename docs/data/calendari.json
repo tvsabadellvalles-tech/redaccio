@@ -2,7 +2,7 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-11T16:04:47.451Z",
+  "consultat": "2026-11-11T16:56:17.576Z",
   "total": 19,
   "activitats": [
     {
@@ -62,14 +62,14 @@
       "color": null
     },
     {
-      "titol": "(JM) Publi Vitalia",
+      "titol": "(Joan) Promo Albiol",
       "inici": "2026-11-12T10:00:00.000Z",
       "final": "2026-11-12T11:00:00.000Z",
       "totElDia": false,
       "color": null
     },
     {
-      "titol": "(Joan) Promo Albiol",
+      "titol": "(JM) Publi Vitalia",
       "inici": "2026-11-12T10:00:00.000Z",
       "final": "2026-11-12T11:00:00.000Z",
       "totElDia": false,
@@ -140,5 +140,5 @@
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-11T16:05:24.572Z"
+  "actualizado": "2026-11-11T16:56:53.372Z"
 }
