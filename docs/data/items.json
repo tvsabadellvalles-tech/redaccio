@@ -104,6 +104,105 @@
   },
   "items": [
     {
+      "id": "119b9700acec18bd",
+      "titulo": "Vaga general: així ha estat la manifestació de CCOO, UGT i moviment veïnal",
+      "enlace": "https://www.isabadell.cat/societat/vaga-general-aixi-ha-estat-la-manifestacio-de-ccoo-ugt-i-moviment-veinal-340516/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-11T11:59:18.000Z",
+      "detectado": "2026-11-11T12:14:01.677Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "9f4b4bf686a9e450",
+      "titulo": "VÍDEO | Concentració multitudinària a Sabadell per la vaga general de l'11N: \"Volem el que és nostre. Aigua, llum i sostre\"",
+      "enlace": "https://www.diaridesabadell.com/sabadell/concentracio-multitudinaria-sabadell-per-la-vaga-general-de-l11n.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-11T11:48:19.000Z",
+      "detectado": "2026-11-11T12:14:01.677Z",
+      "sensible": false,
+      "etiquetas": [
+        "urbanismo",
+        "medioambiente"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "obres i urbanisme, medi ambient"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "39c2c55adb776c98",
+      "titulo": "La manifestació de l'11-N concentra unes 10.000 persones, segons els convocants",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/manifestacio-11N-10000-persones-segons-convocants",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-11T11:10:08.000Z",
+      "detectado": "2026-11-11T12:14:01.677Z",
+      "sensible": false,
+      "etiquetas": [
+        "urbanismo"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "461b04f5c4fffd71",
+      "titulo": "Persianes amunt en plena jornada de vaga general: comerços que opten per obrir l’11 de novembre",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/persianes-amunt-vaga-general-comercos-obren-l11-sabadell",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-11T10:50:14.000Z",
+      "detectado": "2026-11-11T12:14:01.677Z",
+      "sensible": true,
+      "etiquetas": [
+        "sucesos",
+        "urbanismo",
+        "economia",
+        "salud",
+        "educacion"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "successos, obres i urbanisme, economia i ocupació, salut, educació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
       "id": "cb1eaa21476a4560",
       "titulo": "Castellar respon a la vaga",
       "enlace": "https://www.lactual.cat/actualitat/castellar-respon-vaga_55353_102.html",
@@ -440,5 +539,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-11T11:20:59.938Z"
+  "actualizado": "2026-11-11T12:14:18.720Z"
 }

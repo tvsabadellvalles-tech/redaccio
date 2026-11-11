@@ -1,69 +1,6 @@
 {
   "eventos": [
     {
-      "id": "d149e00251d55fb8",
-      "t": "2026-11-07T17:42:53.805Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "7c83cb043b8f4e2e"
-    },
-    {
-      "id": "4dd6454647033cb1",
-      "t": "2026-11-07T17:42:53.806Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): successos, obres i urbanisme.",
-      "itemId": "7c83cb043b8f4e2e"
-    },
-    {
-      "id": "39afa307ee5c6771",
-      "t": "2026-11-07T17:42:53.807Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Incendi al barri de La Creu Alta crema diverses motos» (iSabadell).",
-      "itemId": "14bfdbaab1d0d8d1"
-    },
-    {
-      "id": "640ea3e82362af70",
-      "t": "2026-11-07T17:42:53.808Z",
-      "agente": "deduplicador",
-      "texto": "Descartada perquè és duplicada: coincideix amb «Un incendi crema una dotzena de motos al barri de la Creu Alta» (Diari de Sabadell).",
-      "itemId": "14bfdbaab1d0d8d1"
-    },
-    {
-      "id": "28e22be0b0ec7502",
-      "t": "2026-11-07T17:42:53.809Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El pop pren el protagonisme a l’Eix Macià» (Ràdio Sabadell).",
-      "itemId": "2f0e721799642974"
-    },
-    {
-      "id": "96df45fd729cd836",
-      "t": "2026-11-07T17:42:53.810Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Salut, Cultura i festes.",
-      "itemId": "2f0e721799642974"
-    },
-    {
-      "id": "2e29e1467edbf2be",
-      "t": "2026-11-07T17:42:53.811Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Martí Gironell: \"Les remeieres eren temudes i rebutjades, però necessitades com l’aire”» (Diari de Sabadell).",
-      "itemId": "1d340799997a4ca4"
-    },
-    {
-      "id": "db651b91db9d079a",
-      "t": "2026-11-07T17:42:53.812Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Instal·len nous reductors de velocitat i passos de vianants elevats en una quarantena de carrers» (Diari de Sabadell).",
-      "itemId": "324b6d68d53ea35c"
-    },
-    {
-      "id": "fbb380e8f87d02ec",
-      "t": "2026-11-07T17:42:53.813Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Parlem d'Òpera 663: \"Anem a descobrir (LIV): Lalla Roukh\"» (Ràdio Sabadell).",
-      "itemId": "3a5b05836b4cb8fe"
-    },
-    {
       "id": "65c0ad1d0764161d",
       "t": "2026-11-07T18:29:01.117Z",
       "agente": "rastreador",
@@ -2799,7 +2736,70 @@
       "agente": "rastreador",
       "texto": "He recollit «Castellar respon a la vaga» (L'Actual - Castellar del Vallès).",
       "itemId": "cb1eaa21476a4560"
+    },
+    {
+      "id": "7dadf6438d3a66b4",
+      "t": "2026-11-11T12:14:01.680Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Persianes amunt en plena jornada de vaga general: comerços que opten per obrir l’11 de novembre» (Ràdio Sabadell).",
+      "itemId": "461b04f5c4fffd71"
+    },
+    {
+      "id": "940ab3c658c58ff8",
+      "t": "2026-11-11T12:14:01.681Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Successos, Obres i urbanisme, Economia i ocupació, Salut, Educació.",
+      "itemId": "461b04f5c4fffd71"
+    },
+    {
+      "id": "293c985a0190f650",
+      "t": "2026-11-11T12:14:01.682Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "461b04f5c4fffd71"
+    },
+    {
+      "id": "1bf0ec6e43d471e4",
+      "t": "2026-11-11T12:14:01.683Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): successos, obres i urbanisme, economia i ocupació, salut, educació.",
+      "itemId": "461b04f5c4fffd71"
+    },
+    {
+      "id": "ed41c4d860138716",
+      "t": "2026-11-11T12:14:01.684Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La manifestació de l'11-N concentra unes 10.000 persones, segons els convocants» (Ràdio Sabadell).",
+      "itemId": "39c2c55adb776c98"
+    },
+    {
+      "id": "128024dc03d2f955",
+      "t": "2026-11-11T12:14:01.685Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Obres i urbanisme.",
+      "itemId": "39c2c55adb776c98"
+    },
+    {
+      "id": "0a404ad61f476b02",
+      "t": "2026-11-11T12:14:01.686Z",
+      "agente": "rastreador",
+      "texto": "He recollit «VÍDEO | Concentració multitudinària a Sabadell per la vaga general de l'11N: \"Volem el que és nostre. Aigua, llum i sostre\"» (Diari de Sabadell).",
+      "itemId": "9f4b4bf686a9e450"
+    },
+    {
+      "id": "e808638d29a08b53",
+      "t": "2026-11-11T12:14:01.687Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Obres i urbanisme, Medi ambient.",
+      "itemId": "9f4b4bf686a9e450"
+    },
+    {
+      "id": "84a629ad08b1f97a",
+      "t": "2026-11-11T12:14:01.688Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Vaga general: així ha estat la manifestació de CCOO, UGT i moviment veïnal» (iSabadell).",
+      "itemId": "119b9700acec18bd"
     }
   ],
-  "actualizado": "2026-11-11T11:20:59.942Z"
+  "actualizado": "2026-11-11T12:14:18.723Z"
 }
