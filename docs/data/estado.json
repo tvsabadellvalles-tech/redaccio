@@ -14,7 +14,7 @@
     },
     "diari-terrassa": {
       "ok": true,
-      "items": 1
+      "items": 0
     },
     "acn": {
       "ok": true,
@@ -81,6 +81,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-11T19:36:16.659Z",
-  "actualizado": "2026-11-11T19:36:38.085Z"
+  "consultat": "2026-11-11T21:04:39.435Z",
+  "actualizado": "2026-11-11T21:04:55.235Z"
 }
