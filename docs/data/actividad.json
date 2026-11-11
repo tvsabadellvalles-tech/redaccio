@@ -1,55 +1,6 @@
 {
   "eventos": [
     {
-      "id": "cc3af68dda0d0e26",
-      "t": "2026-11-07T10:26:07.579Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Incendi a la Creu Alta amb una vintena de vehicles afectats» (Ràdio Sabadell).",
-      "itemId": "4de30f5f0801c169"
-    },
-    {
-      "id": "d5a8d5c89df178e8",
-      "t": "2026-11-07T10:26:07.580Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Emergències, Successos, Salut.",
-      "itemId": "4de30f5f0801c169"
-    },
-    {
-      "id": "d31d1b5ea0d809cb",
-      "t": "2026-11-07T10:26:07.581Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): emergències, successos, salut.",
-      "itemId": "4de30f5f0801c169"
-    },
-    {
-      "id": "5750530634d52145",
-      "t": "2026-11-07T10:26:07.582Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Un incendi crema una dotzena de motos al barri de la Creu Alta» (Diari de Sabadell).",
-      "itemId": "4638d842f9d92d51"
-    },
-    {
-      "id": "a25959d970a7d44e",
-      "t": "2026-11-07T10:26:07.583Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Emergències.",
-      "itemId": "4638d842f9d92d51"
-    },
-    {
-      "id": "ccfaf8e4985d3c1c",
-      "t": "2026-11-07T10:26:07.584Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): emergències.",
-      "itemId": "4638d842f9d92d51"
-    },
-    {
-      "id": "79cd5fe2f21f71b5",
-      "t": "2026-11-07T10:56:07.635Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Miquel Sàmper, conseller d'Empresa i Treball: “Terrassa hauria d’aspirar a tenir alguna minifàbrica de semiconductors”» (Diari de Terrassa).",
-      "itemId": "5460c72549fcb185"
-    },
-    {
       "id": "a9e522ae32dda30d",
       "t": "2026-11-07T10:56:07.636Z",
       "agente": "etiquetador",
@@ -2799,7 +2750,56 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Mobilitat.",
       "itemId": "12f6ce451441df33"
+    },
+    {
+      "id": "0eeb337c11738912",
+      "t": "2026-11-11T09:26:19.514Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El govern català celebra que els serveis mínims establerts per la vaga s'hagin complert» (Diari de Sabadell).",
+      "itemId": "33803555ca499f15"
+    },
+    {
+      "id": "cffdf77d52e82f50",
+      "t": "2026-11-11T09:26:19.515Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local, Economia i ocupació.",
+      "itemId": "33803555ca499f15"
+    },
+    {
+      "id": "a4021a9b3b4fad7a",
+      "t": "2026-11-11T09:26:19.516Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): política local, economia i ocupació.",
+      "itemId": "33803555ca499f15"
+    },
+    {
+      "id": "fcb3e89e001cbd66",
+      "t": "2026-11-11T09:26:19.517Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Acció sorpresa del comitè de vaga de Castellar a la B-124» (L'Actual - Castellar del Vallès).",
+      "itemId": "7bbf6d1916f10f6d"
+    },
+    {
+      "id": "5f042a30a1dfd31c",
+      "t": "2026-11-11T09:26:19.518Z",
+      "agente": "rastreador",
+      "texto": "He recollit «“Viure no és un delicte”: 300 persones participen en piquets als carrers de Sabadell per la vaga general» (Diari de Sabadell).",
+      "itemId": "90c7a5b2ae51fd03"
+    },
+    {
+      "id": "3270fa8eed62f460",
+      "t": "2026-11-11T09:26:19.519Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Obres i urbanisme.",
+      "itemId": "90c7a5b2ae51fd03"
+    },
+    {
+      "id": "02a758fac0d17c51",
+      "t": "2026-11-11T09:26:19.520Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Desenes de vaguistes van al centre de Sabadell per fer piquets» (Agència Catalana de Notícies (ACN)).",
+      "itemId": "1ceb70ecbf0ea099"
     }
   ],
-  "actualizado": "2026-11-11T08:30:00.131Z"
+  "actualizado": "2026-11-11T09:26:36.375Z"
 }

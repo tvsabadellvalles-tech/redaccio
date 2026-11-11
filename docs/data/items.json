@@ -104,6 +104,97 @@
   },
   "items": [
     {
+      "id": "1ceb70ecbf0ea099",
+      "titulo": "Desenes de vaguistes van al centre de Sabadell per fer piquets",
+      "enlace": "https://www.acn.cat/new/desenes-de-vaguistes-van-al-centre-de-sabadell-per-fer-piquets/texts",
+      "fuente": "acn",
+      "fuenteNombre": "Agència Catalana de Notícies (ACN)",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-11T09:18:22.714Z",
+      "detectado": "2026-11-11T09:26:19.514Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "90c7a5b2ae51fd03",
+      "titulo": "“Viure no és un delicte”: 300 persones participen en piquets als carrers de Sabadell per la vaga general",
+      "enlace": "https://www.diaridesabadell.com/sabadell/carrers-sabadell-vaga-general-manifestacio.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-11T09:16:27.000Z",
+      "detectado": "2026-11-11T09:26:19.514Z",
+      "sensible": false,
+      "etiquetas": [
+        "urbanismo"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "7bbf6d1916f10f6d",
+      "titulo": "Acció sorpresa del comitè de vaga de Castellar a la B-124",
+      "enlace": "https://www.lactual.cat/actualitat/accio-sorpresa-comite-vaga-castellar-b-124_55352_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [
+        "castellar"
+      ],
+      "publicado": "2026-11-11T09:03:41.000Z",
+      "detectado": "2026-11-11T09:26:19.514Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "33803555ca499f15",
+      "titulo": "El govern català celebra que els serveis mínims establerts per la vaga s'hagin complert",
+      "enlace": "https://www.diaridesabadell.com/sabadell/generalitat-vaga-general-serveis-minims.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-11T09:01:19.000Z",
+      "detectado": "2026-11-11T09:26:19.514Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica",
+        "economia"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "política local, economia i ocupació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
       "id": "12f6ce451441df33",
       "titulo": "La vaga general col·lapsa la mobilitat al Vallès: carreteres tallades i retards a la xarxa ferroviària",
       "enlace": "https://www.diaridesabadell.com/sabadell/vaga-genera-carreteres-tallades.html",
@@ -216,5 +307,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-11T08:30:00.127Z"
+  "actualizado": "2026-11-11T09:26:36.371Z"
 }

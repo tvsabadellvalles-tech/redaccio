@@ -5,22 +5,22 @@
       "nom": "FGC Barcelona–Vallès",
       "enllac": "https://www.fgc.cat/adequacions-horaries/",
       "alternatiu": null,
-      "consultat": "2026-11-11T08:29:45.209Z",
-      "estat": "cap-avis-recent",
-      "detall": "Sense adequacions horàries."
+      "consultat": "2026-11-11T09:26:19.514Z",
+      "estat": "no-verificat",
+      "detall": "No s’ha pogut consultar la font oficial: The operation was aborted due to timeout"
     },
     {
       "id": "rodalies",
       "nom": "Rodalies R4 i R7",
       "enllac": "https://rodalies.gencat.cat/ca/alteracions_del_servei/",
       "alternatiu": null,
-      "consultat": "2026-11-11T08:29:45.209Z",
+      "consultat": "2026-11-11T09:26:19.514Z",
       "estat": "avis",
       "detall": "1 avís publicat avui a les línies R4 i R7.",
       "avisos": [
         {
-          "titol": "Amb motiu de les jornades de vaga convocades per als dies 11 i 12 de novembre, el servei de Rodalies de Catalunya es prestarà d'acord ",
-          "detall": "Amb motiu de les jornades de vaga convocades per als dies 11 i 12 de novembre, el servei de Rodalies de Catalunya es prestarà d'acord amb els serveis mínims establerts. Més informació a les estacions i a rodalies.gencat.cat",
+          "titol": "Amb motiu de la jornada de vaga general d'avui, el servei de Rodalies de Catalunya es prestarà d'acord amb els serveis mínims establer",
+          "detall": "Amb motiu de la jornada de vaga general d'avui, el servei de Rodalies de Catalunya es prestarà d'acord amb els serveis mínims establerts. Més informació a les estacions i a rodalies.gencat.cat",
           "publicat": "2026-11-11T05:14:00.000Z",
           "linies": [
             "R7",
@@ -51,10 +51,10 @@
       "nom": "Trànsit · Vallès Occidental",
       "enllac": "https://cit.transit.gencat.cat/",
       "alternatiu": null,
-      "consultat": "2026-11-11T08:29:45.209Z",
+      "consultat": "2026-11-11T09:26:19.514Z",
       "estat": "avis",
       "detall": "1 incidència d’avui a les carreteres seleccionades del Vallès Occidental, segons la llista actual de Trànsit.",
-      "actualitzat": "2026-11-11T08:29:02.000Z",
+      "actualitzat": "2026-11-11T09:26:04.000Z",
       "avisos": [
         {
           "titol": "Manifestació · Circulació amb retencions",
@@ -70,7 +70,7 @@
       "nom": "Meteocat · Vallès Occidental",
       "enllac": "https://www.meteo.cat/prediccio/general",
       "alternatiu": null,
-      "consultat": "2026-11-11T08:29:45.209Z",
+      "consultat": "2026-11-11T09:26:19.514Z",
       "estat": "previsio",
       "detall": "Sense avisos actius. Previsió de dimecres, 11 de novembre al Vallès Occidental: màxima 22°, mínima 12°. sol i núvols alts al matí · entre poc i mig ennuvolat a la tarda · Pluja matí: No se n’espera · tarda: Molt probable (>70%) · Actualitzada 10-11-2026 15:00:00.",
       "previsio": {
@@ -92,12 +92,12 @@
       "nom": "Emergències · Protecció Civil",
       "enllac": "https://interior.gencat.cat/ca/actualitat/",
       "alternatiu": "https://govern.cat/salapremsa/notes-premsa",
-      "consultat": "2026-11-11T08:29:45.209Z",
+      "consultat": "2026-11-11T09:26:19.514Z",
       "estat": "cap-avis-recent",
       "detall": "Cap alerta local no meteorològica identificada a les alertes destacades d’Interior.",
       "avisos": []
     }
   ],
-  "consultat": "2026-11-11T08:29:45.209Z",
-  "actualizado": "2026-11-11T08:30:00.767Z"
+  "consultat": "2026-11-11T09:26:19.514Z",
+  "actualizado": "2026-11-11T09:26:56.389Z"
 }
