@@ -1,104 +1,6 @@
 {
   "eventos": [
     {
-      "id": "65c0ad1d0764161d",
-      "t": "2026-11-07T18:29:01.117Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Sabadell restitueix la memòria de les víctimes del franquisme» (Ràdio Sabadell).",
-      "itemId": "a6b8bbf018142d37"
-    },
-    {
-      "id": "e65483bec4235270",
-      "t": "2026-11-07T18:29:01.118Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat, Política local, Salut, Esports.",
-      "itemId": "a6b8bbf018142d37"
-    },
-    {
-      "id": "f94c680c47bc27f0",
-      "t": "2026-11-07T18:29:01.119Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "a6b8bbf018142d37"
-    },
-    {
-      "id": "ce48780b66ad2635",
-      "t": "2026-11-07T18:29:01.120Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): mobilitat, política local, salut.",
-      "itemId": "a6b8bbf018142d37"
-    },
-    {
-      "id": "78bb436571c1b189",
-      "t": "2026-11-07T18:29:01.121Z",
-      "agente": "rastreador",
-      "texto": "He recollit «'Som la Ceba!' reivindica el joc compartit com a alternativa a les pantalles» (Diari de Sabadell).",
-      "itemId": "0033808de981a82e"
-    },
-    {
-      "id": "d152eb0602100e3c",
-      "t": "2026-11-07T18:29:01.122Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "0033808de981a82e"
-    },
-    {
-      "id": "982a81974d720026",
-      "t": "2026-11-07T18:45:04.615Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Sabadell restitueix la memòria de les víctimes del franquisme» (Ràdio Sabadell).",
-      "itemId": "c7d3f51c0d680bac"
-    },
-    {
-      "id": "8ade61f8995a7e3c",
-      "t": "2026-11-07T18:45:04.616Z",
-      "agente": "deduplicador",
-      "texto": "Descartada perquè és duplicada: coincideix amb «Sabadell restitueix la memòria de les víctimes del franquisme» (Ràdio Sabadell).",
-      "itemId": "c7d3f51c0d680bac"
-    },
-    {
-      "id": "e71eac67eacd48de",
-      "t": "2026-11-07T19:03:46.332Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Sabadell homenatja les víctimes dels judicis sumaríssims franquistes» (iSabadell).",
-      "itemId": "b04e2362382a5a44"
-    },
-    {
-      "id": "5b5822acdea1198e",
-      "t": "2026-11-07T19:03:46.333Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "b04e2362382a5a44"
-    },
-    {
-      "id": "e3ede1d2f9faa108",
-      "t": "2026-11-07T19:27:57.415Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Un Terrassa FC de dues cares guanya en el camp d'un Peña Sport que feia dos anys que no perdia a casa» (Diari de Terrassa).",
-      "itemId": "cc50e9d0be9897c5"
-    },
-    {
-      "id": "20ec970c474d4193",
-      "t": "2026-11-07T20:02:21.107Z",
-      "agente": "rastreador",
-      "texto": "He recollit «FOTOS | ExpoNadó omple Fira Sabadell de propostes i activitats per a les famílies» (Diari de Sabadell).",
-      "itemId": "815fc478f6cffd76"
-    },
-    {
-      "id": "fecd200b5ceebe15",
-      "t": "2026-11-07T20:02:21.108Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Salut, Cultura i festes.",
-      "itemId": "815fc478f6cffd76"
-    },
-    {
-      "id": "3b2e34849b3f3e2c",
-      "t": "2026-11-07T20:02:21.109Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "815fc478f6cffd76"
-    },
-    {
       "id": "0d00ed30284e7567",
       "t": "2026-11-07T21:13:14.602Z",
       "agente": "rastreador",
@@ -2799,7 +2701,105 @@
       "agente": "rastreador",
       "texto": "He recollit «Vaga general: així ha estat la manifestació de CCOO, UGT i moviment veïnal» (iSabadell).",
       "itemId": "119b9700acec18bd"
+    },
+    {
+      "id": "2e797a30445a4904",
+      "t": "2026-11-11T13:23:32.549Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Aixecats tots els talls a les carreteres del Vallès després d'un matí marcat per les aturades» (Diari de Sabadell).",
+      "itemId": "41edcaf1695f4630"
+    },
+    {
+      "id": "e9345fa1e6dad017",
+      "t": "2026-11-11T13:23:32.550Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat.",
+      "itemId": "41edcaf1695f4630"
+    },
+    {
+      "id": "f9861a353516d459",
+      "t": "2026-11-11T13:23:32.552Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat.",
+      "itemId": "a4e5bef10d90b82e"
+    },
+    {
+      "id": "d69541e0f5b4b325",
+      "t": "2026-11-11T13:23:32.553Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L'Ajuntament xifra en un 22% el seguiment de la vaga general als serveis municipals» (Ràdio Sabadell).",
+      "itemId": "aeb2c97c7b1e3029"
+    },
+    {
+      "id": "6f59bce8e15e981c",
+      "t": "2026-11-11T13:23:32.554Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat, Successos.",
+      "itemId": "aeb2c97c7b1e3029"
+    },
+    {
+      "id": "3986f4fc9b0fa03b",
+      "t": "2026-11-11T13:23:32.555Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): mobilitat, successos.",
+      "itemId": "aeb2c97c7b1e3029"
+    },
+    {
+      "id": "aea011412bc2754e",
+      "t": "2026-11-11T13:23:32.556Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Un accidentat matí per sortir de Castellar aquest 11-N» (Diari de Sabadell).",
+      "itemId": "9c052c3a77f6cb0a"
+    },
+    {
+      "id": "7ef9b19b18ef19b6",
+      "t": "2026-11-11T13:23:32.557Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Successos.",
+      "itemId": "9c052c3a77f6cb0a"
+    },
+    {
+      "id": "c5ce72197e580aec",
+      "t": "2026-11-11T13:23:32.558Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Semaf trasllada la vaga de Rodalies d'aquest dijous al dilluns 23 de novembre» (Diari de Sabadell).",
+      "itemId": "f34cabbbda872564"
+    },
+    {
+      "id": "c8c5ca1874be2d86",
+      "t": "2026-11-11T13:23:32.559Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat.",
+      "itemId": "f34cabbbda872564"
+    },
+    {
+      "id": "181009a131e8d98c",
+      "t": "2026-11-11T13:23:32.560Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La indústria qualifica el dia “de normal” en la vaga de l’11-N» (Ràdio Sabadell).",
+      "itemId": "b8a36e5dff272d49"
+    },
+    {
+      "id": "8fd48c7f92245afb",
+      "t": "2026-11-11T13:23:32.561Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat, Economia i ocupació, Salut.",
+      "itemId": "b8a36e5dff272d49"
+    },
+    {
+      "id": "6afcca4d6606aa76",
+      "t": "2026-11-11T13:23:32.562Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "b8a36e5dff272d49"
+    },
+    {
+      "id": "162e3a7c3a18da60",
+      "t": "2026-11-11T13:23:32.563Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): mobilitat, economia i ocupació, salut.",
+      "itemId": "b8a36e5dff272d49"
     }
   ],
-  "actualizado": "2026-11-11T12:14:18.723Z"
+  "actualizado": "2026-11-11T13:23:49.980Z"
 }

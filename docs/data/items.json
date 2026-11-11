@@ -104,6 +104,108 @@
   },
   "items": [
     {
+      "id": "b8a36e5dff272d49",
+      "titulo": "La indústria qualifica el dia “de normal” en la vaga de l’11-N",
+      "enlace": "https://radiosabadell.fm/actualitat/economia/la-industria-qualifica-el-dia-de-normal-en-la-vaga-de-l11-n",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell",
+        "castellar"
+      ],
+      "publicado": "2026-11-11T13:00:14.000Z",
+      "detectado": "2026-11-11T13:23:32.549Z",
+      "sensible": true,
+      "etiquetas": [
+        "movilidad",
+        "economia",
+        "salud"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "mobilitat, economia i ocupació, salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "f34cabbbda872564",
+      "titulo": "Semaf trasllada la vaga de Rodalies d'aquest dijous al dilluns 23 de novembre",
+      "enlace": "https://www.diaridesabadell.com/sabadell/semaf-trasllada-la-vaga-de-rodalies-daquest-dijous-al-dilluns-23-de-novembre.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-11T12:47:26.000Z",
+      "detectado": "2026-11-11T13:23:32.549Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "mobilitat"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "9c052c3a77f6cb0a",
+      "titulo": "Un accidentat matí per sortir de Castellar aquest 11-N",
+      "enlace": "https://www.diaridesabadell.com/valles/castellar/vaga-11n-mobilitat-afectacions-cronica.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "castellar"
+      ],
+      "publicado": "2026-11-11T12:32:29.000Z",
+      "detectado": "2026-11-11T13:23:32.549Z",
+      "sensible": false,
+      "etiquetas": [
+        "sucesos"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "successos"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "aeb2c97c7b1e3029",
+      "titulo": "L'Ajuntament xifra en un 22% el seguiment de la vaga general als serveis municipals",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/ajuntament-seguiment-vaga-general-personal-municipal",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-11T12:08:09.000Z",
+      "detectado": "2026-11-11T13:23:32.549Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad",
+        "sucesos"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "mobilitat, successos"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
       "id": "119b9700acec18bd",
       "titulo": "Vaga general: així ha estat la manifestació de CCOO, UGT i moviment veïnal",
       "enlace": "https://www.isabadell.cat/societat/vaga-general-aixi-ha-estat-la-manifestacio-de-ccoo-ugt-i-moviment-veinal-340516/",
@@ -450,6 +552,29 @@
       "propuesta": false
     },
     {
+      "id": "41edcaf1695f4630",
+      "titulo": "Aixecats tots els talls a les carreteres del Vallès després d'un matí marcat per les aturades",
+      "enlace": "https://www.diaridesabadell.com/valles/vaga-genera-carreteres-tallades.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-11T08:07:29.000Z",
+      "detectado": "2026-11-11T13:23:32.549Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "mobilitat"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "67f7d5bd169f1e38",
       "titulo": "‘Fons voltors, portes giràtories… qui s’està enriquint amb l’habitatge?’",
       "enlace": "https://www.isabadell.cat/opinio/fons-voltors-portes-giratories-qui-sesta-enriquint-amb-lhabitatge-340420/",
@@ -539,5 +664,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-11T12:14:18.720Z"
+  "actualizado": "2026-11-11T13:23:49.977Z"
 }
