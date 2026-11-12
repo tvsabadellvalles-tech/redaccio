@@ -1,34 +1,6 @@
 {
   "eventos": [
     {
-      "id": "4873cf2d6a6699d2",
-      "t": "2026-11-09T12:26:03.426Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Llum verda inicial al pressupost 2027 amb l'oposició en contra» (Ràdio Sabadell).",
-      "itemId": "062b295c350ce099"
-    },
-    {
-      "id": "c00de499503f55c2",
-      "t": "2026-11-09T12:26:03.427Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Successos, Política local, Obres i urbanisme, Salut, Educació, Medi ambient, Esports.",
-      "itemId": "062b295c350ce099"
-    },
-    {
-      "id": "53ffe4e83a833dc8",
-      "t": "2026-11-09T12:26:03.428Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "062b295c350ce099"
-    },
-    {
-      "id": "70c78483bb7472b0",
-      "t": "2026-11-09T12:26:03.429Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): successos, política local, obres i urbanisme, salut, educació, medi ambient.",
-      "itemId": "062b295c350ce099"
-    },
-    {
       "id": "29ea952486b914e8",
       "t": "2026-11-09T12:26:03.430Z",
       "agente": "rastreador",
@@ -2799,7 +2771,35 @@
       "agente": "rastreador",
       "texto": "He recollit «Comença la campanya electoral per a les eleccions generals del 29N» (Diari de Sabadell).",
       "itemId": "e24079a8321f2044"
+    },
+    {
+      "id": "cf32cb2dfd9faa3d",
+      "t": "2026-11-12T22:56:58.546Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Així ha arrencat la campanya de les generals a Sabadell» (iSabadell).",
+      "itemId": "d97ff5cbfcbfecc7"
+    },
+    {
+      "id": "7e2e23d660bfa2a8",
+      "t": "2026-11-12T22:56:58.547Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Compte enrere per a l'inici de la campanya electoral» (Ràdio Sabadell).",
+      "itemId": "9772139997cd64f2"
+    },
+    {
+      "id": "d58891675b7134ea",
+      "t": "2026-11-12T22:56:58.548Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat, Política local, Obres i urbanisme, Salut, Esports.",
+      "itemId": "9772139997cd64f2"
+    },
+    {
+      "id": "60d83e1dc81e7c70",
+      "t": "2026-11-12T22:56:58.549Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): mobilitat, política local, obres i urbanisme, salut.",
+      "itemId": "9772139997cd64f2"
     }
   ],
-  "actualizado": "2026-11-12T21:29:39.902Z"
+  "actualizado": "2026-11-12T22:57:28.809Z"
 }

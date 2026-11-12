@@ -104,6 +104,56 @@
   },
   "items": [
     {
+      "id": "9772139997cd64f2",
+      "titulo": "Compte enrere per a l'inici de la campanya electoral",
+      "enlace": "https://radiosabadell.fm/actualitat/politica/compte-enrere-inici-campanya-electoral-sabadell",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-12T22:32:14.000Z",
+      "detectado": "2026-11-12T22:56:58.546Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad",
+        "politica",
+        "urbanismo",
+        "salud",
+        "deportes"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "mobilitat, política local, obres i urbanisme, salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "d97ff5cbfcbfecc7",
+      "titulo": "Així ha arrencat la campanya de les generals a Sabadell",
+      "enlace": "https://www.isabadell.cat/politica/tret-sortida-campanya-electoral-340625/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-12T22:00:47.000Z",
+      "detectado": "2026-11-12T22:56:58.546Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "e24079a8321f2044",
       "titulo": "Comença la campanya electoral per a les eleccions generals del 29N",
       "enlace": "https://www.diaridesabadell.com/sabadell/comenca-campanya-electoral-eleccions-29n-sabadell.html",
@@ -1409,5 +1459,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-12T21:29:39.899Z"
+  "actualizado": "2026-11-12T22:57:28.806Z"
 }
