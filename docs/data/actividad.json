@@ -1,27 +1,6 @@
 {
   "eventos": [
     {
-      "id": "bcb3c4fa7877ac25",
-      "t": "2026-11-09T12:26:03.423Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Torna la Fira d’Ocupació ActiVallès: 25 empreses busquen treballadors a Terrassa» (Diari de Terrassa).",
-      "itemId": "85b51f0dbc2ebc10"
-    },
-    {
-      "id": "d46e230eef98ed40",
-      "t": "2026-11-09T12:26:03.424Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Economia i ocupació, Cultura i festes.",
-      "itemId": "85b51f0dbc2ebc10"
-    },
-    {
-      "id": "d4459ba2d3f71c17",
-      "t": "2026-11-09T12:26:03.425Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Joan Madaula, president CIPO: \"L'outlet és l'activitat que ens dona més fons\"» (Ràdio Sabadell).",
-      "itemId": "6ecf4bfb3372380d"
-    },
-    {
       "id": "4873cf2d6a6699d2",
       "t": "2026-11-09T12:26:03.426Z",
       "agente": "rastreador",
@@ -2799,7 +2778,28 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Successos.",
       "itemId": "239b3959dc798c60"
+    },
+    {
+      "id": "30e293e7bec6a416",
+      "t": "2026-11-12T21:29:03.950Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Sabadell recupera els espectacles amb aigua i música a les fonts del passeig de la Plaça Major per Nadal» (Agència Catalana de Notícies (ACN)).",
+      "itemId": "8e47c4506ac050d2"
+    },
+    {
+      "id": "301d84c6edafb605",
+      "t": "2026-11-12T21:29:03.951Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Medi ambient, Cultura i festes.",
+      "itemId": "8e47c4506ac050d2"
+    },
+    {
+      "id": "b9e266f2d6043ce7",
+      "t": "2026-11-12T21:29:03.952Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Comença la campanya electoral per a les eleccions generals del 29N» (Diari de Sabadell).",
+      "itemId": "e24079a8321f2044"
     }
   ],
-  "actualizado": "2026-11-12T19:58:42.763Z"
+  "actualizado": "2026-11-12T21:29:39.902Z"
 }

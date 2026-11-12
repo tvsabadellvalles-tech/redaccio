@@ -104,6 +104,25 @@
   },
   "items": [
     {
+      "id": "e24079a8321f2044",
+      "titulo": "Comença la campanya electoral per a les eleccions generals del 29N",
+      "enlace": "https://www.diaridesabadell.com/sabadell/comenca-campanya-electoral-eleccions-29n-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-12T20:21:53.000Z",
+      "detectado": "2026-11-12T21:29:03.949Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "239b3959dc798c60",
       "titulo": "Demanen col·laboració per localitzar una dona desapareguda a Sabadell",
       "enlace": "https://www.isabadell.cat/successos/collaboracio-localitzar-dona-desapareguda-340652/",
@@ -213,6 +232,32 @@
       "puntuacion": 1,
       "motivos": [
         "economia i ocupació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "8e47c4506ac050d2",
+      "titulo": "Sabadell recupera els espectacles amb aigua i música a les fonts del passeig de la Plaça Major per Nadal",
+      "enlace": "https://www.acn.cat/new/sabadell-recupera-els-espectacles-amb-aigua-i-musica-al-passeig-de-la-placa-major-per-nadal/texts",
+      "fuente": "acn",
+      "fuenteNombre": "Agència Catalana de Notícies (ACN)",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-12T18:00:00.000Z",
+      "detectado": "2026-11-12T21:29:03.949Z",
+      "sensible": false,
+      "etiquetas": [
+        "medioambiente",
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "medi ambient"
       ],
       "duplicadaDe": null,
       "propuesta": false
@@ -1364,5 +1409,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-12T19:58:42.760Z"
+  "actualizado": "2026-11-12T21:29:39.899Z"
 }
