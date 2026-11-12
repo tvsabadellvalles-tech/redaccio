@@ -104,6 +104,25 @@
   },
   "items": [
     {
+      "id": "41546022b1aacd5d",
+      "titulo": "Miquel Àngel Vicente, Cambra de la Propietat: \"Han destruït el mercat de lloguer\"",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-mati-cambra-propietat-vaga-general-121126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-12T11:43:11.000Z",
+      "detectado": "2026-11-12T12:26:10.115Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "3103799746dff761",
       "titulo": "Cerdanyola presentarà la programació de Nadal el 17 de novembre",
       "enlace": "http://www.cerdanyola.cat/actualitat/cerdanyola-presentara-la-programacio-de-nadal-el-17-de-novembre",
@@ -181,6 +200,32 @@
       ],
       "duplicadaDe": null,
       "propuesta": true
+    },
+    {
+      "id": "8ab81f561fa0c20d",
+      "titulo": "La Cambra de la Propietat qüestiona l'impacte de la vaga general: \"Només genera més crispació\"",
+      "enlace": "https://radiosabadell.fm/actualitat/economia/cambra-propietat-questiona-impacte-vaga-general",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-12T11:22:56.000Z",
+      "detectado": "2026-11-12T12:26:10.115Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica",
+        "urbanismo"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "política local, obres i urbanisme"
+      ],
+      "duplicadaDe": "ff3af15784a28ec5",
+      "propuesta": false
     },
     {
       "id": "43271215ee1b3ee9",
@@ -326,6 +371,33 @@
       "propuesta": false
     },
     {
+      "id": "cbbba3c5a87fccbc",
+      "titulo": "El desembre, bona música al Teatre Ateneu",
+      "enlace": "http://www.cerdanyola.cat/actualitat/el-desembre-bona-musica-al-teatre-ateneu",
+      "fuente": "ayto-cerdanyola",
+      "fuenteNombre": "Ajuntament de Cerdanyola del Vallès",
+      "tipo": "oficial",
+      "resumen": "El desembre, bona música al Teatre Ateneu Cerdanyola és una ciutat beneïda per la música. Solistes, grups, escoles, festivals i corals són la mostra d’una gran creativitat musical de les cerdanyolenques i els cerdanyolencs. La programació…",
+      "municipio": "cerdanyola",
+      "municipiosMencionados": [
+        "cerdanyola"
+      ],
+      "publicado": "2026-11-12T10:00:44.000Z",
+      "detectado": "2026-11-12T12:26:10.115Z",
+      "sensible": true,
+      "etiquetas": [
+        "salud",
+        "cultura"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "font oficial",
+        "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "b7592b72ba72b6b2",
       "titulo": "12 de novembre: Prealerta del Pla Bàsic d'Emergències Municipal per risc de vent",
       "enlace": "https://www.bdv.cat/noticies/12-de-novembre-prealerta-del-pla-basic-demergencies-municipal-risc-de-vent",
@@ -368,6 +440,51 @@
       "etiquetas": [],
       "puntuacion": 0,
       "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "9cf640648db05f26",
+      "titulo": "Ple extraordinari del 13 de novembre de 2026",
+      "enlace": "https://www.ripollet.cat/actualitat/noticies/ple-extraordinari-del-13-de-novembre-de-2026",
+      "fuente": "ayto-ripollet",
+      "fuenteNombre": "Ajuntament de Ripollet",
+      "tipo": "oficial",
+      "resumen": "Convocatòria i ordre del dia de la sessió extraordinària del Ple Municipal",
+      "municipio": "ripollet",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-12T09:00:00.000Z",
+      "detectado": "2026-11-12T12:26:10.115Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "font oficial",
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "1d71fd353f1b3348",
+      "titulo": "L’Ajuntament instal·la bucles auditius a diferents d’equipaments municipals",
+      "enlace": "https://www.ripollet.cat/actualitat/noticies/l2019ajuntament-instal-la-bucles-auditius-a-diferents-d2019equipaments-municipals",
+      "fuente": "ayto-ripollet",
+      "fuenteNombre": "Ajuntament de Ripollet",
+      "tipo": "oficial",
+      "resumen": "En total, s’instal·larà una desena d’aparells unipersonals fixes, tres bucles portàtils unipersonals i un de gran abast, per a actes amb públic, principalment, a equipaments culturals. Es tracta d’una iniciativa del departament de Drets…",
+      "municipio": "ripollet",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-12T08:50:00.000Z",
+      "detectado": "2026-11-12T12:26:10.115Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
       "duplicadaDe": null,
       "propuesta": false
     },
@@ -582,5 +699,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-12T11:44:04.781Z"
+  "actualizado": "2026-11-12T12:26:32.393Z"
 }

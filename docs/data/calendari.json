@@ -2,8 +2,8 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-12T11:43:44.964Z",
-  "total": 22,
+  "consultat": "2026-11-12T12:26:10.115Z",
+  "total": 23,
   "activitats": [
     {
       "titol": "VAGA GENERAL",
@@ -13,14 +13,14 @@
       "color": null
     },
     {
-      "titol": "PRÈVIA ÚLTIMES FUNCIONS SIRENETA",
+      "titol": "Peces vídeo notícies del Badalaboca i Comerç",
       "inici": "2026-11-13T00:00:00.000Z",
       "final": "2026-11-14T00:00:00.000Z",
       "totElDia": true,
       "color": null
     },
     {
-      "titol": "Peces vídeo notícies del Badalaboca i Comerç",
+      "titol": "PRÈVIA ÚLTIMES FUNCIONS SIRENETA",
       "inici": "2026-11-13T00:00:00.000Z",
       "final": "2026-11-14T00:00:00.000Z",
       "totElDia": true,
@@ -158,8 +158,15 @@
       "final": "2026-11-13T18:00:00.000Z",
       "totElDia": false,
       "color": null
+    },
+    {
+      "titol": "(Lorena) Decles amb Malapell pel VIA15",
+      "inici": "2026-11-13T18:00:00.000Z",
+      "final": "2026-11-13T19:00:00.000Z",
+      "totElDia": false,
+      "color": null
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-12T11:44:24.716Z"
+  "actualizado": "2026-11-12T12:26:50.428Z"
 }

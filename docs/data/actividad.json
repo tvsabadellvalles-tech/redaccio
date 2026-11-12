@@ -1,76 +1,6 @@
 {
   "eventos": [
     {
-      "id": "70e2d51616af4b1a",
-      "t": "2026-11-09T01:30:27.373Z",
-      "agente": "deduplicador",
-      "texto": "Descartada perquè és duplicada: coincideix amb «La història curiosa del Sabadell-Sanse: quan Alberto Edjogo va rebre l'alternativa» (Ràdio Sabadell).",
-      "itemId": "ef429587a1f4c203"
-    },
-    {
-      "id": "6bd4eedc7e756130",
-      "t": "2026-11-09T07:53:15.701Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La Pink Run Mir 2026 torna a ser un èxit de participació i recapta 22.000 euros per seguir investigant contra el càncer de mama» (Ajuntament de Montcada i Reixac).",
-      "itemId": "5310468f6f39c543"
-    },
-    {
-      "id": "6062c2797bcbf136",
-      "t": "2026-11-09T07:53:15.702Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Mentors per impulsar el futur de 40 joves de Terrassa» (Diari de Terrassa).",
-      "itemId": "20835b1950787155"
-    },
-    {
-      "id": "03dfaae2c1fe1454",
-      "t": "2026-11-09T07:53:15.703Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Nova jornada de retards generalitzats a Rodalies per una “incidència operativa”» (Diari de Sabadell).",
-      "itemId": "91376455a27f2dd7"
-    },
-    {
-      "id": "fc8842ebf1bde727",
-      "t": "2026-11-09T07:53:15.704Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat.",
-      "itemId": "91376455a27f2dd7"
-    },
-    {
-      "id": "f3c737b41a79b5b7",
-      "t": "2026-11-09T07:53:15.705Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Retards generalitzats a Rodalies per una \"incidència operativa\"» (Ràdio Sabadell).",
-      "itemId": "1a59b7faa3acbbb8"
-    },
-    {
-      "id": "31d102c269b06777",
-      "t": "2026-11-09T07:53:15.706Z",
-      "agente": "deduplicador",
-      "texto": "Descartada perquè és duplicada: coincideix amb «Nova jornada de retards generalitzats a Rodalies per una “incidència operativa”» (Diari de Sabadell).",
-      "itemId": "1a59b7faa3acbbb8"
-    },
-    {
-      "id": "b34d4f3f7f953485",
-      "t": "2026-11-09T08:53:52.185Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Retards generalitzats a Rodalies per una \"incidència operativa\"» (Ràdio Sabadell).",
-      "itemId": "b0d732d558884788"
-    },
-    {
-      "id": "f09fe3b9621c819c",
-      "t": "2026-11-09T08:53:52.186Z",
-      "agente": "deduplicador",
-      "texto": "Descartada perquè és duplicada: coincideix amb «Nova jornada de retards generalitzats a Rodalies per una “incidència operativa”» (Diari de Sabadell).",
-      "itemId": "b0d732d558884788"
-    },
-    {
-      "id": "dad148a13d65e6ca",
-      "t": "2026-11-09T08:53:52.187Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Barberà del Vallès dona el tret de sortida al programa del 25N amb el cinefòrum \"La buena hija\"» (Ajuntament de Barberà del Vallès).",
-      "itemId": "73a7f7c0baea80f0"
-    },
-    {
       "id": "fe03284f1142e1c1",
       "t": "2026-11-09T08:53:52.188Z",
       "agente": "etiquetador",
@@ -2799,7 +2729,77 @@
       "agente": "mesa",
       "texto": "Proposo incloure-ho a l'escaleta (4 punts): font oficial · política local, economia i ocupació.",
       "itemId": "3103799746dff761"
+    },
+    {
+      "id": "ab5150db77b46555",
+      "t": "2026-11-12T12:26:10.115Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L’Ajuntament instal·la bucles auditius a diferents d’equipaments municipals» (Ajuntament de Ripollet).",
+      "itemId": "1d71fd353f1b3348"
+    },
+    {
+      "id": "9250d23b08ff5063",
+      "t": "2026-11-12T12:26:10.116Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Ple extraordinari del 13 de novembre de 2026» (Ajuntament de Ripollet).",
+      "itemId": "9cf640648db05f26"
+    },
+    {
+      "id": "9b5030ec331a2aac",
+      "t": "2026-11-12T12:26:10.117Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local.",
+      "itemId": "9cf640648db05f26"
+    },
+    {
+      "id": "336e06b48bbac181",
+      "t": "2026-11-12T12:26:10.118Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · política local.",
+      "itemId": "9cf640648db05f26"
+    },
+    {
+      "id": "f02d4364909c04a2",
+      "t": "2026-11-12T12:26:10.119Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El desembre, bona música al Teatre Ateneu» (Ajuntament de Cerdanyola del Vallès).",
+      "itemId": "cbbba3c5a87fccbc"
+    },
+    {
+      "id": "97f1db19e4b90ea9",
+      "t": "2026-11-12T12:26:10.120Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut, Cultura i festes.",
+      "itemId": "cbbba3c5a87fccbc"
+    },
+    {
+      "id": "14a34ca7d704ee64",
+      "t": "2026-11-12T12:26:10.121Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "cbbba3c5a87fccbc"
+    },
+    {
+      "id": "e04d0e8e701ae8ee",
+      "t": "2026-11-12T12:26:10.122Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La Cambra de la Propietat qüestiona l'impacte de la vaga general: \"Només genera més crispació\"» (Ràdio Sabadell).",
+      "itemId": "8ab81f561fa0c20d"
+    },
+    {
+      "id": "1afba05136bae4e6",
+      "t": "2026-11-12T12:26:10.123Z",
+      "agente": "deduplicador",
+      "texto": "Descartada perquè és duplicada: coincideix amb «La Cambra de la Propietat qüestiona l'impacte de la vaga general: \"Només genera més crispació\"» (Ràdio Sabadell).",
+      "itemId": "8ab81f561fa0c20d"
+    },
+    {
+      "id": "d30478f41d507a73",
+      "t": "2026-11-12T12:26:10.124Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Miquel Àngel Vicente, Cambra de la Propietat: \"Han destruït el mercat de lloguer\"» (Ràdio Sabadell).",
+      "itemId": "41546022b1aacd5d"
     }
   ],
-  "actualizado": "2026-11-12T11:44:04.785Z"
+  "actualizado": "2026-11-12T12:26:32.396Z"
 }
