@@ -104,6 +104,153 @@
   },
   "items": [
     {
+      "id": "42eb3002ffa9695b",
+      "titulo": "Més de 5.000 veïns sense llum per una avaria elèctrica",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/mes-5000-veins-sense-llum-avaria-electrica",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-12T10:37:27.000Z",
+      "detectado": "2026-11-12T10:51:34.039Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "5d1f48fbd4c0fef6",
+      "titulo": "Sant Quirze commemora el Dia Internacional de les Dones Emprenedores amb una jornada per compartir experiències i fer xarxa",
+      "enlace": "https://www.santquirzevalles.cat/actualitat/noticies/sant-quirze-commemora-el-dia-internacional-de-les-dones-emprenedores-amb-una-jornada-per-compartir-experiencies-i-fer-xarxa",
+      "fuente": "ayto-sant-quirze",
+      "fuenteNombre": "Ajuntament de Sant Quirze del Vallès",
+      "tipo": "oficial",
+      "resumen": "Sota el lema «Emprenedores sense filtres», la trobada tindrà lloc el 19 de novembre i combinarà activitats, aprenentatge i un dinar informal",
+      "municipio": "sant-quirze",
+      "municipiosMencionados": [
+        "sant-quirze"
+      ],
+      "publicado": "2026-11-12T10:18:58.000Z",
+      "detectado": "2026-11-12T10:51:34.039Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "3c5b58fc4fc10c6e",
+      "titulo": "Aquest divendres s'inaugura el nou Esclat",
+      "enlace": "https://www.lactual.cat/actualitat/aquest-divendres-inaugura-nou-esclat_55356_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-12T10:11:29.000Z",
+      "detectado": "2026-11-12T10:51:34.039Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "afc44b35c69cafab",
+      "titulo": "Amunt El Teló 11/11/26",
+      "enlace": "https://radiosabadell.fm/alacarta/audio/amunt-el-telo-111126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-12T10:11:16.000Z",
+      "detectado": "2026-11-12T10:51:34.039Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "413cbcbba500c731",
+      "titulo": "S’amplia el termini per demanar els ajuts municipals per fomentar l’activitat econòmica local",
+      "enlace": "https://www.santquirzevalles.cat/actualitat/noticies/s2019amplia-el-termini-per-demanar-els-ajuts-municipals-per-fomentar-l2019activitat-economica-local",
+      "fuente": "ayto-sant-quirze",
+      "fuenteNombre": "Ajuntament de Sant Quirze del Vallès",
+      "tipo": "oficial",
+      "resumen": "Les sol·licituds es poden presentar fins al 24 de novembre i s’amplien els períodes d’activitat i de despeses subvencionables",
+      "municipio": "sant-quirze",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-12T10:00:53.000Z",
+      "detectado": "2026-11-12T10:51:34.039Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "b7592b72ba72b6b2",
+      "titulo": "12 de novembre: Prealerta del Pla Bàsic d'Emergències Municipal per risc de vent",
+      "enlace": "https://www.bdv.cat/noticies/12-de-novembre-prealerta-del-pla-basic-demergencies-municipal-risc-de-vent",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "S'activa la situació de prealerta del Pla Bàsic d'Emergències Municipal, a causa de risc de vent per aquest dijous 12 de novembre. Segons informa el Meteocat, es poden arribat a ratxes màximes de > 25m/s. El vent bufarà de component oest.…",
+      "municipio": "barbera",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-12T09:59:00.000Z",
+      "detectado": "2026-11-12T10:51:34.039Z",
+      "sensible": false,
+      "etiquetas": [
+        "emergencias",
+        "movilidad"
+      ],
+      "puntuacion": 5,
+      "motivos": [
+        "font oficial",
+        "emergències, mobilitat"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "21d78c1bcdb23332",
+      "titulo": "Per què encara et pot tocar ser membre d'una mesa electoral a Sabadell pel 29N?",
+      "enlace": "https://www.diaridesabadell.com/sabadell/membre-mesa-electoral-sabadell-eleccions-generals-29n.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-12T09:55:34.000Z",
+      "detectado": "2026-11-12T10:51:34.039Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "9bbabdf337c01d31",
       "titulo": "Les pluges i els efectes de la vaga provoquen \"retards generalitzats\" a la xarxa de Rodalies",
       "enlace": "https://www.diaridesabadell.com/sabadell/pluges-trens-rodalies-retards-vagues.html",
@@ -197,6 +344,32 @@
       "propuesta": false
     },
     {
+      "id": "561baa730cc87470",
+      "titulo": "Santa Perpètua avança amb la Generalitat en el projecte de la residència pública de gent gran",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/santa-perpetua-avanca-amb-la-generalitat-en-el-projecte-de-la-residencia-publica-de-gent-gran.html",
+      "fuente": "ayto-santa-perpetua",
+      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
+      "tipo": "oficial",
+      "resumen": "L’alcalde de Santa Perpètua de Mogoda. Joan Carles Mingueza, es va reunir dimecres 4 de novembre amb el director dels Serveis Territorials d’Administració Local de Barcelona, del Departament de la Presidència de la Generalitat de Catalunya.",
+      "municipio": "santa-perpetua",
+      "municipiosMencionados": [
+        "santa-perpetua"
+      ],
+      "publicado": "2026-11-12T07:00:00.000Z",
+      "detectado": "2026-11-12T10:51:34.039Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "font oficial",
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
       "id": "478cd7c828e77da8",
       "titulo": "Infopòdcast Sabadell 12.11.26",
       "enlace": "https://radiosabadell.fm/alacarta/audio/infopodcast-sabadell-121126",
@@ -288,5 +461,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-12T09:48:34.634Z"
+  "actualizado": "2026-11-12T10:51:53.421Z"
 }

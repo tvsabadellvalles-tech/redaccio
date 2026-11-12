@@ -2,8 +2,8 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-12T09:48:09.858Z",
-  "total": 20,
+  "consultat": "2026-11-12T10:51:34.039Z",
+  "total": 22,
   "activitats": [
     {
       "titol": "VAGA GENERAL",
@@ -50,7 +50,7 @@
     {
       "titol": "(Joan) Prova directe Alo",
       "inici": "2026-11-12T10:30:00.000Z",
-      "final": "2026-11-12T11:30:00.000Z",
+      "final": "2026-11-12T10:45:00.000Z",
       "totElDia": false,
       "color": null
     },
@@ -90,14 +90,14 @@
       "color": null
     },
     {
-      "titol": "(Ferran) Primera sessió de BATECS, Espai de diàlegs per transformar “Reflexió i anàlisi sobre Violència Vicària des de l’experiència”",
+      "titol": "(Lorena) Presentació del Nadal a Sabadell",
       "inici": "2026-11-12T17:00:00.000Z",
       "final": "2026-11-12T18:00:00.000Z",
       "totElDia": false,
       "color": null
     },
     {
-      "titol": "(Lorena) Presentació del Nadal a Sabadell",
+      "titol": "(Ferran) Primera sessió de BATECS, Espai de diàlegs per transformar “Reflexió i anàlisi sobre Violència Vicària des de l’experiència”",
       "inici": "2026-11-12T17:00:00.000Z",
       "final": "2026-11-12T18:00:00.000Z",
       "totElDia": false,
@@ -111,9 +111,23 @@
       "color": null
     },
     {
+      "titol": "[!] Comerç local Palau",
+      "inici": "2026-11-13T09:00:00.000Z",
+      "final": "2026-11-13T10:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
       "titol": "Gravació La Mar de bé",
       "inici": "2026-11-13T10:00:00.000Z",
       "final": "2026-11-13T12:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "(Montse i Joan) Fòrum Salvador Illa",
+      "inici": "2026-11-13T10:30:00.000Z",
+      "final": "2026-11-13T13:00:00.000Z",
       "totElDia": false,
       "color": null
     },
@@ -147,5 +161,5 @@
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-12T09:48:55.832Z"
+  "actualizado": "2026-11-12T10:52:13.013Z"
 }

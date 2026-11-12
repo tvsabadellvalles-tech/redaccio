@@ -1,97 +1,6 @@
 {
   "eventos": [
     {
-      "id": "1661fd3e44f6a3b0",
-      "t": "2026-11-08T14:35:57.384Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Esports.",
-      "itemId": "a59d3ccb57f08c74"
-    },
-    {
-      "id": "b62116da60a834e8",
-      "t": "2026-11-08T14:35:57.385Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La gastronomia gallega i la música omplen de vida l’Eix Macià amb la Festa do Pulpo» (Diari de Sabadell).",
-      "itemId": "3060644dbb231e49"
-    },
-    {
-      "id": "1d03df2f429dd5b3",
-      "t": "2026-11-08T14:35:57.386Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Salut, Cultura i festes.",
-      "itemId": "3060644dbb231e49"
-    },
-    {
-      "id": "0d93662c5735c98e",
-      "t": "2026-11-08T15:14:42.544Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Prop de 700.000 euros per col·locar bandes reductores de velocitat a una quarantena de carrers» (Ràdio Sabadell).",
-      "itemId": "5851ea3d702705fd"
-    },
-    {
-      "id": "22e261b691102985",
-      "t": "2026-11-08T15:14:42.545Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat, Política local, Obres i urbanisme.",
-      "itemId": "5851ea3d702705fd"
-    },
-    {
-      "id": "825fa54514c8e247",
-      "t": "2026-11-08T15:14:42.546Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): mobilitat, política local, obres i urbanisme.",
-      "itemId": "5851ea3d702705fd"
-    },
-    {
-      "id": "d6a7a95e126837bd",
-      "t": "2026-11-08T16:57:59.390Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El meteoròleg Francesc Mauri va canviar Matadepera per Terrassa: \"Perdíem molt de temps en els desplaçaments en cotxe\"» (Diari de Terrassa).",
-      "itemId": "be536ee74b5ceee0"
-    },
-    {
-      "id": "c3f264a364587624",
-      "t": "2026-11-08T16:57:59.391Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Medi ambient.",
-      "itemId": "be536ee74b5ceee0"
-    },
-    {
-      "id": "e16ab41a16a5ed7f",
-      "t": "2026-11-08T17:26:45.979Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Els Castellers de Terrassa celebren la seva Diada» (Diari de Terrassa).",
-      "itemId": "1ab2bd723bae6802"
-    },
-    {
-      "id": "50518135a3abe173",
-      "t": "2026-11-08T17:26:45.980Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La pastisseria Villaró posa un peu a Sabadell» (L'Actual - Castellar del Vallès).",
-      "itemId": "906c3420447756ce"
-    },
-    {
-      "id": "a7ac1b9b42407ad4",
-      "t": "2026-11-08T17:26:45.981Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El pavelló de Cal Balsach recupera l’activitat després de les obres» (iSabadell).",
-      "itemId": "16e0c6e6ee6c5e29"
-    },
-    {
-      "id": "e82b350bd0c758b3",
-      "t": "2026-11-08T17:26:45.982Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Obres i urbanisme, Esports.",
-      "itemId": "16e0c6e6ee6c5e29"
-    },
-    {
-      "id": "1382d4806894a2b3",
-      "t": "2026-11-08T17:57:35.880Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Sabadell camina per millorar les condicions educatives de centenars d'infants del Senegal» (Diari de Sabadell).",
-      "itemId": "03b95731666b2bf1"
-    },
-    {
       "id": "726b15e9fd716594",
       "t": "2026-11-08T17:57:35.881Z",
       "agente": "vigilante",
@@ -2799,7 +2708,98 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Mobilitat.",
       "itemId": "9bbabdf337c01d31"
+    },
+    {
+      "id": "12dceb4f82e3da85",
+      "t": "2026-11-12T10:51:34.039Z",
+      "agente": "rastreador",
+      "texto": "La font «Ajuntament de Cerdanyola del Vallès» torna a respondre.",
+      "itemId": null
+    },
+    {
+      "id": "1ec453adbc03632e",
+      "t": "2026-11-12T10:51:34.040Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Santa Perpètua avança amb la Generalitat en el projecte de la residència pública de gent gran» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "561baa730cc87470"
+    },
+    {
+      "id": "d3c4dd38bc22fd65",
+      "t": "2026-11-12T10:51:34.041Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local.",
+      "itemId": "561baa730cc87470"
+    },
+    {
+      "id": "f4a09ed4fb3fee01",
+      "t": "2026-11-12T10:51:34.042Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · política local.",
+      "itemId": "561baa730cc87470"
+    },
+    {
+      "id": "ebb578ee28b40fcd",
+      "t": "2026-11-12T10:51:34.043Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Per què encara et pot tocar ser membre d'una mesa electoral a Sabadell pel 29N?» (Diari de Sabadell).",
+      "itemId": "21d78c1bcdb23332"
+    },
+    {
+      "id": "c626708965b2e79e",
+      "t": "2026-11-12T10:51:34.044Z",
+      "agente": "rastreador",
+      "texto": "He recollit «12 de novembre: Prealerta del Pla Bàsic d'Emergències Municipal per risc de vent» (Ajuntament de Barberà del Vallès).",
+      "itemId": "b7592b72ba72b6b2"
+    },
+    {
+      "id": "2902c1343cd70666",
+      "t": "2026-11-12T10:51:34.045Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Emergències, Mobilitat.",
+      "itemId": "b7592b72ba72b6b2"
+    },
+    {
+      "id": "641df41c2d49ff5d",
+      "t": "2026-11-12T10:51:34.046Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (5 punts): font oficial · emergències, mobilitat.",
+      "itemId": "b7592b72ba72b6b2"
+    },
+    {
+      "id": "9c7df0574dbf6b87",
+      "t": "2026-11-12T10:51:34.047Z",
+      "agente": "rastreador",
+      "texto": "He recollit «S’amplia el termini per demanar els ajuts municipals per fomentar l’activitat econòmica local» (Ajuntament de Sant Quirze del Vallès).",
+      "itemId": "413cbcbba500c731"
+    },
+    {
+      "id": "15d50eb8484a82a7",
+      "t": "2026-11-12T10:51:34.048Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Amunt El Teló 11/11/26» (Ràdio Sabadell).",
+      "itemId": "afc44b35c69cafab"
+    },
+    {
+      "id": "0926d9d452d4d0aa",
+      "t": "2026-11-12T10:51:34.049Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Aquest divendres s'inaugura el nou Esclat» (L'Actual - Castellar del Vallès).",
+      "itemId": "3c5b58fc4fc10c6e"
+    },
+    {
+      "id": "abae01cbd874aa49",
+      "t": "2026-11-12T10:51:34.050Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Sant Quirze commemora el Dia Internacional de les Dones Emprenedores amb una jornada per compartir experiències i fer xarxa» (Ajuntament de Sant Quirze del Vallès).",
+      "itemId": "5d1f48fbd4c0fef6"
+    },
+    {
+      "id": "657418ee9024d74c",
+      "t": "2026-11-12T10:51:34.051Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Més de 5.000 veïns sense llum per una avaria elèctrica» (Ràdio Sabadell).",
+      "itemId": "42eb3002ffa9695b"
     }
   ],
-  "actualizado": "2026-11-12T09:48:34.640Z"
+  "actualizado": "2026-11-12T10:51:53.425Z"
 }
