@@ -2,7 +2,7 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-12T13:47:47.536Z",
+  "consultat": "2026-11-12T15:32:20.964Z",
   "total": 22,
   "activitats": [
     {
@@ -13,14 +13,14 @@
       "color": null
     },
     {
-      "titol": "PRÈVIA ÚLTIMES FUNCIONS SIRENETA",
+      "titol": "Peces vídeo notícies del Badalaboca i Comerç",
       "inici": "2026-11-13T00:00:00.000Z",
       "final": "2026-11-14T00:00:00.000Z",
       "totElDia": true,
       "color": null
     },
     {
-      "titol": "Peces vídeo notícies del Badalaboca i Comerç",
+      "titol": "PRÈVIA ÚLTIMES FUNCIONS SIRENETA",
       "inici": "2026-11-13T00:00:00.000Z",
       "final": "2026-11-14T00:00:00.000Z",
       "totElDia": true,
@@ -83,9 +83,9 @@
       "color": null
     },
     {
-      "titol": "(Ferran) Primera sessió de BATECS, Espai de diàlegs per transformar “Reflexió i anàlisi sobre Violència Vicària des de l’experiència”",
-      "inici": "2026-11-12T16:45:00.000Z",
-      "final": "2026-11-12T17:45:00.000Z",
+      "titol": "(Ferran i Adri) Primera sessió de BATECS, Espai de diàlegs per transformar “Reflexió i anàlisi sobre Violència Vicària des de l’experiència”",
+      "inici": "2026-11-12T16:30:00.000Z",
+      "final": "2026-11-12T17:30:00.000Z",
       "totElDia": false,
       "color": null
     },
@@ -111,7 +111,7 @@
       "color": null
     },
     {
-      "titol": "[!] Comerç local Palau",
+      "titol": "[!] Comerç local Palau (NO ES POT EMETRE FINS QUE SURTI LA CAMPANYA)",
       "inici": "2026-11-13T09:00:00.000Z",
       "final": "2026-11-13T10:00:00.000Z",
       "totElDia": false,
@@ -161,5 +161,5 @@
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-12T13:48:23.706Z"
+  "actualizado": "2026-11-12T15:33:03.255Z"
 }
