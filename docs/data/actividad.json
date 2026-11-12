@@ -1,69 +1,6 @@
 {
   "eventos": [
     {
-      "id": "b2a627e69924ed7b",
-      "t": "2026-11-09T10:36:23.372Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Premi milionari al Vallès Occidental en l'Euromillones» (Diari de Sabadell).",
-      "itemId": "c2f5508295120fac"
-    },
-    {
-      "id": "6c11ab9503437803",
-      "t": "2026-11-09T10:36:23.373Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Medi ambient.",
-      "itemId": "c2f5508295120fac"
-    },
-    {
-      "id": "128918669b6465f8",
-      "t": "2026-11-09T11:29:13.610Z",
-      "agente": "rastreador",
-      "texto": "He recollit «L’Ajuntament confirma que les incidències detectades al riu Besòs van ser puntuals i reforça el seu compromís amb el control ambiental de les obres del soterrament» (Ajuntament de Montcada i Reixac).",
-      "itemId": "5e6a05bf73cb00dc"
-    },
-    {
-      "id": "98d1ab99379e28df",
-      "t": "2026-11-09T11:29:13.611Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Obres i urbanisme.",
-      "itemId": "5e6a05bf73cb00dc"
-    },
-    {
-      "id": "e171da027a240167",
-      "t": "2026-11-09T11:29:13.612Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Dem� dimarts, projecci� de la pel�l�cula Solas a la Biblioteca de Badia» (Ajuntament de Badia del Vallès).",
-      "itemId": "633deee576b4c343"
-    },
-    {
-      "id": "141ef6c0f33732ea",
-      "t": "2026-11-09T11:29:13.613Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Cultura i festes.",
-      "itemId": "633deee576b4c343"
-    },
-    {
-      "id": "7c03bab2b30f8342",
-      "t": "2026-11-09T11:29:13.614Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Rodalies viu un nou matí de retards a les portes de tres jornades de vaga» (iSabadell).",
-      "itemId": "9498382517c11201"
-    },
-    {
-      "id": "7b94590a9e0d48d9",
-      "t": "2026-11-09T11:29:13.615Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat, Salut.",
-      "itemId": "9498382517c11201"
-    },
-    {
-      "id": "6af001816366de44",
-      "t": "2026-11-09T11:29:13.616Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): mobilitat, salut.",
-      "itemId": "9498382517c11201"
-    },
-    {
       "id": "c5c7ab561193307b",
       "t": "2026-11-09T11:29:13.618Z",
       "agente": "rastreador",
@@ -2799,7 +2736,70 @@
       "agente": "rastreador",
       "texto": "He recollit «El Pla de Barris destinarà 25 milions d’euros a regenerar Les Termes» (iSabadell).",
       "itemId": "39a460a938a0cb24"
+    },
+    {
+      "id": "a0d70df811e718cd",
+      "t": "2026-11-12T18:14:26.035Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Noves cançons i sorpreses al Calendari d'Advent i al 'Somriu al Nadal'» (Ràdio Sabadell).",
+      "itemId": "b0a6a98d54ed6656"
+    },
+    {
+      "id": "28be5860167b9abd",
+      "t": "2026-11-12T18:14:26.036Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local, Cultura i festes.",
+      "itemId": "b0a6a98d54ed6656"
+    },
+    {
+      "id": "a34845d522102d38",
+      "t": "2026-11-12T18:14:26.037Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "b0a6a98d54ed6656"
+    },
+    {
+      "id": "1dc164b5330f316a",
+      "t": "2026-11-12T18:14:26.038Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Així serà el Nadal 2026 a Sabadell: el Llaminer estrena aventura i arriba amb novetats» (Diari de Sabadell).",
+      "itemId": "bd29fc5525566c60"
+    },
+    {
+      "id": "a20a1311fca6aa05",
+      "t": "2026-11-12T18:14:26.039Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Tot el que has de saber sobre el Nadal a Sabadell» (Ràdio Sabadell).",
+      "itemId": "0b958870c51051f4"
+    },
+    {
+      "id": "566f144b66af7b70",
+      "t": "2026-11-12T18:14:26.040Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local, Medi ambient, Esports, Cultura i festes.",
+      "itemId": "0b958870c51051f4"
+    },
+    {
+      "id": "53964d35b0fcb17e",
+      "t": "2026-11-12T18:14:26.041Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): política local, medi ambient.",
+      "itemId": "0b958870c51051f4"
+    },
+    {
+      "id": "61646413d42c1571",
+      "t": "2026-11-12T18:14:26.042Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Consulta quan seran les enceses dels llums de Nadal a Sabadell» (Ràdio Sabadell).",
+      "itemId": "ce061a72a90d22bc"
+    },
+    {
+      "id": "88b03eafb13097b0",
+      "t": "2026-11-12T18:14:26.043Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local.",
+      "itemId": "ce061a72a90d22bc"
     }
   ],
-  "actualizado": "2026-11-12T17:27:21.061Z"
+  "actualizado": "2026-11-12T18:14:40.764Z"
 }

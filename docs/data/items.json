@@ -104,6 +104,106 @@
   },
   "items": [
     {
+      "id": "ce061a72a90d22bc",
+      "titulo": "Consulta quan seran les enceses dels llums de Nadal a Sabadell",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/consulta-quan-seran-les-enceses-dels-llums-de-nadal-sabadell",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-12T17:53:00.000Z",
+      "detectado": "2026-11-12T18:14:26.034Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "0b958870c51051f4",
+      "titulo": "Tot el que has de saber sobre el Nadal a Sabadell",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/tot-el-que-has-de-saber-sobre-el-nadal-sabadell",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-12T17:44:00.000Z",
+      "detectado": "2026-11-12T18:14:26.034Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica",
+        "medioambiente",
+        "deportes",
+        "cultura"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "política local, medi ambient"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "bd29fc5525566c60",
+      "titulo": "Així serà el Nadal 2026 a Sabadell: el Llaminer estrena aventura i arriba amb novetats",
+      "enlace": "https://www.diaridesabadell.com/sabadell/programacio-activitats-nadal-sabadell-llaminer-2026.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-12T17:43:42.000Z",
+      "detectado": "2026-11-12T18:14:26.034Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "b0a6a98d54ed6656",
+      "titulo": "Noves cançons i sorpreses al Calendari d'Advent i al 'Somriu al Nadal'",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/noves-cancons-sorpreses-calendari-somriu-nadal",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-12T17:43:00.000Z",
+      "detectado": "2026-11-12T18:14:26.034Z",
+      "sensible": true,
+      "etiquetas": [
+        "politica",
+        "cultura"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "39a460a938a0cb24",
       "titulo": "El Pla de Barris destinarà 25 milions d’euros a regenerar Les Termes",
       "enlace": "https://www.isabadell.cat/societat/el-pla-de-barris-invertira-25-milions-deuros-per-regenerar-les-termes-340626/",
@@ -1085,5 +1185,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-12T17:27:21.057Z"
+  "actualizado": "2026-11-12T18:14:40.760Z"
 }
