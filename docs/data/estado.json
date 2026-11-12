@@ -2,7 +2,7 @@
   "fuentes": {
     "isabadell": {
       "ok": true,
-      "items": 0
+      "items": 2
     },
     "radio-sabadell": {
       "ok": true,
@@ -65,7 +65,8 @@
       "items": 0
     },
     "ayto-cerdanyola": {
-      "ok": true,
+      "ok": false,
+      "error": "The operation was aborted due to timeout",
       "items": 0
     },
     "ayto-badia": {
@@ -81,6 +82,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-12T06:28:02.004Z",
-  "actualizado": "2026-11-12T06:28:19.572Z"
+  "consultat": "2026-11-12T07:59:05.023Z",
+  "actualizado": "2026-11-12T07:59:39.022Z"
 }

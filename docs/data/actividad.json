@@ -1,41 +1,6 @@
 {
   "eventos": [
     {
-      "id": "a2755b574c7b1180",
-      "t": "2026-11-08T09:56:37.813Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La música que camina enrere» (Ràdio Sabadell).",
-      "itemId": "9ee2040b11004330"
-    },
-    {
-      "id": "4ea81c5280d5f07e",
-      "t": "2026-11-08T10:30:55.444Z",
-      "agente": "rastreador",
-      "texto": "He recollit «\"Cuidar és molt dur, però trobar-nos ens fa sentir en família\"» (Diari de Sabadell).",
-      "itemId": "4db870dac92cc14d"
-    },
-    {
-      "id": "7b917cef6c6e2dff",
-      "t": "2026-11-08T10:30:55.445Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Cultura i festes.",
-      "itemId": "4db870dac92cc14d"
-    },
-    {
-      "id": "0ebb4a9cc49792a2",
-      "t": "2026-11-08T10:30:55.446Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El CE Sabadell vol retrobar-se amb la victòria en una jornada marcada pel record i els homenatges» (Diari de Sabadell).",
-      "itemId": "b11ea310ec359171"
-    },
-    {
-      "id": "813849f0279f08c2",
-      "t": "2026-11-08T11:48:34.613Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Ballada de country solidari en benefici d'Atendis» (Ràdio Sabadell).",
-      "itemId": "88b9d3ad2ed30be5"
-    },
-    {
       "id": "38c181af64b7130b",
       "t": "2026-11-08T12:23:31.188Z",
       "agente": "rastreador",
@@ -2799,7 +2764,42 @@
       "agente": "rastreador",
       "texto": "He recollit «Infopòdcast Sabadell 12.11.26» (Ràdio Sabadell).",
       "itemId": "478cd7c828e77da8"
+    },
+    {
+      "id": "3f87e68b8bc717c2",
+      "t": "2026-11-12T07:59:05.024Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La Llanera Trail 2027 es traslladarà a Sentmenat per la pesta porcina» (iSabadell).",
+      "itemId": "98017cd6a6758951"
+    },
+    {
+      "id": "4535eba410a81749",
+      "t": "2026-11-12T07:59:05.025Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Emergències.",
+      "itemId": "98017cd6a6758951"
+    },
+    {
+      "id": "2803ff9a0ac5a0cc",
+      "t": "2026-11-12T07:59:05.026Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): emergències.",
+      "itemId": "98017cd6a6758951"
+    },
+    {
+      "id": "b6da71d282545acd",
+      "t": "2026-11-12T07:59:05.027Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Retards generalitzats a Rodalies» (iSabadell).",
+      "itemId": "6d1aa8ea2ce616f0"
+    },
+    {
+      "id": "0b3a1bc0488026ae",
+      "t": "2026-11-12T07:59:05.028Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat.",
+      "itemId": "6d1aa8ea2ce616f0"
     }
   ],
-  "actualizado": "2026-11-11T23:37:17.232Z"
+  "actualizado": "2026-11-12T07:59:39.023Z"
 }

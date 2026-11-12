@@ -104,6 +104,29 @@
   },
   "items": [
     {
+      "id": "6d1aa8ea2ce616f0",
+      "titulo": "Retards generalitzats a Rodalies",
+      "enlace": "https://www.isabadell.cat/societat/mobilitat/retards-generalitzats-a-rodalies-340617/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-12T07:21:01.000Z",
+      "detectado": "2026-11-12T07:59:05.023Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "mobilitat"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "478cd7c828e77da8",
       "titulo": "Infopòdcast Sabadell 12.11.26",
       "enlace": "https://radiosabadell.fm/alacarta/audio/infopodcast-sabadell-121126",
@@ -123,7 +146,33 @@
       "motivos": [],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "98017cd6a6758951",
+      "titulo": "La Llanera Trail 2027 es traslladarà a Sentmenat per la pesta porcina",
+      "enlace": "https://www.isabadell.cat/esports/la-llanera-trail-2027-es-traslladara-a-sentmenat-per-la-pesta-porcina-340377/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell",
+        "sentmenat"
+      ],
+      "publicado": "2026-11-12T06:00:00.000Z",
+      "detectado": "2026-11-12T07:59:05.023Z",
+      "sensible": false,
+      "etiquetas": [
+        "emergencias"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "emergències"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
     }
   ],
-  "actualizado": "2026-11-11T23:37:17.228Z"
+  "actualizado": "2026-11-12T07:59:39.021Z"
 }
