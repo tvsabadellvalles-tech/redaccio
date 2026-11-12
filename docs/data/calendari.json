@@ -2,23 +2,9 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-12T22:56:58.546Z",
-  "total": 22,
+  "consultat": "2026-11-12T23:32:45.488Z",
+  "total": 11,
   "activitats": [
-    {
-      "titol": "VAGA GENERAL",
-      "inici": "2026-11-11T00:00:00.000Z",
-      "final": "2026-11-12T00:00:00.000Z",
-      "totElDia": true,
-      "color": null
-    },
-    {
-      "titol": "Peces vídeo notícies del Badalaboca i Comerç",
-      "inici": "2026-11-13T00:00:00.000Z",
-      "final": "2026-11-14T00:00:00.000Z",
-      "totElDia": true,
-      "color": null
-    },
     {
       "titol": "PRÈVIA ÚLTIMES FUNCIONS SIRENETA",
       "inici": "2026-11-13T00:00:00.000Z",
@@ -27,87 +13,10 @@
       "color": null
     },
     {
-      "titol": "(Joan) Promo directe Nadal",
-      "inici": "2026-11-12T09:00:00.000Z",
-      "final": "2026-11-12T09:30:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "(JM) Publi Vitalia",
-      "inici": "2026-11-12T10:00:00.000Z",
-      "final": "2026-11-12T11:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "(Joan) Promo Albiol",
-      "inici": "2026-11-12T10:00:00.000Z",
-      "final": "2026-11-12T10:30:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "(Joan) Prova directe Alo",
-      "inici": "2026-11-12T10:30:00.000Z",
-      "final": "2026-11-12T10:45:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "(JM i Lidia) Publi restaurant",
-      "inici": "2026-11-12T11:30:00.000Z",
-      "final": "2026-11-12T12:30:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "Entrevista Lucrecia La mar de bé",
-      "inici": "2026-11-12T12:30:00.000Z",
-      "final": "2026-11-12T13:30:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "En Primera Persona",
-      "inici": "2026-11-12T14:00:00.000Z",
-      "final": "2026-11-12T15:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "Joan ha de marxar",
-      "inici": "2026-11-12T16:15:00.000Z",
-      "final": "2026-11-12T16:45:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "(Ferran i Adri) Primera sessió de BATECS, Espai de diàlegs per transformar “Reflexió i anàlisi sobre Violència Vicària des de l’experiència”",
-      "inici": "2026-11-12T16:30:00.000Z",
-      "final": "2026-11-12T17:30:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "CX - VIA 15",
-      "inici": "2026-11-12T17:00:00.000Z",
-      "final": "2026-11-12T18:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "(Lorena) Presentació del Nadal a Sabadell",
-      "inici": "2026-11-12T17:00:00.000Z",
-      "final": "2026-11-12T18:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "(Ferran) LÍMIT REEL VA DE MODA",
-      "inici": "2026-11-12T18:45:00.000Z",
-      "final": "2026-11-12T19:00:00.000Z",
-      "totElDia": false,
+      "titol": "Peces vídeo notícies del Badalaboca i Comerç",
+      "inici": "2026-11-13T00:00:00.000Z",
+      "final": "2026-11-14T00:00:00.000Z",
+      "totElDia": true,
       "color": null
     },
     {
@@ -158,8 +67,22 @@
       "final": "2026-11-13T19:00:00.000Z",
       "totElDia": false,
       "color": null
+    },
+    {
+      "titol": "CN Sabadell-CN Mataró",
+      "inici": "2026-11-14T11:45:00.000Z",
+      "final": "2026-11-14T12:45:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "Certamen fotogràfic",
+      "inici": "2026-11-14T16:00:00.000Z",
+      "final": "2026-11-14T17:00:00.000Z",
+      "totElDia": false,
+      "color": null
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-12T22:57:47.843Z"
+  "actualizado": "2026-11-12T23:33:32.208Z"
 }

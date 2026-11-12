@@ -1,13 +1,6 @@
 {
   "eventos": [
     {
-      "id": "29ea952486b914e8",
-      "t": "2026-11-09T12:26:03.430Z",
-      "agente": "rastreador",
-      "texto": "He recollit «L'Eva Pla ens fa una selecció de llibres-joc» (Ràdio Sabadell).",
-      "itemId": "53efb01e3cba071b"
-    },
-    {
       "id": "b383f2b8869dfafa",
       "t": "2026-11-09T12:26:03.431Z",
       "agente": "rastreador",
@@ -2799,7 +2792,14 @@
       "agente": "mesa",
       "texto": "Proposo incloure-ho a l'escaleta (4 punts): mobilitat, política local, obres i urbanisme, salut.",
       "itemId": "9772139997cd64f2"
+    },
+    {
+      "id": "6c2a19dc49a08f0d",
+      "t": "2026-11-12T23:32:45.488Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Infopòdcast Sabadell 13.11.26» (Ràdio Sabadell).",
+      "itemId": "575fed554d53d0b3"
     }
   ],
-  "actualizado": "2026-11-12T22:57:28.809Z"
+  "actualizado": "2026-11-12T23:33:12.975Z"
 }
