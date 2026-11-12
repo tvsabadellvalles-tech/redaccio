@@ -2,15 +2,15 @@
   "fuentes": {
     "isabadell": {
       "ok": true,
-      "items": 2
+      "items": 3
     },
     "radio-sabadell": {
       "ok": true,
-      "items": 10
+      "items": 8
     },
     "diari-sabadell": {
       "ok": true,
-      "items": 5
+      "items": 8
     },
     "diari-terrassa": {
       "ok": true,
@@ -22,7 +22,7 @@
     },
     "ayto-castellar": {
       "ok": true,
-      "items": 3
+      "items": 4
     },
     "ayto-sentmenat": {
       "ok": true,
@@ -65,8 +65,9 @@
       "items": 1
     },
     "ayto-cerdanyola": {
-      "ok": true,
-      "items": 2
+      "ok": false,
+      "error": "The operation was aborted due to timeout",
+      "items": 0
     },
     "ayto-badia": {
       "ok": true,
@@ -81,6 +82,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-12T15:32:20.964Z",
-  "actualizado": "2026-11-12T15:32:44.550Z"
+  "consultat": "2026-11-12T17:26:45.211Z",
+  "actualizado": "2026-11-12T17:27:21.059Z"
 }

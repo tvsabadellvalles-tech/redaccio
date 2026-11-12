@@ -104,6 +104,146 @@
   },
   "items": [
     {
+      "id": "39a460a938a0cb24",
+      "titulo": "El Pla de Barris destinarà 25 milions d’euros a regenerar Les Termes",
+      "enlace": "https://www.isabadell.cat/societat/el-pla-de-barris-invertira-25-milions-deuros-per-regenerar-les-termes-340626/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-12T16:51:02.000Z",
+      "detectado": "2026-11-12T17:26:45.211Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "30a2ced5aa6eeb83",
+      "titulo": "La ciència omple d'activitats El Mirador",
+      "enlace": "https://www.lactual.cat/actualitat/ciencia-omple-activitats-mirador_55374_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-12T15:48:46.000Z",
+      "detectado": "2026-11-12T17:26:45.211Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "2c40769195258340",
+      "titulo": "La història curiosa de l'Eldense-Sabadell: l'escàndol de les apostes",
+      "enlace": "https://radiosabadell.fm/esports/ce-sabadell/historia-curiosa-eldense-sabadell-escandol-apostes",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-12T15:35:43.000Z",
+      "detectado": "2026-11-12T17:26:45.211Z",
+      "sensible": false,
+      "etiquetas": [
+        "emergencias",
+        "sucesos",
+        "salud",
+        "deportes"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "emergències, successos, salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "4e2e0449caf9e950",
+      "titulo": "Qui completarà el mig del camp del Sabadell a Elda amb les baixes d''Urri' i Quadri?",
+      "enlace": "https://radiosabadell.fm/esports/ce-sabadell/qui-completara-mig-camp-sabadell-elda",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-12T14:57:54.000Z",
+      "detectado": "2026-11-12T17:26:45.211Z",
+      "sensible": false,
+      "etiquetas": [
+        "salud",
+        "deportes"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "8dd10e5ad2147d84",
+      "titulo": "Tres professionals de l'Hospital Parc Taulí reben el reconeixement del Col·legi de Metges de Barcelona",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/quatre-professionals-tauli-reconeixement-sabadell",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-12T14:54:17.000Z",
+      "detectado": "2026-11-12T17:26:45.211Z",
+      "sensible": false,
+      "etiquetas": [
+        "salud"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "6c0a07d57a3e31ea",
+      "titulo": "Què s'amaga darrere del nou restaurant japonès que acaba d'obrir al Centre de Sabadell?",
+      "enlace": "https://www.diaridesabadell.com/sabadell/monster-sushi-restaurant-japones-obertura-nova-proposta-centre-figuerola.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-12T14:10:15.000Z",
+      "detectado": "2026-11-12T17:26:45.211Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "2b2ec3d6ae7e4b4d",
       "titulo": "Viu el Vallès: tallers d'autodefensa a la comarca pel 25-N",
       "enlace": "https://radiosabadell.fm/podcast/noticies-mati-viu-valles-tallers-autodefensa-25N-121126",
@@ -531,6 +671,29 @@
       "propuesta": false
     },
     {
+      "id": "a596245d49f50b41",
+      "titulo": "Un retrobament especial fora de la pista: \"Tothom necessita un APB a la seva vida\"",
+      "enlace": "https://www.diaridesabadell.com/esports/apb-basquet-femeni-retrobament-especial-escola-del-carme-cinquanta-anys-jugadores-emocio.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-12T10:25:34.000Z",
+      "detectado": "2026-11-12T17:26:45.211Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "5d1f48fbd4c0fef6",
       "titulo": "Sant Quirze commemora el Dia Internacional de les Dones Emprenedores amb una jornada per compartir experiències i fer xarxa",
       "enlace": "https://www.santquirzevalles.cat/actualitat/noticies/sant-quirze-commemora-el-dia-internacional-de-les-dones-emprenedores-amb-una-jornada-per-compartir-experiencies-i-fer-xarxa",
@@ -922,5 +1085,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-12T13:48:03.604Z"
+  "actualizado": "2026-11-12T17:27:21.057Z"
 }

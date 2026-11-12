@@ -2,7 +2,7 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-12T15:32:20.964Z",
+  "consultat": "2026-11-12T17:26:45.211Z",
   "total": 22,
   "activitats": [
     {
@@ -111,7 +111,7 @@
       "color": null
     },
     {
-      "titol": "[!] Comerç local Palau (NO ES POT EMETRE FINS QUE SURTI LA CAMPANYA)",
+      "titol": "COTXE! (Joan i Pep) Comerç local Palau (NO ES POT EMETRE FINS QUE SURTI LA CAMPANYA)",
       "inici": "2026-11-13T09:00:00.000Z",
       "final": "2026-11-13T10:00:00.000Z",
       "totElDia": false,
@@ -161,5 +161,5 @@
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-12T15:33:03.255Z"
+  "actualizado": "2026-11-12T17:27:43.097Z"
 }

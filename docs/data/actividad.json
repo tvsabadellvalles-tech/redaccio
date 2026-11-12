@@ -1,97 +1,6 @@
 {
   "eventos": [
     {
-      "id": "a24446a723ba057c",
-      "t": "2026-11-09T10:36:23.359Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Bellmunt: “Tot arrenca amb el Compromís de Casp de 1412”» (iSabadell).",
-      "itemId": "a052e424bb8461c6"
-    },
-    {
-      "id": "4463c71f864e5f9f",
-      "t": "2026-11-09T10:36:23.360Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Educació.",
-      "itemId": "a052e424bb8461c6"
-    },
-    {
-      "id": "453fc136d34c7b3a",
-      "t": "2026-11-09T10:36:23.361Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Santa Perpètua de Mogoda s'emporta 'El Millón'» (Ràdio Sabadell).",
-      "itemId": "4fe83c0eb5e3c640"
-    },
-    {
-      "id": "de57beb6763aba6f",
-      "t": "2026-11-09T10:36:23.362Z",
-      "agente": "rastreador",
-      "texto": "He recollit «JUGATECAMBIENTAL: ARRELA'T ALS PARCS. FEM DE JARDINERES» (Ajuntament de Barberà del Vallès).",
-      "itemId": "38e7e26e645c333a"
-    },
-    {
-      "id": "dd5d380e1e6eb511",
-      "t": "2026-11-09T10:36:23.363Z",
-      "agente": "rastreador",
-      "texto": "He recollit «CONFERÈNCIA: NINGÚ DORMINT AL CARRER» (Ajuntament de Barberà del Vallès).",
-      "itemId": "0b4b007f50c42dfc"
-    },
-    {
-      "id": "06b1df39ae007b83",
-      "t": "2026-11-09T10:36:23.364Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Cap de setmana accidentat: un cotxe acaba bolcat i xocant contra tres vehicles aparcats a Sabadell» (Diari de Sabadell).",
-      "itemId": "78583b0b25eb9172"
-    },
-    {
-      "id": "a51a2b86e2ddca73",
-      "t": "2026-11-09T10:36:23.365Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Successos, Salut.",
-      "itemId": "78583b0b25eb9172"
-    },
-    {
-      "id": "efaa6462ce805a24",
-      "t": "2026-11-09T10:36:23.366Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): successos, salut.",
-      "itemId": "78583b0b25eb9172"
-    },
-    {
-      "id": "b0751597369b2c84",
-      "t": "2026-11-09T10:36:23.367Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La Pink Run recapta més de 20.000 euros per seguir investigant contra el càncer de mama» (Diari de Sabadell).",
-      "itemId": "4fae32c935791331"
-    },
-    {
-      "id": "9668b3c9e7c84105",
-      "t": "2026-11-09T10:36:23.368Z",
-      "agente": "deduplicador",
-      "texto": "Descartada perquè és duplicada: coincideix amb «La Pink Run Mir 2026 torna a ser un èxit de participació i recapta 22.000 euros per seguir investigant contra el càncer de mama» (Ajuntament de Montcada i Reixac).",
-      "itemId": "4fae32c935791331"
-    },
-    {
-      "id": "1b74d40c00458616",
-      "t": "2026-11-09T10:36:23.369Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Aida Guidus, PAHC: \"La vaga de l'11N és un punt d'inici del que vindrà\"» (Ràdio Sabadell).",
-      "itemId": "5ec36e39320f1311"
-    },
-    {
-      "id": "c1592b88af696439",
-      "t": "2026-11-09T10:36:23.370Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La tertúlia: la vaga general de l'11N i els pressupostos» (Ràdio Sabadell).",
-      "itemId": "8bf805d524cd2189"
-    },
-    {
-      "id": "9914331234f8fc29",
-      "t": "2026-11-09T10:36:23.371Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local.",
-      "itemId": "8bf805d524cd2189"
-    },
-    {
       "id": "b2a627e69924ed7b",
       "t": "2026-11-09T10:36:23.372Z",
       "agente": "rastreador",
@@ -2799,7 +2708,98 @@
       "agente": "rastreador",
       "texto": "He recollit «Viu el Vallès: tallers d'autodefensa a la comarca pel 25-N» (Ràdio Sabadell).",
       "itemId": "2b2ec3d6ae7e4b4d"
+    },
+    {
+      "id": "38c181af64b7130b",
+      "t": "2026-11-12T17:26:45.211Z",
+      "agente": "rastreador",
+      "texto": "La font «Ajuntament de Cerdanyola del Vallès» no respon (The operation was aborted due to timeout).",
+      "itemId": null
+    },
+    {
+      "id": "f981ebf0ea6c4d28",
+      "t": "2026-11-12T17:26:45.212Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Un retrobament especial fora de la pista: \"Tothom necessita un APB a la seva vida\"» (Diari de Sabadell).",
+      "itemId": "a596245d49f50b41"
+    },
+    {
+      "id": "bb9c5ad1152c2890",
+      "t": "2026-11-12T17:26:45.213Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "a596245d49f50b41"
+    },
+    {
+      "id": "0b5ecbc03e42fe82",
+      "t": "2026-11-12T17:26:45.214Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Què s'amaga darrere del nou restaurant japonès que acaba d'obrir al Centre de Sabadell?» (Diari de Sabadell).",
+      "itemId": "6c0a07d57a3e31ea"
+    },
+    {
+      "id": "fe6bea7dda47521c",
+      "t": "2026-11-12T17:26:45.215Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Tres professionals de l'Hospital Parc Taulí reben el reconeixement del Col·legi de Metges de Barcelona» (Ràdio Sabadell).",
+      "itemId": "8dd10e5ad2147d84"
+    },
+    {
+      "id": "04763ec526b3cb6f",
+      "t": "2026-11-12T17:26:45.216Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut.",
+      "itemId": "8dd10e5ad2147d84"
+    },
+    {
+      "id": "eb2b7e47bb2a8e16",
+      "t": "2026-11-12T17:26:45.217Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Qui completarà el mig del camp del Sabadell a Elda amb les baixes d''Urri' i Quadri?» (Ràdio Sabadell).",
+      "itemId": "4e2e0449caf9e950"
+    },
+    {
+      "id": "43afb7eeb7262f74",
+      "t": "2026-11-12T17:26:45.218Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut, Esports.",
+      "itemId": "4e2e0449caf9e950"
+    },
+    {
+      "id": "abbd70154e736296",
+      "t": "2026-11-12T17:26:45.219Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La història curiosa de l'Eldense-Sabadell: l'escàndol de les apostes» (Ràdio Sabadell).",
+      "itemId": "2c40769195258340"
+    },
+    {
+      "id": "ad9e66841f5da0c8",
+      "t": "2026-11-12T17:26:45.220Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Emergències, Successos, Salut, Esports.",
+      "itemId": "2c40769195258340"
+    },
+    {
+      "id": "1b0285a1044cb1ab",
+      "t": "2026-11-12T17:26:45.221Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): emergències, successos, salut.",
+      "itemId": "2c40769195258340"
+    },
+    {
+      "id": "8f0ab4f26a984f96",
+      "t": "2026-11-12T17:26:45.222Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La ciència omple d'activitats El Mirador» (L'Actual - Castellar del Vallès).",
+      "itemId": "30a2ced5aa6eeb83"
+    },
+    {
+      "id": "68804ace1b4a894f",
+      "t": "2026-11-12T17:26:45.223Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El Pla de Barris destinarà 25 milions d’euros a regenerar Les Termes» (iSabadell).",
+      "itemId": "39a460a938a0cb24"
     }
   ],
-  "actualizado": "2026-11-12T13:48:03.608Z"
+  "actualizado": "2026-11-12T17:27:21.061Z"
 }
