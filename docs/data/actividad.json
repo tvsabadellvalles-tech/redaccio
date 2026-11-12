@@ -1,76 +1,6 @@
 {
   "eventos": [
     {
-      "id": "c5c7ab561193307b",
-      "t": "2026-11-09T11:29:13.618Z",
-      "agente": "rastreador",
-      "texto": "He recollit «TEATRE: DAKOTA» (Ajuntament de Barberà del Vallès).",
-      "itemId": "7ceb0c7c778f5d82"
-    },
-    {
-      "id": "21fca3d53b3d5413",
-      "t": "2026-11-09T11:29:13.619Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Cultura i festes.",
-      "itemId": "7ceb0c7c778f5d82"
-    },
-    {
-      "id": "40852123207fb708",
-      "t": "2026-11-09T11:29:13.620Z",
-      "agente": "rastreador",
-      "texto": "He recollit «JUGATECAMBIENTAL: LA SAMARRETA DEL PARC» (Ajuntament de Barberà del Vallès).",
-      "itemId": "5d7df8cbd62dba27"
-    },
-    {
-      "id": "07978cbc7a200273",
-      "t": "2026-11-09T11:29:13.621Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Serveis mínims a FGC per a la jornada de vaga de l'11 de novembre» (Diari de Sabadell).",
-      "itemId": "06dddf1eee2bcdd8"
-    },
-    {
-      "id": "5bd079918d1396d9",
-      "t": "2026-11-09T11:29:13.622Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat.",
-      "itemId": "06dddf1eee2bcdd8"
-    },
-    {
-      "id": "6e9e3e82c3ed2d58",
-      "t": "2026-11-09T11:29:13.623Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Posem rostre a la repressió franquista a Sabadell» (Ràdio Sabadell).",
-      "itemId": "74c66cf99ede52f6"
-    },
-    {
-      "id": "08f152a5860ff40f",
-      "t": "2026-11-09T12:26:03.414Z",
-      "agente": "rastreador",
-      "texto": "He recollit «L'Ajuntament retira disset nius de cotorres» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "0b93775bc384be16"
-    },
-    {
-      "id": "a287a24756da8af7",
-      "t": "2026-11-09T12:26:03.415Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local, Salut.",
-      "itemId": "0b93775bc384be16"
-    },
-    {
-      "id": "0a3977d5d4e48fff",
-      "t": "2026-11-09T12:26:03.416Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): font oficial · política local, salut.",
-      "itemId": "0b93775bc384be16"
-    },
-    {
-      "id": "38a9b3f25ee4e6bc",
-      "t": "2026-11-09T12:26:03.417Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Torna la Festa dels Peluixos a la Biblioteca» (Ajuntament de Ripollet).",
-      "itemId": "03f230c161bb04dd"
-    },
-    {
       "id": "63505e387ccfaa52",
       "t": "2026-11-09T12:26:03.418Z",
       "agente": "etiquetador",
@@ -2799,7 +2729,77 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Política local.",
       "itemId": "ce061a72a90d22bc"
+    },
+    {
+      "id": "6800b53d98a53fd3",
+      "t": "2026-11-12T19:19:27.465Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El Tibidabo esclata contra l'arbitratge en el partit davant de l'equip d'Ibai Llanos: \"El linier estava més pendent de sortir guapo a la càmera\"» (Diari de Sabadell).",
+      "itemId": "6fcd440bd19f3566"
+    },
+    {
+      "id": "6855879f5f2ffee1",
+      "t": "2026-11-12T19:19:27.466Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "6fcd440bd19f3566"
+    },
+    {
+      "id": "bbb61105bcd61b13",
+      "t": "2026-11-12T19:19:27.467Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Set empreses busquen obrir mercat a quatre països de l'Amèrica del Sud» (Diari de Sabadell).",
+      "itemId": "54e7cd5871e30f0c"
+    },
+    {
+      "id": "9f09076a93059691",
+      "t": "2026-11-12T19:19:27.468Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Economia i ocupació.",
+      "itemId": "54e7cd5871e30f0c"
+    },
+    {
+      "id": "40c56d48308b254f",
+      "t": "2026-11-12T19:19:27.469Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Palau al Dia - Notícies del 12/11/2026» (Ràdio Palau - Palau al Dia).",
+      "itemId": "d49d6a2e80c8d9ac"
+    },
+    {
+      "id": "b9f7a0113d3a7df2",
+      "t": "2026-11-12T19:19:27.470Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El tret de sortida a la campanya electoral, EN DIRECTE» (iSabadell).",
+      "itemId": "8f8a5cd33042ef9e"
+    },
+    {
+      "id": "c0c86dd8f6e65d27",
+      "t": "2026-11-12T19:19:27.471Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El Congrés convalida el decret d’habitatge: com afecta propietaris i llogaters?» (Diari de Sabadell).",
+      "itemId": "b806569de5399f63"
+    },
+    {
+      "id": "7716b390668d9a73",
+      "t": "2026-11-12T19:19:27.472Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Obres i urbanisme.",
+      "itemId": "b806569de5399f63"
+    },
+    {
+      "id": "ada731947f632361",
+      "t": "2026-11-12T19:19:27.473Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Així serà el Nadal 2026 a Sabadell: el Llaminer arriba a més barris» (iSabadell).",
+      "itemId": "c6728a07dc26efb9"
+    },
+    {
+      "id": "8d6f049c36bbd787",
+      "t": "2026-11-12T19:19:27.474Z",
+      "agente": "deduplicador",
+      "texto": "Descartada perquè és duplicada: coincideix amb «Així serà el Nadal 2026 a Sabadell: el Llaminer estrena aventura i arriba amb novetats» (Diari de Sabadell).",
+      "itemId": "c6728a07dc26efb9"
     }
   ],
-  "actualizado": "2026-11-12T18:14:40.764Z"
+  "actualizado": "2026-11-12T19:19:44.442Z"
 }

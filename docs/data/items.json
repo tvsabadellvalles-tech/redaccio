@@ -104,6 +104,88 @@
   },
   "items": [
     {
+      "id": "c6728a07dc26efb9",
+      "titulo": "Així serà el Nadal 2026 a Sabadell: el Llaminer arriba a més barris",
+      "enlace": "https://www.isabadell.cat/nadal/nadal-2026-sabadell-llaminer-340634/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-12T19:02:10.000Z",
+      "detectado": "2026-11-12T19:19:27.465Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": "bd29fc5525566c60",
+      "propuesta": false
+    },
+    {
+      "id": "b806569de5399f63",
+      "titulo": "El Congrés convalida el decret d’habitatge: com afecta propietaris i llogaters?",
+      "enlace": "https://www.diaridesabadell.com/sabadell/mesures-lloguer-congres-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-12T18:30:05.000Z",
+      "detectado": "2026-11-12T19:19:27.465Z",
+      "sensible": false,
+      "etiquetas": [
+        "urbanismo"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "8f8a5cd33042ef9e",
+      "titulo": "El tret de sortida a la campanya electoral, EN DIRECTE",
+      "enlace": "https://www.isabadell.cat/politica/el-tret-de-sortida-a-la-campanya-electoral-en-directe-340625/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-12T18:21:47.000Z",
+      "detectado": "2026-11-12T19:19:27.465Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "d49d6a2e80c8d9ac",
+      "titulo": "Palau al Dia - Notícies del 12/11/2026",
+      "enlace": "https://www.radiopalau.cat/podcasts/palau-al-dia/radiopalau_podcast_6833/",
+      "fuente": "radio-palau",
+      "fuenteNombre": "Ràdio Palau - Palau al Dia",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "palau",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-12T17:59:55.000Z",
+      "detectado": "2026-11-12T19:19:27.465Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "ce061a72a90d22bc",
       "titulo": "Consulta quan seran les enceses dels llums de Nadal a Sabadell",
       "enlace": "https://radiosabadell.fm/actualitat/societat/consulta-quan-seran-les-enceses-dels-llums-de-nadal-sabadell",
@@ -204,6 +286,31 @@
       "propuesta": false
     },
     {
+      "id": "54e7cd5871e30f0c",
+      "titulo": "Set empreses busquen obrir mercat a quatre països de l'Amèrica del Sud",
+      "enlace": "https://www.diaridesabadell.com/diners/empreses-catalanes-con-sud-cambra-comerc-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-12T17:21:17.000Z",
+      "detectado": "2026-11-12T19:19:27.465Z",
+      "sensible": false,
+      "etiquetas": [
+        "economia"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "economia i ocupació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "39a460a938a0cb24",
       "titulo": "El Pla de Barris destinarà 25 milions d’euros a regenerar Les Termes",
       "enlace": "https://www.isabadell.cat/societat/el-pla-de-barris-invertira-25-milions-deuros-per-regenerar-les-termes-340626/",
@@ -219,6 +326,27 @@
       "detectado": "2026-11-12T17:26:45.211Z",
       "sensible": false,
       "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "6fcd440bd19f3566",
+      "titulo": "El Tibidabo esclata contra l'arbitratge en el partit davant de l'equip d'Ibai Llanos: \"El linier estava més pendent de sortir guapo a la càmera\"",
+      "enlace": "https://www.diaridesabadell.com/esports/tibidabo-torre-romeu-ibai-llanos-ronin-fc-arbitratge-polemica-denuncia-viral-comunicat.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-12T16:10:38.000Z",
+      "detectado": "2026-11-12T19:19:27.465Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
       "puntuacion": 0,
       "motivos": [],
       "duplicadaDe": null,
@@ -1185,5 +1313,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-12T18:14:40.760Z"
+  "actualizado": "2026-11-12T19:19:44.439Z"
 }
