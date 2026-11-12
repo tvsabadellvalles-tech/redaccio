@@ -104,6 +104,31 @@
   },
   "items": [
     {
+      "id": "239b3959dc798c60",
+      "titulo": "Demanen col·laboració per localitzar una dona desapareguda a Sabadell",
+      "enlace": "https://www.isabadell.cat/successos/collaboracio-localitzar-dona-desapareguda-340652/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-12T19:23:15.000Z",
+      "detectado": "2026-11-12T19:58:22.728Z",
+      "sensible": false,
+      "etiquetas": [
+        "sucesos"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "successos"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "c6728a07dc26efb9",
       "titulo": "Així serà el Nadal 2026 a Sabadell: el Llaminer arriba a més barris",
       "enlace": "https://www.isabadell.cat/nadal/nadal-2026-sabadell-llaminer-340634/",
@@ -163,6 +188,32 @@
       "etiquetas": [],
       "puntuacion": 0,
       "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "a43298b9dd63d395",
+      "titulo": "Els protagonistes del Nadal, més enllà del Llaminer: l'Ambaixador, els Reis i els pessebristes",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/protagonistes-nadal-llaminer-ambaixador-reis-",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-12T18:00:09.000Z",
+      "detectado": "2026-11-12T19:58:22.728Z",
+      "sensible": true,
+      "etiquetas": [
+        "economia",
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "economia i ocupació"
+      ],
       "duplicadaDe": null,
       "propuesta": false
     },
@@ -1313,5 +1364,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-12T19:19:44.439Z"
+  "actualizado": "2026-11-12T19:58:42.760Z"
 }
