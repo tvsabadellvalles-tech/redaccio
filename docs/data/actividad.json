@@ -1,69 +1,6 @@
 {
   "eventos": [
     {
-      "id": "38c181af64b7130b",
-      "t": "2026-11-08T12:23:31.188Z",
-      "agente": "rastreador",
-      "texto": "La font «Ajuntament de Cerdanyola del Vallès» no respon (The operation was aborted due to timeout).",
-      "itemId": null
-    },
-    {
-      "id": "b5af80d9641256f9",
-      "t": "2026-11-08T12:23:31.189Z",
-      "agente": "rastreador",
-      "texto": "La font «Ajuntament de Sant Quirze del Vallès» no respon (HTTP 503).",
-      "itemId": null
-    },
-    {
-      "id": "88a8240c8b301ed5",
-      "t": "2026-11-08T12:23:31.191Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Ballada de country solidària en benefici d'Atendis» (Ràdio Sabadell).",
-      "itemId": "16b4c5b5963022df"
-    },
-    {
-      "id": "bdc79c9e2521fef8",
-      "t": "2026-11-08T12:23:31.192Z",
-      "agente": "deduplicador",
-      "texto": "Descartada perquè és duplicada: coincideix amb «Ballada de country solidari en benefici d'Atendis» (Ràdio Sabadell).",
-      "itemId": "16b4c5b5963022df"
-    },
-    {
-      "id": "520a7e05c963ae8a",
-      "t": "2026-11-08T12:23:31.193Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Les grans oblidades de la Guerra Civil i la postguerra: \"De les dones no se n'ha parlat gens\"» (Diari de Sabadell).",
-      "itemId": "35470a1f7972ae50"
-    },
-    {
-      "id": "1b51521eaf373ec3",
-      "t": "2026-11-08T12:23:31.194Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Un espectacular 'fly' gairebé salva un punt per a l'OAR Gràcia a Almassora» (Ràdio Sabadell).",
-      "itemId": "34f7e4ac2513426d"
-    },
-    {
-      "id": "7281a45bec634a7d",
-      "t": "2026-11-08T12:23:31.195Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Salut, Esports.",
-      "itemId": "34f7e4ac2513426d"
-    },
-    {
-      "id": "12dceb4f82e3da85",
-      "t": "2026-11-08T13:17:29.161Z",
-      "agente": "rastreador",
-      "texto": "La font «Ajuntament de Cerdanyola del Vallès» torna a respondre.",
-      "itemId": null
-    },
-    {
-      "id": "c8689bf28be2d128",
-      "t": "2026-11-08T14:35:57.383Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Sabadell 'B' 1-2 Turó Peira: el filial torna a caure derrotat Olímpia» (Ràdio Sabadell).",
-      "itemId": "a59d3ccb57f08c74"
-    },
-    {
       "id": "1661fd3e44f6a3b0",
       "t": "2026-11-08T14:35:57.384Z",
       "agente": "etiquetador",
@@ -2799,7 +2736,70 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Mobilitat.",
       "itemId": "6d1aa8ea2ce616f0"
+    },
+    {
+      "id": "e655e382d9ae23e3",
+      "t": "2026-11-12T09:48:09.858Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El 25N a Polinyà: caminada, acte memorial i tallers» (Ajuntament de Polinyà).",
+      "itemId": "021ec7ac84736255"
+    },
+    {
+      "id": "59eedce1f225af71",
+      "t": "2026-11-12T09:48:09.859Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Dimarts, reuni� informativa sobre la retirada de l'amiant a les comunitats d'av. del Cant�bric, 21-27 i Santander 6-10» (Ajuntament de Badia del Vallès).",
+      "itemId": "704cc79157711260"
+    },
+    {
+      "id": "3e9e8d23442a1f80",
+      "t": "2026-11-12T09:48:09.860Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Aimee Rodríguez guanya el concurs de dibuix de L'Informatiu per a la portada de l'especial 20N» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "c960b23ee4e3f5c1"
+    },
+    {
+      "id": "e36d2b7652626441",
+      "t": "2026-11-12T09:48:09.861Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local.",
+      "itemId": "c960b23ee4e3f5c1"
+    },
+    {
+      "id": "709ad98b915a1ec5",
+      "t": "2026-11-12T09:48:09.862Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · política local.",
+      "itemId": "c960b23ee4e3f5c1"
+    },
+    {
+      "id": "4aabbece0f5fee2c",
+      "t": "2026-11-12T09:48:09.863Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Veïns de Gràcia demanen un nou semàfor a la Gran Via per evitar els passos soterrats: \"Hem agafat por\"» (Diari de Sabadell).",
+      "itemId": "bde5e2e4ec8b9503"
+    },
+    {
+      "id": "a30430ed2c0c7c45",
+      "t": "2026-11-12T09:48:09.864Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat.",
+      "itemId": "bde5e2e4ec8b9503"
+    },
+    {
+      "id": "ae2b45df43e3fc59",
+      "t": "2026-11-12T09:48:09.865Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Les pluges i els efectes de la vaga provoquen \"retards generalitzats\" a la xarxa de Rodalies» (Diari de Sabadell).",
+      "itemId": "9bbabdf337c01d31"
+    },
+    {
+      "id": "64ba1533c1c12227",
+      "t": "2026-11-12T09:48:09.866Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat.",
+      "itemId": "9bbabdf337c01d31"
     }
   ],
-  "actualizado": "2026-11-12T07:59:39.023Z"
+  "actualizado": "2026-11-12T09:48:34.640Z"
 }

@@ -104,6 +104,76 @@
   },
   "items": [
     {
+      "id": "9bbabdf337c01d31",
+      "titulo": "Les pluges i els efectes de la vaga provoquen \"retards generalitzats\" a la xarxa de Rodalies",
+      "enlace": "https://www.diaridesabadell.com/sabadell/pluges-trens-rodalies-retards-vagues.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-12T08:33:40.000Z",
+      "detectado": "2026-11-12T09:48:09.858Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "mobilitat"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "bde5e2e4ec8b9503",
+      "titulo": "Veïns de Gràcia demanen un nou semàfor a la Gran Via per evitar els passos soterrats: \"Hem agafat por\"",
+      "enlace": "https://www.diaridesabadell.com/sabadell/veins-gracia-semafor-gran-via-sabadell-passos-soterrats.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-12T08:02:19.000Z",
+      "detectado": "2026-11-12T09:48:09.858Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "mobilitat"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "c960b23ee4e3f5c1",
+      "titulo": "Aimee Rodríguez guanya el concurs de dibuix de L'Informatiu per a la portada de l'especial 20N",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/aimee-rodriguez-guanya-el-concurs-de-dibuix-de-linformatiu-per-a-la-portada-de-lespecial-20n.html",
+      "fuente": "ayto-santa-perpetua",
+      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
+      "tipo": "oficial",
+      "resumen": "Dimarts 10 de novembre, la Regidoria de Comunicació a través de la redacció de la publicació L'Informatiu va donar a conèixer les dotze portades finalistes escollides de la norantena de presentades a aquest cinquè concurs de dibuix.",
+      "municipio": "santa-perpetua",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-12T07:45:00.000Z",
+      "detectado": "2026-11-12T09:48:09.858Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "font oficial",
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
       "id": "6d1aa8ea2ce616f0",
       "titulo": "Retards generalitzats a Rodalies",
       "enlace": "https://www.isabadell.cat/societat/mobilitat/retards-generalitzats-a-rodalies-340617/",
@@ -172,7 +242,51 @@
       ],
       "duplicadaDe": null,
       "propuesta": true
+    },
+    {
+      "id": "021ec7ac84736255",
+      "titulo": "El 25N a Polinyà: caminada, acte memorial i tallers",
+      "enlace": "https://www.polinya.cat/actualitat/noticies/11313-el-25n-a-polinya-caminada-acte-memorial-i-tallers.html",
+      "fuente": "ayto-polinya",
+      "fuenteNombre": "Ajuntament de Polinyà",
+      "tipo": "oficial",
+      "resumen": "La caminada contra les violències masclistes és l'acte central de la commemoració d'aquesta jornada i les inscripcions ja estan obertes.",
+      "municipio": "polinya",
+      "municipiosMencionados": [
+        "polinya"
+      ],
+      "publicado": "2026-11-11T23:00:00.000Z",
+      "detectado": "2026-11-12T09:48:09.858Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "704cc79157711260",
+      "titulo": "Dimarts, reuni� informativa sobre la retirada de l'amiant a les comunitats d'av. del Cant�bric, 21-27 i Santander 6-10",
+      "enlace": "http://www.badiadelvalles.cat/document.php?id=12326",
+      "fuente": "ayto-badia",
+      "fuenteNombre": "Ajuntament de Badia del Vallès",
+      "tipo": "oficial",
+      "resumen": "",
+      "municipio": "badia",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-11T23:00:00.000Z",
+      "detectado": "2026-11-12T09:48:09.858Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
     }
   ],
-  "actualizado": "2026-11-12T07:59:39.021Z"
+  "actualizado": "2026-11-12T09:48:34.634Z"
 }
