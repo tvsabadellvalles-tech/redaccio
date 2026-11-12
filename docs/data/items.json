@@ -104,6 +104,127 @@
   },
   "items": [
     {
+      "id": "3103799746dff761",
+      "titulo": "Cerdanyola presentarà la programació de Nadal el 17 de novembre",
+      "enlace": "http://www.cerdanyola.cat/actualitat/cerdanyola-presentara-la-programacio-de-nadal-el-17-de-novembre",
+      "fuente": "ayto-cerdanyola",
+      "fuenteNombre": "Ajuntament de Cerdanyola del Vallès",
+      "tipo": "oficial",
+      "resumen": "Cerdanyola presentarà la programació de Nadal el 17 de novembre Cerdanyola ja es prepara per viure un nou Nadal ple de llum, música, espectacles i activitats per a tots els públics. El proper dimarts 17 de novembre, a les 19 h,…",
+      "municipio": "cerdanyola",
+      "municipiosMencionados": [
+        "cerdanyola"
+      ],
+      "publicado": "2026-11-12T11:38:16.000Z",
+      "detectado": "2026-11-12T11:43:44.964Z",
+      "sensible": true,
+      "etiquetas": [
+        "politica",
+        "economia",
+        "deportes",
+        "cultura"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "font oficial",
+        "política local, economia i ocupació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "d56d76e80c83dbe8",
+      "titulo": "Un total de 102 propostes ciutadanes s'han presentat al procés de Pressupostos Participatius de l'Ajuntament",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/un-total-de-102-propostes-ciutadanes-shan-presentat-al-proces-de-pressupostos-participatius-de-lajuntament.html",
+      "fuente": "ayto-santa-perpetua",
+      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
+      "tipo": "oficial",
+      "resumen": "Totes les propostes es poden consultar al portal de Participació Ciutadana Participa311 d'aquest web municipal",
+      "municipio": "santa-perpetua",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-12T11:30:00.000Z",
+      "detectado": "2026-11-12T11:43:44.964Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "font oficial",
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "ff3af15784a28ec5",
+      "titulo": "La Cambra de la Propietat qüestiona l'impacte de la vaga general: \"Només genera més crispació\"",
+      "enlace": "https://radiosabadell.fm/actualitat/economia/la-cambra-de-la-propietat-questiona-limpacte-de-la-vaga-general-nomes-genera",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-12T11:22:56.000Z",
+      "detectado": "2026-11-12T11:43:44.964Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica",
+        "urbanismo"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "política local, obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "43271215ee1b3ee9",
+      "titulo": "Comença el muntatge del Calendari d'Advent del Llaminer",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/comenca-muntatge-calendari-advent-llaminer",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-12T11:00:30.000Z",
+      "detectado": "2026-11-12T11:43:44.964Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "4f15e8a2404a7876",
+      "titulo": "Més de 5.000 clients afectats a Sabadell per una avaria al subministrament elèctric",
+      "enlace": "https://www.diaridesabadell.com/sabadell/tall-llum-sabadell-creu-alta-corte-ingles-endesa.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-12T10:51:28.000Z",
+      "detectado": "2026-11-12T11:43:44.964Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "42eb3002ffa9695b",
       "titulo": "Més de 5.000 veïns sense llum per una avaria elèctrica",
       "enlace": "https://radiosabadell.fm/actualitat/societat/mes-5000-veins-sense-llum-avaria-electrica",
@@ -461,5 +582,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-12T10:51:53.421Z"
+  "actualizado": "2026-11-12T11:44:04.781Z"
 }
