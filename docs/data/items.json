@@ -104,6 +104,248 @@
   },
   "items": [
     {
+      "id": "2b2ec3d6ae7e4b4d",
+      "titulo": "Viu el Vallès: tallers d'autodefensa a la comarca pel 25-N",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-mati-viu-valles-tallers-autodefensa-25N-121126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-12T13:30:23.000Z",
+      "detectado": "2026-11-12T13:47:47.536Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "960f7231528dd0f2",
+      "titulo": "Quatre supermercats de Castellar participen en el Gran Recapte",
+      "enlace": "https://www.lactual.cat/actualitat/quatre-supermercats-castellar-participen-en-gran-recapte_55359_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [
+        "castellar"
+      ],
+      "publicado": "2026-11-12T13:22:03.000Z",
+      "detectado": "2026-11-12T13:47:47.536Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "831b449c23351f4f",
+      "titulo": "Sabadell renovarà Les Termes i la ronda Santa Maria amb 25 M€ del Pla de Barris",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-migdia-les-termes-pla-barris-121126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-12T13:20:54.000Z",
+      "detectado": "2026-11-12T13:47:47.536Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "39eab053187d0cab",
+      "titulo": "Qui farà de Quadri i d'Urri aquest diumenge a Elda?",
+      "enlace": "https://radiosabadell.fm/podcast/hotel-suis-121126-Eldense-Urri-Quadri",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-12T13:14:02.000Z",
+      "detectado": "2026-11-12T13:47:47.536Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "518a0631c407b0ca",
+      "titulo": "Francesc Bellmunt presenta 'Via morta' a l'Espai Foc",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-mati-via-morta-francesc-bellmunt-121126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-12T12:57:39.000Z",
+      "detectado": "2026-11-12T13:47:47.536Z",
+      "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "3c5b58fc4fc10c6e",
+      "titulo": "Aquest divendres s'inaugura el nou Esclat",
+      "enlace": "https://www.lactual.cat/actualitat/aquest-divendres-inaugura-nou-esclat_55356_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-12T12:56:26.000Z",
+      "detectado": "2026-11-12T10:51:34.039Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "68c46f9ec0a9b70b",
+      "titulo": "Tall nocturn per les obres d’arranjament de la barana del pont de la C-58",
+      "enlace": "https://www.santquirzevalles.cat/actualitat/noticies/tall-nocturn-per-les-obres-d2019arranjament-de-la-barana-del-pont-de-la-c-58",
+      "fuente": "ayto-sant-quirze",
+      "fuenteNombre": "Ajuntament de Sant Quirze del Vallès",
+      "tipo": "oficial",
+      "resumen": "L’accés a Sant Quirze des de Sabadell romandrà tallat de les 22 h del dijous 12 de novembre a les 4 h de la matinada de divendres 13",
+      "municipio": "sant-quirze",
+      "municipiosMencionados": [
+        "sabadell",
+        "sant-quirze"
+      ],
+      "publicado": "2026-11-12T12:54:04.000Z",
+      "detectado": "2026-11-12T13:47:47.536Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad",
+        "urbanismo"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "font oficial",
+        "mobilitat, obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "e6c73757e4de4936",
+      "titulo": "Debat de portaveus sobre l'aprovació del pressupost municipal per al 2027",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-mati-debat-pressupostos-121126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-12T12:51:59.000Z",
+      "detectado": "2026-11-12T13:47:47.536Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "4187b74922d918ef",
+      "titulo": "Nil Altesa Pardo, un exemple de lluita contra les malalties rares",
+      "enlace": "https://www.lactual.cat/actualitat/nil-altesa-pardo-exemple-lluita-contra-malalties-rares_55358_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-12T12:45:25.000Z",
+      "detectado": "2026-11-12T13:47:47.536Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "a771c545cc9f8968",
+      "titulo": "Sabadell rebrà 12,3 milions d'euros de la Generalitat per transformar les Termes i la Creu de Barberà",
+      "enlace": "https://www.diaridesabadell.com/sabadell/rehabilitacio-barris-termes-creu-barbera-sabadell-habitatges.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-12T12:28:00.000Z",
+      "detectado": "2026-11-12T13:47:47.536Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "09a2dacd3bb3b70b",
+      "titulo": "El Pla de Barris permetrà invertir més de 24 milions d'euros al sud de Sabadell",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/ajuntament-24-milions-pla-barris-sabadell",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-12T12:16:52.000Z",
+      "detectado": "2026-11-12T13:47:47.536Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica",
+        "urbanismo",
+        "economia",
+        "educacion",
+        "cultura"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "política local, obres i urbanisme, economia i ocupació, educació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
       "id": "41546022b1aacd5d",
       "titulo": "Miquel Àngel Vicente, Cambra de la Propietat: \"Han destruït el mercat de lloguer\"",
       "enlace": "https://radiosabadell.fm/podcast/noticies-mati-cambra-propietat-vaga-general-121126",
@@ -312,25 +554,6 @@
       "propuesta": false
     },
     {
-      "id": "3c5b58fc4fc10c6e",
-      "titulo": "Aquest divendres s'inaugura el nou Esclat",
-      "enlace": "https://www.lactual.cat/actualitat/aquest-divendres-inaugura-nou-esclat_55356_102.html",
-      "fuente": "ayto-castellar",
-      "fuenteNombre": "L'Actual - Castellar del Vallès",
-      "tipo": "medio",
-      "resumen": "",
-      "municipio": "castellar",
-      "municipiosMencionados": [],
-      "publicado": "2026-11-12T10:11:29.000Z",
-      "detectado": "2026-11-12T10:51:34.039Z",
-      "sensible": false,
-      "etiquetas": [],
-      "puntuacion": 0,
-      "motivos": [],
-      "duplicadaDe": null,
-      "propuesta": false
-    },
-    {
       "id": "afc44b35c69cafab",
       "titulo": "Amunt El Teló 11/11/26",
       "enlace": "https://radiosabadell.fm/alacarta/audio/amunt-el-telo-111126",
@@ -377,7 +600,7 @@
       "fuente": "ayto-cerdanyola",
       "fuenteNombre": "Ajuntament de Cerdanyola del Vallès",
       "tipo": "oficial",
-      "resumen": "El desembre, bona música al Teatre Ateneu Cerdanyola és una ciutat beneïda per la música. Solistes, grups, escoles, festivals i corals són la mostra d’una gran creativitat musical de les cerdanyolenques i els cerdanyolencs. La programació…",
+      "resumen": "El desembre, bona música al Teatre Ateneu! Cerdanyola és una ciutat beneïda per la música. Solistes, grups, escoles, festivals i corals són la mostra d’una gran creativitat musical de les cerdanyolenques i els cerdanyolencs. La…",
       "municipio": "cerdanyola",
       "municipiosMencionados": [
         "cerdanyola"
@@ -699,5 +922,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-12T12:26:32.393Z"
+  "actualizado": "2026-11-12T13:48:03.604Z"
 }

@@ -1,125 +1,6 @@
 {
   "eventos": [
     {
-      "id": "fe03284f1142e1c1",
-      "t": "2026-11-09T08:53:52.188Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local, Cultura i festes.",
-      "itemId": "73a7f7c0baea80f0"
-    },
-    {
-      "id": "30bc3ab657ddf2ba",
-      "t": "2026-11-09T08:53:52.189Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "73a7f7c0baea80f0"
-    },
-    {
-      "id": "1c55d3066098bfe8",
-      "t": "2026-11-09T08:53:52.190Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · política local.",
-      "itemId": "73a7f7c0baea80f0"
-    },
-    {
-      "id": "83c77e563d51e13a",
-      "t": "2026-11-09T08:53:52.191Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Cau una xarxa amb presència a Sabadell que introduïa immigrants de manera irregular a Catalunya» (Diari de Sabadell).",
-      "itemId": "54dc1740f966756a"
-    },
-    {
-      "id": "fb96939385a927f4",
-      "t": "2026-11-09T08:53:52.192Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "54dc1740f966756a"
-    },
-    {
-      "id": "a3e7ca008b60e2ec",
-      "t": "2026-11-09T08:53:52.193Z",
-      "agente": "rastreador",
-      "texto": "He recollit «L’Esplai l’Esquirol celebra els seus 40 anys amb una festa pel Dia Universal dels Drets dels Infants» (Ajuntament de Barberà del Vallès).",
-      "itemId": "b1accd90b479b146"
-    },
-    {
-      "id": "fe54c720451ee226",
-      "t": "2026-11-09T08:53:52.194Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Salut, Educació, Cultura i festes.",
-      "itemId": "b1accd90b479b146"
-    },
-    {
-      "id": "a21ee03fa72c2e0f",
-      "t": "2026-11-09T08:53:52.195Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "b1accd90b479b146"
-    },
-    {
-      "id": "2568683443080917",
-      "t": "2026-11-09T08:53:52.196Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · salut, educació.",
-      "itemId": "b1accd90b479b146"
-    },
-    {
-      "id": "e01ff6ce04aaac8f",
-      "t": "2026-11-09T08:53:52.197Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El temps a Sabadell: inestabilitat i possibilitat de pluges durant la setmana» (Diari de Sabadell).",
-      "itemId": "e4d794dba2caea7c"
-    },
-    {
-      "id": "4d66635302736633",
-      "t": "2026-11-09T08:53:52.198Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Núria Perpinyà ens convida a explorar el cos humà amb la novel·la 'El cos invisible'» (Ajuntament de Cerdanyola del Vallès).",
-      "itemId": "5ea4598e65805b33"
-    },
-    {
-      "id": "90aab19df0a4fe04",
-      "t": "2026-11-09T08:53:52.199Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local, Obres i urbanisme, Educació, Cultura i festes.",
-      "itemId": "5ea4598e65805b33"
-    },
-    {
-      "id": "963bd6b21f0ba31b",
-      "t": "2026-11-09T08:53:52.200Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (5 punts): font oficial · política local, obres i urbanisme, educació.",
-      "itemId": "5ea4598e65805b33"
-    },
-    {
-      "id": "3eb104b31493a724",
-      "t": "2026-11-09T10:36:23.355Z",
-      "agente": "rastreador",
-      "texto": "He recollit «‘La vida que hi ha entre les parets’» (iSabadell).",
-      "itemId": "3ea99672bc1126ba"
-    },
-    {
-      "id": "59ab09953db1b6f2",
-      "t": "2026-11-09T10:36:23.356Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Educació.",
-      "itemId": "3ea99672bc1126ba"
-    },
-    {
-      "id": "f6c45b174fe0b95d",
-      "t": "2026-11-09T10:36:23.357Z",
-      "agente": "rastreador",
-      "texto": "He recollit «21 de novembre: Activitat comunitària intercultural al Centre Cívic Ca n'Amiguet» (Ajuntament de Barberà del Vallès).",
-      "itemId": "cb8669673cc6311e"
-    },
-    {
-      "id": "d0842cb5ea4478ce",
-      "t": "2026-11-09T10:36:23.358Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Cultura i festes.",
-      "itemId": "cb8669673cc6311e"
-    },
-    {
       "id": "a24446a723ba057c",
       "t": "2026-11-09T10:36:23.359Z",
       "agente": "rastreador",
@@ -2799,7 +2680,126 @@
       "agente": "rastreador",
       "texto": "He recollit «Miquel Àngel Vicente, Cambra de la Propietat: \"Han destruït el mercat de lloguer\"» (Ràdio Sabadell).",
       "itemId": "41546022b1aacd5d"
+    },
+    {
+      "id": "8ac5e28333543eb9",
+      "t": "2026-11-12T13:47:47.536Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El Pla de Barris permetrà invertir més de 24 milions d'euros al sud de Sabadell» (Ràdio Sabadell).",
+      "itemId": "09a2dacd3bb3b70b"
+    },
+    {
+      "id": "141e357bf4727c8f",
+      "t": "2026-11-12T13:47:47.537Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local, Obres i urbanisme, Economia i ocupació, Educació, Cultura i festes.",
+      "itemId": "09a2dacd3bb3b70b"
+    },
+    {
+      "id": "78e1fc0778681abe",
+      "t": "2026-11-12T13:47:47.538Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): política local, obres i urbanisme, economia i ocupació, educació.",
+      "itemId": "09a2dacd3bb3b70b"
+    },
+    {
+      "id": "0f92eb728e82e910",
+      "t": "2026-11-12T13:47:47.539Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Sabadell rebrà 12,3 milions d'euros de la Generalitat per transformar les Termes i la Creu de Barberà» (Diari de Sabadell).",
+      "itemId": "a771c545cc9f8968"
+    },
+    {
+      "id": "f1ff45ca5973cd42",
+      "t": "2026-11-12T13:47:47.540Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local.",
+      "itemId": "a771c545cc9f8968"
+    },
+    {
+      "id": "e7a4dab3a8ce87f3",
+      "t": "2026-11-12T13:47:47.541Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Nil Altesa Pardo, un exemple de lluita contra les malalties rares» (L'Actual - Castellar del Vallès).",
+      "itemId": "4187b74922d918ef"
+    },
+    {
+      "id": "b72d7b1fc852bd0b",
+      "t": "2026-11-12T13:47:47.542Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Debat de portaveus sobre l'aprovació del pressupost municipal per al 2027» (Ràdio Sabadell).",
+      "itemId": "e6c73757e4de4936"
+    },
+    {
+      "id": "66f8ad0a141acdc1",
+      "t": "2026-11-12T13:47:47.543Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local.",
+      "itemId": "e6c73757e4de4936"
+    },
+    {
+      "id": "590374c449e6e62c",
+      "t": "2026-11-12T13:47:47.544Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Tall nocturn per les obres d’arranjament de la barana del pont de la C-58» (Ajuntament de Sant Quirze del Vallès).",
+      "itemId": "68c46f9ec0a9b70b"
+    },
+    {
+      "id": "1e5d714e4b0d43a7",
+      "t": "2026-11-12T13:47:47.545Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat, Obres i urbanisme.",
+      "itemId": "68c46f9ec0a9b70b"
+    },
+    {
+      "id": "0a543dac4b4465e4",
+      "t": "2026-11-12T13:47:47.546Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): font oficial · mobilitat, obres i urbanisme.",
+      "itemId": "68c46f9ec0a9b70b"
+    },
+    {
+      "id": "642af8a5126d9fcf",
+      "t": "2026-11-12T13:47:47.547Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Francesc Bellmunt presenta 'Via morta' a l'Espai Foc» (Ràdio Sabadell).",
+      "itemId": "518a0631c407b0ca"
+    },
+    {
+      "id": "c066215fe348a192",
+      "t": "2026-11-12T13:47:47.548Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "518a0631c407b0ca"
+    },
+    {
+      "id": "065fa7efa174779b",
+      "t": "2026-11-12T13:47:47.549Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Qui farà de Quadri i d'Urri aquest diumenge a Elda?» (Ràdio Sabadell).",
+      "itemId": "39eab053187d0cab"
+    },
+    {
+      "id": "b8122a61c95789a8",
+      "t": "2026-11-12T13:47:47.550Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Sabadell renovarà Les Termes i la ronda Santa Maria amb 25 M€ del Pla de Barris» (Ràdio Sabadell).",
+      "itemId": "831b449c23351f4f"
+    },
+    {
+      "id": "c7ebceef6ec46e33",
+      "t": "2026-11-12T13:47:47.551Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Quatre supermercats de Castellar participen en el Gran Recapte» (L'Actual - Castellar del Vallès).",
+      "itemId": "960f7231528dd0f2"
+    },
+    {
+      "id": "89ff89356a35e613",
+      "t": "2026-11-12T13:47:47.552Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Viu el Vallès: tallers d'autodefensa a la comarca pel 25-N» (Ràdio Sabadell).",
+      "itemId": "2b2ec3d6ae7e4b4d"
     }
   ],
-  "actualizado": "2026-11-12T12:26:32.396Z"
+  "actualizado": "2026-11-12T13:48:03.608Z"
 }
