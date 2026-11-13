@@ -1,62 +1,6 @@
 {
   "eventos": [
     {
-      "id": "1eaef87a5c8346e7",
-      "t": "2026-11-09T13:42:57.007Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Creix la desconnexió amb l'activitat política de Terrassa: un 40% dels veïns no saben quins partits tenen representació» (Diari de Terrassa).",
-      "itemId": "094f3725ec53791f"
-    },
-    {
-      "id": "4743a8c998f59988",
-      "t": "2026-11-09T13:42:57.008Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local.",
-      "itemId": "094f3725ec53791f"
-    },
-    {
-      "id": "4b8f4c9661038873",
-      "t": "2026-11-09T13:42:57.009Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Torna el futbol a la Nova Creu Alta: la prèvia del Sabadell-Sanse» (Ràdio Sabadell).",
-      "itemId": "2654c12ca63e573a"
-    },
-    {
-      "id": "8991071c7890b1b3",
-      "t": "2026-11-09T13:42:57.010Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Esports.",
-      "itemId": "2654c12ca63e573a"
-    },
-    {
-      "id": "f4b152730fb673cc",
-      "t": "2026-11-09T13:42:57.011Z",
-      "agente": "rastreador",
-      "texto": "He recollit «12 de novembre: Jornada 'IA contra IA: com defensar-se de la nova generació de ciberatacs?'» (Ajuntament de Barberà del Vallès).",
-      "itemId": "c496bc6dedd653ec"
-    },
-    {
-      "id": "084949926f50c173",
-      "t": "2026-11-09T13:42:57.012Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Emergències, Successos, Economia i ocupació, Cultura i festes.",
-      "itemId": "c496bc6dedd653ec"
-    },
-    {
-      "id": "96c1a84d09de1f64",
-      "t": "2026-11-09T13:42:57.013Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (5 punts): font oficial · emergències, successos, economia i ocupació.",
-      "itemId": "c496bc6dedd653ec"
-    },
-    {
-      "id": "a674d71ba3615eee",
-      "t": "2026-11-09T13:42:57.014Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Llum verda inicial al pressupost municipal per al 2027» (Ràdio Sabadell).",
-      "itemId": "46ebe021fd82488a"
-    },
-    {
       "id": "790e79665e37d484",
       "t": "2026-11-09T13:42:57.015Z",
       "agente": "deduplicador",
@@ -2799,7 +2743,63 @@
       "agente": "rastreador",
       "texto": "He recollit «La Llanterna Màgica 400» (Ràdio Sabadell).",
       "itemId": "69756d1de6f37083"
+    },
+    {
+      "id": "dc19a09bff90e829",
+      "t": "2026-11-13T11:33:13.685Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Els Mossos busquen una dona desapareguda a Sabadell des de l'octubre» (Ràdio Sabadell).",
+      "itemId": "9507fed1a226ab40"
+    },
+    {
+      "id": "7ed993f659b3b1e5",
+      "t": "2026-11-13T11:33:13.686Z",
+      "agente": "deduplicador",
+      "texto": "Descartada perquè és duplicada: coincideix amb «Els Mossos busquen una dona desapareguda a Sabadell des de fa tres dies» (Ràdio Sabadell).",
+      "itemId": "9507fed1a226ab40"
+    },
+    {
+      "id": "304cade5f015a577",
+      "t": "2026-11-13T11:33:13.687Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Sabadell tornarà a fer olor de Nadal... i no serà la mateixa aroma de l'any passat» (Diari de Sabadell).",
+      "itemId": "4274de6d2a1d3620"
+    },
+    {
+      "id": "b7ff24ca9a2ea3c6",
+      "t": "2026-11-13T11:33:13.688Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La tertúlia del Notícies Matí: Pla de Barris, inici de la campanya per al 29-N i el Nadal a Sabadell» (Ràdio Sabadell).",
+      "itemId": "1e823e97e2316ff7"
+    },
+    {
+      "id": "71c7de180dce9445",
+      "t": "2026-11-13T11:33:13.689Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Les Festes de Sant Martí ompliran Cerdanyola de deu dies d’activitats» (Ajuntament de Cerdanyola del Vallès).",
+      "itemId": "423f4079fe659c3d"
+    },
+    {
+      "id": "f0fa8490ef62321b",
+      "t": "2026-11-13T11:33:13.690Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local, Salut, Educació, Esports, Cultura i festes.",
+      "itemId": "423f4079fe659c3d"
+    },
+    {
+      "id": "c56689994d07514c",
+      "t": "2026-11-13T11:33:13.691Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "423f4079fe659c3d"
+    },
+    {
+      "id": "90ffb19b07fb03ab",
+      "t": "2026-11-13T11:33:13.692Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (5 punts): font oficial · política local, salut, educació.",
+      "itemId": "423f4079fe659c3d"
     }
   ],
-  "actualizado": "2026-11-13T10:40:18.760Z"
+  "actualizado": "2026-11-13T11:33:35.435Z"
 }

@@ -104,6 +104,57 @@
   },
   "items": [
     {
+      "id": "423f4079fe659c3d",
+      "titulo": "Les Festes de Sant Martí ompliran Cerdanyola de deu dies d’activitats",
+      "enlace": "http://www.cerdanyola.cat/actualitat/les-festes-de-sant-marti-ompliran-cerdanyola-de-deu-dies-dactivitats",
+      "fuente": "ayto-cerdanyola",
+      "fuenteNombre": "Ajuntament de Cerdanyola del Vallès",
+      "tipo": "oficial",
+      "resumen": "Les Festes de Sant Martí ompliran Cerdanyola de deu dies d’activitats Cerdanyola celebrarà les Festes de Sant Martí del 6 al 15 de novembre amb deu dies d’activitats per a tots els públics. La programació d’enguany combina la continuïtat…",
+      "municipio": "cerdanyola",
+      "municipiosMencionados": [
+        "cerdanyola"
+      ],
+      "publicado": "2026-11-13T12:00:58.000Z",
+      "detectado": "2026-11-13T11:33:13.685Z",
+      "sensible": true,
+      "etiquetas": [
+        "politica",
+        "salud",
+        "educacion",
+        "deportes",
+        "cultura"
+      ],
+      "puntuacion": 5,
+      "motivos": [
+        "font oficial",
+        "política local, salut, educació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "1e823e97e2316ff7",
+      "titulo": "La tertúlia del Notícies Matí: Pla de Barris, inici de la campanya per al 29-N i el Nadal a Sabadell",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-mati-tertulia-131126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-13T10:41:11.000Z",
+      "detectado": "2026-11-13T11:33:13.685Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "69756d1de6f37083",
       "titulo": "La Llanterna Màgica 400",
       "enlace": "https://radiosabadell.fm/alacarta/audio/la-llanterna-magica-400",
@@ -115,6 +166,27 @@
       "municipiosMencionados": [],
       "publicado": "2026-11-13T10:34:32.000Z",
       "detectado": "2026-11-13T10:40:05.047Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "4274de6d2a1d3620",
+      "titulo": "Sabadell tornarà a fer olor de Nadal... i no serà la mateixa aroma de l'any passat",
+      "enlace": "https://www.diaridesabadell.com/sabadell/nova-olor-nadal-2026-carrers-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-13T10:33:14.000Z",
+      "detectado": "2026-11-13T11:33:13.685Z",
       "sensible": false,
       "etiquetas": [],
       "puntuacion": 0,
@@ -280,6 +352,31 @@
         "successos"
       ],
       "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "9507fed1a226ab40",
+      "titulo": "Els Mossos busquen una dona desapareguda a Sabadell des de l'octubre",
+      "enlace": "https://radiosabadell.fm/actualitat/successos/mossos-dona-desapareguda-sabadell",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-13T09:51:01.000Z",
+      "detectado": "2026-11-13T11:33:13.685Z",
+      "sensible": false,
+      "etiquetas": [
+        "sucesos"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "successos"
+      ],
+      "duplicadaDe": "5b204f59e643c443",
       "propuesta": false
     },
     {
@@ -574,5 +671,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-13T10:40:18.757Z"
+  "actualizado": "2026-11-13T11:33:35.432Z"
 }
