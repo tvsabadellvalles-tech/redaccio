@@ -104,6 +104,31 @@
   },
   "items": [
     {
+      "id": "8b21ee54d7893531",
+      "titulo": "Bon Preu obre el seu primer supermercat a Castellar",
+      "enlace": "https://www.isabadell.cat/valles/castellar/bon-preu-obre-el-seu-primer-supermercat-a-castellar-340760/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "castellar"
+      ],
+      "publicado": "2026-11-13T18:57:37.000Z",
+      "detectado": "2026-11-13T19:26:05.196Z",
+      "sensible": false,
+      "etiquetas": [
+        "economia"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "economia i ocupació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "24cb360aebeb914b",
       "titulo": "Eloi Moya, Arteneu: ''Al Cicle de l'Arteneu portem artistes que tenen vinculació amb nosaltres o la ciutat''",
       "enlace": "https://radiosabadell.fm/alacarta/audio/eloi-moya-arteneu-al-cicle-de-larteneu-portem-artistes-que-tenen-vinculacio-amb",
@@ -1343,5 +1368,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-13T18:29:34.592Z"
+  "actualizado": "2026-11-13T19:26:24.683Z"
 }

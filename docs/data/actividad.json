@@ -1,20 +1,6 @@
 {
   "eventos": [
     {
-      "id": "01bbaa33eca2862f",
-      "t": "2026-11-10T07:40:40.836Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Esports.",
-      "itemId": "26f1f50cff0ccbc6"
-    },
-    {
-      "id": "fbc21d8a5e388a0e",
-      "t": "2026-11-10T08:36:43.881Z",
-      "agente": "rastreador",
-      "texto": "He recollit «L’Ajuntament fa una crida a la ciutadania per recollir materials relacionats amb l’antiga fàbrica Aiscondel» (Ajuntament de Cerdanyola del Vallès).",
-      "itemId": "93bb9f157378d5fe"
-    },
-    {
       "id": "807fbedcdfdd8a8d",
       "t": "2026-11-10T08:36:43.882Z",
       "agente": "etiquetador",
@@ -2799,7 +2785,21 @@
       "agente": "rastreador",
       "texto": "He recollit «Eloi Moya, Arteneu: ''Al Cicle de l'Arteneu portem artistes que tenen vinculació amb nosaltres o la ciutat''» (Ràdio Sabadell).",
       "itemId": "24cb360aebeb914b"
+    },
+    {
+      "id": "8fd769df45ca8ab9",
+      "t": "2026-11-13T19:26:05.196Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Bon Preu obre el seu primer supermercat a Castellar» (iSabadell).",
+      "itemId": "8b21ee54d7893531"
+    },
+    {
+      "id": "55bbdcd775201bd6",
+      "t": "2026-11-13T19:26:05.197Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Economia i ocupació.",
+      "itemId": "8b21ee54d7893531"
     }
   ],
-  "actualizado": "2026-11-13T18:29:34.597Z"
+  "actualizado": "2026-11-13T19:26:24.686Z"
 }

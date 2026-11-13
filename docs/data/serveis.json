@@ -5,7 +5,7 @@
       "nom": "FGC Barcelona–Vallès",
       "enllac": "https://www.fgc.cat/adequacions-horaries/",
       "alternatiu": null,
-      "consultat": "2026-11-13T18:29:17.383Z",
+      "consultat": "2026-11-13T19:26:05.196Z",
       "estat": "cap-avis-recent",
       "detall": "Sense adequacions horàries."
     },
@@ -14,7 +14,7 @@
       "nom": "Rodalies R4 i R7",
       "enllac": "https://rodalies.gencat.cat/ca/alteracions_del_servei/",
       "alternatiu": null,
-      "consultat": "2026-11-13T18:29:17.383Z",
+      "consultat": "2026-11-13T19:26:05.196Z",
       "estat": "avis",
       "detall": "2 avisos publicats avui a les línies R4 i R7.",
       "avisos": [
@@ -41,42 +41,14 @@
       "nom": "Trànsit · Vallès Occidental",
       "enllac": "https://cit.transit.gencat.cat/",
       "alternatiu": null,
-      "consultat": "2026-11-13T18:29:17.383Z",
+      "consultat": "2026-11-13T19:26:05.196Z",
       "estat": "avis",
-      "detall": "5 incidències d’avui a les carreteres seleccionades del Vallès Occidental, segons la llista actual de Trànsit.",
-      "actualitzat": "2026-11-13T18:29:02.000Z",
+      "detall": "1 incidència d’avui a les carreteres seleccionades del Vallès Occidental, segons la llista actual de Trànsit.",
+      "actualitzat": "2026-11-13T19:26:03.000Z",
       "avisos": [
         {
-          "titol": "Circulació · Circulació amb retencions",
-          "detall": "C-58 | SABADELL | Sentit Nord cap a TERRASSA | Punt km. 12-10",
-          "publicat": "2026-11-13T18:07:10.000Z",
-          "carretera": "C-58",
-          "comarca": 40
-        },
-        {
-          "titol": "Circulació · Circulació amb retencions",
-          "detall": "C-58 | SABADELL | Sentit Sud cap a BARCELONA | Punt km. 12-13.5",
-          "publicat": "2026-11-13T13:25:02.000Z",
-          "carretera": "C-58",
-          "comarca": 40
-        },
-        {
-          "titol": "Circulació · Circulació amb retencions",
-          "detall": "B-30 | BADIA DEL VALLÈS | Sentit Sud cap a TARRAGONA | Punt km. 10-11",
-          "publicat": "2026-11-13T12:25:07.000Z",
-          "carretera": "B-30",
-          "comarca": 40
-        },
-        {
-          "titol": "Circulació · Circulació amb retencions",
-          "detall": "B-30 | BARBERÀ DEL VALLÈS | Sentit Nord cap a GIRONA | Punt km. 11-8",
-          "publicat": "2026-11-13T12:23:49.000Z",
-          "carretera": "B-30",
-          "comarca": 40
-        },
-        {
-          "titol": "Circulació · Circulació amb retencions",
-          "detall": "AP-7 | BARBERÀ DEL VALLÈS | Sentit Nord cap a GIRONA | Punt km. 147-152",
+          "titol": "Avaria · Circulació intensa",
+          "detall": "AP-7 | BARBERÀ DEL VALLÈS | Sentit Nord cap a GIRONA | Punt km. 148-148.5 | UN CARRIL TALLAT",
           "publicat": "2026-11-13T11:05:27.000Z",
           "carretera": "AP-7",
           "comarca": 40
@@ -88,7 +60,7 @@
       "nom": "Meteocat · Vallès Occidental",
       "enllac": "https://www.meteo.cat/prediccio/general",
       "alternatiu": null,
-      "consultat": "2026-11-13T18:29:17.383Z",
+      "consultat": "2026-11-13T19:26:05.196Z",
       "estat": "previsio",
       "detall": "Sense avisos actius. Previsió de dissabte, 14 de novembre al Vallès Occidental: màxima 20°, mínima 9°. entre poc i mig ennuvolat al matí · entre poc i mig ennuvolat a la tarda · Pluja matí: No se n’espera · tarda: Possible (10–30%) · Actualitzada 13-11-2026 15:00:00.",
       "previsio": {
@@ -110,12 +82,12 @@
       "nom": "Emergències · Protecció Civil",
       "enllac": "https://interior.gencat.cat/ca/actualitat/",
       "alternatiu": "https://govern.cat/salapremsa/notes-premsa",
-      "consultat": "2026-11-13T18:29:17.383Z",
+      "consultat": "2026-11-13T19:26:05.196Z",
       "estat": "cap-avis-recent",
       "detall": "Cap alerta local no meteorològica identificada a les alertes destacades d’Interior.",
       "avisos": []
     }
   ],
-  "consultat": "2026-11-13T18:29:17.383Z",
-  "actualizado": "2026-11-13T18:29:36.597Z"
+  "consultat": "2026-11-13T19:26:05.196Z",
+  "actualizado": "2026-11-13T19:26:28.093Z"
 }
