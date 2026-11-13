@@ -2,18 +2,18 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-13T03:08:50.389Z",
+  "consultat": "2026-11-13T03:56:58.302Z",
   "total": 11,
   "activitats": [
     {
-      "titol": "Peces vídeo notícies del Badalaboca i Comerç",
+      "titol": "PRÈVIA ÚLTIMES FUNCIONS SIRENETA",
       "inici": "2026-11-13T00:00:00.000Z",
       "final": "2026-11-14T00:00:00.000Z",
       "totElDia": true,
       "color": null
     },
     {
-      "titol": "PRÈVIA ÚLTIMES FUNCIONS SIRENETA",
+      "titol": "Peces vídeo notícies del Badalaboca i Comerç",
       "inici": "2026-11-13T00:00:00.000Z",
       "final": "2026-11-14T00:00:00.000Z",
       "totElDia": true,
@@ -84,5 +84,5 @@
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-13T03:09:33.392Z"
+  "actualizado": "2026-11-13T03:57:39.771Z"
 }
