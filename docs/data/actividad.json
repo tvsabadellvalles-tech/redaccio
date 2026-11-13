@@ -1,13 +1,6 @@
 {
   "eventos": [
     {
-      "id": "807fbedcdfdd8a8d",
-      "t": "2026-11-10T08:36:43.882Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Economia i ocupació, Educació, Cultura i festes.",
-      "itemId": "93bb9f157378d5fe"
-    },
-    {
       "id": "adcdfc2318a01275",
       "t": "2026-11-10T08:36:43.883Z",
       "agente": "vigilante",
@@ -2799,7 +2792,14 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Economia i ocupació.",
       "itemId": "8b21ee54d7893531"
+    },
+    {
+      "id": "7bfb359dc00b5c4b",
+      "t": "2026-11-13T21:08:44.988Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El nou Esclat de Castellar ja està en marxa» (L'Actual - Castellar del Vallès).",
+      "itemId": "1f2caadc6e456997"
     }
   ],
-  "actualizado": "2026-11-13T19:26:24.686Z"
+  "actualizado": "2026-11-13T21:09:00.791Z"
 }

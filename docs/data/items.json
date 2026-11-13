@@ -104,6 +104,27 @@
   },
   "items": [
     {
+      "id": "1f2caadc6e456997",
+      "titulo": "El nou Esclat de Castellar ja està en marxa",
+      "enlace": "https://www.lactual.cat/actualitat/nou-esclat-castellar-ja-esta-en-marxa_55379_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [
+        "castellar"
+      ],
+      "publicado": "2026-11-13T20:43:57.000Z",
+      "detectado": "2026-11-13T21:08:44.988Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "8b21ee54d7893531",
       "titulo": "Bon Preu obre el seu primer supermercat a Castellar",
       "enlace": "https://www.isabadell.cat/valles/castellar/bon-preu-obre-el-seu-primer-supermercat-a-castellar-340760/",
@@ -1368,5 +1389,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-13T19:26:24.683Z"
+  "actualizado": "2026-11-13T21:09:00.787Z"
 }
