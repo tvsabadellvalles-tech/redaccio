@@ -123,7 +123,30 @@
       "motivos": [],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "3d18aaea10e55ba1",
+      "titulo": "Miquel Mesegué: \"Una emergència no pot dependre de deixar la feina i pujar a un camió\"",
+      "enlace": "https://www.lactual.cat/actualitat/miquel-mesegue-emergencia-no-pot-dependre-deixar-feina-pujar-camio_55372_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-13T05:47:37.000Z",
+      "detectado": "2026-11-13T06:43:06.676Z",
+      "sensible": false,
+      "etiquetas": [
+        "emergencias"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "emergències"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
     }
   ],
-  "actualizado": "2026-11-12T23:33:12.973Z"
+  "actualizado": "2026-11-13T06:43:37.262Z"
 }

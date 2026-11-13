@@ -22,7 +22,7 @@
     },
     "ayto-castellar": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "ayto-sentmenat": {
       "ok": true,
@@ -65,8 +65,7 @@
       "items": 0
     },
     "ayto-cerdanyola": {
-      "ok": false,
-      "error": "fetch failed",
+      "ok": true,
       "items": 0
     },
     "ayto-badia": {
@@ -82,6 +81,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-13T05:44:30.045Z",
-  "actualizado": "2026-11-13T05:44:57.854Z"
+  "consultat": "2026-11-13T06:43:06.676Z",
+  "actualizado": "2026-11-13T06:43:37.263Z"
 }

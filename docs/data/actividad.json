@@ -1,27 +1,6 @@
 {
   "eventos": [
     {
-      "id": "b383f2b8869dfafa",
-      "t": "2026-11-09T12:26:03.431Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Accident amb un conductor begut acaba amb el vehicle bolcat a la via» (iSabadell).",
-      "itemId": "105dd32f0760617f"
-    },
-    {
-      "id": "68d3a884c019420e",
-      "t": "2026-11-09T12:26:03.432Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat, Successos, Salut.",
-      "itemId": "105dd32f0760617f"
-    },
-    {
-      "id": "d4b107bf238bf66d",
-      "t": "2026-11-09T12:26:03.433Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): mobilitat, successos, salut.",
-      "itemId": "105dd32f0760617f"
-    },
-    {
       "id": "40317e4c2f1a61b8",
       "t": "2026-11-09T12:26:03.434Z",
       "agente": "rastreador",
@@ -2799,7 +2778,28 @@
       "agente": "rastreador",
       "texto": "He recollit «Infopòdcast Sabadell 13.11.26» (Ràdio Sabadell).",
       "itemId": "575fed554d53d0b3"
+    },
+    {
+      "id": "190d37abf2f349f4",
+      "t": "2026-11-13T06:43:06.677Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Miquel Mesegué: \"Una emergència no pot dependre de deixar la feina i pujar a un camió\"» (L'Actual - Castellar del Vallès).",
+      "itemId": "3d18aaea10e55ba1"
+    },
+    {
+      "id": "055faef9b2ced011",
+      "t": "2026-11-13T06:43:06.678Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Emergències.",
+      "itemId": "3d18aaea10e55ba1"
+    },
+    {
+      "id": "0b82d06c10b958d3",
+      "t": "2026-11-13T06:43:06.679Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): emergències.",
+      "itemId": "3d18aaea10e55ba1"
     }
   ],
-  "actualizado": "2026-11-12T23:33:12.975Z"
+  "actualizado": "2026-11-13T06:43:37.265Z"
 }
