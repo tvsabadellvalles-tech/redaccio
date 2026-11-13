@@ -5,7 +5,7 @@
       "nom": "FGC Barcelona–Vallès",
       "enllac": "https://www.fgc.cat/adequacions-horaries/",
       "alternatiu": null,
-      "consultat": "2026-11-13T19:26:05.196Z",
+      "consultat": "2026-11-13T20:18:15.317Z",
       "estat": "cap-avis-recent",
       "detall": "Sense adequacions horàries."
     },
@@ -14,7 +14,7 @@
       "nom": "Rodalies R4 i R7",
       "enllac": "https://rodalies.gencat.cat/ca/alteracions_del_servei/",
       "alternatiu": null,
-      "consultat": "2026-11-13T19:26:05.196Z",
+      "consultat": "2026-11-13T20:18:15.317Z",
       "estat": "avis",
       "detall": "2 avisos publicats avui a les línies R4 i R7.",
       "avisos": [
@@ -41,26 +41,18 @@
       "nom": "Trànsit · Vallès Occidental",
       "enllac": "https://cit.transit.gencat.cat/",
       "alternatiu": null,
-      "consultat": "2026-11-13T19:26:05.196Z",
-      "estat": "avis",
-      "detall": "1 incidència d’avui a les carreteres seleccionades del Vallès Occidental, segons la llista actual de Trànsit.",
-      "actualitzat": "2026-11-13T19:26:03.000Z",
-      "avisos": [
-        {
-          "titol": "Avaria · Circulació intensa",
-          "detall": "AP-7 | BARBERÀ DEL VALLÈS | Sentit Nord cap a GIRONA | Punt km. 148-148.5 | UN CARRIL TALLAT",
-          "publicat": "2026-11-13T11:05:27.000Z",
-          "carretera": "AP-7",
-          "comarca": 40
-        }
-      ]
+      "consultat": "2026-11-13T20:18:15.317Z",
+      "estat": "cap-avis-recent",
+      "detall": "Cap incidència d’avui a les carreteres seleccionades del Vallès Occidental, segons la llista actual de Trànsit.",
+      "actualitzat": "2026-11-13T20:18:03.000Z",
+      "avisos": []
     },
     {
       "id": "meteocat",
       "nom": "Meteocat · Vallès Occidental",
       "enllac": "https://www.meteo.cat/prediccio/general",
       "alternatiu": null,
-      "consultat": "2026-11-13T19:26:05.196Z",
+      "consultat": "2026-11-13T20:18:15.317Z",
       "estat": "previsio",
       "detall": "Sense avisos actius. Previsió de dissabte, 14 de novembre al Vallès Occidental: màxima 20°, mínima 9°. entre poc i mig ennuvolat al matí · entre poc i mig ennuvolat a la tarda · Pluja matí: No se n’espera · tarda: Possible (10–30%) · Actualitzada 13-11-2026 15:00:00.",
       "previsio": {
@@ -82,12 +74,12 @@
       "nom": "Emergències · Protecció Civil",
       "enllac": "https://interior.gencat.cat/ca/actualitat/",
       "alternatiu": "https://govern.cat/salapremsa/notes-premsa",
-      "consultat": "2026-11-13T19:26:05.196Z",
+      "consultat": "2026-11-13T20:18:15.317Z",
       "estat": "cap-avis-recent",
       "detall": "Cap alerta local no meteorològica identificada a les alertes destacades d’Interior.",
       "avisos": []
     }
   ],
-  "consultat": "2026-11-13T19:26:05.196Z",
-  "actualizado": "2026-11-13T19:26:28.093Z"
+  "consultat": "2026-11-13T20:18:15.317Z",
+  "actualizado": "2026-11-13T20:18:33.144Z"
 }
