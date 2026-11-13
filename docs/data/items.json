@@ -104,6 +104,67 @@
   },
   "items": [
     {
+      "id": "700dda2e92e2e383",
+      "titulo": "Arrenca el Gran Recapte: 26 punts de recollida a Sabadell",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-migdia-gran-recapte-131126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-13T13:29:02.000Z",
+      "detectado": "2026-11-13T13:42:31.604Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "a78b10430fa7bbda",
+      "titulo": "El Sabadell es plantarà a Elda amb nou baixes",
+      "enlace": "https://radiosabadell.fm/podcast/hotel-suis-131126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-13T13:25:40.000Z",
+      "detectado": "2026-11-13T13:42:31.604Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "2f6ff24f6d43da58",
+      "titulo": "Els carrers més cèntrics ja no faran olor de canyella aquest Nadal",
+      "enlace": "https://www.isabadell.cat/societat/els-carrers-mes-centrics-ja-no-faran-olor-de-canyella-aquest-nadal-340748/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-13T13:08:34.000Z",
+      "detectado": "2026-11-13T13:42:31.604Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "423f4079fe659c3d",
       "titulo": "Les Festes de Sant Martí ompliran Cerdanyola de deu dies d’activitats",
       "enlace": "http://www.cerdanyola.cat/actualitat/les-festes-de-sant-marti-ompliran-cerdanyola-de-deu-dies-dactivitats",
@@ -914,5 +975,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-13T12:29:50.091Z"
+  "actualizado": "2026-11-13T13:42:46.624Z"
 }

@@ -1,27 +1,6 @@
 {
   "eventos": [
     {
-      "id": "19fbabbbc97bc88f",
-      "t": "2026-11-09T17:04:32.091Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Educació.",
-      "itemId": "b05161b4cabc771c"
-    },
-    {
-      "id": "85ae01b96410ffa2",
-      "t": "2026-11-09T17:18:54.802Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La Policia Local apropa al jovent eines per prevenir conflictes i situacions d'intimidació» (Ajuntament de Sant Quirze del Vallès).",
-      "itemId": "03aecfe80bdd7c44"
-    },
-    {
-      "id": "0f9864b30dacadec",
-      "t": "2026-11-09T17:18:54.803Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Successos, Educació.",
-      "itemId": "03aecfe80bdd7c44"
-    },
-    {
       "id": "964a19c16060aaef",
       "t": "2026-11-09T17:18:54.804Z",
       "agente": "mesa",
@@ -2799,7 +2778,28 @@
       "agente": "mesa",
       "texto": "Proposo incloure-ho a l'escaleta (5 punts): font oficial · mobilitat, successos, salut.",
       "itemId": "c6cb713665e7d89f"
+    },
+    {
+      "id": "5c5e062980295355",
+      "t": "2026-11-13T13:42:31.604Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Els carrers més cèntrics ja no faran olor de canyella aquest Nadal» (iSabadell).",
+      "itemId": "2f6ff24f6d43da58"
+    },
+    {
+      "id": "e2ddd3bdadc7422c",
+      "t": "2026-11-13T13:42:31.605Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El Sabadell es plantarà a Elda amb nou baixes» (Ràdio Sabadell).",
+      "itemId": "a78b10430fa7bbda"
+    },
+    {
+      "id": "bd36843a83cb7f0e",
+      "t": "2026-11-13T13:42:31.606Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Arrenca el Gran Recapte: 26 punts de recollida a Sabadell» (Ràdio Sabadell).",
+      "itemId": "700dda2e92e2e383"
     }
   ],
-  "actualizado": "2026-11-13T12:29:50.094Z"
+  "actualizado": "2026-11-13T13:42:46.627Z"
 }

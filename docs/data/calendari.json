@@ -2,8 +2,8 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-13T12:29:34.175Z",
-  "total": 11,
+  "consultat": "2026-11-13T13:42:31.604Z",
+  "total": 12,
   "activitats": [
     {
       "titol": "Peces vídeo notícies del Badalaboca i Comerç",
@@ -57,7 +57,7 @@
     {
       "titol": "(Lorena) Decles amb Malapell pel VIA15",
       "inici": "2026-11-13T17:30:00.000Z",
-      "final": "2026-11-13T18:30:00.000Z",
+      "final": "2026-11-13T18:00:00.000Z",
       "totElDia": false,
       "color": null
     },
@@ -81,8 +81,15 @@
       "final": "2026-11-14T12:45:00.000Z",
       "totElDia": false,
       "color": null
+    },
+    {
+      "titol": "Acte PSC",
+      "inici": "2026-11-14T17:00:00.000Z",
+      "final": "2026-11-14T18:00:00.000Z",
+      "totElDia": false,
+      "color": null
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-13T12:30:10.760Z"
+  "actualizado": "2026-11-13T13:43:07.415Z"
 }
