@@ -10,7 +10,7 @@
     },
     "diari-sabadell": {
       "ok": true,
-      "items": 8
+      "items": 9
     },
     "diari-terrassa": {
       "ok": true,
@@ -22,7 +22,7 @@
     },
     "ayto-castellar": {
       "ok": true,
-      "items": 2
+      "items": 3
     },
     "ayto-sentmenat": {
       "ok": true,
@@ -65,9 +65,8 @@
       "items": 1
     },
     "ayto-cerdanyola": {
-      "ok": false,
-      "error": "The operation was aborted due to timeout",
-      "items": 0
+      "ok": true,
+      "items": 4
     },
     "ayto-badia": {
       "ok": true,
@@ -82,6 +81,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-13T15:19:47.122Z",
-  "actualizado": "2026-11-13T15:20:20.994Z"
+  "consultat": "2026-11-13T16:10:20.793Z",
+  "actualizado": "2026-11-13T16:10:36.832Z"
 }

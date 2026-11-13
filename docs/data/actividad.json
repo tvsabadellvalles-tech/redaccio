@@ -1,97 +1,6 @@
 {
   "eventos": [
     {
-      "id": "77024d708afb0229",
-      "t": "2026-11-09T18:18:41.441Z",
-      "agente": "rastreador",
-      "texto": "He recollit «CCOO, UGT i la FAVS criden a la vaga de l'11N: \"El nostre salari se'n va per tot arreu\"» (Diari de Sabadell).",
-      "itemId": "37691103e1687c56"
-    },
-    {
-      "id": "cedea89cb8b485e7",
-      "t": "2026-11-09T18:18:41.442Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Obres i urbanisme, Salut, Educació.",
-      "itemId": "37691103e1687c56"
-    },
-    {
-      "id": "2d02ec2a96dc8113",
-      "t": "2026-11-09T18:18:41.443Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): obres i urbanisme, salut, educació.",
-      "itemId": "37691103e1687c56"
-    },
-    {
-      "id": "709a798a6b237661",
-      "t": "2026-11-09T18:37:33.190Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Els sindicats, preparats per a l’11-N: “Tenim més piquets apuntats que mai”» (iSabadell).",
-      "itemId": "3a53c8ae6a814141"
-    },
-    {
-      "id": "fcfb4ae9ef84a1fb",
-      "t": "2026-11-09T18:37:33.191Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Economia i ocupació.",
-      "itemId": "3a53c8ae6a814141"
-    },
-    {
-      "id": "1dbd452d84111011",
-      "t": "2026-11-09T18:46:09.288Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El Sant Nicolau assalta el lideratge de la Super Copa amb una altra victòria inapel·lable» (Ràdio Sabadell).",
-      "itemId": "c466a98cc74631aa"
-    },
-    {
-      "id": "b1388941fa01ff4f",
-      "t": "2026-11-09T18:46:09.289Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Esports.",
-      "itemId": "c466a98cc74631aa"
-    },
-    {
-      "id": "921313b4c1d9176b",
-      "t": "2026-11-09T18:54:47.896Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Palau al Dia - Notícies del 9/11/2026» (Ràdio Palau - Palau al Dia).",
-      "itemId": "dbbaf228be2c445a"
-    },
-    {
-      "id": "4d66b7717e7c332a",
-      "t": "2026-11-09T19:18:18.521Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Les obres d'ampliació de la sala d'estudi de la biblioteca Vapor Badia duraran sis mesos» (Diari de Sabadell).",
-      "itemId": "cdede1f2dbee82c8"
-    },
-    {
-      "id": "c2f49cb1debf0051",
-      "t": "2026-11-09T19:18:18.522Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Obres i urbanisme, Cultura i festes.",
-      "itemId": "cdede1f2dbee82c8"
-    },
-    {
-      "id": "97fab53e25882c4d",
-      "t": "2026-11-09T20:09:04.640Z",
-      "agente": "rastreador",
-      "texto": "La font «3CatInfo · Actualitat de Barcelona filtrada per Vallès Occidental» no respon (terminated).",
-      "itemId": null
-    },
-    {
-      "id": "972c3a20f7d6936b",
-      "t": "2026-11-09T20:56:25.628Z",
-      "agente": "rastreador",
-      "texto": "La font «3CatInfo · Actualitat de Barcelona filtrada per Vallès Occidental» torna a respondre.",
-      "itemId": null
-    },
-    {
-      "id": "75d47f4308e5c161",
-      "t": "2026-11-09T21:39:18.747Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Combat nul entre CE Sabadell i Real Sociedad 'B'» (Diari de Sabadell).",
-      "itemId": "bb59009b19eb3ede"
-    },
-    {
       "id": "076c88611c708e18",
       "t": "2026-11-09T21:39:18.748Z",
       "agente": "etiquetador",
@@ -2799,7 +2708,98 @@
       "agente": "vigilante",
       "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
       "itemId": "e1f7262b8d93b507"
+    },
+    {
+      "id": "07aa234acbb6165d",
+      "t": "2026-11-13T16:10:20.794Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Comencen les obres del Paddock: quin és el calendari?» (Ràdio Sabadell).",
+      "itemId": "10e977d37d9fa17f"
+    },
+    {
+      "id": "06594b41c0b9b81a",
+      "t": "2026-11-13T16:10:20.795Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Obres i urbanisme.",
+      "itemId": "10e977d37d9fa17f"
+    },
+    {
+      "id": "b9139fb6d1051238",
+      "t": "2026-11-13T16:10:20.796Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La història de la Carola: dos bessons prematurs, una pèrdua i una lluita per tirar endavant» (Ràdio Sabadell).",
+      "itemId": "0cc050238ace1d9e"
+    },
+    {
+      "id": "0e1f55f1372c3dff",
+      "t": "2026-11-13T16:10:20.797Z",
+      "agente": "deduplicador",
+      "texto": "Descartada perquè és duplicada: coincideix amb «La història de la Carola: dos bessons prematurs, una pèrdua i una lluita per tirar endavant» (Ràdio Sabadell).",
+      "itemId": "0cc050238ace1d9e"
+    },
+    {
+      "id": "fb00c1ec09c0fa11",
+      "t": "2026-11-13T16:10:20.798Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Eldense-Sabadell: retrobament amb un vell conegut marcat per les baixes» (Ràdio Sabadell).",
+      "itemId": "7470dc17b3746b76"
+    },
+    {
+      "id": "b64eb820d40d247d",
+      "t": "2026-11-13T16:10:20.799Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "7470dc17b3746b76"
+    },
+    {
+      "id": "30af5c002b165278",
+      "t": "2026-11-13T16:10:20.800Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "7470dc17b3746b76"
+    },
+    {
+      "id": "dfce0555f29c5e32",
+      "t": "2026-11-13T16:10:20.801Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El Gran Recapte, en marxa» (L'Actual - Castellar del Vallès).",
+      "itemId": "16ad66e2fbb79fd6"
+    },
+    {
+      "id": "c78db22c1e95fa3b",
+      "t": "2026-11-13T16:10:20.802Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Assumpta Cumí i Laura Obradors porten el concert 'Llum i ombres' a la CavaUrpí: \"Explora l'equilibri de la llum i les ombres a través de les dues veus\"» (Ràdio Sabadell).",
+      "itemId": "8bf74725c462c6b6"
+    },
+    {
+      "id": "1eda61112ca1c75d",
+      "t": "2026-11-13T16:10:20.803Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "8bf74725c462c6b6"
+    },
+    {
+      "id": "a68151497626493b",
+      "t": "2026-11-13T16:10:20.804Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Agenda cultural 13.11.26» (Ràdio Sabadell).",
+      "itemId": "4facba59e34375d3"
+    },
+    {
+      "id": "a59ed51062beb876",
+      "t": "2026-11-13T16:10:20.805Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Els de Física també saben com muntar-se una bona farra: una nit de ciència, jocs i festa a Sabadell» (Diari de Sabadell).",
+      "itemId": "4a157da72264f2d8"
+    },
+    {
+      "id": "956412eb844d773a",
+      "t": "2026-11-13T16:10:20.806Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Educació, Cultura i festes.",
+      "itemId": "4a157da72264f2d8"
     }
   ],
-  "actualizado": "2026-11-13T15:20:20.996Z"
+  "actualizado": "2026-11-13T16:10:36.835Z"
 }

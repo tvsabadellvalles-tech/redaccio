@@ -104,6 +104,114 @@
   },
   "items": [
     {
+      "id": "4a157da72264f2d8",
+      "titulo": "Els de Física també saben com muntar-se una bona farra: una nit de ciència, jocs i festa a Sabadell",
+      "enlace": "https://www.diaridesabadell.com/sabadell/estudiants-fisica-uab-saben-muntar-bona-farra-nit-ciencia-xerrades-sopar-festa-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-13T16:01:47.000Z",
+      "detectado": "2026-11-13T16:10:20.793Z",
+      "sensible": false,
+      "etiquetas": [
+        "educacion",
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "educació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "4facba59e34375d3",
+      "titulo": "Agenda cultural 13.11.26",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-mati-agenda-cultural-131126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-13T15:54:59.000Z",
+      "detectado": "2026-11-13T16:10:20.793Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "8bf74725c462c6b6",
+      "titulo": "Assumpta Cumí i Laura Obradors porten el concert 'Llum i ombres' a la CavaUrpí: \"Explora l'equilibri de la llum i les ombres a través de les dues veus\"",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-mati-llum-ombres-cavaurpi-131126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-13T15:44:03.000Z",
+      "detectado": "2026-11-13T16:10:20.793Z",
+      "sensible": false,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "16ad66e2fbb79fd6",
+      "titulo": "El Gran Recapte, en marxa",
+      "enlace": "https://www.lactual.cat/actualitat/gran-recapte-en-marxa_55378_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-13T15:19:07.000Z",
+      "detectado": "2026-11-13T16:10:20.793Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "7470dc17b3746b76",
+      "titulo": "Eldense-Sabadell: retrobament amb un vell conegut marcat per les baixes",
+      "enlace": "https://radiosabadell.fm/esports/ce-sabadell/previa-eldense-sabadell-jornada-14-hypermotion",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-13T15:10:32.000Z",
+      "detectado": "2026-11-13T16:10:20.793Z",
+      "sensible": true,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "e1f7262b8d93b507",
       "titulo": "La història de la Carola: dos bessons prematurs, una pèrdua i una lluita per tirar endavant",
       "enlace": "https://radiosabadell.fm/actualitat/societat/la-historia-de-la-carola-dos-bessons-prematurs-una-perdua-i-una-lluita-tirar",
@@ -124,6 +232,54 @@
       "puntuacion": 1,
       "motivos": [
         "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "0cc050238ace1d9e",
+      "titulo": "La història de la Carola: dos bessons prematurs, una pèrdua i una lluita per tirar endavant",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/historia-carola-bessons-prematurs-perdua-lluita-sabadell",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-13T14:53:21.000Z",
+      "detectado": "2026-11-13T16:10:20.793Z",
+      "sensible": true,
+      "etiquetas": [
+        "salud"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "salut"
+      ],
+      "duplicadaDe": "e1f7262b8d93b507",
+      "propuesta": false
+    },
+    {
+      "id": "10e977d37d9fa17f",
+      "titulo": "Comencen les obres del Paddock: quin és el calendari?",
+      "enlace": "https://radiosabadell.fm/actualitat/economia/comencen-obres-paddock-calendari",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-13T14:46:22.000Z",
+      "detectado": "2026-11-13T16:10:20.793Z",
+      "sensible": false,
+      "etiquetas": [
+        "urbanismo"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "obres i urbanisme"
       ],
       "duplicadaDe": null,
       "propuesta": false
@@ -1059,5 +1215,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-13T15:20:20.993Z"
+  "actualizado": "2026-11-13T16:10:36.831Z"
 }
