@@ -1,62 +1,6 @@
 {
   "eventos": [
     {
-      "id": "6377b50ec4301431",
-      "t": "2026-11-09T12:26:03.441Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): política local, obres i urbanisme.",
-      "itemId": "d3c93cd18a04809d"
-    },
-    {
-      "id": "8329b1d69290fa17",
-      "t": "2026-11-09T12:26:03.442Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Terrassa és de novel·la negra: “Mai es pot subestimar el lector, no el podem enganyar”» (Diari de Terrassa).",
-      "itemId": "0c0c7c96ee36453a"
-    },
-    {
-      "id": "796dea2903f68bdf",
-      "t": "2026-11-09T12:26:03.443Z",
-      "agente": "rastreador",
-      "texto": "He recollit «‘El ple crític’. 303 milions d’euros: continuisme i recapitulacions» (iSabadell).",
-      "itemId": "13c578c5b1751be0"
-    },
-    {
-      "id": "31670ee5dfab67b1",
-      "t": "2026-11-09T12:26:03.444Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local.",
-      "itemId": "13c578c5b1751be0"
-    },
-    {
-      "id": "ee802740fa796bf0",
-      "t": "2026-11-09T13:42:56.988Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Divendres, vine a donar sang al Casal de la Gent Gran!» (Ajuntament de Badia del Vallès).",
-      "itemId": "182620a8fcdabd4e"
-    },
-    {
-      "id": "f725f2717161f51d",
-      "t": "2026-11-09T13:42:56.989Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El Gremi de Fabricants, Entitat Amiga de l’Escola d’Òpera de Sabadell» (iSabadell).",
-      "itemId": "23a22d3d7a8c91f0"
-    },
-    {
-      "id": "01148a1e2e14206e",
-      "t": "2026-11-09T13:42:56.990Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Educació.",
-      "itemId": "23a22d3d7a8c91f0"
-    },
-    {
-      "id": "e30c39865eef5347",
-      "t": "2026-11-09T13:42:56.991Z",
-      "agente": "rastreador",
-      "texto": "He recollit «S'obren les inscripcions a l'itinerari El camí reial que travessa La Florida» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "53e74adacca39b4d"
-    },
-    {
       "id": "a5af9365543c6fed",
       "t": "2026-11-09T13:42:56.992Z",
       "agente": "etiquetador",
@@ -2799,7 +2743,63 @@
       "agente": "rastreador",
       "texto": "He recollit «Oberta la convocatòria del Concurs d’aparadors de Nadal» (Ajuntament de Sant Quirze del Vallès).",
       "itemId": "4c59e2f95e071b51"
+    },
+    {
+      "id": "73c755dfc5f7e9bd",
+      "t": "2026-11-13T09:43:35.603Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Retards a la línia R4 de Rodalies per dues incidències» (Diari de Sabadell).",
+      "itemId": "33936ee102c725b3"
+    },
+    {
+      "id": "9213187a8f6914c4",
+      "t": "2026-11-13T09:43:35.604Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat, Successos.",
+      "itemId": "33936ee102c725b3"
+    },
+    {
+      "id": "dac47ad7b6c6d8f7",
+      "t": "2026-11-13T09:43:35.605Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): mobilitat, successos.",
+      "itemId": "33936ee102c725b3"
+    },
+    {
+      "id": "5a6fd3b71325475c",
+      "t": "2026-11-13T09:43:35.606Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Cuca Santos (PP): \"Espanya necessita un govern que regeneri la democràcia\"» (Diari de Sabadell).",
+      "itemId": "b25bb91d57f0824d"
+    },
+    {
+      "id": "e5eb44bfc691bd69",
+      "t": "2026-11-13T09:43:35.607Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local, Esports.",
+      "itemId": "b25bb91d57f0824d"
+    },
+    {
+      "id": "8511c10b85a833d8",
+      "t": "2026-11-13T09:43:35.608Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Els Mossos busquen una dona que va desaparèixer a Sabadell aquest octubre» (Diari de Sabadell).",
+      "itemId": "47af75c07a760869"
+    },
+    {
+      "id": "beaf5403570a04ca",
+      "t": "2026-11-13T09:43:35.609Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Successos.",
+      "itemId": "47af75c07a760869"
+    },
+    {
+      "id": "468a5de5b7980e1d",
+      "t": "2026-11-13T09:43:35.610Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Protesta per demanar millores a la línia C4» (L'Actual - Castellar del Vallès).",
+      "itemId": "86f8235cf8f3ad94"
     }
   ],
-  "actualizado": "2026-11-13T08:49:32.372Z"
+  "actualizado": "2026-11-13T09:43:52.998Z"
 }

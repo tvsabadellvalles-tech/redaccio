@@ -104,6 +104,74 @@
   },
   "items": [
     {
+      "id": "86f8235cf8f3ad94",
+      "titulo": "Protesta per demanar millores a la línia C4",
+      "enlace": "https://www.lactual.cat/actualitat/protesta-demanar-millores-linia-c4_55376_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-13T09:33:25.000Z",
+      "detectado": "2026-11-13T09:43:35.603Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "47af75c07a760869",
+      "titulo": "Els Mossos busquen una dona que va desaparèixer a Sabadell aquest octubre",
+      "enlace": "https://www.diaridesabadell.com/sabadell/dona-desapareguda-sabadell-octubre-mossos.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-13T09:00:49.000Z",
+      "detectado": "2026-11-13T09:43:35.603Z",
+      "sensible": false,
+      "etiquetas": [
+        "sucesos"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "successos"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "b25bb91d57f0824d",
+      "titulo": "Cuca Santos (PP): \"Espanya necessita un govern que regeneri la democràcia\"",
+      "enlace": "https://www.diaridesabadell.com/sabadell/cuca-santos-pp-albiol-feijoo-eleccions-generals.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-13T08:40:45.000Z",
+      "detectado": "2026-11-13T09:43:35.603Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica",
+        "deportes"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "4c59e2f95e071b51",
       "titulo": "Oberta la convocatòria del Concurs d’aparadors de Nadal",
       "enlace": "https://www.santquirzevalles.cat/actualitat/noticies/oberta-la-convocatoria-del-concurs-d2019aparadors-de-nadal",
@@ -123,6 +191,30 @@
       ],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "33936ee102c725b3",
+      "titulo": "Retards a la línia R4 de Rodalies per dues incidències",
+      "enlace": "https://www.diaridesabadell.com/sabadell/retards-linia-r4-rodalies.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-13T08:15:26.000Z",
+      "detectado": "2026-11-13T09:43:35.603Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad",
+        "sucesos"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "mobilitat, successos"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
     },
     {
       "id": "decbf73fc3868199",
@@ -246,7 +338,7 @@
       "fuente": "ayto-montcada",
       "fuenteNombre": "Ajuntament de Montcada i Reixac",
       "tipo": "oficial",
-      "resumen": "",
+      "resumen": "La desfilada se celebrarà el dissabte 6 de febrer de 2027, a partir de les 17.30 h, amb sortida des del carrer Bifurcació. L'Ajuntament estableix aportacions econòmiques de fins a 1.250 euros per a les comparses del municipi, segons el…",
       "municipio": "montcada",
       "municipiosMencionados": [],
       "publicado": "2026-11-12T23:00:00.000Z",
@@ -261,5 +353,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-13T08:49:32.369Z"
+  "actualizado": "2026-11-13T09:43:52.994Z"
 }
