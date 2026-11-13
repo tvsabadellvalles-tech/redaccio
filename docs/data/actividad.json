@@ -1,27 +1,6 @@
 {
   "eventos": [
     {
-      "id": "69c5e4c865caa936",
-      "t": "2026-11-09T18:18:41.438Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "ce19911b459db413"
-    },
-    {
-      "id": "6beae6d3c3ba737a",
-      "t": "2026-11-09T18:18:41.439Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Noves incorporacions al patronat de la Fundació per la Indústria» (Diari de Sabadell).",
-      "itemId": "eabf9cd795ab79a1"
-    },
-    {
-      "id": "ca528abbb04180e4",
-      "t": "2026-11-09T18:18:41.440Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Segueix el CE Sabadell - Real Sociedad 'B', en directe» (Diari de Sabadell).",
-      "itemId": "4ad6344bee6fcd01"
-    },
-    {
       "id": "77024d708afb0229",
       "t": "2026-11-09T18:18:41.441Z",
       "agente": "rastreador",
@@ -2799,7 +2778,28 @@
       "agente": "rastreador",
       "texto": "He recollit «Eloi Vila, periodista: ''Explicar aquelles històries de la guerra que han estat silenciades molt temps''» (Ràdio Sabadell).",
       "itemId": "2f01a371131413f4"
+    },
+    {
+      "id": "85d4853a1585f03f",
+      "t": "2026-11-13T15:19:47.123Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La història de la Carola: dos bessons prematurs, una pèrdua i una lluita per tirar endavant» (Ràdio Sabadell).",
+      "itemId": "e1f7262b8d93b507"
+    },
+    {
+      "id": "f50fe9f5836ed698",
+      "t": "2026-11-13T15:19:47.124Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut.",
+      "itemId": "e1f7262b8d93b507"
+    },
+    {
+      "id": "955923064821c1cc",
+      "t": "2026-11-13T15:19:47.125Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "e1f7262b8d93b507"
     }
   ],
-  "actualizado": "2026-11-13T14:35:02.528Z"
+  "actualizado": "2026-11-13T15:20:20.996Z"
 }

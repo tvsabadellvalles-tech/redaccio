@@ -65,8 +65,9 @@
       "items": 1
     },
     "ayto-cerdanyola": {
-      "ok": true,
-      "items": 4
+      "ok": false,
+      "error": "The operation was aborted due to timeout",
+      "items": 0
     },
     "ayto-badia": {
       "ok": true,
@@ -81,6 +82,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-13T14:34:47.584Z",
-  "actualizado": "2026-11-13T14:35:02.526Z"
+  "consultat": "2026-11-13T15:19:47.122Z",
+  "actualizado": "2026-11-13T15:20:20.994Z"
 }

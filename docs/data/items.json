@@ -104,6 +104,31 @@
   },
   "items": [
     {
+      "id": "e1f7262b8d93b507",
+      "titulo": "La història de la Carola: dos bessons prematurs, una pèrdua i una lluita per tirar endavant",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/la-historia-de-la-carola-dos-bessons-prematurs-una-perdua-i-una-lluita-tirar",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-13T14:53:21.000Z",
+      "detectado": "2026-11-13T15:19:47.122Z",
+      "sensible": true,
+      "etiquetas": [
+        "salud"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "2f01a371131413f4",
       "titulo": "Eloi Vila, periodista: ''Explicar aquelles històries de la guerra que han estat silenciades molt temps''",
       "enlace": "https://radiosabadell.fm/alacarta/audio/eloi-vila-periodista-explicar-aquelles-histories-de-la-guerra-que-han-estat",
@@ -1034,5 +1059,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-13T14:35:02.525Z"
+  "actualizado": "2026-11-13T15:20:20.993Z"
 }
