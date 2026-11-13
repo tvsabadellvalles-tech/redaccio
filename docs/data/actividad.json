@@ -1,55 +1,6 @@
 {
   "eventos": [
     {
-      "id": "40317e4c2f1a61b8",
-      "t": "2026-11-09T12:26:03.434Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Vandalisme a la plaça de Granada de Can Puiggener poques setmanes després de ser renovada» (Diari de Sabadell).",
-      "itemId": "b7180672b74f27bd"
-    },
-    {
-      "id": "9596b7072e3eb7e0",
-      "t": "2026-11-09T12:26:03.435Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local.",
-      "itemId": "b7180672b74f27bd"
-    },
-    {
-      "id": "398e435dba21240d",
-      "t": "2026-11-09T12:26:03.436Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Aprovat el pressupost 2027 amb els vots del PSC i els expulsats de Junts» (iSabadell).",
-      "itemId": "9b92314f84d671f6"
-    },
-    {
-      "id": "310047c162095a15",
-      "t": "2026-11-09T12:26:03.437Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local.",
-      "itemId": "9b92314f84d671f6"
-    },
-    {
-      "id": "d2d1e1014fb2abff",
-      "t": "2026-11-09T12:26:03.438Z",
-      "agente": "rastreador",
-      "texto": "He recollit «L'Astralpool CN Sabadell, a l'assalt del Pireu per continuar amb la plena a la Champions» (Diari de Sabadell).",
-      "itemId": "b398f3d10d1663d5"
-    },
-    {
-      "id": "ea0e3a8ace472235",
-      "t": "2026-11-09T12:26:03.439Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El ple de Sabadell aprova inicialment els pressupostos de 2027, entre crítiques» (Diari de Sabadell).",
-      "itemId": "d3c93cd18a04809d"
-    },
-    {
-      "id": "c29fd76eb6874ccf",
-      "t": "2026-11-09T12:26:03.440Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local, Obres i urbanisme.",
-      "itemId": "d3c93cd18a04809d"
-    },
-    {
       "id": "6377b50ec4301431",
       "t": "2026-11-09T12:26:03.441Z",
       "agente": "mesa",
@@ -2799,7 +2750,56 @@
       "agente": "mesa",
       "texto": "Proposo incloure-ho a l'escaleta (3 punts): emergències.",
       "itemId": "3d18aaea10e55ba1"
+    },
+    {
+      "id": "3ce7e49b1d5e3cb4",
+      "t": "2026-11-13T08:49:12.603Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Les comparses ja poden inscriure's a la 39a Gran Rua de Carnaval fins al 6 de desembre» (Ajuntament de Montcada i Reixac).",
+      "itemId": "f4f76e3a619f7f8f"
+    },
+    {
+      "id": "4454ab3449291ef0",
+      "t": "2026-11-13T08:49:12.604Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L'atur del mes d'octubre a Santa Perpètua disminueix en vuit persones» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "64820bc1ac5cde10"
+    },
+    {
+      "id": "7472f88ca0e2a05b",
+      "t": "2026-11-13T08:49:12.605Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Economia i ocupació.",
+      "itemId": "64820bc1ac5cde10"
+    },
+    {
+      "id": "8040a073ea6349bf",
+      "t": "2026-11-13T08:49:12.606Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La primera setmana de la campanya de vigilància contra l'incivisme suma 46 denúncies» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "1ae10108e0256e67"
+    },
+    {
+      "id": "629b5c5399700436",
+      "t": "2026-11-13T08:49:12.607Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Medi ambient.",
+      "itemId": "1ae10108e0256e67"
+    },
+    {
+      "id": "f06b87c6c92c3ecc",
+      "t": "2026-11-13T08:49:12.608Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Les Termes, el barri que més ha crescut a Sabadell en el darrer any (+3,7%)» (Diari de Sabadell).",
+      "itemId": "decbf73fc3868199"
+    },
+    {
+      "id": "61d6783039b2b287",
+      "t": "2026-11-13T08:49:12.609Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Oberta la convocatòria del Concurs d’aparadors de Nadal» (Ajuntament de Sant Quirze del Vallès).",
+      "itemId": "4c59e2f95e071b51"
     }
   ],
-  "actualizado": "2026-11-13T06:43:37.265Z"
+  "actualizado": "2026-11-13T08:49:32.372Z"
 }

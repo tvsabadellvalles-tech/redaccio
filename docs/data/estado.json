@@ -10,7 +10,7 @@
     },
     "diari-sabadell": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "diari-terrassa": {
       "ok": true,
@@ -42,7 +42,7 @@
     },
     "ayto-santa-perpetua": {
       "ok": true,
-      "items": 0
+      "items": 2
     },
     "avisos-santa-perpetua": {
       "ok": true,
@@ -50,7 +50,7 @@
     },
     "ayto-montcada": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "avisos-montcada": {
       "ok": true,
@@ -74,13 +74,13 @@
     },
     "ayto-sant-quirze": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "324-comarques": {
       "ok": true,
       "items": 0
     }
   },
-  "consultat": "2026-11-13T07:57:25.234Z",
-  "actualizado": "2026-11-13T07:57:38.506Z"
+  "consultat": "2026-11-13T08:49:12.603Z",
+  "actualizado": "2026-11-13T08:49:32.370Z"
 }

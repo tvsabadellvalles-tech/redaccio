@@ -104,6 +104,98 @@
   },
   "items": [
     {
+      "id": "4c59e2f95e071b51",
+      "titulo": "Oberta la convocatòria del Concurs d’aparadors de Nadal",
+      "enlace": "https://www.santquirzevalles.cat/actualitat/noticies/oberta-la-convocatoria-del-concurs-d2019aparadors-de-nadal",
+      "fuente": "ayto-sant-quirze",
+      "fuenteNombre": "Ajuntament de Sant Quirze del Vallès",
+      "tipo": "oficial",
+      "resumen": "Els establiments comercials poden presentar les sol·licituds fins a l’11 de desembre",
+      "municipio": "sant-quirze",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-13T08:18:32.000Z",
+      "detectado": "2026-11-13T08:49:12.603Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "decbf73fc3868199",
+      "titulo": "Les Termes, el barri que més ha crescut a Sabadell en el darrer any (+3,7%)",
+      "enlace": "https://www.diaridesabadell.com/sabadell/les-termes-barri-de-moda-de-sabadell-creix-un-37-en-un-any.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-13T08:00:26.000Z",
+      "detectado": "2026-11-13T08:49:12.603Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "1ae10108e0256e67",
+      "titulo": "La primera setmana de la campanya de vigilància contra l'incivisme suma 46 denúncies",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/la-primera-setmana-de-la-campanya-de-vigilancia-contra-lincivisme-suma-46-denuncies.html",
+      "fuente": "ayto-santa-perpetua",
+      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
+      "tipo": "oficial",
+      "resumen": "Aquesta mesura forma part del programa municipal que treballa en tres àmbits: millorar la neteja, reforçar la recollida de residus i combatre l’incivisme.",
+      "municipio": "santa-perpetua",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-13T08:00:00.000Z",
+      "detectado": "2026-11-13T08:49:12.603Z",
+      "sensible": false,
+      "etiquetas": [
+        "medioambiente"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "font oficial",
+        "medi ambient"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "64820bc1ac5cde10",
+      "titulo": "L'atur del mes d'octubre a Santa Perpètua disminueix en vuit persones",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/latur-del-mes-doctubre-a-santa-perpetua-disminueix-en-vuit-persones.html",
+      "fuente": "ayto-santa-perpetua",
+      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
+      "tipo": "oficial",
+      "resumen": "L'atur s'ha incrementat en vuit persones, un 0,7%, durant el mes d’octubre a Santa Perpètua, segons dades de l'Observatori Socioeconòmic de l’Associació de Municipis de l’Eix de la Riera de Caldes.",
+      "municipio": "santa-perpetua",
+      "municipiosMencionados": [
+        "santa-perpetua"
+      ],
+      "publicado": "2026-11-13T07:00:00.000Z",
+      "detectado": "2026-11-13T08:49:12.603Z",
+      "sensible": false,
+      "etiquetas": [
+        "economia"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "font oficial",
+        "economia i ocupació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "575fed554d53d0b3",
       "titulo": "Infopòdcast Sabadell 13.11.26",
       "enlace": "https://radiosabadell.fm/alacarta/audio/infopodcast-sabadell-131126",
@@ -146,7 +238,28 @@
       ],
       "duplicadaDe": null,
       "propuesta": true
+    },
+    {
+      "id": "f4f76e3a619f7f8f",
+      "titulo": "Les comparses ja poden inscriure's a la 39a Gran Rua de Carnaval fins al 6 de desembre",
+      "enlace": "https://www.montcada.cat/actualitat/noticies/les-comparses-ja-poden-inscriures-a-la-39a-gran-rua-de-carnaval-fins-al-6-de-desembre.html",
+      "fuente": "ayto-montcada",
+      "fuenteNombre": "Ajuntament de Montcada i Reixac",
+      "tipo": "oficial",
+      "resumen": "",
+      "municipio": "montcada",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-12T23:00:00.000Z",
+      "detectado": "2026-11-13T08:49:12.603Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
     }
   ],
-  "actualizado": "2026-11-13T06:43:37.262Z"
+  "actualizado": "2026-11-13T08:49:32.369Z"
 }
