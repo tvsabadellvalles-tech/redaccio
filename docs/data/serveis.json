@@ -5,7 +5,7 @@
       "nom": "FGC Barcelona–Vallès",
       "enllac": "https://www.fgc.cat/adequacions-horaries/",
       "alternatiu": null,
-      "consultat": "2026-11-13T04:47:48.529Z",
+      "consultat": "2026-11-13T05:44:30.045Z",
       "estat": "cap-avis-recent",
       "detall": "Sense adequacions horàries."
     },
@@ -14,28 +14,45 @@
       "nom": "Rodalies R4 i R7",
       "enllac": "https://rodalies.gencat.cat/ca/alteracions_del_servei/",
       "alternatiu": null,
-      "consultat": "2026-11-13T04:47:48.529Z",
-      "estat": "cap-avis-recent",
-      "detall": "Cap avís publicat avui a les línies R4 i R7.",
-      "avisos": []
+      "consultat": "2026-11-13T05:44:30.045Z",
+      "estat": "avis",
+      "detall": "1 avís publicat avui a les línies R4 i R7.",
+      "avisos": [
+        {
+          "titol": "A causa d'una incidència operativa i d'una incidència a la infraestructura per robatori de cable a Fabra i Puig, els trens circulen am",
+          "detall": "A causa d'una incidència operativa i d'una incidència a la infraestructura per robatori de cable a Fabra i Puig, els trens circulen amb demores de 30 minuts de mitjana i poden romandre aturats a mesura que s'apropin al punt afectat.",
+          "publicat": "2026-11-13T05:24:00.000Z",
+          "linies": [
+            "R4"
+          ]
+        }
+      ]
     },
     {
       "id": "transit",
       "nom": "Trànsit · Vallès Occidental",
       "enllac": "https://cit.transit.gencat.cat/",
       "alternatiu": null,
-      "consultat": "2026-11-13T04:47:48.529Z",
-      "estat": "cap-avis-recent",
-      "detall": "Cap incidència d’avui a les carreteres seleccionades del Vallès Occidental, segons la llista actual de Trànsit.",
-      "actualitzat": "2026-11-13T04:48:03.000Z",
-      "avisos": []
+      "consultat": "2026-11-13T05:44:30.045Z",
+      "estat": "avis",
+      "detall": "1 incidència d’avui a les carreteres seleccionades del Vallès Occidental, segons la llista actual de Trànsit.",
+      "actualitzat": "2026-11-13T05:44:03.000Z",
+      "avisos": [
+        {
+          "titol": "Circulació · Circulació amb retencions",
+          "detall": "C-58 | RIPOLLET | Sentit Nord cap a SABADELL | Punt km. 7-5",
+          "publicat": "2026-11-13T05:40:37.000Z",
+          "carretera": "C-58",
+          "comarca": 40
+        }
+      ]
     },
     {
       "id": "meteocat",
       "nom": "Meteocat · Vallès Occidental",
       "enllac": "https://www.meteo.cat/prediccio/general",
       "alternatiu": null,
-      "consultat": "2026-11-13T04:47:48.529Z",
+      "consultat": "2026-11-13T05:44:30.045Z",
       "estat": "previsio",
       "detall": "Sense avisos actius. Previsió de divendres, 13 de novembre al Vallès Occidental: màxima 19°, mínima 11°. entre poc i mig ennuvolat al matí · entre poc i mig ennuvolat a la tarda · Pluja matí: No se n’espera · tarda: No se n’espera · Actualitzada 12-11-2026 15:00:00.",
       "previsio": {
@@ -57,12 +74,12 @@
       "nom": "Emergències · Protecció Civil",
       "enllac": "https://interior.gencat.cat/ca/actualitat/",
       "alternatiu": "https://govern.cat/salapremsa/notes-premsa",
-      "consultat": "2026-11-13T04:47:48.529Z",
+      "consultat": "2026-11-13T05:44:30.045Z",
       "estat": "cap-avis-recent",
       "detall": "Cap alerta local no meteorològica identificada a les alertes destacades d’Interior.",
       "avisos": []
     }
   ],
-  "consultat": "2026-11-13T04:47:48.529Z",
-  "actualizado": "2026-11-13T04:48:20.182Z"
+  "consultat": "2026-11-13T05:44:30.045Z",
+  "actualizado": "2026-11-13T05:45:00.318Z"
 }
