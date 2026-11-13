@@ -6,11 +6,11 @@
     },
     "radio-sabadell": {
       "ok": true,
-      "items": 1
+      "items": 5
     },
     "diari-sabadell": {
       "ok": true,
-      "items": 4
+      "items": 6
     },
     "diari-terrassa": {
       "ok": true,
@@ -42,7 +42,7 @@
     },
     "ayto-santa-perpetua": {
       "ok": true,
-      "items": 2
+      "items": 3
     },
     "avisos-santa-perpetua": {
       "ok": true,
@@ -54,7 +54,7 @@
     },
     "avisos-montcada": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "ayto-ripollet": {
       "ok": true,
@@ -62,11 +62,11 @@
     },
     "ayto-barbera": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "ayto-cerdanyola": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "ayto-badia": {
       "ok": true,
@@ -81,6 +81,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-13T09:43:35.603Z",
-  "actualizado": "2026-11-13T09:43:52.995Z"
+  "consultat": "2026-11-13T10:40:05.047Z",
+  "actualizado": "2026-11-13T10:40:18.759Z"
 }

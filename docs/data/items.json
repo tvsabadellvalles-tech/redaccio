@@ -104,6 +104,204 @@
   },
   "items": [
     {
+      "id": "69756d1de6f37083",
+      "titulo": "La Llanterna Màgica 400",
+      "enlace": "https://radiosabadell.fm/alacarta/audio/la-llanterna-magica-400",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-13T10:34:32.000Z",
+      "detectado": "2026-11-13T10:40:05.047Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "34cd53ed19290a07",
+      "titulo": "Programa 594 14/11/26",
+      "enlace": "https://radiosabadell.fm/alacarta/audio/programa-594-141126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-13T10:26:48.000Z",
+      "detectado": "2026-11-13T10:40:05.047Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "3c9465af3df271a9",
+      "titulo": "Vox obre la campanya electoral amb una crida a desallotjar Sánchez del Govern",
+      "enlace": "https://www.diaridesabadell.com/sabadell/vox-obre-la-campanya-electoral-amb-una-crida-a-desallotjar-sanchez-del-govern.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-13T10:18:21.000Z",
+      "detectado": "2026-11-13T10:40:05.047Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "c74406308cddf8f8",
+      "titulo": "Cerdanyola connecta coneixement, empresa i emprenedoria per impulsar la innovació",
+      "enlace": "http://www.cerdanyola.cat/actualitat/cerdanyola-connecta-coneixement-empresa-i-emprenedoria-impulsar-la-innovacio",
+      "fuente": "ayto-cerdanyola",
+      "fuenteNombre": "Ajuntament de Cerdanyola del Vallès",
+      "tipo": "oficial",
+      "resumen": "Cerdanyola connecta coneixement, empresa i emprenedoria per impulsar la innovació El Centre d’Innovació Empresarial de Cerdanyola posa en marxa el seu primer cicle d’activitats per fomentar la connexió entre coneixement, emprenedoria,…",
+      "municipio": "cerdanyola",
+      "municipiosMencionados": [
+        "cerdanyola"
+      ],
+      "publicado": "2026-11-13T10:17:53.000Z",
+      "detectado": "2026-11-13T10:40:05.047Z",
+      "sensible": false,
+      "etiquetas": [
+        "economia",
+        "educacion"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "font oficial",
+        "economia i ocupació, educació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "c76f29a0104277b4",
+      "titulo": "Una vintena de dones participen en el taller “De l’autoexigència a l’autocura amb perspectiva feminista”",
+      "enlace": "https://www.bdv.cat/noticies/una-vintena-de-dones-participen-en-el-taller-de-lautoexigencia-lautocura-amb-perspectiva",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "Un total de 20 de dones de Barberà del Vallès han participat durant el mes d’octubre en el taller “De l’autoexigència a l’autocura amb perspectiva feminista”, organitzat per l’Oficina de Polítiques de Gènere de l’Ajuntament de Barberà del…",
+      "municipio": "barbera",
+      "municipiosMencionados": [
+        "barbera"
+      ],
+      "publicado": "2026-11-13T10:07:00.000Z",
+      "detectado": "2026-11-13T10:40:05.047Z",
+      "sensible": false,
+      "etiquetas": [
+        "salud"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "font oficial",
+        "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "f77d752bc584e199",
+      "titulo": "Afectació viària a l'avinguda de la Unitat",
+      "enlace": "https://www.montcada.cat/temes/soterrament/dia-a-dia-soterrament/afectacio-viaria-a-lavinguda-de-la-unitat.html",
+      "fuente": "avisos-montcada",
+      "fuenteNombre": "Avisos de l'Ajuntament de Montcada i Reixac",
+      "tipo": "oficial",
+      "resumen": "",
+      "municipio": "montcada",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-13T10:00:00.000Z",
+      "detectado": "2026-11-13T10:40:05.047Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "769b809df8267690",
+      "titulo": "La caiguda de Microsoft complica l'activitat laboral i acadèmica de milers de persones al Vallès",
+      "enlace": "https://www.diaridesabadell.com/valles/caiguda-microsoft-afecta-valles-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-13T09:52:57.000Z",
+      "detectado": "2026-11-13T10:40:05.047Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "5b204f59e643c443",
+      "titulo": "Els Mossos busquen una dona desapareguda a Sabadell des de fa tres dies",
+      "enlace": "https://radiosabadell.fm/actualitat/successos/mossos-dona-desapareguda-sabadell-tres-dies",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-13T09:51:01.000Z",
+      "detectado": "2026-11-13T10:40:05.047Z",
+      "sensible": false,
+      "etiquetas": [
+        "sucesos"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "successos"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "c763c4d5c9629f36",
+      "titulo": "Ciberseguretat i ciberconfiança: com protegir-nos en un món connectat",
+      "enlace": "https://radiosabadell.fm/alacarta/audio/ciberseguretat-i-ciberconfianca-com-protegir-nos-en-un-mon-connectat",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-13T09:48:02.000Z",
+      "detectado": "2026-11-13T10:40:05.047Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "86f8235cf8f3ad94",
       "titulo": "Protesta per demanar millores a la línia C4",
       "enlace": "https://www.lactual.cat/actualitat/protesta-demanar-millores-linia-c4_55376_102.html",
@@ -288,6 +486,29 @@
       "propuesta": false
     },
     {
+      "id": "162464501ba654d2",
+      "titulo": "Santa Perpètua es suma a la commemoració del Dia de la Diabetis",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/santa-perpetua-es-suma-a-la-commemoracio-del-dia-de-la-diabetis.html",
+      "fuente": "ayto-santa-perpetua",
+      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
+      "tipo": "oficial",
+      "resumen": "L’acció primerenca contra la diabetis és el tema d’enguany per la Federació Internacional de la Diabetis",
+      "municipio": "santa-perpetua",
+      "municipiosMencionados": [
+        "santa-perpetua"
+      ],
+      "publicado": "2026-11-13T06:59:00.000Z",
+      "detectado": "2026-11-13T10:40:05.047Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "575fed554d53d0b3",
       "titulo": "Infopòdcast Sabadell 13.11.26",
       "enlace": "https://radiosabadell.fm/alacarta/audio/infopodcast-sabadell-131126",
@@ -353,5 +574,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-13T09:43:52.994Z"
+  "actualizado": "2026-11-13T10:40:18.757Z"
 }

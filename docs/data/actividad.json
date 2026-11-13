@@ -1,111 +1,6 @@
 {
   "eventos": [
     {
-      "id": "a5af9365543c6fed",
-      "t": "2026-11-09T13:42:56.992Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Cultura i festes.",
-      "itemId": "53e74adacca39b4d"
-    },
-    {
-      "id": "0cf38af6c1249335",
-      "t": "2026-11-09T13:42:56.993Z",
-      "agente": "rastreador",
-      "texto": "He recollit «BATECS, un nou Espai de diàlegs per transformar que vol visibilitzar i fer reflexionar sobre la Violència Vicària» (Ajuntament de Barberà del Vallès).",
-      "itemId": "a0b331d248bd8637"
-    },
-    {
-      "id": "e2457fa93161f184",
-      "t": "2026-11-09T13:42:56.994Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local, Cultura i festes.",
-      "itemId": "a0b331d248bd8637"
-    },
-    {
-      "id": "fa1d3a81ff8b4242",
-      "t": "2026-11-09T13:42:56.995Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "a0b331d248bd8637"
-    },
-    {
-      "id": "98a89578e936f92d",
-      "t": "2026-11-09T13:42:56.996Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · política local.",
-      "itemId": "a0b331d248bd8637"
-    },
-    {
-      "id": "cf32e6cc4f9a7548",
-      "t": "2026-11-09T13:42:56.997Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Bon comportament comercial del Centre, malgrat el tancament de locals» (Ràdio Sabadell).",
-      "itemId": "b672c97518cbc77d"
-    },
-    {
-      "id": "99dede914c01278b",
-      "t": "2026-11-09T13:42:56.998Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Economia i ocupació.",
-      "itemId": "b672c97518cbc77d"
-    },
-    {
-      "id": "631427802c552791",
-      "t": "2026-11-09T13:42:56.999Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Arriba a Sabadell el punt de venda d’estris de cuina més esperat» (Diari de Sabadell).",
-      "itemId": "e00d4155a8e01a98"
-    },
-    {
-      "id": "725a407bab8600dd",
-      "t": "2026-11-09T13:42:57.000Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Vandalisme a la plaça Granada poc després de la inauguració» (Ràdio Sabadell).",
-      "itemId": "1c8ecc30fdec2352"
-    },
-    {
-      "id": "505f1229b1955ccf",
-      "t": "2026-11-09T13:42:57.001Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Successos, Política local.",
-      "itemId": "1c8ecc30fdec2352"
-    },
-    {
-      "id": "2f19ec73f6e2f607",
-      "t": "2026-11-09T13:42:57.002Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): successos, política local.",
-      "itemId": "1c8ecc30fdec2352"
-    },
-    {
-      "id": "9cc55c6bbe90eb95",
-      "t": "2026-11-09T13:42:57.003Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Així commemorarà Sabadell el dia contra la violència masclista» (iSabadell).",
-      "itemId": "32ca58fdec6f2ffb"
-    },
-    {
-      "id": "9810c8845a314b3a",
-      "t": "2026-11-09T13:42:57.004Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Can Puiggener busca espai per aparcar el cotxe: \"La pressió al barri és molt gran\"» (Diari de Sabadell).",
-      "itemId": "c9c57a83d24b870c"
-    },
-    {
-      "id": "21f1274c13f7cd65",
-      "t": "2026-11-09T13:42:57.005Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Esports.",
-      "itemId": "c9c57a83d24b870c"
-    },
-    {
-      "id": "368de639bdda1daf",
-      "t": "2026-11-09T13:42:57.006Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Obert el termini d’inscripcions per participar a la 56a edició del Concurs d’Aparadors de Nadal» (Ajuntament de Montcada i Reixac).",
-      "itemId": "3f4dddb96afbf4a0"
-    },
-    {
       "id": "1eaef87a5c8346e7",
       "t": "2026-11-09T13:42:57.007Z",
       "agente": "rastreador",
@@ -2799,7 +2694,112 @@
       "agente": "rastreador",
       "texto": "He recollit «Protesta per demanar millores a la línia C4» (L'Actual - Castellar del Vallès).",
       "itemId": "86f8235cf8f3ad94"
+    },
+    {
+      "id": "d2050a6c7cc4ef9d",
+      "t": "2026-11-13T10:40:05.047Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Santa Perpètua es suma a la commemoració del Dia de la Diabetis» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "162464501ba654d2"
+    },
+    {
+      "id": "61828d679b6e2ff1",
+      "t": "2026-11-13T10:40:05.048Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Ciberseguretat i ciberconfiança: com protegir-nos en un món connectat» (Ràdio Sabadell).",
+      "itemId": "c763c4d5c9629f36"
+    },
+    {
+      "id": "939fef5488d9b414",
+      "t": "2026-11-13T10:40:05.049Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Els Mossos busquen una dona desapareguda a Sabadell des de fa tres dies» (Ràdio Sabadell).",
+      "itemId": "5b204f59e643c443"
+    },
+    {
+      "id": "6ec09f9a9625904b",
+      "t": "2026-11-13T10:40:05.050Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Successos.",
+      "itemId": "5b204f59e643c443"
+    },
+    {
+      "id": "90abebc825baa445",
+      "t": "2026-11-13T10:40:05.051Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La caiguda de Microsoft complica l'activitat laboral i acadèmica de milers de persones al Vallès» (Diari de Sabadell).",
+      "itemId": "769b809df8267690"
+    },
+    {
+      "id": "bce3fc0cd1834f42",
+      "t": "2026-11-13T10:40:05.052Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Afectació viària a l'avinguda de la Unitat» (Avisos de l'Ajuntament de Montcada i Reixac).",
+      "itemId": "f77d752bc584e199"
+    },
+    {
+      "id": "8fb781301eb95aeb",
+      "t": "2026-11-13T10:40:05.053Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Una vintena de dones participen en el taller “De l’autoexigència a l’autocura amb perspectiva feminista”» (Ajuntament de Barberà del Vallès).",
+      "itemId": "c76f29a0104277b4"
+    },
+    {
+      "id": "ca641418a974547f",
+      "t": "2026-11-13T10:40:05.054Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut.",
+      "itemId": "c76f29a0104277b4"
+    },
+    {
+      "id": "77391d2d44f2f02b",
+      "t": "2026-11-13T10:40:05.055Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Cerdanyola connecta coneixement, empresa i emprenedoria per impulsar la innovació» (Ajuntament de Cerdanyola del Vallès).",
+      "itemId": "c74406308cddf8f8"
+    },
+    {
+      "id": "d30a7cce8e3c8eae",
+      "t": "2026-11-13T10:40:05.056Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Economia i ocupació, Educació.",
+      "itemId": "c74406308cddf8f8"
+    },
+    {
+      "id": "c2823b60dd90cf73",
+      "t": "2026-11-13T10:40:05.057Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · economia i ocupació, educació.",
+      "itemId": "c74406308cddf8f8"
+    },
+    {
+      "id": "767c0bc32b547014",
+      "t": "2026-11-13T10:40:05.058Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Vox obre la campanya electoral amb una crida a desallotjar Sánchez del Govern» (Diari de Sabadell).",
+      "itemId": "3c9465af3df271a9"
+    },
+    {
+      "id": "858f665ba6e6b8a9",
+      "t": "2026-11-13T10:40:05.059Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local.",
+      "itemId": "3c9465af3df271a9"
+    },
+    {
+      "id": "535678588e5576ff",
+      "t": "2026-11-13T10:40:05.060Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Programa 594 14/11/26» (Ràdio Sabadell).",
+      "itemId": "34cd53ed19290a07"
+    },
+    {
+      "id": "7b537abedaaeb492",
+      "t": "2026-11-13T10:40:05.061Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La Llanterna Màgica 400» (Ràdio Sabadell).",
+      "itemId": "69756d1de6f37083"
     }
   ],
-  "actualizado": "2026-11-13T09:43:52.998Z"
+  "actualizado": "2026-11-13T10:40:18.760Z"
 }
