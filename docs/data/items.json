@@ -104,6 +104,65 @@
   },
   "items": [
     {
+      "id": "2f01a371131413f4",
+      "titulo": "Eloi Vila, periodista: ''Explicar aquelles històries de la guerra que han estat silenciades molt temps''",
+      "enlace": "https://radiosabadell.fm/alacarta/audio/eloi-vila-periodista-explicar-aquelles-histories-de-la-guerra-que-han-estat",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-13T14:20:29.000Z",
+      "detectado": "2026-11-13T14:34:47.584Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "99fdcb0939a8a5d6",
+      "titulo": "Veni Vidi Vici amb l'escriptor i periodista Lluis Llort i al telèfon Maite Manyosa",
+      "enlace": "https://radiosabadell.fm/alacarta/audio/veni-vidi-vici-amb-lescriptor-i-periodista-lluis-llort-i-al-telefon-maite-manyosa",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-13T14:08:25.000Z",
+      "detectado": "2026-11-13T14:34:47.584Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "06bbb788fa4a42f6",
+      "titulo": "Sabadell tindrà tres nous jutjats per fer front al col·lapse judicial",
+      "enlace": "https://www.diaridesabadell.com/sabadell/nous-jutjats-sabadell-2028.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-13T13:37:56.000Z",
+      "detectado": "2026-11-13T14:34:47.584Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "700dda2e92e2e383",
       "titulo": "Arrenca el Gran Recapte: 26 punts de recollida a Sabadell",
       "enlace": "https://radiosabadell.fm/podcast/noticies-migdia-gran-recapte-131126",
@@ -975,5 +1034,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-13T13:42:46.624Z"
+  "actualizado": "2026-11-13T14:35:02.525Z"
 }

@@ -1,27 +1,6 @@
 {
   "eventos": [
     {
-      "id": "964a19c16060aaef",
-      "t": "2026-11-09T17:18:54.804Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): font oficial · successos, educació.",
-      "itemId": "03aecfe80bdd7c44"
-    },
-    {
-      "id": "ed223471a952bc13",
-      "t": "2026-11-09T17:18:54.805Z",
-      "agente": "rastreador",
-      "texto": "He recollit «“Formem part d’un projecte col·lectiu més enllà de les classes”» (Ajuntament de Sant Quirze del Vallès).",
-      "itemId": "9e0e5e028a5f64dd"
-    },
-    {
-      "id": "165b98238cf44678",
-      "t": "2026-11-09T18:18:41.437Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Les arts escèniques per a nens amb pares a la presó» (Diari de Sabadell).",
-      "itemId": "ce19911b459db413"
-    },
-    {
       "id": "69c5e4c865caa936",
       "t": "2026-11-09T18:18:41.438Z",
       "agente": "vigilante",
@@ -2799,7 +2778,28 @@
       "agente": "rastreador",
       "texto": "He recollit «Arrenca el Gran Recapte: 26 punts de recollida a Sabadell» (Ràdio Sabadell).",
       "itemId": "700dda2e92e2e383"
+    },
+    {
+      "id": "d92ca3a7f49dd096",
+      "t": "2026-11-13T14:34:47.584Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Sabadell tindrà tres nous jutjats per fer front al col·lapse judicial» (Diari de Sabadell).",
+      "itemId": "06bbb788fa4a42f6"
+    },
+    {
+      "id": "eeadf72d96bdcdbf",
+      "t": "2026-11-13T14:34:47.585Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Veni Vidi Vici amb l'escriptor i periodista Lluis Llort i al telèfon Maite Manyosa» (Ràdio Sabadell).",
+      "itemId": "99fdcb0939a8a5d6"
+    },
+    {
+      "id": "4c054949ac5776a2",
+      "t": "2026-11-13T14:34:47.586Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Eloi Vila, periodista: ''Explicar aquelles històries de la guerra que han estat silenciades molt temps''» (Ràdio Sabadell).",
+      "itemId": "2f01a371131413f4"
     }
   ],
-  "actualizado": "2026-11-13T13:42:46.627Z"
+  "actualizado": "2026-11-13T14:35:02.528Z"
 }
