@@ -104,6 +104,92 @@
   },
   "items": [
     {
+      "id": "24cb360aebeb914b",
+      "titulo": "Eloi Moya, Arteneu: ''Al Cicle de l'Arteneu portem artistes que tenen vinculació amb nosaltres o la ciutat''",
+      "enlace": "https://radiosabadell.fm/alacarta/audio/eloi-moya-arteneu-al-cicle-de-larteneu-portem-artistes-que-tenen-vinculacio-amb",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-13T18:06:40.000Z",
+      "detectado": "2026-11-13T18:29:17.383Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "cd32ec1dfa443c56",
+      "titulo": "Palau al Dia - Notícies del 13/11/2026",
+      "enlace": "https://www.radiopalau.cat/podcasts/palau-al-dia/radiopalau_podcast_6835/",
+      "fuente": "radio-palau",
+      "fuenteNombre": "Ràdio Palau - Palau al Dia",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "palau",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-13T17:59:53.000Z",
+      "detectado": "2026-11-13T18:29:17.383Z",
+      "sensible": false,
+      "etiquetas": [
+        "sucesos",
+        "urbanismo"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "successos, obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "6e8bf0163d619ec1",
+      "titulo": "Llum verda a la reforma del nou Paddock",
+      "enlace": "https://www.isabadell.cat/sabadell/economia/comerc/llum-verda-a-la-reforma-del-nou-paddock-340751/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-13T17:45:56.000Z",
+      "detectado": "2026-11-13T18:29:17.383Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica",
+        "urbanismo"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "política local, obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "a3dbed26434ea074",
+      "titulo": "FOTOS | La plaça de Magdalena de Calonge estrena un espai renovat i jocs infantils",
+      "enlace": "https://www.diaridesabadell.com/sabadell/fotos-nova-placa-magdalena-calonge-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-13T17:42:36.000Z",
+      "detectado": "2026-11-13T18:29:17.383Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "6d54cde2262c9d9d",
       "titulo": "CIPO obre les portes del seu outlet solidari a l’Espai Cultura",
       "enlace": "https://radiosabadell.fm/actualitat/societat/cipo-obre-portes-outlet-solidari-espai",
@@ -1257,5 +1343,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-13T17:43:23.021Z"
+  "actualizado": "2026-11-13T18:29:34.592Z"
 }

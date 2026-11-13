@@ -2,11 +2,11 @@
   "fuentes": {
     "isabadell": {
       "ok": true,
-      "items": 2
+      "items": 3
     },
     "radio-sabadell": {
       "ok": true,
-      "items": 8
+      "items": 7
     },
     "diari-sabadell": {
       "ok": true,
@@ -30,7 +30,7 @@
     },
     "radio-palau": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "ayto-polinya": {
       "ok": true,
@@ -81,6 +81,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-13T17:43:07.054Z",
-  "actualizado": "2026-11-13T17:43:23.023Z"
+  "consultat": "2026-11-13T18:29:17.383Z",
+  "actualizado": "2026-11-13T18:29:34.594Z"
 }

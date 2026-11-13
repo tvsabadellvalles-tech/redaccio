@@ -1,62 +1,6 @@
 {
   "eventos": [
     {
-      "id": "25091523d3f7cefe",
-      "t": "2026-11-09T22:25:22.436Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Nul encert en un nou empat gris (0-0)» (iSabadell).",
-      "itemId": "a3a2d756df142a65"
-    },
-    {
-      "id": "0f817c94b6d1fb27",
-      "t": "2026-11-09T22:25:22.437Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Esports.",
-      "itemId": "a3a2d756df142a65"
-    },
-    {
-      "id": "c51f2b322a387fb4",
-      "t": "2026-11-09T23:08:30.798Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Infopòdcast Sabadell 10.11.26» (Ràdio Sabadell).",
-      "itemId": "47edd5662c4b0fce"
-    },
-    {
-      "id": "d168f32bfe2cd5b5",
-      "t": "2026-11-09T23:44:42.323Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Tribuna Preferent 26-27 #09 (214): El post del Sabadell 0-0 Real Sociedad 'B'» (Ràdio Sabadell).",
-      "itemId": "c59a148a9ce30d2d"
-    },
-    {
-      "id": "2614a85002d9ce82",
-      "t": "2026-11-10T06:24:51.175Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Comprar un habitatge de segona mà a Sabadell, equivalent als ingressos d'una llar en 5 anys» (Ràdio Sabadell).",
-      "itemId": "6c1bc60f80b0eff3"
-    },
-    {
-      "id": "d98a78fb699e7702",
-      "t": "2026-11-10T06:24:51.176Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat, Obres i urbanisme.",
-      "itemId": "6c1bc60f80b0eff3"
-    },
-    {
-      "id": "9d2b37bc821b5655",
-      "t": "2026-11-10T06:24:51.177Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): mobilitat, obres i urbanisme.",
-      "itemId": "6c1bc60f80b0eff3"
-    },
-    {
-      "id": "ada7e9903f3f8d22",
-      "t": "2026-11-10T07:40:40.835Z",
-      "agente": "rastreador",
-      "texto": "He recollit «‘Abascal y su ideología, sin maquillaje’» (iSabadell).",
-      "itemId": "26f1f50cff0ccbc6"
-    },
-    {
       "id": "01bbaa33eca2862f",
       "t": "2026-11-10T07:40:40.836Z",
       "agente": "etiquetador",
@@ -2799,7 +2743,63 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Cultura i festes.",
       "itemId": "6d54cde2262c9d9d"
+    },
+    {
+      "id": "be0091b6494611ff",
+      "t": "2026-11-13T18:29:17.383Z",
+      "agente": "rastreador",
+      "texto": "He recollit «FOTOS | La plaça de Magdalena de Calonge estrena un espai renovat i jocs infantils» (Diari de Sabadell).",
+      "itemId": "a3dbed26434ea074"
+    },
+    {
+      "id": "048bea4c1d251641",
+      "t": "2026-11-13T18:29:17.384Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Llum verda a la reforma del nou Paddock» (iSabadell).",
+      "itemId": "6e8bf0163d619ec1"
+    },
+    {
+      "id": "d07a366c1ad95421",
+      "t": "2026-11-13T18:29:17.385Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local, Obres i urbanisme.",
+      "itemId": "6e8bf0163d619ec1"
+    },
+    {
+      "id": "154bfd9a870a40f1",
+      "t": "2026-11-13T18:29:17.386Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): política local, obres i urbanisme.",
+      "itemId": "6e8bf0163d619ec1"
+    },
+    {
+      "id": "bd68d688754fe9cc",
+      "t": "2026-11-13T18:29:17.387Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Palau al Dia - Notícies del 13/11/2026» (Ràdio Palau - Palau al Dia).",
+      "itemId": "cd32ec1dfa443c56"
+    },
+    {
+      "id": "2a64bcc1ea6a1d4b",
+      "t": "2026-11-13T18:29:17.388Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Successos, Obres i urbanisme.",
+      "itemId": "cd32ec1dfa443c56"
+    },
+    {
+      "id": "4d6569de82e8682a",
+      "t": "2026-11-13T18:29:17.389Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): successos, obres i urbanisme.",
+      "itemId": "cd32ec1dfa443c56"
+    },
+    {
+      "id": "5133ef101affd056",
+      "t": "2026-11-13T18:29:17.390Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Eloi Moya, Arteneu: ''Al Cicle de l'Arteneu portem artistes que tenen vinculació amb nosaltres o la ciutat''» (Ràdio Sabadell).",
+      "itemId": "24cb360aebeb914b"
     }
   ],
-  "actualizado": "2026-11-13T17:43:23.025Z"
+  "actualizado": "2026-11-13T18:29:34.597Z"
 }
