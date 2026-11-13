@@ -104,6 +104,25 @@
   },
   "items": [
     {
+      "id": "aed256e381bb7bec",
+      "titulo": "Parlem d'Òpera 664: \"Els quatre elements (III): Terra\"",
+      "enlace": "https://radiosabadell.fm/alacarta/audio/parlem-dopera-664-els-quatre-elements-iii-terra",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-13T16:45:31.000Z",
+      "detectado": "2026-11-13T16:59:02.259Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "4a157da72264f2d8",
       "titulo": "Els de Física també saben com muntar-se una bona farra: una nit de ciència, jocs i festa a Sabadell",
       "enlace": "https://www.diaridesabadell.com/sabadell/estudiants-fisica-uab-saben-muntar-bona-farra-nit-ciencia-xerrades-sopar-festa-sabadell.html",
@@ -1215,5 +1234,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-13T16:10:36.831Z"
+  "actualizado": "2026-11-13T16:59:22.049Z"
 }
