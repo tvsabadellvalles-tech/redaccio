@@ -1,153 +1,6 @@
 {
   "eventos": [
     {
-      "id": "790e79665e37d484",
-      "t": "2026-11-09T13:42:57.015Z",
-      "agente": "deduplicador",
-      "texto": "Descartada perquè és duplicada: coincideix amb «Llum verda inicial al pressupost 2027 amb l'oposició en contra» (Ràdio Sabadell).",
-      "itemId": "46ebe021fd82488a"
-    },
-    {
-      "id": "e968b247265253d4",
-      "t": "2026-11-09T14:38:03.330Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Llum verda inicial al pressupost 2027 amb l'oposició en contra» (Ràdio Sabadell).",
-      "itemId": "ad7d535ca4cb1218"
-    },
-    {
-      "id": "d3c164583362636a",
-      "t": "2026-11-09T14:38:03.331Z",
-      "agente": "deduplicador",
-      "texto": "Descartada perquè és duplicada: coincideix amb «Llum verda inicial al pressupost 2027 amb l'oposició en contra» (Ràdio Sabadell).",
-      "itemId": "ad7d535ca4cb1218"
-    },
-    {
-      "id": "4325b6ab3d2ee39f",
-      "t": "2026-11-09T14:38:03.332Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Plenergy obre una nova gasolinera a Castellar» (L'Actual - Castellar del Vallès).",
-      "itemId": "80b9e06bb35d06fc"
-    },
-    {
-      "id": "57a5f0adefd1a8fe",
-      "t": "2026-11-09T15:32:52.905Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Un viatge al barri de Harlem de fa cent anys: el swing guanya pes en l'imaginari de Castellar» (Diari de Sabadell).",
-      "itemId": "a850ebfce9e6ec48"
-    },
-    {
-      "id": "68a7d6509a69af44",
-      "t": "2026-11-09T15:32:52.906Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Tertúlies Intergeneracionals: Civisme a la via publica» (Ràdio Sabadell).",
-      "itemId": "eb0a201f59cd86ad"
-    },
-    {
-      "id": "3bc5f65fac0ffca5",
-      "t": "2026-11-09T16:37:06.831Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Tertúlies Intergeneracionals: Com podem millorar la ciutat» (Ràdio Sabadell).",
-      "itemId": "b5da27bceceb1fb8"
-    },
-    {
-      "id": "1921caaf9e699cd8",
-      "t": "2026-11-09T16:37:06.832Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Tertúlies Intergeneracionals: Manifestació, vagues i protestes» (Ràdio Sabadell).",
-      "itemId": "a299098925d3235a"
-    },
-    {
-      "id": "22a1cd17e4ea5cd7",
-      "t": "2026-11-09T16:37:06.833Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Tertúlies Intergeneracionals: Edatisme, prejudicis i discriminació» (Ràdio Sabadell).",
-      "itemId": "901b35d4550348d8"
-    },
-    {
-      "id": "5e26ec194b040d4e",
-      "t": "2026-11-09T16:37:06.834Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Tertúlies Intergeneracionals: Violència sexual» (Ràdio Sabadell).",
-      "itemId": "3916723c8ad826c4"
-    },
-    {
-      "id": "9aba3fd90354358c",
-      "t": "2026-11-09T16:37:06.835Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Tertúlies Intergeneracionals: Canvi climàtic» (Ràdio Sabadell).",
-      "itemId": "2bd731e7c43c9f4a"
-    },
-    {
-      "id": "eb9b506de3c807d7",
-      "t": "2026-11-09T16:37:06.836Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Tertúlies Intergeneracionals: WC públics a la ciutat» (Ràdio Sabadell).",
-      "itemId": "5352ecd68c26a56f"
-    },
-    {
-      "id": "e369ce37fef0d4c6",
-      "t": "2026-11-09T16:37:06.837Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Tertúlies Intergeneracionals: Celebració festa gran» (Ràdio Sabadell).",
-      "itemId": "0dd2ccb1142d4de4"
-    },
-    {
-      "id": "e960e85396139f3c",
-      "t": "2026-11-09T16:37:06.838Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Cultura i festes.",
-      "itemId": "0dd2ccb1142d4de4"
-    },
-    {
-      "id": "711885cf58f60d88",
-      "t": "2026-11-09T16:37:06.839Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Signat el conveni amb la Generalitat per a la construcció de 94 pisos de protecció oficial a Sentmenat» (Diari de Sabadell).",
-      "itemId": "4236d9804db6c44a"
-    },
-    {
-      "id": "7314a1b27203717e",
-      "t": "2026-11-09T16:58:52.149Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Retorn a Cal Balsach sense premi per al FS Sabadell Femení» (Ràdio Sabadell).",
-      "itemId": "f7fc91c35232fd8b"
-    },
-    {
-      "id": "e823239de0f6f0af",
-      "t": "2026-11-09T16:58:52.150Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Obres i urbanisme, Medi ambient, Esports.",
-      "itemId": "f7fc91c35232fd8b"
-    },
-    {
-      "id": "dc933782de8b23aa",
-      "t": "2026-11-09T16:58:52.151Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Flashy Ice Cream, 31 FAM i Ven’nus, entre els artistes que s’uneixen per cantar contra la crisi de l’habitatge» (Ràdio Sabadell).",
-      "itemId": "a0fbcba4253173f2"
-    },
-    {
-      "id": "1088b6796f9bef4e",
-      "t": "2026-11-09T16:58:52.152Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Obres i urbanisme.",
-      "itemId": "a0fbcba4253173f2"
-    },
-    {
-      "id": "daa6f8ca68149919",
-      "t": "2026-11-09T17:04:32.089Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El Diari de Terrassa revalida el seu lideratge: prop d'un 70% dels terrassencs l'usen per informar-se» (Diari de Terrassa).",
-      "itemId": "9e8b45d6c4d16a0b"
-    },
-    {
-      "id": "cd067d6e7f0bebde",
-      "t": "2026-11-09T17:04:32.090Z",
-      "agente": "rastreador",
-      "texto": "He recollit «L'Institut Castellar dona un nou impuls al seu mural» (L'Actual - Castellar del Vallès).",
-      "itemId": "b05161b4cabc771c"
-    },
-    {
       "id": "19fbabbbc97bc88f",
       "t": "2026-11-09T17:04:32.091Z",
       "agente": "etiquetador",
@@ -2799,7 +2652,154 @@
       "agente": "mesa",
       "texto": "Proposo incloure-ho a l'escaleta (5 punts): font oficial · política local, salut, educació.",
       "itemId": "423f4079fe659c3d"
+    },
+    {
+      "id": "26dc31396d889ce2",
+      "t": "2026-11-13T12:29:34.175Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Ripollet acollirà el 10è Festival Internacional de Dones Màgiques DAMA» (Ajuntament de Ripollet).",
+      "itemId": "c3d0aee84d2bc7fd"
+    },
+    {
+      "id": "0265a5a41232f0ef",
+      "t": "2026-11-13T12:29:34.176Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Ripollet celebrarà la tercera Fira de les Economies Transformadores amb la migració i l’antiracisme com a protagonistes» (Ajuntament de Ripollet).",
+      "itemId": "22e3fdd478c68399"
+    },
+    {
+      "id": "1809f70cddcf568e",
+      "t": "2026-11-13T12:29:34.177Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "22e3fdd478c68399"
+    },
+    {
+      "id": "09d55de260186eef",
+      "t": "2026-11-13T12:29:34.178Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Una de cada cinc persones a Catalunya viu per sota del llindar de la pobresa» (Ràdio Sabadell).",
+      "itemId": "d9dabd87193d3434"
+    },
+    {
+      "id": "3c1efe7de7c32f4d",
+      "t": "2026-11-13T12:29:34.179Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Ripollet viatjarà a la Xina per la candidatura de les catifes florals a la UNESCO» (Ajuntament de Ripollet).",
+      "itemId": "7b52514edf9b570a"
+    },
+    {
+      "id": "2b08a428f04acf17",
+      "t": "2026-11-13T12:29:34.180Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "7b52514edf9b570a"
+    },
+    {
+      "id": "5d7460652cffa96a",
+      "t": "2026-11-13T12:29:34.181Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Què fer aquest cap de setmana a la ciutat?» (iSabadell).",
+      "itemId": "4029ad530200cb70"
+    },
+    {
+      "id": "460b25c351b1f25f",
+      "t": "2026-11-13T12:29:34.182Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut, Cultura i festes.",
+      "itemId": "4029ad530200cb70"
+    },
+    {
+      "id": "343ca0b0220805e4",
+      "t": "2026-11-13T12:29:34.183Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Carme Viñas, Gran Recapte: \"Hi ha molta gent que està treballant però no arriba a final de mes\"» (Ràdio Sabadell).",
+      "itemId": "8cf1a2b94ace3161"
+    },
+    {
+      "id": "00d41d9b09f6ea87",
+      "t": "2026-11-13T12:29:34.184Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L’Ajuntament recorda els consells de seguretat per gaudir de les activitats de foc de Sant Martí» (Ajuntament de Cerdanyola del Vallès).",
+      "itemId": "47920e7ad732d97a"
+    },
+    {
+      "id": "9bfc188a66ff1340",
+      "t": "2026-11-13T12:29:34.185Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Successos, Salut, Medi ambient, Cultura i festes.",
+      "itemId": "47920e7ad732d97a"
+    },
+    {
+      "id": "fef12e488ed497db",
+      "t": "2026-11-13T12:29:34.186Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "47920e7ad732d97a"
+    },
+    {
+      "id": "cf1a21f7061d0d6c",
+      "t": "2026-11-13T12:29:34.187Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (5 punts): font oficial · successos, salut, medi ambient.",
+      "itemId": "47920e7ad732d97a"
+    },
+    {
+      "id": "0707bbc61586b351",
+      "t": "2026-11-13T12:29:34.188Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La Colla Pirata actuarà a Sabadell aquest dissabte» (Ràdio Sabadell).",
+      "itemId": "2480aafcdb4d8966"
+    },
+    {
+      "id": "c62a338eac5fdb71",
+      "t": "2026-11-13T12:29:34.189Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "2480aafcdb4d8966"
+    },
+    {
+      "id": "996b2d2b7263ac34",
+      "t": "2026-11-13T12:29:34.190Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "2480aafcdb4d8966"
+    },
+    {
+      "id": "4a9f0cc577c03ae3",
+      "t": "2026-11-13T12:29:34.191Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Montserrat Baré, CAP Creu Alta: \"La medicina de família encara és una especialitat poc valorada\"» (Ràdio Sabadell).",
+      "itemId": "da36cf2b6143d119"
+    },
+    {
+      "id": "e29c8761d3739261",
+      "t": "2026-11-13T12:29:34.192Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut.",
+      "itemId": "da36cf2b6143d119"
+    },
+    {
+      "id": "01e0b49a64b9202a",
+      "t": "2026-11-13T12:29:34.193Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La Festa de Sant Martí comportarà afectacions al trànsit aquest cap de setmana» (Ajuntament de Cerdanyola del Vallès).",
+      "itemId": "c6cb713665e7d89f"
+    },
+    {
+      "id": "6761c9fb87788913",
+      "t": "2026-11-13T12:29:34.194Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat, Successos, Salut, Cultura i festes.",
+      "itemId": "c6cb713665e7d89f"
+    },
+    {
+      "id": "16dffefbed897b3f",
+      "t": "2026-11-13T12:29:34.195Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (5 punts): font oficial · mobilitat, successos, salut.",
+      "itemId": "c6cb713665e7d89f"
     }
   ],
-  "actualizado": "2026-11-13T11:33:35.435Z"
+  "actualizado": "2026-11-13T12:29:50.094Z"
 }

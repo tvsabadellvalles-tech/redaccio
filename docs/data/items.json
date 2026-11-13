@@ -134,6 +134,201 @@
       "propuesta": true
     },
     {
+      "id": "c6cb713665e7d89f",
+      "titulo": "La Festa de Sant Martí comportarà afectacions al trànsit aquest cap de setmana",
+      "enlace": "http://www.cerdanyola.cat/actualitat/la-festa-de-sant-marti-comportara-afectacions-al-transit-aquest-cap-de-setmana",
+      "fuente": "ayto-cerdanyola",
+      "fuenteNombre": "Ajuntament de Cerdanyola del Vallès",
+      "tipo": "oficial",
+      "resumen": "La Festa de Sant Martí comportarà afectacions al trànsit aquest cap de setmana La celebració de la Festa de Sant Martí comportarà diverses afectacions a la mobilitat aquest cap de setmana a Cerdanyola. Els talls de circulació afectaran…",
+      "municipio": "cerdanyola",
+      "municipiosMencionados": [
+        "cerdanyola"
+      ],
+      "publicado": "2026-11-13T11:57:00.000Z",
+      "detectado": "2026-11-13T12:29:34.175Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad",
+        "sucesos",
+        "salud",
+        "cultura"
+      ],
+      "puntuacion": 5,
+      "motivos": [
+        "font oficial",
+        "mobilitat, successos, salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "da36cf2b6143d119",
+      "titulo": "Montserrat Baré, CAP Creu Alta: \"La medicina de família encara és una especialitat poc valorada\"",
+      "enlace": "https://radiosabadell.fm/alacarta/audio/montserrat-bare-cap-creu-alta-la-medicina-de-familia-encara-es-una-especialitat-poc",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-13T11:56:49.000Z",
+      "detectado": "2026-11-13T12:29:34.175Z",
+      "sensible": false,
+      "etiquetas": [
+        "salud"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "2480aafcdb4d8966",
+      "titulo": "La Colla Pirata actuarà a Sabadell aquest dissabte",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/colla-pirata-sabadell-dissabte",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-13T11:54:17.000Z",
+      "detectado": "2026-11-13T12:29:34.175Z",
+      "sensible": true,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "47920e7ad732d97a",
+      "titulo": "L’Ajuntament recorda els consells de seguretat per gaudir de les activitats de foc de Sant Martí",
+      "enlace": "http://www.cerdanyola.cat/actualitat/lajuntament-recorda-els-consells-de-seguretat-gaudir-de-les-activitats-de-foc-de-sant",
+      "fuente": "ayto-cerdanyola",
+      "fuenteNombre": "Ajuntament de Cerdanyola del Vallès",
+      "tipo": "oficial",
+      "resumen": "L’Ajuntament recorda els consells de seguretat per gaudir de les activitats de foc de Sant Martí Amb motiu de la Festa de Sant Martí, Cerdanyola viurà aquest cap de setmana dues de les activitats més esperades de la programació: el…",
+      "municipio": "cerdanyola",
+      "municipiosMencionados": [
+        "cerdanyola"
+      ],
+      "publicado": "2026-11-13T11:50:01.000Z",
+      "detectado": "2026-11-13T12:29:34.175Z",
+      "sensible": true,
+      "etiquetas": [
+        "sucesos",
+        "salud",
+        "medioambiente",
+        "cultura"
+      ],
+      "puntuacion": 5,
+      "motivos": [
+        "font oficial",
+        "successos, salut, medi ambient"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "8cf1a2b94ace3161",
+      "titulo": "Carme Viñas, Gran Recapte: \"Hi ha molta gent que està treballant però no arriba a final de mes\"",
+      "enlace": "https://radiosabadell.fm/alacarta/audio/carme-vinas-gran-recapte-hi-ha-molta-gent-que-esta-treballant-pero-no-arriba-final",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-13T11:37:29.000Z",
+      "detectado": "2026-11-13T12:29:34.175Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "4029ad530200cb70",
+      "titulo": "Què fer aquest cap de setmana a la ciutat?",
+      "enlace": "https://www.isabadell.cat/oci/que-fer-aquest-cap-de-setmana-a-la-ciutat-340623/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-13T11:33:28.000Z",
+      "detectado": "2026-11-13T12:29:34.175Z",
+      "sensible": false,
+      "etiquetas": [
+        "salud",
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "7b52514edf9b570a",
+      "titulo": "Ripollet viatjarà a la Xina per la candidatura de les catifes florals a la UNESCO",
+      "enlace": "https://www.ripollet.cat/actualitat/noticies/ripollet-viatjara-a-la-xina-per-la-candidatura-de-les-catifes-florals-a-la-unesco",
+      "fuente": "ayto-ripollet",
+      "fuenteNombre": "Ajuntament de Ripollet",
+      "tipo": "oficial",
+      "resumen": "Representants de Cultura i Tradició assistiran a la reunió internacional en què es decidirà si aquesta manifestació d'art efímer és reconeguda com a patrimoni cultural immaterial de la humanitat.",
+      "municipio": "ripollet",
+      "municipiosMencionados": [
+        "ripollet"
+      ],
+      "publicado": "2026-11-13T11:25:04.000Z",
+      "detectado": "2026-11-13T12:29:34.175Z",
+      "sensible": false,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "d9dabd87193d3434",
+      "titulo": "Una de cada cinc persones a Catalunya viu per sota del llindar de la pobresa",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/una-de-cinc-persones-catalunya-viu-sota-llindar-pobresa",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-13T10:58:21.000Z",
+      "detectado": "2026-11-13T12:29:34.175Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "1e823e97e2316ff7",
       "titulo": "La tertúlia del Notícies Matí: Pla de Barris, inici de la campanya per al 29-N i el Nadal a Sabadell",
       "enlace": "https://radiosabadell.fm/podcast/noticies-mati-tertulia-131126",
@@ -377,6 +572,54 @@
         "successos"
       ],
       "duplicadaDe": "5b204f59e643c443",
+      "propuesta": false
+    },
+    {
+      "id": "c3d0aee84d2bc7fd",
+      "titulo": "Ripollet acollirà el 10è Festival Internacional de Dones Màgiques DAMA",
+      "enlace": "https://www.ripollet.cat/actualitat/noticies/ripollet-acollira-el-10e-festival-internacional-de-dones-magiques-dama",
+      "fuente": "ayto-ripollet",
+      "fuenteNombre": "Ajuntament de Ripollet",
+      "tipo": "oficial",
+      "resumen": "L'esdeveniment se celebrarà del 13 al 15 de novembre i comptarà amb la participació de magues d’arreu del món. La programació inclou activitats professionals, una gala internacional, una sessió golfa i propostes per a tots els públics.",
+      "municipio": "ripollet",
+      "municipiosMencionados": [
+        "ripollet"
+      ],
+      "publicado": "2026-11-13T09:50:00.000Z",
+      "detectado": "2026-11-13T12:29:34.175Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "22e3fdd478c68399",
+      "titulo": "Ripollet celebrarà la tercera Fira de les Economies Transformadores amb la migració i l’antiracisme com a protagonistes",
+      "enlace": "https://www.ripollet.cat/actualitat/noticies/ripollet-celebrara-la-tercera-fira-de-les-economies-transformadores-amb-la-migracio-i-l2019antiracisme-com-a-protagonistes",
+      "fuente": "ayto-ripollet",
+      "fuenteNombre": "Ajuntament de Ripollet",
+      "tipo": "oficial",
+      "resumen": "La Rambla de Sant Jordi acollirà el 15 de novembre una trentena de parades de consum conscient i activitats culturals i familiars per a tots els públics.",
+      "municipio": "ripollet",
+      "municipiosMencionados": [
+        "ripollet"
+      ],
+      "publicado": "2026-11-13T09:50:00.000Z",
+      "detectado": "2026-11-13T12:29:34.175Z",
+      "sensible": false,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
       "propuesta": false
     },
     {
@@ -671,5 +914,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-13T11:33:35.432Z"
+  "actualizado": "2026-11-13T12:29:50.091Z"
 }
