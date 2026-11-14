@@ -127,6 +127,31 @@
       "propuesta": false
     },
     {
+      "id": "d99b68300a5d17b5",
+      "titulo": "Som Capaços apropa la inclusió als infants amb música i activitats familiars",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/el-som-capacos-inclusio-infants-musica-activitats-sabadell",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-14T12:52:22.000Z",
+      "detectado": "2026-11-14T14:54:37.856Z",
+      "sensible": true,
+      "etiquetas": [
+        "politica"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "2829a34cbb31901d",
       "titulo": "Comuns – Front Ampli vol equiparar les pensions mínimes al salari mínim",
       "enlace": "https://www.isabadell.cat/politica/eleccions-generals-2026/comuns-front-ampli-vol-equiparar-les-pensions-minimes-al-salari-minim-340801/",
@@ -278,5 +303,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-14T14:10:57.443Z"
+  "actualizado": "2026-11-14T14:54:55.046Z"
 }

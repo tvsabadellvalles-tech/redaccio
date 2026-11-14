@@ -1,27 +1,6 @@
 {
   "eventos": [
     {
-      "id": "0ad74be5a49bbe2d",
-      "t": "2026-11-10T09:28:21.068Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Obres i urbanisme.",
-      "itemId": "b5cc336eb6ed6774"
-    },
-    {
-      "id": "c5d09fbc43afea66",
-      "t": "2026-11-10T09:28:21.069Z",
-      "agente": "rastreador",
-      "texto": "He recollit «David Lyme / Jordi Cubino i el ‘Sabadell Sound’, a ‘El doble’» (iSabadell).",
-      "itemId": "e6261a4fdb506031"
-    },
-    {
-      "id": "50401a62200c75be",
-      "t": "2026-11-10T09:28:21.070Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "e6261a4fdb506031"
-    },
-    {
       "id": "31870f241030cb5e",
       "t": "2026-11-10T09:28:21.071Z",
       "agente": "rastreador",
@@ -2799,7 +2778,28 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Salut.",
       "itemId": "acf6a18005b7b170"
+    },
+    {
+      "id": "bcd1e40da8495445",
+      "t": "2026-11-14T14:54:37.856Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Som Capaços apropa la inclusió als infants amb música i activitats familiars» (Ràdio Sabadell).",
+      "itemId": "d99b68300a5d17b5"
+    },
+    {
+      "id": "9a82f2f08495b467",
+      "t": "2026-11-14T14:54:37.857Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local.",
+      "itemId": "d99b68300a5d17b5"
+    },
+    {
+      "id": "e51492e4e4439c47",
+      "t": "2026-11-14T14:54:37.858Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "d99b68300a5d17b5"
     }
   ],
-  "actualizado": "2026-11-14T14:10:57.446Z"
+  "actualizado": "2026-11-14T14:54:55.050Z"
 }
