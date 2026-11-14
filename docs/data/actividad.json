@@ -1,20 +1,6 @@
 {
   "eventos": [
     {
-      "id": "cc347cebfcc35d48",
-      "t": "2026-11-10T08:36:43.884Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · economia i ocupació, educació.",
-      "itemId": "93bb9f157378d5fe"
-    },
-    {
-      "id": "a18f42b7309e89f5",
-      "t": "2026-11-10T08:36:43.885Z",
-      "agente": "rastreador",
-      "texto": "He recollit «\"El meu pare m'haurà de tornar a casa amb cotxe\": els usuaris de Rodalies es preparen per tres dies d'aturades al servei» (Diari de Sabadell).",
-      "itemId": "e95778d9bae656dd"
-    },
-    {
       "id": "f44042e5cc79caad",
       "t": "2026-11-10T08:36:43.886Z",
       "agente": "etiquetador",
@@ -2799,7 +2785,21 @@
       "agente": "rastreador",
       "texto": "He recollit «‘David, eso no fue ‘La Revuelta”» (iSabadell).",
       "itemId": "563a36ba1ce8ffd7"
+    },
+    {
+      "id": "10998eb07b803125",
+      "t": "2026-11-14T09:09:41.272Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Que la complexitat no deixi ningú als marges» (iSabadell).",
+      "itemId": "b86ab43dffe2e50b"
+    },
+    {
+      "id": "3631e12c801d6376",
+      "t": "2026-11-14T09:09:41.273Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Com s'han viscut les vagues generals estatals a Sabadell des que va arribar la democràcia?» (Diari de Sabadell).",
+      "itemId": "ee005fe832cc7fe8"
     }
   ],
-  "actualizado": "2026-11-14T08:21:39.140Z"
+  "actualizado": "2026-11-14T09:09:58.650Z"
 }

@@ -104,6 +104,46 @@
   },
   "items": [
     {
+      "id": "ee005fe832cc7fe8",
+      "titulo": "Com s'han viscut les vagues generals estatals a Sabadell des que va arribar la democràcia?",
+      "enlace": "https://www.diaridesabadell.com/sabadell/50-anys-diari-de-sabadell/com-shan-viscut-les-vagues-generals-estatals-a-sabadell-des-que-va-arribar-la-democracia.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-14T08:35:32.000Z",
+      "detectado": "2026-11-14T09:09:41.272Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "b86ab43dffe2e50b",
+      "titulo": "Que la complexitat no deixi ningú als marges",
+      "enlace": "https://www.isabadell.cat/el-raco-de-valua/que-la-complexitat-no-deixi-ningu-als-marges-340770/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-14T08:30:00.000Z",
+      "detectado": "2026-11-14T09:09:41.272Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "563a36ba1ce8ffd7",
       "titulo": "‘David, eso no fue ‘La Revuelta”",
       "enlace": "https://www.isabadell.cat/opinio/motu-proprio/david-eso-no-fue-la-revuelta-340514/",
@@ -123,5 +163,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-14T08:21:39.136Z"
+  "actualizado": "2026-11-14T09:09:58.646Z"
 }
