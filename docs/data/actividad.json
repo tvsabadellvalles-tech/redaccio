@@ -1,20 +1,6 @@
 {
   "eventos": [
     {
-      "id": "e1be506ad8a89c0d",
-      "t": "2026-11-10T11:12:35.651Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Gerard Torres Sanmartí, Acadèmia de Belles Arts: \"Camil Fàbregas és el millor escultor que ha tingut Sabadell\"» (Ràdio Sabadell).",
-      "itemId": "221df245a77c4812"
-    },
-    {
-      "id": "e40acdd0471abff7",
-      "t": "2026-11-10T11:12:35.652Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La vaga de maquinistes se suma al caos diari dels usuaris: \"Hem estat mitja hora amb el tren parat\"» (Diari de Sabadell).",
-      "itemId": "18765c50c49f0fb3"
-    },
-    {
       "id": "6e44cf7c14169483",
       "t": "2026-11-10T11:12:35.653Z",
       "agente": "etiquetador",
@@ -2799,7 +2785,21 @@
       "agente": "mesa",
       "texto": "Proposo incloure-ho a l'escaleta (3 punts): successos, salut.",
       "itemId": "2190761995b1baf9"
+    },
+    {
+      "id": "cfeb6529618973e3",
+      "t": "2026-11-14T21:00:35.529Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El Taulí celebra la Diada de l’Infant Prematur amb una jornada per compartir experiències i donar visibilitat a les famílies» (Diari de Sabadell).",
+      "itemId": "b88368cf0ce89418"
+    },
+    {
+      "id": "a510c07f6ff58c78",
+      "t": "2026-11-14T21:00:35.530Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "b88368cf0ce89418"
     }
   ],
-  "actualizado": "2026-11-14T20:18:27.163Z"
+  "actualizado": "2026-11-14T21:00:49.008Z"
 }

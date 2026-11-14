@@ -104,6 +104,25 @@
   },
   "items": [
     {
+      "id": "b88368cf0ce89418",
+      "titulo": "El Taulí celebra la Diada de l’Infant Prematur amb una jornada per compartir experiències i donar visibilitat a les famílies",
+      "enlace": "https://www.diaridesabadell.com/sabadell/diada-infant-prematur-parc-tauli.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-14T20:33:27.000Z",
+      "detectado": "2026-11-14T21:00:35.529Z",
+      "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "2190761995b1baf9",
       "titulo": "Intenten segrestar a Sabadell l’home raptat a l’AP-7 al setembre",
       "enlace": "https://www.isabadell.cat/successos/intenten-segrestar-a-sabadell-lhome-raptat-a-lap-7-al-setembre-340839/",
@@ -515,5 +534,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-14T20:18:27.160Z"
+  "actualizado": "2026-11-14T21:00:49.005Z"
 }
