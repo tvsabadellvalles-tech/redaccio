@@ -21,7 +21,7 @@ Veureu el monitor amb notícies fictícies i el resum de l’estat dels serveis.
 
 > Si ya habías ejecutado la prueba antes de esta versión, `npm run prueba` borra y regenera sus datos (usa `--reset`), así que no hace falta limpiar nada.
 
-En local, `npm run servir` inicia un rastreig en arrencar i el repeteix cada 10 minuts (configurable amb `RASTREO_CADA_MS`). La pàgina consulta els fitxers de dades cada minut. A GitHub Pages, el workflow rastreja i publica el lloc cada 5 minuts; també ho fa en cada `push` a `main` i es pot iniciar manualment des de la pestanya Actions. Cinc minuts és el mínim de programació de GitHub Actions, i GitHub pot endarrerir el `cron`; per tant, no es pot garantir una actualització al minut.
+En local, `npm run servir` inicia un rastreig en arrencar i el repeteix cada 10 minuts (configurable amb `RASTREO_CADA_MS`). La pàgina consulta els fitxers de dades cada minut. A GitHub Pages, el workflow rastreja i publica aproximadament cada 10 minuts, als minuts :07, :17, :27, :37, :47 i :57 UTC; també ho fa en cada `push` a `main` i es pot iniciar manualment des de la pestanya Actions. GitHub pot endarrerir les execucions programades, així que no es pot garantir una actualització exacta al minut.
 
 El lloc es publica a <https://tvsabadellvalles-tech.github.io/redaccio/>. El workflow configura GitHub Pages automàticament en el primer desplegament i utilitza `docs/` com a contingut del lloc.
 
@@ -36,7 +36,7 @@ En Ràdio Sabadell s'exclou la sèrie d'àudio «Tertúlies Intergeneracionals»
 | Procés | Freqüència | Què significa |
 |---|---:|---|
 | Rastreig local | A l'inici i cada 10 min | `npm run servir`; configurable amb `RASTREO_CADA_MS`. |
-| GitHub Actions | Cada 5 min | Interval mínim programable; GitHub pot endarrerir-lo. |
+| GitHub Actions | Cada 10 min | Minuts :07, :17, :27, :37, :47 i :57 UTC; GitHub pot endarrerir-lo. |
 | Consulta del navegador | Cada 60 s | Torna a llegir els JSON; no força una nova ingesta. |
 | Calendari públic | Cada rastreig | Les activitats d'avui es publiquen al JSON de dades amb títol i horari, sense descripció ni assistents. |
 
@@ -85,7 +85,7 @@ Abans de programar rastrejos, reviseu les condicions d'ús de cada web i el seu 
 
 1. Crea un repositorio en GitHub y sube la carpeta (`git init`, `git add .`, `git commit`, `git push`).
 2. **Settings → Pages → Deploy from a branch → `main` / carpeta `/docs`.**
-3. El workflow `.github/workflows/rastreo.yml` rastrea y publica cada 5 minutos (mínimo programable de GitHub; puede retrasarse) y guarda los cambios en `docs/data/`. También se puede lanzar a mano desde la pestaña *Actions*.
+3. El workflow `.github/workflows/rastreo.yml` rastrea y publica aproximadamente cada 10 minutos (en los minutos :07, :17, :27, :37, :47 y :57 UTC; GitHub puede retrasarlo) y guarda los cambios en `docs/data/`. También se puede lanzar a mano desde la pestaña *Actions*.
 
 Cosas que conviene comprobar en la documentación de GitHub, porque cambian:
 
