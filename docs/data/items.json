@@ -104,6 +104,52 @@
   },
   "items": [
     {
+      "id": "1620472b985cfac6",
+      "titulo": "L'OAR Gràcia femení derrota el Sant Joan Despí (30-26) i ratifica les seves ambicioses intencions",
+      "enlace": "https://radiosabadell.fm/esports/handbol/oar-femeni-sant-joan-despi-cronica-jornada7",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-14T18:45:19.000Z",
+      "detectado": "2026-11-14T18:57:33.622Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "34ab3a0cf43e4fea",
+      "titulo": "Ferencváros 8-13 Astralpool CN Sabadell: cop sobre la taula a casa del subcampió",
+      "enlace": "https://radiosabadell.fm/esports/waterpolo/ferencvaros-8-13-astralpool-cn-sabadell-champions-league",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-14T18:09:47.000Z",
+      "detectado": "2026-11-14T18:57:33.622Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "020779f5a90f4a24",
       "titulo": "El Sincrotró ALBA, des de dins: un accelerador de partícules que prepara el pròxim salt",
       "enlace": "https://www.diaridesabadell.com/valles/cerdanyola/sincrotro-alba-cerdanyola-que-fa-investigacio-ciencia.html",
@@ -347,5 +393,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-14T16:14:50.332Z"
+  "actualizado": "2026-11-14T18:57:48.541Z"
 }

@@ -1,34 +1,6 @@
 {
   "eventos": [
     {
-      "id": "0c5a2dc54ec40db2",
-      "t": "2026-11-10T09:28:21.072Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local, Medi ambient.",
-      "itemId": "c0f8a918e8166327"
-    },
-    {
-      "id": "4431456f60f43bc7",
-      "t": "2026-11-10T09:28:21.073Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): font oficial · política local, medi ambient.",
-      "itemId": "c0f8a918e8166327"
-    },
-    {
-      "id": "8270884a74aca438",
-      "t": "2026-11-10T09:28:21.074Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Més baixes de pes al Sabadell: Quadri, 'Urri' i Eneko no jugaran a Elda» (Ràdio Sabadell).",
-      "itemId": "5418475f9c902c6a"
-    },
-    {
-      "id": "62c1b3e94cb350b2",
-      "t": "2026-11-10T09:28:21.075Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Salut, Esports.",
-      "itemId": "5418475f9c902c6a"
-    },
-    {
       "id": "53b2b3e759d9a333",
       "t": "2026-11-10T10:22:28.442Z",
       "agente": "rastreador",
@@ -2799,7 +2771,35 @@
       "agente": "rastreador",
       "texto": "He recollit «El Sincrotró ALBA, des de dins: un accelerador de partícules que prepara el pròxim salt» (Diari de Sabadell).",
       "itemId": "020779f5a90f4a24"
+    },
+    {
+      "id": "42065d7f70a46059",
+      "t": "2026-11-14T18:57:33.622Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Ferencváros 8-13 Astralpool CN Sabadell: cop sobre la taula a casa del subcampió» (Ràdio Sabadell).",
+      "itemId": "34ab3a0cf43e4fea"
+    },
+    {
+      "id": "1429a13eb4130806",
+      "t": "2026-11-14T18:57:33.623Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "34ab3a0cf43e4fea"
+    },
+    {
+      "id": "282b46c1fe49cd87",
+      "t": "2026-11-14T18:57:33.624Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L'OAR Gràcia femení derrota el Sant Joan Despí (30-26) i ratifica les seves ambicioses intencions» (Ràdio Sabadell).",
+      "itemId": "1620472b985cfac6"
+    },
+    {
+      "id": "9e7152a2eb98e75c",
+      "t": "2026-11-14T18:57:33.625Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "1620472b985cfac6"
     }
   ],
-  "actualizado": "2026-11-14T16:14:50.335Z"
+  "actualizado": "2026-11-14T18:57:48.544Z"
 }
