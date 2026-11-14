@@ -104,6 +104,32 @@
   },
   "items": [
     {
+      "id": "ac86c77c6e5bd616",
+      "titulo": "Joan Mena (Comuns): “No volem cap pensió per sota del salari mínim”",
+      "enlace": "https://radiosabadell.fm/actualitat/politica/joan-mena-comuns-no-volem-pensio-sota-salari-minim",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-14T11:54:22.000Z",
+      "detectado": "2026-11-14T12:22:28.420Z",
+      "sensible": false,
+      "etiquetas": [
+        "economia",
+        "salud"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "economia i ocupació, salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "3b90159e6e40e6b5",
       "titulo": "Rock als Ossos, emotiu homenatge als Watts",
       "enlace": "https://www.diaridesabadell.com/sabadell/historia/rock-als-ossos-emotiu-homenatge-als-watts.html",
@@ -205,5 +231,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-14T09:20:32.515Z"
+  "actualizado": "2026-11-14T12:22:51.865Z"
 }
