@@ -1,27 +1,6 @@
 {
   "eventos": [
     {
-      "id": "7c56bee0c4cc8c0e",
-      "t": "2026-11-10T08:36:43.890Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat, Obres i urbanisme, Cultura i festes.",
-      "itemId": "51c985f0e407c565"
-    },
-    {
-      "id": "54af3dbfff0605fc",
-      "t": "2026-11-10T08:36:43.891Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): font oficial · mobilitat, obres i urbanisme.",
-      "itemId": "51c985f0e407c565"
-    },
-    {
-      "id": "bd94ca1dd4dcabb2",
-      "t": "2026-11-10T09:28:21.065Z",
-      "agente": "rastreador",
-      "texto": "He recollit «L'EMA torna a iniciar projectes com la Banda, l'Orquestra i el Cor comunitari, oberts a la participació de tothom» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "9ffe245e4c92dc33"
-    },
-    {
       "id": "181fd5687ae01592",
       "t": "2026-11-10T09:28:21.066Z",
       "agente": "etiquetador",
@@ -2799,7 +2778,28 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Economia i ocupació, Salut.",
       "itemId": "ac86c77c6e5bd616"
+    },
+    {
+      "id": "0eecea2fc84cd21c",
+      "t": "2026-11-14T13:21:29.257Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Comuns – Front Ampli vol equiparar les pensions mínimes al salari mínim» (iSabadell).",
+      "itemId": "2829a34cbb31901d"
+    },
+    {
+      "id": "233cc2fad4be80f7",
+      "t": "2026-11-14T13:21:29.258Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Emergències, Salut.",
+      "itemId": "2829a34cbb31901d"
+    },
+    {
+      "id": "d4df56e3534aaa4c",
+      "t": "2026-11-14T13:21:29.259Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): emergències, salut.",
+      "itemId": "2829a34cbb31901d"
     }
   ],
-  "actualizado": "2026-11-14T12:22:51.868Z"
+  "actualizado": "2026-11-14T13:21:49.144Z"
 }

@@ -5,7 +5,7 @@
       "nom": "FGC Barcelona–Vallès",
       "enllac": "https://www.fgc.cat/adequacions-horaries/",
       "alternatiu": null,
-      "consultat": "2026-11-14T12:22:28.420Z",
+      "consultat": "2026-11-14T13:21:29.257Z",
       "estat": "cap-avis-recent",
       "detall": "Sense adequacions horàries."
     },
@@ -14,7 +14,7 @@
       "nom": "Rodalies R4 i R7",
       "enllac": "https://rodalies.gencat.cat/ca/alteracions_del_servei/",
       "alternatiu": null,
-      "consultat": "2026-11-14T12:22:28.420Z",
+      "consultat": "2026-11-14T13:21:29.257Z",
       "estat": "avis",
       "detall": "2 avisos publicats avui a les línies R4 i R7.",
       "avisos": [
@@ -59,11 +59,25 @@
       "nom": "Trànsit · Vallès Occidental",
       "enllac": "https://cit.transit.gencat.cat/",
       "alternatiu": null,
-      "consultat": "2026-11-14T12:22:28.420Z",
+      "consultat": "2026-11-14T13:21:29.257Z",
       "estat": "avis",
-      "detall": "1 incidència d’avui a les carreteres seleccionades del Vallès Occidental, segons la llista actual de Trànsit.",
-      "actualitzat": "2026-11-14T12:22:05.000Z",
+      "detall": "3 incidències d’avui a les carreteres seleccionades del Vallès Occidental, segons la llista actual de Trànsit.",
+      "actualitzat": "2026-11-14T13:21:03.000Z",
       "avisos": [
+        {
+          "titol": "Accident · Circulació intensa",
+          "detall": "AP-7 | SANT CUGAT DEL VALLÈS | Sentit Sud cap a TARRAGONA | Punt km. 159-158 | UN CARRIL TALLAT",
+          "publicat": "2026-11-14T13:14:21.000Z",
+          "carretera": "AP-7",
+          "comarca": 40
+        },
+        {
+          "titol": "Circulació · Circulació amb retencions",
+          "detall": "AP-7 | BARBERÀ DEL VALLÈS | Sentit Sud cap a TARRAGONA | Punt km. 147-146",
+          "publicat": "2026-11-14T12:58:19.000Z",
+          "carretera": "AP-7",
+          "comarca": 40
+        },
         {
           "titol": "Circulació · Circulació amb retencions",
           "detall": "B-30 | BADIA DEL VALLÈS | Sentit Nord cap a GIRONA | Punt km. 10-9",
@@ -78,20 +92,20 @@
       "nom": "Meteocat · Vallès Occidental",
       "enllac": "https://www.meteo.cat/prediccio/general",
       "alternatiu": null,
-      "consultat": "2026-11-14T12:22:28.420Z",
+      "consultat": "2026-11-14T13:21:29.257Z",
       "estat": "previsio",
-      "detall": "Sense avisos actius. Previsió de dissabte, 14 de novembre al Vallès Occidental: màxima 20°, mínima 9°. entre poc i mig ennuvolat al matí · entre poc i mig ennuvolat a la tarda · Pluja matí: No se n’espera · tarda: Possible (10–30%) · Actualitzada 13-11-2026 15:00:00.",
+      "detall": "Sense avisos actius. Previsió de diumenge, 15 de novembre al Vallès Occidental: màxima 19°, mínima 10°. sol i núvols alts al matí · entre poc i mig ennuvolat a la tarda · Pluja matí: No se n’espera · tarda: No es descarta (<10%) · Actualitzada 14-11-2026 15:00:00.",
       "previsio": {
-        "data": "14-11-2026",
-        "dataISO": "2026-11-14",
-        "dataLlarga": "dissabte, 14 de novembre",
-        "actualitzat": "13-11-2026 15:00:00",
-        "maxima": "20",
-        "minima": "9",
-        "mati": "entre poc i mig ennuvolat",
+        "data": "15-11-2026",
+        "dataISO": "2026-11-15",
+        "dataLlarga": "diumenge, 15 de novembre",
+        "actualitzat": "14-11-2026 15:00:00",
+        "maxima": "19",
+        "minima": "10",
+        "mati": "sol i núvols alts",
         "tarda": "entre poc i mig ennuvolat",
-        "precipitacio": "matí: No se n’espera · tarda: Possible (10–30%)",
-        "detall": "entre poc i mig ennuvolat al matí · entre poc i mig ennuvolat a la tarda · Pluja matí: No se n’espera · tarda: Possible (10–30%) · Actualitzada 13-11-2026 15:00:00"
+        "precipitacio": "matí: No se n’espera · tarda: No es descarta (<10%)",
+        "detall": "sol i núvols alts al matí · entre poc i mig ennuvolat a la tarda · Pluja matí: No se n’espera · tarda: No es descarta (<10%) · Actualitzada 14-11-2026 15:00:00"
       },
       "avisos": []
     },
@@ -100,12 +114,12 @@
       "nom": "Emergències · Protecció Civil",
       "enllac": "https://interior.gencat.cat/ca/actualitat/",
       "alternatiu": "https://govern.cat/salapremsa/notes-premsa",
-      "consultat": "2026-11-14T12:22:28.420Z",
+      "consultat": "2026-11-14T13:21:29.257Z",
       "estat": "cap-avis-recent",
       "detall": "Cap alerta local no meteorològica identificada a les alertes destacades d’Interior.",
       "avisos": []
     }
   ],
-  "consultat": "2026-11-14T12:22:28.420Z",
-  "actualizado": "2026-11-14T12:22:54.761Z"
+  "consultat": "2026-11-14T13:21:29.257Z",
+  "actualizado": "2026-11-14T13:21:51.489Z"
 }

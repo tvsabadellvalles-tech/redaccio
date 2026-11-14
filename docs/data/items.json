@@ -104,6 +104,30 @@
   },
   "items": [
     {
+      "id": "2829a34cbb31901d",
+      "titulo": "Comuns – Front Ampli vol equiparar les pensions mínimes al salari mínim",
+      "enlace": "https://www.isabadell.cat/politica/eleccions-generals-2026/comuns-front-ampli-vol-equiparar-les-pensions-minimes-al-salari-minim-340801/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-14T12:23:52.000Z",
+      "detectado": "2026-11-14T13:21:29.257Z",
+      "sensible": false,
+      "etiquetas": [
+        "emergencias",
+        "salud"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "emergències, salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
       "id": "ac86c77c6e5bd616",
       "titulo": "Joan Mena (Comuns): “No volem cap pensió per sota del salari mínim”",
       "enlace": "https://radiosabadell.fm/actualitat/politica/joan-mena-comuns-no-volem-pensio-sota-salari-minim",
@@ -231,5 +255,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-14T12:22:51.865Z"
+  "actualizado": "2026-11-14T13:21:49.141Z"
 }
