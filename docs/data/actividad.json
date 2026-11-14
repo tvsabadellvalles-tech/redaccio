@@ -1,13 +1,6 @@
 {
   "eventos": [
     {
-      "id": "31a6c3a485a0b487",
-      "t": "2026-11-10T08:36:43.887Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Els residus que no es reciclen es redueixen un 25% a Barberà» (Diari de Sabadell).",
-      "itemId": "dd006d9a7c878c73"
-    },
-    {
       "id": "d4f9c57c5d69d07a",
       "t": "2026-11-10T08:36:43.888Z",
       "agente": "etiquetador",
@@ -2799,7 +2792,14 @@
       "agente": "rastreador",
       "texto": "He recollit «Un CE Sabadell plagat de baixes busca recuperar el camí del triomf davant d'un rival conegut» (Diari de Sabadell).",
       "itemId": "17096cad46fda09b"
+    },
+    {
+      "id": "02994956643a4ae3",
+      "t": "2026-11-14T09:20:18.897Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Rock als Ossos, emotiu homenatge als Watts» (Diari de Sabadell).",
+      "itemId": "3b90159e6e40e6b5"
     }
   ],
-  "actualizado": "2026-11-14T09:12:29.878Z"
+  "actualizado": "2026-11-14T09:20:32.519Z"
 }
