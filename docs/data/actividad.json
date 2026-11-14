@@ -1,13 +1,6 @@
 {
   "eventos": [
     {
-      "id": "f44042e5cc79caad",
-      "t": "2026-11-10T08:36:43.886Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat.",
-      "itemId": "e95778d9bae656dd"
-    },
-    {
       "id": "31a6c3a485a0b487",
       "t": "2026-11-10T08:36:43.887Z",
       "agente": "rastreador",
@@ -2799,7 +2792,14 @@
       "agente": "rastreador",
       "texto": "He recollit «Com s'han viscut les vagues generals estatals a Sabadell des que va arribar la democràcia?» (Diari de Sabadell).",
       "itemId": "ee005fe832cc7fe8"
+    },
+    {
+      "id": "ed5abc15465622e2",
+      "t": "2026-11-14T09:12:13.861Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Un CE Sabadell plagat de baixes busca recuperar el camí del triomf davant d'un rival conegut» (Diari de Sabadell).",
+      "itemId": "17096cad46fda09b"
     }
   ],
-  "actualizado": "2026-11-14T09:09:58.650Z"
+  "actualizado": "2026-11-14T09:12:29.878Z"
 }

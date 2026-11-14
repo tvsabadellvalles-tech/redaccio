@@ -104,6 +104,27 @@
   },
   "items": [
     {
+      "id": "17096cad46fda09b",
+      "titulo": "Un CE Sabadell plagat de baixes busca recuperar el camí del triomf davant d'un rival conegut",
+      "enlace": "https://www.diaridesabadell.com/esports/cd-eldense-centre-esports-sabadell-segona-divisio-previa.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-14T09:08:21.000Z",
+      "detectado": "2026-11-14T09:12:13.861Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "ee005fe832cc7fe8",
       "titulo": "Com s'han viscut les vagues generals estatals a Sabadell des que va arribar la democràcia?",
       "enlace": "https://www.diaridesabadell.com/sabadell/50-anys-diari-de-sabadell/com-shan-viscut-les-vagues-generals-estatals-a-sabadell-des-que-va-arribar-la-democracia.html",
@@ -163,5 +184,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-14T09:09:58.646Z"
+  "actualizado": "2026-11-14T09:12:29.876Z"
 }
