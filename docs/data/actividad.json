@@ -1,34 +1,6 @@
 {
   "eventos": [
     {
-      "id": "fc1c42340a5b40c1",
-      "t": "2026-11-10T11:12:35.647Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La tertúlia: la vaga de maquinistes i la prèvia de la vaga general» (Ràdio Sabadell).",
-      "itemId": "22a375e0aea577a5"
-    },
-    {
-      "id": "608bd0309655ff87",
-      "t": "2026-11-10T11:12:35.648Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Arnau Aguilar, músic: \"La música surt de posar paraules al que no puc explicar\"» (Ràdio Sabadell).",
-      "itemId": "314f0caa49cc7694"
-    },
-    {
-      "id": "4a3afa977bf8bdb9",
-      "t": "2026-11-10T11:12:35.649Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El CIESC i la Cambra de Comerç, sobre l'11-N: \"No és el moment\"» (Ràdio Sabadell).",
-      "itemId": "b6d1311797d3b6e9"
-    },
-    {
-      "id": "3434f523de7ba4bd",
-      "t": "2026-11-10T11:12:35.650Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Economia i ocupació.",
-      "itemId": "b6d1311797d3b6e9"
-    },
-    {
       "id": "e1be506ad8a89c0d",
       "t": "2026-11-10T11:12:35.651Z",
       "agente": "rastreador",
@@ -2799,7 +2771,35 @@
       "agente": "rastreador",
       "texto": "He recollit «Illa: “Si Catalunya va a votar, guanyarà Sánchez”» (iSabadell).",
       "itemId": "b9012b23cae21559"
+    },
+    {
+      "id": "a685caf7ecdc8daf",
+      "t": "2026-11-14T20:18:12.712Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Intenten segrestar a Sabadell l’home raptat a l’AP-7 al setembre» (iSabadell).",
+      "itemId": "2190761995b1baf9"
+    },
+    {
+      "id": "38e1050bc0a8222c",
+      "t": "2026-11-14T20:18:12.713Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Successos, Salut.",
+      "itemId": "2190761995b1baf9"
+    },
+    {
+      "id": "5133ecf66458aa31",
+      "t": "2026-11-14T20:18:12.714Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "2190761995b1baf9"
+    },
+    {
+      "id": "91c6793243141410",
+      "t": "2026-11-14T20:18:12.715Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): successos, salut.",
+      "itemId": "2190761995b1baf9"
     }
   ],
-  "actualizado": "2026-11-14T19:38:04.758Z"
+  "actualizado": "2026-11-14T20:18:27.163Z"
 }

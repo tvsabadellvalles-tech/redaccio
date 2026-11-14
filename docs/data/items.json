@@ -104,6 +104,55 @@
   },
   "items": [
     {
+      "id": "2190761995b1baf9",
+      "titulo": "Intenten segrestar a Sabadell l’home raptat a l’AP-7 al setembre",
+      "enlace": "https://www.isabadell.cat/successos/intenten-segrestar-a-sabadell-lhome-raptat-a-lap-7-al-setembre-340839/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-14T20:04:41.000Z",
+      "detectado": "2026-11-14T20:18:12.712Z",
+      "sensible": true,
+      "etiquetas": [
+        "sucesos",
+        "salud"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "successos, salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "1620472b985cfac6",
+      "titulo": "L'OAR Gràcia femení derrota el Sant Joan Despí (30-26) i ratifica les seves ambicioses intencions",
+      "enlace": "https://radiosabadell.fm/esports/handbol/oar-femeni-sant-joan-despi-cronica-jornada7",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-14T19:55:00.000Z",
+      "detectado": "2026-11-14T18:57:33.622Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "b9012b23cae21559",
       "titulo": "Illa: “Si Catalunya va a votar, guanyarà Sánchez”",
       "enlace": "https://www.isabadell.cat/politica/eleccions-generals-2026/illa-si-catalunya-va-a-votar-guanyara-sanchez-340810/",
@@ -190,29 +239,6 @@
       "municipiosMencionados": [],
       "publicado": "2026-11-14T19:16:03.000Z",
       "detectado": "2026-11-14T19:37:46.050Z",
-      "sensible": false,
-      "etiquetas": [
-        "deportes"
-      ],
-      "puntuacion": 0,
-      "motivos": [],
-      "duplicadaDe": null,
-      "propuesta": false
-    },
-    {
-      "id": "1620472b985cfac6",
-      "titulo": "L'OAR Gràcia femení derrota el Sant Joan Despí (30-26) i ratifica les seves ambicioses intencions",
-      "enlace": "https://radiosabadell.fm/esports/handbol/oar-femeni-sant-joan-despi-cronica-jornada7",
-      "fuente": "radio-sabadell",
-      "fuenteNombre": "Ràdio Sabadell",
-      "tipo": "medio",
-      "resumen": "",
-      "municipio": "sabadell",
-      "municipiosMencionados": [
-        "sabadell"
-      ],
-      "publicado": "2026-11-14T18:45:19.000Z",
-      "detectado": "2026-11-14T18:57:33.622Z",
       "sensible": false,
       "etiquetas": [
         "deportes"
@@ -489,5 +515,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-14T19:38:04.754Z"
+  "actualizado": "2026-11-14T20:18:27.160Z"
 }
