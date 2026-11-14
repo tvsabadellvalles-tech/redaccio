@@ -1,13 +1,6 @@
 {
   "eventos": [
     {
-      "id": "31870f241030cb5e",
-      "t": "2026-11-10T09:28:21.071Z",
-      "agente": "rastreador",
-      "texto": "He recollit «L'Ajuntament inicia una campanya de vigilància i sancions contra l'incivisme en matèria de residus» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "c0f8a918e8166327"
-    },
-    {
       "id": "0c5a2dc54ec40db2",
       "t": "2026-11-10T09:28:21.072Z",
       "agente": "etiquetador",
@@ -2799,7 +2792,14 @@
       "agente": "vigilante",
       "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
       "itemId": "d99b68300a5d17b5"
+    },
+    {
+      "id": "fc0bb0cae9cb28c9",
+      "t": "2026-11-14T16:14:35.540Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El Sincrotró ALBA, des de dins: un accelerador de partícules que prepara el pròxim salt» (Diari de Sabadell).",
+      "itemId": "020779f5a90f4a24"
     }
   ],
-  "actualizado": "2026-11-14T14:54:55.050Z"
+  "actualizado": "2026-11-14T16:14:50.335Z"
 }
