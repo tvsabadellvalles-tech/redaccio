@@ -286,8 +286,22 @@ function normalitzarCarretera(valor) {
   return match ? `${match[1].toUpperCase()}-${match[2].toUpperCase()}` : null;
 }
 
+function unirTextAvis(titol, detall) {
+  const textos = [titol, detall].map((text) => String(text || '').replace(/\s+/g, ' ').trim());
+  if (!textos[0]) return textos[1];
+  if (!textos[1]) return textos[0];
+
+  const normalitzar = (text) => text.normalize('NFD')
+    .replace(/\p{Diacritic}/gu, '')
+    .toLocaleLowerCase('ca');
+  const [titolNormalitzat, detallNormalitzat] = textos.map(normalitzar);
+  if (titolNormalitzat.startsWith(detallNormalitzat)) return textos[0];
+  if (detallNormalitzat.startsWith(titolNormalitzat)) return textos[1];
+  return `${textos[0]} ${textos[1]}`;
+}
+
 function resumAvisServei(servei, avis) {
-  const contingut = `${avis.titol || ''} ${avis.detall || ''}`.replace(/\s+/g, ' ').trim();
+  const contingut = unirTextAvis(avis.titol, avis.detall);
   if (servei.id === 'rodalies') {
     const linies = avis.linies?.length ? avis.linies : [...new Set(contingut.match(/\bR[1-9]\b/gi) || [])];
     const retards = contingut.match(/(?:superar|superiors(?:\s+a)?)\s+(?:els?\s+)?(\d+)\s+minuts?/i);
