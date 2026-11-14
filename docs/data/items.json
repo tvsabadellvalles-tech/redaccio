@@ -104,6 +104,29 @@
   },
   "items": [
     {
+      "id": "acf6a18005b7b170",
+      "titulo": "Comuns - Front Ampli defensa que cap pensió quedi per sota del salari mínim",
+      "enlace": "https://www.diaridesabadell.com/sabadell/comuns-front-ampli-joan-mena-julia-miralles-pensions.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-14T14:05:20.000Z",
+      "detectado": "2026-11-14T14:10:38.045Z",
+      "sensible": false,
+      "etiquetas": [
+        "salud"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "2829a34cbb31901d",
       "titulo": "Comuns – Front Ampli vol equiparar les pensions mínimes al salari mínim",
       "enlace": "https://www.isabadell.cat/politica/eleccions-generals-2026/comuns-front-ampli-vol-equiparar-les-pensions-minimes-al-salari-minim-340801/",
@@ -255,5 +278,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-14T13:21:49.141Z"
+  "actualizado": "2026-11-14T14:10:57.443Z"
 }

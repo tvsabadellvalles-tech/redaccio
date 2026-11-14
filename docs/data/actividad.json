@@ -1,20 +1,6 @@
 {
   "eventos": [
     {
-      "id": "181fd5687ae01592",
-      "t": "2026-11-10T09:28:21.066Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Educació.",
-      "itemId": "9ffe245e4c92dc33"
-    },
-    {
-      "id": "1fa7f9a953e03fdf",
-      "t": "2026-11-10T09:28:21.067Z",
-      "agente": "rastreador",
-      "texto": "He recollit «'Estimada Valentina': artistes sabadellencs se sumen a la cançó pel dret a l'habitatge» (Diari de Sabadell).",
-      "itemId": "b5cc336eb6ed6774"
-    },
-    {
       "id": "0ad74be5a49bbe2d",
       "t": "2026-11-10T09:28:21.068Z",
       "agente": "etiquetador",
@@ -2799,7 +2785,21 @@
       "agente": "mesa",
       "texto": "Proposo incloure-ho a l'escaleta (4 punts): emergències, salut.",
       "itemId": "2829a34cbb31901d"
+    },
+    {
+      "id": "86078c940fc68374",
+      "t": "2026-11-14T14:10:38.045Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Comuns - Front Ampli defensa que cap pensió quedi per sota del salari mínim» (Diari de Sabadell).",
+      "itemId": "acf6a18005b7b170"
+    },
+    {
+      "id": "09f9df94753ed1ca",
+      "t": "2026-11-14T14:10:38.046Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut.",
+      "itemId": "acf6a18005b7b170"
     }
   ],
-  "actualizado": "2026-11-14T13:21:49.144Z"
+  "actualizado": "2026-11-14T14:10:57.446Z"
 }
