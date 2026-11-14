@@ -651,14 +651,12 @@ function pintarAgenda(calendari) {
     llista.append(el('h3', { class: 'agenda-dia-cap', text: nomDia }));
     for (const activitat of elements) {
     const inici = new Date(activitat.inici);
-    const final = new Date(activitat.final);
     const horaInici = hora(activitat.inici);
-    const horaFinal = hora(activitat.final);
     const temps = activitat.totElDia
       ? 'TOT EL DIA'
       : inici.getTime() <= ara
-        ? 'EN CURS'
-        : `${horaInici}${Number.isFinite(final.getTime()) && horaFinal !== horaInici ? ` – ${horaFinal}` : ''}`;
+        ? 'ARA'
+        : horaInici;
     const article = el('article', { class: `agenda-activitat${inici.getTime() <= ara ? ' agenda-activitat-curs' : ''}` },
       el('time', {
         class: 'agenda-hora',
