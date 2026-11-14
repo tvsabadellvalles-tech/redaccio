@@ -1,13 +1,6 @@
 {
   "eventos": [
     {
-      "id": "adcdfc2318a01275",
-      "t": "2026-11-10T08:36:43.883Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "93bb9f157378d5fe"
-    },
-    {
       "id": "cc347cebfcc35d48",
       "t": "2026-11-10T08:36:43.884Z",
       "agente": "mesa",
@@ -2799,7 +2792,14 @@
       "agente": "rastreador",
       "texto": "He recollit «El nou Esclat de Castellar ja està en marxa» (L'Actual - Castellar del Vallès).",
       "itemId": "1f2caadc6e456997"
+    },
+    {
+      "id": "eccc8ef6d68761aa",
+      "t": "2026-11-14T08:21:21.297Z",
+      "agente": "rastreador",
+      "texto": "He recollit «‘David, eso no fue ‘La Revuelta”» (iSabadell).",
+      "itemId": "563a36ba1ce8ffd7"
     }
   ],
-  "actualizado": "2026-11-13T21:09:00.791Z"
+  "actualizado": "2026-11-14T08:21:39.140Z"
 }

@@ -102,6 +102,26 @@
     "deportes": "Esports",
     "cultura": "Cultura i festes"
   },
-  "items": [],
-  "actualizado": "2026-11-13T23:13:10.667Z"
+  "items": [
+    {
+      "id": "563a36ba1ce8ffd7",
+      "titulo": "‘David, eso no fue ‘La Revuelta”",
+      "enlace": "https://www.isabadell.cat/opinio/motu-proprio/david-eso-no-fue-la-revuelta-340514/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-14T08:00:36.000Z",
+      "detectado": "2026-11-14T08:21:21.297Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    }
+  ],
+  "actualizado": "2026-11-14T08:21:39.136Z"
 }
