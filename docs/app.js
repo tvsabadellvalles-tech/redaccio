@@ -196,9 +196,7 @@ function targetaNoticia(item) {
   const antiguitat = Date.now() - detectada;
   const esNova = Number.isFinite(detectada) && antiguitat >= 0 && antiguitat < NOVETAT_NOTICIA_MS;
   const article = el('article', { class: `noticia-fila${esNova ? ' noticia-nova' : ''}` });
-  const titular = el('h3', { class: 'fila-titular' });
-  if (esNova) titular.append(el('span', { class: 'noticia-nova-etiqueta', text: 'NOVA' }));
-  titular.append(document.createTextNode(`${esNova ? ' ' : ''}${decodificarEntitats(item.titulo)}`));
+  const titular = el('h3', { class: 'fila-titular', text: decodificarEntitats(item.titulo) });
   article.append(...[
     el('time', { class: 'fila-hora', datetime: horaPublicacio, text: hora(horaPublicacio) }),
     el('span', { class: 'fila-font', text: item.fuenteNombre }),
