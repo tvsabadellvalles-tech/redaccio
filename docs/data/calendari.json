@@ -2,8 +2,8 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-14T11:06:20.187Z",
-  "total": 7,
+  "consultat": "2026-11-14T11:44:10.048Z",
+  "total": 8,
   "activitats": [
     {
       "titol": "Peces vídeo notícies del Badalaboca i Comerç",
@@ -41,6 +41,13 @@
       "color": null
     },
     {
+      "titol": "Outlet CIPO",
+      "inici": "2026-11-15T09:45:00.000Z",
+      "final": "2026-11-15T10:45:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
       "titol": "Cerdanyola-CP Sant Cristòbal",
       "inici": "2026-11-15T11:00:00.000Z",
       "final": "2026-11-15T13:00:00.000Z",
@@ -56,5 +63,5 @@
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-14T11:06:55.994Z"
+  "actualizado": "2026-11-14T11:44:42.218Z"
 }
