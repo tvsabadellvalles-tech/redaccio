@@ -2179,3 +2179,47 @@ body { grid-template-rows: auto minmax(0, 1fr); }
   .contingut-principal { grid-template-rows: minmax(580px, auto) minmax(540px, auto); }
   .serveis-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 }
+
+/* Tipografia de rètol per llegir el monitor de redacció a distància. */
+@media (min-width: 1600px) {
+  :root { font-size: clamp(18px, 0.74vw, 21px); }
+
+  .serveis-cap h2 { font-size: 1.2rem; }
+  .serveis-actualitzat, .servei-actualitzacio { font-size: 0.95rem; }
+  .servei-card { min-height: 66px; height: 66px; padding: 6px 10px; }
+  .servei-resum { grid-template-columns: 44px minmax(0, 1fr); gap: 0 8px; }
+  .servei-icona { width: 40px; height: 36px; }
+  .servei-nom { font-size: clamp(1.05rem, 1.1vw, 1.32rem); }
+  .servei-badge { font-size: clamp(0.98rem, 1vw, 1.2rem); }
+  .servei-actualitzacio, .incidencia-font { font-size: 0.95rem; }
+  .incidencia-titol { font-size: clamp(1.2rem, 1.4vw, 1.65rem); }
+  .incidencia-detall { font-size: clamp(1.02rem, 1.05vw, 1.28rem); }
+
+  .panell-cap h2, .agenda-cap h2 { font-size: clamp(1.5rem, 1.65vw, 2rem); }
+  .noticies-actualitzat, #pantalla-actualitzada { font-size: 1rem; }
+  .noticia-fila {
+    min-height: clamp(82px, 8vh, 104px);
+    grid-template-columns: 96px minmax(190px, 0.25fr) minmax(0, 1fr);
+    gap: 0 16px;
+    padding: 9px 16px;
+  }
+  .fila-hora { font-size: clamp(1.18rem, 1.25vw, 1.55rem); }
+  .fila-font { font-size: clamp(1.02rem, 1.05vw, 1.28rem); }
+  .fila-titular, .noticia-fila:nth-child(-n+2) .fila-titular {
+    font-size: clamp(1.55rem, 1.8vw, 2.2rem);
+    line-height: 1.18;
+  }
+
+  .agenda-activitat {
+    grid-template-columns: minmax(96px, auto) minmax(0, 1fr);
+    gap: 12px;
+    min-height: 60px;
+    padding: 11px 9px 11px 12px;
+  }
+  .agenda-hora { min-width: 96px; font-size: clamp(1.15rem, 1.15vw, 1.45rem); }
+  .agenda-titol { font-size: clamp(1.28rem, 1.5vw, 1.8rem); line-height: 1.2; }
+  .agenda-dia-cap { font-size: 1rem; }
+
+  .streaming-cap h2 { font-size: 1.25rem; }
+  .streaming-estat { font-size: 0.95rem; }
+}
