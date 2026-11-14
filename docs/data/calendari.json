@@ -2,37 +2,9 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-14T22:58:48.241Z",
-  "total": 8,
+  "consultat": "2026-11-14T23:36:34.854Z",
+  "total": 14,
   "activitats": [
-    {
-      "titol": "Peces vídeo notícies del Badalaboca i Comerç",
-      "inici": "2026-11-13T00:00:00.000Z",
-      "final": "2026-11-14T00:00:00.000Z",
-      "totElDia": true,
-      "color": null
-    },
-    {
-      "titol": "(Montse, JM i Paulino) Entrevista Míriam Nogueras",
-      "inici": "2026-11-14T08:00:00.000Z",
-      "final": "2026-11-14T10:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "CN Sabadell-CN Mataró",
-      "inici": "2026-11-14T11:45:00.000Z",
-      "final": "2026-11-14T12:45:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "Acte PSC",
-      "inici": "2026-11-14T17:00:00.000Z",
-      "final": "2026-11-14T18:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
     {
       "titol": "Rdp I Cursa Antiracista de Sabadell",
       "inici": "2026-11-15T08:30:00.000Z",
@@ -60,8 +32,78 @@
       "final": "2026-11-15T19:30:00.000Z",
       "totElDia": false,
       "color": null
+    },
+    {
+      "titol": "JM LX RETOC DE COLOR EN VÍDEO",
+      "inici": "2026-11-16T09:00:00.000Z",
+      "final": "2026-11-16T12:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "Protagonistes",
+      "inici": "2026-11-16T09:00:00.000Z",
+      "final": "2026-11-16T10:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "Gent de Sabadell (Paulino)",
+      "inici": "2026-11-16T10:00:00.000Z",
+      "final": "2026-11-16T12:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "(Joan) Acreditacions LaLiga",
+      "inici": "2026-11-16T11:00:00.000Z",
+      "final": "2026-11-16T11:30:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "(Montse) Com més serem especial a Igualada",
+      "inici": "2026-11-16T14:00:00.000Z",
+      "final": "2026-11-16T15:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "L'Informatiu",
+      "inici": "2026-11-16T15:00:00.000Z",
+      "final": "2026-11-16T16:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "L'Arlequinat",
+      "inici": "2026-11-16T16:30:00.000Z",
+      "final": "2026-11-16T18:30:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "CX - VIA 15 (Castanya, moniato i carbassa)",
+      "inici": "2026-11-16T17:00:00.000Z",
+      "final": "2026-11-16T18:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "[COTXE!] (Ferran) Constitució del Consell d'Infants Barberà",
+      "inici": "2026-11-16T17:00:00.000Z",
+      "final": "2026-11-16T18:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "(Ferran) LÍMIT REEL 1P, 19.45",
+      "inici": "2026-11-16T19:45:00.000Z",
+      "final": "2026-11-16T20:00:00.000Z",
+      "totElDia": false,
+      "color": null
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-14T22:59:22.651Z"
+  "actualizado": "2026-11-14T23:37:07.173Z"
 }
