@@ -104,6 +104,102 @@
   },
   "items": [
     {
+      "id": "b9012b23cae21559",
+      "titulo": "Illa: “Si Catalunya va a votar, guanyarà Sánchez”",
+      "enlace": "https://www.isabadell.cat/politica/eleccions-generals-2026/illa-si-catalunya-va-a-votar-guanyara-sanchez-340810/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-14T19:37:31.000Z",
+      "detectado": "2026-11-14T19:37:46.050Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "fa81a6c7ef7fef29",
+      "titulo": "Salvador Illa: \"No són eleccions per fer provatures. Hem de concentrar el vot\"",
+      "enlace": "https://radiosabadell.fm/actualitat/politica/salvador-illa-hem-de-concentrar-el-vot",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-14T19:22:20.000Z",
+      "detectado": "2026-11-14T19:37:46.050Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica",
+        "urbanismo",
+        "salud",
+        "deportes"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "política local, obres i urbanisme, salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "eafa156757f6fc84",
+      "titulo": "Illa crida a defensar els drets socials davant \"la coalició del gran diner\" de PP i Vox",
+      "enlace": "https://www.diaridesabadell.com/sabadell/psc-sabadell-acte-campanya-marta-farres-jordi-hereu-salvador-illa.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-14T19:18:53.000Z",
+      "detectado": "2026-11-14T19:37:46.050Z",
+      "sensible": false,
+      "etiquetas": [
+        "urbanismo",
+        "salud"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "obres i urbanisme, salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "2265350e4b777e83",
+      "titulo": "Champions: el femení del Club assalta el Ferencvaros en un gran triomf",
+      "enlace": "https://www.isabadell.cat/esports/waterpolo/champions-el-femeni-del-club-assalta-el-ferencvaros-en-un-gran-triomf-340820/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-14T19:16:03.000Z",
+      "detectado": "2026-11-14T19:37:46.050Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "1620472b985cfac6",
       "titulo": "L'OAR Gràcia femení derrota el Sant Joan Despí (30-26) i ratifica les seves ambicioses intencions",
       "enlace": "https://radiosabadell.fm/esports/handbol/oar-femeni-sant-joan-despi-cronica-jornada7",
@@ -393,5 +489,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-14T18:57:48.541Z"
+  "actualizado": "2026-11-14T19:38:04.754Z"
 }

@@ -1,62 +1,6 @@
 {
   "eventos": [
     {
-      "id": "53b2b3e759d9a333",
-      "t": "2026-11-10T10:22:28.442Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Serveis m�nims durant la vaga general de l'11 de novembre» (Ajuntament de Badia del Vallès).",
-      "itemId": "89bb76f3256698cf"
-    },
-    {
-      "id": "40b44279be810e80",
-      "t": "2026-11-10T10:22:28.443Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La portada de L'Informatiu especial 20N es donarà a conèixer el 10 de novembre» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "00e4c1dd1fede430"
-    },
-    {
-      "id": "dcd21619de9c9181",
-      "t": "2026-11-10T11:12:35.641Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La patronal, en contra de la vaga general» (Ràdio Sabadell).",
-      "itemId": "8c9b0619ac6beea5"
-    },
-    {
-      "id": "c247a942f4396706",
-      "t": "2026-11-10T11:12:35.642Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat, Economia i ocupació, Salut.",
-      "itemId": "8c9b0619ac6beea5"
-    },
-    {
-      "id": "198ad582fd43fbc0",
-      "t": "2026-11-10T11:12:35.643Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): mobilitat, economia i ocupació, salut.",
-      "itemId": "8c9b0619ac6beea5"
-    },
-    {
-      "id": "2f4e25cd14b2c0af",
-      "t": "2026-11-10T11:12:35.644Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Marta Gargallo, nutricionista: \"Hi ha més prevalença d'obesitat en infants amb vulnerabilitat econòmica\"» (Ràdio Sabadell).",
-      "itemId": "6939795f41fa28da"
-    },
-    {
-      "id": "2917292304af0c35",
-      "t": "2026-11-10T11:12:35.645Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Salut.",
-      "itemId": "6939795f41fa28da"
-    },
-    {
-      "id": "c3667b01d5c6f652",
-      "t": "2026-11-10T11:12:35.646Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "6939795f41fa28da"
-    },
-    {
       "id": "fc1c42340a5b40c1",
       "t": "2026-11-10T11:12:35.647Z",
       "agente": "rastreador",
@@ -2799,7 +2743,63 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Esports.",
       "itemId": "1620472b985cfac6"
+    },
+    {
+      "id": "2a07faeba6fd056e",
+      "t": "2026-11-14T19:37:46.050Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Champions: el femení del Club assalta el Ferencvaros en un gran triomf» (iSabadell).",
+      "itemId": "2265350e4b777e83"
+    },
+    {
+      "id": "8eca220054e5c83a",
+      "t": "2026-11-14T19:37:46.051Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "2265350e4b777e83"
+    },
+    {
+      "id": "be0dfb7cc6e3cc51",
+      "t": "2026-11-14T19:37:46.052Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Illa crida a defensar els drets socials davant \"la coalició del gran diner\" de PP i Vox» (Diari de Sabadell).",
+      "itemId": "eafa156757f6fc84"
+    },
+    {
+      "id": "c48c698a86ae8591",
+      "t": "2026-11-14T19:37:46.053Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Obres i urbanisme, Salut.",
+      "itemId": "eafa156757f6fc84"
+    },
+    {
+      "id": "f4c5c769d393466e",
+      "t": "2026-11-14T19:37:46.054Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Salvador Illa: \"No són eleccions per fer provatures. Hem de concentrar el vot\"» (Ràdio Sabadell).",
+      "itemId": "fa81a6c7ef7fef29"
+    },
+    {
+      "id": "36d28caa8b6aedc0",
+      "t": "2026-11-14T19:37:46.055Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local, Obres i urbanisme, Salut, Esports.",
+      "itemId": "fa81a6c7ef7fef29"
+    },
+    {
+      "id": "658c8019b2c34f06",
+      "t": "2026-11-14T19:37:46.056Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): política local, obres i urbanisme, salut.",
+      "itemId": "fa81a6c7ef7fef29"
+    },
+    {
+      "id": "24232c0ed1ecf4d3",
+      "t": "2026-11-14T19:37:46.057Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Illa: “Si Catalunya va a votar, guanyarà Sánchez”» (iSabadell).",
+      "itemId": "b9012b23cae21559"
     }
   ],
-  "actualizado": "2026-11-14T18:57:48.544Z"
+  "actualizado": "2026-11-14T19:38:04.758Z"
 }
