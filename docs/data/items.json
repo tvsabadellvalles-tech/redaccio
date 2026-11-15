@@ -104,6 +104,65 @@
   },
   "items": [
     {
+      "id": "ef100d6270a4c58a",
+      "titulo": "\"La preparació és extrema i estricta\": la rutina d'un culturista natural sabadellenc",
+      "enlace": "https://www.diaridesabadell.com/esports/preparacio-extrema-estricta-sabadellenc-culturisme-natural-marti-munoz-competicio-internacional-anglaterra.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-15T10:14:07.000Z",
+      "detectado": "2026-11-15T10:21:24.830Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "c4d5eb761cfc4fa0",
+      "titulo": "El Vallès Occidental, gran pol de tecnologia avançada",
+      "enlace": "https://www.diaridesabadell.com/diners/empreses-tecnologia-avancada-valles-occidental.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "cerdanyola"
+      ],
+      "publicado": "2026-11-15T09:54:02.000Z",
+      "detectado": "2026-11-15T10:21:24.830Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "962886ac50e8f2e9",
+      "titulo": "‘Entrevistes’, per Surroca (15/11/26)",
+      "enlace": "https://www.isabadell.cat/la-vinyeta/entrevistes-per-surroca-15-11-26-340852/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-15T09:50:21.000Z",
+      "detectado": "2026-11-15T10:21:24.830Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "565768fcb4924930",
       "titulo": "La capella de música dels segles XVI al XVIII",
       "enlace": "https://www.isabadell.cat/sabadell/la-capella-de-musica-dels-segles-xvi-al-xviii-340709/",
@@ -151,5 +210,5 @@
       "propuesta": true
     }
   ],
-  "actualizado": "2026-11-15T08:39:02.101Z"
+  "actualizado": "2026-11-15T10:21:44.345Z"
 }

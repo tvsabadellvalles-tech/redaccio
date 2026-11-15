@@ -2,7 +2,7 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-15T09:28:33.560Z",
+  "consultat": "2026-11-15T10:21:24.830Z",
   "total": 14,
   "activitats": [
     {
@@ -34,7 +34,7 @@
       "color": null
     },
     {
-      "titol": "Protagonistes",
+      "titol": "Protagonistes (Paulino)",
       "inici": "2026-11-16T09:00:00.000Z",
       "final": "2026-11-16T10:00:00.000Z",
       "totElDia": false,
@@ -105,5 +105,5 @@
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-15T09:29:08.580Z"
+  "actualizado": "2026-11-15T10:22:02.347Z"
 }

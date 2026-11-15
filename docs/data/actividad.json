@@ -1,27 +1,6 @@
 {
   "eventos": [
     {
-      "id": "14704b65a752e553",
-      "t": "2026-11-10T11:56:19.621Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Una grua de grans dimensions talla la Rambla» (Ràdio Sabadell).",
-      "itemId": "591269e0eade25b7"
-    },
-    {
-      "id": "c7f684c5d8566e03",
-      "t": "2026-11-10T11:56:19.622Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat, Obres i urbanisme, Economia i ocupació.",
-      "itemId": "591269e0eade25b7"
-    },
-    {
-      "id": "46969d7536c00a54",
-      "t": "2026-11-10T11:56:19.623Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): mobilitat, obres i urbanisme, economia i ocupació.",
-      "itemId": "591269e0eade25b7"
-    },
-    {
       "id": "6d7e7f0edede7f71",
       "t": "2026-11-10T11:56:19.624Z",
       "agente": "rastreador",
@@ -2799,7 +2778,28 @@
       "agente": "rastreador",
       "texto": "He recollit «La capella de música dels segles XVI al XVIII» (iSabadell).",
       "itemId": "565768fcb4924930"
+    },
+    {
+      "id": "50bb52a863e90cc8",
+      "t": "2026-11-15T10:21:24.830Z",
+      "agente": "rastreador",
+      "texto": "He recollit «‘Entrevistes’, per Surroca (15/11/26)» (iSabadell).",
+      "itemId": "962886ac50e8f2e9"
+    },
+    {
+      "id": "458c643bf68489ab",
+      "t": "2026-11-15T10:21:24.831Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El Vallès Occidental, gran pol de tecnologia avançada» (Diari de Sabadell).",
+      "itemId": "c4d5eb761cfc4fa0"
+    },
+    {
+      "id": "08748bdef6271228",
+      "t": "2026-11-15T10:21:24.832Z",
+      "agente": "rastreador",
+      "texto": "He recollit «\"La preparació és extrema i estricta\": la rutina d'un culturista natural sabadellenc» (Diari de Sabadell).",
+      "itemId": "ef100d6270a4c58a"
     }
   ],
-  "actualizado": "2026-11-15T08:39:02.104Z"
+  "actualizado": "2026-11-15T10:21:44.348Z"
 }
