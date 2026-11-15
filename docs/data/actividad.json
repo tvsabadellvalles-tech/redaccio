@@ -1,69 +1,6 @@
 {
   "eventos": [
     {
-      "id": "3c0646d8c2355226",
-      "t": "2026-11-10T11:56:19.628Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): mobilitat, obres i urbanisme, economia i ocupació, salut, educació.",
-      "itemId": "933cf4616d35a448"
-    },
-    {
-      "id": "8be4080befb53abc",
-      "t": "2026-11-10T11:56:19.629Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Vaga general de l’11-N: quins són els serveis mínims?» (iSabadell).",
-      "itemId": "3244a02eb53c0428"
-    },
-    {
-      "id": "2c9e6415a8298f85",
-      "t": "2026-11-10T11:56:19.630Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat, Salut, Educació.",
-      "itemId": "3244a02eb53c0428"
-    },
-    {
-      "id": "813689205626d76e",
-      "t": "2026-11-10T11:56:19.631Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): mobilitat, salut, educació.",
-      "itemId": "3244a02eb53c0428"
-    },
-    {
-      "id": "9e0bd7c28c4e2d8d",
-      "t": "2026-11-10T11:56:19.632Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Torna l'Empíric Festival per connectar ciència, salut i societat» (Ajuntament de Cerdanyola del Vallès).",
-      "itemId": "79c10c3bd77cd68b"
-    },
-    {
-      "id": "2589aa7e65867eaf",
-      "t": "2026-11-10T11:56:19.633Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Emergències, Salut, Educació, Esports, Cultura i festes.",
-      "itemId": "79c10c3bd77cd68b"
-    },
-    {
-      "id": "21cbcc5063e4f979",
-      "t": "2026-11-10T11:56:19.634Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "79c10c3bd77cd68b"
-    },
-    {
-      "id": "ad3f1226964d703d",
-      "t": "2026-11-10T11:56:19.635Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (5 punts): font oficial · emergències, salut, educació.",
-      "itemId": "79c10c3bd77cd68b"
-    },
-    {
-      "id": "30042e45979a4e5a",
-      "t": "2026-11-10T12:47:45.457Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Serveis mínims vaga general 11N» (Avisos de l'Ajuntament de Montcada i Reixac).",
-      "itemId": "47924f908c58172f"
-    },
-    {
       "id": "6eaec816787d7937",
       "t": "2026-11-10T12:47:45.458Z",
       "agente": "rastreador",
@@ -2799,7 +2736,70 @@
       "agente": "rastreador",
       "texto": "He recollit «La primera Cursa Antiracista aplega un miler de participants» (iSabadell).",
       "itemId": "7fa759778fbf9585"
+    },
+    {
+      "id": "82161bb2172b557e",
+      "t": "2026-11-15T11:44:59.164Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La capella de música dels segles XVI al XVIII» (iSabadell).",
+      "itemId": "5af4833e2bfe1133"
+    },
+    {
+      "id": "53af585b3e133d1e",
+      "t": "2026-11-15T11:44:59.165Z",
+      "agente": "deduplicador",
+      "texto": "Descartada perquè és duplicada: coincideix amb «La capella de música dels segles XVI al XVIII» (iSabadell).",
+      "itemId": "5af4833e2bfe1133"
+    },
+    {
+      "id": "5c9780eb2ee2ffd3",
+      "t": "2026-11-15T11:44:59.166Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Flashy Ice Cream estrena ‘JIMI’: “S’ha de transgredir més”» (iSabadell).",
+      "itemId": "bf603cc259228de8"
+    },
+    {
+      "id": "a0c32944d14069fc",
+      "t": "2026-11-15T11:44:59.167Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La primera Cursa Antiracista de Sabadell aplega 1.100 inscrits» (Ràdio Sabadell).",
+      "itemId": "7a1acaf3fe165988"
+    },
+    {
+      "id": "c9f2053f1d5956ef",
+      "t": "2026-11-15T11:44:59.168Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Obres i urbanisme, Salut, Educació, Esports.",
+      "itemId": "7a1acaf3fe165988"
+    },
+    {
+      "id": "7ffd9a5461004a75",
+      "t": "2026-11-15T11:44:59.169Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "7a1acaf3fe165988"
+    },
+    {
+      "id": "10cf6203eb0de785",
+      "t": "2026-11-15T11:44:59.170Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): obres i urbanisme, salut, educació.",
+      "itemId": "7a1acaf3fe165988"
+    },
+    {
+      "id": "4116043df13b814a",
+      "t": "2026-11-15T11:44:59.171Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Joan Dausà, Els Catarres i Lildami, primers noms confirmats de l'Observa 2027» (Ràdio Sabadell).",
+      "itemId": "252bdda2289ec522"
+    },
+    {
+      "id": "11aa0171546b64da",
+      "t": "2026-11-15T11:44:59.172Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "252bdda2289ec522"
     }
   ],
-  "actualizado": "2026-11-15T11:06:40.218Z"
+  "actualizado": "2026-11-15T11:45:17.777Z"
 }
