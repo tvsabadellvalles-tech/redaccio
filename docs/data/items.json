@@ -104,6 +104,52 @@
   },
   "items": [
     {
+      "id": "7fa759778fbf9585",
+      "titulo": "La primera Cursa Antiracista aplega un miler de participants",
+      "enlace": "https://www.isabadell.cat/societat/la-primera-cursa-antiracista-aplega-un-miler-de-participants-340860/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-15T10:49:11.000Z",
+      "detectado": "2026-11-15T11:06:25.707Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "50606725bdb16b2e",
+      "titulo": "Tornen a intentar segrestar a Sabadell l’home raptat a l’AP-7 fa dos mesos",
+      "enlace": "https://www.diaridesabadell.com/sabadell/tornen-intentar-segrestar-sabadell-home-raptat-ap-7-fa-dos-mesos.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-15T10:37:23.000Z",
+      "detectado": "2026-11-15T11:06:25.707Z",
+      "sensible": true,
+      "etiquetas": [
+        "sucesos"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "successos"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "ef100d6270a4c58a",
       "titulo": "\"La preparació és extrema i estricta\": la rutina d'un culturista natural sabadellenc",
       "enlace": "https://www.diaridesabadell.com/esports/preparacio-extrema-estricta-sabadellenc-culturisme-natural-marti-munoz-competicio-internacional-anglaterra.html",
@@ -210,5 +256,5 @@
       "propuesta": true
     }
   ],
-  "actualizado": "2026-11-15T10:21:44.345Z"
+  "actualizado": "2026-11-15T11:06:40.214Z"
 }
