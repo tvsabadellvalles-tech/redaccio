@@ -1,27 +1,6 @@
 {
   "eventos": [
     {
-      "id": "8ed1fc5286f248cc",
-      "t": "2026-11-10T12:47:45.465Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "ac846094a573243e"
-    },
-    {
-      "id": "5479aaba875bf526",
-      "t": "2026-11-10T12:47:45.466Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): mobilitat, salut, medi ambient.",
-      "itemId": "ac846094a573243e"
-    },
-    {
-      "id": "018a1516cff38cc6",
-      "t": "2026-11-10T12:47:45.467Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La vaga general d’aquest dimecres pot afectar els serveis i equipaments municipals de Santa Perpètua» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "3121eaa545252638"
-    },
-    {
       "id": "2a8e6b04c8733e25",
       "t": "2026-11-10T12:47:45.468Z",
       "agente": "rastreador",
@@ -2799,7 +2778,28 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Salut, Esports.",
       "itemId": "d44d5c04171e0aeb"
+    },
+    {
+      "id": "aac15482f824283d",
+      "t": "2026-11-15T19:54:57.071Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Harakiri arlequinat al Nuevo Pepico Amat» (Diari de Sabadell).",
+      "itemId": "f0597579ebecdcf1"
+    },
+    {
+      "id": "6c251590fc1cb4f9",
+      "t": "2026-11-15T19:54:57.072Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El Sabadell cau contra l’Eldense i encadena cinc jornades sense guanyar» (iSabadell).",
+      "itemId": "601248d394f4d932"
+    },
+    {
+      "id": "551ab51ffab59591",
+      "t": "2026-11-15T19:54:57.073Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "601248d394f4d932"
     }
   ],
-  "actualizado": "2026-11-15T19:13:30.056Z"
+  "actualizado": "2026-11-15T19:55:14.016Z"
 }

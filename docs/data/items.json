@@ -104,6 +104,50 @@
   },
   "items": [
     {
+      "id": "601248d394f4d932",
+      "titulo": "El Sabadell cau contra l’Eldense i encadena cinc jornades sense guanyar",
+      "enlace": "https://www.isabadell.cat/esports/futbol/el-sabadell-torna-a-perdre-contra-leldense-2-0-340870/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-15T19:31:55.000Z",
+      "detectado": "2026-11-15T19:54:57.071Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "f0597579ebecdcf1",
+      "titulo": "Harakiri arlequinat al Nuevo Pepico Amat",
+      "enlace": "https://www.diaridesabadell.com/esports/cd-eldense-centre-esports-sabadell-segona-divisio-cronica.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-15T19:30:17.000Z",
+      "detectado": "2026-11-15T19:54:57.071Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "d44d5c04171e0aeb",
       "titulo": "La llei de l'ex castiga per partida doble el Sabadell 'B' a Vic (3-1)",
       "enlace": "https://radiosabadell.fm/esports/ce-sabadell/ue-vic-filial-centre-esports-lliga-elit-jornada-9",
@@ -455,5 +499,5 @@
       "propuesta": true
     }
   ],
-  "actualizado": "2026-11-15T19:13:30.053Z"
+  "actualizado": "2026-11-15T19:55:14.014Z"
 }
