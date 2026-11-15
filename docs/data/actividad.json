@@ -1,20 +1,6 @@
 {
   "eventos": [
     {
-      "id": "edfbed1831b9f955",
-      "t": "2026-11-10T11:56:19.619Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "ef5ca95b130dac6f"
-    },
-    {
-      "id": "c57fe3e6ab75a35d",
-      "t": "2026-11-10T11:56:19.620Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · successos.",
-      "itemId": "ef5ca95b130dac6f"
-    },
-    {
       "id": "14704b65a752e553",
       "t": "2026-11-10T11:56:19.621Z",
       "agente": "rastreador",
@@ -2799,7 +2785,21 @@
       "agente": "mesa",
       "texto": "Proposo incloure-ho a l'escaleta (3 punts): política local, salut.",
       "itemId": "f49a3802dc62a966"
+    },
+    {
+      "id": "1ee57ca492fea109",
+      "t": "2026-11-15T08:38:45.091Z",
+      "agente": "rastreador",
+      "texto": "La font «Ajuntament de Badia del Vallès» torna a respondre.",
+      "itemId": null
+    },
+    {
+      "id": "9853e6cf266a4d39",
+      "t": "2026-11-15T08:38:45.092Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La capella de música dels segles XVI al XVIII» (iSabadell).",
+      "itemId": "565768fcb4924930"
     }
   ],
-  "actualizado": "2026-11-15T07:50:54.382Z"
+  "actualizado": "2026-11-15T08:39:02.104Z"
 }

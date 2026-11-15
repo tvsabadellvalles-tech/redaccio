@@ -104,6 +104,27 @@
   },
   "items": [
     {
+      "id": "565768fcb4924930",
+      "titulo": "La capella de música dels segles XVI al XVIII",
+      "enlace": "https://www.isabadell.cat/sabadell/la-capella-de-musica-dels-segles-xvi-al-xviii-340709/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-15T08:00:00.000Z",
+      "detectado": "2026-11-15T08:38:45.091Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "f49a3802dc62a966",
       "titulo": "Salvador Illa: “El projecte de la Caserna és pràcticament irreversible”",
       "enlace": "https://radiosabadell.fm/actualitat/salut/salvador-illa-caserna-sabadell",
@@ -130,5 +151,5 @@
       "propuesta": true
     }
   ],
-  "actualizado": "2026-11-15T07:50:54.379Z"
+  "actualizado": "2026-11-15T08:39:02.101Z"
 }
