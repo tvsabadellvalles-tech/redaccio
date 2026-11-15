@@ -104,6 +104,44 @@
   },
   "items": [
     {
+      "id": "6ab624b45bc32327",
+      "titulo": "L'edifici de l'Homedes: entre l’enderroc i la rehabilitació",
+      "enlace": "https://www.diaridesabadell.com/sabadell/edifici-homedes-carrer-rosa-enderroc-rehabilitacio-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-15T15:20:52.000Z",
+      "detectado": "2026-11-15T15:40:41.968Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "3aa03084ead21e52",
+      "titulo": "CIPO celebra la bona acollida del seu outlet solidari amb prop de 7.000 peces de roba",
+      "enlace": "https://www.diaridesabadell.com/sabadell/22e-outlet-cipo-joan-madaula-roba-solidari.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-15T15:01:02.000Z",
+      "detectado": "2026-11-15T15:40:41.968Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "f89cb492a0ebe11a",
       "titulo": "La música no coneix les nostres fronteres",
       "enlace": "https://radiosabadell.fm/alacarta/audio/la-musica-no-coneix-les-nostres-fronteres",
@@ -368,5 +406,5 @@
       "propuesta": true
     }
   ],
-  "actualizado": "2026-11-15T14:59:07.424Z"
+  "actualizado": "2026-11-15T15:40:55.985Z"
 }

@@ -1,20 +1,6 @@
 {
   "eventos": [
     {
-      "id": "e7b58f8b42ed48b3",
-      "t": "2026-11-10T12:47:45.459Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Obres i urbanisme, Cultura i festes.",
-      "itemId": "152da175a3e7c93e"
-    },
-    {
-      "id": "77947d2aeada1fae",
-      "t": "2026-11-10T12:47:45.460Z",
-      "agente": "rastreador",
-      "texto": "He recollit «L’exposició \"Les dones que falten\" arriba a Barberà per homenatjar les dones i criatures assassinades per violència masclista i vicària» (Ajuntament de Barberà del Vallès).",
-      "itemId": "518ff0a6def8a9c1"
-    },
-    {
       "id": "6c31270c46beaf4d",
       "t": "2026-11-10T12:47:45.461Z",
       "agente": "etiquetador",
@@ -2799,7 +2785,21 @@
       "agente": "rastreador",
       "texto": "He recollit «La música no coneix les nostres fronteres» (Ràdio Sabadell).",
       "itemId": "f89cb492a0ebe11a"
+    },
+    {
+      "id": "9be35000fe2c3605",
+      "t": "2026-11-15T15:40:41.968Z",
+      "agente": "rastreador",
+      "texto": "He recollit «CIPO celebra la bona acollida del seu outlet solidari amb prop de 7.000 peces de roba» (Diari de Sabadell).",
+      "itemId": "3aa03084ead21e52"
+    },
+    {
+      "id": "7b0d1b4462cd9b5b",
+      "t": "2026-11-15T15:40:41.969Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L'edifici de l'Homedes: entre l’enderroc i la rehabilitació» (Diari de Sabadell).",
+      "itemId": "6ab624b45bc32327"
     }
   ],
-  "actualizado": "2026-11-15T14:59:07.427Z"
+  "actualizado": "2026-11-15T15:40:55.989Z"
 }
