@@ -1,13 +1,6 @@
 {
   "eventos": [
     {
-      "id": "6eaec816787d7937",
-      "t": "2026-11-10T12:47:45.458Z",
-      "agente": "rastreador",
-      "texto": "He recollit «L’obra de Camil Fàbregas reneix sota la mirada de Gerard Torres Sanmartí» (Ràdio Sabadell).",
-      "itemId": "152da175a3e7c93e"
-    },
-    {
       "id": "e7b58f8b42ed48b3",
       "t": "2026-11-10T12:47:45.459Z",
       "agente": "etiquetador",
@@ -2799,7 +2792,14 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Cultura i festes.",
       "itemId": "252bdda2289ec522"
+    },
+    {
+      "id": "2b0b206d2fef602f",
+      "t": "2026-11-15T14:58:48.995Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La música no coneix les nostres fronteres» (Ràdio Sabadell).",
+      "itemId": "f89cb492a0ebe11a"
     }
   ],
-  "actualizado": "2026-11-15T11:45:17.777Z"
+  "actualizado": "2026-11-15T14:59:07.427Z"
 }

@@ -2,7 +2,7 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-15T14:15:51.001Z",
+  "consultat": "2026-11-15T14:58:48.995Z",
   "total": 14,
   "activitats": [
     {
@@ -34,16 +34,16 @@
       "color": null
     },
     {
-      "titol": "Protagonistes (Paulino)",
+      "titol": "JM LX RETOC DE COLOR EN VÍDEO",
       "inici": "2026-11-16T09:00:00.000Z",
-      "final": "2026-11-16T10:00:00.000Z",
+      "final": "2026-11-16T12:00:00.000Z",
       "totElDia": false,
       "color": null
     },
     {
-      "titol": "JM LX RETOC DE COLOR EN VÍDEO",
+      "titol": "Protagonistes (Paulino)",
       "inici": "2026-11-16T09:00:00.000Z",
-      "final": "2026-11-16T12:00:00.000Z",
+      "final": "2026-11-16T10:00:00.000Z",
       "totElDia": false,
       "color": null
     },
@@ -105,5 +105,5 @@
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-15T14:16:30.246Z"
+  "actualizado": "2026-11-15T14:59:27.292Z"
 }

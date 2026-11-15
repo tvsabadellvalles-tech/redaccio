@@ -104,6 +104,25 @@
   },
   "items": [
     {
+      "id": "f89cb492a0ebe11a",
+      "titulo": "La música no coneix les nostres fronteres",
+      "enlace": "https://radiosabadell.fm/alacarta/audio/la-musica-no-coneix-les-nostres-fronteres",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-15T14:39:17.000Z",
+      "detectado": "2026-11-15T14:58:48.995Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "252bdda2289ec522",
       "titulo": "Joan Dausà, Els Catarres i Lildami, primers noms confirmats de l'Observa 2027",
       "enlace": "https://radiosabadell.fm/actualitat/cultura/joan-dausa-catarres-lildami-primers-noms-observa-2027",
@@ -349,5 +368,5 @@
       "propuesta": true
     }
   ],
-  "actualizado": "2026-11-15T11:45:17.774Z"
+  "actualizado": "2026-11-15T14:59:07.424Z"
 }
