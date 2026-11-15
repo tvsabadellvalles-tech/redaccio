@@ -1,20 +1,6 @@
 {
   "eventos": [
     {
-      "id": "44c90dd1c17d3865",
-      "t": "2026-11-10T12:47:45.463Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Demanen reduir el trànsit als entorns escolars per protegir els infants» (iSabadell).",
-      "itemId": "ac846094a573243e"
-    },
-    {
-      "id": "5a527595b21be6b1",
-      "t": "2026-11-10T12:47:45.464Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat, Salut, Medi ambient.",
-      "itemId": "ac846094a573243e"
-    },
-    {
       "id": "8ed1fc5286f248cc",
       "t": "2026-11-10T12:47:45.465Z",
       "agente": "vigilante",
@@ -2799,7 +2785,21 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Cultura i festes.",
       "itemId": "20b5b67a2f4429e1"
+    },
+    {
+      "id": "27400e31cf3e2538",
+      "t": "2026-11-15T19:13:16.110Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La llei de l'ex castiga per partida doble el Sabadell 'B' a Vic (3-1)» (Ràdio Sabadell).",
+      "itemId": "d44d5c04171e0aeb"
+    },
+    {
+      "id": "4cc40fd19097b638",
+      "t": "2026-11-15T19:13:16.111Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut, Esports.",
+      "itemId": "d44d5c04171e0aeb"
     }
   ],
-  "actualizado": "2026-11-15T17:40:24.039Z"
+  "actualizado": "2026-11-15T19:13:30.056Z"
 }

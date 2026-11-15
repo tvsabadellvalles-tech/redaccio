@@ -104,6 +104,32 @@
   },
   "items": [
     {
+      "id": "d44d5c04171e0aeb",
+      "titulo": "La llei de l'ex castiga per partida doble el Sabadell 'B' a Vic (3-1)",
+      "enlace": "https://radiosabadell.fm/esports/ce-sabadell/ue-vic-filial-centre-esports-lliga-elit-jornada-9",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-15T18:44:49.000Z",
+      "detectado": "2026-11-15T19:13:16.110Z",
+      "sensible": false,
+      "etiquetas": [
+        "salud",
+        "deportes"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "20b5b67a2f4429e1",
       "titulo": "'La Sireneta' s'acomiada de La Faràndula després de tres temporades",
       "enlace": "https://radiosabadell.fm/actualitat/cultura/sireneta-sacomiada-farandula-despres-tres-temporades",
@@ -429,5 +455,5 @@
       "propuesta": true
     }
   ],
-  "actualizado": "2026-11-15T17:40:24.036Z"
+  "actualizado": "2026-11-15T19:13:30.053Z"
 }
