@@ -1,34 +1,6 @@
 {
   "eventos": [
     {
-      "id": "6e44cf7c14169483",
-      "t": "2026-11-10T11:12:35.653Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat.",
-      "itemId": "18765c50c49f0fb3"
-    },
-    {
-      "id": "0347943c78dc3405",
-      "t": "2026-11-10T11:12:35.654Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El bled: una mala herba molt bona» (Ràdio Sabadell).",
-      "itemId": "7153fe5f1ab14e16"
-    },
-    {
-      "id": "c59b0498c2c76023",
-      "t": "2026-11-10T11:56:19.617Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Què duies posat? L'exposició que denuncia la revictimització de les víctimes de violència de gènere» (Ajuntament de Ripollet).",
-      "itemId": "ef5ca95b130dac6f"
-    },
-    {
-      "id": "f1968c61a8030d60",
-      "t": "2026-11-10T11:56:19.618Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Successos, Cultura i festes.",
-      "itemId": "ef5ca95b130dac6f"
-    },
-    {
       "id": "edfbed1831b9f955",
       "t": "2026-11-10T11:56:19.619Z",
       "agente": "vigilante",
@@ -2799,7 +2771,35 @@
       "agente": "vigilante",
       "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
       "itemId": "b88368cf0ce89418"
+    },
+    {
+      "id": "b3e92aee2c1fafa3",
+      "t": "2026-11-15T07:50:34.192Z",
+      "agente": "rastreador",
+      "texto": "La font «Ajuntament de Badia del Vallès» no respon (fetch failed).",
+      "itemId": null
+    },
+    {
+      "id": "8e877d8f44260a15",
+      "t": "2026-11-15T07:50:34.193Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Salvador Illa: “El projecte de la Caserna és pràcticament irreversible”» (Ràdio Sabadell).",
+      "itemId": "f49a3802dc62a966"
+    },
+    {
+      "id": "c80c9d847801654e",
+      "t": "2026-11-15T07:50:34.194Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local, Salut.",
+      "itemId": "f49a3802dc62a966"
+    },
+    {
+      "id": "aa78ac118b5fdb75",
+      "t": "2026-11-15T07:50:34.195Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): política local, salut.",
+      "itemId": "f49a3802dc62a966"
     }
   ],
-  "actualizado": "2026-11-14T21:00:49.008Z"
+  "actualizado": "2026-11-15T07:50:54.382Z"
 }

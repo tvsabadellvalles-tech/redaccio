@@ -102,6 +102,33 @@
     "deportes": "Esports",
     "cultura": "Cultura i festes"
   },
-  "items": [],
-  "actualizado": "2026-11-14T23:36:49.434Z"
+  "items": [
+    {
+      "id": "f49a3802dc62a966",
+      "titulo": "Salvador Illa: “El projecte de la Caserna és pràcticament irreversible”",
+      "enlace": "https://radiosabadell.fm/actualitat/salut/salvador-illa-caserna-sabadell",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-15T07:52:21.000Z",
+      "detectado": "2026-11-15T07:50:34.192Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica",
+        "salud"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "política local, salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    }
+  ],
+  "actualizado": "2026-11-15T07:50:54.379Z"
 }
