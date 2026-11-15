@@ -104,6 +104,29 @@
   },
   "items": [
     {
+      "id": "164fafff577db6a9",
+      "titulo": "Eldense 2-0 Sabadell: tarda per oblidar al Nuevo Pepico Amat",
+      "enlace": "https://radiosabadell.fm/esports/ce-sabadell/eldense-2-0-sabadell-laliga-hypermotion-jornada-14",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-15T19:48:12.000Z",
+      "detectado": "2026-11-15T20:29:41.127Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "601248d394f4d932",
       "titulo": "El Sabadell cau contra l’Eldense i encadena cinc jornades sense guanyar",
       "enlace": "https://www.isabadell.cat/esports/futbol/el-sabadell-torna-a-perdre-contra-leldense-2-0-340870/",
@@ -499,5 +522,5 @@
       "propuesta": true
     }
   ],
-  "actualizado": "2026-11-15T19:55:14.014Z"
+  "actualizado": "2026-11-15T20:29:58.104Z"
 }

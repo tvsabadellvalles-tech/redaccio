@@ -1,20 +1,6 @@
 {
   "eventos": [
     {
-      "id": "2a8e6b04c8733e25",
-      "t": "2026-11-10T12:47:45.468Z",
-      "agente": "rastreador",
-      "texto": "He recollit «L’Ajuntament mantindrà els serveis essencials i l’atenció a la ciutadania durant la jornada de vaga» (Ajuntament de Sant Quirze del Vallès).",
-      "itemId": "e95e5592ad5586fa"
-    },
-    {
-      "id": "1694413776916693",
-      "t": "2026-11-10T13:55:07.135Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Genar debuta a Segona Divisió: \"Faig realitat un somni\"» (Ràdio Sabadell).",
-      "itemId": "50d546cfc824014e"
-    },
-    {
       "id": "9e53e36cc58fcea8",
       "t": "2026-11-10T13:55:07.136Z",
       "agente": "etiquetador",
@@ -2799,7 +2785,21 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Esports.",
       "itemId": "601248d394f4d932"
+    },
+    {
+      "id": "edb5b85d73099a38",
+      "t": "2026-11-15T20:29:41.127Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Eldense 2-0 Sabadell: tarda per oblidar al Nuevo Pepico Amat» (Ràdio Sabadell).",
+      "itemId": "164fafff577db6a9"
+    },
+    {
+      "id": "29158b5ca52e1351",
+      "t": "2026-11-15T20:29:41.128Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "164fafff577db6a9"
     }
   ],
-  "actualizado": "2026-11-15T19:55:14.016Z"
+  "actualizado": "2026-11-15T20:29:58.106Z"
 }
