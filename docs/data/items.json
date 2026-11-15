@@ -104,6 +104,29 @@
   },
   "items": [
     {
+      "id": "20b5b67a2f4429e1",
+      "titulo": "'La Sireneta' s'acomiada de La Faràndula després de tres temporades",
+      "enlace": "https://radiosabadell.fm/actualitat/cultura/sireneta-sacomiada-farandula-despres-tres-temporades",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-15T17:06:46.000Z",
+      "detectado": "2026-11-15T17:40:07.963Z",
+      "sensible": false,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "6ab624b45bc32327",
       "titulo": "L'edifici de l'Homedes: entre l’enderroc i la rehabilitació",
       "enlace": "https://www.diaridesabadell.com/sabadell/edifici-homedes-carrer-rosa-enderroc-rehabilitacio-sabadell.html",
@@ -406,5 +429,5 @@
       "propuesta": true
     }
   ],
-  "actualizado": "2026-11-15T15:40:55.985Z"
+  "actualizado": "2026-11-15T17:40:24.036Z"
 }

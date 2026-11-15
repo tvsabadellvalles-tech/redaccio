@@ -1,20 +1,6 @@
 {
   "eventos": [
     {
-      "id": "6c31270c46beaf4d",
-      "t": "2026-11-10T12:47:45.461Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Cultura i festes.",
-      "itemId": "518ff0a6def8a9c1"
-    },
-    {
-      "id": "d7680bc9d023a36a",
-      "t": "2026-11-10T12:47:45.462Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "518ff0a6def8a9c1"
-    },
-    {
       "id": "44c90dd1c17d3865",
       "t": "2026-11-10T12:47:45.463Z",
       "agente": "rastreador",
@@ -2799,7 +2785,21 @@
       "agente": "rastreador",
       "texto": "He recollit «L'edifici de l'Homedes: entre l’enderroc i la rehabilitació» (Diari de Sabadell).",
       "itemId": "6ab624b45bc32327"
+    },
+    {
+      "id": "39376a3b25a19f27",
+      "t": "2026-11-15T17:40:07.963Z",
+      "agente": "rastreador",
+      "texto": "He recollit «'La Sireneta' s'acomiada de La Faràndula després de tres temporades» (Ràdio Sabadell).",
+      "itemId": "20b5b67a2f4429e1"
+    },
+    {
+      "id": "1ad1699584b78a77",
+      "t": "2026-11-15T17:40:07.964Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "20b5b67a2f4429e1"
     }
   ],
-  "actualizado": "2026-11-15T15:40:55.989Z"
+  "actualizado": "2026-11-15T17:40:24.039Z"
 }
