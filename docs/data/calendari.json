@@ -2,9 +2,16 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-16T11:56:07.443Z",
-  "total": 15,
+  "consultat": "2026-11-16T14:50:53.649Z",
+  "total": 19,
   "activitats": [
+    {
+      "titol": "LORENA NO HI ÉS",
+      "inici": "2026-11-17T00:00:00.000Z",
+      "final": "2026-11-18T00:00:00.000Z",
+      "totElDia": true,
+      "color": null
+    },
     {
       "titol": "JM LX RETOC DE COLOR EN VÍDEO",
       "inici": "2026-11-16T09:00:00.000Z",
@@ -62,16 +69,16 @@
       "color": null
     },
     {
-      "titol": "(Lorena) Decles a Esteve Corsellas Forn Valero VIA15",
+      "titol": "[COTXE!] (Ferran i becari) Constitució del Consell d'Infants Barberà",
       "inici": "2026-11-16T17:00:00.000Z",
       "final": "2026-11-16T18:00:00.000Z",
       "totElDia": false,
       "color": null
     },
     {
-      "titol": "[COTXE!] (Ferran) Constitució del Consell d'Infants Barberà",
-      "inici": "2026-11-16T17:00:00.000Z",
-      "final": "2026-11-16T18:00:00.000Z",
+      "titol": "(Lorena) Decles a Esteve Corsellas Forn Valero VIA15",
+      "inici": "2026-11-16T18:00:00.000Z",
+      "final": "2026-11-16T19:00:00.000Z",
       "totElDia": false,
       "color": null
     },
@@ -83,9 +90,23 @@
       "color": null
     },
     {
+      "titol": "CX - NEX Matí (Vaga Rodalies)",
+      "inici": "2026-11-17T07:45:00.000Z",
+      "final": "2026-11-17T08:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
       "titol": "Cambra de comerç: tema habitatge",
-      "inici": "2026-11-17T08:30:00.000Z",
-      "final": "2026-11-17T09:30:00.000Z",
+      "inici": "2026-11-17T08:00:00.000Z",
+      "final": "2026-11-17T10:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "(Becaris) Papus GTA VI",
+      "inici": "2026-11-17T09:00:00.000Z",
+      "final": "2026-11-17T10:00:00.000Z",
       "totElDia": false,
       "color": null
     },
@@ -97,6 +118,13 @@
       "color": null
     },
     {
+      "titol": "Rdp Ferran Costa",
+      "inici": "2026-11-17T13:00:00.000Z",
+      "final": "2026-11-17T14:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
       "titol": "L'Informatiu",
       "inici": "2026-11-17T15:00:00.000Z",
       "final": "2026-11-17T16:00:00.000Z",
@@ -104,7 +132,7 @@
       "color": null
     },
     {
-      "titol": "(FERRAN) CX - VIA 15 (Actualitat)",
+      "titol": "(Ferran) CX - VIA 15 (Actualitat)",
       "inici": "2026-11-17T17:00:00.000Z",
       "final": "2026-11-17T18:00:00.000Z",
       "totElDia": false,
@@ -112,5 +140,5 @@
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-16T11:56:41.165Z"
+  "actualizado": "2026-11-16T14:51:30.148Z"
 }

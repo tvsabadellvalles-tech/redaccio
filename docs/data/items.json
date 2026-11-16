@@ -104,6 +104,258 @@
   },
   "items": [
     {
+      "id": "73cc157e162abb36",
+      "titulo": "\"Ha costat gairebé un any\": veïns de Sabadell recuperen els diners de factures de llum de fins a 900 euros",
+      "enlace": "https://www.diaridesabadell.com/sabadell/veins-sabadell-factures-llum-900-euros.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-16T14:38:02.000Z",
+      "detectado": "2026-11-16T14:50:53.649Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "77353874a1ce8a62",
+      "titulo": "El Gran Recapte suma 4.000 quilos d'aliments a Castellar",
+      "enlace": "https://www.lactual.cat/actualitat/gran-recapte-suma-4000-quilos-aliments-castellar_55384_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [
+        "castellar"
+      ],
+      "publicado": "2026-11-16T14:33:20.000Z",
+      "detectado": "2026-11-16T14:50:53.649Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "e7a191c67489d222",
+      "titulo": "La policia continua buscant El Ruso a Catalunya",
+      "enlace": "https://radiosabadell.fm/actualitat/successos/policia-continua-buscant-el-ruso-catalunya",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell",
+        "montcada"
+      ],
+      "publicado": "2026-11-16T14:29:24.000Z",
+      "detectado": "2026-11-16T14:50:53.649Z",
+      "sensible": true,
+      "etiquetas": [
+        "movilidad",
+        "sucesos",
+        "salud"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "mobilitat, successos, salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "572bb43b93278a44",
+      "titulo": "Inspeccionen trens de l’R4 en busca del fugitiu d’Oviedo",
+      "enlace": "https://www.isabadell.cat/valles/montcada/inspeccionen-trens-de-lr4-en-busca-del-fugitiu-doviedo-340897/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "montcada"
+      ],
+      "publicado": "2026-11-16T13:38:56.000Z",
+      "detectado": "2026-11-16T14:50:53.649Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad",
+        "sucesos"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "mobilitat, successos"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "6fafd81b75f47c88",
+      "titulo": "El president Illa es compromet a estudiar la viabilitat de soterrar la Ronda Nord al seu pas per Sabadell",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-migdia-illa-ronda-nord-161126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-16T13:25:48.000Z",
+      "detectado": "2026-11-16T14:50:53.649Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "4360730db1b3bfda",
+      "titulo": "Plou sobre mullat a Elda: més baixes i un partit més sense guanyar",
+      "enlace": "https://radiosabadell.fm/podcast/hotel-suis-161126-eldense",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-16T13:22:25.000Z",
+      "detectado": "2026-11-16T14:50:53.649Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "9e2990d5c16a0227",
+      "titulo": "Martí Romero, lutier: ''Vaig començar de manera autodidacta, elaborant els meus propis instruments per necessitat''",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-mati-marti-romero-lutier-161126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-16T13:08:52.000Z",
+      "detectado": "2026-11-16T14:50:53.649Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "143f732a89a2220e",
+      "titulo": "Un dispositiu per trobar 'El Ruso' obliga a tallar la circulació de la línia R4 de Rodalies",
+      "enlace": "https://www.diaridesabadell.com/valles/montcada/dispositiu-ruso-assassinat-ovideo-guardia-civil-rodalies-r4.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-16T12:45:03.000Z",
+      "detectado": "2026-11-16T14:50:53.649Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "mobilitat"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "8079bbf710d1c701",
+      "titulo": "Inspeccionen un tren de Rodalies a Montcada i Reixac en la recerca del fugitiu d’Oviedo",
+      "enlace": "https://radiosabadell.fm/actualitat/successos/inspeccionen-tren-rodalies-montcada-reixac-recerca-fugitiu-oviedo",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "montcada"
+      ],
+      "publicado": "2026-11-16T12:32:52.000Z",
+      "detectado": "2026-11-16T14:50:53.649Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad",
+        "sucesos",
+        "educacion"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "mobilitat, successos, educació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "72eef6d073b11d02",
+      "titulo": "Salva Peig i Maria Pla, directors de la 'Sireneta': \"Ens queda la satisfacció de la feina ben feta\"",
+      "enlace": "https://radiosabadell.fm/alacarta/audio/salva-peig-i-maria-pla-directors-de-la-sireneta-ens-queda-la-satisfaccio-de-la-feina",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-16T12:05:30.000Z",
+      "detectado": "2026-11-16T14:50:53.649Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "60165d5598d196b1",
+      "titulo": "La Biblioteca Esteve Paluzie reobre aquest dilluns 16 de novembre",
+      "enlace": "https://www.bdv.cat/noticies/la-biblioteca-esteve-paluzie-reobre-aquest-dilluns-16-de-novembre",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "A l'edifici s'han executat obres de reforma del sistema de climatització i ventilació per garantir que l'equipament pugui formar part de la xarxa municipal de refugis climàtics. Aquest dilluns 16 de novembre, la Biblioteca Esteve Paluzie…",
+      "municipio": "barbera",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-16T11:56:00.000Z",
+      "detectado": "2026-11-16T14:50:53.649Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica",
+        "urbanismo",
+        "cultura"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "font oficial",
+        "política local, obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
       "id": "b4769aff3bc1732f",
       "titulo": "L’atenció pediàtrica de Santa Perpètua es trasllada al CAP La Florida",
       "enlace": "https://www.diaridesabadell.com/valles/santa-perpetua-mogoda/pediatria-cap-santa-perpetua-canvi-ubicacio-la-florida.html",
@@ -124,6 +376,33 @@
       "puntuacion": 1,
       "motivos": [
         "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "00fb02c4ac56a5b4",
+      "titulo": "Els sabadellencs Flashy Ice Cream publiquen 'JIMI', el seu cinquè disc d'estudi",
+      "enlace": "https://radiosabadell.fm/actualitat/cultura/flashy-ice-cream-publiquen-jimi-cinque-disc-estudi",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-16T11:51:07.000Z",
+      "detectado": "2026-11-16T14:50:53.649Z",
+      "sensible": true,
+      "etiquetas": [
+        "urbanismo",
+        "medioambiente",
+        "cultura"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "obres i urbanisme, medi ambient"
       ],
       "duplicadaDe": null,
       "propuesta": false
@@ -210,6 +489,32 @@
       "etiquetas": [],
       "puntuacion": 0,
       "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "d65319d1e6a5522e",
+      "titulo": "Mercantil i Sabadell ‘B’ guanyen i continuen avançant plegats a la Lliga Nacional Juvenil",
+      "enlace": "https://radiosabadell.fm/esports/futbol/mercantil-sabadell-vides-paralleles-jornada9-lnj",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-16T11:08:32.000Z",
+      "detectado": "2026-11-16T14:50:53.649Z",
+      "sensible": false,
+      "etiquetas": [
+        "salud",
+        "deportes"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "salut"
+      ],
       "duplicadaDe": null,
       "propuesta": false
     },
@@ -772,6 +1077,25 @@
       "propuesta": false
     },
     {
+      "id": "9034dc3243e09513",
+      "titulo": "‘El Perro Sanxe hijo de fruta’",
+      "enlace": "https://www.isabadell.cat/opinio/el-perro-sanxe-hijo-de-fruta-340893/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-16T07:00:00.000Z",
+      "detectado": "2026-11-16T14:50:53.649Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "0ebeaa43cf9b250d",
       "titulo": "Infopòdcast Sabadell 16.11.26",
       "enlace": "https://radiosabadell.fm/alacarta/audio/infopodcast-sabadell-161126",
@@ -856,7 +1180,28 @@
       ],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "db1a4572f318824a",
+      "titulo": "Badia enc�n el Nadal el 3 de desembre!",
+      "enlace": "http://www.badiadelvalles.cat/document.php?id=12328",
+      "fuente": "ayto-badia",
+      "fuenteNombre": "Ajuntament de Badia del Vallès",
+      "tipo": "oficial",
+      "resumen": "",
+      "municipio": "badia",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-15T23:00:00.000Z",
+      "detectado": "2026-11-16T14:50:53.649Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
     }
   ],
-  "actualizado": "2026-11-16T11:56:21.966Z"
+  "actualizado": "2026-11-16T14:51:08.826Z"
 }

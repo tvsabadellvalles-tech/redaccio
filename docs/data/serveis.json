@@ -5,7 +5,7 @@
       "nom": "FGC Barcelona–Vallès",
       "enllac": "https://www.fgc.cat/adequacions-horaries/",
       "alternatiu": null,
-      "consultat": "2026-11-16T11:56:07.443Z",
+      "consultat": "2026-11-16T14:50:53.649Z",
       "estat": "cap-avis-recent",
       "detall": "Sense adequacions horàries."
     },
@@ -14,14 +14,14 @@
       "nom": "Rodalies R4 i R7",
       "enllac": "https://rodalies.gencat.cat/ca/alteracions_del_servei/",
       "alternatiu": null,
-      "consultat": "2026-11-16T11:56:07.443Z",
+      "consultat": "2026-11-16T14:50:53.649Z",
       "estat": "avis",
       "detall": "1 avís publicat avui a les línies R4 i R7.",
       "avisos": [
         {
-          "titol": "Circulació interrompuda entre Manresa i Montcada Bifurcació a causa de l'actuació de les Forces i Cossos de Seguretat entre les estaci",
-          "detall": "Circulació interrompuda entre Manresa i Montcada Bifurcació a causa de l'actuació de les Forces i Cossos de Seguretat entre les estacions de Montcada i Reixac - Manresa i Cerdanyola del Vallès. S'estableix servei alternatiu per carretera entre ambdues estacions.",
-          "publicat": "2026-11-16T11:40:00.000Z",
+          "titol": "Circulació restablerta entre Montcada Bif. i Terrassa Est. del Nord amb demores que poden superar els 40 minuts. Els trens amb origen ",
+          "detall": "Circulació restablerta entre Montcada Bif. i Terrassa Est. del Nord amb demores que poden superar els 40 minuts. Els trens amb origen i destinació Manresa inicien i finalitzen el seu recorregut a Terrassa Est. del Nord. Servei alternatiu per carretera entre ambdues estacions.",
+          "publicat": "2026-11-16T12:38:00.000Z",
           "linies": [
             "R4"
           ]
@@ -33,21 +33,28 @@
       "nom": "Trànsit · Vallès Occidental",
       "enllac": "https://cit.transit.gencat.cat/",
       "alternatiu": null,
-      "consultat": "2026-11-16T11:56:07.443Z",
+      "consultat": "2026-11-16T14:50:53.649Z",
       "estat": "avis",
-      "detall": "2 incidències d’avui a les carreteres seleccionades del Vallès Occidental, segons la llista actual de Trànsit.",
-      "actualitzat": "2026-11-16T11:56:03.000Z",
+      "detall": "3 incidències d’avui a les carreteres seleccionades del Vallès Occidental, segons la llista actual de Trànsit.",
+      "actualitzat": "2026-11-16T14:51:03.000Z",
       "avisos": [
         {
-          "titol": "Accident · Circulació amb retencions",
-          "detall": "B-30 | BADIA DEL VALLÈS | Sentit Nord cap a GIRONA | Punt km. 9.9-8 | VEHICLES AL VORAL",
+          "titol": "Circulació · Circulació amb congestió",
+          "detall": "AP-7 | BARBERÀ DEL VALLÈS | Sentit Nord cap a GIRONA | Punt km. 147-151",
+          "publicat": "2026-11-16T12:20:05.000Z",
+          "carretera": "AP-7",
+          "comarca": 40
+        },
+        {
+          "titol": "Circulació · Circulació amb congestió",
+          "detall": "B-30 | BARBERÀ DEL VALLÈS | Sentit Nord cap a GIRONA | Punt km. 11-7.5",
           "publicat": "2026-11-16T11:46:06.000Z",
           "carretera": "B-30",
           "comarca": 40
         },
         {
           "titol": "Circulació · Circulació amb retencions",
-          "detall": "AP-7 | BARBERÀ DEL VALLÈS | Sentit Sud cap a TARRAGONA | Punt km. 147-142",
+          "detall": "AP-7 | BARBERÀ DEL VALLÈS | Sentit Sud cap a TARRAGONA | Punt km. 147-145",
           "publicat": "2026-11-16T06:10:50.000Z",
           "carretera": "AP-7",
           "comarca": 40
@@ -59,7 +66,7 @@
       "nom": "Meteocat · Vallès Occidental",
       "enllac": "https://www.meteo.cat/prediccio/general",
       "alternatiu": null,
-      "consultat": "2026-11-16T11:56:07.443Z",
+      "consultat": "2026-11-16T14:50:53.649Z",
       "estat": "previsio",
       "detall": "Sense avisos actius. Previsió de dimarts, 17 de novembre al Vallès Occidental: màxima 18°, mínima 12°. entre poc i mig ennuvolat al matí · cobert a la tarda · Pluja matí: No se n’espera · tarda: No se n’espera · Actualitzada 16-11-2026 15:00:00.",
       "previsio": {
@@ -81,12 +88,12 @@
       "nom": "Emergències · Protecció Civil",
       "enllac": "https://interior.gencat.cat/ca/actualitat/",
       "alternatiu": "https://govern.cat/salapremsa/notes-premsa",
-      "consultat": "2026-11-16T11:56:07.443Z",
+      "consultat": "2026-11-16T14:50:53.649Z",
       "estat": "cap-avis-recent",
       "detall": "Cap alerta local no meteorològica identificada a les alertes destacades d’Interior.",
       "avisos": []
     }
   ],
-  "consultat": "2026-11-16T11:56:07.443Z",
-  "actualizado": "2026-11-16T11:56:23.991Z"
+  "consultat": "2026-11-16T14:50:53.649Z",
+  "actualizado": "2026-11-16T14:51:11.091Z"
 }
