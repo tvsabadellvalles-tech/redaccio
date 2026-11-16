@@ -2,15 +2,15 @@
   "fuentes": {
     "isabadell": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "radio-sabadell": {
       "ok": true,
-      "items": 1
+      "items": 4
     },
     "diari-sabadell": {
       "ok": true,
-      "items": 0
+      "items": 2
     },
     "diari-terrassa": {
       "ok": true,
@@ -42,7 +42,7 @@
     },
     "ayto-santa-perpetua": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "avisos-santa-perpetua": {
       "ok": true,
@@ -54,7 +54,7 @@
     },
     "avisos-montcada": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "ayto-ripollet": {
       "ok": true,
@@ -62,16 +62,15 @@
     },
     "ayto-barbera": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "ayto-cerdanyola": {
-      "ok": false,
-      "error": "terminated",
+      "ok": true,
       "items": 0
     },
     "ayto-badia": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "ayto-sant-quirze": {
       "ok": true,
@@ -82,6 +81,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-16T06:37:50.808Z",
-  "actualizado": "2026-11-16T06:38:12.300Z"
+  "consultat": "2026-11-16T09:26:20.294Z",
+  "actualizado": "2026-11-16T09:26:37.359Z"
 }

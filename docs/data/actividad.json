@@ -1,118 +1,6 @@
 {
   "eventos": [
     {
-      "id": "40bd455586c841b1",
-      "t": "2026-11-10T13:55:07.138Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Emergències, Mobilitat, Salut, Educació, Medi ambient.",
-      "itemId": "1c9f90432741ffc4"
-    },
-    {
-      "id": "7efa5c549c8a12d2",
-      "t": "2026-11-10T13:55:07.139Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "1c9f90432741ffc4"
-    },
-    {
-      "id": "a884af83028a442a",
-      "t": "2026-11-10T13:55:07.140Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): emergències, mobilitat, salut, educació, medi ambient.",
-      "itemId": "1c9f90432741ffc4"
-    },
-    {
-      "id": "01b2fd9179fe9a41",
-      "t": "2026-11-10T13:55:07.141Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La primera vaga general en 14 anys tindrà doble manifestació a Sabadell» (iSabadell).",
-      "itemId": "edae325c7d8bc3a2"
-    },
-    {
-      "id": "e47abfe7af89525e",
-      "t": "2026-11-10T13:55:07.142Z",
-      "agente": "rastreador",
-      "texto": "He recollit «S’inicia la reurbanització del tram lateral de la carretera de Barcelona» (Ajuntament de Barberà del Vallès).",
-      "itemId": "968ceb69fbe875d9"
-    },
-    {
-      "id": "b877584851c75757",
-      "t": "2026-11-10T13:55:07.143Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat, Política local, Obres i urbanisme.",
-      "itemId": "968ceb69fbe875d9"
-    },
-    {
-      "id": "02ffff386ea71184",
-      "t": "2026-11-10T13:55:07.144Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (5 punts): font oficial · mobilitat, política local, obres i urbanisme.",
-      "itemId": "968ceb69fbe875d9"
-    },
-    {
-      "id": "daf3d01d5e7da8c2",
-      "t": "2026-11-10T13:55:07.145Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Sabadell escalfa motors per a la vaga general de l'11-N» (Ràdio Sabadell).",
-      "itemId": "ec0d94a9273fcdc4"
-    },
-    {
-      "id": "45c11d0b0bddd81f",
-      "t": "2026-11-10T13:55:07.146Z",
-      "agente": "rastreador",
-      "texto": "He recollit «L'encàrrec de Ferran Costa: \"Hem de ser ambiciosos, però també realistes\"» (Ràdio Sabadell).",
-      "itemId": "56ae611a03ade22b"
-    },
-    {
-      "id": "087612c16de5b4e5",
-      "t": "2026-11-10T14:40:29.440Z",
-      "agente": "rastreador",
-      "texto": "He recollit «“És gairebé impossible”: les veus de joves sabadellencs davant de la crisi de l’habitatge» (Diari de Sabadell).",
-      "itemId": "a212eb349924d8c1"
-    },
-    {
-      "id": "f008cb68d615c436",
-      "t": "2026-11-10T14:40:29.441Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Obres i urbanisme.",
-      "itemId": "a212eb349924d8c1"
-    },
-    {
-      "id": "678f6e421fb82232",
-      "t": "2026-11-10T15:25:25.894Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Els preus dels pisos de Sabadell creixen el doble de ràpid que els salaris» (Diari de Sabadell).",
-      "itemId": "55ccfc7d68735d05"
-    },
-    {
-      "id": "f5dd176424b4f4e8",
-      "t": "2026-11-10T15:25:25.895Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Obres i urbanisme.",
-      "itemId": "55ccfc7d68735d05"
-    },
-    {
-      "id": "9cd5d515a5f135b7",
-      "t": "2026-11-10T15:25:25.896Z",
-      "agente": "rastreador",
-      "texto": "He recollit «11-N, una vaga general a les portes de les eleccions generals» (L'Actual - Castellar del Vallès).",
-      "itemId": "00420e919728e971"
-    },
-    {
-      "id": "b334447794535831",
-      "t": "2026-11-10T17:09:13.296Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Alerten que dues empreses del riu Ripoll operen sense llicència d'activitats» (Diari de Sabadell).",
-      "itemId": "ae7f987f946c0c3a"
-    },
-    {
-      "id": "963afd8eedb6d159",
-      "t": "2026-11-10T17:09:13.297Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Economia i ocupació.",
-      "itemId": "ae7f987f946c0c3a"
-    },
-    {
       "id": "af80ac7735e669a8",
       "t": "2026-11-10T17:09:13.298Z",
       "agente": "rastreador",
@@ -2799,7 +2687,119 @@
       "agente": "rastreador",
       "texto": "La font «Ajuntament de Cerdanyola del Vallès» no respon (terminated).",
       "itemId": null
+    },
+    {
+      "id": "e9da422ed78d5e85",
+      "t": "2026-11-16T09:26:20.295Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L’Ajuntament obre el termini per sol·licitar els ajuts de menjador social i d’àpats a domicili per a l’any 2027» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "a872d23b5850c86e"
+    },
+    {
+      "id": "5aa578db2b94b0b2",
+      "t": "2026-11-16T09:26:20.296Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L'Associaci� de Protecci� Civil de Badia, reconeguda al Dia de la Protecci� Civil» (Ajuntament de Badia del Vallès).",
+      "itemId": "10abc89e25786aea"
+    },
+    {
+      "id": "d904ec4eb5b02a42",
+      "t": "2026-11-16T09:26:20.297Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La història de David Lyme i el ‘Sabadell Sound’, a ‘El doble’ de ‘TV3’» (iSabadell).",
+      "itemId": "e6261a4fdb506031"
+    },
+    {
+      "id": "50401a62200c75be",
+      "t": "2026-11-16T09:26:20.298Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "e6261a4fdb506031"
+    },
+    {
+      "id": "234d3fe16f3660f9",
+      "t": "2026-11-16T09:26:20.299Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Eulàlia Barros, degana Col·legi de l'Advocacia: \"A Sabadell estan tots els jutjats saturats\"» (Ràdio Sabadell).",
+      "itemId": "e6b1ce6230a94758"
+    },
+    {
+      "id": "291981a89ce48be9",
+      "t": "2026-11-16T09:26:20.300Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Salvador Illa, president: \"Podem fer arribar la Ronda Vallès fins a la Roca amb la màxima sostenibilitat\"» (Ràdio Sabadell).",
+      "itemId": "d673de19409e7bc7"
+    },
+    {
+      "id": "3d2b8063550444d6",
+      "t": "2026-11-16T09:26:20.301Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Transport alternatiu d'usuaris de l'R4 entre les estacions de Fabra i Puig i Cerdanyola» (Avisos de l'Ajuntament de Montcada i Reixac).",
+      "itemId": "4124a12873b71e79"
+    },
+    {
+      "id": "62aada80bb11d094",
+      "t": "2026-11-16T09:26:20.302Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La diferència entre mirar i veure» (Ràdio Sabadell).",
+      "itemId": "adc4dff23bc59f3f"
+    },
+    {
+      "id": "5e133cc804c8a86d",
+      "t": "2026-11-16T09:26:20.303Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Veïns dels Merinals alerten d’un focus de xinxes en un habitatge i temen que s’estengui al bloc» (Diari de Sabadell).",
+      "itemId": "a3f12dc344f313e1"
+    },
+    {
+      "id": "13a6912cc040e9a6",
+      "t": "2026-11-16T09:26:20.304Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Obres i urbanisme.",
+      "itemId": "a3f12dc344f313e1"
+    },
+    {
+      "id": "18378727cfab5320",
+      "t": "2026-11-16T09:26:20.305Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El model de mobilitat per arribar a l’escola, sota la lupa a Sant Cugat» (Diari de Sabadell).",
+      "itemId": "4b11617a0bd30b71"
+    },
+    {
+      "id": "9fa575045c67e61b",
+      "t": "2026-11-16T09:26:20.306Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat, Educació.",
+      "itemId": "4b11617a0bd30b71"
+    },
+    {
+      "id": "06800e3e469bbab1",
+      "t": "2026-11-16T09:26:20.307Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): mobilitat, educació.",
+      "itemId": "4b11617a0bd30b71"
+    },
+    {
+      "id": "5dec9a86b88a48f5",
+      "t": "2026-11-16T09:26:20.308Z",
+      "agente": "rastreador",
+      "texto": "He recollit «18 de novembre: Sessió ordinària del Ple Municipal» (Ajuntament de Barberà del Vallès).",
+      "itemId": "583a2bcbad9db54c"
+    },
+    {
+      "id": "016d27231e0cd77c",
+      "t": "2026-11-16T09:26:20.309Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local, Esports.",
+      "itemId": "583a2bcbad9db54c"
+    },
+    {
+      "id": "e22ddd876c6099f4",
+      "t": "2026-11-16T09:26:20.310Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · política local.",
+      "itemId": "583a2bcbad9db54c"
     }
   ],
-  "actualizado": "2026-11-16T06:38:12.303Z"
+  "actualizado": "2026-11-16T09:26:37.361Z"
 }

@@ -2,16 +2,9 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-16T06:37:50.808Z",
-  "total": 15,
+  "consultat": "2026-11-16T09:26:20.294Z",
+  "total": 14,
   "activitats": [
-    {
-      "titol": "Protagonistes (Paulino)",
-      "inici": "2026-11-16T09:00:00.000Z",
-      "final": "2026-11-16T10:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
     {
       "titol": "JM LX RETOC DE COLOR EN VÍDEO",
       "inici": "2026-11-16T09:00:00.000Z",
@@ -20,14 +13,14 @@
       "color": null
     },
     {
-      "titol": "(Pep) Rdp Endesa",
-      "inici": "2026-11-16T09:30:00.000Z",
-      "final": "2026-11-16T10:30:00.000Z",
+      "titol": "Protagonistes",
+      "inici": "2026-11-16T09:00:00.000Z",
+      "final": "2026-11-16T10:00:00.000Z",
       "totElDia": false,
       "color": null
     },
     {
-      "titol": "Gent de Sabadell (Paulino)",
+      "titol": "Gent de Sabadell",
       "inici": "2026-11-16T10:00:00.000Z",
       "final": "2026-11-16T12:00:00.000Z",
       "totElDia": false,
@@ -112,5 +105,5 @@
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-16T06:38:32.015Z"
+  "actualizado": "2026-11-16T09:26:56.876Z"
 }

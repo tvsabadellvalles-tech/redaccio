@@ -104,6 +104,185 @@
   },
   "items": [
     {
+      "id": "583a2bcbad9db54c",
+      "titulo": "18 de novembre: Sessió ordinària del Ple Municipal",
+      "enlace": "https://www.bdv.cat/noticies/18-de-novembre-sessio-ordinaria-del-ple-municipal",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "La sessió tindrà lloc a les 19 hores a la sala de plens de l'edifici consistorial. L'Ajuntament de Barberà del Vallès celebra aquest dimecres 18 a les 19 hores, el ple ordinari corresponent al mes de novembre. La sessió plenària es podrà…",
+      "municipio": "barbera",
+      "municipiosMencionados": [
+        "barbera"
+      ],
+      "publicado": "2026-11-16T09:08:00.000Z",
+      "detectado": "2026-11-16T09:26:20.294Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica",
+        "deportes"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "font oficial",
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "4b11617a0bd30b71",
+      "titulo": "El model de mobilitat per arribar a l’escola, sota la lupa a Sant Cugat",
+      "enlace": "https://www.diaridesabadell.com/valles/sant-cugat-del-valles/entorns-escolars-sant-cugat-mobilitat.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sant-cugat"
+      ],
+      "publicado": "2026-11-16T08:34:53.000Z",
+      "detectado": "2026-11-16T09:26:20.294Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad",
+        "educacion"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "mobilitat, educació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "a3f12dc344f313e1",
+      "titulo": "Veïns dels Merinals alerten d’un focus de xinxes en un habitatge i temen que s’estengui al bloc",
+      "enlace": "https://www.diaridesabadell.com/sabadell/merinals-xinxes-habitatge-bloc-pisos-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-16T08:03:06.000Z",
+      "detectado": "2026-11-16T09:26:20.294Z",
+      "sensible": false,
+      "etiquetas": [
+        "urbanismo"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "adc4dff23bc59f3f",
+      "titulo": "La diferència entre mirar i veure",
+      "enlace": "https://radiosabadell.fm/podcast/fils-ciutat-consells-llengua-veure-mirar-161126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-16T08:01:55.000Z",
+      "detectado": "2026-11-16T09:26:20.294Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "4124a12873b71e79",
+      "titulo": "Transport alternatiu d'usuaris de l'R4 entre les estacions de Fabra i Puig i Cerdanyola",
+      "enlace": "https://www.montcada.cat/temes/soterrament/dia-a-dia-soterrament/transport-alternatiu-dusuaris-de-lr4-entre-les-estacions-de-fabra-i-puig-i-cerdanyola.html",
+      "fuente": "avisos-montcada",
+      "fuenteNombre": "Avisos de l'Ajuntament de Montcada i Reixac",
+      "tipo": "oficial",
+      "resumen": "",
+      "municipio": "montcada",
+      "municipiosMencionados": [
+        "cerdanyola"
+      ],
+      "publicado": "2026-11-16T08:00:00.000Z",
+      "detectado": "2026-11-16T09:26:20.294Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "d673de19409e7bc7",
+      "titulo": "Salvador Illa, president: \"Podem fer arribar la Ronda Vallès fins a la Roca amb la màxima sostenibilitat\"",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-mati-illa-generalitat-sabadell-161126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-16T07:44:43.000Z",
+      "detectado": "2026-11-16T09:26:20.294Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "e6b1ce6230a94758",
+      "titulo": "Eulàlia Barros, degana Col·legi de l'Advocacia: \"A Sabadell estan tots els jutjats saturats\"",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-mati-nous-jutjats-barros-161126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-16T07:26:06.000Z",
+      "detectado": "2026-11-16T09:26:20.294Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "e6261a4fdb506031",
+      "titulo": "La història de David Lyme i el ‘Sabadell Sound’, a ‘El doble’ de ‘TV3’",
+      "enlace": "https://www.isabadell.cat/cultura/david-lyme-jordi-cubino-i-el-sabadell-sound-a-el-doble-340285/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-16T07:00:00.000Z",
+      "detectado": "2026-11-16T09:26:20.294Z",
+      "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "0ebeaa43cf9b250d",
       "titulo": "Infopòdcast Sabadell 16.11.26",
       "enlace": "https://radiosabadell.fm/alacarta/audio/infopodcast-sabadell-161126",
@@ -123,7 +302,49 @@
       "motivos": [],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "a872d23b5850c86e",
+      "titulo": "L’Ajuntament obre el termini per sol·licitar els ajuts de menjador social i d’àpats a domicili per a l’any 2027",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/lajuntament-obre-el-termini-per-sollicitar-els-ajuts-de-menjador-social-i-dapats-a-domicili-per-a-lany-2027.html",
+      "fuente": "ayto-santa-perpetua",
+      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
+      "tipo": "oficial",
+      "resumen": "Les persones més grans de 65 anys o amb dependència i en situació de vulnerabilitat econòmica i/o social poden sol·licitar els ajuts municipals per al servei de menjador social i d’àpats a domicili corresponents a l’any 2027.",
+      "municipio": "santa-perpetua",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-15T23:00:00.000Z",
+      "detectado": "2026-11-16T09:26:20.294Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "10abc89e25786aea",
+      "titulo": "L'Associaci� de Protecci� Civil de Badia, reconeguda al Dia de la Protecci� Civil",
+      "enlace": "http://www.badiadelvalles.cat/document.php?id=12327",
+      "fuente": "ayto-badia",
+      "fuenteNombre": "Ajuntament de Badia del Vallès",
+      "tipo": "oficial",
+      "resumen": "",
+      "municipio": "badia",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-15T23:00:00.000Z",
+      "detectado": "2026-11-16T09:26:20.294Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
     }
   ],
-  "actualizado": "2026-11-15T23:16:50.447Z"
+  "actualizado": "2026-11-16T09:26:37.358Z"
 }
