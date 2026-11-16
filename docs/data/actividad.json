@@ -1,20 +1,6 @@
 {
   "eventos": [
     {
-      "id": "59c344dd852afcd9",
-      "t": "2026-11-11T15:15:46.717Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Xifres desiguals sobre el seguiment de la vaga a les empreses del Vallès» (Diari de Sabadell).",
-      "itemId": "b729a6f6409f6709"
-    },
-    {
-      "id": "1488404bf4c551f9",
-      "t": "2026-11-11T15:15:46.718Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Economia i ocupació.",
-      "itemId": "b729a6f6409f6709"
-    },
-    {
       "id": "ec97d67e17e4b1a3",
       "t": "2026-11-11T16:04:47.453Z",
       "agente": "rastreador",
@@ -2799,7 +2785,21 @@
       "agente": "rastreador",
       "texto": "La font «Ajuntament de Barberà del Vallès» no respon (fetch failed).",
       "itemId": null
+    },
+    {
+      "id": "ce7dd9f937637190",
+      "t": "2026-11-16T20:26:47.730Z",
+      "agente": "rastreador",
+      "texto": "La font «Ajuntament de Barberà del Vallès» torna a respondre.",
+      "itemId": null
+    },
+    {
+      "id": "40b1c95a61d4c013",
+      "t": "2026-11-16T20:26:47.731Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Tribuna Preferent 26-27 #10 (215): Una altra derrota a fora... i un altre lesionat» (Ràdio Sabadell).",
+      "itemId": "885d0781336cbcf3"
     }
   ],
-  "actualizado": "2026-11-16T19:36:28.210Z"
+  "actualizado": "2026-11-16T20:27:06.494Z"
 }

@@ -61,9 +61,8 @@
       "items": 2
     },
     "ayto-barbera": {
-      "ok": false,
-      "error": "fetch failed",
-      "items": 0
+      "ok": true,
+      "items": 3
     },
     "ayto-cerdanyola": {
       "ok": true,
@@ -82,6 +81,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-16T19:36:01.848Z",
-  "actualizado": "2026-11-16T19:36:28.208Z"
+  "consultat": "2026-11-16T20:26:47.730Z",
+  "actualizado": "2026-11-16T20:27:06.493Z"
 }

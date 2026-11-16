@@ -104,6 +104,25 @@
   },
   "items": [
     {
+      "id": "885d0781336cbcf3",
+      "titulo": "Tribuna Preferent 26-27 #10 (215): Una altra derrota a fora... i un altre lesionat",
+      "enlace": "https://radiosabadell.fm/podcast/tribuna-preferent-161126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-16T20:05:04.000Z",
+      "detectado": "2026-11-16T20:26:47.730Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "420301329b9873a7",
       "titulo": "Els Catarres i Lildami inauguraran el Festival Observa 2027",
       "enlace": "https://www.isabadell.cat/cultura/musica/festival-observa/els-catarres-i-lildami-inauguraran-el-festival-observa-2027-340914/",
@@ -1416,5 +1435,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-16T19:36:28.206Z"
+  "actualizado": "2026-11-16T20:27:06.491Z"
 }

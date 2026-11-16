@@ -5,7 +5,7 @@
       "nom": "FGC Barcelona–Vallès",
       "enllac": "https://www.fgc.cat/adequacions-horaries/",
       "alternatiu": null,
-      "consultat": "2026-11-16T19:36:01.848Z",
+      "consultat": "2026-11-16T20:26:47.730Z",
       "estat": "cap-avis-recent",
       "detall": "Sense adequacions horàries."
     },
@@ -14,7 +14,7 @@
       "nom": "Rodalies R4 i R7",
       "enllac": "https://rodalies.gencat.cat/ca/alteracions_del_servei/",
       "alternatiu": null,
-      "consultat": "2026-11-16T19:36:01.848Z",
+      "consultat": "2026-11-16T20:26:47.730Z",
       "estat": "avis",
       "detall": "1 avís publicat avui a les línies R4 i R7.",
       "avisos": [
@@ -33,10 +33,10 @@
       "nom": "Trànsit · Vallès Occidental",
       "enllac": "https://cit.transit.gencat.cat/",
       "alternatiu": null,
-      "consultat": "2026-11-16T19:36:01.848Z",
+      "consultat": "2026-11-16T20:26:47.730Z",
       "estat": "cap-avis-recent",
       "detall": "Cap incidència d’avui a les carreteres seleccionades del Vallès Occidental, segons la llista actual de Trànsit.",
-      "actualitzat": "2026-11-16T19:36:04.000Z",
+      "actualitzat": "2026-11-16T20:26:03.000Z",
       "avisos": []
     },
     {
@@ -44,7 +44,7 @@
       "nom": "Meteocat · Vallès Occidental",
       "enllac": "https://www.meteo.cat/prediccio/general",
       "alternatiu": null,
-      "consultat": "2026-11-16T19:36:01.848Z",
+      "consultat": "2026-11-16T20:26:47.730Z",
       "estat": "previsio",
       "detall": "Sense avisos actius. Previsió de dimarts, 17 de novembre al Vallès Occidental: màxima 18°, mínima 12°. entre poc i mig ennuvolat al matí · cobert a la tarda · Pluja matí: No se n’espera · tarda: No se n’espera · Actualitzada 16-11-2026 15:00:00.",
       "previsio": {
@@ -66,12 +66,12 @@
       "nom": "Emergències · Protecció Civil",
       "enllac": "https://interior.gencat.cat/ca/actualitat/",
       "alternatiu": "https://govern.cat/salapremsa/notes-premsa",
-      "consultat": "2026-11-16T19:36:01.848Z",
+      "consultat": "2026-11-16T20:26:47.730Z",
       "estat": "cap-avis-recent",
       "detall": "Cap alerta local no meteorològica identificada a les alertes destacades d’Interior.",
       "avisos": []
     }
   ],
-  "consultat": "2026-11-16T19:36:01.848Z",
-  "actualizado": "2026-11-16T19:36:30.831Z"
+  "consultat": "2026-11-16T20:26:47.730Z",
+  "actualizado": "2026-11-16T20:27:09.139Z"
 }
