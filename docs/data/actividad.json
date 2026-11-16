@@ -1,48 +1,6 @@
 {
   "eventos": [
     {
-      "id": "c5ce72197e580aec",
-      "t": "2026-11-11T13:23:32.558Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Semaf trasllada la vaga de Rodalies d'aquest dijous al dilluns 23 de novembre» (Diari de Sabadell).",
-      "itemId": "f34cabbbda872564"
-    },
-    {
-      "id": "c8c5ca1874be2d86",
-      "t": "2026-11-11T13:23:32.559Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat.",
-      "itemId": "f34cabbbda872564"
-    },
-    {
-      "id": "181009a131e8d98c",
-      "t": "2026-11-11T13:23:32.560Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La indústria qualifica el dia “de normal” en la vaga de l’11-N» (Ràdio Sabadell).",
-      "itemId": "b8a36e5dff272d49"
-    },
-    {
-      "id": "8fd48c7f92245afb",
-      "t": "2026-11-11T13:23:32.561Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat, Economia i ocupació, Salut.",
-      "itemId": "b8a36e5dff272d49"
-    },
-    {
-      "id": "6afcca4d6606aa76",
-      "t": "2026-11-11T13:23:32.562Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "b8a36e5dff272d49"
-    },
-    {
-      "id": "162e3a7c3a18da60",
-      "t": "2026-11-11T13:23:32.563Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): mobilitat, economia i ocupació, salut.",
-      "itemId": "b8a36e5dff272d49"
-    },
-    {
       "id": "d2dc064dde5b5124",
       "t": "2026-11-11T14:28:43.947Z",
       "agente": "rastreador",
@@ -2799,7 +2757,49 @@
       "agente": "rastreador",
       "texto": "He recollit «La màgia de votar per primera vegada» (L'Actual - Castellar del Vallès).",
       "itemId": "a7c406b5938d406f"
+    },
+    {
+      "id": "b1f2244dda47257f",
+      "t": "2026-11-16T17:42:44.853Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El líder Sant Nicolau s'acostuma a esclafar els rivals: triomf 65-86 a Cerdanyola» (Ràdio Sabadell).",
+      "itemId": "e8857da02173e323"
+    },
+    {
+      "id": "6dfee84725e9891e",
+      "t": "2026-11-16T17:42:44.854Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Ferran Costa: \"Estem passant una turbulència, podem començar a tirar gent o agafar l'avió entre tots per tornar a veure el sol\"» (Diari de Sabadell).",
+      "itemId": "50b5d8bcdfce5268"
+    },
+    {
+      "id": "aa489277c92f89d0",
+      "t": "2026-11-16T17:42:44.855Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La por s’instal·la a Matadepera per un repunt de robatoris a domicilis: \"Ens hem sentit molt sols\"» (Diari de Terrassa).",
+      "itemId": "a8d020a006207704"
+    },
+    {
+      "id": "b276c86ee4c915d1",
+      "t": "2026-11-16T17:42:44.856Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Successos.",
+      "itemId": "a8d020a006207704"
+    },
+    {
+      "id": "69016f5c6aba4241",
+      "t": "2026-11-16T17:42:44.857Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Nou director a les Urgències del Parc Taulí, en plena reorganització del servei» (Diari de Sabadell).",
+      "itemId": "0401587827ea6898"
+    },
+    {
+      "id": "27f647e8986e887e",
+      "t": "2026-11-16T17:42:44.858Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut.",
+      "itemId": "0401587827ea6898"
     }
   ],
-  "actualizado": "2026-11-16T16:31:00.285Z"
+  "actualizado": "2026-11-16T17:43:05.808Z"
 }

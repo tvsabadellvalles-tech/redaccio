@@ -104,6 +104,94 @@
   },
   "items": [
     {
+      "id": "0401587827ea6898",
+      "titulo": "Nou director a les Urgències del Parc Taulí, en plena reorganització del servei",
+      "enlace": "https://www.diaridesabadell.com/sabadell/nou-director-a-les-urgencies-del-parc-tauli-en-plena-reorganitzacio-del-servei.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-16T17:24:51.000Z",
+      "detectado": "2026-11-16T17:42:44.853Z",
+      "sensible": false,
+      "etiquetas": [
+        "salud"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "a8d020a006207704",
+      "titulo": "La por s’instal·la a Matadepera per un repunt de robatoris a domicilis: \"Ens hem sentit molt sols\"",
+      "enlace": "https://www.diarideterrassa.com/matadepera/la-por-sinstalla-a-matadepera-per-un-repunt-de-robatoris-a-domicilis-ens-hem-sentit-molt-sols.html",
+      "fuente": "diari-terrassa",
+      "fuenteNombre": "Diari de Terrassa",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "matadepera"
+      ],
+      "publicado": "2026-11-16T17:15:53.000Z",
+      "detectado": "2026-11-16T17:42:44.853Z",
+      "sensible": false,
+      "etiquetas": [
+        "sucesos"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "successos"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "50b5d8bcdfce5268",
+      "titulo": "Ferran Costa: \"Estem passant una turbulència, podem començar a tirar gent o agafar l'avió entre tots per tornar a veure el sol\"",
+      "enlace": "https://www.diaridesabadell.com/esports/ferran-costa-postpartit-roda-de-premsa-cd-eldense-centre-esports-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-16T16:55:20.000Z",
+      "detectado": "2026-11-16T17:42:44.853Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "e8857da02173e323",
+      "titulo": "El líder Sant Nicolau s'acostuma a esclafar els rivals: triomf 65-86 a Cerdanyola",
+      "enlace": "https://radiosabadell.fm/esports/basquet/lider-sant-nicolau-triomf-65-86-cerdanyola-super-copa",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "cerdanyola"
+      ],
+      "publicado": "2026-11-16T16:25:00.000Z",
+      "detectado": "2026-11-16T17:42:44.853Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "a7c406b5938d406f",
       "titulo": "La màgia de votar per primera vegada",
       "enlace": "https://www.lactual.cat/actualitat/magia-votar-primera-vegada_55385_102.html",
@@ -1288,5 +1376,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-16T16:31:00.282Z"
+  "actualizado": "2026-11-16T17:43:05.804Z"
 }
