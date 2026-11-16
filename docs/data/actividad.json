@@ -1,27 +1,6 @@
 {
   "eventos": [
     {
-      "id": "d2dc064dde5b5124",
-      "t": "2026-11-11T14:28:43.947Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Ampli seguiment de la manifestació per la vaga general de l'11-N» (Ràdio Sabadell).",
-      "itemId": "3120e4ad40c06a7b"
-    },
-    {
-      "id": "4af71431347989b2",
-      "t": "2026-11-11T14:28:43.948Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Manifestació multitudinària per la vaga general» (iSabadell).",
-      "itemId": "41bfeb749e26e4b3"
-    },
-    {
-      "id": "f827d4d2aaa42be7",
-      "t": "2026-11-11T14:28:43.949Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Successos, Salut.",
-      "itemId": "41bfeb749e26e4b3"
-    },
-    {
       "id": "b9e2c928603a14b5",
       "t": "2026-11-11T14:28:43.950Z",
       "agente": "mesa",
@@ -2799,7 +2778,28 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Salut.",
       "itemId": "0401587827ea6898"
+    },
+    {
+      "id": "9e105029287d57ae",
+      "t": "2026-11-16T18:34:28.051Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Palau al Dia - Notícies del 16/11/2026» (Ràdio Palau - Palau al Dia).",
+      "itemId": "9893d1a9bee5b056"
+    },
+    {
+      "id": "e08650533a39c4da",
+      "t": "2026-11-16T18:34:28.052Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Els Catarres i Lildami inauguraran el Festival Observa 2027» (iSabadell).",
+      "itemId": "420301329b9873a7"
+    },
+    {
+      "id": "a9f309793f356ca9",
+      "t": "2026-11-16T18:34:28.053Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "420301329b9873a7"
     }
   ],
-  "actualizado": "2026-11-16T17:43:05.808Z"
+  "actualizado": "2026-11-16T18:34:50.213Z"
 }
