@@ -2,11 +2,18 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-16T18:34:28.051Z",
-  "total": 19,
+  "consultat": "2026-11-16T19:36:01.848Z",
+  "total": 21,
   "activitats": [
     {
       "titol": "LORENA NO HI ÉS",
+      "inici": "2026-11-17T00:00:00.000Z",
+      "final": "2026-11-18T00:00:00.000Z",
+      "totElDia": true,
+      "color": null
+    },
+    {
+      "titol": "Ferran entra abans (11.15h)",
       "inici": "2026-11-17T00:00:00.000Z",
       "final": "2026-11-18T00:00:00.000Z",
       "totElDia": true,
@@ -118,6 +125,13 @@
       "color": null
     },
     {
+      "titol": "COTXE! (Ferran) VIA15 Decles i recursos aeroclub",
+      "inici": "2026-11-17T10:45:00.000Z",
+      "final": "2026-11-17T11:45:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
       "titol": "Rdp Ferran Costa",
       "inici": "2026-11-17T13:00:00.000Z",
       "final": "2026-11-17T14:00:00.000Z",
@@ -140,5 +154,5 @@
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-16T18:35:09.827Z"
+  "actualizado": "2026-11-16T19:36:48.554Z"
 }

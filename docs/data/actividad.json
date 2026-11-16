@@ -1,13 +1,6 @@
 {
   "eventos": [
     {
-      "id": "b9e2c928603a14b5",
-      "t": "2026-11-11T14:28:43.950Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): successos, salut.",
-      "itemId": "41bfeb749e26e4b3"
-    },
-    {
       "id": "59c344dd852afcd9",
       "t": "2026-11-11T15:15:46.717Z",
       "agente": "rastreador",
@@ -2799,7 +2792,14 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Cultura i festes.",
       "itemId": "420301329b9873a7"
+    },
+    {
+      "id": "6ca56affcf69efdb",
+      "t": "2026-11-16T19:36:01.848Z",
+      "agente": "rastreador",
+      "texto": "La font «Ajuntament de Barberà del Vallès» no respon (fetch failed).",
+      "itemId": null
     }
   ],
-  "actualizado": "2026-11-16T18:34:50.213Z"
+  "actualizado": "2026-11-16T19:36:28.210Z"
 }

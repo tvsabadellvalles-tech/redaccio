@@ -1205,6 +1205,27 @@
       "propuesta": false
     },
     {
+      "id": "e6261a4fdb506031",
+      "titulo": "La història de David Lyme i el ‘Sabadell Sound’, a ‘El doble’ de ‘TV3’",
+      "enlace": "https://www.isabadell.cat/cultura/david-lyme-jordi-cubino-i-el-sabadell-sound-a-el-doble-340285/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-16T08:00:00.000Z",
+      "detectado": "2026-11-16T09:26:20.294Z",
+      "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "d673de19409e7bc7",
       "titulo": "Salvador Illa, president: \"Podem fer arribar la Ronda Vallès fins a la Roca amb la màxima sostenibilitat\"",
       "enlace": "https://radiosabadell.fm/podcast/noticies-mati-illa-generalitat-sabadell-161126",
@@ -1238,27 +1259,6 @@
       "publicado": "2026-11-16T07:26:06.000Z",
       "detectado": "2026-11-16T09:26:20.294Z",
       "sensible": false,
-      "etiquetas": [],
-      "puntuacion": 0,
-      "motivos": [],
-      "duplicadaDe": null,
-      "propuesta": false
-    },
-    {
-      "id": "e6261a4fdb506031",
-      "titulo": "La història de David Lyme i el ‘Sabadell Sound’, a ‘El doble’ de ‘TV3’",
-      "enlace": "https://www.isabadell.cat/cultura/david-lyme-jordi-cubino-i-el-sabadell-sound-a-el-doble-340285/",
-      "fuente": "isabadell",
-      "fuenteNombre": "iSabadell",
-      "tipo": "medio",
-      "resumen": "",
-      "municipio": "sabadell",
-      "municipiosMencionados": [
-        "sabadell"
-      ],
-      "publicado": "2026-11-16T07:00:00.000Z",
-      "detectado": "2026-11-16T09:26:20.294Z",
-      "sensible": true,
       "etiquetas": [],
       "puntuacion": 0,
       "motivos": [],
@@ -1416,5 +1416,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-16T18:34:50.209Z"
+  "actualizado": "2026-11-16T19:36:28.206Z"
 }
