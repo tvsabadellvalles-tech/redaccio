@@ -104,6 +104,195 @@
   },
   "items": [
     {
+      "id": "b0a29e3ef254baec",
+      "titulo": "El 25N posa el focus en les violències masclistes contra les dones grans",
+      "enlace": "http://www.cerdanyola.cat/actualitat/el-25n-posa-el-focus-en-les-violencies-masclistes-contra-les-dones-grans",
+      "fuente": "ayto-cerdanyola",
+      "fuenteNombre": "Ajuntament de Cerdanyola del Vallès",
+      "tipo": "oficial",
+      "resumen": "El 25N posa el focus en les violències masclistes contra les dones grans Cerdanyola se suma, un any més, a la commemoració del Dia Internacional per a l'Eliminació de la Violència envers les Dones, el 25 de novembre, amb una programació…",
+      "municipio": "cerdanyola",
+      "municipiosMencionados": [
+        "cerdanyola"
+      ],
+      "publicado": "2026-11-16T10:41:45.000Z",
+      "detectado": "2026-11-16T10:54:14.930Z",
+      "sensible": true,
+      "etiquetas": [
+        "salud",
+        "cultura"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "font oficial",
+        "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "1732624618fd6cd1",
+      "titulo": "L'R7, sense servei durant tres setmanes",
+      "enlace": "https://www.diaridesabadell.com/valles/cerdanyola/rodalies-r7-tall-servei-obres.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "montcada"
+      ],
+      "publicado": "2026-11-16T10:31:52.000Z",
+      "detectado": "2026-11-16T10:54:14.930Z",
+      "sensible": false,
+      "etiquetas": [
+        "urbanismo"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "97eed1cfe717cec9",
+      "titulo": "Aigües Sabadell instal·la els primers 11.000 comptadors d'aigua intel·ligents",
+      "enlace": "https://radiosabadell.fm/actualitat/medi-ambient/aigues-sabadell-instala-primers-comptadors-inteligents",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-16T10:13:49.000Z",
+      "detectado": "2026-11-16T10:54:14.930Z",
+      "sensible": false,
+      "etiquetas": [
+        "emergencias",
+        "economia",
+        "medioambiente"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "emergències, economia i ocupació, medi ambient"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "bd119295ec9c3c20",
+      "titulo": "Proposen el doctor Josep Tarrés com a Creu de Sant Jordi 2027: \"Em fa molta il·lusió\"",
+      "enlace": "https://www.diaridesabadell.com/valles/cerdanyola/josep-tarres-creu-sant-jordi-candidatura-vots.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-16T10:13:12.000Z",
+      "detectado": "2026-11-16T10:54:14.930Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "e50e4e1c165c6603",
+      "titulo": "L'OMIC programa el cicle de Xerrades de seguretat i consum",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/lomic-programa-el-cicle-de-xerrades-de-seguretat-i-consum.html",
+      "fuente": "ayto-santa-perpetua",
+      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
+      "tipo": "oficial",
+      "resumen": "La Regidoria de Consum de l’Ajuntament de Santa Perpètua, a través de l’Oficina Municipal d’Informació al Consumidor (OMIC), organitza la 17ena edició del cicle de Xerrades sobre seguretat i consum.",
+      "municipio": "santa-perpetua",
+      "municipiosMencionados": [
+        "santa-perpetua"
+      ],
+      "publicado": "2026-11-16T10:00:00.000Z",
+      "detectado": "2026-11-16T10:54:14.930Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "font oficial",
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "5d5689d25e15e877",
+      "titulo": "Anton Carbonell: \"S'ha de reivindicar la faceta teatral de Joan Oliver\"",
+      "enlace": "https://radiosabadell.fm/podcast/fils-ciutat-lectures-vida-ball-robat-joan-oliver-161126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-16T09:45:39.000Z",
+      "detectado": "2026-11-16T10:54:14.930Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "abfc40dbdf6dfbb4",
+      "titulo": "Jose Luis Castet, Observa: \"Hem ampliat una setmana el Festival, però eliminant els diumenges\"",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-mati-observa-161126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-16T09:44:00.000Z",
+      "detectado": "2026-11-16T10:54:14.930Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "6cd74ad0067ba58f",
+      "titulo": "Projecció del documental 'No estás loca', sobre la violència vicària en el marc del 25N",
+      "enlace": "https://www.bdv.cat/noticies/projeccio-del-documental-no-estas-loca-sobre-la-violencia-vicaria-en-el-marc-del-25n",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "La projecció tindrà lloc el dimecres, 18 de novembre a les 18 h al Teatre Municipal Cooperativa, i comptarà amb la participació de la directora del documental, María Bestar En el marc de la projecció del 25 de novembre, Dia Internacional…",
+      "municipio": "barbera",
+      "municipiosMencionados": [
+        "barbera"
+      ],
+      "publicado": "2026-11-16T09:33:00.000Z",
+      "detectado": "2026-11-16T10:54:14.930Z",
+      "sensible": true,
+      "etiquetas": [
+        "salud",
+        "cultura"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "font oficial",
+        "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "583a2bcbad9db54c",
       "titulo": "18 de novembre: Sessió ordinària del Ple Municipal",
       "enlace": "https://www.bdv.cat/noticies/18-de-novembre-sessio-ordinaria-del-ple-municipal",
@@ -129,6 +318,74 @@
       ],
       "duplicadaDe": null,
       "propuesta": true
+    },
+    {
+      "id": "0d3b32a5987825ad",
+      "titulo": "Quan cal dir que no a un tractament estètic?",
+      "enlace": "https://www.diaridesabadell.com/contingut-patrocinat/quan-dir-no-tractament-estetic-clinica-ng-doctora-nelida-grande.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-16T09:03:21.000Z",
+      "detectado": "2026-11-16T10:54:14.930Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "b3df7e5428ae118a",
+      "titulo": "L'Ajuntament presenta una queixa formal a la Generalitat per la situació del transport en autobús",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/lajuntament-presenta-una-queixa-formal-a-la-generalitat-per-la-situacio-del-transport-en-autobus.html",
+      "fuente": "ayto-santa-perpetua",
+      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
+      "tipo": "oficial",
+      "resumen": "El Consistori sol·licita \"l’adopció de mesures urgents que puguin resoldre i/o corregir la situació actual\".",
+      "municipio": "santa-perpetua",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-16T09:00:00.000Z",
+      "detectado": "2026-11-16T10:54:14.930Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "font oficial",
+        "mobilitat"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "b0faebb6f5a5577e",
+      "titulo": "Rescaten el conductor d'un camió de la brossa que havia bolcat a la deixalleria de Montcada i Reixac",
+      "enlace": "https://www.diaridesabadell.com/valles/montcada/camio-brossa-montcada-bolcat.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "montcada"
+      ],
+      "publicado": "2026-11-16T08:48:49.000Z",
+      "detectado": "2026-11-16T10:54:14.930Z",
+      "sensible": true,
+      "etiquetas": [
+        "salud"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
     },
     {
       "id": "4b11617a0bd30b71",
@@ -346,5 +603,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-16T09:26:37.358Z"
+  "actualizado": "2026-11-16T10:54:46.756Z"
 }

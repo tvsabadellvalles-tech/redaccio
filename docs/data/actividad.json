@@ -1,174 +1,6 @@
 {
   "eventos": [
     {
-      "id": "af80ac7735e669a8",
-      "t": "2026-11-10T17:09:13.298Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Plàcid Garcia-Planas, Premi Tenacitat 2026 del Rotary Club Sabadell» (Ràdio Sabadell).",
-      "itemId": "cfbf07aebeaa03b3"
-    },
-    {
-      "id": "d7aa70f38412daec",
-      "t": "2026-11-10T17:09:13.299Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Obres i urbanisme, Esports.",
-      "itemId": "cfbf07aebeaa03b3"
-    },
-    {
-      "id": "38a60683c6d59837",
-      "t": "2026-11-10T17:09:13.300Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El periodista sabadellenc Plàcid Garcia-Planas rebrà el Premi Tenacitat 2026» (Diari de Sabadell).",
-      "itemId": "74ac4147454106f0"
-    },
-    {
-      "id": "1a54266d0ccfe0b4",
-      "t": "2026-11-10T17:09:13.301Z",
-      "agente": "rastreador",
-      "texto": "He recollit «S'acumulen les cartes a la Generalitat pels problemes a la xarxa d'autobusos» (Diari de Sabadell).",
-      "itemId": "dbd5ec59850cfbea"
-    },
-    {
-      "id": "9bf0e39548787d11",
-      "t": "2026-11-10T17:09:13.302Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat.",
-      "itemId": "dbd5ec59850cfbea"
-    },
-    {
-      "id": "b6c40ef74ca2994c",
-      "t": "2026-11-10T17:09:13.303Z",
-      "agente": "rastreador",
-      "texto": "He recollit «VÍDEO | Graven un individu llançant deixalles davant d'un edifici del Centre de Sabadell: \"N'estem molt cansats\"» (Diari de Sabadell).",
-      "itemId": "c41faab7634bd03d"
-    },
-    {
-      "id": "1b2217778179aefd",
-      "t": "2026-11-10T17:09:13.304Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La metgessa Montserrat Baré, premiada per una trajectòria al servei de la Creu Alta: \"És el lloc on sempre havia volgut exercir\"» (Diari de Sabadell).",
-      "itemId": "613c1c5dc12a219d"
-    },
-    {
-      "id": "1d2153a23a3bae16",
-      "t": "2026-11-10T17:09:13.305Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Salut.",
-      "itemId": "613c1c5dc12a219d"
-    },
-    {
-      "id": "a7ac74a8f1f62f14",
-      "t": "2026-11-10T17:51:58.064Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El periodista Plàcid Garcia-Planas, Premi Tenacitat 2026» (iSabadell).",
-      "itemId": "effd26e776bcc246"
-    },
-    {
-      "id": "79a342c9e30d4625",
-      "t": "2026-11-10T17:51:58.065Z",
-      "agente": "deduplicador",
-      "texto": "Descartada perquè és duplicada: coincideix amb «El periodista sabadellenc Plàcid Garcia-Planas rebrà el Premi Tenacitat 2026» (Diari de Sabadell).",
-      "itemId": "effd26e776bcc246"
-    },
-    {
-      "id": "9702e56c16a7bfb5",
-      "t": "2026-11-10T18:28:30.971Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Dues botigues pop-up s’instal·len a Sabadell» (Ràdio Sabadell).",
-      "itemId": "bf74573a9d9174a4"
-    },
-    {
-      "id": "1bb417222928857c",
-      "t": "2026-11-10T18:28:30.972Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Emergències.",
-      "itemId": "bf74573a9d9174a4"
-    },
-    {
-      "id": "5b81fec96ccdfcd6",
-      "t": "2026-11-10T18:28:30.973Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): emergències.",
-      "itemId": "bf74573a9d9174a4"
-    },
-    {
-      "id": "99abbe47e6f8ef65",
-      "t": "2026-11-10T19:27:09.400Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Sabadell lidera el creixement al Vallès» (Diari de Sabadell).",
-      "itemId": "5bae360dcbdc2b72"
-    },
-    {
-      "id": "b4a844ff6d29ba65",
-      "t": "2026-11-10T19:27:09.401Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Economia i ocupació.",
-      "itemId": "5bae360dcbdc2b72"
-    },
-    {
-      "id": "cdb87fe36a3cad60",
-      "t": "2026-11-10T19:27:09.402Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Palau al Dia - Notícies del 10/11/2026» (Ràdio Palau - Palau al Dia).",
-      "itemId": "22556bf55ecd6a9f"
-    },
-    {
-      "id": "5ce1c0e6dc9373a7",
-      "t": "2026-11-10T19:27:09.403Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Economia i ocupació.",
-      "itemId": "22556bf55ecd6a9f"
-    },
-    {
-      "id": "88a3cc1c848dc718",
-      "t": "2026-11-10T19:27:09.404Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Traslladen les restes de mossèn Geis a Sant Fèlix: \"Tenia una grandesa cultural i humana important\"» (Diari de Sabadell).",
-      "itemId": "a6b4789c068d0af1"
-    },
-    {
-      "id": "77a9ffe5a0e185f6",
-      "t": "2026-11-10T19:27:09.405Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "a6b4789c068d0af1"
-    },
-    {
-      "id": "0919364ff1265ba6",
-      "t": "2026-11-10T19:27:09.406Z",
-      "agente": "rastreador",
-      "texto": "He recollit «FOTOS | Un cotxe atropella una vianant a Can Gambús» (Diari de Sabadell).",
-      "itemId": "58a93ecdb3bd1cb4"
-    },
-    {
-      "id": "d1f5d14efd5eb6ff",
-      "t": "2026-11-10T19:27:09.407Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Emergències.",
-      "itemId": "58a93ecdb3bd1cb4"
-    },
-    {
-      "id": "3dc208e3f20f3b50",
-      "t": "2026-11-10T19:27:09.408Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): emergències.",
-      "itemId": "58a93ecdb3bd1cb4"
-    },
-    {
-      "id": "ec8300771d13fb00",
-      "t": "2026-11-10T19:27:09.409Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Tot el que has de saber sobre la vaga general d'aquest dimecres: convocatòries, afectacions, serveis mínims...» (Diari de Sabadell).",
-      "itemId": "695fff0404c9a7b4"
-    },
-    {
-      "id": "ff27c8a828361f9c",
-      "t": "2026-11-10T19:27:09.410Z",
-      "agente": "rastreador",
-      "texto": "He recollit «L'Astralpool CN Sabadell masculí encaixa la primera derrota de la temporada a la Champions» (Diari de Sabadell).",
-      "itemId": "e0a7cdace5d18002"
-    },
-    {
       "id": "80859fa5ac98a32c",
       "t": "2026-11-10T19:27:09.411Z",
       "agente": "rastreador",
@@ -2799,7 +2631,175 @@
       "agente": "mesa",
       "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · política local.",
       "itemId": "583a2bcbad9db54c"
+    },
+    {
+      "id": "86497e3e0656fb6d",
+      "t": "2026-11-16T10:54:14.931Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Rescaten el conductor d'un camió de la brossa que havia bolcat a la deixalleria de Montcada i Reixac» (Diari de Sabadell).",
+      "itemId": "b0faebb6f5a5577e"
+    },
+    {
+      "id": "11fbdc0ba4013434",
+      "t": "2026-11-16T10:54:14.932Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut.",
+      "itemId": "b0faebb6f5a5577e"
+    },
+    {
+      "id": "0e9db7339b0d971a",
+      "t": "2026-11-16T10:54:14.933Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "b0faebb6f5a5577e"
+    },
+    {
+      "id": "b3a89239aec18441",
+      "t": "2026-11-16T10:54:14.934Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L'Ajuntament presenta una queixa formal a la Generalitat per la situació del transport en autobús» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "b3df7e5428ae118a"
+    },
+    {
+      "id": "3ed7e940ab425b05",
+      "t": "2026-11-16T10:54:14.935Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat.",
+      "itemId": "b3df7e5428ae118a"
+    },
+    {
+      "id": "6c02ede786c79174",
+      "t": "2026-11-16T10:54:14.936Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · mobilitat.",
+      "itemId": "b3df7e5428ae118a"
+    },
+    {
+      "id": "37d8466be1a36289",
+      "t": "2026-11-16T10:54:14.937Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Quan cal dir que no a un tractament estètic?» (Diari de Sabadell).",
+      "itemId": "0d3b32a5987825ad"
+    },
+    {
+      "id": "0158e229ff11c3c0",
+      "t": "2026-11-16T10:54:14.938Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Projecció del documental 'No estás loca', sobre la violència vicària en el marc del 25N» (Ajuntament de Barberà del Vallès).",
+      "itemId": "6cd74ad0067ba58f"
+    },
+    {
+      "id": "9f57a0bec9f1f70d",
+      "t": "2026-11-16T10:54:14.939Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut, Cultura i festes.",
+      "itemId": "6cd74ad0067ba58f"
+    },
+    {
+      "id": "b0700a9e564f7567",
+      "t": "2026-11-16T10:54:14.940Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "6cd74ad0067ba58f"
+    },
+    {
+      "id": "742bb5414e2ef6dc",
+      "t": "2026-11-16T10:54:14.941Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Jose Luis Castet, Observa: \"Hem ampliat una setmana el Festival, però eliminant els diumenges\"» (Ràdio Sabadell).",
+      "itemId": "abfc40dbdf6dfbb4"
+    },
+    {
+      "id": "92c7fdd4a5805811",
+      "t": "2026-11-16T10:54:14.942Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Anton Carbonell: \"S'ha de reivindicar la faceta teatral de Joan Oliver\"» (Ràdio Sabadell).",
+      "itemId": "5d5689d25e15e877"
+    },
+    {
+      "id": "0a742fd89057bc1a",
+      "t": "2026-11-16T10:54:14.943Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L'OMIC programa el cicle de Xerrades de seguretat i consum» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "e50e4e1c165c6603"
+    },
+    {
+      "id": "9bf122874e9ad74b",
+      "t": "2026-11-16T10:54:14.944Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local.",
+      "itemId": "e50e4e1c165c6603"
+    },
+    {
+      "id": "a9397823dc9e01de",
+      "t": "2026-11-16T10:54:14.945Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · política local.",
+      "itemId": "e50e4e1c165c6603"
+    },
+    {
+      "id": "ee472fe40c83ac73",
+      "t": "2026-11-16T10:54:14.946Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Proposen el doctor Josep Tarrés com a Creu de Sant Jordi 2027: \"Em fa molta il·lusió\"» (Diari de Sabadell).",
+      "itemId": "bd119295ec9c3c20"
+    },
+    {
+      "id": "a2da0cfcdf44ebaf",
+      "t": "2026-11-16T10:54:14.947Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Aigües Sabadell instal·la els primers 11.000 comptadors d'aigua intel·ligents» (Ràdio Sabadell).",
+      "itemId": "97eed1cfe717cec9"
+    },
+    {
+      "id": "5799bc6c0d6ee7ad",
+      "t": "2026-11-16T10:54:14.948Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Emergències, Economia i ocupació, Medi ambient.",
+      "itemId": "97eed1cfe717cec9"
+    },
+    {
+      "id": "84da4331dc019fe8",
+      "t": "2026-11-16T10:54:14.949Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): emergències, economia i ocupació, medi ambient.",
+      "itemId": "97eed1cfe717cec9"
+    },
+    {
+      "id": "80abe93b00dce9b2",
+      "t": "2026-11-16T10:54:14.950Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L'R7, sense servei durant tres setmanes» (Diari de Sabadell).",
+      "itemId": "1732624618fd6cd1"
+    },
+    {
+      "id": "6d03c5d70b7b73fd",
+      "t": "2026-11-16T10:54:14.951Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Obres i urbanisme.",
+      "itemId": "1732624618fd6cd1"
+    },
+    {
+      "id": "2b8685d04d393cbd",
+      "t": "2026-11-16T10:54:14.952Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El 25N posa el focus en les violències masclistes contra les dones grans» (Ajuntament de Cerdanyola del Vallès).",
+      "itemId": "b0a29e3ef254baec"
+    },
+    {
+      "id": "48b13898112b72bf",
+      "t": "2026-11-16T10:54:14.953Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut, Cultura i festes.",
+      "itemId": "b0a29e3ef254baec"
+    },
+    {
+      "id": "ae165ee74ea7c511",
+      "t": "2026-11-16T10:54:14.954Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "b0a29e3ef254baec"
     }
   ],
-  "actualizado": "2026-11-16T09:26:37.361Z"
+  "actualizado": "2026-11-16T10:54:46.759Z"
 }
