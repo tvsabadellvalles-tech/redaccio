@@ -1,132 +1,6 @@
 {
   "eventos": [
     {
-      "id": "80859fa5ac98a32c",
-      "t": "2026-11-10T19:27:09.411Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Olympiacos 15-10 Astralpool CN Sabadell: la primera plaça canvia de mans» (Ràdio Sabadell).",
-      "itemId": "033e0dc3ef2afb51"
-    },
-    {
-      "id": "87004554a352c0e8",
-      "t": "2026-11-10T19:27:09.412Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Salut, Esports.",
-      "itemId": "033e0dc3ef2afb51"
-    },
-    {
-      "id": "cfe1de763b24cbd1",
-      "t": "2026-11-10T19:27:09.413Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "033e0dc3ef2afb51"
-    },
-    {
-      "id": "8a1da0c690e411b4",
-      "t": "2026-11-10T19:27:09.414Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Champions: el Club cedeix la primera derrota de la fase de grups» (iSabadell).",
-      "itemId": "893c58c5ec9b57db"
-    },
-    {
-      "id": "004794cd1403de4c",
-      "t": "2026-11-10T19:27:09.415Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Esports.",
-      "itemId": "893c58c5ec9b57db"
-    },
-    {
-      "id": "46f6e32211031080",
-      "t": "2026-11-10T23:23:52.469Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Infopòdcast Sabadell 11.11.26» (Ràdio Sabadell).",
-      "itemId": "9bac95ed873967e5"
-    },
-    {
-      "id": "68d38c394740d277",
-      "t": "2026-11-11T05:16:17.503Z",
-      "agente": "rastreador",
-      "texto": "La font «Ràdio Sabadell» no respon (The operation was aborted due to timeout).",
-      "itemId": null
-    },
-    {
-      "id": "da57a27cbb9cee27",
-      "t": "2026-11-11T06:14:03.457Z",
-      "agente": "rastreador",
-      "texto": "La font «Ràdio Sabadell» torna a respondre.",
-      "itemId": null
-    },
-    {
-      "id": "73b9946a39f2feb3",
-      "t": "2026-11-11T06:14:03.458Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La vaga general de l'11-N, minut a minut» (Ràdio Sabadell).",
-      "itemId": "dfdc0411ebb6f0d5"
-    },
-    {
-      "id": "4f02384ea30f266f",
-      "t": "2026-11-11T06:14:03.459Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat.",
-      "itemId": "dfdc0411ebb6f0d5"
-    },
-    {
-      "id": "e96c1f4283dd8c92",
-      "t": "2026-11-11T06:14:03.460Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Diverses carreteres tallades i accessos a polígons bloquejats pels piquets amb motiu de la vaga general» (Agència Catalana de Notícies (ACN)).",
-      "itemId": "50bd6d7d3c941a24"
-    },
-    {
-      "id": "b363ac787254e5f3",
-      "t": "2026-11-11T07:27:07.854Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La vaga general de l’11-N, EN DIRECTE» (iSabadell).",
-      "itemId": "0b8b461a33cd406a"
-    },
-    {
-      "id": "b0f2c57b4c5ee07b",
-      "t": "2026-11-11T07:27:07.855Z",
-      "agente": "rastreador",
-      "texto": "He recollit «‘Fons voltors, portes giràtories… qui s’està enriquint amb l’habitatge?’» (iSabadell).",
-      "itemId": "67f7d5bd169f1e38"
-    },
-    {
-      "id": "75851a8b88d1db12",
-      "t": "2026-11-11T07:27:07.856Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Emergències, Obres i urbanisme.",
-      "itemId": "67f7d5bd169f1e38"
-    },
-    {
-      "id": "54ffc94219a41b5e",
-      "t": "2026-11-11T07:27:07.857Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): emergències, obres i urbanisme.",
-      "itemId": "67f7d5bd169f1e38"
-    },
-    {
-      "id": "5105ac245ccd0e3c",
-      "t": "2026-11-11T08:29:45.209Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La vaga general col·lapsa la mobilitat al Vallès: carreteres tallades i retards a la xarxa ferroviària» (Diari de Sabadell).",
-      "itemId": "12f6ce451441df33"
-    },
-    {
-      "id": "a4f29a94ae01cf35",
-      "t": "2026-11-11T08:29:45.210Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat.",
-      "itemId": "12f6ce451441df33"
-    },
-    {
-      "id": "0eeb337c11738912",
-      "t": "2026-11-11T09:26:19.514Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El govern català celebra que els serveis mínims establerts per la vaga s'hagin complert» (Diari de Sabadell).",
-      "itemId": "33803555ca499f15"
-    },
-    {
       "id": "cffdf77d52e82f50",
       "t": "2026-11-11T09:26:19.515Z",
       "agente": "etiquetador",
@@ -2799,7 +2673,133 @@
       "agente": "vigilante",
       "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
       "itemId": "b0a29e3ef254baec"
+    },
+    {
+      "id": "eea3f94092ace9e2",
+      "t": "2026-11-16T11:56:07.444Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Obertes les inscripcions per a La Paulina, la 40a cursa de Polinyà» (Ajuntament de Polinyà).",
+      "itemId": "c8fbd991dc204070"
+    },
+    {
+      "id": "f456323dd90ed164",
+      "t": "2026-11-16T11:56:07.445Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Ripollet reconeix més de 50 iniciatives del teixit productiu local en la tercera edició dels Reconeixements Impulsa» (Ajuntament de Ripollet).",
+      "itemId": "e01ac8ab2a347a97"
+    },
+    {
+      "id": "3f499fa3b4078614",
+      "t": "2026-11-16T11:56:07.446Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Economia i ocupació, Cultura i festes.",
+      "itemId": "e01ac8ab2a347a97"
+    },
+    {
+      "id": "3b13e9fc0d2310e9",
+      "t": "2026-11-16T11:56:07.449Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El Club Natació Sabadell tanca l'Open d'hivern amb 21 medalles» (Ràdio Sabadell).",
+      "itemId": "eaa8676d6ffc563e"
+    },
+    {
+      "id": "6842e283a99063bb",
+      "t": "2026-11-16T11:56:07.450Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "eaa8676d6ffc563e"
+    },
+    {
+      "id": "0dc6dc7333c664e6",
+      "t": "2026-11-16T11:56:07.451Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Els Catarres i Lildami donaran el tret de sortida a l'Observa 2027» (Ràdio Sabadell).",
+      "itemId": "f77401f55e9caadb"
+    },
+    {
+      "id": "cf1794e4546d56e0",
+      "t": "2026-11-16T11:56:07.452Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "f77401f55e9caadb"
+    },
+    {
+      "id": "32931171f0a4b8ef",
+      "t": "2026-11-16T11:56:07.453Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "f77401f55e9caadb"
+    },
+    {
+      "id": "180b744e98c38d4b",
+      "t": "2026-11-16T11:56:07.454Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Un cotxe bolca al mig de la via després de xocar contra un turisme estacionat» (Ràdio Sabadell).",
+      "itemId": "0a9547851f06fd9a"
+    },
+    {
+      "id": "58c7b52029d280cd",
+      "t": "2026-11-16T11:56:07.455Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Emergències, Successos.",
+      "itemId": "0a9547851f06fd9a"
+    },
+    {
+      "id": "3dab39538e4ab59d",
+      "t": "2026-11-16T11:56:07.456Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): emergències, successos.",
+      "itemId": "0a9547851f06fd9a"
+    },
+    {
+      "id": "32714ad089e02285",
+      "t": "2026-11-16T11:56:07.458Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Altaió (CCQC): \"Ens costa entendre que Illa firmi tan tranquil·lament que les obres podrien executar-se al 2028\"» (Ràdio Sabadell).",
+      "itemId": "e90e7e10fa874e26"
+    },
+    {
+      "id": "88cc20d55fc6b812",
+      "t": "2026-11-16T11:56:07.459Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Obres i urbanisme.",
+      "itemId": "e90e7e10fa874e26"
+    },
+    {
+      "id": "50075b454cd2c274",
+      "t": "2026-11-16T11:56:07.460Z",
+      "agente": "rastreador",
+      "texto": "He recollit «FOTOS | Una nit de retrobaments i emoció per celebrar els 50 anys de l'APB» (Diari de Sabadell).",
+      "itemId": "6d58f2762e650dcb"
+    },
+    {
+      "id": "6f10fd68096b9420",
+      "t": "2026-11-16T11:56:07.461Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Educació, Esports.",
+      "itemId": "6d58f2762e650dcb"
+    },
+    {
+      "id": "86ede898e965a0b6",
+      "t": "2026-11-16T11:56:07.462Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La Creu Roja engega el programa d'ajut alimentari Bàsic» (L'Actual - Castellar del Vallès).",
+      "itemId": "c2e0d15c3f4e2ad4"
+    },
+    {
+      "id": "6d2e4b86c7ffa48d",
+      "t": "2026-11-16T11:56:07.463Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L’atenció pediàtrica de Santa Perpètua es trasllada al CAP La Florida» (Diari de Sabadell).",
+      "itemId": "b4769aff3bc1732f"
+    },
+    {
+      "id": "5e9b1d7bae690c52",
+      "t": "2026-11-16T11:56:07.464Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut.",
+      "itemId": "b4769aff3bc1732f"
     }
   ],
-  "actualizado": "2026-11-16T10:54:46.759Z"
+  "actualizado": "2026-11-16T11:56:21.968Z"
 }

@@ -104,6 +104,163 @@
   },
   "items": [
     {
+      "id": "b4769aff3bc1732f",
+      "titulo": "L’atenció pediàtrica de Santa Perpètua es trasllada al CAP La Florida",
+      "enlace": "https://www.diaridesabadell.com/valles/santa-perpetua-mogoda/pediatria-cap-santa-perpetua-canvi-ubicacio-la-florida.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "santa-perpetua"
+      ],
+      "publicado": "2026-11-16T11:51:46.000Z",
+      "detectado": "2026-11-16T11:56:07.443Z",
+      "sensible": false,
+      "etiquetas": [
+        "salud"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "c2e0d15c3f4e2ad4",
+      "titulo": "La Creu Roja engega el programa d'ajut alimentari Bàsic",
+      "enlace": "https://www.lactual.cat/actualitat/creu-roja-engega-programa-ajut-alimentaria-basic_55382_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-16T11:49:44.000Z",
+      "detectado": "2026-11-16T11:56:07.443Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "6d58f2762e650dcb",
+      "titulo": "FOTOS | Una nit de retrobaments i emoció per celebrar els 50 anys de l'APB",
+      "enlace": "https://www.diaridesabadell.com/esports/fotos-una-nit-de-retrobaments-i-emocio-per-celebrar-els-50-anys-de-lapb.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-16T11:46:42.000Z",
+      "detectado": "2026-11-16T11:56:07.443Z",
+      "sensible": false,
+      "etiquetas": [
+        "educacion",
+        "deportes"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "educació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "e90e7e10fa874e26",
+      "titulo": "Altaió (CCQC): \"Ens costa entendre que Illa firmi tan tranquil·lament que les obres podrien executar-se al 2028\"",
+      "enlace": "https://radiosabadell.fm/alacarta/audio/altaio-portaveu-ccqc-ens-costa-entendre-que-illa-firmi-tan-tranquillament-que",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-16T11:43:04.000Z",
+      "detectado": "2026-11-16T11:56:07.443Z",
+      "sensible": false,
+      "etiquetas": [
+        "urbanismo"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "30a2ced5aa6eeb83",
+      "titulo": "La ciència omple d'activitats El Mirador",
+      "enlace": "https://www.lactual.cat/actualitat/ciencia-omple-activitats-mirador_55374_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-16T11:38:50.000Z",
+      "detectado": "2026-11-16T11:56:07.443Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "0a9547851f06fd9a",
+      "titulo": "Un cotxe bolca al mig de la via després de xocar contra un turisme estacionat",
+      "enlace": "https://radiosabadell.fm/actualitat/successos/cotxe-bolca-xocar-turisme-estacionat",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-16T11:07:41.000Z",
+      "detectado": "2026-11-16T11:56:07.443Z",
+      "sensible": false,
+      "etiquetas": [
+        "emergencias",
+        "sucesos"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "emergències, successos"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "f77401f55e9caadb",
+      "titulo": "Els Catarres i Lildami donaran el tret de sortida a l'Observa 2027",
+      "enlace": "https://radiosabadell.fm/actualitat/cultura/catarres-lildami-tret-sortida-lobserva-2027-sabadell",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-16T10:55:14.000Z",
+      "detectado": "2026-11-16T11:56:07.443Z",
+      "sensible": true,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "b0a29e3ef254baec",
       "titulo": "El 25N posa el focus en les violències masclistes contra les dones grans",
       "enlace": "http://www.cerdanyola.cat/actualitat/el-25n-posa-el-focus-en-les-violencies-masclistes-contra-les-dones-grans",
@@ -152,6 +309,29 @@
       "motivos": [
         "obres i urbanisme"
       ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "eaa8676d6ffc563e",
+      "titulo": "El Club Natació Sabadell tanca l'Open d'hivern amb 21 medalles",
+      "enlace": "https://radiosabadell.fm/esports/natacio/club-natacio-sabadell-21-medalles-open-hivern",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-16T10:31:20.000Z",
+      "detectado": "2026-11-16T11:56:07.443Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
       "duplicadaDe": null,
       "propuesta": false
     },
@@ -288,6 +468,58 @@
       "motivos": [
         "font oficial",
         "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "7b52514edf9b570a",
+      "titulo": "Ripollet viatjarà a la Xina per la candidatura de les catifes florals a la UNESCO",
+      "enlace": "https://www.ripollet.cat/actualitat/noticies/ripollet-viatjara-a-la-xina-per-la-candidatura-de-les-catifes-florals-a-la-unesco",
+      "fuente": "ayto-ripollet",
+      "fuenteNombre": "Ajuntament de Ripollet",
+      "tipo": "oficial",
+      "resumen": "Representants de Cultura i Tradició assistiran a la reunió internacional en què es decidirà que aquesta manifestació d'art efímer serà reconeguda com a patrimoni cultural immaterial de la humanitat.",
+      "municipio": "ripollet",
+      "municipiosMencionados": [
+        "ripollet"
+      ],
+      "publicado": "2026-11-16T09:30:00.000Z",
+      "detectado": "2026-11-16T11:56:07.443Z",
+      "sensible": false,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "e01ac8ab2a347a97",
+      "titulo": "Ripollet reconeix més de 50 iniciatives del teixit productiu local en la tercera edició dels Reconeixements Impulsa",
+      "enlace": "https://www.ripollet.cat/actualitat/noticies/ripollet-reconeix-mes-de-50-iniciatives-del-teixit-productiu-local-en-la-tercera-edicio-dels-reconeixements-impulsa",
+      "fuente": "ayto-ripollet",
+      "fuenteNombre": "Ajuntament de Ripollet",
+      "tipo": "oficial",
+      "resumen": "La gala, celebrada aquest dijous al Teatre Auditori del Mercat Vell, ha estrenat un nou format i ha distingit empreses, comerços, persones emprenedores i entitats per la seva contribució al desenvolupament econòmic i social del municipi.",
+      "municipio": "ripollet",
+      "municipiosMencionados": [
+        "ripollet"
+      ],
+      "publicado": "2026-11-16T09:15:00.000Z",
+      "detectado": "2026-11-16T11:56:07.443Z",
+      "sensible": false,
+      "etiquetas": [
+        "economia",
+        "cultura"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "font oficial",
+        "economia i ocupació"
       ],
       "duplicadaDe": null,
       "propuesta": false
@@ -601,7 +833,30 @@
       ],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "c8fbd991dc204070",
+      "titulo": "Obertes les inscripcions per a La Paulina, la 40a cursa de Polinyà",
+      "enlace": "https://www.polinya.cat/temes/esports/obertes-les-inscripcions-per-a-la-paulina-la-40a-cursa-de-polinya.html",
+      "fuente": "ayto-polinya",
+      "fuenteNombre": "Ajuntament de Polinyà",
+      "tipo": "oficial",
+      "resumen": "La tradicional cursa de Polinyà celebra el 40 aniversari amb una identitat renovada.",
+      "municipio": "polinya",
+      "municipiosMencionados": [
+        "polinya"
+      ],
+      "publicado": "2026-11-15T23:00:00.000Z",
+      "detectado": "2026-11-16T11:56:07.443Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
     }
   ],
-  "actualizado": "2026-11-16T10:54:46.756Z"
+  "actualizado": "2026-11-16T11:56:21.966Z"
 }
