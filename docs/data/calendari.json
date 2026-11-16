@@ -2,8 +2,8 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-16T22:58:41.496Z",
-  "total": 21,
+  "consultat": "2026-11-16T23:44:46.594Z",
+  "total": 18,
   "activitats": [
     {
       "titol": "LORENA NO HI ÉS",
@@ -17,83 +17,6 @@
       "inici": "2026-11-17T00:00:00.000Z",
       "final": "2026-11-18T00:00:00.000Z",
       "totElDia": true,
-      "color": null
-    },
-    {
-      "titol": "Protagonistes",
-      "inici": "2026-11-16T09:00:00.000Z",
-      "final": "2026-11-16T10:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "JM LX RETOC DE COLOR EN VÍDEO",
-      "inici": "2026-11-16T09:00:00.000Z",
-      "final": "2026-11-16T12:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "(Joan) Acreditacions LaLiga",
-      "inici": "2026-11-16T09:45:00.000Z",
-      "final": "2026-11-16T10:15:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "Gent de Sabadell",
-      "inici": "2026-11-16T10:00:00.000Z",
-      "final": "2026-11-16T12:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "(Montse) Com més serem especial a Igualada",
-      "inici": "2026-11-16T14:00:00.000Z",
-      "final": "2026-11-16T15:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "L'Informatiu",
-      "inici": "2026-11-16T15:00:00.000Z",
-      "final": "2026-11-16T16:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "L'Arlequinat",
-      "inici": "2026-11-16T16:30:00.000Z",
-      "final": "2026-11-16T18:30:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "CX - VIA 15 (Castanya, moniato i carbassa)",
-      "inici": "2026-11-16T17:00:00.000Z",
-      "final": "2026-11-16T18:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "[COTXE!] (Ferran i Berta) Constitució del Consell d'Infants Barberà",
-      "inici": "2026-11-16T17:00:00.000Z",
-      "final": "2026-11-16T18:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "(Lorena i Adri) Decles a Esteve Corsellas Forn Valero VIA15",
-      "inici": "2026-11-16T18:00:00.000Z",
-      "final": "2026-11-16T19:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "(Ferran) LÍMIT REEL 1P, 19.45",
-      "inici": "2026-11-16T19:45:00.000Z",
-      "final": "2026-11-16T20:00:00.000Z",
-      "totElDia": false,
       "color": null
     },
     {
@@ -151,8 +74,64 @@
       "final": "2026-11-17T18:00:00.000Z",
       "totElDia": false,
       "color": null
+    },
+    {
+      "titol": "Presentació de l’acord de col·laboració entre la Fundació per la Indústria i la Fundació Privada Atendis per a la construcció d’una nova residència.",
+      "inici": "2026-11-18T09:30:00.000Z",
+      "final": "2026-11-18T10:30:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "Espai Obert",
+      "inici": "2026-11-18T10:00:00.000Z",
+      "final": "2026-11-18T11:30:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "(Josep Maria, Ferran, Montse) Entrevista Eva Granados PSC (C/ Pallars)",
+      "inici": "2026-11-18T12:00:00.000Z",
+      "final": "2026-11-18T13:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "L'Informatiu",
+      "inici": "2026-11-18T15:00:00.000Z",
+      "final": "2026-11-18T16:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "CX - VIA 15 (El meu avi/àvia)",
+      "inici": "2026-11-18T17:00:00.000Z",
+      "final": "2026-11-18T18:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "(Ferran) CN Sabadell - Jadran | Champions",
+      "inici": "2026-11-18T17:30:00.000Z",
+      "final": "2026-11-18T18:30:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "(Lorena) Rdp pessebristes",
+      "inici": "2026-11-18T18:00:00.000Z",
+      "final": "2026-11-18T19:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "Utebo - CE Sabadell",
+      "inici": "2026-11-18T18:00:00.000Z",
+      "final": "2026-11-18T20:00:00.000Z",
+      "totElDia": false,
+      "color": null
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-16T22:59:18.698Z"
+  "actualizado": "2026-11-16T23:45:15.797Z"
 }

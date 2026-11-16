@@ -1,13 +1,6 @@
 {
   "eventos": [
     {
-      "id": "45c27c04d42e49d1",
-      "t": "2026-11-11T16:04:47.454Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Montserrat Baré, CAP Creu Alta: “La meva essència és fer de metge i ser útil a la societat”» (Ràdio Sabadell).",
-      "itemId": "7e92c1d6f06b368c"
-    },
-    {
       "id": "7d69e31db8b8dea3",
       "t": "2026-11-11T16:04:47.455Z",
       "agente": "etiquetador",
@@ -2799,7 +2792,14 @@
       "agente": "rastreador",
       "texto": "He recollit «La millor setmana per ser elPetit de casa acaba de començar» (Diari de Sabadell).",
       "itemId": "1ce8142c800c35d1"
+    },
+    {
+      "id": "2690cee908bb15b5",
+      "t": "2026-11-16T23:44:46.594Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Infopòdcast Sabadell 17.11.26» (Ràdio Sabadell).",
+      "itemId": "75288a0eb35c5414"
     }
   ],
-  "actualizado": "2026-11-16T21:19:21.159Z"
+  "actualizado": "2026-11-16T23:45:00.216Z"
 }
