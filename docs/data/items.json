@@ -104,6 +104,44 @@
   },
   "items": [
     {
+      "id": "a7c406b5938d406f",
+      "titulo": "La màgia de votar per primera vegada",
+      "enlace": "https://www.lactual.cat/actualitat/magia-votar-primera-vegada_55385_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-16T16:03:53.000Z",
+      "detectado": "2026-11-16T16:30:39.423Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "1cad34723971a7d8",
+      "titulo": "Últims dies per sol·licitar el vot per correu",
+      "enlace": "https://www.lactual.cat/actualitat/ultims-dies-sollicitar-vot-correu_55386_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-16T15:29:16.000Z",
+      "detectado": "2026-11-16T16:30:39.423Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "73cc157e162abb36",
       "titulo": "\"Ha costat gairebé un any\": veïns de Sabadell recuperen els diners de factures de llum de fins a 900 euros",
       "enlace": "https://www.diaridesabadell.com/sabadell/veins-sabadell-factures-llum-900-euros.html",
@@ -1016,6 +1054,29 @@
       "propuesta": false
     },
     {
+      "id": "e45bba93e946b973",
+      "titulo": "La Fundació per la Indústria incorpora cinc nous patrons",
+      "enlace": "https://www.isabadell.cat/sabadell/economia/empresa/la-fundacio-per-la-industria-incorpora-cinc-nous-patrons-340904/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-16T08:00:00.000Z",
+      "detectado": "2026-11-16T16:30:39.423Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "d673de19409e7bc7",
       "titulo": "Salvador Illa, president: \"Podem fer arribar la Ronda Vallès fins a la Roca amb la màxima sostenibilitat\"",
       "enlace": "https://radiosabadell.fm/podcast/noticies-mati-illa-generalitat-sabadell-161126",
@@ -1117,6 +1178,30 @@
       "propuesta": false
     },
     {
+      "id": "691373767d89b76a",
+      "titulo": "Com triar una sala de vetlla",
+      "enlace": "https://www.isabadell.cat/contingut-patrocinat/com-triar-una-sala-de-vetlla-340910/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-16T05:00:00.000Z",
+      "detectado": "2026-11-16T16:30:39.423Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica",
+        "salud"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "política local, salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
       "id": "a872d23b5850c86e",
       "titulo": "L’Ajuntament obre el termini per sol·licitar els ajuts de menjador social i d’àpats a domicili per a l’any 2027",
       "enlace": "https://www.staperpetua.cat/actualitat/noticies/lajuntament-obre-el-termini-per-sollicitar-els-ajuts-de-menjador-social-i-dapats-a-domicili-per-a-lany-2027.html",
@@ -1203,5 +1288,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-16T14:51:08.826Z"
+  "actualizado": "2026-11-16T16:31:00.282Z"
 }

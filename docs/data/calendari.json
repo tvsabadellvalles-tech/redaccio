@@ -2,7 +2,7 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-16T14:50:53.649Z",
+  "consultat": "2026-11-16T16:30:39.423Z",
   "total": 19,
   "activitats": [
     {
@@ -13,16 +13,16 @@
       "color": null
     },
     {
-      "titol": "JM LX RETOC DE COLOR EN VÍDEO",
+      "titol": "Protagonistes",
       "inici": "2026-11-16T09:00:00.000Z",
-      "final": "2026-11-16T12:00:00.000Z",
+      "final": "2026-11-16T10:00:00.000Z",
       "totElDia": false,
       "color": null
     },
     {
-      "titol": "Protagonistes",
+      "titol": "JM LX RETOC DE COLOR EN VÍDEO",
       "inici": "2026-11-16T09:00:00.000Z",
-      "final": "2026-11-16T10:00:00.000Z",
+      "final": "2026-11-16T12:00:00.000Z",
       "totElDia": false,
       "color": null
     },
@@ -140,5 +140,5 @@
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-16T14:51:30.148Z"
+  "actualizado": "2026-11-16T16:31:21.667Z"
 }

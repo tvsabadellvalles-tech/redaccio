@@ -2,7 +2,7 @@
   "fuentes": {
     "isabadell": {
       "ok": true,
-      "items": 3
+      "items": 5
     },
     "radio-sabadell": {
       "ok": true,
@@ -22,7 +22,7 @@
     },
     "ayto-castellar": {
       "ok": true,
-      "items": 3
+      "items": 5
     },
     "ayto-sentmenat": {
       "ok": true,
@@ -81,6 +81,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-16T14:50:53.649Z",
-  "actualizado": "2026-11-16T14:51:08.827Z"
+  "consultat": "2026-11-16T16:30:39.423Z",
+  "actualizado": "2026-11-16T16:31:00.284Z"
 }

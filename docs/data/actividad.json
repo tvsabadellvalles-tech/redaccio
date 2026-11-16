@@ -1,55 +1,6 @@
 {
   "eventos": [
     {
-      "id": "e9345fa1e6dad017",
-      "t": "2026-11-11T13:23:32.550Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat.",
-      "itemId": "41edcaf1695f4630"
-    },
-    {
-      "id": "f9861a353516d459",
-      "t": "2026-11-11T13:23:32.552Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat.",
-      "itemId": "a4e5bef10d90b82e"
-    },
-    {
-      "id": "d69541e0f5b4b325",
-      "t": "2026-11-11T13:23:32.553Z",
-      "agente": "rastreador",
-      "texto": "He recollit «L'Ajuntament xifra en un 22% el seguiment de la vaga general als serveis municipals» (Ràdio Sabadell).",
-      "itemId": "aeb2c97c7b1e3029"
-    },
-    {
-      "id": "6f59bce8e15e981c",
-      "t": "2026-11-11T13:23:32.554Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat, Successos.",
-      "itemId": "aeb2c97c7b1e3029"
-    },
-    {
-      "id": "3986f4fc9b0fa03b",
-      "t": "2026-11-11T13:23:32.555Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): mobilitat, successos.",
-      "itemId": "aeb2c97c7b1e3029"
-    },
-    {
-      "id": "aea011412bc2754e",
-      "t": "2026-11-11T13:23:32.556Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Un accidentat matí per sortir de Castellar aquest 11-N» (Diari de Sabadell).",
-      "itemId": "9c052c3a77f6cb0a"
-    },
-    {
-      "id": "7ef9b19b18ef19b6",
-      "t": "2026-11-11T13:23:32.557Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Successos.",
-      "itemId": "9c052c3a77f6cb0a"
-    },
-    {
       "id": "c5ce72197e580aec",
       "t": "2026-11-11T13:23:32.558Z",
       "agente": "rastreador",
@@ -2799,7 +2750,56 @@
       "agente": "rastreador",
       "texto": "He recollit «\"Ha costat gairebé un any\": veïns de Sabadell recuperen els diners de factures de llum de fins a 900 euros» (Diari de Sabadell).",
       "itemId": "73cc157e162abb36"
+    },
+    {
+      "id": "baa7c5ceb3c0f78f",
+      "t": "2026-11-16T16:30:39.423Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Com triar una sala de vetlla» (iSabadell).",
+      "itemId": "691373767d89b76a"
+    },
+    {
+      "id": "d3ddd82235aa9d17",
+      "t": "2026-11-16T16:30:39.424Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local, Salut.",
+      "itemId": "691373767d89b76a"
+    },
+    {
+      "id": "cbc23d93c58463ae",
+      "t": "2026-11-16T16:30:39.425Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): política local, salut.",
+      "itemId": "691373767d89b76a"
+    },
+    {
+      "id": "0aed3712ea992f9e",
+      "t": "2026-11-16T16:30:39.426Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La Fundació per la Indústria incorpora cinc nous patrons» (iSabadell).",
+      "itemId": "e45bba93e946b973"
+    },
+    {
+      "id": "95cf39ef9b4d066a",
+      "t": "2026-11-16T16:30:39.427Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local.",
+      "itemId": "e45bba93e946b973"
+    },
+    {
+      "id": "3123dda868fee90b",
+      "t": "2026-11-16T16:30:39.428Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Últims dies per sol·licitar el vot per correu» (L'Actual - Castellar del Vallès).",
+      "itemId": "1cad34723971a7d8"
+    },
+    {
+      "id": "19cc60357af55429",
+      "t": "2026-11-16T16:30:39.429Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La màgia de votar per primera vegada» (L'Actual - Castellar del Vallès).",
+      "itemId": "a7c406b5938d406f"
     }
   ],
-  "actualizado": "2026-11-16T14:51:08.830Z"
+  "actualizado": "2026-11-16T16:31:00.285Z"
 }
