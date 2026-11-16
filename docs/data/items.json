@@ -446,6 +446,27 @@
       "propuesta": false
     },
     {
+      "id": "1ce8142c800c35d1",
+      "titulo": "La millor setmana per ser elPetit de casa acaba de començar",
+      "enlace": "https://www.diaridesabadell.com/oci-cultura/festival-elpetit-sabadell-2026.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-16T12:57:33.000Z",
+      "detectado": "2026-11-16T21:19:06.428Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "143f732a89a2220e",
       "titulo": "Un dispositiu per trobar 'El Ruso' obliga a tallar la circulació de la línia R4 de Rodalies",
       "enlace": "https://www.diaridesabadell.com/valles/montcada/dispositiu-ruso-assassinat-ovideo-guardia-civil-rodalies-r4.html",
@@ -1435,5 +1456,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-16T20:27:06.491Z"
+  "actualizado": "2026-11-16T21:19:21.155Z"
 }

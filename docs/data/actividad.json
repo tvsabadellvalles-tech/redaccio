@@ -1,13 +1,6 @@
 {
   "eventos": [
     {
-      "id": "ec97d67e17e4b1a3",
-      "t": "2026-11-11T16:04:47.453Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Adeu a l'històric membre del CEC Josep Sors Badia» (L'Actual - Castellar del Vallès).",
-      "itemId": "31d4c566e0027d3f"
-    },
-    {
       "id": "45c27c04d42e49d1",
       "t": "2026-11-11T16:04:47.454Z",
       "agente": "rastreador",
@@ -2799,7 +2792,14 @@
       "agente": "rastreador",
       "texto": "He recollit «Tribuna Preferent 26-27 #10 (215): Una altra derrota a fora... i un altre lesionat» (Ràdio Sabadell).",
       "itemId": "885d0781336cbcf3"
+    },
+    {
+      "id": "5b0980b9382ab227",
+      "t": "2026-11-16T21:19:06.428Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La millor setmana per ser elPetit de casa acaba de començar» (Diari de Sabadell).",
+      "itemId": "1ce8142c800c35d1"
     }
   ],
-  "actualizado": "2026-11-16T20:27:06.494Z"
+  "actualizado": "2026-11-16T21:19:21.159Z"
 }
