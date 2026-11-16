@@ -1,13 +1,6 @@
 {
   "eventos": [
     {
-      "id": "561c713776bb6e04",
-      "t": "2026-11-10T13:55:07.137Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Consulta els serveis mínims de l'11-N a Sabadell» (Ràdio Sabadell).",
-      "itemId": "1c9f90432741ffc4"
-    },
-    {
       "id": "40bd455586c841b1",
       "t": "2026-11-10T13:55:07.138Z",
       "agente": "etiquetador",
@@ -2799,7 +2792,14 @@
       "agente": "rastreador",
       "texto": "He recollit «Infopòdcast Sabadell 16.11.26» (Ràdio Sabadell).",
       "itemId": "0ebeaa43cf9b250d"
+    },
+    {
+      "id": "6e405931c068e89b",
+      "t": "2026-11-16T06:37:50.808Z",
+      "agente": "rastreador",
+      "texto": "La font «Ajuntament de Cerdanyola del Vallès» no respon (terminated).",
+      "itemId": null
     }
   ],
-  "actualizado": "2026-11-15T23:16:50.450Z"
+  "actualizado": "2026-11-16T06:38:12.303Z"
 }
