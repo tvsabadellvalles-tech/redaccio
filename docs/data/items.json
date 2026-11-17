@@ -104,6 +104,95 @@
   },
   "items": [
     {
+      "id": "01833dd99a5dc8a8",
+      "titulo": "‘La Sireneta’ s’acomiada després de 14.000 espectadors en tres temporades",
+      "enlace": "https://www.isabadell.cat/cultura/arts-esceniques/la-sireneta-sacomiada-despres-de-14-000-espectadors-en-tres-temporades-340929/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-17T11:38:17.000Z",
+      "detectado": "2026-11-17T11:40:06.457Z",
+      "sensible": false,
+      "etiquetas": [
+        "economia"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "economia i ocupació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "ad2d3abc78a2ae5f",
+      "titulo": "Descarten que l’home vist a Manresa fos el fugitiu d’Oviedo",
+      "enlace": "https://www.isabadell.cat/successos/descarten-que-lhome-vist-a-manresa-fos-el-fugitiu-doviedo-340939/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-17T11:35:58.000Z",
+      "detectado": "2026-11-17T11:40:06.457Z",
+      "sensible": false,
+      "etiquetas": [
+        "sucesos"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "successos"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "54e8cebc42179308",
+      "titulo": "Acte d'ERC per a les eleccions generals",
+      "enlace": "https://www.lactual.cat/actualitat/acte-erc-eleccions-generals_55389_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-17T11:34:47.000Z",
+      "detectado": "2026-11-17T11:40:06.457Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "0d0a9059f4abca7f",
+      "titulo": "Detingut per l’incendi de diversos contenidors a Can Puiggener",
+      "enlace": "https://www.isabadell.cat/successos/detingut-per-lincendi-de-diversos-contenidors-a-can-puiggener-340930/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-17T11:14:58.000Z",
+      "detectado": "2026-11-17T11:40:06.457Z",
+      "sensible": true,
+      "etiquetas": [
+        "emergencias",
+        "sucesos"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "emergències, successos"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
       "id": "e01a45fc89992fb5",
       "titulo": "Joan Morera, director Conservatori: \"El concert de Santa Cecília és el primer del curs\"",
       "enlace": "https://radiosabadell.fm/podcast/noticies-mati-conservatori-santa-cecilia-171126",
@@ -717,7 +806,28 @@
       ],
       "duplicadaDe": null,
       "propuesta": true
+    },
+    {
+      "id": "a22db234807121c7",
+      "titulo": "L’Ajuntament commemora el Dia Internacional de les Persones amb Discapacitat 2026 amb activitats inclusives i de sensibilització",
+      "enlace": "https://www.montcada.cat/actualitat/noticies/lajuntament-commemora-el-dia-internacional-de-les-persones-amb-discapacitat-2026-amb-activitats-inclusives-i-de-sensibilitzacio.html",
+      "fuente": "ayto-montcada",
+      "fuenteNombre": "Ajuntament de Montcada i Reixac",
+      "tipo": "oficial",
+      "resumen": "",
+      "municipio": "montcada",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-16T23:00:00.000Z",
+      "detectado": "2026-11-17T11:40:06.457Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
     }
   ],
-  "actualizado": "2026-11-17T11:05:55.067Z"
+  "actualizado": "2026-11-17T11:40:35.583Z"
 }
