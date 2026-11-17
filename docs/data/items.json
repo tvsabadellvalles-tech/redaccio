@@ -104,6 +104,125 @@
   },
   "items": [
     {
+      "id": "3103799746dff761",
+      "titulo": "Cerdanyola presentarà la programació de Nadal el 17 de novembre",
+      "enlace": "http://www.cerdanyola.cat/actualitat/cerdanyola-presentara-la-programacio-de-nadal-el-17-de-novembre",
+      "fuente": "ayto-cerdanyola",
+      "fuenteNombre": "Ajuntament de Cerdanyola del Vallès",
+      "tipo": "oficial",
+      "resumen": "Cerdanyola presentarà la programació de Nadal el 17 de novembre Cerdanyola ja es prepara per viure un nou Nadal ple de llum, música, espectacles i activitats per a tots els públics. El proper dimarts 17 de novembre, a les 19 h,…",
+      "municipio": "cerdanyola",
+      "municipiosMencionados": [
+        "cerdanyola"
+      ],
+      "publicado": "2026-11-17T16:00:16.000Z",
+      "detectado": "2026-11-17T16:05:06.125Z",
+      "sensible": true,
+      "etiquetas": [
+        "politica",
+        "economia",
+        "deportes",
+        "cultura"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "font oficial",
+        "política local, economia i ocupació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "18a84653cc713112",
+      "titulo": "El Servei de Primera Acollida entrega els certificats",
+      "enlace": "https://www.lactual.cat/actualitat/servei-primera-acollida-entrega-certificats_55394_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-17T15:57:01.000Z",
+      "detectado": "2026-11-17T16:05:06.125Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "5611644f84243e0c",
+      "titulo": "El CE Sabadell debuta a la Copa del Rei: tercer intent",
+      "enlace": "https://www.diaridesabadell.com/esports/utebo-centre-esports-sabadell-copa-del-rei-eliminatoria-previa-debut.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-17T15:31:41.000Z",
+      "detectado": "2026-11-17T16:05:06.125Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "29429ac59804c969",
+      "titulo": "El Natació Sabadell, nou cuer de la Segona 'B': \"És qüestió de dinàmiques\"",
+      "enlace": "https://radiosabadell.fm/esports/futbol-sala/natacio-sabadell-palma-nou-cuer-segona-b-futbol-sala",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-17T15:17:21.000Z",
+      "detectado": "2026-11-17T16:05:06.125Z",
+      "sensible": false,
+      "etiquetas": [
+        "salud",
+        "educacion",
+        "deportes"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "salut, educació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "e25918ac7a0388ce",
+      "titulo": "El PSC denuncia atacs vandàlics contra els cartells electorals del 29-N a Sant Quirze",
+      "enlace": "https://www.diaridesabadell.com/valles/sant-quirze/campanya-electoral-vandalisme-psc-denuncia-sant-quirze.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sant-quirze"
+      ],
+      "publicado": "2026-11-17T15:15:09.000Z",
+      "detectado": "2026-11-17T16:05:06.125Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "e25df8c538f9dfd3",
       "titulo": "Castellar alça la veu contra la violència vers les dones",
       "enlace": "https://www.lactual.cat/actualitat/castellar-alca-veu-contra-violencia-vers-dones_55393_102.html",
@@ -184,6 +303,32 @@
       ],
       "puntuacion": 0,
       "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "a74b90d3d1012cf8",
+      "titulo": "Sabadell té potencial per construir nous habitatges, però cal transformar-lo en pisos disponibles",
+      "enlace": "https://radiosabadell.fm/actualitat/economia/sabadell-potencial-construir-nous-habitatges-",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-17T13:28:46.000Z",
+      "detectado": "2026-11-17T16:05:06.125Z",
+      "sensible": false,
+      "etiquetas": [
+        "urbanismo",
+        "economia"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "obres i urbanisme, economia i ocupació"
+      ],
       "duplicadaDe": null,
       "propuesta": false
     },
@@ -1249,5 +1394,5 @@
       "propuesta": true
     }
   ],
-  "actualizado": "2026-11-17T15:09:49.689Z"
+  "actualizado": "2026-11-17T16:05:24.969Z"
 }
