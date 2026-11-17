@@ -1,13 +1,6 @@
 {
   "eventos": [
     {
-      "id": "566f144b66af7b70",
-      "t": "2026-11-12T18:14:26.040Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local, Medi ambient, Esports, Cultura i festes.",
-      "itemId": "0b958870c51051f4"
-    },
-    {
       "id": "53964d35b0fcb17e",
       "t": "2026-11-12T18:14:26.041Z",
       "agente": "mesa",
@@ -2799,7 +2792,14 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Cultura i festes.",
       "itemId": "ef317873fa36718a"
+    },
+    {
+      "id": "462ea81c766e074b",
+      "t": "2026-11-17T15:09:28.598Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Castellar alça la veu contra la violència vers les dones» (L'Actual - Castellar del Vallès).",
+      "itemId": "e25df8c538f9dfd3"
     }
   ],
-  "actualizado": "2026-11-17T14:51:28.670Z"
+  "actualizado": "2026-11-17T15:09:49.693Z"
 }
