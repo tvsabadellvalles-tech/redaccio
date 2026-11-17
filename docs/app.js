@@ -2,6 +2,8 @@
 
 const params = new URLSearchParams(location.search);
 const carpetaDatos = params.get('datos') ? `data/${params.get('datos').replace(/[^a-z0-9_-]/gi, '')}` : 'data';
+// Incrementa aquesta versió juntament amb docs/version.json i els paràmetres ?v= de docs/index.html en cada publicació.
+const VERSIO_APP = '2026.11.17.1';
 const REFRESCO_MS = 60000;
 const ANTIGUITAT_MAXIMA_SERVEIS_MS = 10 * 60 * 1000;
 const ANTIGUITAT_MAXIMA_DADES_MS = 45 * 60 * 1000;
@@ -723,6 +725,32 @@ async function jsonOpcional(url) {
   }
 }
 
+let comprovacioVersioEnCurs = false;
+
+async function comprovarNovaVersio() {
+  if (comprovacioVersioEnCurs || document.hidden) return;
+  comprovacioVersioEnCurs = true;
+  try {
+    const urlVersio = new URL('version.json', import.meta.url);
+    urlVersio.searchParams.set('_', String(Date.now()));
+    const resposta = await fetch(urlVersio, { cache: 'no-store' });
+    if (!resposta.ok) return;
+    const publicada = String((await resposta.json())?.version || '').trim();
+    if (!publicada || publicada === VERSIO_APP) return;
+
+    // Evita un bucle de recàrregues si la publicació encara s'està propagant per la CDN.
+    const urlPagina = new URL(location.href);
+    if (urlPagina.searchParams.get('_actualitza') === publicada) return;
+    urlPagina.searchParams.set('_actualitza', publicada);
+    urlPagina.searchParams.set('_', String(Date.now()));
+    location.replace(urlPagina.href);
+  } catch (error) {
+    console.warn('No s’ha pogut comprovar si hi ha una nova versió.', error);
+  } finally {
+    comprovacioVersioEnCurs = false;
+  }
+}
+
 async function carregar() {
   const [items, estat, serveis, calendari] = await Promise.all([
     jsonOpcional(`${carpetaDatos}/items.json`),
@@ -810,6 +838,8 @@ function iniciarStreaming() {
 actualitzarRellotge();
 setInterval(actualitzarRellotge, 1000);
 carregar();
+comprovarNovaVersio();
+setInterval(comprovarNovaVersio, REFRESCO_MS);
 iniciarStreaming();
 setInterval(() => {
   if (document.hidden) return;
@@ -822,6 +852,7 @@ setInterval(() => {
 document.addEventListener('visibilitychange', () => {
   if (!document.hidden) {
     carregar();
+    comprovarNovaVersio();
   }
 });
 window.addEventListener('resize', renderNoticies);
