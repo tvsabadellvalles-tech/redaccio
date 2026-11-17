@@ -104,6 +104,52 @@
   },
   "items": [
     {
+      "id": "c9a97ee3f9088cc8",
+      "titulo": "Novetats en la tradicional Exposició de Pessebres de Sabadell",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/novetats-exposicio-pessebres-sabadell",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-17T11:44:47.000Z",
+      "detectado": "2026-11-17T12:24:29.126Z",
+      "sensible": false,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "cdd7dd1445874282",
+      "titulo": "Mar Pastor: \"És un 'thriller' dur, però ple de sentiments i emocions\"",
+      "enlace": "https://www.diaridesabadell.com/oci-cultura/mar-pastor-personas-normales.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-17T11:40:30.000Z",
+      "detectado": "2026-11-17T12:24:29.126Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "01833dd99a5dc8a8",
       "titulo": "‘La Sireneta’ s’acomiada després de 14.000 espectadors en tres temporades",
       "enlace": "https://www.isabadell.cat/cultura/arts-esceniques/la-sireneta-sacomiada-despres-de-14-000-espectadors-en-tres-temporades-340929/",
@@ -161,6 +207,25 @@
       "municipiosMencionados": [],
       "publicado": "2026-11-17T11:34:47.000Z",
       "detectado": "2026-11-17T11:40:06.457Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "f0b717fb2b2076a5",
+      "titulo": "L'I3PT estudiarà les aigües residuals hospitalàries i la sèpsia amb dos nous doctorats industrials",
+      "enlace": "https://www.diaridesabadell.com/sabadell/i3pt-tauli-doctorats-industrials-aigues-residuals-hospitalaries-sepsia-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-17T11:32:47.000Z",
+      "detectado": "2026-11-17T12:24:29.126Z",
       "sensible": false,
       "etiquetas": [],
       "puntuacion": 0,
@@ -829,5 +894,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-17T11:40:35.583Z"
+  "actualizado": "2026-11-17T12:24:48.656Z"
 }

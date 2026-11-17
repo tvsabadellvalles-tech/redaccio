@@ -1,41 +1,6 @@
 {
   "eventos": [
     {
-      "id": "f1ff45ca5973cd42",
-      "t": "2026-11-12T13:47:47.540Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local.",
-      "itemId": "a771c545cc9f8968"
-    },
-    {
-      "id": "e7a4dab3a8ce87f3",
-      "t": "2026-11-12T13:47:47.541Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Nil Altesa Pardo, un exemple de lluita contra les malalties rares» (L'Actual - Castellar del Vallès).",
-      "itemId": "4187b74922d918ef"
-    },
-    {
-      "id": "b72d7b1fc852bd0b",
-      "t": "2026-11-12T13:47:47.542Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Debat de portaveus sobre l'aprovació del pressupost municipal per al 2027» (Ràdio Sabadell).",
-      "itemId": "e6c73757e4de4936"
-    },
-    {
-      "id": "66f8ad0a141acdc1",
-      "t": "2026-11-12T13:47:47.543Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local.",
-      "itemId": "e6c73757e4de4936"
-    },
-    {
-      "id": "590374c449e6e62c",
-      "t": "2026-11-12T13:47:47.544Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Tall nocturn per les obres d’arranjament de la barana del pont de la C-58» (Ajuntament de Sant Quirze del Vallès).",
-      "itemId": "68c46f9ec0a9b70b"
-    },
-    {
       "id": "1e5d714e4b0d43a7",
       "t": "2026-11-12T13:47:47.545Z",
       "agente": "etiquetador",
@@ -2799,7 +2764,42 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Economia i ocupació.",
       "itemId": "01833dd99a5dc8a8"
+    },
+    {
+      "id": "27e2c799bf1d8db6",
+      "t": "2026-11-17T12:24:29.126Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L'I3PT estudiarà les aigües residuals hospitalàries i la sèpsia amb dos nous doctorats industrials» (Diari de Sabadell).",
+      "itemId": "f0b717fb2b2076a5"
+    },
+    {
+      "id": "01288f195d9cabe0",
+      "t": "2026-11-17T12:24:29.127Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Mar Pastor: \"És un 'thriller' dur, però ple de sentiments i emocions\"» (Diari de Sabadell).",
+      "itemId": "cdd7dd1445874282"
+    },
+    {
+      "id": "5b453e977bcef6f0",
+      "t": "2026-11-17T12:24:29.128Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local.",
+      "itemId": "cdd7dd1445874282"
+    },
+    {
+      "id": "e927bbf65fa4d0a9",
+      "t": "2026-11-17T12:24:29.129Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Novetats en la tradicional Exposició de Pessebres de Sabadell» (Ràdio Sabadell).",
+      "itemId": "c9a97ee3f9088cc8"
+    },
+    {
+      "id": "b8d3e9ea1a871004",
+      "t": "2026-11-17T12:24:29.130Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "c9a97ee3f9088cc8"
     }
   ],
-  "actualizado": "2026-11-17T11:40:35.586Z"
+  "actualizado": "2026-11-17T12:24:48.659Z"
 }
