@@ -2,8 +2,8 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-17T22:09:41.280Z",
-  "total": 18,
+  "consultat": "2026-11-17T23:02:03.969Z",
+  "total": 19,
   "activitats": [
     {
       "titol": "LORENA NO HI ÉS",
@@ -13,59 +13,17 @@
       "color": null
     },
     {
-      "titol": "CX - NEX Matí (Vaga Rodalies)",
-      "inici": "2026-11-17T07:45:00.000Z",
-      "final": "2026-11-17T08:00:00.000Z",
-      "totElDia": false,
+      "titol": "BERTA NO VE",
+      "inici": "2026-11-19T00:00:00.000Z",
+      "final": "2026-11-20T00:00:00.000Z",
+      "totElDia": true,
       "color": null
     },
     {
-      "titol": "Cambra de comerç: tema habitatge",
-      "inici": "2026-11-17T08:00:00.000Z",
-      "final": "2026-11-17T10:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "(Becaris) Papus GTA VI",
-      "inici": "2026-11-17T09:00:00.000Z",
-      "final": "2026-11-17T10:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "COTXE! (Ferran) VIA15 Decles i recursos aeroclub",
-      "inici": "2026-11-17T10:45:00.000Z",
-      "final": "2026-11-17T11:45:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "Connecta't",
-      "inici": "2026-11-17T12:00:00.000Z",
-      "final": "2026-11-17T14:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "Rdp Ferran Costa",
-      "inici": "2026-11-17T13:00:00.000Z",
-      "final": "2026-11-17T14:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "L'Informatiu",
-      "inici": "2026-11-17T15:00:00.000Z",
-      "final": "2026-11-17T16:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "(Ferran) CX - VIA 15 (Actualitat)",
-      "inici": "2026-11-17T17:00:00.000Z",
-      "final": "2026-11-17T18:00:00.000Z",
-      "totElDia": false,
+      "titol": "Ferran metge (9.30)",
+      "inici": "2026-11-19T00:00:00.000Z",
+      "final": "2026-11-20T00:00:00.000Z",
+      "totElDia": true,
       "color": null
     },
     {
@@ -130,8 +88,57 @@
       "final": "2026-11-18T19:00:00.000Z",
       "totElDia": false,
       "color": null
+    },
+    {
+      "titol": "Comercial Reini",
+      "inici": "2026-11-19T11:00:00.000Z",
+      "final": "2026-11-19T11:30:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "Rdp jugador CES",
+      "inici": "2026-11-19T12:15:00.000Z",
+      "final": "2026-11-19T13:15:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "En Primera Persona",
+      "inici": "2026-11-19T14:15:00.000Z",
+      "final": "2026-11-19T15:15:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "L'Informatiu",
+      "inici": "2026-11-19T15:00:00.000Z",
+      "final": "2026-11-19T16:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "Ent. info Omnium",
+      "inici": "2026-11-19T15:15:00.000Z",
+      "final": "2026-11-19T15:45:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "(FERRAN) CX - VIA 15 (Sota protecció)",
+      "inici": "2026-11-19T17:00:00.000Z",
+      "final": "2026-11-19T18:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "(Ferran) LÍMIT REEL VA DE MODA",
+      "inici": "2026-11-19T18:45:00.000Z",
+      "final": "2026-11-19T19:00:00.000Z",
+      "totElDia": false,
+      "color": null
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-17T22:10:23.531Z"
+  "actualizado": "2026-11-17T23:02:35.741Z"
 }

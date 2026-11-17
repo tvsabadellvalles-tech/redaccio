@@ -1,13 +1,6 @@
 {
   "eventos": [
     {
-      "id": "3ce7e49b1d5e3cb4",
-      "t": "2026-11-13T08:49:12.603Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Les comparses ja poden inscriure's a la 39a Gran Rua de Carnaval fins al 6 de desembre» (Ajuntament de Montcada i Reixac).",
-      "itemId": "f4f76e3a619f7f8f"
-    },
-    {
       "id": "4454ab3449291ef0",
       "t": "2026-11-13T08:49:12.604Z",
       "agente": "rastreador",
@@ -2799,7 +2792,14 @@
       "agente": "mesa",
       "texto": "Proposo incloure-ho a l'escaleta (5 punts): font oficial · política local, economia i ocupació, salut.",
       "itemId": "6698070bae409fd2"
+    },
+    {
+      "id": "e55184ee67c78fba",
+      "t": "2026-11-17T23:02:03.969Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Infopòdcast Sabadell 18.11.26» (Ràdio Sabadell).",
+      "itemId": "15076eb7496c30b2"
     }
   ],
-  "actualizado": "2026-11-17T20:17:08.238Z"
+  "actualizado": "2026-11-17T23:02:19.405Z"
 }
