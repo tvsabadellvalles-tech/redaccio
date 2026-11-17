@@ -1,69 +1,6 @@
 {
   "eventos": [
     {
-      "id": "2654b57e63eb9ecc",
-      "t": "2026-11-11T16:56:17.578Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Els joves, sobre la crisi de l'habitatge: \"Tinc una puta merda de sou i no puc pagar un lloguer digne\"» (Diari de Sabadell).",
-      "itemId": "34ff90143fe06569"
-    },
-    {
-      "id": "dd76adeb250f7975",
-      "t": "2026-11-11T16:56:17.579Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Obres i urbanisme.",
-      "itemId": "34ff90143fe06569"
-    },
-    {
-      "id": "2e78ca64a6291f33",
-      "t": "2026-11-11T16:56:17.580Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "34ff90143fe06569"
-    },
-    {
-      "id": "4fdee9d71f4586f9",
-      "t": "2026-11-11T16:56:17.581Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El nou Esclat de Castellar entra en funcionament aquest mes» (Diari de Sabadell).",
-      "itemId": "50a1c79215f564a6"
-    },
-    {
-      "id": "cc57bb0ec49aa198",
-      "t": "2026-11-11T18:34:55.967Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Palau al Dia - Notícies del 11/11/2026» (Ràdio Palau - Palau al Dia).",
-      "itemId": "b2e99a7615c75306"
-    },
-    {
-      "id": "c3ca124d92ae896b",
-      "t": "2026-11-11T19:36:16.661Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Continua la velocitat de creuer al CE Sant Nicolau: nova victòria a casa i assalt al lideratge de Super Copa» (Diari de Sabadell).",
-      "itemId": "c24a192da22fa3ca"
-    },
-    {
-      "id": "d67a61bcc402c448",
-      "t": "2026-11-11T19:36:16.662Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Comencen les obres de renovació del Paddock» (Diari de Sabadell).",
-      "itemId": "05720273a6169bfe"
-    },
-    {
-      "id": "073d24425e9bdf65",
-      "t": "2026-11-11T19:36:16.663Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Obres i urbanisme.",
-      "itemId": "05720273a6169bfe"
-    },
-    {
-      "id": "6a488b00f843116d",
-      "t": "2026-11-11T23:36:59.465Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Infopòdcast Sabadell 12.11.26» (Ràdio Sabadell).",
-      "itemId": "478cd7c828e77da8"
-    },
-    {
       "id": "3f87e68b8bc717c2",
       "t": "2026-11-12T07:59:05.024Z",
       "agente": "rastreador",
@@ -2799,7 +2736,70 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Mobilitat.",
       "itemId": "b14c61841d1fd880"
+    },
+    {
+      "id": "09e33662982947ce",
+      "t": "2026-11-17T08:52:50.126Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Descobrim la verdolaga» (Ràdio Sabadell).",
+      "itemId": "7ad265d6309ff220"
+    },
+    {
+      "id": "30ec78d6acdffd5a",
+      "t": "2026-11-17T08:52:50.127Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Entitats i Ajuntament de Sabadell reclamen aixecar les restriccions per la pesta porcina africana» (Diari de Sabadell).",
+      "itemId": "a51dbc955f25dbe3"
+    },
+    {
+      "id": "afc55d318536c87a",
+      "t": "2026-11-17T08:52:50.128Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El torrent de Colobrers, en espera d’obres a causa de les pluges de l'octubre» (Diari de Sabadell).",
+      "itemId": "44e7487ca4f37933"
+    },
+    {
+      "id": "317c2d08022766cd",
+      "t": "2026-11-17T08:52:50.129Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Obres i urbanisme.",
+      "itemId": "44e7487ca4f37933"
+    },
+    {
+      "id": "2a91ca840101b4f1",
+      "t": "2026-11-17T08:52:50.130Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Alumnes del Marta Mata i Pablo Picasso registren les seves cooperatives a l’OAE» (Ajuntament de Barberà del Vallès).",
+      "itemId": "bf77a3dc1bb566a2"
+    },
+    {
+      "id": "a3888a16ef6590e6",
+      "t": "2026-11-17T08:52:50.131Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Economia i ocupació, Educació, Cultura i festes.",
+      "itemId": "bf77a3dc1bb566a2"
+    },
+    {
+      "id": "0758d0d92e4d81b4",
+      "t": "2026-11-17T08:52:50.132Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · economia i ocupació, educació.",
+      "itemId": "bf77a3dc1bb566a2"
+    },
+    {
+      "id": "88fad8efccd7bec8",
+      "t": "2026-11-17T08:52:50.133Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La vaga ferroviària deixa Rodalies amb menys de la meitat dels trens previstos en els serveis mínims» (Diari de Sabadell).",
+      "itemId": "6230ad5e0cfd0a7d"
+    },
+    {
+      "id": "a314ee3c574d3178",
+      "t": "2026-11-17T08:52:50.134Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat.",
+      "itemId": "6230ad5e0cfd0a7d"
     }
   ],
-  "actualizado": "2026-11-17T08:00:21.051Z"
+  "actualizado": "2026-11-17T08:53:06.637Z"
 }

@@ -104,6 +104,118 @@
   },
   "items": [
     {
+      "id": "6230ad5e0cfd0a7d",
+      "titulo": "La vaga ferroviària deixa Rodalies amb menys de la meitat dels trens previstos en els serveis mínims",
+      "enlace": "https://www.diaridesabadell.com/sabadell/vaga-trens-rodalies-r4-serveis-minims-incomplerts.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-17T08:21:19.000Z",
+      "detectado": "2026-11-17T08:52:50.126Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "mobilitat"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "bf77a3dc1bb566a2",
+      "titulo": "Alumnes del Marta Mata i Pablo Picasso registren les seves cooperatives a l’OAE",
+      "enlace": "https://www.bdv.cat/noticies/alumnes-del-marta-mata-i-pablo-picasso-registren-les-seves-cooperatives-loae",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "Aquestes escoles participen en el projecte CUEME (CUltura EMprenedora a l’Escola) amb l’objectiu de fomentar l’economia social i solidària al municipi. L’alumnat de 5è i 6è de primària de les escoles Marta Mata i Pablo Picasso ja han…",
+      "municipio": "barbera",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-17T08:11:00.000Z",
+      "detectado": "2026-11-17T08:52:50.126Z",
+      "sensible": false,
+      "etiquetas": [
+        "economia",
+        "educacion",
+        "cultura"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "font oficial",
+        "economia i ocupació, educació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "44e7487ca4f37933",
+      "titulo": "El torrent de Colobrers, en espera d’obres a causa de les pluges de l'octubre",
+      "enlace": "https://www.diaridesabadell.com/sabadell/torrent-colobrers-pendent-obres-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-17T08:05:30.000Z",
+      "detectado": "2026-11-17T08:52:50.126Z",
+      "sensible": false,
+      "etiquetas": [
+        "urbanismo"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "a51dbc955f25dbe3",
+      "titulo": "Entitats i Ajuntament de Sabadell reclamen aixecar les restriccions per la pesta porcina africana",
+      "enlace": "https://www.diaridesabadell.com/sabadell/reclamen-aixecar-restriccions-pesta-porcina-africana-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-17T08:04:59.000Z",
+      "detectado": "2026-11-17T08:52:50.126Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "7ad265d6309ff220",
+      "titulo": "Descobrim la verdolaga",
+      "enlace": "https://radiosabadell.fm/podcast/fils-ciutat-tothom-taula-verdolega-171126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-17T07:43:33.000Z",
+      "detectado": "2026-11-17T08:52:50.126Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "b14c61841d1fd880",
       "titulo": "Vaga de maquinistes: cancel·lacions a Rodalies",
       "enlace": "https://www.isabadell.cat/societat/mobilitat/vaga-de-maquinistes-cancellacions-a-rodalies-340924/",
@@ -173,5 +285,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-17T08:00:21.048Z"
+  "actualizado": "2026-11-17T08:53:06.634Z"
 }
