@@ -104,6 +104,25 @@
   },
   "items": [
     {
+      "id": "18a84653cc713112",
+      "titulo": "El Servei de Primera Acollida entrega els certificats",
+      "enlace": "https://www.lactual.cat/actualitat/servei-primera-acollida-entrega-certificats_55394_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-17T16:50:59.000Z",
+      "detectado": "2026-11-17T16:05:06.125Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "3103799746dff761",
       "titulo": "Cerdanyola presentarà la programació de Nadal el 17 de novembre",
       "enlace": "http://www.cerdanyola.cat/actualitat/cerdanyola-presentara-la-programacio-de-nadal-el-17-de-novembre",
@@ -131,25 +150,6 @@
       ],
       "duplicadaDe": null,
       "propuesta": true
-    },
-    {
-      "id": "18a84653cc713112",
-      "titulo": "El Servei de Primera Acollida entrega els certificats",
-      "enlace": "https://www.lactual.cat/actualitat/servei-primera-acollida-entrega-certificats_55394_102.html",
-      "fuente": "ayto-castellar",
-      "fuenteNombre": "L'Actual - Castellar del Vallès",
-      "tipo": "medio",
-      "resumen": "",
-      "municipio": "castellar",
-      "municipiosMencionados": [],
-      "publicado": "2026-11-17T15:57:01.000Z",
-      "detectado": "2026-11-17T16:05:06.125Z",
-      "sensible": false,
-      "etiquetas": [],
-      "puntuacion": 0,
-      "motivos": [],
-      "duplicadaDe": null,
-      "propuesta": false
     },
     {
       "id": "5611644f84243e0c",
@@ -1394,5 +1394,5 @@
       "propuesta": true
     }
   ],
-  "actualizado": "2026-11-17T16:05:24.969Z"
+  "actualizado": "2026-11-17T17:09:12.253Z"
 }
