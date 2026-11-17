@@ -104,6 +104,98 @@
   },
   "items": [
     {
+      "id": "d452b252582517be",
+      "titulo": "La nova vaga a Rodalies castiga els usuaris de Sabadell: \"Sentim impotència\"",
+      "enlace": "https://www.diaridesabadell.com/sabadell/vaga-rodalies-usuaris-sabadell-impotencia.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-17T12:53:27.000Z",
+      "detectado": "2026-11-17T12:56:41.858Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "mobilitat"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "91a42a0d2daaae4e",
+      "titulo": "Les famílies a la Generalitat: \"Els nostres fills s’estan quedant sense sortides i cal que es resolgui\"",
+      "enlace": "https://www.diaridesabadell.com/sabadell/families-generalitat-sortides-excursions-colonies-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-17T12:46:09.000Z",
+      "detectado": "2026-11-17T12:56:41.858Z",
+      "sensible": false,
+      "etiquetas": [
+        "educacion"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "educació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "d7ae3bafb2b4170a",
+      "titulo": "El festival Observa confirma els Catarres, Joan Dausà i Lildami",
+      "enlace": "https://www.diaridesabadell.com/oci-cultura/festival-observa-parc-lildami-catarres-joan-dausa.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-17T12:18:06.000Z",
+      "detectado": "2026-11-17T12:56:41.858Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "12fd36f5277fa199",
+      "titulo": "Ja es poden fer les inscripcions a la I Cursa Antiracista de Santa Perpètua",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/ja-es-poden-fer-les-inscripcions-a-la-i-cursa-antiracista-de-santa-perpetua.html",
+      "fuente": "ayto-santa-perpetua",
+      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
+      "tipo": "oficial",
+      "resumen": "L'Ajuntament de Santa Perpètua de Mogoda ha obert avui les inscripcions per a la primera Cursa Antiracista que tindrà lloc el 20 de desembre a les 10 h.",
+      "municipio": "santa-perpetua",
+      "municipiosMencionados": [
+        "santa-perpetua"
+      ],
+      "publicado": "2026-11-17T12:00:00.000Z",
+      "detectado": "2026-11-17T12:56:41.858Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "c9a97ee3f9088cc8",
       "titulo": "Novetats en la tradicional Exposició de Pessebres de Sabadell",
       "enlace": "https://radiosabadell.fm/actualitat/societat/novetats-exposicio-pessebres-sabadell",
@@ -892,7 +984,28 @@
       ],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "afb516191e8efce4",
+      "titulo": "Inscriu-te al taller d'alimentaci� saludable i cuina en fam�lia!",
+      "enlace": "http://www.badiadelvalles.cat/document.php?id=12329",
+      "fuente": "ayto-badia",
+      "fuenteNombre": "Ajuntament de Badia del Vallès",
+      "tipo": "oficial",
+      "resumen": "",
+      "municipio": "badia",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-16T23:00:00.000Z",
+      "detectado": "2026-11-17T12:56:41.858Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
     }
   ],
-  "actualizado": "2026-11-17T12:24:48.656Z"
+  "actualizado": "2026-11-17T12:56:53.302Z"
 }

@@ -1,55 +1,6 @@
 {
   "eventos": [
     {
-      "id": "1e5d714e4b0d43a7",
-      "t": "2026-11-12T13:47:47.545Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat, Obres i urbanisme.",
-      "itemId": "68c46f9ec0a9b70b"
-    },
-    {
-      "id": "0a543dac4b4465e4",
-      "t": "2026-11-12T13:47:47.546Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): font oficial · mobilitat, obres i urbanisme.",
-      "itemId": "68c46f9ec0a9b70b"
-    },
-    {
-      "id": "642af8a5126d9fcf",
-      "t": "2026-11-12T13:47:47.547Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Francesc Bellmunt presenta 'Via morta' a l'Espai Foc» (Ràdio Sabadell).",
-      "itemId": "518a0631c407b0ca"
-    },
-    {
-      "id": "c066215fe348a192",
-      "t": "2026-11-12T13:47:47.548Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "518a0631c407b0ca"
-    },
-    {
-      "id": "065fa7efa174779b",
-      "t": "2026-11-12T13:47:47.549Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Qui farà de Quadri i d'Urri aquest diumenge a Elda?» (Ràdio Sabadell).",
-      "itemId": "39eab053187d0cab"
-    },
-    {
-      "id": "b8122a61c95789a8",
-      "t": "2026-11-12T13:47:47.550Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Sabadell renovarà Les Termes i la ronda Santa Maria amb 25 M€ del Pla de Barris» (Ràdio Sabadell).",
-      "itemId": "831b449c23351f4f"
-    },
-    {
-      "id": "c7ebceef6ec46e33",
-      "t": "2026-11-12T13:47:47.551Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Quatre supermercats de Castellar participen en el Gran Recapte» (L'Actual - Castellar del Vallès).",
-      "itemId": "960f7231528dd0f2"
-    },
-    {
       "id": "89ff89356a35e613",
       "t": "2026-11-12T13:47:47.552Z",
       "agente": "rastreador",
@@ -2799,7 +2750,56 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Cultura i festes.",
       "itemId": "c9a97ee3f9088cc8"
+    },
+    {
+      "id": "339e9d58a891058b",
+      "t": "2026-11-17T12:56:41.858Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Inscriu-te al taller d'alimentaci� saludable i cuina en fam�lia!» (Ajuntament de Badia del Vallès).",
+      "itemId": "afb516191e8efce4"
+    },
+    {
+      "id": "8d27333b2c2a87fd",
+      "t": "2026-11-17T12:56:41.859Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Ja es poden fer les inscripcions a la I Cursa Antiracista de Santa Perpètua» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "12fd36f5277fa199"
+    },
+    {
+      "id": "693ccadce847ef63",
+      "t": "2026-11-17T12:56:41.860Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El festival Observa confirma els Catarres, Joan Dausà i Lildami» (Diari de Sabadell).",
+      "itemId": "d7ae3bafb2b4170a"
+    },
+    {
+      "id": "70601f52edc382f0",
+      "t": "2026-11-17T12:56:41.861Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Les famílies a la Generalitat: \"Els nostres fills s’estan quedant sense sortides i cal que es resolgui\"» (Diari de Sabadell).",
+      "itemId": "91a42a0d2daaae4e"
+    },
+    {
+      "id": "01fc1a9b54ebde35",
+      "t": "2026-11-17T12:56:41.862Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Educació.",
+      "itemId": "91a42a0d2daaae4e"
+    },
+    {
+      "id": "cbf0cc23b1257800",
+      "t": "2026-11-17T12:56:41.863Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La nova vaga a Rodalies castiga els usuaris de Sabadell: \"Sentim impotència\"» (Diari de Sabadell).",
+      "itemId": "d452b252582517be"
+    },
+    {
+      "id": "19c5591054c17376",
+      "t": "2026-11-17T12:56:41.864Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat.",
+      "itemId": "d452b252582517be"
     }
   ],
-  "actualizado": "2026-11-17T12:24:48.659Z"
+  "actualizado": "2026-11-17T12:56:53.306Z"
 }

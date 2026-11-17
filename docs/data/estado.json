@@ -10,7 +10,7 @@
     },
     "diari-sabadell": {
       "ok": true,
-      "items": 9
+      "items": 11
     },
     "diari-terrassa": {
       "ok": true,
@@ -42,7 +42,7 @@
     },
     "ayto-santa-perpetua": {
       "ok": true,
-      "items": 2
+      "items": 3
     },
     "avisos-santa-perpetua": {
       "ok": true,
@@ -70,7 +70,7 @@
     },
     "ayto-badia": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "ayto-sant-quirze": {
       "ok": true,
@@ -81,6 +81,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-17T12:24:29.126Z",
-  "actualizado": "2026-11-17T12:24:48.657Z"
+  "consultat": "2026-11-17T12:56:41.858Z",
+  "actualizado": "2026-11-17T12:56:53.304Z"
 }
