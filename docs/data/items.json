@@ -104,6 +104,36 @@
   },
   "items": [
     {
+      "id": "6698070bae409fd2",
+      "titulo": "Cerdanyola presenta un Nadal ple d’espectacles, música i grans atraccions per a tota la família",
+      "enlace": "http://www.cerdanyola.cat/actualitat/cerdanyola-presenta-un-nadal-ple-despectacles-musica-i-grans-atraccions-tota-la-familia",
+      "fuente": "ayto-cerdanyola",
+      "fuenteNombre": "Ajuntament de Cerdanyola del Vallès",
+      "tipo": "oficial",
+      "resumen": "Cerdanyola presenta un Nadal ple d’espectacles, música i grans atraccions per a tota la família El Teatre Ateneu ha acollit aquest dimarts 17 de novembre la presentació de la Programació de Nadal 2026, una proposta que tornarà a omplir…",
+      "municipio": "cerdanyola",
+      "municipiosMencionados": [
+        "cerdanyola"
+      ],
+      "publicado": "2026-11-17T20:00:15.000Z",
+      "detectado": "2026-11-17T20:16:47.840Z",
+      "sensible": true,
+      "etiquetas": [
+        "politica",
+        "economia",
+        "salud",
+        "deportes",
+        "cultura"
+      ],
+      "puntuacion": 5,
+      "motivos": [
+        "font oficial",
+        "política local, economia i ocupació, salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
       "id": "dc0e5125483f5333",
       "titulo": "La Cambra detecta un potencial de 9.400 habitatges a Sabadell",
       "enlace": "https://www.diaridesabadell.com/diners/cambra-comerc-sabadell-impacte-socioeconomic-habitatge-valles-occidental.html",
@@ -1586,5 +1616,5 @@
       "propuesta": true
     }
   ],
-  "actualizado": "2026-11-17T19:11:34.028Z"
+  "actualizado": "2026-11-17T20:17:08.234Z"
 }

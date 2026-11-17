@@ -1,34 +1,6 @@
 {
   "eventos": [
     {
-      "id": "6c2a19dc49a08f0d",
-      "t": "2026-11-12T23:32:45.488Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Infopòdcast Sabadell 13.11.26» (Ràdio Sabadell).",
-      "itemId": "575fed554d53d0b3"
-    },
-    {
-      "id": "190d37abf2f349f4",
-      "t": "2026-11-13T06:43:06.677Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Miquel Mesegué: \"Una emergència no pot dependre de deixar la feina i pujar a un camió\"» (L'Actual - Castellar del Vallès).",
-      "itemId": "3d18aaea10e55ba1"
-    },
-    {
-      "id": "055faef9b2ced011",
-      "t": "2026-11-13T06:43:06.678Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Emergències.",
-      "itemId": "3d18aaea10e55ba1"
-    },
-    {
-      "id": "0b82d06c10b958d3",
-      "t": "2026-11-13T06:43:06.679Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): emergències.",
-      "itemId": "3d18aaea10e55ba1"
-    },
-    {
       "id": "3ce7e49b1d5e3cb4",
       "t": "2026-11-13T08:49:12.603Z",
       "agente": "rastreador",
@@ -2799,7 +2771,35 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Obres i urbanisme.",
       "itemId": "dc0e5125483f5333"
+    },
+    {
+      "id": "1cb944f06c766d9a",
+      "t": "2026-11-17T20:16:47.840Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Cerdanyola presenta un Nadal ple d’espectacles, música i grans atraccions per a tota la família» (Ajuntament de Cerdanyola del Vallès).",
+      "itemId": "6698070bae409fd2"
+    },
+    {
+      "id": "e6ad803a2fa7c6fa",
+      "t": "2026-11-17T20:16:47.841Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local, Economia i ocupació, Salut, Esports, Cultura i festes.",
+      "itemId": "6698070bae409fd2"
+    },
+    {
+      "id": "bc9c0b655da229b5",
+      "t": "2026-11-17T20:16:47.842Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "6698070bae409fd2"
+    },
+    {
+      "id": "2dd9feda9a815e3a",
+      "t": "2026-11-17T20:16:47.843Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (5 punts): font oficial · política local, economia i ocupació, salut.",
+      "itemId": "6698070bae409fd2"
     }
   ],
-  "actualizado": "2026-11-17T19:11:34.032Z"
+  "actualizado": "2026-11-17T20:17:08.238Z"
 }
