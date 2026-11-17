@@ -6,11 +6,11 @@
     },
     "radio-sabadell": {
       "ok": true,
-      "items": 5
+      "items": 10
     },
     "diari-sabadell": {
       "ok": true,
-      "items": 3
+      "items": 7
     },
     "diari-terrassa": {
       "ok": true,
@@ -81,6 +81,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-17T10:07:36.469Z",
-  "actualizado": "2026-11-17T10:08:05.052Z"
+  "consultat": "2026-11-17T11:05:34.800Z",
+  "actualizado": "2026-11-17T11:05:55.069Z"
 }

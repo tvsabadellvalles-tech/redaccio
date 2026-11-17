@@ -1,167 +1,6 @@
 {
   "eventos": [
     {
-      "id": "2902c1343cd70666",
-      "t": "2026-11-12T10:51:34.045Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Emergències, Mobilitat.",
-      "itemId": "b7592b72ba72b6b2"
-    },
-    {
-      "id": "641df41c2d49ff5d",
-      "t": "2026-11-12T10:51:34.046Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (5 punts): font oficial · emergències, mobilitat.",
-      "itemId": "b7592b72ba72b6b2"
-    },
-    {
-      "id": "9c7df0574dbf6b87",
-      "t": "2026-11-12T10:51:34.047Z",
-      "agente": "rastreador",
-      "texto": "He recollit «S’amplia el termini per demanar els ajuts municipals per fomentar l’activitat econòmica local» (Ajuntament de Sant Quirze del Vallès).",
-      "itemId": "413cbcbba500c731"
-    },
-    {
-      "id": "15d50eb8484a82a7",
-      "t": "2026-11-12T10:51:34.048Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Amunt El Teló 11/11/26» (Ràdio Sabadell).",
-      "itemId": "afc44b35c69cafab"
-    },
-    {
-      "id": "0926d9d452d4d0aa",
-      "t": "2026-11-12T10:51:34.049Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Aquest divendres s'inaugura el nou Esclat» (L'Actual - Castellar del Vallès).",
-      "itemId": "3c5b58fc4fc10c6e"
-    },
-    {
-      "id": "abae01cbd874aa49",
-      "t": "2026-11-12T10:51:34.050Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Sant Quirze commemora el Dia Internacional de les Dones Emprenedores amb una jornada per compartir experiències i fer xarxa» (Ajuntament de Sant Quirze del Vallès).",
-      "itemId": "5d1f48fbd4c0fef6"
-    },
-    {
-      "id": "657418ee9024d74c",
-      "t": "2026-11-12T10:51:34.051Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Més de 5.000 veïns sense llum per una avaria elèctrica» (Ràdio Sabadell).",
-      "itemId": "42eb3002ffa9695b"
-    },
-    {
-      "id": "844213b7a3b2533f",
-      "t": "2026-11-12T11:43:44.964Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Més de 5.000 clients afectats a Sabadell per una avaria al subministrament elèctric» (Diari de Sabadell).",
-      "itemId": "4f15e8a2404a7876"
-    },
-    {
-      "id": "76be84557ea695d4",
-      "t": "2026-11-12T11:43:44.965Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Comença el muntatge del Calendari d'Advent del Llaminer» (Ràdio Sabadell).",
-      "itemId": "43271215ee1b3ee9"
-    },
-    {
-      "id": "2301e144676923a1",
-      "t": "2026-11-12T11:43:44.966Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La Cambra de la Propietat qüestiona l'impacte de la vaga general: \"Només genera més crispació\"» (Ràdio Sabadell).",
-      "itemId": "ff3af15784a28ec5"
-    },
-    {
-      "id": "15accbb707bc15bc",
-      "t": "2026-11-12T11:43:44.967Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local, Obres i urbanisme.",
-      "itemId": "ff3af15784a28ec5"
-    },
-    {
-      "id": "8a4221ec32a007d7",
-      "t": "2026-11-12T11:43:44.968Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): política local, obres i urbanisme.",
-      "itemId": "ff3af15784a28ec5"
-    },
-    {
-      "id": "33e8e55821928588",
-      "t": "2026-11-12T11:43:44.969Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Un total de 102 propostes ciutadanes s'han presentat al procés de Pressupostos Participatius de l'Ajuntament» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "d56d76e80c83dbe8"
-    },
-    {
-      "id": "185a0011a134e445",
-      "t": "2026-11-12T11:43:44.970Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local.",
-      "itemId": "d56d76e80c83dbe8"
-    },
-    {
-      "id": "18847dfdef00f39a",
-      "t": "2026-11-12T11:43:44.971Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · política local.",
-      "itemId": "d56d76e80c83dbe8"
-    },
-    {
-      "id": "cc62aca59f88bb64",
-      "t": "2026-11-12T11:43:44.972Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Cerdanyola presentarà la programació de Nadal el 17 de novembre» (Ajuntament de Cerdanyola del Vallès).",
-      "itemId": "3103799746dff761"
-    },
-    {
-      "id": "a9b9a44061715241",
-      "t": "2026-11-12T11:43:44.973Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local, Economia i ocupació, Esports, Cultura i festes.",
-      "itemId": "3103799746dff761"
-    },
-    {
-      "id": "6954e64f695a20a9",
-      "t": "2026-11-12T11:43:44.974Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "3103799746dff761"
-    },
-    {
-      "id": "18587422f9812cb7",
-      "t": "2026-11-12T11:43:44.975Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): font oficial · política local, economia i ocupació.",
-      "itemId": "3103799746dff761"
-    },
-    {
-      "id": "ab5150db77b46555",
-      "t": "2026-11-12T12:26:10.115Z",
-      "agente": "rastreador",
-      "texto": "He recollit «L’Ajuntament instal·la bucles auditius a diferents d’equipaments municipals» (Ajuntament de Ripollet).",
-      "itemId": "1d71fd353f1b3348"
-    },
-    {
-      "id": "9250d23b08ff5063",
-      "t": "2026-11-12T12:26:10.116Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Ple extraordinari del 13 de novembre de 2026» (Ajuntament de Ripollet).",
-      "itemId": "9cf640648db05f26"
-    },
-    {
-      "id": "9b5030ec331a2aac",
-      "t": "2026-11-12T12:26:10.117Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local.",
-      "itemId": "9cf640648db05f26"
-    },
-    {
-      "id": "336e06b48bbac181",
-      "t": "2026-11-12T12:26:10.118Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · política local.",
-      "itemId": "9cf640648db05f26"
-    },
-    {
       "id": "f02d4364909c04a2",
       "t": "2026-11-12T12:26:10.119Z",
       "agente": "rastreador",
@@ -2799,7 +2638,168 @@
       "agente": "mesa",
       "texto": "Proposo incloure-ho a l'escaleta (4 punts): mobilitat, successos, política local.",
       "itemId": "e535a48615b170b0"
+    },
+    {
+      "id": "1c0ea112f4e9ec6a",
+      "t": "2026-11-17T11:05:34.800Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La tertúlia: Habitatge, la Caserna i altres temes d'actualitat» (Ràdio Sabadell).",
+      "itemId": "db13b4c9183bc4c3"
+    },
+    {
+      "id": "698ad138adff8ec2",
+      "t": "2026-11-17T11:05:34.801Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Obres i urbanisme.",
+      "itemId": "db13b4c9183bc4c3"
+    },
+    {
+      "id": "05af6474d6293376",
+      "t": "2026-11-17T11:05:34.802Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Presó per a un home acusat de robar joies i rellotges a dones grans» (Diari de Sabadell).",
+      "itemId": "4bb513b2d738803b"
+    },
+    {
+      "id": "f4fc52719d4f9bde",
+      "t": "2026-11-17T11:05:34.803Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La fira d'artesans de Sabadell (FANSA) afronta el segon Nadal a l’Imperial amb il·lusió, però enyora el Passeig: \"No som al rovell de l'ou\"» (Diari de Sabadell).",
+      "itemId": "bea66f579773ed35"
+    },
+    {
+      "id": "8767bfae963f1f77",
+      "t": "2026-11-17T11:05:34.804Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "bea66f579773ed35"
+    },
+    {
+      "id": "5a84747a604ea0c8",
+      "t": "2026-11-17T11:05:34.805Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Un duel clau a l'Astralpool CN Sabadell masculí per posar peu i mig al top-8 europeu» (Diari de Sabadell).",
+      "itemId": "4aa38e01b0f28295"
+    },
+    {
+      "id": "efd403de036d64a8",
+      "t": "2026-11-17T11:05:34.806Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Detingut un home per la crema de contenidors a Can Puiggener» (Ràdio Sabadell).",
+      "itemId": "c0e394913aefea40"
+    },
+    {
+      "id": "84e814912f7e9f95",
+      "t": "2026-11-17T11:05:34.807Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Emergències, Successos, Salut.",
+      "itemId": "c0e394913aefea40"
+    },
+    {
+      "id": "32e5dc0a033029b8",
+      "t": "2026-11-17T11:05:34.808Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "c0e394913aefea40"
+    },
+    {
+      "id": "a544a98cca0662d0",
+      "t": "2026-11-17T11:05:34.809Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): emergències, successos, salut.",
+      "itemId": "c0e394913aefea40"
+    },
+    {
+      "id": "d4b5a50740ab38c7",
+      "t": "2026-11-17T11:05:34.810Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L’Ajuntament abandona TikTok en rebuig a la difusió de continguts d’abús sexual infantil a la plataforma» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "98138611b67b30a8"
+    },
+    {
+      "id": "f67e4ded7d477cd2",
+      "t": "2026-11-17T11:05:34.811Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "98138611b67b30a8"
+    },
+    {
+      "id": "9462cb4136f118b3",
+      "t": "2026-11-17T11:05:34.812Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Yolanda Campos, infermera: \"Les famílies senten que els donem la mà i no els deixem\"» (Ràdio Sabadell).",
+      "itemId": "3dab403d9e187331"
+    },
+    {
+      "id": "b7d9d901efe6d393",
+      "t": "2026-11-17T11:05:34.813Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut.",
+      "itemId": "3dab403d9e187331"
+    },
+    {
+      "id": "cd2b74e48c8b3d58",
+      "t": "2026-11-17T11:05:34.814Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Astralpool CN Sabadell-Jadran Herceg Novi: un dels partits més importants dels últims anys» (Ràdio Sabadell).",
+      "itemId": "e489ccd0536fb239"
+    },
+    {
+      "id": "a406de9db5b5fd5b",
+      "t": "2026-11-17T11:05:34.815Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut, Esports.",
+      "itemId": "e489ccd0536fb239"
+    },
+    {
+      "id": "efd8140383880ba1",
+      "t": "2026-11-17T11:05:34.816Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Detingut un home per cremar una desena de contenidors i diversos vehicles a Sabadell de matinada» (Diari de Sabadell).",
+      "itemId": "6d99cdb24bad06a8"
+    },
+    {
+      "id": "f6ce4b13569a4ec1",
+      "t": "2026-11-17T11:05:34.817Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Emergències, Successos.",
+      "itemId": "6d99cdb24bad06a8"
+    },
+    {
+      "id": "593779bedf02de10",
+      "t": "2026-11-17T11:05:34.818Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "6d99cdb24bad06a8"
+    },
+    {
+      "id": "ca17a782d4f9eb5f",
+      "t": "2026-11-17T11:05:34.819Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): emergències, successos.",
+      "itemId": "6d99cdb24bad06a8"
+    },
+    {
+      "id": "0e1a930739751394",
+      "t": "2026-11-17T11:05:34.820Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Conxita Tarruell, escriptora: \"Als Balcans hem descobert països que estan renaixent\"» (Ràdio Sabadell).",
+      "itemId": "53977a5e630d91e9"
+    },
+    {
+      "id": "a24e65801248576b",
+      "t": "2026-11-17T11:05:34.821Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Joan Morera, director Conservatori: \"El concert de Santa Cecília és el primer del curs\"» (Ràdio Sabadell).",
+      "itemId": "e01a45fc89992fb5"
+    },
+    {
+      "id": "9ba3f14dfe9be076",
+      "t": "2026-11-17T11:05:34.822Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "e01a45fc89992fb5"
     }
   ],
-  "actualizado": "2026-11-17T09:59:46.028Z"
+  "actualizado": "2026-11-17T11:05:55.071Z"
 }
