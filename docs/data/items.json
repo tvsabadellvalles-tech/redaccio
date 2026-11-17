@@ -104,6 +104,29 @@
   },
   "items": [
     {
+      "id": "b14c61841d1fd880",
+      "titulo": "Vaga de maquinistes: cancel·lacions a Rodalies",
+      "enlace": "https://www.isabadell.cat/societat/mobilitat/vaga-de-maquinistes-cancellacions-a-rodalies-340924/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-17T07:24:13.000Z",
+      "detectado": "2026-11-17T08:00:02.772Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "mobilitat"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "75288a0eb35c5414",
       "titulo": "Infopòdcast Sabadell 17.11.26",
       "enlace": "https://radiosabadell.fm/alacarta/audio/infopodcast-sabadell-171126",
@@ -123,7 +146,32 @@
       "motivos": [],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "eeda9e3a5f7c2f52",
+      "titulo": "El Mercat Central es reinventa: productes vegans i joves al capdavant de les parades",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/mercat-central-reiventa-vegans-joves",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-17T06:00:11.000Z",
+      "detectado": "2026-11-17T08:00:02.772Z",
+      "sensible": false,
+      "etiquetas": [
+        "economia"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "economia i ocupació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
     }
   ],
-  "actualizado": "2026-11-16T23:45:00.213Z"
+  "actualizado": "2026-11-17T08:00:21.048Z"
 }

@@ -1,34 +1,6 @@
 {
   "eventos": [
     {
-      "id": "7d69e31db8b8dea3",
-      "t": "2026-11-11T16:04:47.455Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Emergències, Salut.",
-      "itemId": "7e92c1d6f06b368c"
-    },
-    {
-      "id": "46c7918a5177c247",
-      "t": "2026-11-11T16:04:47.456Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): emergències, salut.",
-      "itemId": "7e92c1d6f06b368c"
-    },
-    {
-      "id": "4a783330c5bb08a9",
-      "t": "2026-11-11T16:04:47.457Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La vaga general té un \"seguiment desigual\" als centres d'atenció primària i conviu amb l'aturada indefinida dels facultatius» (Diari de Sabadell).",
-      "itemId": "42903dd9c49e6849"
-    },
-    {
-      "id": "ecb10754694a4187",
-      "t": "2026-11-11T16:04:47.458Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local.",
-      "itemId": "42903dd9c49e6849"
-    },
-    {
       "id": "2654b57e63eb9ecc",
       "t": "2026-11-11T16:56:17.578Z",
       "agente": "rastreador",
@@ -2799,7 +2771,35 @@
       "agente": "rastreador",
       "texto": "He recollit «Infopòdcast Sabadell 17.11.26» (Ràdio Sabadell).",
       "itemId": "75288a0eb35c5414"
+    },
+    {
+      "id": "8b8412f865dab50b",
+      "t": "2026-11-17T08:00:02.772Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El Mercat Central es reinventa: productes vegans i joves al capdavant de les parades» (Ràdio Sabadell).",
+      "itemId": "eeda9e3a5f7c2f52"
+    },
+    {
+      "id": "ea262a4bdfa91245",
+      "t": "2026-11-17T08:00:02.773Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Economia i ocupació.",
+      "itemId": "eeda9e3a5f7c2f52"
+    },
+    {
+      "id": "224d19339e01b748",
+      "t": "2026-11-17T08:00:02.774Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Vaga de maquinistes: cancel·lacions a Rodalies» (iSabadell).",
+      "itemId": "b14c61841d1fd880"
+    },
+    {
+      "id": "eafce76489c32919",
+      "t": "2026-11-17T08:00:02.775Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat.",
+      "itemId": "b14c61841d1fd880"
     }
   ],
-  "actualizado": "2026-11-16T23:45:00.216Z"
+  "actualizado": "2026-11-17T08:00:21.051Z"
 }
