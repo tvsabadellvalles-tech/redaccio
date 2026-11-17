@@ -8,7 +8,7 @@ on:
     paths-ignore:
       - 'docs/data/**'
   schedule:
-    - cron: '2-59/5 * * * *' # cada 5 minutos, evitando el minuto 0 (UTC)
+    - cron: '3-59/5 * * * *' # cada 5 minutos, evitando el minuto 0 (UTC)
   workflow_dispatch:
 
 permissions:
