@@ -42,7 +42,7 @@
     },
     "ayto-santa-perpetua": {
       "ok": true,
-      "items": 1
+      "items": 2
     },
     "avisos-santa-perpetua": {
       "ok": true,
@@ -62,7 +62,7 @@
     },
     "ayto-barbera": {
       "ok": true,
-      "items": 1
+      "items": 2
     },
     "ayto-cerdanyola": {
       "ok": true,
@@ -81,6 +81,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-17T09:00:20.273Z",
-  "actualizado": "2026-11-17T09:00:39.124Z"
+  "consultat": "2026-11-17T09:43:55.824Z",
+  "actualizado": "2026-11-17T09:44:15.885Z"
 }

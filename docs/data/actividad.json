@@ -1,62 +1,6 @@
 {
   "eventos": [
     {
-      "id": "b6da71d282545acd",
-      "t": "2026-11-12T07:59:05.027Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Retards generalitzats a Rodalies» (iSabadell).",
-      "itemId": "6d1aa8ea2ce616f0"
-    },
-    {
-      "id": "0b3a1bc0488026ae",
-      "t": "2026-11-12T07:59:05.028Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat.",
-      "itemId": "6d1aa8ea2ce616f0"
-    },
-    {
-      "id": "e655e382d9ae23e3",
-      "t": "2026-11-12T09:48:09.858Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El 25N a Polinyà: caminada, acte memorial i tallers» (Ajuntament de Polinyà).",
-      "itemId": "021ec7ac84736255"
-    },
-    {
-      "id": "59eedce1f225af71",
-      "t": "2026-11-12T09:48:09.859Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Dimarts, reuni� informativa sobre la retirada de l'amiant a les comunitats d'av. del Cant�bric, 21-27 i Santander 6-10» (Ajuntament de Badia del Vallès).",
-      "itemId": "704cc79157711260"
-    },
-    {
-      "id": "3e9e8d23442a1f80",
-      "t": "2026-11-12T09:48:09.860Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Aimee Rodríguez guanya el concurs de dibuix de L'Informatiu per a la portada de l'especial 20N» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "c960b23ee4e3f5c1"
-    },
-    {
-      "id": "e36d2b7652626441",
-      "t": "2026-11-12T09:48:09.861Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local.",
-      "itemId": "c960b23ee4e3f5c1"
-    },
-    {
-      "id": "709ad98b915a1ec5",
-      "t": "2026-11-12T09:48:09.862Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · política local.",
-      "itemId": "c960b23ee4e3f5c1"
-    },
-    {
-      "id": "4aabbece0f5fee2c",
-      "t": "2026-11-12T09:48:09.863Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Veïns de Gràcia demanen un nou semàfor a la Gran Via per evitar els passos soterrats: \"Hem agafat por\"» (Diari de Sabadell).",
-      "itemId": "bde5e2e4ec8b9503"
-    },
-    {
       "id": "a30430ed2c0c7c45",
       "t": "2026-11-12T09:48:09.864Z",
       "agente": "etiquetador",
@@ -2799,7 +2743,63 @@
       "agente": "mesa",
       "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · política local.",
       "itemId": "99e3dbc464aa1bc0"
+    },
+    {
+      "id": "5898de7f4c6466a2",
+      "t": "2026-11-17T09:43:55.824Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Finalitzen els treballs de retirada de canya americana i desbrossada de la llera del riu Ripoll» (Ajuntament de Barberà del Vallès).",
+      "itemId": "ea45fd8f7c336eee"
+    },
+    {
+      "id": "906405b6bd7318ef",
+      "t": "2026-11-17T09:43:55.825Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Emergències, Economia i ocupació, Medi ambient.",
+      "itemId": "ea45fd8f7c336eee"
+    },
+    {
+      "id": "70b4a52774ca7b51",
+      "t": "2026-11-17T09:43:55.826Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (5 punts): font oficial · emergències, economia i ocupació, medi ambient.",
+      "itemId": "ea45fd8f7c336eee"
+    },
+    {
+      "id": "5e5593beff2181fa",
+      "t": "2026-11-17T09:43:55.827Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Ajudicades les obres de la primera fase de la nova pista d'atletisme» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "94933945f4ec6e67"
+    },
+    {
+      "id": "47d9d0a93294b705",
+      "t": "2026-11-17T09:43:55.828Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Obres i urbanisme, Economia i ocupació.",
+      "itemId": "94933945f4ec6e67"
+    },
+    {
+      "id": "3daa44b55488526a",
+      "t": "2026-11-17T09:43:55.829Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · obres i urbanisme, economia i ocupació.",
+      "itemId": "94933945f4ec6e67"
+    },
+    {
+      "id": "09bf50d6ced69172",
+      "t": "2026-11-17T09:43:55.830Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Aprovat el projecte del nou edifici de serveis esportius, que tindrà més de 2.000 m2» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "f96a512e6e0016b6"
+    },
+    {
+      "id": "c719f90ef82edeef",
+      "t": "2026-11-17T09:43:55.831Z",
+      "agente": "deduplicador",
+      "texto": "Descartada perquè és duplicada: coincideix amb «Aprovat el projecte del nou edifici de serveis esportius, que tindrà més de 2.00 m2» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "f96a512e6e0016b6"
     }
   ],
-  "actualizado": "2026-11-17T09:00:39.125Z"
+  "actualizado": "2026-11-17T09:44:15.887Z"
 }

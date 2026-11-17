@@ -104,6 +104,58 @@
   },
   "items": [
     {
+      "id": "f96a512e6e0016b6",
+      "titulo": "Aprovat el projecte del nou edifici de serveis esportius, que tindrà més de 2.000 m2",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/aprovat-el-projecte-del-nou-edifici-de-serveis-esportius-que-tindra-mes-de-2000-m2.html",
+      "fuente": "ayto-santa-perpetua",
+      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
+      "tipo": "oficial",
+      "resumen": "L’Ajuntament de Santa Perpètua ha aprovat el Projecte Bàsic i d’execució de la construcció del nou edifici de serveis esportius que presenta un pressupost de 4.869.511,42 euros.",
+      "municipio": "santa-perpetua",
+      "municipiosMencionados": [
+        "santa-perpetua"
+      ],
+      "publicado": "2026-11-17T09:11:00.000Z",
+      "detectado": "2026-11-17T09:43:55.824Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica",
+        "deportes"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "font oficial",
+        "política local"
+      ],
+      "duplicadaDe": "99e3dbc464aa1bc0",
+      "propuesta": false
+    },
+    {
+      "id": "94933945f4ec6e67",
+      "titulo": "Ajudicades les obres de la primera fase de la nova pista d'atletisme",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/ajudicades-les-obres-de-la-primera-fase-de-la-nova-pista-datletisme.html",
+      "fuente": "ayto-santa-perpetua",
+      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
+      "tipo": "oficial",
+      "resumen": "L’Ajuntament ha adjudicat a l’empresa Tallers Vidal Amill SLU la primera fase de les obres de construcció de la nova pista d’atletisme per un import de 263.045,48 euros.",
+      "municipio": "santa-perpetua",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-17T09:10:00.000Z",
+      "detectado": "2026-11-17T09:43:55.824Z",
+      "sensible": false,
+      "etiquetas": [
+        "urbanismo",
+        "economia"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "font oficial",
+        "obres i urbanisme, economia i ocupació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
       "id": "99e3dbc464aa1bc0",
       "titulo": "Aprovat el projecte del nou edifici de serveis esportius, que tindrà més de 2.00 m2",
       "enlace": "https://www.staperpetua.cat/actualitat/noticies/aprovat-el-projecte-del-nou-edifici-de-serveis-esportius-que-tindra-mes-de-200-m2.html",
@@ -126,6 +178,32 @@
       "motivos": [
         "font oficial",
         "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "ea45fd8f7c336eee",
+      "titulo": "Finalitzen els treballs de retirada de canya americana i desbrossada de la llera del riu Ripoll",
+      "enlace": "https://www.bdv.cat/noticies/finalitzen-els-treballs-de-retirada-de-canya-americana-i-desbrossada-de-la-llera-del-riu",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "Els treballs contribueixen a millorar el flux de l’aigua i les condicions de l’entorn davant les darreres pluges intenses. Ja han finalitzat les actuacions destacades al tram baix del Parc Fluvial del riu Ripoll, a l’altura del polígon…",
+      "municipio": "barbera",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-17T08:43:00.000Z",
+      "detectado": "2026-11-17T09:43:55.824Z",
+      "sensible": false,
+      "etiquetas": [
+        "emergencias",
+        "economia",
+        "medioambiente"
+      ],
+      "puntuacion": 5,
+      "motivos": [
+        "font oficial",
+        "emergències, economia i ocupació, medi ambient"
       ],
       "duplicadaDe": null,
       "propuesta": true
@@ -312,5 +390,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-17T09:00:39.123Z"
+  "actualizado": "2026-11-17T09:44:15.884Z"
 }
