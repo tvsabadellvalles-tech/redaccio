@@ -47,30 +47,49 @@ jobs:
 
       - name: Guardar cambios (solo si hay novedades)
         shell: bash
+        env:
+          METEOCAT_API_KEY: ${{ secrets.METEOCAT_API_KEY }}
+          GOOGLE_CALENDAR_API_KEY: ${{ secrets.GOOGLE_CALENDAR_API_KEY }}
         run: |
           set -euo pipefail
           git config user.name "rastreo-bot"
           git config user.email "rastreo-bot@users.noreply.github.com"
-          git add docs/data
 
-          if git diff --staged --quiet; then
-            echo "Sin cambios."
-            exit 0
+          # Primer intento con los datos ya rastreados.
+          git add docs/data
+          if ! git diff --staged --quiet; then
+            git commit -m "Rastreo: actualización de datos"
+          else
+            echo "Sin cambios iniciales."
           fi
 
-          git commit -m "Rastreo: actualización de datos"
-
-          # Integra cualquier commit que haya llegado a main desde el checkout.
-          # Reintenta el push si alguien publica justo en ese momento.
+          # Si main ha avanzado desde el checkout, no hacemos rebase de JSON:
+          # recuperamos la última versión y volvemos a rastrear sobre ella.
+          # Así evitamos conflictos y no perdemos novedades de otra ejecución.
           for intento in 1 2 3; do
             git fetch origin main
-            git rebase origin/main
+
+            if ! git merge-base --is-ancestor origin/main HEAD; then
+              echo "main ha avanzado; se vuelve a rastrear sobre la última versión."
+              git reset --hard origin/main
+              npm run rastreo
+              git add docs/data
+
+              if git diff --staged --quiet; then
+                echo "La última versión ya contiene todos los datos; no hay nada que guardar."
+                exit 0
+              fi
+
+              git commit -m "Rastreo: actualización de datos"
+            fi
+
             if git push origin HEAD:main; then
               echo "Datos guardados correctamente (intento $intento)."
               exit 0
             fi
-            echo "Push rechazado; se volverá a sincronizar (intento $intento/3)."
-            sleep 2
+
+            echo "Push rechazado; se sincronizará y repetirá el rastreo (intento $intento/3)."
+            sleep 3
           done
 
           echo "No se pudieron guardar los datos después de 3 intentos."
