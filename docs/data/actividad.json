@@ -1,27 +1,6 @@
 {
   "eventos": [
     {
-      "id": "3f87e68b8bc717c2",
-      "t": "2026-11-12T07:59:05.024Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La Llanera Trail 2027 es traslladarà a Sentmenat per la pesta porcina» (iSabadell).",
-      "itemId": "98017cd6a6758951"
-    },
-    {
-      "id": "4535eba410a81749",
-      "t": "2026-11-12T07:59:05.025Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Emergències.",
-      "itemId": "98017cd6a6758951"
-    },
-    {
-      "id": "2803ff9a0ac5a0cc",
-      "t": "2026-11-12T07:59:05.026Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): emergències.",
-      "itemId": "98017cd6a6758951"
-    },
-    {
       "id": "b6da71d282545acd",
       "t": "2026-11-12T07:59:05.027Z",
       "agente": "rastreador",
@@ -2799,7 +2778,28 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Mobilitat.",
       "itemId": "6230ad5e0cfd0a7d"
+    },
+    {
+      "id": "6de3b62292cb9601",
+      "t": "2026-11-17T09:00:20.273Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Aprovat el projecte del nou edifici de serveis esportius, que tindrà més de 2.00 m2» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "99e3dbc464aa1bc0"
+    },
+    {
+      "id": "dd9075508b7965a5",
+      "t": "2026-11-17T09:00:20.274Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local, Esports.",
+      "itemId": "99e3dbc464aa1bc0"
+    },
+    {
+      "id": "554a26e9b5ed31ed",
+      "t": "2026-11-17T09:00:20.275Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · política local.",
+      "itemId": "99e3dbc464aa1bc0"
     }
   ],
-  "actualizado": "2026-11-17T08:53:06.637Z"
+  "actualizado": "2026-11-17T09:00:39.125Z"
 }

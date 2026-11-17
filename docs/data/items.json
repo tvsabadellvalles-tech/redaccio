@@ -104,6 +104,33 @@
   },
   "items": [
     {
+      "id": "99e3dbc464aa1bc0",
+      "titulo": "Aprovat el projecte del nou edifici de serveis esportius, que tindrà més de 2.00 m2",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/aprovat-el-projecte-del-nou-edifici-de-serveis-esportius-que-tindra-mes-de-200-m2.html",
+      "fuente": "ayto-santa-perpetua",
+      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
+      "tipo": "oficial",
+      "resumen": "L’Ajuntament de Santa Perpètua ha aprovat el Projecte Bàsic i d’execució de la construcció del nou edifici de serveis esportius que presenta un pressupost de 4.869.511,42 euros.",
+      "municipio": "santa-perpetua",
+      "municipiosMencionados": [
+        "santa-perpetua"
+      ],
+      "publicado": "2026-11-17T09:00:00.000Z",
+      "detectado": "2026-11-17T09:00:20.273Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica",
+        "deportes"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "font oficial",
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
       "id": "6230ad5e0cfd0a7d",
       "titulo": "La vaga ferroviària deixa Rodalies amb menys de la meitat dels trens previstos en els serveis mínims",
       "enlace": "https://www.diaridesabadell.com/sabadell/vaga-trens-rodalies-r4-serveis-minims-incomplerts.html",
@@ -285,5 +312,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-17T08:53:06.634Z"
+  "actualizado": "2026-11-17T09:00:39.123Z"
 }

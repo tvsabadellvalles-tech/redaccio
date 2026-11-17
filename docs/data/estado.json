@@ -42,7 +42,7 @@
     },
     "ayto-santa-perpetua": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "avisos-santa-perpetua": {
       "ok": true,
@@ -81,6 +81,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-17T08:52:50.126Z",
-  "actualizado": "2026-11-17T08:53:06.635Z"
+  "consultat": "2026-11-17T09:00:20.273Z",
+  "actualizado": "2026-11-17T09:00:39.124Z"
 }
