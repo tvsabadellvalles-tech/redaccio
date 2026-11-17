@@ -2,18 +2,18 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-17T10:04:20.462Z",
+  "consultat": "2026-11-17T10:07:36.469Z",
   "total": 18,
   "activitats": [
     {
-      "titol": "LORENA NO HI ÉS",
+      "titol": "Ferran entra abans (11.15h)",
       "inici": "2026-11-17T00:00:00.000Z",
       "final": "2026-11-18T00:00:00.000Z",
       "totElDia": true,
       "color": null
     },
     {
-      "titol": "Ferran entra abans (11.15h)",
+      "titol": "LORENA NO HI ÉS",
       "inici": "2026-11-17T00:00:00.000Z",
       "final": "2026-11-18T00:00:00.000Z",
       "totElDia": true,
@@ -133,5 +133,5 @@
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-17T10:05:00.510Z"
+  "actualizado": "2026-11-17T10:08:25.454Z"
 }
