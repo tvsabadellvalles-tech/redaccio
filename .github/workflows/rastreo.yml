@@ -24,7 +24,7 @@ concurrency:
 
 jobs:
   rastrear:
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
     timeout-minutes: 15
     environment:
       name: github-pages
@@ -46,6 +46,7 @@ jobs:
         run: npm run rastreo
 
       - name: Guardar cambios (solo si hay novedades)
+        id: guardar
         shell: bash
         env:
           METEOCAT_API_KEY: ${{ secrets.METEOCAT_API_KEY }}
@@ -56,9 +57,11 @@ jobs:
           git config user.email "rastreo-bot@users.noreply.github.com"
 
           # Primer intento con los datos ya rastreados.
+          cambio_guardado=false
           git add docs/data
           if ! git diff --staged --quiet; then
             git commit -m "Rastreo: actualización de datos"
+            cambio_guardado=true
           else
             echo "Sin cambios iniciales."
           fi
@@ -77,14 +80,17 @@ jobs:
 
               if git diff --staged --quiet; then
                 echo "La última versión ya contiene todos los datos; no hay nada que guardar."
+                echo "changed=false" >> "$GITHUB_OUTPUT"
                 exit 0
               fi
 
               git commit -m "Rastreo: actualización de datos"
+              cambio_guardado=true
             fi
 
             if git push origin HEAD:main; then
               echo "Datos guardados correctamente (intento $intento)."
+              echo "changed=$cambio_guardado" >> "$GITHUB_OUTPUT"
               exit 0
             fi
 
@@ -95,14 +101,19 @@ jobs:
           echo "No se pudieron guardar los datos después de 3 intentos."
           exit 1
 
+      # Una ejecución programada solo vuelve a publicar Pages si hay datos nuevos.
+      # Los pushes de cambios de código/configuración siempre publican el sitio.
       - name: Configurar GitHub Pages
+        if: github.event_name == 'push' || steps.guardar.outputs.changed == 'true'
         uses: actions/configure-pages@v5
 
       - name: Preparar archivos del sitio
+        if: github.event_name == 'push' || steps.guardar.outputs.changed == 'true'
         uses: actions/upload-pages-artifact@v3
         with:
           path: docs
 
       - name: Publicar en GitHub Pages
+        if: github.event_name == 'push' || steps.guardar.outputs.changed == 'true'
         id: deployment
         uses: actions/deploy-pages@v4
