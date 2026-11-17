@@ -104,6 +104,69 @@
   },
   "items": [
     {
+      "id": "ef317873fa36718a",
+      "titulo": "Reobre la Biblioteca Esteve Paluzie de Barberà",
+      "enlace": "https://www.diaridesabadell.com/valles/barbera/biblioteca-barbera-obertura-reforma.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-17T14:49:32.000Z",
+      "detectado": "2026-11-17T14:51:08.438Z",
+      "sensible": false,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "f1c329278e207565",
+      "titulo": "Els veïns de Badia podran tornar a fer la compra a l'avinguda de la Costa Brava",
+      "enlace": "https://www.diaridesabadell.com/valles/badia/badia-consum-obertura-data-supermercat.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-17T14:28:42.000Z",
+      "detectado": "2026-11-17T14:51:08.438Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "2158dc12958086c5",
+      "titulo": "Utebo-Sabadell: la tercera és la bona?",
+      "enlace": "https://radiosabadell.fm/esports/ce-sabadell/utebo-sabadell-copa-rei-primera-eliminatoria",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-17T14:00:19.000Z",
+      "detectado": "2026-11-17T14:51:08.438Z",
+      "sensible": true,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "a306394d163a859c",
       "titulo": "Jesús Fernández, Banc de Sang: \"La compatibilitat de la sang de cordó no ha de ser tant alta\"",
       "enlace": "https://radiosabadell.fm/podcast/noticies-mati-sang-cordo-171126",
@@ -136,6 +199,27 @@
       ],
       "publicado": "2026-11-17T13:03:40.000Z",
       "detectado": "2026-11-17T14:13:19.197Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "af906eefed0ff357",
+      "titulo": "Marta Pontnou protagonitzarà l’acte central de les activitats al voltant del 25-N a Castellar",
+      "enlace": "https://www.diaridesabadell.com/valles/castellar/25n-castellar-marta-pontnou-activitats-programacio.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "castellar"
+      ],
+      "publicado": "2026-11-17T13:00:23.000Z",
+      "detectado": "2026-11-17T14:51:08.438Z",
       "sensible": false,
       "etiquetas": [],
       "puntuacion": 0,
@@ -283,6 +367,30 @@
       ],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "1db8f1c00c8828cc",
+      "titulo": "La Rambla reobrirà al trànsit els caps de setmana entre Pau Casals i Marià Fortuny",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/la-rambla-reobrira-al-transit-els-caps-de-setmana-entre-pau-casals-i-maria-fortuny.html",
+      "fuente": "ayto-santa-perpetua",
+      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
+      "tipo": "oficial",
+      "resumen": "",
+      "municipio": "santa-perpetua",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-17T12:00:00.000Z",
+      "detectado": "2026-11-17T14:51:08.438Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "font oficial",
+        "mobilitat"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
     },
     {
       "id": "c9a97ee3f9088cc8",
@@ -1120,5 +1228,5 @@
       "propuesta": true
     }
   ],
-  "actualizado": "2026-11-17T14:13:35.086Z"
+  "actualizado": "2026-11-17T14:51:28.667Z"
 }

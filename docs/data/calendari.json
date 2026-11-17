@@ -2,7 +2,7 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-17T14:19:57.968Z",
+  "consultat": "2026-11-17T14:51:08.438Z",
   "total": 17,
   "activitats": [
     {
@@ -69,7 +69,7 @@
       "color": null
     },
     {
-      "titol": "Presentació de l’acord de col·laboració entre la Fundació per la Indústria i la Fundació Privada Atendis per a la construcció d’una nova residència.",
+      "titol": "(Pep) Presentació de l’acord de col·laboració entre la Fundació per la Indústria i la Fundació Privada Atendis per a la construcció d’una nova residència.",
       "inici": "2026-11-18T09:30:00.000Z",
       "final": "2026-11-18T10:30:00.000Z",
       "totElDia": false,
@@ -111,20 +111,20 @@
       "color": null
     },
     {
-      "titol": "(Lorena) Rdp pessebristes",
-      "inici": "2026-11-18T18:00:00.000Z",
-      "final": "2026-11-18T19:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
       "titol": "Utebo - CE Sabadell",
       "inici": "2026-11-18T18:00:00.000Z",
       "final": "2026-11-18T20:00:00.000Z",
       "totElDia": false,
       "color": null
+    },
+    {
+      "titol": "(Lorena) Rdp pessebristes",
+      "inici": "2026-11-18T18:00:00.000Z",
+      "final": "2026-11-18T19:00:00.000Z",
+      "totElDia": false,
+      "color": null
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-17T14:20:36.241Z"
+  "actualizado": "2026-11-17T14:51:50.389Z"
 }

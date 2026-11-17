@@ -1,76 +1,6 @@
 {
   "eventos": [
     {
-      "id": "abbd70154e736296",
-      "t": "2026-11-12T17:26:45.219Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La història curiosa de l'Eldense-Sabadell: l'escàndol de les apostes» (Ràdio Sabadell).",
-      "itemId": "2c40769195258340"
-    },
-    {
-      "id": "ad9e66841f5da0c8",
-      "t": "2026-11-12T17:26:45.220Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Emergències, Successos, Salut, Esports.",
-      "itemId": "2c40769195258340"
-    },
-    {
-      "id": "1b0285a1044cb1ab",
-      "t": "2026-11-12T17:26:45.221Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): emergències, successos, salut.",
-      "itemId": "2c40769195258340"
-    },
-    {
-      "id": "8f0ab4f26a984f96",
-      "t": "2026-11-12T17:26:45.222Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La ciència omple d'activitats El Mirador» (L'Actual - Castellar del Vallès).",
-      "itemId": "30a2ced5aa6eeb83"
-    },
-    {
-      "id": "68804ace1b4a894f",
-      "t": "2026-11-12T17:26:45.223Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El Pla de Barris destinarà 25 milions d’euros a regenerar Les Termes» (iSabadell).",
-      "itemId": "39a460a938a0cb24"
-    },
-    {
-      "id": "a0d70df811e718cd",
-      "t": "2026-11-12T18:14:26.035Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Noves cançons i sorpreses al Calendari d'Advent i al 'Somriu al Nadal'» (Ràdio Sabadell).",
-      "itemId": "b0a6a98d54ed6656"
-    },
-    {
-      "id": "28be5860167b9abd",
-      "t": "2026-11-12T18:14:26.036Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local, Cultura i festes.",
-      "itemId": "b0a6a98d54ed6656"
-    },
-    {
-      "id": "a34845d522102d38",
-      "t": "2026-11-12T18:14:26.037Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "b0a6a98d54ed6656"
-    },
-    {
-      "id": "1dc164b5330f316a",
-      "t": "2026-11-12T18:14:26.038Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Així serà el Nadal 2026 a Sabadell: el Llaminer estrena aventura i arriba amb novetats» (Diari de Sabadell).",
-      "itemId": "bd29fc5525566c60"
-    },
-    {
-      "id": "a20a1311fca6aa05",
-      "t": "2026-11-12T18:14:26.039Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Tot el que has de saber sobre el Nadal a Sabadell» (Ràdio Sabadell).",
-      "itemId": "0b958870c51051f4"
-    },
-    {
       "id": "566f144b66af7b70",
       "t": "2026-11-12T18:14:26.040Z",
       "agente": "etiquetador",
@@ -2799,7 +2729,77 @@
       "agente": "rastreador",
       "texto": "He recollit «Jesús Fernández, Banc de Sang: \"La compatibilitat de la sang de cordó no ha de ser tant alta\"» (Ràdio Sabadell).",
       "itemId": "a306394d163a859c"
+    },
+    {
+      "id": "7d38fcf7ad969153",
+      "t": "2026-11-17T14:51:08.438Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La Rambla reobrirà al trànsit els caps de setmana entre Pau Casals i Marià Fortuny» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "1db8f1c00c8828cc"
+    },
+    {
+      "id": "d0dafddd2f0d68f9",
+      "t": "2026-11-17T14:51:08.439Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat.",
+      "itemId": "1db8f1c00c8828cc"
+    },
+    {
+      "id": "f03b9b092ef040ed",
+      "t": "2026-11-17T14:51:08.440Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · mobilitat.",
+      "itemId": "1db8f1c00c8828cc"
+    },
+    {
+      "id": "8d8ade395d247097",
+      "t": "2026-11-17T14:51:08.441Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Marta Pontnou protagonitzarà l’acte central de les activitats al voltant del 25-N a Castellar» (Diari de Sabadell).",
+      "itemId": "af906eefed0ff357"
+    },
+    {
+      "id": "dd0a80db71052f3b",
+      "t": "2026-11-17T14:51:08.442Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Utebo-Sabadell: la tercera és la bona?» (Ràdio Sabadell).",
+      "itemId": "2158dc12958086c5"
+    },
+    {
+      "id": "32e3853a70e7bffc",
+      "t": "2026-11-17T14:51:08.443Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "2158dc12958086c5"
+    },
+    {
+      "id": "3a0ee99b7d967634",
+      "t": "2026-11-17T14:51:08.444Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "2158dc12958086c5"
+    },
+    {
+      "id": "e7a9daa4f9f99fc9",
+      "t": "2026-11-17T14:51:08.445Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Els veïns de Badia podran tornar a fer la compra a l'avinguda de la Costa Brava» (Diari de Sabadell).",
+      "itemId": "f1c329278e207565"
+    },
+    {
+      "id": "721e2657e7536060",
+      "t": "2026-11-17T14:51:08.446Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Reobre la Biblioteca Esteve Paluzie de Barberà» (Diari de Sabadell).",
+      "itemId": "ef317873fa36718a"
+    },
+    {
+      "id": "7528f81d9d16652c",
+      "t": "2026-11-17T14:51:08.447Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "ef317873fa36718a"
     }
   ],
-  "actualizado": "2026-11-17T14:13:35.090Z"
+  "actualizado": "2026-11-17T14:51:28.670Z"
 }
