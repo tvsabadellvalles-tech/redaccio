@@ -24,7 +24,7 @@ concurrency:
 
 jobs:
   rastrear:
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
     timeout-minutes: 15
     environment:
       name: github-pages
