@@ -1,69 +1,6 @@
 {
   "eventos": [
     {
-      "id": "a30430ed2c0c7c45",
-      "t": "2026-11-12T09:48:09.864Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat.",
-      "itemId": "bde5e2e4ec8b9503"
-    },
-    {
-      "id": "ae2b45df43e3fc59",
-      "t": "2026-11-12T09:48:09.865Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Les pluges i els efectes de la vaga provoquen \"retards generalitzats\" a la xarxa de Rodalies» (Diari de Sabadell).",
-      "itemId": "9bbabdf337c01d31"
-    },
-    {
-      "id": "64ba1533c1c12227",
-      "t": "2026-11-12T09:48:09.866Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat.",
-      "itemId": "9bbabdf337c01d31"
-    },
-    {
-      "id": "12dceb4f82e3da85",
-      "t": "2026-11-12T10:51:34.039Z",
-      "agente": "rastreador",
-      "texto": "La font «Ajuntament de Cerdanyola del Vallès» torna a respondre.",
-      "itemId": null
-    },
-    {
-      "id": "1ec453adbc03632e",
-      "t": "2026-11-12T10:51:34.040Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Santa Perpètua avança amb la Generalitat en el projecte de la residència pública de gent gran» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "561baa730cc87470"
-    },
-    {
-      "id": "d3c4dd38bc22fd65",
-      "t": "2026-11-12T10:51:34.041Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local.",
-      "itemId": "561baa730cc87470"
-    },
-    {
-      "id": "f4a09ed4fb3fee01",
-      "t": "2026-11-12T10:51:34.042Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · política local.",
-      "itemId": "561baa730cc87470"
-    },
-    {
-      "id": "ebb578ee28b40fcd",
-      "t": "2026-11-12T10:51:34.043Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Per què encara et pot tocar ser membre d'una mesa electoral a Sabadell pel 29N?» (Diari de Sabadell).",
-      "itemId": "21d78c1bcdb23332"
-    },
-    {
-      "id": "c626708965b2e79e",
-      "t": "2026-11-12T10:51:34.044Z",
-      "agente": "rastreador",
-      "texto": "He recollit «12 de novembre: Prealerta del Pla Bàsic d'Emergències Municipal per risc de vent» (Ajuntament de Barberà del Vallès).",
-      "itemId": "b7592b72ba72b6b2"
-    },
-    {
       "id": "2902c1343cd70666",
       "t": "2026-11-12T10:51:34.045Z",
       "agente": "etiquetador",
@@ -2799,7 +2736,70 @@
       "agente": "deduplicador",
       "texto": "Descartada perquè és duplicada: coincideix amb «Aprovat el projecte del nou edifici de serveis esportius, que tindrà més de 2.00 m2» (Ajuntament de Santa Perpètua de Mogoda).",
       "itemId": "f96a512e6e0016b6"
+    },
+    {
+      "id": "a2d0c8b11342471d",
+      "t": "2026-11-17T09:59:25.503Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La reurbanització de Ca la Gràcia prioritza la seguretat dels vianants i redueix el trànsit de pas» (Ajuntament de Sentmenat).",
+      "itemId": "78456ee005f84697"
+    },
+    {
+      "id": "9cbc23bc1a3f6408",
+      "t": "2026-11-17T09:59:25.504Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat.",
+      "itemId": "78456ee005f84697"
+    },
+    {
+      "id": "2661d8381f762835",
+      "t": "2026-11-17T09:59:25.505Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · mobilitat.",
+      "itemId": "78456ee005f84697"
+    },
+    {
+      "id": "5e44bda5019a5d2b",
+      "t": "2026-11-17T09:59:25.506Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El doctor Luis Martínez, nou director del servei d'Urgències del Parc Taulí» (Ràdio Sabadell).",
+      "itemId": "935ca98f07f31f0b"
+    },
+    {
+      "id": "389e1746ea3e5410",
+      "t": "2026-11-17T09:59:25.507Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Obres i urbanisme, Salut, Educació.",
+      "itemId": "935ca98f07f31f0b"
+    },
+    {
+      "id": "558cdfa341137c1b",
+      "t": "2026-11-17T09:59:25.508Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): obres i urbanisme, salut, educació.",
+      "itemId": "935ca98f07f31f0b"
+    },
+    {
+      "id": "859fa355c89bb59a",
+      "t": "2026-11-17T09:59:25.509Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El servei de Rodalies a l'R4, sota mínims» (Ràdio Sabadell).",
+      "itemId": "e535a48615b170b0"
+    },
+    {
+      "id": "99c4807d68629252",
+      "t": "2026-11-17T09:59:25.510Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat, Successos, Política local.",
+      "itemId": "e535a48615b170b0"
+    },
+    {
+      "id": "af0d5ee309f15947",
+      "t": "2026-11-17T09:59:25.511Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): mobilitat, successos, política local.",
+      "itemId": "e535a48615b170b0"
     }
   ],
-  "actualizado": "2026-11-17T09:44:15.887Z"
+  "actualizado": "2026-11-17T09:59:46.028Z"
 }

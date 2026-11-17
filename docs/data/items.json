@@ -156,6 +156,31 @@
       "propuesta": true
     },
     {
+      "id": "e535a48615b170b0",
+      "titulo": "El servei de Rodalies a l'R4, sota mínims",
+      "enlace": "https://radiosabadell.fm/actualitat/mobilitat/servei-de-rodalies-lr4-sota-minims",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-17T09:07:43.000Z",
+      "detectado": "2026-11-17T09:59:25.503Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad",
+        "sucesos",
+        "politica"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "mobilitat, successos, política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
       "id": "99e3dbc464aa1bc0",
       "titulo": "Aprovat el projecte del nou edifici de serveis esportius, que tindrà més de 2.00 m2",
       "enlace": "https://www.staperpetua.cat/actualitat/noticies/aprovat-el-projecte-del-nou-edifici-de-serveis-esportius-que-tindra-mes-de-200-m2.html",
@@ -204,6 +229,33 @@
       "motivos": [
         "font oficial",
         "emergències, economia i ocupació, medi ambient"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "935ca98f07f31f0b",
+      "titulo": "El doctor Luis Martínez, nou director del servei d'Urgències del Parc Taulí",
+      "enlace": "https://radiosabadell.fm/actualitat/salut/doctor-luis-martinez-nou-director-urgencies-parc-tauli",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-17T08:37:31.000Z",
+      "detectado": "2026-11-17T09:59:25.503Z",
+      "sensible": false,
+      "etiquetas": [
+        "urbanismo",
+        "salud",
+        "educacion"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "obres i urbanisme, salut, educació"
       ],
       "duplicadaDe": null,
       "propuesta": true
@@ -388,7 +440,33 @@
       ],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "78456ee005f84697",
+      "titulo": "La reurbanització de Ca la Gràcia prioritza la seguretat dels vianants i redueix el trànsit de pas",
+      "enlace": "https://www.sentmenat.cat/actualitat/noticies/la-reurbanitzacio-de-ca-la-gracia-prioritza-la-seguretat-dels-vianants-i-redueix-el-transit-de-pas.html",
+      "fuente": "ayto-sentmenat",
+      "fuenteNombre": "Ajuntament de Sentmenat",
+      "tipo": "oficial",
+      "resumen": "L'Ajuntament de Sentmenat ha completat la reurbanització del passatge de Ca la Gràcia amb l'objectiu de millorar la seguretat, l'accessibilitat i la qualitat de l'espai públic. L'actuació forma part de les accions previstes al Pla de…",
+      "municipio": "sentmenat",
+      "municipiosMencionados": [
+        "sentmenat"
+      ],
+      "publicado": "2026-11-16T23:00:00.000Z",
+      "detectado": "2026-11-17T09:59:25.503Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "font oficial",
+        "mobilitat"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
     }
   ],
-  "actualizado": "2026-11-17T09:44:15.884Z"
+  "actualizado": "2026-11-17T09:59:46.024Z"
 }
