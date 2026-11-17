@@ -2202,7 +2202,7 @@ body { grid-template-rows: auto minmax(0, 1fr); }
 
 /* ---------- Mode de televisió explícit: no depèn del viewport que reporti Android TV ---------- */
 html.modo-tv {
-  font-size: clamp(18px, 1.15vw, 22px) !important;
+  font-size: clamp(20px, 1.25vw, 24px) !important;
 }
 html.modo-tv,
 html.modo-tv body {
@@ -2515,3 +2515,15 @@ html.modo-tv .pie {
     font-size: 0.86rem;
   }
 }
+
+
+/* Refuerzo de lectura en televisores Android con viewport reducido. */
+html.modo-tv .fila-titular { font-size: clamp(1.08rem, 1.35vw, 1.42rem); }
+html.modo-tv .fila-font { font-size: clamp(0.78rem, 0.95vw, 1rem); }
+html.modo-tv .fila-hora { font-size: clamp(0.86rem, 1vw, 1.05rem); }
+html.modo-tv .agenda-titol { font-size: clamp(1rem, 1.15vw, 1.22rem); }
+html.modo-tv .agenda-hora { font-size: clamp(0.92rem, 1vw, 1.08rem); }
+html.modo-tv .servei-nom { font-size: clamp(0.92rem, 1vw, 1.08rem); }
+html.modo-tv .serveis-cap h2,
+html.modo-tv .panell-cap h2,
+html.modo-tv .agenda-cap h2 { font-size: clamp(1.08rem, 1.25vw, 1.35rem); }

@@ -8,19 +8,17 @@
   (() => {
     const userAgent = navigator.userAgent || "";
     const params = new URLSearchParams(location.search);
-    const pantallaGran = window.screen &&
-      screen.width >= 900 &&
-      screen.height >= 500 &&
-      screen.width > screen.height;
+    const esAndroid = /Android/i.test(userAgent);
+    const pantallaApaisada = window.innerWidth > window.innerHeight;
+    const androidTV = esAndroid && (!/Mobile/i.test(userAgent) || pantallaApaisada);
     const identificadorTV = /Android TV|GoogleTV|SmartTV|HbbTV|BRAVIA|AFT[A-Z0-9]*|Fire TV|MiTV|SHIELD Android TV|Tizen|webOS|NetCast/i.test(userAgent);
-    const androidEnPantallaGran = /Android/i.test(userAgent) && pantallaGran;
-    if (params.get("tv") === "1" || identificadorTV || androidEnPantallaGran) {
+    if (params.get("tv") === "1" || identificadorTV || androidTV) {
       document.documentElement.classList.add("modo-tv");
     }
   })();
 </script>
   <title>TV Sabadell-Vallès · Redacció virtual</title>
-  <link rel="stylesheet" href="estil.css?v=2026.11.17.3">
+  <link rel="stylesheet" href="estil.css?v=2026.11.17.4">
 </head>
 <body>
   <header class="cabecera">
@@ -92,6 +90,6 @@
     <p>Només es mostren notícies publicades avui. La font original és sempre l’última referència per confirmar la informació.</p>
   </footer>
 
-  <script src="app.js?v=2026.11.17.3" type="module"></script>
+  <script src="app.js?v=2026.11.17.4" type="module"></script>
 </body>
 </html>
