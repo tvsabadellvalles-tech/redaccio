@@ -2,8 +2,8 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-17T18:09:09.801Z",
-  "total": 17,
+  "consultat": "2026-11-17T19:11:15.387Z",
+  "total": 18,
   "activitats": [
     {
       "titol": "LORENA NO HI ÉS",
@@ -90,6 +90,13 @@
       "color": null
     },
     {
+      "titol": "(Lorena) Decles Estripa'm per VIA15",
+      "inici": "2026-11-18T11:30:00.000Z",
+      "final": "2026-11-18T12:30:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
       "titol": "L'Informatiu",
       "inici": "2026-11-18T15:00:00.000Z",
       "final": "2026-11-18T16:00:00.000Z",
@@ -111,20 +118,20 @@
       "color": null
     },
     {
-      "titol": "Utebo - CE Sabadell",
-      "inici": "2026-11-18T18:00:00.000Z",
-      "final": "2026-11-18T20:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
       "titol": "(Lorena) Rdp pessebristes",
       "inici": "2026-11-18T18:00:00.000Z",
       "final": "2026-11-18T19:00:00.000Z",
       "totElDia": false,
       "color": null
+    },
+    {
+      "titol": "Utebo - CE Sabadell",
+      "inici": "2026-11-18T18:00:00.000Z",
+      "final": "2026-11-18T20:00:00.000Z",
+      "totElDia": false,
+      "color": null
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-17T18:09:52.583Z"
+  "actualizado": "2026-11-17T19:11:53.286Z"
 }

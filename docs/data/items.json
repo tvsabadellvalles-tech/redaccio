@@ -104,6 +104,97 @@
   },
   "items": [
     {
+      "id": "dc0e5125483f5333",
+      "titulo": "La Cambra detecta un potencial de 9.400 habitatges a Sabadell",
+      "enlace": "https://www.diaridesabadell.com/diners/cambra-comerc-sabadell-impacte-socioeconomic-habitatge-valles-occidental.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-17T18:57:06.000Z",
+      "detectado": "2026-11-17T19:11:15.387Z",
+      "sensible": false,
+      "etiquetas": [
+        "urbanismo"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "e1d025dd27f8ce6c",
+      "titulo": "Així serà la programació nadalenca de la Cava Urpí",
+      "enlace": "https://www.isabadell.cat/cultura/aixi-sera-la-programacio-nadalenca-de-la-cava-urpi-340938/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-17T18:49:44.000Z",
+      "detectado": "2026-11-17T19:11:15.387Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "f0cf3fd3e2268779",
+      "titulo": "La demarcació de Sabadell té un dèficit de 8.000 habitatges",
+      "enlace": "https://www.isabadell.cat/societat/demarcacio-de-sabadell-te-un-deficit-de-8-000-habitatges-341006/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-17T18:16:37.000Z",
+      "detectado": "2026-11-17T19:11:15.387Z",
+      "sensible": false,
+      "etiquetas": [
+        "urbanismo",
+        "economia"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "obres i urbanisme, economia i ocupació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "fbe00887740e7a78",
+      "titulo": "Nadal 2026 a Sabadell: quan visita el Llaminer cada barri?",
+      "enlace": "https://www.diaridesabadell.com/sabadell/nadal/nadal-2026-llaminer-barris-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-17T18:10:01.000Z",
+      "detectado": "2026-11-17T19:11:15.387Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "5ac467fcfb6a10e0",
       "titulo": "Incertesa, pertinença, comoditat... Què hi ha darrere la moda de tot al negre dels adolescents?",
       "enlace": "https://www.diaridesabadell.com/sabadell/incertesa-pertinenca-comoditat-que-hi-ha-darrere-moda-vestir-negre-adolescents.html",
@@ -119,6 +210,29 @@
       "etiquetas": [],
       "puntuacion": 0,
       "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "42e9193d50ef83e9",
+      "titulo": "Palau al Dia - Notícies del 17/11/2026",
+      "enlace": "https://www.radiopalau.cat/podcasts/palau-al-dia/radiopalau_podcast_6840/",
+      "fuente": "radio-palau",
+      "fuenteNombre": "Ràdio Palau - Palau al Dia",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "palau",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-17T17:59:55.000Z",
+      "detectado": "2026-11-17T19:11:15.387Z",
+      "sensible": false,
+      "etiquetas": [
+        "salud"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "salut"
+      ],
       "duplicadaDe": null,
       "propuesta": false
     },
@@ -633,6 +747,27 @@
       "etiquetas": [
         "cultura"
       ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "1495e0ce0d6257d0",
+      "titulo": "La sopa hondurenya de costella de vedella de La Mila: \"Volíem recordar la cuina lenta i la de les nostres àvies\"",
+      "enlace": "https://www.diaridesabadell.com/suplements/taula/sopa-hondurenya-costella-vedella-la-mila-plat-i3pt-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-17T11:40:59.000Z",
+      "detectado": "2026-11-17T19:11:15.387Z",
+      "sensible": false,
+      "etiquetas": [],
       "puntuacion": 0,
       "motivos": [],
       "duplicadaDe": null,
@@ -1451,5 +1586,5 @@
       "propuesta": true
     }
   ],
-  "actualizado": "2026-11-17T18:09:30.499Z"
+  "actualizado": "2026-11-17T19:11:34.028Z"
 }

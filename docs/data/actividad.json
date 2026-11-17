@@ -1,69 +1,6 @@
 {
   "eventos": [
     {
-      "id": "1cd12c45e4def487",
-      "t": "2026-11-12T19:58:22.731Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Demanen col·laboració per localitzar una dona desapareguda a Sabadell» (iSabadell).",
-      "itemId": "239b3959dc798c60"
-    },
-    {
-      "id": "1948d0b26f1ef646",
-      "t": "2026-11-12T19:58:22.732Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Successos.",
-      "itemId": "239b3959dc798c60"
-    },
-    {
-      "id": "30e293e7bec6a416",
-      "t": "2026-11-12T21:29:03.950Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Sabadell recupera els espectacles amb aigua i música a les fonts del passeig de la Plaça Major per Nadal» (Agència Catalana de Notícies (ACN)).",
-      "itemId": "8e47c4506ac050d2"
-    },
-    {
-      "id": "301d84c6edafb605",
-      "t": "2026-11-12T21:29:03.951Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Medi ambient, Cultura i festes.",
-      "itemId": "8e47c4506ac050d2"
-    },
-    {
-      "id": "b9e266f2d6043ce7",
-      "t": "2026-11-12T21:29:03.952Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Comença la campanya electoral per a les eleccions generals del 29N» (Diari de Sabadell).",
-      "itemId": "e24079a8321f2044"
-    },
-    {
-      "id": "cf32cb2dfd9faa3d",
-      "t": "2026-11-12T22:56:58.546Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Així ha arrencat la campanya de les generals a Sabadell» (iSabadell).",
-      "itemId": "d97ff5cbfcbfecc7"
-    },
-    {
-      "id": "7e2e23d660bfa2a8",
-      "t": "2026-11-12T22:56:58.547Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Compte enrere per a l'inici de la campanya electoral» (Ràdio Sabadell).",
-      "itemId": "9772139997cd64f2"
-    },
-    {
-      "id": "d58891675b7134ea",
-      "t": "2026-11-12T22:56:58.548Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat, Política local, Obres i urbanisme, Salut, Esports.",
-      "itemId": "9772139997cd64f2"
-    },
-    {
-      "id": "60d83e1dc81e7c70",
-      "t": "2026-11-12T22:56:58.549Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): mobilitat, política local, obres i urbanisme, salut.",
-      "itemId": "9772139997cd64f2"
-    },
-    {
       "id": "6c2a19dc49a08f0d",
       "t": "2026-11-12T23:32:45.488Z",
       "agente": "rastreador",
@@ -2799,7 +2736,70 @@
       "agente": "vigilante",
       "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
       "itemId": "5ac467fcfb6a10e0"
+    },
+    {
+      "id": "62383ac96511a982",
+      "t": "2026-11-17T19:11:15.387Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La sopa hondurenya de costella de vedella de La Mila: \"Volíem recordar la cuina lenta i la de les nostres àvies\"» (Diari de Sabadell).",
+      "itemId": "1495e0ce0d6257d0"
+    },
+    {
+      "id": "ced756dcc6bdbc7d",
+      "t": "2026-11-17T19:11:15.388Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Palau al Dia - Notícies del 17/11/2026» (Ràdio Palau - Palau al Dia).",
+      "itemId": "42e9193d50ef83e9"
+    },
+    {
+      "id": "0297adf164b9e118",
+      "t": "2026-11-17T19:11:15.389Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut.",
+      "itemId": "42e9193d50ef83e9"
+    },
+    {
+      "id": "aed7099f9fd56e45",
+      "t": "2026-11-17T19:11:15.390Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Nadal 2026 a Sabadell: quan visita el Llaminer cada barri?» (Diari de Sabadell).",
+      "itemId": "fbe00887740e7a78"
+    },
+    {
+      "id": "012ace9abd433740",
+      "t": "2026-11-17T19:11:15.391Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La demarcació de Sabadell té un dèficit de 8.000 habitatges» (iSabadell).",
+      "itemId": "f0cf3fd3e2268779"
+    },
+    {
+      "id": "9fd6ea298876504c",
+      "t": "2026-11-17T19:11:15.392Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Obres i urbanisme, Economia i ocupació.",
+      "itemId": "f0cf3fd3e2268779"
+    },
+    {
+      "id": "c389bafec89c22a0",
+      "t": "2026-11-17T19:11:15.393Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Així serà la programació nadalenca de la Cava Urpí» (iSabadell).",
+      "itemId": "e1d025dd27f8ce6c"
+    },
+    {
+      "id": "954543bec2a1669d",
+      "t": "2026-11-17T19:11:15.394Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La Cambra detecta un potencial de 9.400 habitatges a Sabadell» (Diari de Sabadell).",
+      "itemId": "dc0e5125483f5333"
+    },
+    {
+      "id": "10ff4d00d97c10da",
+      "t": "2026-11-17T19:11:15.395Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Obres i urbanisme.",
+      "itemId": "dc0e5125483f5333"
     }
   ],
-  "actualizado": "2026-11-17T18:09:30.503Z"
+  "actualizado": "2026-11-17T19:11:34.032Z"
 }
