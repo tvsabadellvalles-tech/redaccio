@@ -104,6 +104,63 @@
   },
   "items": [
     {
+      "id": "5ac467fcfb6a10e0",
+      "titulo": "Incertesa, pertinença, comoditat... Què hi ha darrere la moda de tot al negre dels adolescents?",
+      "enlace": "https://www.diaridesabadell.com/sabadell/incertesa-pertinenca-comoditat-que-hi-ha-darrere-moda-vestir-negre-adolescents.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-17T18:02:40.000Z",
+      "detectado": "2026-11-17T18:09:09.801Z",
+      "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "2e092069d3ff1acc",
+      "titulo": "Generació BSO 16/11/26",
+      "enlace": "https://radiosabadell.fm/alacarta/audio/generacio-bso-161126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-17T17:51:11.000Z",
+      "detectado": "2026-11-17T18:09:09.801Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "8abf548f68af6b14",
+      "titulo": "Simó convida a recuperar el plaer dels fogons",
+      "enlace": "https://www.lactual.cat/actualitat/simo-convida-recuperar-plaer-fogons_55395_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-17T17:31:39.000Z",
+      "detectado": "2026-11-17T18:09:09.801Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "18a84653cc713112",
       "titulo": "El Servei de Primera Acollida entrega els certificats",
       "enlace": "https://www.lactual.cat/actualitat/servei-primera-acollida-entrega-certificats_55394_102.html",
@@ -1394,5 +1451,5 @@
       "propuesta": true
     }
   ],
-  "actualizado": "2026-11-17T17:09:12.253Z"
+  "actualizado": "2026-11-17T18:09:30.499Z"
 }

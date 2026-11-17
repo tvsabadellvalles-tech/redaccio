@@ -1,34 +1,6 @@
 {
   "eventos": [
     {
-      "id": "8d6f049c36bbd787",
-      "t": "2026-11-12T19:19:27.474Z",
-      "agente": "deduplicador",
-      "texto": "Descartada perquè és duplicada: coincideix amb «Així serà el Nadal 2026 a Sabadell: el Llaminer estrena aventura i arriba amb novetats» (Diari de Sabadell).",
-      "itemId": "c6728a07dc26efb9"
-    },
-    {
-      "id": "11dde22e087da303",
-      "t": "2026-11-12T19:58:22.728Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Els protagonistes del Nadal, més enllà del Llaminer: l'Ambaixador, els Reis i els pessebristes» (Ràdio Sabadell).",
-      "itemId": "a43298b9dd63d395"
-    },
-    {
-      "id": "cc120381f9c1cd0f",
-      "t": "2026-11-12T19:58:22.729Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Economia i ocupació, Cultura i festes.",
-      "itemId": "a43298b9dd63d395"
-    },
-    {
-      "id": "a7ea00d9c1a24931",
-      "t": "2026-11-12T19:58:22.730Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "a43298b9dd63d395"
-    },
-    {
       "id": "1cd12c45e4def487",
       "t": "2026-11-12T19:58:22.731Z",
       "agente": "rastreador",
@@ -2799,7 +2771,35 @@
       "agente": "mesa",
       "texto": "Proposo incloure-ho a l'escaleta (4 punts): font oficial · política local, economia i ocupació.",
       "itemId": "3103799746dff761"
+    },
+    {
+      "id": "4b35039df51a2e0c",
+      "t": "2026-11-17T18:09:09.801Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Simó convida a recuperar el plaer dels fogons» (L'Actual - Castellar del Vallès).",
+      "itemId": "8abf548f68af6b14"
+    },
+    {
+      "id": "a6257c05e05649a3",
+      "t": "2026-11-17T18:09:09.802Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Generació BSO 16/11/26» (Ràdio Sabadell).",
+      "itemId": "2e092069d3ff1acc"
+    },
+    {
+      "id": "50b67925352b5280",
+      "t": "2026-11-17T18:09:09.803Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Incertesa, pertinença, comoditat... Què hi ha darrere la moda de tot al negre dels adolescents?» (Diari de Sabadell).",
+      "itemId": "5ac467fcfb6a10e0"
+    },
+    {
+      "id": "54f72c46f7cc4054",
+      "t": "2026-11-17T18:09:09.804Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "5ac467fcfb6a10e0"
     }
   ],
-  "actualizado": "2026-11-17T16:05:24.973Z"
+  "actualizado": "2026-11-17T18:09:30.503Z"
 }

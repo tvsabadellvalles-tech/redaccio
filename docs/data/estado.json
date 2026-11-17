@@ -10,7 +10,7 @@
     },
     "diari-sabadell": {
       "ok": true,
-      "items": 16
+      "items": 17
     },
     "diari-terrassa": {
       "ok": true,
@@ -22,7 +22,7 @@
     },
     "ayto-castellar": {
       "ok": true,
-      "items": 3
+      "items": 4
     },
     "ayto-sentmenat": {
       "ok": true,
@@ -81,6 +81,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-17T17:08:51.263Z",
-  "actualizado": "2026-11-17T17:09:12.254Z"
+  "consultat": "2026-11-17T18:09:09.801Z",
+  "actualizado": "2026-11-17T18:09:30.501Z"
 }
