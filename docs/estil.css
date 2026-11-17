@@ -2198,3 +2198,320 @@ body { grid-template-rows: auto minmax(0, 1fr); }
   .streaming-cap h2 { font-size: 1.25rem; }
   .streaming-estat { font-size: 0.95rem; }
 }
+
+
+/* ---------- Mode de televisió explícit: no depèn del viewport que reporti Android TV ---------- */
+html.modo-tv {
+  font-size: clamp(18px, 1.15vw, 22px) !important;
+}
+html.modo-tv,
+html.modo-tv body {
+  width: 100%;
+  height: 100%;
+  min-height: 0;
+  overflow: hidden;
+}
+html.modo-tv body {
+  display: grid;
+  grid-template-rows: auto minmax(0, 1fr);
+  gap: 0;
+}
+html.modo-tv .cabecera {
+  display: flex;
+  width: 100%;
+  max-width: none;
+  min-height: 0;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+  margin: 0;
+  padding: 8px clamp(14px, 2vw, 32px);
+}
+html.modo-tv .marca {
+  width: auto;
+  min-width: 0;
+  flex: 1 1 auto;
+  align-items: center;
+  gap: 12px;
+}
+html.modo-tv .marca-logo {
+  width: clamp(125px, 12vw, 190px);
+}
+html.modo-tv .cabecera-dades {
+  display: flex;
+  width: auto;
+  flex: 0 1 auto;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  gap: clamp(10px, 1.5vw, 24px);
+}
+html.modo-tv .rellotge-caja {
+  min-width: clamp(115px, 11vw, 185px);
+  justify-items: end;
+}
+html.modo-tv #hora-actual {
+  font-size: clamp(2.5rem, 4vw, 4rem);
+}
+html.modo-tv #data-actual {
+  font-size: 0.78rem;
+}
+html.modo-tv .prevision-cabecera {
+  gap: clamp(7px, 1vw, 16px);
+}
+html.modo-tv .prevision-dia,
+html.modo-tv .prevision-buits {
+  font-size: 0.78rem;
+}
+html.modo-tv .prevision-icona {
+  font-size: clamp(2rem, 2.8vw, 2.8rem);
+}
+html.modo-tv .prevision-temperatura {
+  font-size: clamp(1.65rem, 2.3vw, 2.3rem);
+}
+html.modo-tv .contingut-principal {
+  display: grid;
+  width: calc(100% - 28px);
+  max-width: none;
+  min-width: 0;
+  min-height: 0;
+  grid-template-columns: minmax(0, 2.2fr) minmax(240px, 1fr);
+  grid-template-rows: minmax(0, 1fr);
+  align-items: stretch;
+  gap: clamp(10px, 1.3vw, 20px);
+  overflow: hidden;
+  margin: 0 auto;
+}
+html.modo-tv .columna-noticies {
+  display: flex;
+  min-width: 0;
+  min-height: 0;
+  flex-direction: column;
+  overflow: hidden;
+}
+html.modo-tv .serveis-panell {
+  width: 100%;
+  max-width: none;
+  flex: none;
+  margin: 0 0 6px;
+  padding: 7px 8px;
+}
+html.modo-tv .serveis-cap {
+  margin-bottom: 5px;
+}
+html.modo-tv .serveis-cap h2 {
+  font-size: 0.92rem;
+}
+html.modo-tv .serveis-actualitzat {
+  font-size: 0.76rem;
+}
+html.modo-tv .serveis-grid {
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 6px;
+}
+html.modo-tv .servei-card {
+  min-width: 0;
+  min-height: 52px;
+  height: auto;
+  padding: 6px 7px;
+}
+html.modo-tv .servei-resum {
+  grid-template-columns: 34px minmax(0, 1fr);
+  grid-template-rows: auto auto;
+  gap: 2px 6px;
+}
+html.modo-tv .servei-icona {
+  width: 30px;
+  height: 28px;
+}
+html.modo-tv .servei-nom {
+  font-size: 0.88rem;
+}
+html.modo-tv .serveis-avisos:not([hidden]) {
+  min-height: 52px;
+  margin-top: 5px;
+}
+html.modo-tv .servei-incidencia {
+  min-height: 52px;
+  padding: 5px 8px;
+}
+html.modo-tv .incidencia-titol {
+  font-size: 0.95rem;
+}
+html.modo-tv .incidencia-detall {
+  font-size: 0.78rem;
+}
+html.modo-tv .panell-noticies {
+  display: flex;
+  width: 100%;
+  min-width: 0;
+  min-height: 0;
+  flex: 1 1 auto;
+  flex-direction: column;
+  overflow: hidden;
+  margin: 0;
+  padding: 0 0 5px;
+}
+html.modo-tv .panell-cap {
+  flex: none;
+  align-items: center;
+  padding: 5px 0 7px;
+}
+html.modo-tv .panell-cap h2,
+html.modo-tv .agenda-cap h2 {
+  font-size: 1.25rem;
+}
+html.modo-tv .noticies-actualitzat {
+  max-width: none;
+  font-size: 0.76rem;
+}
+html.modo-tv .llista-noticies {
+  display: flex;
+  min-height: 0;
+  flex: 1 1 auto;
+  flex-direction: column;
+  overflow-x: hidden;
+  overflow-y: auto;
+  padding: 2px 0 6px;
+}
+html.modo-tv .noticia-fila {
+  display: grid;
+  min-width: 0;
+  min-height: 50px;
+  grid-template-columns: 58px minmax(90px, 0.32fr) minmax(0, 1fr);
+  grid-template-rows: auto;
+  align-items: center;
+  gap: 5px 8px;
+  flex: none;
+  padding: 6px 8px;
+}
+html.modo-tv .fila-hora {
+  grid-row: auto;
+  font-size: 0.86rem;
+}
+html.modo-tv .fila-font {
+  grid-column: auto;
+  font-size: 0.76rem;
+}
+html.modo-tv .fila-titular {
+  grid-column: auto;
+  font-size: 1rem;
+  line-height: 1.25;
+  -webkit-line-clamp: 2;
+}
+html.modo-tv .agenda-panell {
+  display: flex;
+  min-width: 0;
+  min-height: 0;
+  flex-direction: column;
+  grid-row: auto;
+  overflow: hidden;
+  margin: 0;
+  padding: 7px 0 0 12px;
+  border-top: 0;
+  border-left: 1px solid var(--borde);
+}
+html.modo-tv .streaming-panell {
+  flex: none;
+  margin: 0 0 8px;
+}
+html.modo-tv .streaming-marc {
+  width: 100%;
+  max-height: none;
+  aspect-ratio: 16 / 9;
+}
+html.modo-tv .agenda-cap {
+  flex: none;
+  align-items: center;
+  margin-bottom: 5px;
+}
+html.modo-tv .agenda-activitats {
+  min-height: 0;
+  flex: 1 1 auto;
+  overflow-y: auto;
+}
+html.modo-tv .agenda-activitat {
+  grid-template-columns: minmax(68px, auto) minmax(0, 1fr);
+  gap: 7px;
+  padding: 7px 5px 7px 7px;
+}
+html.modo-tv .agenda-hora {
+  min-width: 68px;
+  font-size: 0.86rem;
+}
+html.modo-tv .agenda-titol {
+  font-size: 0.96rem;
+  line-height: 1.25;
+}
+html.modo-tv .pie {
+  display: none;
+}
+
+@media (max-width: 1100px) {
+  html.modo-tv .contingut-principal {
+    grid-template-columns: minmax(0, 1.7fr) minmax(220px, 1fr);
+  }
+  html.modo-tv .serveis-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+  html.modo-tv .noticia-fila {
+    grid-template-columns: 50px minmax(76px, 0.3fr) minmax(0, 1fr);
+    gap: 5px;
+  }
+}
+@media (max-width: 699px) {
+  html.modo-tv .cabecera {
+    flex-direction: row;
+    padding: 6px 8px;
+  }
+  html.modo-tv .marca {
+    width: auto;
+  }
+  html.modo-tv .marca-logo {
+    width: 105px;
+  }
+  html.modo-tv .cabecera-dades {
+    width: auto;
+    flex-direction: row;
+  }
+  html.modo-tv .rellotge-caja {
+    min-width: 90px;
+  }
+  html.modo-tv #hora-actual {
+    font-size: 2.15rem;
+  }
+  html.modo-tv .contingut-principal {
+    width: calc(100% - 16px);
+    grid-template-columns: minmax(0, 1.6fr) minmax(190px, 1fr);
+    grid-template-rows: minmax(0, 1fr);
+    gap: 7px;
+  }
+  html.modo-tv .serveis-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  html.modo-tv .noticia-fila {
+    grid-template-columns: 42px minmax(0, 1fr);
+    grid-template-rows: auto auto;
+    gap: 3px 6px;
+    padding: 5px;
+  }
+  html.modo-tv .fila-hora {
+    grid-row: 1 / 3;
+    font-size: 0.78rem;
+  }
+  html.modo-tv .fila-font {
+    grid-column: 2;
+    font-size: 0.7rem;
+  }
+  html.modo-tv .fila-titular {
+    grid-column: 2;
+    font-size: 0.9rem;
+  }
+  html.modo-tv .agenda-panell {
+    padding-left: 7px;
+  }
+  html.modo-tv .agenda-titol {
+    font-size: 0.86rem;
+  }
+}
