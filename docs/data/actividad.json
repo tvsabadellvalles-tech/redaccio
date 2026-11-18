@@ -1,34 +1,6 @@
 {
   "eventos": [
     {
-      "id": "c48c698a86ae8591",
-      "t": "2026-11-14T19:37:46.053Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Obres i urbanisme, Salut.",
-      "itemId": "eafa156757f6fc84"
-    },
-    {
-      "id": "f4c5c769d393466e",
-      "t": "2026-11-14T19:37:46.054Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Salvador Illa: \"No són eleccions per fer provatures. Hem de concentrar el vot\"» (Ràdio Sabadell).",
-      "itemId": "fa81a6c7ef7fef29"
-    },
-    {
-      "id": "36d28caa8b6aedc0",
-      "t": "2026-11-14T19:37:46.055Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local, Obres i urbanisme, Salut, Esports.",
-      "itemId": "fa81a6c7ef7fef29"
-    },
-    {
-      "id": "658c8019b2c34f06",
-      "t": "2026-11-14T19:37:46.056Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): política local, obres i urbanisme, salut.",
-      "itemId": "fa81a6c7ef7fef29"
-    },
-    {
       "id": "24232c0ed1ecf4d3",
       "t": "2026-11-14T19:37:46.057Z",
       "agente": "rastreador",
@@ -2799,7 +2771,35 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Esports.",
       "itemId": "ed2c5220aa86cac1"
+    },
+    {
+      "id": "6dd9bb19a8df9e66",
+      "t": "2026-11-18T21:28:22.266Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Champions: el Club perd contra l’Herceg Novi i es complica la vida» (iSabadell).",
+      "itemId": "d8ca2bdf61283988"
+    },
+    {
+      "id": "47b9298e3f8e3221",
+      "t": "2026-11-18T21:28:22.267Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "d8ca2bdf61283988"
+    },
+    {
+      "id": "27c404032ce972ad",
+      "t": "2026-11-18T21:28:22.268Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La 49ª exposició de pessebres arriba amb moltes novetats» (iSabadell).",
+      "itemId": "1e189d1d7faa9259"
+    },
+    {
+      "id": "f98783ba7301f7ff",
+      "t": "2026-11-18T21:28:22.269Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Obres i urbanisme, Cultura i festes.",
+      "itemId": "1e189d1d7faa9259"
     }
   ],
-  "actualizado": "2026-11-18T20:31:56.856Z"
+  "actualizado": "2026-11-18T21:28:37.152Z"
 }

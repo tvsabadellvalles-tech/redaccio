@@ -104,6 +104,32 @@
   },
   "items": [
     {
+      "id": "1e189d1d7faa9259",
+      "titulo": "La 49ª exposició de pessebres arriba amb moltes novetats",
+      "enlace": "https://www.isabadell.cat/cultura/la-49a-exposicio-de-pessebres-arriba-amb-moltes-novetats-341124/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-18T20:47:03.000Z",
+      "detectado": "2026-11-18T21:28:22.266Z",
+      "sensible": false,
+      "etiquetas": [
+        "urbanismo",
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "ed2c5220aa86cac1",
       "titulo": "El Sabadell es passeja a Utebo i recupera sensacions (0-3)",
       "enlace": "https://www.isabadell.cat/esports/futbol/el-sabadell-es-passeja-a-utebo-i-recupera-sensacions-0-3-341114/",
@@ -142,6 +168,27 @@
       "detectado": "2026-11-18T20:31:35.729Z",
       "sensible": false,
       "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "d8ca2bdf61283988",
+      "titulo": "Champions: el Club perd contra l’Herceg Novi i es complica la vida",
+      "enlace": "https://www.isabadell.cat/esports/waterpolo/champions-el-club-perd-contra-el-herceg-novi-el-top-8-mes-dificil-341123/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-18T20:00:53.000Z",
+      "detectado": "2026-11-18T21:28:22.266Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
       "puntuacion": 0,
       "motivos": [],
       "duplicadaDe": null,
@@ -1647,5 +1694,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-18T20:31:56.853Z"
+  "actualizado": "2026-11-18T21:28:37.148Z"
 }
