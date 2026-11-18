@@ -2,7 +2,7 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-18T16:40:16.097Z",
+  "consultat": "2026-11-18T17:38:42.761Z",
   "total": 23,
   "activitats": [
     {
@@ -168,5 +168,5 @@
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-18T16:41:00.139Z"
+  "actualizado": "2026-11-18T17:39:24.673Z"
 }

@@ -1,76 +1,6 @@
 {
   "eventos": [
     {
-      "id": "4d6569de82e8682a",
-      "t": "2026-11-13T18:29:17.389Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): successos, obres i urbanisme.",
-      "itemId": "cd32ec1dfa443c56"
-    },
-    {
-      "id": "5133ef101affd056",
-      "t": "2026-11-13T18:29:17.390Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Eloi Moya, Arteneu: ''Al Cicle de l'Arteneu portem artistes que tenen vinculació amb nosaltres o la ciutat''» (Ràdio Sabadell).",
-      "itemId": "24cb360aebeb914b"
-    },
-    {
-      "id": "8fd769df45ca8ab9",
-      "t": "2026-11-13T19:26:05.196Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Bon Preu obre el seu primer supermercat a Castellar» (iSabadell).",
-      "itemId": "8b21ee54d7893531"
-    },
-    {
-      "id": "55bbdcd775201bd6",
-      "t": "2026-11-13T19:26:05.197Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Economia i ocupació.",
-      "itemId": "8b21ee54d7893531"
-    },
-    {
-      "id": "7bfb359dc00b5c4b",
-      "t": "2026-11-13T21:08:44.988Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El nou Esclat de Castellar ja està en marxa» (L'Actual - Castellar del Vallès).",
-      "itemId": "1f2caadc6e456997"
-    },
-    {
-      "id": "eccc8ef6d68761aa",
-      "t": "2026-11-14T08:21:21.297Z",
-      "agente": "rastreador",
-      "texto": "He recollit «‘David, eso no fue ‘La Revuelta”» (iSabadell).",
-      "itemId": "563a36ba1ce8ffd7"
-    },
-    {
-      "id": "10998eb07b803125",
-      "t": "2026-11-14T09:09:41.272Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Que la complexitat no deixi ningú als marges» (iSabadell).",
-      "itemId": "b86ab43dffe2e50b"
-    },
-    {
-      "id": "3631e12c801d6376",
-      "t": "2026-11-14T09:09:41.273Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Com s'han viscut les vagues generals estatals a Sabadell des que va arribar la democràcia?» (Diari de Sabadell).",
-      "itemId": "ee005fe832cc7fe8"
-    },
-    {
-      "id": "ed5abc15465622e2",
-      "t": "2026-11-14T09:12:13.861Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Un CE Sabadell plagat de baixes busca recuperar el camí del triomf davant d'un rival conegut» (Diari de Sabadell).",
-      "itemId": "17096cad46fda09b"
-    },
-    {
-      "id": "02994956643a4ae3",
-      "t": "2026-11-14T09:20:18.897Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Rock als Ossos, emotiu homenatge als Watts» (Diari de Sabadell).",
-      "itemId": "3b90159e6e40e6b5"
-    },
-    {
       "id": "65d7dc2ac1c8d159",
       "t": "2026-11-14T12:22:28.420Z",
       "agente": "rastreador",
@@ -2799,7 +2729,77 @@
       "agente": "rastreador",
       "texto": "He recollit «Planimetria» (Ràdio Sabadell).",
       "itemId": "72e844b07e3b4aaf"
+    },
+    {
+      "id": "2e311161beb8f121",
+      "t": "2026-11-18T17:38:42.761Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Premien el treball d'una universitària per transformar una antiga fàbrica en desús de Sabadell» (Diari de Sabadell).",
+      "itemId": "68b5ebcdc93edb3d"
+    },
+    {
+      "id": "f6c68d38b3a58805",
+      "t": "2026-11-18T17:38:42.762Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La Ciutat» (Ràdio Sabadell).",
+      "itemId": "ecf9875b43186bc4"
+    },
+    {
+      "id": "be04f93daf367676",
+      "t": "2026-11-18T17:38:42.763Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Barri» (Ràdio Sabadell).",
+      "itemId": "25d0114cdcf254be"
+    },
+    {
+      "id": "dc1e2d16c8632143",
+      "t": "2026-11-18T17:38:42.764Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Ametllers» (Ràdio Sabadell).",
+      "itemId": "cc47be0dac3f1561"
+    },
+    {
+      "id": "862f845b32e6aecc",
+      "t": "2026-11-18T17:38:42.765Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Cases Encantades» (Ràdio Sabadell).",
+      "itemId": "5febd70599bda0d8"
+    },
+    {
+      "id": "edbbf89fc76024f1",
+      "t": "2026-11-18T17:38:42.766Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La Ciutat Invisible» (Ràdio Sabadell).",
+      "itemId": "a0377b48769b6ecd"
+    },
+    {
+      "id": "348f82bc3363b7d4",
+      "t": "2026-11-18T17:38:42.767Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La Calle» (Ràdio Sabadell).",
+      "itemId": "2ab0dc5b962cd934"
+    },
+    {
+      "id": "8471c22edd1e2024",
+      "t": "2026-11-18T17:38:42.768Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Omplim» (Ràdio Sabadell).",
+      "itemId": "5392137093d5c0db"
+    },
+    {
+      "id": "bbfbb90d8b47bd4c",
+      "t": "2026-11-18T17:38:42.769Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La Ciutat» (Ràdio Sabadell).",
+      "itemId": "6781c049da528a4c"
+    },
+    {
+      "id": "146f098b86a36430",
+      "t": "2026-11-18T17:38:42.770Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Sabadell Dita» (Ràdio Sabadell).",
+      "itemId": "7a6b04cf8c25792d"
     }
   ],
-  "actualizado": "2026-11-18T16:40:39.518Z"
+  "actualizado": "2026-11-18T17:39:03.188Z"
 }

@@ -104,6 +104,216 @@
   },
   "items": [
     {
+      "id": "7a6b04cf8c25792d",
+      "titulo": "Sabadell Dita",
+      "enlace": "https://radiosabadell.fm/alacarta/audio/sabadell-dita",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-18T16:54:29.000Z",
+      "detectado": "2026-11-18T17:38:42.761Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "6781c049da528a4c",
+      "titulo": "La Ciutat",
+      "enlace": "https://radiosabadell.fm/alacarta/audio/la-ciutat-0",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-18T16:51:52.000Z",
+      "detectado": "2026-11-18T17:38:42.761Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "5392137093d5c0db",
+      "titulo": "Omplim",
+      "enlace": "https://radiosabadell.fm/alacarta/audio/omplim",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-18T16:50:49.000Z",
+      "detectado": "2026-11-18T17:38:42.761Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "2ab0dc5b962cd934",
+      "titulo": "La Calle",
+      "enlace": "https://radiosabadell.fm/alacarta/audio/la-calle",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-18T16:49:48.000Z",
+      "detectado": "2026-11-18T17:38:42.761Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "a0377b48769b6ecd",
+      "titulo": "La Ciutat Invisible",
+      "enlace": "https://radiosabadell.fm/alacarta/audio/la-ciutat-invisible",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-18T16:48:53.000Z",
+      "detectado": "2026-11-18T17:38:42.761Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "5febd70599bda0d8",
+      "titulo": "Cases Encantades",
+      "enlace": "https://radiosabadell.fm/alacarta/audio/cases-encantades",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-18T16:47:31.000Z",
+      "detectado": "2026-11-18T17:38:42.761Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "cc47be0dac3f1561",
+      "titulo": "Ametllers",
+      "enlace": "https://radiosabadell.fm/alacarta/audio/ametllers",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-18T16:46:14.000Z",
+      "detectado": "2026-11-18T17:38:42.761Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "25d0114cdcf254be",
+      "titulo": "Barri",
+      "enlace": "https://radiosabadell.fm/alacarta/audio/barri",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-18T16:44:50.000Z",
+      "detectado": "2026-11-18T17:38:42.761Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "ecf9875b43186bc4",
+      "titulo": "La Ciutat",
+      "enlace": "https://radiosabadell.fm/alacarta/audio/la-ciutat",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-18T16:43:27.000Z",
+      "detectado": "2026-11-18T17:38:42.761Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "68b5ebcdc93edb3d",
+      "titulo": "Premien el treball d'una universitària per transformar una antiga fàbrica en desús de Sabadell",
+      "enlace": "https://www.diaridesabadell.com/sabadell/premien-treball-universitaria-per-transformar-antiga-fabrica-desus-sabadell-vapor-turull.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-18T16:40:04.000Z",
+      "detectado": "2026-11-18T17:38:42.761Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "72e844b07e3b4aaf",
       "titulo": "Planimetria",
       "enlace": "https://radiosabadell.fm/alacarta/audio/planimetria",
@@ -1224,5 +1434,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-18T16:40:39.514Z"
+  "actualizado": "2026-11-18T17:39:03.184Z"
 }
