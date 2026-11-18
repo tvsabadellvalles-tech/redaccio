@@ -104,6 +104,50 @@
   },
   "items": [
     {
+      "id": "8403b91042a45719",
+      "titulo": "FOTOS | Comencen les obres del nou mercat de Campoamor",
+      "enlace": "https://www.diaridesabadell.com/sabadell/fotos-comencen-obres-mercat-campoamor-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-18T07:52:15.000Z",
+      "detectado": "2026-11-18T08:05:54.668Z",
+      "sensible": false,
+      "etiquetas": [
+        "urbanismo"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "aed88230d6491a8a",
+      "titulo": "La Puríssima, on les joguines tornen a ser estimades",
+      "enlace": "https://www.isabadell.cat/gent-que-fa-be/la-purissima-les-joguines-tornen-340943/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-18T07:00:00.000Z",
+      "detectado": "2026-11-18T08:05:54.668Z",
+      "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "15076eb7496c30b2",
       "titulo": "Infopòdcast Sabadell 18.11.26",
       "enlace": "https://radiosabadell.fm/alacarta/audio/infopodcast-sabadell-181126",
@@ -144,7 +188,33 @@
       "motivos": [],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "57f9ef35e813421e",
+      "titulo": "La campanya Cap infant sense joguines 2026 obre el període de sol·licituds del 18 de novembre a l'1 de desembre",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/la-campanya-cap-infant-sense-joguines-2026-obre-el-periode-de-sollicituds-del-18-de-novembre-a-l1-de-desembre.html",
+      "fuente": "ayto-santa-perpetua",
+      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
+      "tipo": "oficial",
+      "resumen": "L'Ajuntament de Santa Perpètua de Mogoda posa en marxa un any més la campanya Cap infant sense joguines, adreçada a les famílies en situació de vulnerabilitat amb infants de 0 a 14 anys.",
+      "municipio": "santa-perpetua",
+      "municipiosMencionados": [
+        "santa-perpetua"
+      ],
+      "publicado": "2026-11-17T23:00:00.000Z",
+      "detectado": "2026-11-18T08:05:54.668Z",
+      "sensible": true,
+      "etiquetas": [
+        "salud"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "font oficial",
+        "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
     }
   ],
-  "actualizado": "2026-11-18T05:49:33.250Z"
+  "actualizado": "2026-11-18T08:06:13.645Z"
 }

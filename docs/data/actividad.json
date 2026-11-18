@@ -1,55 +1,6 @@
 {
   "eventos": [
     {
-      "id": "7472f88ca0e2a05b",
-      "t": "2026-11-13T08:49:12.605Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Economia i ocupació.",
-      "itemId": "64820bc1ac5cde10"
-    },
-    {
-      "id": "8040a073ea6349bf",
-      "t": "2026-11-13T08:49:12.606Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La primera setmana de la campanya de vigilància contra l'incivisme suma 46 denúncies» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "1ae10108e0256e67"
-    },
-    {
-      "id": "629b5c5399700436",
-      "t": "2026-11-13T08:49:12.607Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Medi ambient.",
-      "itemId": "1ae10108e0256e67"
-    },
-    {
-      "id": "f06b87c6c92c3ecc",
-      "t": "2026-11-13T08:49:12.608Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Les Termes, el barri que més ha crescut a Sabadell en el darrer any (+3,7%)» (Diari de Sabadell).",
-      "itemId": "decbf73fc3868199"
-    },
-    {
-      "id": "61d6783039b2b287",
-      "t": "2026-11-13T08:49:12.609Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Oberta la convocatòria del Concurs d’aparadors de Nadal» (Ajuntament de Sant Quirze del Vallès).",
-      "itemId": "4c59e2f95e071b51"
-    },
-    {
-      "id": "73c755dfc5f7e9bd",
-      "t": "2026-11-13T09:43:35.603Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Retards a la línia R4 de Rodalies per dues incidències» (Diari de Sabadell).",
-      "itemId": "33936ee102c725b3"
-    },
-    {
-      "id": "9213187a8f6914c4",
-      "t": "2026-11-13T09:43:35.604Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat, Successos.",
-      "itemId": "33936ee102c725b3"
-    },
-    {
       "id": "dac47ad7b6c6d8f7",
       "t": "2026-11-13T09:43:35.605Z",
       "agente": "mesa",
@@ -2799,7 +2750,56 @@
       "agente": "rastreador",
       "texto": "He recollit «Últimes hores per demanar el vot per correu el 29-N» (Ràdio Sabadell).",
       "itemId": "7e80e23984ffe918"
+    },
+    {
+      "id": "3eac219f378057a9",
+      "t": "2026-11-18T08:05:54.668Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La campanya Cap infant sense joguines 2026 obre el període de sol·licituds del 18 de novembre a l'1 de desembre» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "57f9ef35e813421e"
+    },
+    {
+      "id": "c9cedcb84cd5e28a",
+      "t": "2026-11-18T08:05:54.669Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut.",
+      "itemId": "57f9ef35e813421e"
+    },
+    {
+      "id": "8a097f2706570179",
+      "t": "2026-11-18T08:05:54.670Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "57f9ef35e813421e"
+    },
+    {
+      "id": "3c96758e38ec72c5",
+      "t": "2026-11-18T08:05:54.671Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La Puríssima, on les joguines tornen a ser estimades» (iSabadell).",
+      "itemId": "aed88230d6491a8a"
+    },
+    {
+      "id": "98d280deb854e10c",
+      "t": "2026-11-18T08:05:54.672Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "aed88230d6491a8a"
+    },
+    {
+      "id": "3ded3f224c5b159e",
+      "t": "2026-11-18T08:05:54.673Z",
+      "agente": "rastreador",
+      "texto": "He recollit «FOTOS | Comencen les obres del nou mercat de Campoamor» (Diari de Sabadell).",
+      "itemId": "8403b91042a45719"
+    },
+    {
+      "id": "3345f56ecbffd306",
+      "t": "2026-11-18T08:05:54.674Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Obres i urbanisme.",
+      "itemId": "8403b91042a45719"
     }
   ],
-  "actualizado": "2026-11-18T05:49:33.252Z"
+  "actualizado": "2026-11-18T08:06:13.648Z"
 }
