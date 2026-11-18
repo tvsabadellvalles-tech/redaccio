@@ -1,104 +1,6 @@
 {
   "eventos": [
     {
-      "id": "c78db22c1e95fa3b",
-      "t": "2026-11-13T16:10:20.802Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Assumpta Cumí i Laura Obradors porten el concert 'Llum i ombres' a la CavaUrpí: \"Explora l'equilibri de la llum i les ombres a través de les dues veus\"» (Ràdio Sabadell).",
-      "itemId": "8bf74725c462c6b6"
-    },
-    {
-      "id": "1eda61112ca1c75d",
-      "t": "2026-11-13T16:10:20.803Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Cultura i festes.",
-      "itemId": "8bf74725c462c6b6"
-    },
-    {
-      "id": "a68151497626493b",
-      "t": "2026-11-13T16:10:20.804Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Agenda cultural 13.11.26» (Ràdio Sabadell).",
-      "itemId": "4facba59e34375d3"
-    },
-    {
-      "id": "a59ed51062beb876",
-      "t": "2026-11-13T16:10:20.805Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Els de Física també saben com muntar-se una bona farra: una nit de ciència, jocs i festa a Sabadell» (Diari de Sabadell).",
-      "itemId": "4a157da72264f2d8"
-    },
-    {
-      "id": "956412eb844d773a",
-      "t": "2026-11-13T16:10:20.806Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Educació, Cultura i festes.",
-      "itemId": "4a157da72264f2d8"
-    },
-    {
-      "id": "797d15f68d19a501",
-      "t": "2026-11-13T16:59:02.259Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Parlem d'Òpera 664: \"Els quatre elements (III): Terra\"» (Ràdio Sabadell).",
-      "itemId": "aed256e381bb7bec"
-    },
-    {
-      "id": "7316bfb969548f79",
-      "t": "2026-11-13T17:43:07.054Z",
-      "agente": "rastreador",
-      "texto": "He recollit «CIPO obre les portes del seu outlet solidari a l’Espai Cultura» (Ràdio Sabadell).",
-      "itemId": "6d54cde2262c9d9d"
-    },
-    {
-      "id": "35bfb8e995819815",
-      "t": "2026-11-13T17:43:07.055Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Cultura i festes.",
-      "itemId": "6d54cde2262c9d9d"
-    },
-    {
-      "id": "be0091b6494611ff",
-      "t": "2026-11-13T18:29:17.383Z",
-      "agente": "rastreador",
-      "texto": "He recollit «FOTOS | La plaça de Magdalena de Calonge estrena un espai renovat i jocs infantils» (Diari de Sabadell).",
-      "itemId": "a3dbed26434ea074"
-    },
-    {
-      "id": "048bea4c1d251641",
-      "t": "2026-11-13T18:29:17.384Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Llum verda a la reforma del nou Paddock» (iSabadell).",
-      "itemId": "6e8bf0163d619ec1"
-    },
-    {
-      "id": "d07a366c1ad95421",
-      "t": "2026-11-13T18:29:17.385Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local, Obres i urbanisme.",
-      "itemId": "6e8bf0163d619ec1"
-    },
-    {
-      "id": "154bfd9a870a40f1",
-      "t": "2026-11-13T18:29:17.386Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): política local, obres i urbanisme.",
-      "itemId": "6e8bf0163d619ec1"
-    },
-    {
-      "id": "bd68d688754fe9cc",
-      "t": "2026-11-13T18:29:17.387Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Palau al Dia - Notícies del 13/11/2026» (Ràdio Palau - Palau al Dia).",
-      "itemId": "cd32ec1dfa443c56"
-    },
-    {
-      "id": "2a64bcc1ea6a1d4b",
-      "t": "2026-11-13T18:29:17.388Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Successos, Obres i urbanisme.",
-      "itemId": "cd32ec1dfa443c56"
-    },
-    {
       "id": "4d6569de82e8682a",
       "t": "2026-11-13T18:29:17.389Z",
       "agente": "mesa",
@@ -2799,7 +2701,105 @@
       "agente": "mesa",
       "texto": "Proposo incloure-ho a l'escaleta (4 punts): successos, obres i urbanisme, salut.",
       "itemId": "136886ff91823da8"
+    },
+    {
+      "id": "b31f7b6239c8b4d7",
+      "t": "2026-11-18T16:40:16.097Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Comuns-Front Ampli situa l'habitatge digne al centre de la campanya a Sabadell» (Diari de Sabadell).",
+      "itemId": "657c8ac1b547470f"
+    },
+    {
+      "id": "694885633834111a",
+      "t": "2026-11-18T16:40:16.098Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Emergències, Obres i urbanisme.",
+      "itemId": "657c8ac1b547470f"
+    },
+    {
+      "id": "2d0fb31f0eb44500",
+      "t": "2026-11-18T16:40:16.099Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): emergències, obres i urbanisme.",
+      "itemId": "657c8ac1b547470f"
+    },
+    {
+      "id": "bf4d0186aaee158b",
+      "t": "2026-11-18T16:40:16.100Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El Centre concentra gairebé un de cada quatre nous habitants de Sabadell» (Diari de Sabadell).",
+      "itemId": "dca641366ddde93d"
+    },
+    {
+      "id": "d66f591793470762",
+      "t": "2026-11-18T16:40:16.101Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Castellar encendrà els llums de Nadal el dijous 26» (L'Actual - Castellar del Vallès).",
+      "itemId": "b2828c306b4cdffa"
+    },
+    {
+      "id": "db1bbcd892530bec",
+      "t": "2026-11-18T16:40:16.102Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Veïns de Bellaterra convoquen una concentració per defensar l’annexió a Sant Cugat» (Diari de Sabadell).",
+      "itemId": "0189db46900a0e02"
+    },
+    {
+      "id": "c4ea278f4a6cdf39",
+      "t": "2026-11-18T16:40:16.103Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Rodalies modifica el servei dels primers i últims trens del cap de setmana de la línia R4 fins al 21 de febrer» (Diari de Sabadell).",
+      "itemId": "efcfffa116c03109"
+    },
+    {
+      "id": "421dbb6bf18c5f3a",
+      "t": "2026-11-18T16:40:16.104Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat, Salut.",
+      "itemId": "efcfffa116c03109"
+    },
+    {
+      "id": "0bdd4bcc00e9b640",
+      "t": "2026-11-18T16:40:16.105Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): mobilitat, salut.",
+      "itemId": "efcfffa116c03109"
+    },
+    {
+      "id": "bf6173d68d5e4783",
+      "t": "2026-11-18T16:40:16.106Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Barrio» (Ràdio Sabadell).",
+      "itemId": "2ff777fd3c886d2a"
+    },
+    {
+      "id": "30d0411fd1f61b63",
+      "t": "2026-11-18T16:40:16.107Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Transhumància» (Ràdio Sabadell).",
+      "itemId": "ca536f9ff54516e4"
+    },
+    {
+      "id": "08cdd9068bb02ee3",
+      "t": "2026-11-18T16:40:16.108Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Veler d'Agost» (Ràdio Sabadell).",
+      "itemId": "ae811251015271f4"
+    },
+    {
+      "id": "3bea1dccfeec3eed",
+      "t": "2026-11-18T16:40:16.109Z",
+      "agente": "rastreador",
+      "texto": "He recollit «En La Estación» (Ràdio Sabadell).",
+      "itemId": "1095788b60888564"
+    },
+    {
+      "id": "8f70e12bd7aca59c",
+      "t": "2026-11-18T16:40:16.110Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Planimetria» (Ràdio Sabadell).",
+      "itemId": "72e844b07e3b4aaf"
     }
   ],
-  "actualizado": "2026-11-18T15:34:34.478Z"
+  "actualizado": "2026-11-18T16:40:39.518Z"
 }

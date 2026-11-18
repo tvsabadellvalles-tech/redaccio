@@ -104,6 +104,180 @@
   },
   "items": [
     {
+      "id": "72e844b07e3b4aaf",
+      "titulo": "Planimetria",
+      "enlace": "https://radiosabadell.fm/alacarta/audio/planimetria",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-18T16:38:59.000Z",
+      "detectado": "2026-11-18T16:40:16.097Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "1095788b60888564",
+      "titulo": "En La Estación",
+      "enlace": "https://radiosabadell.fm/alacarta/audio/en-la-estacion",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-18T16:35:35.000Z",
+      "detectado": "2026-11-18T16:40:16.097Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "ae811251015271f4",
+      "titulo": "Veler d'Agost",
+      "enlace": "https://radiosabadell.fm/alacarta/audio/veler-dagost",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-18T16:32:28.000Z",
+      "detectado": "2026-11-18T16:40:16.097Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "ca536f9ff54516e4",
+      "titulo": "Transhumància",
+      "enlace": "https://radiosabadell.fm/alacarta/audio/transhumancia",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-18T16:31:07.000Z",
+      "detectado": "2026-11-18T16:40:16.097Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "2ff777fd3c886d2a",
+      "titulo": "Barrio",
+      "enlace": "https://radiosabadell.fm/alacarta/audio/barrio",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-18T16:26:26.000Z",
+      "detectado": "2026-11-18T16:40:16.097Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "efcfffa116c03109",
+      "titulo": "Rodalies modifica el servei dels primers i últims trens del cap de setmana de la línia R4 fins al 21 de febrer",
+      "enlace": "https://www.diaridesabadell.com/valles/r4-rodalies-afectacions-obres-montcada-horaris.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "cerdanyola"
+      ],
+      "publicado": "2026-11-18T16:21:25.000Z",
+      "detectado": "2026-11-18T16:40:16.097Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad",
+        "salud"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "mobilitat, salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "0189db46900a0e02",
+      "titulo": "Veïns de Bellaterra convoquen una concentració per defensar l’annexió a Sant Cugat",
+      "enlace": "https://www.diaridesabadell.com/valles/bellaterra-cerdanyola-sant-cugat-annexio-concentracio.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "cerdanyola",
+        "sant-cugat"
+      ],
+      "publicado": "2026-11-18T16:15:27.000Z",
+      "detectado": "2026-11-18T16:40:16.097Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "b2828c306b4cdffa",
+      "titulo": "Castellar encendrà els llums de Nadal el dijous 26",
+      "enlace": "https://www.lactual.cat/actualitat/castellar-encendra-llums-nadal-dijous-26_55400_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [
+        "castellar"
+      ],
+      "publicado": "2026-11-18T15:33:10.000Z",
+      "detectado": "2026-11-18T16:40:16.097Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "136886ff91823da8",
       "titulo": "Els Mossos detenen un home i busquen un segon implicat en un robatori violent a Sant Quirze",
       "enlace": "https://radiosabadell.fm/actualitat/successos/mossos-detenen-home-busquen-segon-robatori-violent",
@@ -332,6 +506,53 @@
       ],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "dca641366ddde93d",
+      "titulo": "El Centre concentra gairebé un de cada quatre nous habitants de Sabadell",
+      "enlace": "https://www.diaridesabadell.com/sabadell/centre-habitants-sabadell-poblacio-2026.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-18T12:58:58.000Z",
+      "detectado": "2026-11-18T16:40:16.097Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "657c8ac1b547470f",
+      "titulo": "Comuns-Front Ampli situa l'habitatge digne al centre de la campanya a Sabadell",
+      "enlace": "https://www.diaridesabadell.com/sabadell/campanya-comuns-frontampli-vivianeogou-joanmena-sabadell-29n.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-18T12:42:23.000Z",
+      "detectado": "2026-11-18T16:40:16.097Z",
+      "sensible": false,
+      "etiquetas": [
+        "emergencias",
+        "urbanismo"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "emergències, obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
     },
     {
       "id": "8f8107ccbd23d460",
@@ -1003,5 +1224,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-18T15:34:34.474Z"
+  "actualizado": "2026-11-18T16:40:39.514Z"
 }

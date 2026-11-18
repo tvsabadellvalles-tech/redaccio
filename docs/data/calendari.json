@@ -2,7 +2,7 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-18T15:34:16.100Z",
+  "consultat": "2026-11-18T16:40:16.097Z",
   "total": 23,
   "activitats": [
     {
@@ -97,16 +97,16 @@
       "color": null
     },
     {
-      "titol": "Comercial Reini",
-      "inici": "2026-11-19T11:00:00.000Z",
-      "final": "2026-11-19T11:30:00.000Z",
+      "titol": "Rdp La Crida",
+      "inici": "2026-11-19T08:30:00.000Z",
+      "final": "2026-11-19T09:30:00.000Z",
       "totElDia": false,
       "color": null
     },
     {
-      "titol": "Rdp jugador CES",
-      "inici": "2026-11-19T12:15:00.000Z",
-      "final": "2026-11-19T13:15:00.000Z",
+      "titol": "Comercial Reini",
+      "inici": "2026-11-19T11:00:00.000Z",
+      "final": "2026-11-19T11:30:00.000Z",
       "totElDia": false,
       "color": null
     },
@@ -146,7 +146,7 @@
       "color": null
     },
     {
-      "titol": "Presentació calendari Andi Down",
+      "titol": "(Lorena) Presentació calendari Andi Down",
       "inici": "2026-11-19T17:00:00.000Z",
       "final": "2026-11-19T18:00:00.000Z",
       "totElDia": false,
@@ -168,5 +168,5 @@
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-18T15:34:55.195Z"
+  "actualizado": "2026-11-18T16:41:00.139Z"
 }
