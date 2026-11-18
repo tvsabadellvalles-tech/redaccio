@@ -1,13 +1,6 @@
 {
   "eventos": [
     {
-      "id": "4454ab3449291ef0",
-      "t": "2026-11-13T08:49:12.604Z",
-      "agente": "rastreador",
-      "texto": "He recollit «L'atur del mes d'octubre a Santa Perpètua disminueix en vuit persones» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "64820bc1ac5cde10"
-    },
-    {
       "id": "7472f88ca0e2a05b",
       "t": "2026-11-13T08:49:12.605Z",
       "agente": "etiquetador",
@@ -2799,7 +2792,14 @@
       "agente": "rastreador",
       "texto": "He recollit «Infopòdcast Sabadell 18.11.26» (Ràdio Sabadell).",
       "itemId": "15076eb7496c30b2"
+    },
+    {
+      "id": "914af1ab0e70e635",
+      "t": "2026-11-18T05:49:13.053Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Últimes hores per demanar el vot per correu el 29-N» (Ràdio Sabadell).",
+      "itemId": "7e80e23984ffe918"
     }
   ],
-  "actualizado": "2026-11-17T23:02:19.405Z"
+  "actualizado": "2026-11-18T05:49:33.252Z"
 }

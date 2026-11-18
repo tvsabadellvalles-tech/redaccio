@@ -123,7 +123,28 @@
       "motivos": [],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "7e80e23984ffe918",
+      "titulo": "Últimes hores per demanar el vot per correu el 29-N",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/ultim-hores-demanar-vot-correu-29-n",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-18T06:00:13.000Z",
+      "detectado": "2026-11-18T05:49:13.053Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
     }
   ],
-  "actualizado": "2026-11-17T23:02:19.402Z"
+  "actualizado": "2026-11-18T05:49:33.250Z"
 }
