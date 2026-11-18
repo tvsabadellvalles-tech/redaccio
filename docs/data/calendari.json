@@ -2,7 +2,7 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-18T14:35:32.498Z",
+  "consultat": "2026-11-18T15:34:16.100Z",
   "total": 23,
   "activitats": [
     {
@@ -48,13 +48,6 @@
       "color": null
     },
     {
-      "titol": "(Lorena) Decles Estripa'm per VIA15",
-      "inici": "2026-11-18T11:30:00.000Z",
-      "final": "2026-11-18T12:30:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
       "titol": "Alejandro Fernández acompanyat per Raúl Collbatallé visiten Barberà del Vallès",
       "inici": "2026-11-18T11:30:00.000Z",
       "final": "2026-11-18T12:30:00.000Z",
@@ -62,9 +55,16 @@
       "color": null
     },
     {
+      "titol": "(Lorena) Decles Estripa'm per VIA15",
+      "inici": "2026-11-18T11:30:00.000Z",
+      "final": "2026-11-18T12:30:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
       "titol": "L'Informatiu",
-      "inici": "2026-11-18T15:00:00.000Z",
-      "final": "2026-11-18T16:00:00.000Z",
+      "inici": "2026-11-18T15:30:00.000Z",
+      "final": "2026-11-18T16:30:00.000Z",
       "totElDia": false,
       "color": null
     },
@@ -168,5 +168,5 @@
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-18T14:36:15.450Z"
+  "actualizado": "2026-11-18T15:34:55.195Z"
 }

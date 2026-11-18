@@ -104,6 +104,103 @@
   },
   "items": [
     {
+      "id": "136886ff91823da8",
+      "titulo": "Els Mossos detenen un home i busquen un segon implicat en un robatori violent a Sant Quirze",
+      "enlace": "https://radiosabadell.fm/actualitat/successos/mossos-detenen-home-busquen-segon-robatori-violent",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell",
+        "sant-quirze"
+      ],
+      "publicado": "2026-11-18T15:19:09.000Z",
+      "detectado": "2026-11-18T15:34:16.100Z",
+      "sensible": true,
+      "etiquetas": [
+        "sucesos",
+        "urbanismo",
+        "salud",
+        "deportes"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "successos, obres i urbanisme, salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "8f12b6c62ff0df0c",
+      "titulo": "Detenen un home i se'n busca un altre per un robatori violent en un domicili de Sant Quirze",
+      "enlace": "https://www.diaridesabadell.com/valles/sant-quirze/robatori-casa-sant-quirze-detingut-recerca-mossos.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sant-quirze"
+      ],
+      "publicado": "2026-11-18T15:00:15.000Z",
+      "detectado": "2026-11-18T15:34:16.100Z",
+      "sensible": true,
+      "etiquetas": [
+        "sucesos",
+        "urbanismo"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "successos, obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "5e020e398d1b230c",
+      "titulo": "L'encesa de llums i tots els detalls de la campanya de Nadal a Castellar",
+      "enlace": "https://www.diaridesabadell.com/valles/castellar/nadal-castellar-campanya-programacio.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "castellar"
+      ],
+      "publicado": "2026-11-18T14:39:08.000Z",
+      "detectado": "2026-11-18T15:34:16.100Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "a6bf882f0b115e04",
+      "titulo": "Toni Sallés fa un pas al costat i deixa de ser l'entrenador de la Sabadellenca",
+      "enlace": "https://radiosabadell.fm/esports/futbol/toni-salles-deixa-entrenador-sabadellenca-2cat",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-18T14:37:15.000Z",
+      "detectado": "2026-11-18T15:34:16.100Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "91d64e7da0751a2d",
       "titulo": "Ogou (Front Ampli): “Les eleccions seran un referèndum sobre l’habitatge”",
       "enlace": "https://www.isabadell.cat/politica/ogou-les-eleccions-seran-un-referendum-sobre-lhabitatge-341068/",
@@ -906,5 +1003,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-18T13:40:37.355Z"
+  "actualizado": "2026-11-18T15:34:34.474Z"
 }

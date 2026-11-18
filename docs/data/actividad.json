@@ -1,83 +1,6 @@
 {
   "eventos": [
     {
-      "id": "85d4853a1585f03f",
-      "t": "2026-11-13T15:19:47.123Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La història de la Carola: dos bessons prematurs, una pèrdua i una lluita per tirar endavant» (Ràdio Sabadell).",
-      "itemId": "e1f7262b8d93b507"
-    },
-    {
-      "id": "f50fe9f5836ed698",
-      "t": "2026-11-13T15:19:47.124Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Salut.",
-      "itemId": "e1f7262b8d93b507"
-    },
-    {
-      "id": "955923064821c1cc",
-      "t": "2026-11-13T15:19:47.125Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "e1f7262b8d93b507"
-    },
-    {
-      "id": "07aa234acbb6165d",
-      "t": "2026-11-13T16:10:20.794Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Comencen les obres del Paddock: quin és el calendari?» (Ràdio Sabadell).",
-      "itemId": "10e977d37d9fa17f"
-    },
-    {
-      "id": "06594b41c0b9b81a",
-      "t": "2026-11-13T16:10:20.795Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Obres i urbanisme.",
-      "itemId": "10e977d37d9fa17f"
-    },
-    {
-      "id": "b9139fb6d1051238",
-      "t": "2026-11-13T16:10:20.796Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La història de la Carola: dos bessons prematurs, una pèrdua i una lluita per tirar endavant» (Ràdio Sabadell).",
-      "itemId": "0cc050238ace1d9e"
-    },
-    {
-      "id": "0e1f55f1372c3dff",
-      "t": "2026-11-13T16:10:20.797Z",
-      "agente": "deduplicador",
-      "texto": "Descartada perquè és duplicada: coincideix amb «La història de la Carola: dos bessons prematurs, una pèrdua i una lluita per tirar endavant» (Ràdio Sabadell).",
-      "itemId": "0cc050238ace1d9e"
-    },
-    {
-      "id": "fb00c1ec09c0fa11",
-      "t": "2026-11-13T16:10:20.798Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Eldense-Sabadell: retrobament amb un vell conegut marcat per les baixes» (Ràdio Sabadell).",
-      "itemId": "7470dc17b3746b76"
-    },
-    {
-      "id": "b64eb820d40d247d",
-      "t": "2026-11-13T16:10:20.799Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Esports.",
-      "itemId": "7470dc17b3746b76"
-    },
-    {
-      "id": "30af5c002b165278",
-      "t": "2026-11-13T16:10:20.800Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "7470dc17b3746b76"
-    },
-    {
-      "id": "dfce0555f29c5e32",
-      "t": "2026-11-13T16:10:20.801Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El Gran Recapte, en marxa» (L'Actual - Castellar del Vallès).",
-      "itemId": "16ad66e2fbb79fd6"
-    },
-    {
       "id": "c78db22c1e95fa3b",
       "t": "2026-11-13T16:10:20.802Z",
       "agente": "rastreador",
@@ -2799,7 +2722,84 @@
       "agente": "deduplicador",
       "texto": "Descartada perquè és duplicada: coincideix amb «Front Ampli equipara les eleccions a un \"referèndum sobre habitatge\"» (Ràdio Sabadell).",
       "itemId": "91d64e7da0751a2d"
+    },
+    {
+      "id": "ef116407c2c958dd",
+      "t": "2026-11-18T15:34:16.100Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Toni Sallés fa un pas al costat i deixa de ser l'entrenador de la Sabadellenca» (Ràdio Sabadell).",
+      "itemId": "a6bf882f0b115e04"
+    },
+    {
+      "id": "0054bf2552e40793",
+      "t": "2026-11-18T15:34:16.101Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "a6bf882f0b115e04"
+    },
+    {
+      "id": "72f5c067f29d9b88",
+      "t": "2026-11-18T15:34:16.102Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L'encesa de llums i tots els detalls de la campanya de Nadal a Castellar» (Diari de Sabadell).",
+      "itemId": "5e020e398d1b230c"
+    },
+    {
+      "id": "b779f281699b462e",
+      "t": "2026-11-18T15:34:16.103Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Detenen un home i se'n busca un altre per un robatori violent en un domicili de Sant Quirze» (Diari de Sabadell).",
+      "itemId": "8f12b6c62ff0df0c"
+    },
+    {
+      "id": "8acdb3cf01758f4c",
+      "t": "2026-11-18T15:34:16.104Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Successos, Obres i urbanisme.",
+      "itemId": "8f12b6c62ff0df0c"
+    },
+    {
+      "id": "98877f6e3ab483c4",
+      "t": "2026-11-18T15:34:16.105Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "8f12b6c62ff0df0c"
+    },
+    {
+      "id": "b64c0ea720632c9f",
+      "t": "2026-11-18T15:34:16.106Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): successos, obres i urbanisme.",
+      "itemId": "8f12b6c62ff0df0c"
+    },
+    {
+      "id": "38222002f8966920",
+      "t": "2026-11-18T15:34:16.107Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Els Mossos detenen un home i busquen un segon implicat en un robatori violent a Sant Quirze» (Ràdio Sabadell).",
+      "itemId": "136886ff91823da8"
+    },
+    {
+      "id": "be17435fc52b1fca",
+      "t": "2026-11-18T15:34:16.108Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Successos, Obres i urbanisme, Salut, Esports.",
+      "itemId": "136886ff91823da8"
+    },
+    {
+      "id": "170db2d3fca0341a",
+      "t": "2026-11-18T15:34:16.109Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "136886ff91823da8"
+    },
+    {
+      "id": "6cb1d6deb8e43b96",
+      "t": "2026-11-18T15:34:16.110Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): successos, obres i urbanisme, salut.",
+      "itemId": "136886ff91823da8"
     }
   ],
-  "actualizado": "2026-11-18T13:40:37.359Z"
+  "actualizado": "2026-11-18T15:34:34.478Z"
 }
