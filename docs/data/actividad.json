@@ -1,76 +1,6 @@
 {
   "eventos": [
     {
-      "id": "dac47ad7b6c6d8f7",
-      "t": "2026-11-13T09:43:35.605Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): mobilitat, successos.",
-      "itemId": "33936ee102c725b3"
-    },
-    {
-      "id": "5a6fd3b71325475c",
-      "t": "2026-11-13T09:43:35.606Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Cuca Santos (PP): \"Espanya necessita un govern que regeneri la democràcia\"» (Diari de Sabadell).",
-      "itemId": "b25bb91d57f0824d"
-    },
-    {
-      "id": "e5eb44bfc691bd69",
-      "t": "2026-11-13T09:43:35.607Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local, Esports.",
-      "itemId": "b25bb91d57f0824d"
-    },
-    {
-      "id": "8511c10b85a833d8",
-      "t": "2026-11-13T09:43:35.608Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Els Mossos busquen una dona que va desaparèixer a Sabadell aquest octubre» (Diari de Sabadell).",
-      "itemId": "47af75c07a760869"
-    },
-    {
-      "id": "beaf5403570a04ca",
-      "t": "2026-11-13T09:43:35.609Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Successos.",
-      "itemId": "47af75c07a760869"
-    },
-    {
-      "id": "468a5de5b7980e1d",
-      "t": "2026-11-13T09:43:35.610Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Protesta per demanar millores a la línia C4» (L'Actual - Castellar del Vallès).",
-      "itemId": "86f8235cf8f3ad94"
-    },
-    {
-      "id": "d2050a6c7cc4ef9d",
-      "t": "2026-11-13T10:40:05.047Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Santa Perpètua es suma a la commemoració del Dia de la Diabetis» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "162464501ba654d2"
-    },
-    {
-      "id": "61828d679b6e2ff1",
-      "t": "2026-11-13T10:40:05.048Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Ciberseguretat i ciberconfiança: com protegir-nos en un món connectat» (Ràdio Sabadell).",
-      "itemId": "c763c4d5c9629f36"
-    },
-    {
-      "id": "939fef5488d9b414",
-      "t": "2026-11-13T10:40:05.049Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Els Mossos busquen una dona desapareguda a Sabadell des de fa tres dies» (Ràdio Sabadell).",
-      "itemId": "5b204f59e643c443"
-    },
-    {
-      "id": "6ec09f9a9625904b",
-      "t": "2026-11-13T10:40:05.050Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Successos.",
-      "itemId": "5b204f59e643c443"
-    },
-    {
       "id": "90abebc825baa445",
       "t": "2026-11-13T10:40:05.051Z",
       "agente": "rastreador",
@@ -2799,7 +2729,77 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Obres i urbanisme.",
       "itemId": "8403b91042a45719"
+    },
+    {
+      "id": "eae51cee7b5446d5",
+      "t": "2026-11-18T09:09:28.028Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La Junta Electoral autoritza l’emissió de Connecta amb l’alcalde, que es reprendrà el 24 de novembre» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "01faa8067d5c9823"
+    },
+    {
+      "id": "ec7a77d17f846cbf",
+      "t": "2026-11-18T09:09:28.029Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local.",
+      "itemId": "01faa8067d5c9823"
+    },
+    {
+      "id": "ca0c9002a230c815",
+      "t": "2026-11-18T09:09:28.030Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · política local.",
+      "itemId": "01faa8067d5c9823"
+    },
+    {
+      "id": "bc3f9c54fcfcc144",
+      "t": "2026-11-18T09:09:28.031Z",
+      "agente": "rastreador",
+      "texto": "He recollit «'Federico García', l’espectacle que clou l’homenatge de Cerdanyola a Federico García Lorca» (Ajuntament de Cerdanyola del Vallès).",
+      "itemId": "ae6d25ac4deb0d02"
+    },
+    {
+      "id": "51d8c3d99652fc0a",
+      "t": "2026-11-18T09:09:28.032Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Educació, Cultura i festes.",
+      "itemId": "ae6d25ac4deb0d02"
+    },
+    {
+      "id": "138a2be84a26de41",
+      "t": "2026-11-18T09:09:28.033Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "ae6d25ac4deb0d02"
+    },
+    {
+      "id": "1422f5c83c68aa83",
+      "t": "2026-11-18T09:09:28.034Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Cerdanyola commemora el Dia Internacional de les Persones amb Discapacitat/Diversitat Funcional» (Ajuntament de Cerdanyola del Vallès).",
+      "itemId": "d23c664d1b6d2a51"
+    },
+    {
+      "id": "3914d155938ecb87",
+      "t": "2026-11-18T09:09:28.035Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Obres i urbanisme, Salut, Educació, Cultura i festes.",
+      "itemId": "d23c664d1b6d2a51"
+    },
+    {
+      "id": "4fea354eb78a0033",
+      "t": "2026-11-18T09:09:28.036Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "d23c664d1b6d2a51"
+    },
+    {
+      "id": "78f3dae1bb33841f",
+      "t": "2026-11-18T09:09:28.037Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): font oficial · obres i urbanisme, salut, educació.",
+      "itemId": "d23c664d1b6d2a51"
     }
   ],
-  "actualizado": "2026-11-18T08:06:13.648Z"
+  "actualizado": "2026-11-18T09:09:46.922Z"
 }

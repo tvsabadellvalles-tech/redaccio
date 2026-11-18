@@ -5,7 +5,7 @@
       "nom": "FGC Barcelona–Vallès",
       "enllac": "https://www.fgc.cat/adequacions-horaries/",
       "alternatiu": null,
-      "consultat": "2026-11-18T08:05:54.668Z",
+      "consultat": "2026-11-18T09:09:28.028Z",
       "estat": "cap-avis-recent",
       "detall": "Sense adequacions horàries."
     },
@@ -14,33 +14,38 @@
       "nom": "Rodalies R4 i R7",
       "enllac": "https://rodalies.gencat.cat/ca/alteracions_del_servei/",
       "alternatiu": null,
-      "consultat": "2026-11-18T08:05:54.668Z",
-      "estat": "cap-avis-recent",
-      "detall": "Cap avís publicat avui a les línies R4 i R7.",
-      "avisos": []
+      "consultat": "2026-11-18T09:09:28.028Z",
+      "estat": "avis",
+      "detall": "1 avís publicat avui a les línies R4 i R7.",
+      "avisos": [
+        {
+          "titol": "Circulació amb demores mitjanes que poden superar els 20 minuts a causa de la convocatòria de vaga d'ahir. Es manté el reforç del serv",
+          "detall": "Circulació amb demores mitjanes que poden superar els 20 minuts a causa de la convocatòria de vaga d'ahir. Es manté el reforç del servei d'autobusos interurbans.",
+          "publicat": "2026-11-18T08:25:00.000Z",
+          "linies": [
+            "R1",
+            "R4",
+            "R2S",
+            "R2N"
+          ]
+        }
+      ]
     },
     {
       "id": "transit",
       "nom": "Trànsit · Vallès Occidental",
       "enllac": "https://cit.transit.gencat.cat/",
       "alternatiu": null,
-      "consultat": "2026-11-18T08:05:54.668Z",
+      "consultat": "2026-11-18T09:09:28.028Z",
       "estat": "avis",
-      "detall": "5 incidències d’avui a les carreteres seleccionades del Vallès Occidental, segons la llista actual de Trànsit.",
-      "actualitzat": "2026-11-18T08:06:06.000Z",
+      "detall": "4 incidències d’avui a les carreteres seleccionades del Vallès Occidental, segons la llista actual de Trànsit.",
+      "actualitzat": "2026-11-18T09:09:03.000Z",
       "avisos": [
         {
-          "titol": "Circulació · Circulació amb retencions",
+          "titol": "Circulació · Circulació intensa",
           "detall": "B-30 | BADIA DEL VALLÈS | Sentit Nord cap a GIRONA | Punt km. 10-8",
           "publicat": "2026-11-18T07:21:35.000Z",
           "carretera": "B-30",
-          "comarca": 40
-        },
-        {
-          "titol": "Circulació · Circulació intensa",
-          "detall": "AP-7 | SANTA PERPÈTUA DE MOGODA | Sentit Est cap a GIRONA | Punt km. 145-147",
-          "publicat": "2026-11-18T07:11:45.000Z",
-          "carretera": "AP-7",
           "comarca": 40
         },
         {
@@ -52,14 +57,14 @@
         },
         {
           "titol": "Circulació · Circulació amb retencions",
-          "detall": "C-58 | RIPOLLET | Sentit Est cap a TERRASSA | Punt km. 6-2",
+          "detall": "C-58 | RIPOLLET | Sentit Est cap a TERRASSA | Punt km. 6-4",
           "publicat": "2026-11-18T06:01:59.000Z",
           "carretera": "C-58",
           "comarca": 40
         },
         {
-          "titol": "Circulació · Circulació amb retencions",
-          "detall": "C-58 | BADIA DEL VALLÈS | Sentit Sud cap a BARCELONA | Punt km. 9-11",
+          "titol": "Circulació · Circulació intensa",
+          "detall": "C-58 | BADIA DEL VALLÈS | Sentit Sud cap a BARCELONA | Punt km. 9-10",
           "publicat": "2026-11-18T05:48:00.000Z",
           "carretera": "C-58",
           "comarca": 40
@@ -71,7 +76,7 @@
       "nom": "Meteocat · Vallès Occidental",
       "enllac": "https://www.meteo.cat/prediccio/general",
       "alternatiu": null,
-      "consultat": "2026-11-18T08:05:54.668Z",
+      "consultat": "2026-11-18T09:09:28.028Z",
       "estat": "previsio",
       "detall": "Sense avisos actius. Previsió de dimecres, 18 de novembre al Vallès Occidental: màxima 21°, mínima 12°. sol i núvols alts al matí · entre poc i mig ennuvolat a la tarda · Pluja matí: No se n’espera · tarda: Probable (30–70%) · Actualitzada 17-11-2026 15:00:00.",
       "previsio": {
@@ -93,12 +98,12 @@
       "nom": "Emergències · Protecció Civil",
       "enllac": "https://interior.gencat.cat/ca/actualitat/",
       "alternatiu": "https://govern.cat/salapremsa/notes-premsa",
-      "consultat": "2026-11-18T08:05:54.668Z",
+      "consultat": "2026-11-18T09:09:28.028Z",
       "estat": "cap-avis-recent",
       "detall": "Cap alerta local no meteorològica identificada a les alertes destacades d’Interior.",
       "avisos": []
     }
   ],
-  "consultat": "2026-11-18T08:05:54.668Z",
-  "actualizado": "2026-11-18T08:06:15.976Z"
+  "consultat": "2026-11-18T09:09:28.028Z",
+  "actualizado": "2026-11-18T09:09:49.475Z"
 }

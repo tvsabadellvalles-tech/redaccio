@@ -104,6 +104,88 @@
   },
   "items": [
     {
+      "id": "d23c664d1b6d2a51",
+      "titulo": "Cerdanyola commemora el Dia Internacional de les Persones amb Discapacitat/Diversitat Funcional",
+      "enlace": "http://www.cerdanyola.cat/actualitat/cerdanyola-commemora-el-dia-internacional-de-les-persones-amb-discapacitatdiversitat-0",
+      "fuente": "ayto-cerdanyola",
+      "fuenteNombre": "Ajuntament de Cerdanyola del Vallès",
+      "tipo": "oficial",
+      "resumen": "Cerdanyola commemora el Dia Internacional de les Persones amb Discapacitat/Diversitat Funcional Cerdanyola commemorarà el pròxim 3 de desembre el Dia Internacional de les Persones amb Discapacitat i/o Diversitat Funcional amb un acte…",
+      "municipio": "cerdanyola",
+      "municipiosMencionados": [
+        "cerdanyola"
+      ],
+      "publicado": "2026-11-18T08:33:07.000Z",
+      "detectado": "2026-11-18T09:09:28.028Z",
+      "sensible": true,
+      "etiquetas": [
+        "urbanismo",
+        "salud",
+        "educacion",
+        "cultura"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "font oficial",
+        "obres i urbanisme, salut, educació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "ae6d25ac4deb0d02",
+      "titulo": "'Federico García', l’espectacle que clou l’homenatge de Cerdanyola a Federico García Lorca",
+      "enlace": "http://www.cerdanyola.cat/actualitat/federico-garcia-lespectacle-que-clou-lhomenatge-de-cerdanyola-federico-garcia-lorca",
+      "fuente": "ayto-cerdanyola",
+      "fuenteNombre": "Ajuntament de Cerdanyola del Vallès",
+      "tipo": "oficial",
+      "resumen": "'Federico García', l’espectacle que clou l’homenatge de Cerdanyola a Federico García Lorca Federico García Lorca va ser assassinat el 18 d'agost de 1936 pels revoltats feixistes contra la legalitat republicana. Tenia 38 anys i deixava…",
+      "municipio": "cerdanyola",
+      "municipiosMencionados": [
+        "cerdanyola"
+      ],
+      "publicado": "2026-11-18T08:06:50.000Z",
+      "detectado": "2026-11-18T09:09:28.028Z",
+      "sensible": true,
+      "etiquetas": [
+        "educacion",
+        "cultura"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "font oficial",
+        "educació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "01faa8067d5c9823",
+      "titulo": "La Junta Electoral autoritza l’emissió de Connecta amb l’alcalde, que es reprendrà el 24 de novembre",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/la-junta-electoral-autoritza-lemissio-de-connecta-amb-lalcalde-que-es-reprendra-el-24-de-novembre.html",
+      "fuente": "ayto-santa-perpetua",
+      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
+      "tipo": "oficial",
+      "resumen": "La Junta Electoral de Zona (JEZ) ha desestimat una denúncia presentada contra Ràdio Santa Perpètua i ha autoritzat l’emissió del programa de Ràdio Santa Perpètua Connecta amb l’alcalde.",
+      "municipio": "santa-perpetua",
+      "municipiosMencionados": [
+        "santa-perpetua"
+      ],
+      "publicado": "2026-11-18T08:00:00.000Z",
+      "detectado": "2026-11-18T09:09:28.028Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "font oficial",
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
       "id": "8403b91042a45719",
       "titulo": "FOTOS | Comencen les obres del nou mercat de Campoamor",
       "enlace": "https://www.diaridesabadell.com/sabadell/fotos-comencen-obres-mercat-campoamor-sabadell.html",
@@ -216,5 +298,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-18T08:06:13.645Z"
+  "actualizado": "2026-11-18T09:09:46.919Z"
 }
