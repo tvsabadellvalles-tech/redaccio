@@ -2,7 +2,7 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-18T10:15:04.940Z",
+  "consultat": "2026-11-18T11:20:51.835Z",
   "total": 20,
   "activitats": [
     {
@@ -48,14 +48,14 @@
       "color": null
     },
     {
-      "titol": "Alejandro Fernández acompanyat per Raúl Collbatallé visiten Barberà del Vallès",
+      "titol": "(Lorena) Decles Estripa'm per VIA15",
       "inici": "2026-11-18T11:30:00.000Z",
       "final": "2026-11-18T12:30:00.000Z",
       "totElDia": false,
       "color": null
     },
     {
-      "titol": "(Lorena) Decles Estripa'm per VIA15",
+      "titol": "Alejandro Fernández acompanyat per Raúl Collbatallé visiten Barberà del Vallès",
       "inici": "2026-11-18T11:30:00.000Z",
       "final": "2026-11-18T12:30:00.000Z",
       "totElDia": false,
@@ -83,16 +83,16 @@
       "color": null
     },
     {
-      "titol": "(Lorena) Rdp pessebristes",
+      "titol": "Utebo - CE Sabadell",
       "inici": "2026-11-18T18:00:00.000Z",
-      "final": "2026-11-18T19:00:00.000Z",
+      "final": "2026-11-18T20:00:00.000Z",
       "totElDia": false,
       "color": null
     },
     {
-      "titol": "Utebo - CE Sabadell",
+      "titol": "(Lorena) Rdp pessebristes",
       "inici": "2026-11-18T18:00:00.000Z",
-      "final": "2026-11-18T20:00:00.000Z",
+      "final": "2026-11-18T19:00:00.000Z",
       "totElDia": false,
       "color": null
     },
@@ -147,5 +147,5 @@
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-18T10:15:56.002Z"
+  "actualizado": "2026-11-18T11:21:31.817Z"
 }

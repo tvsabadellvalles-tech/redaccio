@@ -104,6 +104,154 @@
   },
   "items": [
     {
+      "id": "beae534dbe4bb9a1",
+      "titulo": "David Palacios, Assemblea de Docents de Sabadell: \"No fem boicot a les colònies\"",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-mati-assemblea-docents-sabadell-181126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-18T11:16:03.000Z",
+      "detectado": "2026-11-18T11:20:51.835Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": "89c0d4f7eb8c64e3",
+      "propuesta": false
+    },
+    {
+      "id": "67c96647f88e6d3b",
+      "titulo": "Natàlia Munill, advocada: \"Podem gravar les converses si som part implicada\"",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-mati-munill-advocats-181126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-18T11:09:50.000Z",
+      "detectado": "2026-11-18T11:20:51.835Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "6e51084b226c9018",
+      "titulo": "La tertúlia: l'habitatge, el 29-N i els pessebres",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-mati-tertulia-181126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-18T11:05:20.000Z",
+      "detectado": "2026-11-18T11:20:51.835Z",
+      "sensible": false,
+      "etiquetas": [
+        "urbanismo"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "16f977125eb79010",
+      "titulo": "Arnau Alfagem, Andi: \"Som capaços. Prou d'infantilitzar-nos\"",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-mati-un-altre-mon-possible-andi-atendis-181126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-18T11:01:08.000Z",
+      "detectado": "2026-11-18T11:20:51.835Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "d97ba74194074aa3",
+      "titulo": "Com hem de fer un bon ús d'un inhaladors?",
+      "enlace": "https://radiosabadell.fm/podcast/consells-farmacia-inhaladors-181126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-18T10:42:32.000Z",
+      "detectado": "2026-11-18T11:20:51.835Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "e3b712823011e7d9",
+      "titulo": "La disputa per liderar els carrers de Sabadell: així es reparteixen els trams per als cartells electorals",
+      "enlace": "https://www.diaridesabadell.com/sabadell/cartells-electorals-carrers-sabadell-29n-propaganda.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-18T10:23:28.000Z",
+      "detectado": "2026-11-18T11:20:51.835Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "89c0d4f7eb8c64e3",
+      "titulo": "David Palacios, Assemblea de Docents de Sabadell: \"Les colònies han sortit de franc al Departament\"",
+      "enlace": "https://radiosabadell.fm/actualitat/educacio/colonies-assemblea-docents-sabadell",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-18T10:10:40.000Z",
+      "detectado": "2026-11-18T11:20:51.835Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica",
+        "educacion"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "política local, educació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
       "id": "c516a28e1fe3aa6d",
       "titulo": "Sant Quirze presenta l'Escola de la Pau, un projecte per fomentar aquest objectiu de manera transversal",
       "enlace": "https://www.santquirzevalles.cat/actualitat/noticies/sant-quirze-presenta-lescola-de-la-pau-un-projecte-per-fomentar-aquest-objectiu-de-manera-transversal",
@@ -387,7 +535,30 @@
       ],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "694642b8f0539e22",
+      "titulo": "Els comerços de Sentmenat impulsen una campanya de Nadal amb el sorteig d’una gran panera",
+      "enlace": "https://www.sentmenat.cat/actualitat/noticies/els-comercos-de-sentmenat-impulsen-una-campanya-de-nadal-amb-el-sorteig-duna-gran-panera.html",
+      "fuente": "ayto-sentmenat",
+      "fuenteNombre": "Ajuntament de Sentmenat",
+      "tipo": "oficial",
+      "resumen": "Els comerços de Sentmenat han posat en marxa una nova campanya per incentivar les compres de proximitat durant les setmanes prèvies a les festes de Nadal. La iniciativa premiarà la fidelitat dels clients i clientes amb el sorteig d’una…",
+      "municipio": "sentmenat",
+      "municipiosMencionados": [
+        "sentmenat"
+      ],
+      "publicado": "2026-11-17T23:00:00.000Z",
+      "detectado": "2026-11-18T11:20:51.835Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
     }
   ],
-  "actualizado": "2026-11-18T10:15:35.564Z"
+  "actualizado": "2026-11-18T11:21:12.443Z"
 }

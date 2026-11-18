@@ -1,90 +1,6 @@
 {
   "eventos": [
     {
-      "id": "c2823b60dd90cf73",
-      "t": "2026-11-13T10:40:05.057Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · economia i ocupació, educació.",
-      "itemId": "c74406308cddf8f8"
-    },
-    {
-      "id": "767c0bc32b547014",
-      "t": "2026-11-13T10:40:05.058Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Vox obre la campanya electoral amb una crida a desallotjar Sánchez del Govern» (Diari de Sabadell).",
-      "itemId": "3c9465af3df271a9"
-    },
-    {
-      "id": "858f665ba6e6b8a9",
-      "t": "2026-11-13T10:40:05.059Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local.",
-      "itemId": "3c9465af3df271a9"
-    },
-    {
-      "id": "535678588e5576ff",
-      "t": "2026-11-13T10:40:05.060Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Programa 594 14/11/26» (Ràdio Sabadell).",
-      "itemId": "34cd53ed19290a07"
-    },
-    {
-      "id": "7b537abedaaeb492",
-      "t": "2026-11-13T10:40:05.061Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La Llanterna Màgica 400» (Ràdio Sabadell).",
-      "itemId": "69756d1de6f37083"
-    },
-    {
-      "id": "dc19a09bff90e829",
-      "t": "2026-11-13T11:33:13.685Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Els Mossos busquen una dona desapareguda a Sabadell des de l'octubre» (Ràdio Sabadell).",
-      "itemId": "9507fed1a226ab40"
-    },
-    {
-      "id": "7ed993f659b3b1e5",
-      "t": "2026-11-13T11:33:13.686Z",
-      "agente": "deduplicador",
-      "texto": "Descartada perquè és duplicada: coincideix amb «Els Mossos busquen una dona desapareguda a Sabadell des de fa tres dies» (Ràdio Sabadell).",
-      "itemId": "9507fed1a226ab40"
-    },
-    {
-      "id": "304cade5f015a577",
-      "t": "2026-11-13T11:33:13.687Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Sabadell tornarà a fer olor de Nadal... i no serà la mateixa aroma de l'any passat» (Diari de Sabadell).",
-      "itemId": "4274de6d2a1d3620"
-    },
-    {
-      "id": "b7ff24ca9a2ea3c6",
-      "t": "2026-11-13T11:33:13.688Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La tertúlia del Notícies Matí: Pla de Barris, inici de la campanya per al 29-N i el Nadal a Sabadell» (Ràdio Sabadell).",
-      "itemId": "1e823e97e2316ff7"
-    },
-    {
-      "id": "71c7de180dce9445",
-      "t": "2026-11-13T11:33:13.689Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Les Festes de Sant Martí ompliran Cerdanyola de deu dies d’activitats» (Ajuntament de Cerdanyola del Vallès).",
-      "itemId": "423f4079fe659c3d"
-    },
-    {
-      "id": "f0fa8490ef62321b",
-      "t": "2026-11-13T11:33:13.690Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local, Salut, Educació, Esports, Cultura i festes.",
-      "itemId": "423f4079fe659c3d"
-    },
-    {
-      "id": "c56689994d07514c",
-      "t": "2026-11-13T11:33:13.691Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "423f4079fe659c3d"
-    },
-    {
       "id": "90ffb19b07fb03ab",
       "t": "2026-11-13T11:33:13.692Z",
       "agente": "mesa",
@@ -2799,7 +2715,91 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Educació.",
       "itemId": "c516a28e1fe3aa6d"
+    },
+    {
+      "id": "fbde461aaa83239c",
+      "t": "2026-11-18T11:20:51.835Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Els comerços de Sentmenat impulsen una campanya de Nadal amb el sorteig d’una gran panera» (Ajuntament de Sentmenat).",
+      "itemId": "694642b8f0539e22"
+    },
+    {
+      "id": "ae1800f609121d5e",
+      "t": "2026-11-18T11:20:51.836Z",
+      "agente": "rastreador",
+      "texto": "He recollit «David Palacios, Assemblea de Docents de Sabadell: \"Les colònies han sortit de franc al Departament\"» (Ràdio Sabadell).",
+      "itemId": "89c0d4f7eb8c64e3"
+    },
+    {
+      "id": "f7299882c10f87a2",
+      "t": "2026-11-18T11:20:51.837Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local, Educació.",
+      "itemId": "89c0d4f7eb8c64e3"
+    },
+    {
+      "id": "a0a1aed5d5c56753",
+      "t": "2026-11-18T11:20:51.838Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): política local, educació.",
+      "itemId": "89c0d4f7eb8c64e3"
+    },
+    {
+      "id": "271cb1cecb58a064",
+      "t": "2026-11-18T11:20:51.839Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La disputa per liderar els carrers de Sabadell: així es reparteixen els trams per als cartells electorals» (Diari de Sabadell).",
+      "itemId": "e3b712823011e7d9"
+    },
+    {
+      "id": "dc995734e95c2c5b",
+      "t": "2026-11-18T11:20:51.840Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Com hem de fer un bon ús d'un inhaladors?» (Ràdio Sabadell).",
+      "itemId": "d97ba74194074aa3"
+    },
+    {
+      "id": "8430d3d5f143516a",
+      "t": "2026-11-18T11:20:51.841Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Arnau Alfagem, Andi: \"Som capaços. Prou d'infantilitzar-nos\"» (Ràdio Sabadell).",
+      "itemId": "16f977125eb79010"
+    },
+    {
+      "id": "e433259597c2af8e",
+      "t": "2026-11-18T11:20:51.842Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La tertúlia: l'habitatge, el 29-N i els pessebres» (Ràdio Sabadell).",
+      "itemId": "6e51084b226c9018"
+    },
+    {
+      "id": "060761b90bb13b2b",
+      "t": "2026-11-18T11:20:51.843Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Obres i urbanisme.",
+      "itemId": "6e51084b226c9018"
+    },
+    {
+      "id": "bb4b514a1e5ad099",
+      "t": "2026-11-18T11:20:51.844Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Natàlia Munill, advocada: \"Podem gravar les converses si som part implicada\"» (Ràdio Sabadell).",
+      "itemId": "67c96647f88e6d3b"
+    },
+    {
+      "id": "549696f32e1c30f8",
+      "t": "2026-11-18T11:20:51.845Z",
+      "agente": "rastreador",
+      "texto": "He recollit «David Palacios, Assemblea de Docents de Sabadell: \"No fem boicot a les colònies\"» (Ràdio Sabadell).",
+      "itemId": "beae534dbe4bb9a1"
+    },
+    {
+      "id": "75a6addca4b3a574",
+      "t": "2026-11-18T11:20:51.846Z",
+      "agente": "deduplicador",
+      "texto": "Descartada perquè és duplicada: coincideix amb «David Palacios, Assemblea de Docents de Sabadell: \"Les colònies han sortit de franc al Departament\"» (Ràdio Sabadell).",
+      "itemId": "beae534dbe4bb9a1"
     }
   ],
-  "actualizado": "2026-11-18T10:15:35.569Z"
+  "actualizado": "2026-11-18T11:21:12.446Z"
 }
