@@ -104,6 +104,27 @@
   },
   "items": [
     {
+      "id": "2eb7cd945cda35c4",
+      "titulo": "Josep Maria Bunyol, escriptor: \"Tinc pendent un crim a Sabadell\"",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-mati-bunyol-181126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-18T11:24:22.000Z",
+      "detectado": "2026-11-18T12:18:32.449Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "beae534dbe4bb9a1",
       "titulo": "David Palacios, Assemblea de Docents de Sabadell: \"No fem boicot a les colònies\"",
       "enlace": "https://radiosabadell.fm/podcast/noticies-mati-assemblea-docents-sabadell-181126",
@@ -186,6 +207,34 @@
       "propuesta": false
     },
     {
+      "id": "4f1028e4f2f0d629",
+      "titulo": "Front Ampli equipara les eleccions a un \"referèndum sobre habitatge\"",
+      "enlace": "https://radiosabadell.fm/actualitat/politica/front-ampli-eleccions-referendum-habitatge",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-18T10:53:31.000Z",
+      "detectado": "2026-11-18T12:18:32.449Z",
+      "sensible": false,
+      "etiquetas": [
+        "emergencias",
+        "politica",
+        "urbanismo",
+        "cultura"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "emergències, política local, obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
       "id": "d97ba74194074aa3",
       "titulo": "Com hem de fer un bon ús d'un inhaladors?",
       "enlace": "https://radiosabadell.fm/podcast/consells-farmacia-inhaladors-181126",
@@ -203,6 +252,33 @@
       "motivos": [],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "194ec91d9c1a68f6",
+      "titulo": "La nova residència d’Atendis a Can Rull està prevista pel 2028",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/nova-residencia-atendis-can-rull-prevista-2028-sabadell",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-18T10:39:04.000Z",
+      "detectado": "2026-11-18T12:18:32.449Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica",
+        "urbanismo",
+        "salud"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "política local, obres i urbanisme, salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
     },
     {
       "id": "e3b712823011e7d9",
@@ -299,6 +375,29 @@
       "propuesta": false
     },
     {
+      "id": "7cb5a851595e1e46",
+      "titulo": "Més de 500 infants i joves participen al taller “La teva veu fa Ripollet”",
+      "enlace": "https://www.ripollet.cat/actualitat/noticies/mes-de-500-infants-i-joves-participen-al-taller-201cla-teva-veu-fa-ripollet201d",
+      "fuente": "ayto-ripollet",
+      "fuenteNombre": "Ajuntament de Ripollet",
+      "tipo": "oficial",
+      "resumen": "El taller, adreçat a infants i joves entre els 10 i els 14 anys, s’està realitzant aquest mes de novembre, impulsat pel departament de Participació Ciutadana.",
+      "municipio": "ripollet",
+      "municipiosMencionados": [
+        "ripollet"
+      ],
+      "publicado": "2026-11-18T09:10:00.000Z",
+      "detectado": "2026-11-18T12:18:32.449Z",
+      "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "97cc32f15d00e8a4",
       "titulo": "Horta-Sabadell 'B': el filial es posa al dia al Feliu i Codina",
       "enlace": "https://radiosabadell.fm/esports/ce-sabadell/previa-filial-horta-sabadell-b-lliga-elit",
@@ -351,6 +450,29 @@
       "propuesta": true
     },
     {
+      "id": "12fd36f5277fa199",
+      "titulo": "Ja es poden fer les inscripcions a la I Cursa Antiracista de Santa Perpètua",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/ja-es-poden-fer-les-inscripcions-a-la-i-cursa-antiracista-de-santa-perpetua.html",
+      "fuente": "ayto-santa-perpetua",
+      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
+      "tipo": "oficial",
+      "resumen": "L'Ajuntament de Santa Perpètua de Mogoda ha obert avui les inscripcions per a la primera Cursa Antiracista que tindrà lloc el 20 de desembre a les 10 h.",
+      "municipio": "santa-perpetua",
+      "municipiosMencionados": [
+        "santa-perpetua"
+      ],
+      "publicado": "2026-11-18T08:30:00.000Z",
+      "detectado": "2026-11-18T12:18:32.449Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "ae6d25ac4deb0d02",
       "titulo": "'Federico García', l’espectacle que clou l’homenatge de Cerdanyola a Federico García Lorca",
       "enlace": "http://www.cerdanyola.cat/actualitat/federico-garcia-lespectacle-que-clou-lhomenatge-de-cerdanyola-federico-garcia-lorca",
@@ -373,6 +495,31 @@
       "motivos": [
         "font oficial",
         "educació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "7d3b6798db0843c8",
+      "titulo": "Més de 8 milions d’euros per cuidar el Cementiri de Sabadell￼",
+      "enlace": "https://www.isabadell.cat/al-teu-costat/8-milions-deuros-per-cuidar-el-cementiri-de-sabadell-341033/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-18T08:00:40.000Z",
+      "detectado": "2026-11-18T12:18:32.449Z",
+      "sensible": false,
+      "etiquetas": [
+        "urbanismo"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "obres i urbanisme"
       ],
       "duplicadaDe": null,
       "propuesta": false
@@ -490,6 +637,25 @@
       "propuesta": false
     },
     {
+      "id": "39322bc37ea562fc",
+      "titulo": "Instal·lar plaques solars a Barcelona",
+      "enlace": "https://www.isabadell.cat/contingut-patrocinat/installar-plaques-solars-a-barcelona-341042/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-18T05:00:00.000Z",
+      "detectado": "2026-11-18T12:18:32.449Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "57f9ef35e813421e",
       "titulo": "La campanya Cap infant sense joguines 2026 obre el període de sol·licituds del 18 de novembre a l'1 de desembre",
       "enlace": "https://www.staperpetua.cat/actualitat/noticies/la-campanya-cap-infant-sense-joguines-2026-obre-el-periode-de-sollicituds-del-18-de-novembre-a-l1-de-desembre.html",
@@ -560,5 +726,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-18T11:21:12.443Z"
+  "actualizado": "2026-11-18T12:18:45.728Z"
 }

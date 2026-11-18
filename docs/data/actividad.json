@@ -1,90 +1,6 @@
 {
   "eventos": [
     {
-      "id": "90ffb19b07fb03ab",
-      "t": "2026-11-13T11:33:13.692Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (5 punts): font oficial · política local, salut, educació.",
-      "itemId": "423f4079fe659c3d"
-    },
-    {
-      "id": "26dc31396d889ce2",
-      "t": "2026-11-13T12:29:34.175Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Ripollet acollirà el 10è Festival Internacional de Dones Màgiques DAMA» (Ajuntament de Ripollet).",
-      "itemId": "c3d0aee84d2bc7fd"
-    },
-    {
-      "id": "0265a5a41232f0ef",
-      "t": "2026-11-13T12:29:34.176Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Ripollet celebrarà la tercera Fira de les Economies Transformadores amb la migració i l’antiracisme com a protagonistes» (Ajuntament de Ripollet).",
-      "itemId": "22e3fdd478c68399"
-    },
-    {
-      "id": "1809f70cddcf568e",
-      "t": "2026-11-13T12:29:34.177Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Cultura i festes.",
-      "itemId": "22e3fdd478c68399"
-    },
-    {
-      "id": "09d55de260186eef",
-      "t": "2026-11-13T12:29:34.178Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Una de cada cinc persones a Catalunya viu per sota del llindar de la pobresa» (Ràdio Sabadell).",
-      "itemId": "d9dabd87193d3434"
-    },
-    {
-      "id": "3c1efe7de7c32f4d",
-      "t": "2026-11-13T12:29:34.179Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Ripollet viatjarà a la Xina per la candidatura de les catifes florals a la UNESCO» (Ajuntament de Ripollet).",
-      "itemId": "7b52514edf9b570a"
-    },
-    {
-      "id": "2b08a428f04acf17",
-      "t": "2026-11-13T12:29:34.180Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Cultura i festes.",
-      "itemId": "7b52514edf9b570a"
-    },
-    {
-      "id": "5d7460652cffa96a",
-      "t": "2026-11-13T12:29:34.181Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Què fer aquest cap de setmana a la ciutat?» (iSabadell).",
-      "itemId": "4029ad530200cb70"
-    },
-    {
-      "id": "460b25c351b1f25f",
-      "t": "2026-11-13T12:29:34.182Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Salut, Cultura i festes.",
-      "itemId": "4029ad530200cb70"
-    },
-    {
-      "id": "343ca0b0220805e4",
-      "t": "2026-11-13T12:29:34.183Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Carme Viñas, Gran Recapte: \"Hi ha molta gent que està treballant però no arriba a final de mes\"» (Ràdio Sabadell).",
-      "itemId": "8cf1a2b94ace3161"
-    },
-    {
-      "id": "00d41d9b09f6ea87",
-      "t": "2026-11-13T12:29:34.184Z",
-      "agente": "rastreador",
-      "texto": "He recollit «L’Ajuntament recorda els consells de seguretat per gaudir de les activitats de foc de Sant Martí» (Ajuntament de Cerdanyola del Vallès).",
-      "itemId": "47920e7ad732d97a"
-    },
-    {
-      "id": "9bfc188a66ff1340",
-      "t": "2026-11-13T12:29:34.185Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Successos, Salut, Medi ambient, Cultura i festes.",
-      "itemId": "47920e7ad732d97a"
-    },
-    {
       "id": "fef12e488ed497db",
       "t": "2026-11-13T12:29:34.186Z",
       "agente": "vigilante",
@@ -2799,7 +2715,91 @@
       "agente": "deduplicador",
       "texto": "Descartada perquè és duplicada: coincideix amb «David Palacios, Assemblea de Docents de Sabadell: \"Les colònies han sortit de franc al Departament\"» (Ràdio Sabadell).",
       "itemId": "beae534dbe4bb9a1"
+    },
+    {
+      "id": "b7142cf6f4bfa712",
+      "t": "2026-11-18T12:18:32.449Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Instal·lar plaques solars a Barcelona» (iSabadell).",
+      "itemId": "39322bc37ea562fc"
+    },
+    {
+      "id": "97c735d5a2317b15",
+      "t": "2026-11-18T12:18:32.450Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Més de 8 milions d’euros per cuidar el Cementiri de Sabadell￼» (iSabadell).",
+      "itemId": "7d3b6798db0843c8"
+    },
+    {
+      "id": "31b404ea3b7d9091",
+      "t": "2026-11-18T12:18:32.451Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Obres i urbanisme.",
+      "itemId": "7d3b6798db0843c8"
+    },
+    {
+      "id": "33ac0f718273027d",
+      "t": "2026-11-18T12:18:32.453Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Més de 500 infants i joves participen al taller “La teva veu fa Ripollet”» (Ajuntament de Ripollet).",
+      "itemId": "7cb5a851595e1e46"
+    },
+    {
+      "id": "96d28f89d71c9388",
+      "t": "2026-11-18T12:18:32.454Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "7cb5a851595e1e46"
+    },
+    {
+      "id": "cf33abfaf790afe9",
+      "t": "2026-11-18T12:18:32.455Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La nova residència d’Atendis a Can Rull està prevista pel 2028» (Ràdio Sabadell).",
+      "itemId": "194ec91d9c1a68f6"
+    },
+    {
+      "id": "c72a21f079216842",
+      "t": "2026-11-18T12:18:32.456Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local, Obres i urbanisme, Salut.",
+      "itemId": "194ec91d9c1a68f6"
+    },
+    {
+      "id": "fa25498d0dd53af5",
+      "t": "2026-11-18T12:18:32.457Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): política local, obres i urbanisme, salut.",
+      "itemId": "194ec91d9c1a68f6"
+    },
+    {
+      "id": "32640b2f59dfc935",
+      "t": "2026-11-18T12:18:32.458Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Front Ampli equipara les eleccions a un \"referèndum sobre habitatge\"» (Ràdio Sabadell).",
+      "itemId": "4f1028e4f2f0d629"
+    },
+    {
+      "id": "026cf4ea176712d8",
+      "t": "2026-11-18T12:18:32.459Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Emergències, Política local, Obres i urbanisme, Cultura i festes.",
+      "itemId": "4f1028e4f2f0d629"
+    },
+    {
+      "id": "2bf9ee1fd81cb266",
+      "t": "2026-11-18T12:18:32.460Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): emergències, política local, obres i urbanisme.",
+      "itemId": "4f1028e4f2f0d629"
+    },
+    {
+      "id": "4bfd97d229329fc8",
+      "t": "2026-11-18T12:18:32.461Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Josep Maria Bunyol, escriptor: \"Tinc pendent un crim a Sabadell\"» (Ràdio Sabadell).",
+      "itemId": "2eb7cd945cda35c4"
     }
   ],
-  "actualizado": "2026-11-18T11:21:12.446Z"
+  "actualizado": "2026-11-18T12:18:45.731Z"
 }
