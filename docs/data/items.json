@@ -104,6 +104,167 @@
   },
   "items": [
     {
+      "id": "91d64e7da0751a2d",
+      "titulo": "Ogou (Front Ampli): “Les eleccions seran un referèndum sobre l’habitatge”",
+      "enlace": "https://www.isabadell.cat/politica/ogou-les-eleccions-seran-un-referendum-sobre-lhabitatge-341068/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-18T13:30:16.000Z",
+      "detectado": "2026-11-18T13:40:20.866Z",
+      "sensible": false,
+      "etiquetas": [
+        "urbanismo"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "obres i urbanisme"
+      ],
+      "duplicadaDe": "4f1028e4f2f0d629",
+      "propuesta": false
+    },
+    {
+      "id": "d289a0fe98570edb",
+      "titulo": "La nova residència d'Atendis a Can Rull estarà enllestida al 2028",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-migdia-residencia-atendis-181116",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-18T13:22:59.000Z",
+      "detectado": "2026-11-18T13:40:20.866Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": "194ec91d9c1a68f6",
+      "propuesta": false
+    },
+    {
+      "id": "dc9049a6b447a62b",
+      "titulo": "Acord per la futura residència d'Atendis a Can Rull",
+      "enlace": "https://www.diaridesabadell.com/sabadell/signatura-acord-residencia-sabadell-can-rull.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-18T13:12:10.000Z",
+      "detectado": "2026-11-18T13:40:20.866Z",
+      "sensible": false,
+      "etiquetas": [
+        "urbanismo"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "137ba1d8e5ef7dbd",
+      "titulo": "'Superdimecres': Champions de waterpolo, Copa del Rei i Sabadell 'B'",
+      "enlace": "https://radiosabadell.fm/podcast/hotel-suis-181126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-18T13:11:41.000Z",
+      "detectado": "2026-11-18T13:40:20.866Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "663ad6ffbc998145",
+      "titulo": "En marxa el projecte de la nova residència d’Atendis a Can Rull",
+      "enlace": "https://www.isabadell.cat/societat/en-marxa-el-projecte-de-la-nova-residencia-datendis-a-can-rull-341032/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-18T13:00:17.000Z",
+      "detectado": "2026-11-18T13:40:20.866Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "75b5f92e842bff4a",
+      "titulo": "Josep Maria Bunyol, guionista: “Sabadell tindrà el seu crim”",
+      "enlace": "https://radiosabadell.fm/actualitat/cultura/bunyol-crimlogic-sabadell-181126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-18T12:59:00.000Z",
+      "detectado": "2026-11-18T13:40:20.866Z",
+      "sensible": false,
+      "etiquetas": [
+        "salud",
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "8f8107ccbd23d460",
+      "titulo": "“Teixim Nadal a Barberà”, una programació amb una quarantena d'activitats i un nou personatge",
+      "enlace": "https://www.bdv.cat/noticies/teixim-nadal-barbera-una-programacio-amb-una-quarantena-dactivitats-i-un-nou-personatge",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "L’encesa de llums, el pròxim 26 de novembre, donarà el tret de sortida a un cicle de Nadal que s’allargarà fins al 5 de gener i que incorpora novetats com el Guardià de les Hores i el Bosc Màgic interactiu. Barberà del Vallès es prepara…",
+      "municipio": "barbera",
+      "municipiosMencionados": [
+        "barbera"
+      ],
+      "publicado": "2026-11-18T12:28:00.000Z",
+      "detectado": "2026-11-18T13:40:20.866Z",
+      "sensible": true,
+      "etiquetas": [
+        "politica",
+        "deportes",
+        "cultura"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "font oficial",
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
       "id": "2eb7cd945cda35c4",
       "titulo": "Josep Maria Bunyol, escriptor: \"Tinc pendent un crim a Sabadell\"",
       "enlace": "https://radiosabadell.fm/podcast/noticies-mati-bunyol-181126",
@@ -656,6 +817,25 @@
       "propuesta": false
     },
     {
+      "id": "7db6eee98b2aa4d3",
+      "titulo": "Instal·lar plaques solars a Barcelona",
+      "enlace": "https://www.isabadell.cat/contingut-patrocinat/plaques-solars-barcelona-341042/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-18T05:00:00.000Z",
+      "detectado": "2026-11-18T13:40:20.866Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": "39322bc37ea562fc",
+      "propuesta": false
+    },
+    {
       "id": "57f9ef35e813421e",
       "titulo": "La campanya Cap infant sense joguines 2026 obre el període de sol·licituds del 18 de novembre a l'1 de desembre",
       "enlace": "https://www.staperpetua.cat/actualitat/noticies/la-campanya-cap-infant-sense-joguines-2026-obre-el-periode-de-sollicituds-del-18-de-novembre-a-l1-de-desembre.html",
@@ -726,5 +906,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-18T12:18:45.728Z"
+  "actualizado": "2026-11-18T13:40:37.355Z"
 }
