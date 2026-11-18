@@ -104,6 +104,55 @@
   },
   "items": [
     {
+      "id": "955321a7672abda5",
+      "titulo": "Palau al Dia - Notícies del 18/11/2026",
+      "enlace": "https://www.radiopalau.cat/podcasts/palau-al-dia/radiopalau_podcast_6844/",
+      "fuente": "radio-palau",
+      "fuenteNombre": "Ràdio Palau - Palau al Dia",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "palau",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-18T17:59:58.000Z",
+      "detectado": "2026-11-18T18:30:24.125Z",
+      "sensible": false,
+      "etiquetas": [
+        "salud",
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "2cb5dffaeddf33f8",
+      "titulo": "Un novembre amb el servei de Rodalies sota mínims a Sabadell i el Vallès",
+      "enlace": "https://www.diaridesabadell.com/sabadell/incompliments-rodalies-sabadell-valles.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-18T17:47:53.000Z",
+      "detectado": "2026-11-18T18:30:24.125Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "mobilitat"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "7a6b04cf8c25792d",
       "titulo": "Sabadell Dita",
       "enlace": "https://radiosabadell.fm/alacarta/audio/sabadell-dita",
@@ -793,6 +842,35 @@
       "propuesta": true
     },
     {
+      "id": "5ea4598e65805b33",
+      "titulo": "Núria Perpinyà ens convida a explorar el cos humà amb la novel·la 'El cos invisible'",
+      "enlace": "http://www.cerdanyola.cat/actualitat/nuria-perpinya-ens-convida-explorar-el-cos-huma-amb-la-novella-el-cos-invisible",
+      "fuente": "ayto-cerdanyola",
+      "fuenteNombre": "Ajuntament de Cerdanyola del Vallès",
+      "tipo": "oficial",
+      "resumen": "Núria Perpinyà ens convida a explorar el cos humà amb la novel·la 'El cos invisible' El Cafè amb lletres de novembre tindrà com a protagonista l'escriptora Núria Perpinyà, que presentarà la seva novel·la El cos invisible (La Magrana,…",
+      "municipio": "cerdanyola",
+      "municipiosMencionados": [
+        "cerdanyola"
+      ],
+      "publicado": "2026-11-18T11:31:19.000Z",
+      "detectado": "2026-11-18T18:30:24.125Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica",
+        "urbanismo",
+        "educacion",
+        "cultura"
+      ],
+      "puntuacion": 5,
+      "motivos": [
+        "font oficial",
+        "política local, obres i urbanisme, educació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
       "id": "2eb7cd945cda35c4",
       "titulo": "Josep Maria Bunyol, escriptor: \"Tinc pendent un crim a Sabadell\"",
       "enlace": "https://radiosabadell.fm/podcast/noticies-mati-bunyol-181126",
@@ -1434,5 +1512,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-18T17:39:03.184Z"
+  "actualizado": "2026-11-18T18:30:46.318Z"
 }

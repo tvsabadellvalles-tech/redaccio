@@ -1,55 +1,6 @@
 {
   "eventos": [
     {
-      "id": "65d7dc2ac1c8d159",
-      "t": "2026-11-14T12:22:28.420Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Joan Mena (Comuns): “No volem cap pensió per sota del salari mínim”» (Ràdio Sabadell).",
-      "itemId": "ac86c77c6e5bd616"
-    },
-    {
-      "id": "43c1152cea346109",
-      "t": "2026-11-14T12:22:28.421Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Economia i ocupació, Salut.",
-      "itemId": "ac86c77c6e5bd616"
-    },
-    {
-      "id": "0eecea2fc84cd21c",
-      "t": "2026-11-14T13:21:29.257Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Comuns – Front Ampli vol equiparar les pensions mínimes al salari mínim» (iSabadell).",
-      "itemId": "2829a34cbb31901d"
-    },
-    {
-      "id": "233cc2fad4be80f7",
-      "t": "2026-11-14T13:21:29.258Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Emergències, Salut.",
-      "itemId": "2829a34cbb31901d"
-    },
-    {
-      "id": "d4df56e3534aaa4c",
-      "t": "2026-11-14T13:21:29.259Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): emergències, salut.",
-      "itemId": "2829a34cbb31901d"
-    },
-    {
-      "id": "86078c940fc68374",
-      "t": "2026-11-14T14:10:38.045Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Comuns - Front Ampli defensa que cap pensió quedi per sota del salari mínim» (Diari de Sabadell).",
-      "itemId": "acf6a18005b7b170"
-    },
-    {
-      "id": "09f9df94753ed1ca",
-      "t": "2026-11-14T14:10:38.046Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Salut.",
-      "itemId": "acf6a18005b7b170"
-    },
-    {
       "id": "bcd1e40da8495445",
       "t": "2026-11-14T14:54:37.856Z",
       "agente": "rastreador",
@@ -2799,7 +2750,56 @@
       "agente": "rastreador",
       "texto": "He recollit «Sabadell Dita» (Ràdio Sabadell).",
       "itemId": "7a6b04cf8c25792d"
+    },
+    {
+      "id": "4d66635302736633",
+      "t": "2026-11-18T18:30:24.125Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Núria Perpinyà ens convida a explorar el cos humà amb la novel·la 'El cos invisible'» (Ajuntament de Cerdanyola del Vallès).",
+      "itemId": "5ea4598e65805b33"
+    },
+    {
+      "id": "90aab19df0a4fe04",
+      "t": "2026-11-18T18:30:24.126Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local, Obres i urbanisme, Educació, Cultura i festes.",
+      "itemId": "5ea4598e65805b33"
+    },
+    {
+      "id": "963bd6b21f0ba31b",
+      "t": "2026-11-18T18:30:24.127Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (5 punts): font oficial · política local, obres i urbanisme, educació.",
+      "itemId": "5ea4598e65805b33"
+    },
+    {
+      "id": "0862cc32f6fefaa0",
+      "t": "2026-11-18T18:30:24.128Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Un novembre amb el servei de Rodalies sota mínims a Sabadell i el Vallès» (Diari de Sabadell).",
+      "itemId": "2cb5dffaeddf33f8"
+    },
+    {
+      "id": "40e2d02328d73459",
+      "t": "2026-11-18T18:30:24.129Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat.",
+      "itemId": "2cb5dffaeddf33f8"
+    },
+    {
+      "id": "005dbf3115b24c89",
+      "t": "2026-11-18T18:30:24.130Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Palau al Dia - Notícies del 18/11/2026» (Ràdio Palau - Palau al Dia).",
+      "itemId": "955321a7672abda5"
+    },
+    {
+      "id": "5ca84b3c17236888",
+      "t": "2026-11-18T18:30:24.131Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut, Cultura i festes.",
+      "itemId": "955321a7672abda5"
     }
   ],
-  "actualizado": "2026-11-18T17:39:03.188Z"
+  "actualizado": "2026-11-18T18:30:46.322Z"
 }
