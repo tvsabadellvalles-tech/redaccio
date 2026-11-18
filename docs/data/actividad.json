@@ -1,13 +1,6 @@
 {
   "eventos": [
     {
-      "id": "24232c0ed1ecf4d3",
-      "t": "2026-11-14T19:37:46.057Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Illa: “Si Catalunya va a votar, guanyarà Sánchez”» (iSabadell).",
-      "itemId": "b9012b23cae21559"
-    },
-    {
       "id": "a685caf7ecdc8daf",
       "t": "2026-11-14T20:18:12.712Z",
       "agente": "rastreador",
@@ -2799,7 +2792,14 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Obres i urbanisme, Cultura i festes.",
       "itemId": "1e189d1d7faa9259"
+    },
+    {
+      "id": "c9d7f430d92c628f",
+      "t": "2026-11-18T23:18:09.318Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Infopòdcast Sabadell 19.11.26» (Ràdio Sabadell).",
+      "itemId": "ac57cfd4f8ed99c3"
     }
   ],
-  "actualizado": "2026-11-18T21:28:37.152Z"
+  "actualizado": "2026-11-18T23:18:23.553Z"
 }
