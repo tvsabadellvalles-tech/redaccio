@@ -2,8 +2,8 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-18T13:40:20.866Z",
-  "total": 21,
+  "consultat": "2026-11-18T14:35:32.498Z",
+  "total": 23,
   "activitats": [
     {
       "titol": "LORENA NO HI ÉS",
@@ -146,6 +146,20 @@
       "color": null
     },
     {
+      "titol": "Presentació calendari Andi Down",
+      "inici": "2026-11-19T17:00:00.000Z",
+      "final": "2026-11-19T18:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "Acte VOX",
+      "inici": "2026-11-19T18:00:00.000Z",
+      "final": "2026-11-19T19:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
       "titol": "(Ferran) LÍMIT REEL VA DE MODA",
       "inici": "2026-11-19T18:45:00.000Z",
       "final": "2026-11-19T19:00:00.000Z",
@@ -154,5 +168,5 @@
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-18T13:40:55.059Z"
+  "actualizado": "2026-11-18T14:36:15.450Z"
 }
