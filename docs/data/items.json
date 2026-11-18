@@ -104,6 +104,141 @@
   },
   "items": [
     {
+      "id": "ed2c5220aa86cac1",
+      "titulo": "El Sabadell es passeja a Utebo i recupera sensacions (0-3)",
+      "enlace": "https://www.isabadell.cat/esports/futbol/el-sabadell-es-passeja-a-utebo-i-recupera-sensacions-0-3-341114/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-18T20:15:02.000Z",
+      "detectado": "2026-11-18T20:31:35.729Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "23edf9919a4c3674",
+      "titulo": "El CE Sabadell es retroba amb la victòria amb contundència a la Copa",
+      "enlace": "https://www.diaridesabadell.com/esports/utebo-centre-esports-sabadell-copa-del-rei-cronica-primera-eliminatoria.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-18T20:03:52.000Z",
+      "detectado": "2026-11-18T20:31:35.729Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "42c428c1c2f288b8",
+      "titulo": "Astralpool CN Sabadell 10-11 Jadran Herceg Novi: una dolorosa remuntada que complica el top-8",
+      "enlace": "https://radiosabadell.fm/esports/waterpolo/astralpool-cn-sabadell-10-11-jadran-herceg-novi-champions-league",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-18T20:00:14.000Z",
+      "detectado": "2026-11-18T20:31:35.729Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "113dd603df22cec1",
+      "titulo": "Els gols de l'Utebo FC 0-3 CE Sabadell",
+      "enlace": "https://radiosabadell.fm/alacarta/audio/els-gols-de-lutebo-fc-0-3-ce-sabadell",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-18T19:58:54.000Z",
+      "detectado": "2026-11-18T20:31:35.729Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "d51b15dcb4ed3819",
+      "titulo": "Utebo 0-3 Sabadell: la Copa del Rei, un bàlsam amb estrenes golejadores",
+      "enlace": "https://radiosabadell.fm/esports/ce-sabadell/utebo-sabadell-cronica-copa-rei-primera-ronda",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-18T19:52:33.000Z",
+      "detectado": "2026-11-18T20:31:35.729Z",
+      "sensible": true,
+      "etiquetas": [
+        "salud",
+        "deportes"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "45aac898977c0644",
+      "titulo": "FOTOS | Els Pessebristes enllesteixen els preparatius de la 49a exposició",
+      "enlace": "https://www.diaridesabadell.com/sabadell/fotos-preparatius-exposicio-pessebristes-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-18T19:48:01.000Z",
+      "detectado": "2026-11-18T20:31:35.729Z",
+      "sensible": false,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "955321a7672abda5",
       "titulo": "Palau al Dia - Notícies del 18/11/2026",
       "enlace": "https://www.radiopalau.cat/podcasts/palau-al-dia/radiopalau_podcast_6844/",
@@ -1512,5 +1647,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-18T18:30:46.318Z"
+  "actualizado": "2026-11-18T20:31:56.853Z"
 }

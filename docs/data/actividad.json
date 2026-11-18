@@ -1,83 +1,6 @@
 {
   "eventos": [
     {
-      "id": "bcd1e40da8495445",
-      "t": "2026-11-14T14:54:37.856Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Som Capaços apropa la inclusió als infants amb música i activitats familiars» (Ràdio Sabadell).",
-      "itemId": "d99b68300a5d17b5"
-    },
-    {
-      "id": "9a82f2f08495b467",
-      "t": "2026-11-14T14:54:37.857Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local.",
-      "itemId": "d99b68300a5d17b5"
-    },
-    {
-      "id": "e51492e4e4439c47",
-      "t": "2026-11-14T14:54:37.858Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "d99b68300a5d17b5"
-    },
-    {
-      "id": "fc0bb0cae9cb28c9",
-      "t": "2026-11-14T16:14:35.540Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El Sincrotró ALBA, des de dins: un accelerador de partícules que prepara el pròxim salt» (Diari de Sabadell).",
-      "itemId": "020779f5a90f4a24"
-    },
-    {
-      "id": "42065d7f70a46059",
-      "t": "2026-11-14T18:57:33.622Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Ferencváros 8-13 Astralpool CN Sabadell: cop sobre la taula a casa del subcampió» (Ràdio Sabadell).",
-      "itemId": "34ab3a0cf43e4fea"
-    },
-    {
-      "id": "1429a13eb4130806",
-      "t": "2026-11-14T18:57:33.623Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Esports.",
-      "itemId": "34ab3a0cf43e4fea"
-    },
-    {
-      "id": "282b46c1fe49cd87",
-      "t": "2026-11-14T18:57:33.624Z",
-      "agente": "rastreador",
-      "texto": "He recollit «L'OAR Gràcia femení derrota el Sant Joan Despí (30-26) i ratifica les seves ambicioses intencions» (Ràdio Sabadell).",
-      "itemId": "1620472b985cfac6"
-    },
-    {
-      "id": "9e7152a2eb98e75c",
-      "t": "2026-11-14T18:57:33.625Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Esports.",
-      "itemId": "1620472b985cfac6"
-    },
-    {
-      "id": "2a07faeba6fd056e",
-      "t": "2026-11-14T19:37:46.050Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Champions: el femení del Club assalta el Ferencvaros en un gran triomf» (iSabadell).",
-      "itemId": "2265350e4b777e83"
-    },
-    {
-      "id": "8eca220054e5c83a",
-      "t": "2026-11-14T19:37:46.051Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Esports.",
-      "itemId": "2265350e4b777e83"
-    },
-    {
-      "id": "be0dfb7cc6e3cc51",
-      "t": "2026-11-14T19:37:46.052Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Illa crida a defensar els drets socials davant \"la coalició del gran diner\" de PP i Vox» (Diari de Sabadell).",
-      "itemId": "eafa156757f6fc84"
-    },
-    {
       "id": "c48c698a86ae8591",
       "t": "2026-11-14T19:37:46.053Z",
       "agente": "etiquetador",
@@ -2799,7 +2722,84 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Salut, Cultura i festes.",
       "itemId": "955321a7672abda5"
+    },
+    {
+      "id": "d075b039644231c3",
+      "t": "2026-11-18T20:31:35.729Z",
+      "agente": "rastreador",
+      "texto": "He recollit «FOTOS | Els Pessebristes enllesteixen els preparatius de la 49a exposició» (Diari de Sabadell).",
+      "itemId": "45aac898977c0644"
+    },
+    {
+      "id": "4fab0c5d4a580cbe",
+      "t": "2026-11-18T20:31:35.730Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "45aac898977c0644"
+    },
+    {
+      "id": "2dbfe5599d2787b5",
+      "t": "2026-11-18T20:31:35.731Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Utebo 0-3 Sabadell: la Copa del Rei, un bàlsam amb estrenes golejadores» (Ràdio Sabadell).",
+      "itemId": "d51b15dcb4ed3819"
+    },
+    {
+      "id": "79493609bc28bf5d",
+      "t": "2026-11-18T20:31:35.732Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut, Esports.",
+      "itemId": "d51b15dcb4ed3819"
+    },
+    {
+      "id": "9529f63b203a3fb4",
+      "t": "2026-11-18T20:31:35.733Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "d51b15dcb4ed3819"
+    },
+    {
+      "id": "a70959c312d2ab3c",
+      "t": "2026-11-18T20:31:35.734Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Els gols de l'Utebo FC 0-3 CE Sabadell» (Ràdio Sabadell).",
+      "itemId": "113dd603df22cec1"
+    },
+    {
+      "id": "bd47f6140ec20da3",
+      "t": "2026-11-18T20:31:35.735Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Astralpool CN Sabadell 10-11 Jadran Herceg Novi: una dolorosa remuntada que complica el top-8» (Ràdio Sabadell).",
+      "itemId": "42c428c1c2f288b8"
+    },
+    {
+      "id": "61ee46db823979c7",
+      "t": "2026-11-18T20:31:35.736Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "42c428c1c2f288b8"
+    },
+    {
+      "id": "2e3ff35a1aa4b4d6",
+      "t": "2026-11-18T20:31:35.737Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El CE Sabadell es retroba amb la victòria amb contundència a la Copa» (Diari de Sabadell).",
+      "itemId": "23edf9919a4c3674"
+    },
+    {
+      "id": "b581d3ed162f96bc",
+      "t": "2026-11-18T20:31:35.738Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El Sabadell es passeja a Utebo i recupera sensacions (0-3)» (iSabadell).",
+      "itemId": "ed2c5220aa86cac1"
+    },
+    {
+      "id": "85289158b2a37ad1",
+      "t": "2026-11-18T20:31:35.739Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "ed2c5220aa86cac1"
     }
   ],
-  "actualizado": "2026-11-18T18:30:46.322Z"
+  "actualizado": "2026-11-18T20:31:56.856Z"
 }

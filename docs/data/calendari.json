@@ -2,7 +2,7 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-18T19:34:25.179Z",
+  "consultat": "2026-11-18T20:31:35.729Z",
   "total": 24,
   "activitats": [
     {
@@ -83,16 +83,16 @@
       "color": null
     },
     {
-      "titol": "(Lorena) Rdp pessebristes",
+      "titol": "Utebo - CE Sabadell",
       "inici": "2026-11-18T18:00:00.000Z",
-      "final": "2026-11-18T19:00:00.000Z",
+      "final": "2026-11-18T20:00:00.000Z",
       "totElDia": false,
       "color": null
     },
     {
-      "titol": "Utebo - CE Sabadell",
+      "titol": "(Lorena) Rdp pessebristes",
       "inici": "2026-11-18T18:00:00.000Z",
-      "final": "2026-11-18T20:00:00.000Z",
+      "final": "2026-11-18T19:00:00.000Z",
       "totElDia": false,
       "color": null
     },
@@ -175,5 +175,5 @@
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-18T19:34:56.503Z"
+  "actualizado": "2026-11-18T20:32:14.014Z"
 }
