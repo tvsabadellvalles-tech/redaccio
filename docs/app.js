@@ -3,7 +3,7 @@
 const params = new URLSearchParams(location.search);
 const carpetaDatos = params.get('datos') ? `data/${params.get('datos').replace(/[^a-z0-9_-]/gi, '')}` : 'data';
 // Incrementa aquesta versió juntament amb docs/version.json i els paràmetres ?v= de docs/index.html en cada publicació.
-const VERSIO_APP = '2026.11.19.1';
+const VERSIO_APP = '2026.11.19.2';
 const REFRESCO_MS = 60000;
 const ANTIGUITAT_MAXIMA_SERVEIS_MS = 10 * 60 * 1000;
 const ANTIGUITAT_MAXIMA_DADES_MS = 45 * 60 * 1000;
@@ -782,18 +782,33 @@ function dataHoraLocalCalendari(dia, horaLocal = '00:00') {
 }
 
 async function consultarGoogleCalendarJson(url) {
-  const resposta = await fetch(url, {
-    cache: 'no-store',
-    headers: {
-      Accept: 'application/json',
-      'X-Goog-Api-Key': clauCalendariEnViu
-    },
-  });
-  const cos = await resposta.json().catch(() => null);
-  if (!resposta.ok) {
-    throw new Error(cos?.error?.message || 'Google Calendar API HTTP ' + resposta.status);
+  const controlador = typeof AbortController === 'function' ? new AbortController() : null;
+  let temporitzador;
+  try {
+    const resposta = await Promise.race([
+      fetch(url, {
+        cache: 'no-store',
+        headers: {
+          Accept: 'application/json',
+          'X-Goog-Api-Key': clauCalendariEnViu
+        },
+        ...(controlador ? { signal: controlador.signal } : {})
+      }),
+      new Promise((_, rebutjar) => {
+        temporitzador = setTimeout(() => {
+          controlador?.abort();
+          rebutjar(new Error('Temps d’espera esgotat consultant Google Calendar.'));
+        }, 15000);
+      })
+    ]);
+    const cos = await resposta.json().catch(() => null);
+    if (!resposta.ok) {
+      throw new Error(cos?.error?.message || 'Google Calendar API HTTP ' + resposta.status);
+    }
+    return cos || {};
+  } finally {
+    if (temporitzador) clearTimeout(temporitzador);
   }
-  return cos || {};
 }
 
 async function obtenirColorsCalendari() {
