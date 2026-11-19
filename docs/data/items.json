@@ -104,6 +104,29 @@
   },
   "items": [
     {
+      "id": "06b5fe52045db669",
+      "titulo": "La Penya La Plana celebrarà diumenge el seu 15è aniversari",
+      "enlace": "https://radiosabadell.fm/esports/ce-sabadell/15-aniversari-penya-arlequinada-la-plana-",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-19T15:55:18.000Z",
+      "detectado": "2026-11-19T16:37:08.989Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "6c16ff3455bcee98",
       "titulo": "Nou horari confirmat: l'Eibar tornarà a la Nova Creu Alta el dissabte 5 de desembre",
       "enlace": "https://radiosabadell.fm/esports/ce-sabadell/nou-horari-confirmat-sabadell-eibar-j17-hypermotion",
@@ -1258,5 +1281,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-19T15:30:25.712Z"
+  "actualizado": "2026-11-19T16:37:25.412Z"
 }

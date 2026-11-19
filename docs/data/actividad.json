@@ -1,20 +1,6 @@
 {
   "eventos": [
     {
-      "id": "0dc6dc7333c664e6",
-      "t": "2026-11-16T11:56:07.451Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Els Catarres i Lildami donaran el tret de sortida a l'Observa 2027» (Ràdio Sabadell).",
-      "itemId": "f77401f55e9caadb"
-    },
-    {
-      "id": "cf1794e4546d56e0",
-      "t": "2026-11-16T11:56:07.452Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Cultura i festes.",
-      "itemId": "f77401f55e9caadb"
-    },
-    {
       "id": "32931171f0a4b8ef",
       "t": "2026-11-16T11:56:07.453Z",
       "agente": "vigilante",
@@ -2799,7 +2785,21 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Esports.",
       "itemId": "6c16ff3455bcee98"
+    },
+    {
+      "id": "24daec9fc594cc1a",
+      "t": "2026-11-19T16:37:08.989Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La Penya La Plana celebrarà diumenge el seu 15è aniversari» (Ràdio Sabadell).",
+      "itemId": "06b5fe52045db669"
+    },
+    {
+      "id": "25b02c8b9b7b03a3",
+      "t": "2026-11-19T16:37:08.990Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "06b5fe52045db669"
     }
   ],
-  "actualizado": "2026-11-19T15:30:25.715Z"
+  "actualizado": "2026-11-19T16:37:25.420Z"
 }
