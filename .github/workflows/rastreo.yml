@@ -104,16 +104,31 @@ jobs:
       # Una ejecución programada solo vuelve a publicar Pages si hay datos nuevos.
       # Los pushes de cambios de código/configuración siempre publican el sitio.
       - name: Configurar GitHub Pages
-        if: github.event_name == 'push' || steps.guardar.outputs.changed == 'true'
+        if: github.event_name != 'schedule' || steps.guardar.outputs.changed == 'true'
         uses: actions/configure-pages@v5
 
+      # La clau de navegador és pública per disseny, però ha d'estar restringida
+      # al domini de Pages i exclusivament a Google Calendar API.
+      - name: Preparar configuració pública del calendari
+        if: github.event_name != 'schedule' || steps.guardar.outputs.changed == 'true'
+        shell: bash
+        env:
+          GOOGLE_CALENDAR_BROWSER_API_KEY: ${{ secrets.GOOGLE_CALENDAR_BROWSER_API_KEY }}
+        run: |
+          node --input-type=module <<'NODE'
+          import { writeFile } from 'node:fs/promises';
+          const apiKey = process.env.GOOGLE_CALENDAR_BROWSER_API_KEY?.trim() || '';
+          await writeFile('docs/calendar-client.json', JSON.stringify({ apiKey }, null, 2) + '\\n', 'utf8');
+          console.log(apiKey ? 'Configuració pública del calendari preparada.' : 'Calendari en directe pendent de GOOGLE_CALENDAR_BROWSER_API_KEY.');
+          NODE
+
       - name: Preparar archivos del sitio
-        if: github.event_name == 'push' || steps.guardar.outputs.changed == 'true'
+        if: github.event_name != 'schedule' || steps.guardar.outputs.changed == 'true'
         uses: actions/upload-pages-artifact@v3
         with:
           path: docs
 
       - name: Publicar en GitHub Pages
-        if: github.event_name == 'push' || steps.guardar.outputs.changed == 'true'
+        if: github.event_name != 'schedule' || steps.guardar.outputs.changed == 'true'
         id: deployment
         uses: actions/deploy-pages@v4

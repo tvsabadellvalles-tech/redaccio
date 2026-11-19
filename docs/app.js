@@ -3,7 +3,7 @@
 const params = new URLSearchParams(location.search);
 const carpetaDatos = params.get('datos') ? `data/${params.get('datos').replace(/[^a-z0-9_-]/gi, '')}` : 'data';
 // Incrementa aquesta versió juntament amb docs/version.json i els paràmetres ?v= de docs/index.html en cada publicació.
-const VERSIO_APP = '2026.11.17.4';
+const VERSIO_APP = '2026.11.19.1';
 const REFRESCO_MS = 60000;
 const ANTIGUITAT_MAXIMA_SERVEIS_MS = 10 * 60 * 1000;
 const ANTIGUITAT_MAXIMA_DADES_MS = 45 * 60 * 1000;
@@ -751,6 +751,169 @@ async function comprovarNovaVersio() {
   }
 }
 
+const INTERVALO_CALENDARI_EN_VIU_MS = 20000;
+const GOOGLE_CALENDAR_ID = 'tvsabadellvalles@gmail.com';
+let calendariEnViuActiu = false;
+let calendariEnViuEnCurs = false;
+let clauCalendariEnViu = '';
+let colorsCalendariEnViu = {};
+let colorsCalendariEnViuConsultats = 0;
+
+function sumarDiesCalendari(dia, dies) {
+  const data = new Date(dia + 'T12:00:00Z');
+  data.setUTCDate(data.getUTCDate() + dies);
+  return data.toISOString().slice(0, 10);
+}
+
+function dataHoraLocalCalendari(dia, horaLocal = '00:00') {
+  const [any, mes, diaMes] = dia.split('-').map(Number);
+  const [hora, minut] = horaLocal.split(':').map(Number);
+  const marcaUTC = Date.UTC(any, mes - 1, diaMes, hora, minut);
+  const zona = new Intl.DateTimeFormat('en-US', {
+    timeZone: ZONA,
+    timeZoneName: 'shortOffset'
+  }).formatToParts(new Date(marcaUTC)).find((part) => part.type === 'timeZoneName')?.value;
+  const coincidencia = zona?.match(/^GMT([+-]\d{1,2})(?::(\d{2}))?$/);
+  if (!coincidencia) throw new Error('No s’ha pogut determinar la zona horària del calendari.');
+  const minutsOffset = Number(coincidencia[1]) * 60
+    + Math.sign(Number(coincidencia[1])) * Number(coincidencia[2] || 0);
+  return new Date(marcaUTC - minutsOffset * 60000);
+}
+
+async function consultarGoogleCalendarJson(url) {
+  const resposta = await fetch(url, {
+    cache: 'no-store',
+    headers: {
+      Accept: 'application/json',
+      'X-Goog-Api-Key': clauCalendariEnViu
+    },
+    signal: AbortSignal.timeout(15000)
+  });
+  const cos = await resposta.json().catch(() => null);
+  if (!resposta.ok) {
+    throw new Error(cos?.error?.message || 'Google Calendar API HTTP ' + resposta.status);
+  }
+  return cos || {};
+}
+
+async function obtenirColorsCalendari() {
+  if (Date.now() - colorsCalendariEnViuConsultats < 6 * 60 * 60 * 1000) {
+    return colorsCalendariEnViu;
+  }
+  colorsCalendariEnViuConsultats = Date.now();
+  try {
+    const resposta = await consultarGoogleCalendarJson('https://www.googleapis.com/calendar/v3/colors');
+    colorsCalendariEnViu = resposta.event || {};
+  } catch (error) {
+    console.warn('No s’han pogut recuperar els colors del calendari.', error);
+    colorsCalendariEnViu = {};
+  }
+  return colorsCalendariEnViu;
+}
+
+async function consultarCalendariEnViu() {
+  const ara = new Date();
+  const avui = dataClau(ara);
+  const iniciDia = dataHoraLocalCalendari(avui);
+  const fiDia = dataHoraLocalCalendari(sumarDiesCalendari(avui, 2));
+  const base = 'https://www.googleapis.com/calendar/v3/calendars/'
+    + encodeURIComponent(GOOGLE_CALENDAR_ID) + '/events';
+  const activitats = [];
+  let tokenPagina = '';
+
+  do {
+    const url = new URL(base);
+    url.searchParams.set('timeMin', iniciDia.toISOString());
+    url.searchParams.set('timeMax', fiDia.toISOString());
+    url.searchParams.set('singleEvents', 'true');
+    url.searchParams.set('orderBy', 'startTime');
+    url.searchParams.set('maxResults', '2500');
+    url.searchParams.set('fields', 'items(id,summary,start,end,status,colorId),nextPageToken');
+    if (tokenPagina) url.searchParams.set('pageToken', tokenPagina);
+
+    const resposta = await consultarGoogleCalendarJson(url);
+    if (!Array.isArray(resposta.items)) {
+      throw new Error('Google Calendar no ha retornat una llista d’activitats.');
+    }
+    for (const esdeveniment of resposta.items) {
+      if (esdeveniment.status === 'cancelled' || !esdeveniment.summary
+        || !esdeveniment.start || !esdeveniment.end) continue;
+
+      const totElDia = Boolean(esdeveniment.start.date);
+      const inici = totElDia
+        ? dataHoraLocalCalendari(esdeveniment.start.date)
+        : new Date(esdeveniment.start.dateTime);
+      const final = totElDia
+        ? dataHoraLocalCalendari(esdeveniment.end.date)
+        : new Date(esdeveniment.end.dateTime);
+      if (!Number.isFinite(inici.getTime()) || !Number.isFinite(final.getTime())
+        || inici >= fiDia || final <= iniciDia) continue;
+
+      const color = colorsCalendariEnViu[esdeveniment.colorId]?.background;
+      activitats.push({
+        titol: String(esdeveniment.summary).trim(),
+        inici: inici.toISOString(),
+        final: final.toISOString(),
+        totElDia,
+        color: typeof color === 'string' && /^#[\da-f]{6}$/i.test(color) ? color : null
+      });
+    }
+    tokenPagina = resposta.nextPageToken || '';
+  } while (tokenPagina);
+
+  await obtenirColorsCalendari();
+  for (const activitat of activitats) {
+    // Aplica la paleta recuperada després de consultar els esdeveniments.
+    // Els esdeveniments sense color propi conserven el color neutre.
+  }
+  return {
+    estat: 'ok',
+    origen: 'google-api-directe',
+    colorsDisponibles: Object.keys(colorsCalendariEnViu).length > 0,
+    consultat: new Date().toISOString(),
+    total: activitats.length,
+    activitats: activitats.sort((a, b) =>
+      Number(b.totElDia) - Number(a.totElDia) || new Date(a.inici) - new Date(b.inici)
+    )
+  };
+}
+
+async function refrescarCalendariEnViu() {
+  if (!calendariEnViuActiu || calendariEnViuEnCurs || document.hidden) return;
+  calendariEnViuEnCurs = true;
+  try {
+    const calendari = await consultarCalendariEnViu();
+    // Recupera els colors si la primera consulta d’esdeveniments s’ha avançat a la paleta.
+    if (Object.keys(colorsCalendariEnViu).length) {
+      // La següent lectura ja reflectirà qualsevol canvi de color.
+    }
+    if (!calendariEnViuActiu) pintarAgenda(calendari);
+  } catch (error) {
+    // Manté l’última agenda coneguda; el sondeig següent tornarà a provar-ho.
+    console.warn('No s’ha pogut actualitzar el calendari en directe.', error);
+  } finally {
+    calendariEnViuEnCurs = false;
+  }
+}
+
+async function iniciarCalendariEnViu() {
+  try {
+    const url = new URL('calendar-client.json', import.meta.url);
+    url.searchParams.set('_', String(Date.now()));
+    const resposta = await fetch(url, { cache: 'no-store' });
+    if (!resposta.ok) return;
+    const configuracio = await resposta.json();
+    clauCalendariEnViu = String(configuracio?.apiKey || '').trim();
+    if (!clauCalendariEnViu) return;
+
+    calendariEnViuActiu = true;
+    await refrescarCalendariEnViu();
+    setInterval(refrescarCalendariEnViu, INTERVALO_CALENDARI_EN_VIU_MS);
+  } catch (error) {
+    console.warn('El calendari en directe no està configurat; es manté l’agenda publicada.', error);
+  }
+}
+
 async function carregar() {
   const [items, estat, serveis, calendari] = await Promise.all([
     jsonOpcional(`${carpetaDatos}/items.json`),
@@ -841,6 +1004,7 @@ carregar();
 comprovarNovaVersio();
 setInterval(comprovarNovaVersio, REFRESCO_MS);
 iniciarStreaming();
+iniciarCalendariEnViu();
 setInterval(() => {
   if (document.hidden) return;
   carregar();
@@ -853,6 +1017,7 @@ document.addEventListener('visibilitychange', () => {
   if (!document.hidden) {
     carregar();
     comprovarNovaVersio();
+    refrescarCalendariEnViu();
   }
 });
 window.addEventListener('resize', renderNoticies);
