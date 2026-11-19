@@ -104,6 +104,75 @@
   },
   "items": [
     {
+      "id": "6c16ff3455bcee98",
+      "titulo": "Nou horari confirmat: l'Eibar tornarà a la Nova Creu Alta el dissabte 5 de desembre",
+      "enlace": "https://radiosabadell.fm/esports/ce-sabadell/nou-horari-confirmat-sabadell-eibar-j17-hypermotion",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-19T15:07:41.000Z",
+      "detectado": "2026-11-19T15:30:07.069Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "1900fd2f54b46823",
+      "titulo": "Pi i Margall: de zona blava a pista esportiva?",
+      "enlace": "https://www.isabadell.cat/politica/pi-i-margall-de-zona-blava-a-pista-esportiva-341167/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-19T14:54:30.000Z",
+      "detectado": "2026-11-19T15:30:07.069Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad",
+        "politica",
+        "deportes"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "mobilitat, política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "96f9f17888c3b1e8",
+      "titulo": "Programa d'actuacións per al Parc de Sant Llorenç 2027-31",
+      "enlace": "https://www.lactual.cat/actualitat/programa-actuacions-parc-sant-llorenc-2027-31_55411_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-19T14:21:57.000Z",
+      "detectado": "2026-11-19T15:30:07.069Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "5fd413e26951e7fa",
       "titulo": "Setmana de l’Emprenedoria: 8 cites per acostar-se a l’aventura d’emprendre",
       "enlace": "https://www.isabadell.cat/sabadell/economia/empresa/setmana-de-lemprenedoria-8-cites-per-acostar-se-a-laventura-demprendre-341162/",
@@ -138,6 +207,25 @@
       ],
       "publicado": "2026-11-19T13:31:18.000Z",
       "detectado": "2026-11-19T14:29:23.908Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "cd934910d1b8e988",
+      "titulo": "Acampada als horts de Can Rull i Can Llong per \"impedir l’entrada de maquinària\" i \"protegir els gats\"",
+      "enlace": "https://www.diaridesabadell.com/sabadell/acampada-als-horts-de-can-rull-i-de-can-llong-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-19T13:29:45.000Z",
+      "detectado": "2026-11-19T15:30:07.069Z",
       "sensible": false,
       "etiquetas": [],
       "puntuacion": 0,
@@ -1170,5 +1258,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-19T14:29:40.479Z"
+  "actualizado": "2026-11-19T15:30:25.712Z"
 }

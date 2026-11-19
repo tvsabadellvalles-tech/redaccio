@@ -1,55 +1,6 @@
 {
   "eventos": [
     {
-      "id": "48b13898112b72bf",
-      "t": "2026-11-16T10:54:14.953Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Salut, Cultura i festes.",
-      "itemId": "b0a29e3ef254baec"
-    },
-    {
-      "id": "ae165ee74ea7c511",
-      "t": "2026-11-16T10:54:14.954Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "b0a29e3ef254baec"
-    },
-    {
-      "id": "eea3f94092ace9e2",
-      "t": "2026-11-16T11:56:07.444Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Obertes les inscripcions per a La Paulina, la 40a cursa de Polinyà» (Ajuntament de Polinyà).",
-      "itemId": "c8fbd991dc204070"
-    },
-    {
-      "id": "f456323dd90ed164",
-      "t": "2026-11-16T11:56:07.445Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Ripollet reconeix més de 50 iniciatives del teixit productiu local en la tercera edició dels Reconeixements Impulsa» (Ajuntament de Ripollet).",
-      "itemId": "e01ac8ab2a347a97"
-    },
-    {
-      "id": "3f499fa3b4078614",
-      "t": "2026-11-16T11:56:07.446Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Economia i ocupació, Cultura i festes.",
-      "itemId": "e01ac8ab2a347a97"
-    },
-    {
-      "id": "3b13e9fc0d2310e9",
-      "t": "2026-11-16T11:56:07.449Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El Club Natació Sabadell tanca l'Open d'hivern amb 21 medalles» (Ràdio Sabadell).",
-      "itemId": "eaa8676d6ffc563e"
-    },
-    {
-      "id": "6842e283a99063bb",
-      "t": "2026-11-16T11:56:07.450Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Esports.",
-      "itemId": "eaa8676d6ffc563e"
-    },
-    {
       "id": "0dc6dc7333c664e6",
       "t": "2026-11-16T11:56:07.451Z",
       "agente": "rastreador",
@@ -2799,7 +2750,56 @@
       "agente": "rastreador",
       "texto": "He recollit «Setmana de l’Emprenedoria: 8 cites per acostar-se a l’aventura d’emprendre» (iSabadell).",
       "itemId": "5fd413e26951e7fa"
+    },
+    {
+      "id": "93b3c60dd551034d",
+      "t": "2026-11-19T15:30:07.069Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Acampada als horts de Can Rull i Can Llong per \"impedir l’entrada de maquinària\" i \"protegir els gats\"» (Diari de Sabadell).",
+      "itemId": "cd934910d1b8e988"
+    },
+    {
+      "id": "594a10a13650326a",
+      "t": "2026-11-19T15:30:07.070Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Programa d'actuacións per al Parc de Sant Llorenç 2027-31» (L'Actual - Castellar del Vallès).",
+      "itemId": "96f9f17888c3b1e8"
+    },
+    {
+      "id": "8cec30b8405796cc",
+      "t": "2026-11-19T15:30:07.071Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Pi i Margall: de zona blava a pista esportiva?» (iSabadell).",
+      "itemId": "1900fd2f54b46823"
+    },
+    {
+      "id": "4eddc466adf438cf",
+      "t": "2026-11-19T15:30:07.072Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat, Política local, Esports.",
+      "itemId": "1900fd2f54b46823"
+    },
+    {
+      "id": "a879acd1db734250",
+      "t": "2026-11-19T15:30:07.073Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): mobilitat, política local.",
+      "itemId": "1900fd2f54b46823"
+    },
+    {
+      "id": "a53f0b3d2c6a65a4",
+      "t": "2026-11-19T15:30:07.074Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Nou horari confirmat: l'Eibar tornarà a la Nova Creu Alta el dissabte 5 de desembre» (Ràdio Sabadell).",
+      "itemId": "6c16ff3455bcee98"
+    },
+    {
+      "id": "e39a449d219b369e",
+      "t": "2026-11-19T15:30:07.075Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "6c16ff3455bcee98"
     }
   ],
-  "actualizado": "2026-11-19T14:29:40.484Z"
+  "actualizado": "2026-11-19T15:30:25.715Z"
 }

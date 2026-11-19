@@ -2,7 +2,7 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-19T14:29:23.908Z",
+  "consultat": "2026-11-19T15:30:07.069Z",
   "total": 21,
   "activitats": [
     {
@@ -43,7 +43,7 @@
     {
       "titol": "En Primera Persona",
       "inici": "2026-11-19T14:15:00.000Z",
-      "final": "2026-11-19T15:15:00.000Z",
+      "final": "2026-11-19T14:45:00.000Z",
       "totElDia": false,
       "color": null
     },
@@ -154,5 +154,5 @@
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-19T14:29:59.824Z"
+  "actualizado": "2026-11-19T15:30:47.353Z"
 }
