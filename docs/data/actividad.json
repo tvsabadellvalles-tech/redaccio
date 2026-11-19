@@ -1,20 +1,6 @@
 {
   "eventos": [
     {
-      "id": "6f598130964654b3",
-      "t": "2026-11-16T14:50:53.650Z",
-      "agente": "rastreador",
-      "texto": "He recollit «‘El Perro Sanxe hijo de fruta’» (iSabadell).",
-      "itemId": "9034dc3243e09513"
-    },
-    {
-      "id": "8fc476829ae7f199",
-      "t": "2026-11-16T14:50:53.651Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Mercantil i Sabadell ‘B’ guanyen i continuen avançant plegats a la Lliga Nacional Juvenil» (Ràdio Sabadell).",
-      "itemId": "d65319d1e6a5522e"
-    },
-    {
       "id": "457697b48c9e717c",
       "t": "2026-11-16T14:50:53.652Z",
       "agente": "etiquetador",
@@ -2799,7 +2785,21 @@
       "agente": "vigilante",
       "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
       "itemId": "12b57302c9ac702f"
+    },
+    {
+      "id": "31152f61784c31cc",
+      "t": "2026-11-19T19:40:44.686Z",
+      "agente": "rastreador",
+      "texto": "He recollit «FOTOS I VÍDEO | Tensió a Can Puiggener, alguns manifestants es planten per evitar que se celebri un acte de Vox» (Diari de Sabadell).",
+      "itemId": "ce09079936ddb2c6"
+    },
+    {
+      "id": "63b538e675b26cbc",
+      "t": "2026-11-19T19:40:44.687Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Tensió a Can Puiggener: impedeixen a Vox celebrar un acte electoral» (iSabadell).",
+      "itemId": "18a56bfea76816af"
     }
   ],
-  "actualizado": "2026-11-19T18:34:08.959Z"
+  "actualizado": "2026-11-19T19:41:01.371Z"
 }

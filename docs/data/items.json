@@ -104,6 +104,44 @@
   },
   "items": [
     {
+      "id": "18a56bfea76816af",
+      "titulo": "Tensió a Can Puiggener: impedeixen a Vox celebrar un acte electoral",
+      "enlace": "https://www.isabadell.cat/politica/eleccions-generals-2026/tensio-a-can-puiggener-impedeixen-a-vox-celebrar-un-acte-electoral-341209/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-19T19:23:58.000Z",
+      "detectado": "2026-11-19T19:40:44.686Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "ce09079936ddb2c6",
+      "titulo": "FOTOS I VÍDEO | Tensió a Can Puiggener, alguns manifestants es planten per evitar que se celebri un acte de Vox",
+      "enlace": "https://www.diaridesabadell.com/sabadell/vox-tensio-can-puiggener-eleccions-29-novembre-manifestants-joan-garriga.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-19T19:09:03.000Z",
+      "detectado": "2026-11-19T19:40:44.686Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "12b57302c9ac702f",
       "titulo": "Palau al Dia - Notícies del 19/11/2026",
       "enlace": "https://www.radiopalau.cat/podcasts/palau-al-dia/radiopalau_podcast_6846/",
@@ -1406,5 +1444,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-19T18:34:08.955Z"
+  "actualizado": "2026-11-19T19:41:01.367Z"
 }
