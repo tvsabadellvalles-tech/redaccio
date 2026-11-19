@@ -34,7 +34,7 @@
     },
     "ayto-polinya": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "avisos-polinya": {
       "ok": true,
@@ -62,7 +62,7 @@
     },
     "ayto-barbera": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "ayto-cerdanyola": {
       "ok": true,
@@ -70,7 +70,7 @@
     },
     "ayto-badia": {
       "ok": true,
-      "items": 2
+      "items": 3
     },
     "ayto-sant-quirze": {
       "ok": true,
@@ -81,6 +81,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-19T12:04:48.362Z",
-  "actualizado": "2026-11-19T12:05:07.988Z"
+  "consultat": "2026-11-19T13:20:29.523Z",
+  "actualizado": "2026-11-19T13:20:48.509Z"
 }

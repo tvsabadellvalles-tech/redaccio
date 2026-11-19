@@ -104,6 +104,109 @@
   },
   "items": [
     {
+      "id": "9556a588a56b4a4e",
+      "titulo": "Se celebra la sessió ordinaria del mes de novembre del ple",
+      "enlace": "https://www.bdv.cat/noticies/se-celebra-la-sessio-ordinaria-del-mes-de-novembre-del-ple",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "L’alcalde, Xavier Garcés Trillo, abans de l’inici de la sessió, va compartir, amb totes les persones presents i les que escolten el ple per Ràdio Barberà, emissora municipal, o a través del canal municipal de YouTube, algunes informacions…",
+      "municipio": "barbera",
+      "municipiosMencionados": [
+        "barbera"
+      ],
+      "publicado": "2026-11-19T12:41:00.000Z",
+      "detectado": "2026-11-19T13:20:29.523Z",
+      "sensible": true,
+      "etiquetas": [
+        "politica",
+        "urbanismo",
+        "deportes",
+        "cultura"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "font oficial",
+        "política local, obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "2c30111e6cb6843a",
+      "titulo": "Valltech programa activitats per trobar espais de trobada i interconnexió entre empreses",
+      "enlace": "https://radiosabadell.fm/actualitat/economia/valltech-espais-trobada-sabadell",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-19T12:39:48.000Z",
+      "detectado": "2026-11-19T13:20:29.523Z",
+      "sensible": false,
+      "etiquetas": [
+        "economia"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "economia i ocupació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "809e099a613f504e",
+      "titulo": "FGC incrementarà el servei els caps de setmana i festius previs a Nadal",
+      "enlace": "https://www.diaridesabadell.com/sabadell/fgc-incrementara-el-servei-els-caps-de-setmana-i-festius-previs-a-nadal.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-19T12:25:06.000Z",
+      "detectado": "2026-11-19T13:20:29.523Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "mobilitat"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "c639c0c353d91c2c",
+      "titulo": "El 22è outlet de CIPO recapta 28.000 euros per al futur centre de Can Gambús",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/22e-outlet-cipo-recapta-28000-euros-futur-centre-can-gambus",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-19T12:15:22.000Z",
+      "detectado": "2026-11-19T13:20:29.523Z",
+      "sensible": false,
+      "etiquetas": [
+        "salud",
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "c1c6d0dd92f2acb7",
       "titulo": "El CE Sabadell incrementa fins a un 66% el preu de les entrades davant el Granada CF",
       "enlace": "https://www.diaridesabadell.com/esports/ce-sabadell/entrades-ce-sabadell-increment-granada-cf.html",
@@ -939,7 +1042,49 @@
       ],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "cbcc2567bc435024",
+      "titulo": "Can Gavarra acull la 5a Trobada Comunitat Vallès PAE, dedicada a la qualitat dels polígons industrials",
+      "enlace": "https://www.polinya.cat/actualitat/noticies/can-gavarra-acull-la-5a-trobada-comunitat-valles-pae-dedicada-a-la-qualitat-dels-poligons-industrials.html",
+      "fuente": "ayto-polinya",
+      "fuenteNombre": "Ajuntament de Polinyà",
+      "tipo": "oficial",
+      "resumen": "La sessió va reunir una cinquantena de participants del món empresarial i de la gestió de polígons d’activitat econòmica.",
+      "municipio": "polinya",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-18T23:00:00.000Z",
+      "detectado": "2026-11-19T13:20:29.523Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "c5ff46ea41e98bec",
+      "titulo": "Setmana dels Drets de la Inf�ncia, a Badia, del 20 de novembre al 4 de desembre",
+      "enlace": "http://www.badiadelvalles.cat/document.php?id=12333",
+      "fuente": "ayto-badia",
+      "fuenteNombre": "Ajuntament de Badia del Vallès",
+      "tipo": "oficial",
+      "resumen": "",
+      "municipio": "badia",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-18T23:00:00.000Z",
+      "detectado": "2026-11-19T13:20:29.523Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
     }
   ],
-  "actualizado": "2026-11-19T12:05:07.987Z"
+  "actualizado": "2026-11-19T13:20:48.507Z"
 }

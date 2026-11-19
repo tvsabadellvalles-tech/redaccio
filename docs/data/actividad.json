@@ -1,90 +1,6 @@
 {
   "eventos": [
     {
-      "id": "6c02ede786c79174",
-      "t": "2026-11-16T10:54:14.936Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · mobilitat.",
-      "itemId": "b3df7e5428ae118a"
-    },
-    {
-      "id": "37d8466be1a36289",
-      "t": "2026-11-16T10:54:14.937Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Quan cal dir que no a un tractament estètic?» (Diari de Sabadell).",
-      "itemId": "0d3b32a5987825ad"
-    },
-    {
-      "id": "0158e229ff11c3c0",
-      "t": "2026-11-16T10:54:14.938Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Projecció del documental 'No estás loca', sobre la violència vicària en el marc del 25N» (Ajuntament de Barberà del Vallès).",
-      "itemId": "6cd74ad0067ba58f"
-    },
-    {
-      "id": "9f57a0bec9f1f70d",
-      "t": "2026-11-16T10:54:14.939Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Salut, Cultura i festes.",
-      "itemId": "6cd74ad0067ba58f"
-    },
-    {
-      "id": "b0700a9e564f7567",
-      "t": "2026-11-16T10:54:14.940Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "6cd74ad0067ba58f"
-    },
-    {
-      "id": "742bb5414e2ef6dc",
-      "t": "2026-11-16T10:54:14.941Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Jose Luis Castet, Observa: \"Hem ampliat una setmana el Festival, però eliminant els diumenges\"» (Ràdio Sabadell).",
-      "itemId": "abfc40dbdf6dfbb4"
-    },
-    {
-      "id": "92c7fdd4a5805811",
-      "t": "2026-11-16T10:54:14.942Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Anton Carbonell: \"S'ha de reivindicar la faceta teatral de Joan Oliver\"» (Ràdio Sabadell).",
-      "itemId": "5d5689d25e15e877"
-    },
-    {
-      "id": "0a742fd89057bc1a",
-      "t": "2026-11-16T10:54:14.943Z",
-      "agente": "rastreador",
-      "texto": "He recollit «L'OMIC programa el cicle de Xerrades de seguretat i consum» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "e50e4e1c165c6603"
-    },
-    {
-      "id": "9bf122874e9ad74b",
-      "t": "2026-11-16T10:54:14.944Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local.",
-      "itemId": "e50e4e1c165c6603"
-    },
-    {
-      "id": "a9397823dc9e01de",
-      "t": "2026-11-16T10:54:14.945Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · política local.",
-      "itemId": "e50e4e1c165c6603"
-    },
-    {
-      "id": "ee472fe40c83ac73",
-      "t": "2026-11-16T10:54:14.946Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Proposen el doctor Josep Tarrés com a Creu de Sant Jordi 2027: \"Em fa molta il·lusió\"» (Diari de Sabadell).",
-      "itemId": "bd119295ec9c3c20"
-    },
-    {
-      "id": "a2da0cfcdf44ebaf",
-      "t": "2026-11-16T10:54:14.947Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Aigües Sabadell instal·la els primers 11.000 comptadors d'aigua intel·ligents» (Ràdio Sabadell).",
-      "itemId": "97eed1cfe717cec9"
-    },
-    {
       "id": "5799bc6c0d6ee7ad",
       "t": "2026-11-16T10:54:14.948Z",
       "agente": "etiquetador",
@@ -2799,7 +2715,91 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Esports.",
       "itemId": "c1c6d0dd92f2acb7"
+    },
+    {
+      "id": "73f84d34ebb9fb44",
+      "t": "2026-11-19T13:20:29.523Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Can Gavarra acull la 5a Trobada Comunitat Vallès PAE, dedicada a la qualitat dels polígons industrials» (Ajuntament de Polinyà).",
+      "itemId": "cbcc2567bc435024"
+    },
+    {
+      "id": "559fc206c085fcb5",
+      "t": "2026-11-19T13:20:29.524Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Setmana dels Drets de la Inf�ncia, a Badia, del 20 de novembre al 4 de desembre» (Ajuntament de Badia del Vallès).",
+      "itemId": "c5ff46ea41e98bec"
+    },
+    {
+      "id": "759e47caa256c246",
+      "t": "2026-11-19T13:20:29.525Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El 22è outlet de CIPO recapta 28.000 euros per al futur centre de Can Gambús» (Ràdio Sabadell).",
+      "itemId": "c639c0c353d91c2c"
+    },
+    {
+      "id": "85022d1801ffe478",
+      "t": "2026-11-19T13:20:29.526Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut, Cultura i festes.",
+      "itemId": "c639c0c353d91c2c"
+    },
+    {
+      "id": "6cffef539d7a87f8",
+      "t": "2026-11-19T13:20:29.527Z",
+      "agente": "rastreador",
+      "texto": "He recollit «FGC incrementarà el servei els caps de setmana i festius previs a Nadal» (Diari de Sabadell).",
+      "itemId": "809e099a613f504e"
+    },
+    {
+      "id": "a0bedbec998ce646",
+      "t": "2026-11-19T13:20:29.528Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat.",
+      "itemId": "809e099a613f504e"
+    },
+    {
+      "id": "9b5e8c30776b00e4",
+      "t": "2026-11-19T13:20:29.529Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Valltech programa activitats per trobar espais de trobada i interconnexió entre empreses» (Ràdio Sabadell).",
+      "itemId": "2c30111e6cb6843a"
+    },
+    {
+      "id": "f29c5291826550a2",
+      "t": "2026-11-19T13:20:29.530Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Economia i ocupació.",
+      "itemId": "2c30111e6cb6843a"
+    },
+    {
+      "id": "0226dfbd5bb27935",
+      "t": "2026-11-19T13:20:29.531Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Se celebra la sessió ordinaria del mes de novembre del ple» (Ajuntament de Barberà del Vallès).",
+      "itemId": "9556a588a56b4a4e"
+    },
+    {
+      "id": "63c55e5281801085",
+      "t": "2026-11-19T13:20:29.532Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local, Obres i urbanisme, Esports, Cultura i festes.",
+      "itemId": "9556a588a56b4a4e"
+    },
+    {
+      "id": "ebe427f4423a7528",
+      "t": "2026-11-19T13:20:29.533Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "9556a588a56b4a4e"
+    },
+    {
+      "id": "47aa8119dae0538d",
+      "t": "2026-11-19T13:20:29.534Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): font oficial · política local, obres i urbanisme.",
+      "itemId": "9556a588a56b4a4e"
     }
   ],
-  "actualizado": "2026-11-19T12:05:07.990Z"
+  "actualizado": "2026-11-19T13:20:48.511Z"
 }
