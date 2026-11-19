@@ -2,7 +2,7 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-19T19:40:44.686Z",
+  "consultat": "2026-11-19T20:35:31.398Z",
   "total": 20,
   "activitats": [
     {
@@ -41,16 +41,16 @@
       "color": null
     },
     {
-      "titol": "L'Informatiu",
+      "titol": "Ent. info Omnium",
       "inici": "2026-11-19T15:15:00.000Z",
-      "final": "2026-11-19T16:15:00.000Z",
+      "final": "2026-11-19T15:45:00.000Z",
       "totElDia": false,
       "color": null
     },
     {
-      "titol": "Ent. info Omnium",
+      "titol": "L'Informatiu",
       "inici": "2026-11-19T15:15:00.000Z",
-      "final": "2026-11-19T15:45:00.000Z",
+      "final": "2026-11-19T16:15:00.000Z",
       "totElDia": false,
       "color": null
     },
@@ -147,5 +147,5 @@
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-19T19:41:26.478Z"
+  "actualizado": "2026-11-19T20:36:06.591Z"
 }

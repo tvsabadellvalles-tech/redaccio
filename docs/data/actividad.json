@@ -1,13 +1,6 @@
 {
   "eventos": [
     {
-      "id": "457697b48c9e717c",
-      "t": "2026-11-16T14:50:53.652Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Salut, Esports.",
-      "itemId": "d65319d1e6a5522e"
-    },
-    {
       "id": "40221d06024b92c2",
       "t": "2026-11-16T14:50:53.653Z",
       "agente": "rastreador",
@@ -2799,7 +2792,14 @@
       "agente": "rastreador",
       "texto": "He recollit «Tensió a Can Puiggener: impedeixen a Vox celebrar un acte electoral» (iSabadell).",
       "itemId": "18a56bfea76816af"
+    },
+    {
+      "id": "11748c0679205b12",
+      "t": "2026-11-19T20:35:31.398Z",
+      "agente": "rastreador",
+      "texto": "He recollit «ERC reivindica l'esquerra catalana de cara al 29N» (L'Actual - Castellar del Vallès).",
+      "itemId": "7be09d5164dd6782"
     }
   ],
-  "actualizado": "2026-11-19T19:41:01.371Z"
+  "actualizado": "2026-11-19T20:35:47.802Z"
 }

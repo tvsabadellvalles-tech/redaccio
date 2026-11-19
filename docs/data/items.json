@@ -104,6 +104,25 @@
   },
   "items": [
     {
+      "id": "7be09d5164dd6782",
+      "titulo": "ERC reivindica l'esquerra catalana de cara al 29N",
+      "enlace": "https://www.lactual.cat/actualitat/erc-reivindica-esquerra-catalana-cara-29n_55415_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-19T19:44:12.000Z",
+      "detectado": "2026-11-19T20:35:31.398Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "18a56bfea76816af",
       "titulo": "Tensió a Can Puiggener: impedeixen a Vox celebrar un acte electoral",
       "enlace": "https://www.isabadell.cat/politica/eleccions-generals-2026/tensio-a-can-puiggener-impedeixen-a-vox-celebrar-un-acte-electoral-341209/",
@@ -1444,5 +1463,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-19T19:41:01.367Z"
+  "actualizado": "2026-11-19T20:35:47.798Z"
 }
