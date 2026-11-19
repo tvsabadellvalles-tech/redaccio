@@ -1,27 +1,6 @@
 {
   "eventos": [
     {
-      "id": "0234e9d6792646a4",
-      "t": "2026-11-16T14:50:53.655Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "00fb02c4ac56a5b4"
-    },
-    {
-      "id": "fc0c4b17296960fb",
-      "t": "2026-11-16T14:50:53.656Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La Biblioteca Esteve Paluzie reobre aquest dilluns 16 de novembre» (Ajuntament de Barberà del Vallès).",
-      "itemId": "60165d5598d196b1"
-    },
-    {
-      "id": "57e80caefbd422ac",
-      "t": "2026-11-16T14:50:53.657Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local, Obres i urbanisme, Cultura i festes.",
-      "itemId": "60165d5598d196b1"
-    },
-    {
       "id": "98ffa5c6d55d3fac",
       "t": "2026-11-16T14:50:53.658Z",
       "agente": "mesa",
@@ -2799,7 +2778,28 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Successos.",
       "itemId": "0142d00ec9a6be45"
+    },
+    {
+      "id": "83b72cad1b4a433e",
+      "t": "2026-11-19T23:13:27.378Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La renovació del DNI a Santa Perpètua es podrà fer en una única cita» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "a89cd90359306488"
+    },
+    {
+      "id": "9befdecba33e8043",
+      "t": "2026-11-19T23:13:27.379Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Successos, Educació.",
+      "itemId": "a89cd90359306488"
+    },
+    {
+      "id": "afcea16f5ff0443f",
+      "t": "2026-11-19T23:13:27.380Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): font oficial · successos, educació.",
+      "itemId": "a89cd90359306488"
     }
   ],
-  "actualizado": "2026-11-19T21:28:25.999Z"
+  "actualizado": "2026-11-19T23:13:55.232Z"
 }

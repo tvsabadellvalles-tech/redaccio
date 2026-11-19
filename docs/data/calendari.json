@@ -2,91 +2,14 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-19T22:23:44.618Z",
-  "total": 20,
+  "consultat": "2026-11-19T23:13:27.378Z",
+  "total": 11,
   "activitats": [
     {
       "titol": "BERTA NO VE",
       "inici": "2026-11-19T00:00:00.000Z",
       "final": "2026-11-20T00:00:00.000Z",
       "totElDia": true,
-      "color": null
-    },
-    {
-      "titol": "Rdp La Crida",
-      "inici": "2026-11-19T08:30:00.000Z",
-      "final": "2026-11-19T09:30:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "Comercial Reini",
-      "inici": "2026-11-19T11:00:00.000Z",
-      "final": "2026-11-19T11:30:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "(Montse, Miqui, Lorena, Ferran) reunió va de moda",
-      "inici": "2026-11-19T12:00:00.000Z",
-      "final": "2026-11-19T13:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "En Primera Persona",
-      "inici": "2026-11-19T14:15:00.000Z",
-      "final": "2026-11-19T14:45:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "L'Informatiu",
-      "inici": "2026-11-19T15:15:00.000Z",
-      "final": "2026-11-19T16:15:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "Ent. info Omnium",
-      "inici": "2026-11-19T15:15:00.000Z",
-      "final": "2026-11-19T15:45:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "(Pep i Lorena) Atenció a mitjans Mossos - Pla via",
-      "inici": "2026-11-19T15:30:00.000Z",
-      "final": "2026-11-19T16:30:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "(Ferran) CX - VIA 15 (Sota protecció)",
-      "inici": "2026-11-19T17:00:00.000Z",
-      "final": "2026-11-19T18:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "(Lorena) Presentació calendari Andi Down",
-      "inici": "2026-11-19T17:00:00.000Z",
-      "final": "2026-11-19T18:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "(Ferran i becari) Acte VOX",
-      "inici": "2026-11-19T18:00:00.000Z",
-      "final": "2026-11-19T19:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "(Ferran) LÍMIT REEL VA DE MODA",
-      "inici": "2026-11-19T18:45:00.000Z",
-      "final": "2026-11-19T19:00:00.000Z",
-      "totElDia": false,
       "color": null
     },
     {
@@ -144,8 +67,22 @@
       "final": "2026-11-20T18:00:00.000Z",
       "totElDia": false,
       "color": null
+    },
+    {
+      "titol": "CE Sabadell - Granada",
+      "inici": "2026-11-21T13:00:00.000Z",
+      "final": "2026-11-21T15:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "CN Sabadell - CN Sant Andreu",
+      "inici": "2026-11-21T16:30:00.000Z",
+      "final": "2026-11-21T17:30:00.000Z",
+      "totElDia": false,
+      "color": null
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-19T22:24:21.124Z"
+  "actualizado": "2026-11-19T23:14:14.694Z"
 }
