@@ -1,118 +1,6 @@
 {
   "eventos": [
     {
-      "id": "291981a89ce48be9",
-      "t": "2026-11-16T09:26:20.300Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Salvador Illa, president: \"Podem fer arribar la Ronda Vallès fins a la Roca amb la màxima sostenibilitat\"» (Ràdio Sabadell).",
-      "itemId": "d673de19409e7bc7"
-    },
-    {
-      "id": "3d2b8063550444d6",
-      "t": "2026-11-16T09:26:20.301Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Transport alternatiu d'usuaris de l'R4 entre les estacions de Fabra i Puig i Cerdanyola» (Avisos de l'Ajuntament de Montcada i Reixac).",
-      "itemId": "4124a12873b71e79"
-    },
-    {
-      "id": "62aada80bb11d094",
-      "t": "2026-11-16T09:26:20.302Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La diferència entre mirar i veure» (Ràdio Sabadell).",
-      "itemId": "adc4dff23bc59f3f"
-    },
-    {
-      "id": "5e133cc804c8a86d",
-      "t": "2026-11-16T09:26:20.303Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Veïns dels Merinals alerten d’un focus de xinxes en un habitatge i temen que s’estengui al bloc» (Diari de Sabadell).",
-      "itemId": "a3f12dc344f313e1"
-    },
-    {
-      "id": "13a6912cc040e9a6",
-      "t": "2026-11-16T09:26:20.304Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Obres i urbanisme.",
-      "itemId": "a3f12dc344f313e1"
-    },
-    {
-      "id": "18378727cfab5320",
-      "t": "2026-11-16T09:26:20.305Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El model de mobilitat per arribar a l’escola, sota la lupa a Sant Cugat» (Diari de Sabadell).",
-      "itemId": "4b11617a0bd30b71"
-    },
-    {
-      "id": "9fa575045c67e61b",
-      "t": "2026-11-16T09:26:20.306Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat, Educació.",
-      "itemId": "4b11617a0bd30b71"
-    },
-    {
-      "id": "06800e3e469bbab1",
-      "t": "2026-11-16T09:26:20.307Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): mobilitat, educació.",
-      "itemId": "4b11617a0bd30b71"
-    },
-    {
-      "id": "5dec9a86b88a48f5",
-      "t": "2026-11-16T09:26:20.308Z",
-      "agente": "rastreador",
-      "texto": "He recollit «18 de novembre: Sessió ordinària del Ple Municipal» (Ajuntament de Barberà del Vallès).",
-      "itemId": "583a2bcbad9db54c"
-    },
-    {
-      "id": "016d27231e0cd77c",
-      "t": "2026-11-16T09:26:20.309Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local, Esports.",
-      "itemId": "583a2bcbad9db54c"
-    },
-    {
-      "id": "e22ddd876c6099f4",
-      "t": "2026-11-16T09:26:20.310Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · política local.",
-      "itemId": "583a2bcbad9db54c"
-    },
-    {
-      "id": "86497e3e0656fb6d",
-      "t": "2026-11-16T10:54:14.931Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Rescaten el conductor d'un camió de la brossa que havia bolcat a la deixalleria de Montcada i Reixac» (Diari de Sabadell).",
-      "itemId": "b0faebb6f5a5577e"
-    },
-    {
-      "id": "11fbdc0ba4013434",
-      "t": "2026-11-16T10:54:14.932Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Salut.",
-      "itemId": "b0faebb6f5a5577e"
-    },
-    {
-      "id": "0e9db7339b0d971a",
-      "t": "2026-11-16T10:54:14.933Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "b0faebb6f5a5577e"
-    },
-    {
-      "id": "b3a89239aec18441",
-      "t": "2026-11-16T10:54:14.934Z",
-      "agente": "rastreador",
-      "texto": "He recollit «L'Ajuntament presenta una queixa formal a la Generalitat per la situació del transport en autobús» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "b3df7e5428ae118a"
-    },
-    {
-      "id": "3ed7e940ab425b05",
-      "t": "2026-11-16T10:54:14.935Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat.",
-      "itemId": "b3df7e5428ae118a"
-    },
-    {
       "id": "6c02ede786c79174",
       "t": "2026-11-16T10:54:14.936Z",
       "agente": "mesa",
@@ -2799,7 +2687,119 @@
       "agente": "rastreador",
       "texto": "He recollit «Carles Cendros, Roxette Experience: \"Fem un homenatge al Roxette dels 80\"» (Ràdio Sabadell).",
       "itemId": "8f3851536406c12b"
+    },
+    {
+      "id": "43a5a8bc756b468b",
+      "t": "2026-11-19T12:04:48.362Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Proposen un nou equipament esportiu a la Creu Alta» (Diari de Sabadell).",
+      "itemId": "5c829a21fe021e07"
+    },
+    {
+      "id": "474135ad307f5c3b",
+      "t": "2026-11-19T12:04:48.363Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat, Política local, Esports.",
+      "itemId": "5c829a21fe021e07"
+    },
+    {
+      "id": "2731fc14f6493057",
+      "t": "2026-11-19T12:04:48.364Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): mobilitat, política local.",
+      "itemId": "5c829a21fe021e07"
+    },
+    {
+      "id": "a07ffa66fbfb26e3",
+      "t": "2026-11-19T12:04:48.365Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La Crida proposa construir una pista poliesportiva a La Creu Alta» (Ràdio Sabadell).",
+      "itemId": "ee9f81e888e2c462"
+    },
+    {
+      "id": "048f914acaf912f7",
+      "t": "2026-11-19T12:04:48.366Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local, Esports.",
+      "itemId": "ee9f81e888e2c462"
+    },
+    {
+      "id": "d7afd0dee6a3eedd",
+      "t": "2026-11-19T12:04:48.367Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Montse Vilanova, directora Valltech: \"El Vallès és un terreny molt ric, però necessita espais de trobada\"» (Ràdio Sabadell).",
+      "itemId": "a36b08f8758541b6"
+    },
+    {
+      "id": "7917c7a3756f1c35",
+      "t": "2026-11-19T12:04:48.368Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El nou edifici de l’Institut Escola El Martinet funcionarà amb energia solar» (Ajuntament de Ripollet).",
+      "itemId": "eeb8514988e1ff89"
+    },
+    {
+      "id": "56ca5c2be9aea4cc",
+      "t": "2026-11-19T12:04:48.369Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Educació.",
+      "itemId": "eeb8514988e1ff89"
+    },
+    {
+      "id": "c795a7abf310a15c",
+      "t": "2026-11-19T12:04:48.370Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Lluís Coloma, pianista: \"Amb Blue Lou Marini fem un concert molt energètic\"» (Ràdio Sabadell).",
+      "itemId": "7bcf6dadd6c7c5de"
+    },
+    {
+      "id": "e5dd6d279ce33a8b",
+      "t": "2026-11-19T12:04:48.371Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "7bcf6dadd6c7c5de"
+    },
+    {
+      "id": "347cfd8814826af0",
+      "t": "2026-11-19T12:04:48.372Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Francesc Bartolomé, Agrupació de Pessebristes: \"El pessebre monumental manté la mateixa estructura\"» (Ràdio Sabadell).",
+      "itemId": "e850e742a2e8f3a8"
+    },
+    {
+      "id": "803a1a7ee93c61ab",
+      "t": "2026-11-19T12:04:48.373Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Què és el GTA6 i perquè hi ha tanta revolada?» (Ràdio Sabadell).",
+      "itemId": "9810706332bc54a7"
+    },
+    {
+      "id": "73de482117bead47",
+      "t": "2026-11-19T12:04:48.374Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Dubtes sobre el reciclatge dels envasos» (Ràdio Sabadell).",
+      "itemId": "0270e157b46596e4"
+    },
+    {
+      "id": "a8f29e1a7c430140",
+      "t": "2026-11-19T12:04:48.375Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Amunt El Teló 18/11/26» (Ràdio Sabadell).",
+      "itemId": "621a940e7fe51e80"
+    },
+    {
+      "id": "4c1233565d39ea35",
+      "t": "2026-11-19T12:04:48.376Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El CE Sabadell incrementa fins a un 66% el preu de les entrades davant el Granada CF» (Diari de Sabadell).",
+      "itemId": "c1c6d0dd92f2acb7"
+    },
+    {
+      "id": "07869f1a750d1ae9",
+      "t": "2026-11-19T12:04:48.377Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "c1c6d0dd92f2acb7"
     }
   ],
-  "actualizado": "2026-11-19T11:07:28.690Z"
+  "actualizado": "2026-11-19T12:05:07.990Z"
 }
