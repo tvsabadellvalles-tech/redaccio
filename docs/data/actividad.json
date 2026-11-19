@@ -1,160 +1,6 @@
 {
   "eventos": [
     {
-      "id": "38e1050bc0a8222c",
-      "t": "2026-11-14T20:18:12.713Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Successos, Salut.",
-      "itemId": "2190761995b1baf9"
-    },
-    {
-      "id": "5133ecf66458aa31",
-      "t": "2026-11-14T20:18:12.714Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "2190761995b1baf9"
-    },
-    {
-      "id": "91c6793243141410",
-      "t": "2026-11-14T20:18:12.715Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): successos, salut.",
-      "itemId": "2190761995b1baf9"
-    },
-    {
-      "id": "cfeb6529618973e3",
-      "t": "2026-11-14T21:00:35.529Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El Taulí celebra la Diada de l’Infant Prematur amb una jornada per compartir experiències i donar visibilitat a les famílies» (Diari de Sabadell).",
-      "itemId": "b88368cf0ce89418"
-    },
-    {
-      "id": "a510c07f6ff58c78",
-      "t": "2026-11-14T21:00:35.530Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "b88368cf0ce89418"
-    },
-    {
-      "id": "b3e92aee2c1fafa3",
-      "t": "2026-11-15T07:50:34.192Z",
-      "agente": "rastreador",
-      "texto": "La font «Ajuntament de Badia del Vallès» no respon (fetch failed).",
-      "itemId": null
-    },
-    {
-      "id": "8e877d8f44260a15",
-      "t": "2026-11-15T07:50:34.193Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Salvador Illa: “El projecte de la Caserna és pràcticament irreversible”» (Ràdio Sabadell).",
-      "itemId": "f49a3802dc62a966"
-    },
-    {
-      "id": "c80c9d847801654e",
-      "t": "2026-11-15T07:50:34.194Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local, Salut.",
-      "itemId": "f49a3802dc62a966"
-    },
-    {
-      "id": "aa78ac118b5fdb75",
-      "t": "2026-11-15T07:50:34.195Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): política local, salut.",
-      "itemId": "f49a3802dc62a966"
-    },
-    {
-      "id": "1ee57ca492fea109",
-      "t": "2026-11-15T08:38:45.091Z",
-      "agente": "rastreador",
-      "texto": "La font «Ajuntament de Badia del Vallès» torna a respondre.",
-      "itemId": null
-    },
-    {
-      "id": "9853e6cf266a4d39",
-      "t": "2026-11-15T08:38:45.092Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La capella de música dels segles XVI al XVIII» (iSabadell).",
-      "itemId": "565768fcb4924930"
-    },
-    {
-      "id": "50bb52a863e90cc8",
-      "t": "2026-11-15T10:21:24.830Z",
-      "agente": "rastreador",
-      "texto": "He recollit «‘Entrevistes’, per Surroca (15/11/26)» (iSabadell).",
-      "itemId": "962886ac50e8f2e9"
-    },
-    {
-      "id": "458c643bf68489ab",
-      "t": "2026-11-15T10:21:24.831Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El Vallès Occidental, gran pol de tecnologia avançada» (Diari de Sabadell).",
-      "itemId": "c4d5eb761cfc4fa0"
-    },
-    {
-      "id": "08748bdef6271228",
-      "t": "2026-11-15T10:21:24.832Z",
-      "agente": "rastreador",
-      "texto": "He recollit «\"La preparació és extrema i estricta\": la rutina d'un culturista natural sabadellenc» (Diari de Sabadell).",
-      "itemId": "ef100d6270a4c58a"
-    },
-    {
-      "id": "2477f15957a6ac05",
-      "t": "2026-11-15T11:06:25.707Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Tornen a intentar segrestar a Sabadell l’home raptat a l’AP-7 fa dos mesos» (Diari de Sabadell).",
-      "itemId": "50606725bdb16b2e"
-    },
-    {
-      "id": "55b8a4de84332393",
-      "t": "2026-11-15T11:06:25.708Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Successos.",
-      "itemId": "50606725bdb16b2e"
-    },
-    {
-      "id": "bcbfb3848aeb6932",
-      "t": "2026-11-15T11:06:25.709Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "50606725bdb16b2e"
-    },
-    {
-      "id": "6e92d02d857e088a",
-      "t": "2026-11-15T11:06:25.710Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La primera Cursa Antiracista aplega un miler de participants» (iSabadell).",
-      "itemId": "7fa759778fbf9585"
-    },
-    {
-      "id": "82161bb2172b557e",
-      "t": "2026-11-15T11:44:59.164Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La capella de música dels segles XVI al XVIII» (iSabadell).",
-      "itemId": "5af4833e2bfe1133"
-    },
-    {
-      "id": "53af585b3e133d1e",
-      "t": "2026-11-15T11:44:59.165Z",
-      "agente": "deduplicador",
-      "texto": "Descartada perquè és duplicada: coincideix amb «La capella de música dels segles XVI al XVIII» (iSabadell).",
-      "itemId": "5af4833e2bfe1133"
-    },
-    {
-      "id": "5c9780eb2ee2ffd3",
-      "t": "2026-11-15T11:44:59.166Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Flashy Ice Cream estrena ‘JIMI’: “S’ha de transgredir més”» (iSabadell).",
-      "itemId": "bf603cc259228de8"
-    },
-    {
-      "id": "a0c32944d14069fc",
-      "t": "2026-11-15T11:44:59.167Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La primera Cursa Antiracista de Sabadell aplega 1.100 inscrits» (Ràdio Sabadell).",
-      "itemId": "7a1acaf3fe165988"
-    },
-    {
       "id": "c9f2053f1d5956ef",
       "t": "2026-11-15T11:44:59.168Z",
       "agente": "etiquetador",
@@ -2799,7 +2645,161 @@
       "agente": "rastreador",
       "texto": "La font «Ajuntament de Cerdanyola del Vallès» torna a respondre.",
       "itemId": null
+    },
+    {
+      "id": "1fb4dc055ad7ca8a",
+      "t": "2026-11-19T09:01:03.308Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L'Ajuntament rep la patinadora Gemma Cuyàs per felicitar-la pels seus èxits esportius» (Ajuntament de Sentmenat).",
+      "itemId": "78fda4e755f90863"
+    },
+    {
+      "id": "b6027cdf6bb2df36",
+      "t": "2026-11-19T09:01:03.309Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "78fda4e755f90863"
+    },
+    {
+      "id": "fc542a51c3aa0998",
+      "t": "2026-11-19T09:01:03.310Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Sessió informativa sobre els Plans Locals d’Ocupació 2025-2027» (Ajuntament de Sentmenat).",
+      "itemId": "f7124f81a899b457"
+    },
+    {
+      "id": "545d7c13b0e0b33b",
+      "t": "2026-11-19T09:01:03.311Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Economia i ocupació.",
+      "itemId": "f7124f81a899b457"
+    },
+    {
+      "id": "d1fdeeb3e84f5b5d",
+      "t": "2026-11-19T09:01:03.312Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Talls de subministrament d'aigua, dem� divendres, a Cant�bric 43-47 i Costa Brava 5-13» (Ajuntament de Badia del Vallès).",
+      "itemId": "e7b673eb09e12acf"
+    },
+    {
+      "id": "9671fef992050b2a",
+      "t": "2026-11-19T09:01:03.313Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat, Medi ambient.",
+      "itemId": "e7b673eb09e12acf"
+    },
+    {
+      "id": "1f66037ae3c95d21",
+      "t": "2026-11-19T09:01:03.314Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): font oficial · mobilitat, medi ambient.",
+      "itemId": "e7b673eb09e12acf"
+    },
+    {
+      "id": "2d65db6ec361bace",
+      "t": "2026-11-19T09:01:03.315Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La llengua, arraconada a la justícia: només un 2% de les sentències dels Jutjats de Sabadell són en català» (Diari de Sabadell).",
+      "itemId": "a5c66771c78d494f"
+    },
+    {
+      "id": "59f3bd24c6e5e367",
+      "t": "2026-11-19T09:01:03.316Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Detenen un home per assaltar la casa d’una família amb una arma i ganivets» (iSabadell).",
+      "itemId": "9c2b6eb1437d698e"
+    },
+    {
+      "id": "3bce902b8ce7902c",
+      "t": "2026-11-19T09:01:03.317Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Successos, Obres i urbanisme.",
+      "itemId": "9c2b6eb1437d698e"
+    },
+    {
+      "id": "779b5e6889fd3a99",
+      "t": "2026-11-19T09:01:03.318Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "9c2b6eb1437d698e"
+    },
+    {
+      "id": "42124928128613c7",
+      "t": "2026-11-19T09:01:03.319Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): successos, obres i urbanisme.",
+      "itemId": "9c2b6eb1437d698e"
+    },
+    {
+      "id": "d1282e5ceb2e2084",
+      "t": "2026-11-19T09:01:03.320Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Parlar català als jutjats: un dret que encara genera dubtes» (Diari de Sabadell).",
+      "itemId": "8770941232daaa29"
+    },
+    {
+      "id": "401a4a7fe54ac134",
+      "t": "2026-11-19T09:01:03.321Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Marc Buxaderas exhibeix el seu humor a Sentmenat: \"Quanta gent amb discapacitat veus a la tele?\"» (Diari de Sabadell).",
+      "itemId": "b641b6f3f0660dba"
+    },
+    {
+      "id": "fbc3431bbe30be9d",
+      "t": "2026-11-19T09:01:03.322Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Crema completament l'interior d'un vehicle al mig d'un carrer de Sabadell» (Diari de Sabadell).",
+      "itemId": "5467d75fd869da70"
+    },
+    {
+      "id": "da85c0a2b83cd471",
+      "t": "2026-11-19T09:01:03.323Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Emergències.",
+      "itemId": "5467d75fd869da70"
+    },
+    {
+      "id": "12020820854e946c",
+      "t": "2026-11-19T09:01:03.324Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): emergències.",
+      "itemId": "5467d75fd869da70"
+    },
+    {
+      "id": "0e9a9fb5074d11a0",
+      "t": "2026-11-19T09:01:03.325Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Santa Perpètua marxarà en silenci contra les violències masclistes» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "a6558118578d939c"
+    },
+    {
+      "id": "9e0bd7c28c4e2d8d",
+      "t": "2026-11-19T09:01:03.326Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Torna l'Empíric Festival per connectar ciència, salut i societat» (Ajuntament de Cerdanyola del Vallès).",
+      "itemId": "79c10c3bd77cd68b"
+    },
+    {
+      "id": "2589aa7e65867eaf",
+      "t": "2026-11-19T09:01:03.327Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Emergències, Salut, Educació, Esports, Cultura i festes.",
+      "itemId": "79c10c3bd77cd68b"
+    },
+    {
+      "id": "21cbcc5063e4f979",
+      "t": "2026-11-19T09:01:03.328Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "79c10c3bd77cd68b"
+    },
+    {
+      "id": "ad3f1226964d703d",
+      "t": "2026-11-19T09:01:03.329Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (5 punts): font oficial · emergències, salut, educació.",
+      "itemId": "79c10c3bd77cd68b"
     }
   ],
-  "actualizado": "2026-11-19T07:59:32.069Z"
+  "actualizado": "2026-11-19T09:01:20.385Z"
 }

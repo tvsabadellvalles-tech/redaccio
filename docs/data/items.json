@@ -104,6 +104,171 @@
   },
   "items": [
     {
+      "id": "79c10c3bd77cd68b",
+      "titulo": "Torna l'Empíric Festival per connectar ciència, salut i societat",
+      "enlace": "http://www.cerdanyola.cat/actualitat/torna-lempiric-festival-connectar-ciencia-salut-i-societat",
+      "fuente": "ayto-cerdanyola",
+      "fuenteNombre": "Ajuntament de Cerdanyola del Vallès",
+      "tipo": "oficial",
+      "resumen": "Torna l'Empíric Festival per connectar ciència, salut i societat L’Empíric, el Festival de Literatura i Ciència de Cerdanyola del Vallès, torna amb una tercera edició que convida a explorar els vincles entre ciència, salut i societat. Del…",
+      "municipio": "cerdanyola",
+      "municipiosMencionados": [
+        "cerdanyola"
+      ],
+      "publicado": "2026-11-19T11:16:49.000Z",
+      "detectado": "2026-11-19T09:01:03.308Z",
+      "sensible": true,
+      "etiquetas": [
+        "emergencias",
+        "salud",
+        "educacion",
+        "deportes",
+        "cultura"
+      ],
+      "puntuacion": 5,
+      "motivos": [
+        "font oficial",
+        "emergències, salut, educació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "a6558118578d939c",
+      "titulo": "Santa Perpètua marxarà en silenci contra les violències masclistes",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/santa-perpetua-marxara-en-silenci-contra-les-violencies-masclistes.html",
+      "fuente": "ayto-santa-perpetua",
+      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
+      "tipo": "oficial",
+      "resumen": "L’Ajuntament convoca la ciutadania el 25N a les 18.30 h des del parc Central",
+      "municipio": "santa-perpetua",
+      "municipiosMencionados": [
+        "santa-perpetua"
+      ],
+      "publicado": "2026-11-19T09:00:00.000Z",
+      "detectado": "2026-11-19T09:01:03.308Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "5467d75fd869da70",
+      "titulo": "Crema completament l'interior d'un vehicle al mig d'un carrer de Sabadell",
+      "enlace": "https://www.diaridesabadell.com/sabadell/incendi-sabadell-bombers-generalitat.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-19T08:42:57.000Z",
+      "detectado": "2026-11-19T09:01:03.308Z",
+      "sensible": false,
+      "etiquetas": [
+        "emergencias"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "emergències"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "b641b6f3f0660dba",
+      "titulo": "Marc Buxaderas exhibeix el seu humor a Sentmenat: \"Quanta gent amb discapacitat veus a la tele?\"",
+      "enlace": "https://www.diaridesabadell.com/valles/sentmenat/marc-buxaderas-coro-sentmenat-discapacitat-monoleg.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sentmenat"
+      ],
+      "publicado": "2026-11-19T08:25:34.000Z",
+      "detectado": "2026-11-19T09:01:03.308Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "8770941232daaa29",
+      "titulo": "Parlar català als jutjats: un dret que encara genera dubtes",
+      "enlace": "https://www.diaridesabadell.com/sabadell/catala-jutjats-sabadell-faqs.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-19T08:24:07.000Z",
+      "detectado": "2026-11-19T09:01:03.308Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "9c2b6eb1437d698e",
+      "titulo": "Detenen un home per assaltar la casa d’una família amb una arma i ganivets",
+      "enlace": "https://www.isabadell.cat/successos/detenen-un-home-per-assaltar-la-casa-duna-familia-amb-una-arma-i-ganivets-341153/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sant-quirze"
+      ],
+      "publicado": "2026-11-19T08:13:23.000Z",
+      "detectado": "2026-11-19T09:01:03.308Z",
+      "sensible": true,
+      "etiquetas": [
+        "sucesos",
+        "urbanismo"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "successos, obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "a5c66771c78d494f",
+      "titulo": "La llengua, arraconada a la justícia: només un 2% de les sentències dels Jutjats de Sabadell són en català",
+      "enlace": "https://www.diaridesabadell.com/sabadell/sentencies-catala-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-19T08:04:49.000Z",
+      "detectado": "2026-11-19T09:01:03.308Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "ac57cfd4f8ed99c3",
       "titulo": "Infopòdcast Sabadell 19.11.26",
       "enlace": "https://radiosabadell.fm/alacarta/audio/infopodcast-sabadell-191126",
@@ -123,7 +288,83 @@
       "motivos": [],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "78fda4e755f90863",
+      "titulo": "L'Ajuntament rep la patinadora Gemma Cuyàs per felicitar-la pels seus èxits esportius",
+      "enlace": "https://www.sentmenat.cat/actualitat/noticies/lajuntament-rep-la-patinadora-gemma-cuyas-per-felicitar-la-pels-seus-exits-esportius.html",
+      "fuente": "ayto-sentmenat",
+      "fuenteNombre": "Ajuntament de Sentmenat",
+      "tipo": "oficial",
+      "resumen": "La patinadora sentmenatenca Gemma Cuyàs Roca va visitar l'Ajuntament de Sentmenat el passat divendres 13 de novembre després de culminar una temporada excepcional amb la consecució de la medalla de plata al Campionat del Món de patinatge…",
+      "municipio": "sentmenat",
+      "municipiosMencionados": [
+        "sentmenat"
+      ],
+      "publicado": "2026-11-18T23:00:00.000Z",
+      "detectado": "2026-11-19T09:01:03.308Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "f7124f81a899b457",
+      "titulo": "Sessió informativa sobre els Plans Locals d’Ocupació 2025-2027",
+      "enlace": "https://www.sentmenat.cat/actualitat/noticies/sessio-informativa-sobre-els-plans-locals-docupacio-2025-2027.html",
+      "fuente": "ayto-sentmenat",
+      "fuenteNombre": "Ajuntament de Sentmenat",
+      "tipo": "oficial",
+      "resumen": "L’Ajuntament de Sentmenat convoca 3 llocs de treball temporals de 6 mesos dins dels Plans Locals d’Ocupació 2025-2027: 2 peons/es de neteja viària i 1 oficial/a pintor/a. Les places són per a persones inscrites a l’atur al Servei…",
+      "municipio": "sentmenat",
+      "municipiosMencionados": [
+        "sentmenat"
+      ],
+      "publicado": "2026-11-18T23:00:00.000Z",
+      "detectado": "2026-11-19T09:01:03.308Z",
+      "sensible": false,
+      "etiquetas": [
+        "economia"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "font oficial",
+        "economia i ocupació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "e7b673eb09e12acf",
+      "titulo": "Talls de subministrament d'aigua, dem� divendres, a Cant�bric 43-47 i Costa Brava 5-13",
+      "enlace": "http://www.badiadelvalles.cat/document.php?id=12330",
+      "fuente": "ayto-badia",
+      "fuenteNombre": "Ajuntament de Badia del Vallès",
+      "tipo": "oficial",
+      "resumen": "",
+      "municipio": "badia",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-18T23:00:00.000Z",
+      "detectado": "2026-11-19T09:01:03.308Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad",
+        "medioambiente"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "font oficial",
+        "mobilitat, medi ambient"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
     }
   ],
-  "actualizado": "2026-11-18T23:18:23.550Z"
+  "actualizado": "2026-11-19T09:01:20.380Z"
 }
