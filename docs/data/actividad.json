@@ -1,104 +1,6 @@
 {
   "eventos": [
     {
-      "id": "27400e31cf3e2538",
-      "t": "2026-11-15T19:13:16.110Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La llei de l'ex castiga per partida doble el Sabadell 'B' a Vic (3-1)» (Ràdio Sabadell).",
-      "itemId": "d44d5c04171e0aeb"
-    },
-    {
-      "id": "4cc40fd19097b638",
-      "t": "2026-11-15T19:13:16.111Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Salut, Esports.",
-      "itemId": "d44d5c04171e0aeb"
-    },
-    {
-      "id": "aac15482f824283d",
-      "t": "2026-11-15T19:54:57.071Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Harakiri arlequinat al Nuevo Pepico Amat» (Diari de Sabadell).",
-      "itemId": "f0597579ebecdcf1"
-    },
-    {
-      "id": "6c251590fc1cb4f9",
-      "t": "2026-11-15T19:54:57.072Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El Sabadell cau contra l’Eldense i encadena cinc jornades sense guanyar» (iSabadell).",
-      "itemId": "601248d394f4d932"
-    },
-    {
-      "id": "551ab51ffab59591",
-      "t": "2026-11-15T19:54:57.073Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Esports.",
-      "itemId": "601248d394f4d932"
-    },
-    {
-      "id": "edb5b85d73099a38",
-      "t": "2026-11-15T20:29:41.127Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Eldense 2-0 Sabadell: tarda per oblidar al Nuevo Pepico Amat» (Ràdio Sabadell).",
-      "itemId": "164fafff577db6a9"
-    },
-    {
-      "id": "29158b5ca52e1351",
-      "t": "2026-11-15T20:29:41.128Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Esports.",
-      "itemId": "164fafff577db6a9"
-    },
-    {
-      "id": "5d4ac58851556db0",
-      "t": "2026-11-15T23:16:31.933Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Infopòdcast Sabadell 16.11.26» (Ràdio Sabadell).",
-      "itemId": "0ebeaa43cf9b250d"
-    },
-    {
-      "id": "6e405931c068e89b",
-      "t": "2026-11-16T06:37:50.808Z",
-      "agente": "rastreador",
-      "texto": "La font «Ajuntament de Cerdanyola del Vallès» no respon (terminated).",
-      "itemId": null
-    },
-    {
-      "id": "e9da422ed78d5e85",
-      "t": "2026-11-16T09:26:20.295Z",
-      "agente": "rastreador",
-      "texto": "He recollit «L’Ajuntament obre el termini per sol·licitar els ajuts de menjador social i d’àpats a domicili per a l’any 2027» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "a872d23b5850c86e"
-    },
-    {
-      "id": "5aa578db2b94b0b2",
-      "t": "2026-11-16T09:26:20.296Z",
-      "agente": "rastreador",
-      "texto": "He recollit «L'Associaci� de Protecci� Civil de Badia, reconeguda al Dia de la Protecci� Civil» (Ajuntament de Badia del Vallès).",
-      "itemId": "10abc89e25786aea"
-    },
-    {
-      "id": "d904ec4eb5b02a42",
-      "t": "2026-11-16T09:26:20.297Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La història de David Lyme i el ‘Sabadell Sound’, a ‘El doble’ de ‘TV3’» (iSabadell).",
-      "itemId": "e6261a4fdb506031"
-    },
-    {
-      "id": "50401a62200c75be",
-      "t": "2026-11-16T09:26:20.298Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "e6261a4fdb506031"
-    },
-    {
-      "id": "234d3fe16f3660f9",
-      "t": "2026-11-16T09:26:20.299Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Eulàlia Barros, degana Col·legi de l'Advocacia: \"A Sabadell estan tots els jutjats saturats\"» (Ràdio Sabadell).",
-      "itemId": "e6b1ce6230a94758"
-    },
-    {
       "id": "291981a89ce48be9",
       "t": "2026-11-16T09:26:20.300Z",
       "agente": "rastreador",
@@ -2799,7 +2701,105 @@
       "agente": "mesa",
       "texto": "Proposo incloure-ho a l'escaleta (5 punts): font oficial · política local, economia i ocupació, salut, educació.",
       "itemId": "f2db353991bef8b6"
+    },
+    {
+      "id": "21f76b1df3b3b0f6",
+      "t": "2026-11-19T11:07:11.508Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El DOT programa noves formacions sobre IA i igualtat» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "ede3c6aa91461040"
+    },
+    {
+      "id": "af9dcb0a44475197",
+      "t": "2026-11-19T11:07:11.509Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Clam al Poblenou per fer arribar el bus de l'L14 al barri i connectar-lo amb l'Hospital Taulí» (Diari de Sabadell).",
+      "itemId": "3694ad8a6e2cedea"
+    },
+    {
+      "id": "ba9e5d13bacdecdb",
+      "t": "2026-11-19T11:07:11.510Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat, Salut.",
+      "itemId": "3694ad8a6e2cedea"
+    },
+    {
+      "id": "7d48c44c7e7add35",
+      "t": "2026-11-19T11:07:11.511Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): mobilitat, salut.",
+      "itemId": "3694ad8a6e2cedea"
+    },
+    {
+      "id": "3ab000701852a22d",
+      "t": "2026-11-19T11:07:11.512Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Mogoda Serveis recull tres cops a la setmana el cartró dels comerços» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "98cc455ea7ba2b41"
+    },
+    {
+      "id": "11806c88b551809f",
+      "t": "2026-11-19T11:07:11.513Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Acampada als horts de Can Llong per protegir diverses colònies de gats» (Ràdio Sabadell).",
+      "itemId": "ac958856628d1cd3"
+    },
+    {
+      "id": "89369b6fe1fb52bf",
+      "t": "2026-11-19T11:07:11.514Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Obres i urbanisme.",
+      "itemId": "ac958856628d1cd3"
+    },
+    {
+      "id": "7d25a55b0a24102b",
+      "t": "2026-11-19T11:07:11.515Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L'Ajuntament i la Generalitat acorden treballar conjuntament per impulsar la transformació de Montcada i Reixac» (Ajuntament de Montcada i Reixac).",
+      "itemId": "4803f5e6637604e2"
+    },
+    {
+      "id": "7747389699b64642",
+      "t": "2026-11-19T11:07:11.516Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Quin rival li pot tocar al Sabadell a la segona ronda de la Copa?» (Ràdio Sabadell).",
+      "itemId": "ecb5f777a355c5eb"
+    },
+    {
+      "id": "3e8007e6c5b49d6c",
+      "t": "2026-11-19T11:07:11.517Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "ecb5f777a355c5eb"
+    },
+    {
+      "id": "7f8040268b2da6d9",
+      "t": "2026-11-19T11:07:11.518Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Pista de gel per dinamitzar Nadal» (L'Actual - Castellar del Vallès).",
+      "itemId": "50d5f332b65de80e"
+    },
+    {
+      "id": "59479b16003fd34f",
+      "t": "2026-11-19T11:07:11.519Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Neguit entre estudiants de Sabadell per l'estat dels instituts, les colònies o la manca de personal: \"Hem convocat una protesta\"» (Diari de Sabadell).",
+      "itemId": "ad7a3d5066256b22"
+    },
+    {
+      "id": "b6a565f9e8c025ff",
+      "t": "2026-11-19T11:07:11.520Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Connectats, el joc que t'anima a jugar amb la llengua» (Ràdio Sabadell).",
+      "itemId": "843783331047f902"
+    },
+    {
+      "id": "8d71fcbd56d6abb2",
+      "t": "2026-11-19T11:07:11.521Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Carles Cendros, Roxette Experience: \"Fem un homenatge al Roxette dels 80\"» (Ràdio Sabadell).",
+      "itemId": "8f3851536406c12b"
     }
   ],
-  "actualizado": "2026-11-19T10:06:58.897Z"
+  "actualizado": "2026-11-19T11:07:28.690Z"
 }

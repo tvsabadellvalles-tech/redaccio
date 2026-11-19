@@ -6,11 +6,11 @@
     },
     "radio-sabadell": {
       "ok": true,
-      "items": 2
+      "items": 6
     },
     "diari-sabadell": {
       "ok": true,
-      "items": 4
+      "items": 6
     },
     "diari-terrassa": {
       "ok": true,
@@ -22,7 +22,7 @@
     },
     "ayto-castellar": {
       "ok": true,
-      "items": 1
+      "items": 2
     },
     "ayto-sentmenat": {
       "ok": true,
@@ -42,7 +42,7 @@
     },
     "ayto-santa-perpetua": {
       "ok": true,
-      "items": 1
+      "items": 3
     },
     "avisos-santa-perpetua": {
       "ok": true,
@@ -50,7 +50,7 @@
     },
     "ayto-montcada": {
       "ok": true,
-      "items": 1
+      "items": 2
     },
     "avisos-montcada": {
       "ok": true,
@@ -81,6 +81,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-19T10:06:42.065Z",
-  "actualizado": "2026-11-19T10:06:58.895Z"
+  "consultat": "2026-11-19T11:07:11.508Z",
+  "actualizado": "2026-11-19T11:07:28.687Z"
 }

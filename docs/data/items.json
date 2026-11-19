@@ -134,6 +134,84 @@
       "propuesta": true
     },
     {
+      "id": "8f3851536406c12b",
+      "titulo": "Carles Cendros, Roxette Experience: \"Fem un homenatge al Roxette dels 80\"",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-mati-tribut-roxette-191126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-19T11:05:33.000Z",
+      "detectado": "2026-11-19T11:07:11.508Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "843783331047f902",
+      "titulo": "Connectats, el joc que t'anima a jugar amb la llengua",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-mati-connectats-191126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-19T10:59:44.000Z",
+      "detectado": "2026-11-19T11:07:11.508Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "ad7a3d5066256b22",
+      "titulo": "Neguit entre estudiants de Sabadell per l'estat dels instituts, les colònies o la manca de personal: \"Hem convocat una protesta\"",
+      "enlace": "https://www.diaridesabadell.com/sabadell/neguit-estudiants-sabadell-estat-instituts-colonies-manca-personal-convocada-protesta.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-19T10:28:36.000Z",
+      "detectado": "2026-11-19T11:07:11.508Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "50d5f332b65de80e",
+      "titulo": "Pista de gel per dinamitzar Nadal",
+      "enlace": "https://www.lactual.cat/actualitat/pista-gel-dinamitzar-nadal_55404_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-19T10:27:16.000Z",
+      "detectado": "2026-11-19T11:07:11.508Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "f2db353991bef8b6",
       "titulo": "Cerdanyola renova el reconeixement com a Ciutat de la Ciència i la Innovació",
       "enlace": "http://www.cerdanyola.cat/actualitat/cerdanyola-renova-el-reconeixement-com-ciutat-de-la-ciencia-i-la-innovacio",
@@ -164,6 +242,29 @@
       "propuesta": true
     },
     {
+      "id": "ecb5f777a355c5eb",
+      "titulo": "Quin rival li pot tocar al Sabadell a la segona ronda de la Copa?",
+      "enlace": "https://radiosabadell.fm/esports/ce-sabadell/quin-rival-pot-tocar-sabadell-segona-ronda-copa",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-19T10:05:27.000Z",
+      "detectado": "2026-11-19T11:07:11.508Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "dcc4003b2b7b19b5",
       "titulo": "Entitats de Cerdanyola impulsen la candidatura del Dr. Josep Tarrés a la Creu de Sant Jordi",
       "enlace": "http://www.cerdanyola.cat/actualitat/entitats-de-cerdanyola-impulsen-la-candidatura-del-dr-josep-tarres-la-creu-de-sant-jordi",
@@ -186,6 +287,52 @@
       "motivos": [
         "font oficial",
         "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "4803f5e6637604e2",
+      "titulo": "L'Ajuntament i la Generalitat acorden treballar conjuntament per impulsar la transformació de Montcada i Reixac",
+      "enlace": "https://www.montcada.cat/actualitat/noticies/lajuntament-i-la-generalitat-acorden-treballar-conjuntament-per-impulsar-la-transformacio-de-montcada-i-reixac.html",
+      "fuente": "ayto-montcada",
+      "fuenteNombre": "Ajuntament de Montcada i Reixac",
+      "tipo": "oficial",
+      "resumen": "",
+      "municipio": "montcada",
+      "municipiosMencionados": [
+        "montcada"
+      ],
+      "publicado": "2026-11-19T10:00:00.000Z",
+      "detectado": "2026-11-19T11:07:11.508Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "ac958856628d1cd3",
+      "titulo": "Acampada als horts de Can Llong per protegir diverses colònies de gats",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/mobilitzacio-horts-can-llong-protegir-colonies-de-gats",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-19T09:41:04.000Z",
+      "detectado": "2026-11-19T11:07:11.508Z",
+      "sensible": false,
+      "etiquetas": [
+        "urbanismo"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "obres i urbanisme"
       ],
       "duplicadaDe": null,
       "propuesta": false
@@ -217,6 +364,29 @@
       "propuesta": false
     },
     {
+      "id": "98cc455ea7ba2b41",
+      "titulo": "Mogoda Serveis recull tres cops a la setmana el cartró dels comerços",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/mogoda-serveis-recull-tres-cops-a-la-setmana-el-cartro-dels-comercos.html",
+      "fuente": "ayto-santa-perpetua",
+      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
+      "tipo": "oficial",
+      "resumen": "L’Ajuntament de Santa Perpètua de Mogoda ha arribat a un acord amb els establiments comercials i ara Mogoda Serveis els fa la recollida del paper i cartró porta a porta tres dies a la setmana. La mesura ha estat molt ben rebuda pels…",
+      "municipio": "santa-perpetua",
+      "municipiosMencionados": [
+        "santa-perpetua"
+      ],
+      "publicado": "2026-11-19T09:30:00.000Z",
+      "detectado": "2026-11-19T11:07:11.508Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "14aa66d8531e9d7c",
       "titulo": "Avís per intensitat de vent a Castellar i la comarca",
       "enlace": "https://www.lactual.cat/actualitat/avis-intensitat-vent-castellar-comarca_55403_102.html",
@@ -238,6 +408,30 @@
       "propuesta": false
     },
     {
+      "id": "3694ad8a6e2cedea",
+      "titulo": "Clam al Poblenou per fer arribar el bus de l'L14 al barri i connectar-lo amb l'Hospital Taulí",
+      "enlace": "https://www.diaridesabadell.com/sabadell/clam-al-poblenou-per-fer-arribar-el-bus-de-ll14-al-barri-i-connectar-lo-amb-lhospital-tauli.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-19T09:02:53.000Z",
+      "detectado": "2026-11-19T11:07:11.508Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad",
+        "salud"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "mobilitat, salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
       "id": "a6558118578d939c",
       "titulo": "Santa Perpètua marxarà en silenci contra les violències masclistes",
       "enlace": "https://www.staperpetua.cat/actualitat/noticies/santa-perpetua-marxara-en-silenci-contra-les-violencies-masclistes.html",
@@ -251,6 +445,27 @@
       ],
       "publicado": "2026-11-19T09:00:00.000Z",
       "detectado": "2026-11-19T09:01:03.308Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "ede3c6aa91461040",
+      "titulo": "El DOT programa noves formacions sobre IA i igualtat",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/el-dot-programa-noves-formacions-sobre-ia-i-igualtat.html",
+      "fuente": "ayto-santa-perpetua",
+      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
+      "tipo": "oficial",
+      "resumen": "El Dispositiu d’Orientació i TIC (DOT) realitza noves accions formatives per als mesos de novembre i desembre, centrades en l’aplicació de la intel·ligència artificial (IA) a les eines ofimàtiques i a la recerca de feina, així com en la…",
+      "municipio": "santa-perpetua",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-19T09:00:00.000Z",
+      "detectado": "2026-11-19T11:07:11.508Z",
       "sensible": false,
       "etiquetas": [],
       "puntuacion": 1,
@@ -512,5 +727,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-19T10:06:58.893Z"
+  "actualizado": "2026-11-19T11:07:28.686Z"
 }

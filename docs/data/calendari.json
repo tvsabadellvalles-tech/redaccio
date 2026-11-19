@@ -2,7 +2,7 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-19T10:06:42.065Z",
+  "consultat": "2026-11-19T11:07:11.508Z",
   "total": 21,
   "activitats": [
     {
@@ -48,16 +48,16 @@
       "color": null
     },
     {
-      "titol": "Ent. info Omnium",
+      "titol": "L'Informatiu",
       "inici": "2026-11-19T15:15:00.000Z",
-      "final": "2026-11-19T15:45:00.000Z",
+      "final": "2026-11-19T16:15:00.000Z",
       "totElDia": false,
       "color": null
     },
     {
-      "titol": "L'Informatiu",
+      "titol": "Ent. info Omnium",
       "inici": "2026-11-19T15:15:00.000Z",
-      "final": "2026-11-19T16:15:00.000Z",
+      "final": "2026-11-19T15:45:00.000Z",
       "totElDia": false,
       "color": null
     },
@@ -146,7 +146,7 @@
       "color": null
     },
     {
-      "titol": "(Ferran/Adri FALS) CX - VIA 15 (Souvenirs)",
+      "titol": "(Ferran/Adri) FALS - VIA 15 (Souvenirs)",
       "inici": "2026-11-20T17:00:00.000Z",
       "final": "2026-11-20T18:00:00.000Z",
       "totElDia": false,
@@ -154,5 +154,5 @@
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-19T10:07:18.352Z"
+  "actualizado": "2026-11-19T11:07:49.391Z"
 }
