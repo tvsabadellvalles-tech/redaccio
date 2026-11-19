@@ -104,6 +104,31 @@
   },
   "items": [
     {
+      "id": "0142d00ec9a6be45",
+      "titulo": "Una protesta antifeixista impedeix a Vox celebrar un míting a Can Puiggener",
+      "enlace": "https://radiosabadell.fm/actualitat/politica/protesta-antifeixista-impedeix-vox-celebrar-miting-can-puiggener",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-19T20:28:11.000Z",
+      "detectado": "2026-11-19T21:28:10.870Z",
+      "sensible": false,
+      "etiquetas": [
+        "sucesos"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "successos"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "7be09d5164dd6782",
       "titulo": "ERC reivindica l'esquerra catalana de cara al 29N",
       "enlace": "https://www.lactual.cat/actualitat/erc-reivindica-esquerra-catalana-cara-29n_55415_102.html",
@@ -1463,5 +1488,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-19T20:35:47.798Z"
+  "actualizado": "2026-11-19T21:28:25.996Z"
 }

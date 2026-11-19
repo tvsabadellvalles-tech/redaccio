@@ -1,20 +1,6 @@
 {
   "eventos": [
     {
-      "id": "40221d06024b92c2",
-      "t": "2026-11-16T14:50:53.653Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Els sabadellencs Flashy Ice Cream publiquen 'JIMI', el seu cinquè disc d'estudi» (Ràdio Sabadell).",
-      "itemId": "00fb02c4ac56a5b4"
-    },
-    {
-      "id": "1d677230543f2854",
-      "t": "2026-11-16T14:50:53.654Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Obres i urbanisme, Medi ambient, Cultura i festes.",
-      "itemId": "00fb02c4ac56a5b4"
-    },
-    {
       "id": "0234e9d6792646a4",
       "t": "2026-11-16T14:50:53.655Z",
       "agente": "vigilante",
@@ -2799,7 +2785,21 @@
       "agente": "rastreador",
       "texto": "He recollit «ERC reivindica l'esquerra catalana de cara al 29N» (L'Actual - Castellar del Vallès).",
       "itemId": "7be09d5164dd6782"
+    },
+    {
+      "id": "f68f78e28392c170",
+      "t": "2026-11-19T21:28:10.870Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Una protesta antifeixista impedeix a Vox celebrar un míting a Can Puiggener» (Ràdio Sabadell).",
+      "itemId": "0142d00ec9a6be45"
+    },
+    {
+      "id": "635d53f2cc938958",
+      "t": "2026-11-19T21:28:10.871Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Successos.",
+      "itemId": "0142d00ec9a6be45"
     }
   ],
-  "actualizado": "2026-11-19T20:35:47.802Z"
+  "actualizado": "2026-11-19T21:28:25.999Z"
 }
