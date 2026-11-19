@@ -10,7 +10,7 @@
     },
     "diari-sabadell": {
       "ok": true,
-      "items": 10
+      "items": 12
     },
     "diari-terrassa": {
       "ok": true,
@@ -30,7 +30,7 @@
     },
     "radio-palau": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "ayto-polinya": {
       "ok": true,
@@ -81,6 +81,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-19T17:35:56.409Z",
-  "actualizado": "2026-11-19T17:36:09.331Z"
+  "consultat": "2026-11-19T18:33:48.932Z",
+  "actualizado": "2026-11-19T18:34:08.957Z"
 }

@@ -1,55 +1,6 @@
 {
   "eventos": [
     {
-      "id": "88cc20d55fc6b812",
-      "t": "2026-11-16T11:56:07.459Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Obres i urbanisme.",
-      "itemId": "e90e7e10fa874e26"
-    },
-    {
-      "id": "50075b454cd2c274",
-      "t": "2026-11-16T11:56:07.460Z",
-      "agente": "rastreador",
-      "texto": "He recollit «FOTOS | Una nit de retrobaments i emoció per celebrar els 50 anys de l'APB» (Diari de Sabadell).",
-      "itemId": "6d58f2762e650dcb"
-    },
-    {
-      "id": "6f10fd68096b9420",
-      "t": "2026-11-16T11:56:07.461Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Educació, Esports.",
-      "itemId": "6d58f2762e650dcb"
-    },
-    {
-      "id": "86ede898e965a0b6",
-      "t": "2026-11-16T11:56:07.462Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La Creu Roja engega el programa d'ajut alimentari Bàsic» (L'Actual - Castellar del Vallès).",
-      "itemId": "c2e0d15c3f4e2ad4"
-    },
-    {
-      "id": "6d2e4b86c7ffa48d",
-      "t": "2026-11-16T11:56:07.463Z",
-      "agente": "rastreador",
-      "texto": "He recollit «L’atenció pediàtrica de Santa Perpètua es trasllada al CAP La Florida» (Diari de Sabadell).",
-      "itemId": "b4769aff3bc1732f"
-    },
-    {
-      "id": "5e9b1d7bae690c52",
-      "t": "2026-11-16T11:56:07.464Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Salut.",
-      "itemId": "b4769aff3bc1732f"
-    },
-    {
-      "id": "a86a6c94e898e2a3",
-      "t": "2026-11-16T14:50:53.649Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Badia enc�n el Nadal el 3 de desembre!» (Ajuntament de Badia del Vallès).",
-      "itemId": "db1a4572f318824a"
-    },
-    {
       "id": "6f598130964654b3",
       "t": "2026-11-16T14:50:53.650Z",
       "agente": "rastreador",
@@ -2799,7 +2750,56 @@
       "agente": "mesa",
       "texto": "Proposo incloure-ho a l'escaleta (4 punts): mobilitat, successos.",
       "itemId": "a607b3f4808afdc7"
+    },
+    {
+      "id": "f3e48358a2d632c0",
+      "t": "2026-11-19T18:33:48.932Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L’Outlet de CIPO recapta 28.000 euros amb la venda de més de 3.000 peces en tres dies» (Diari de Sabadell).",
+      "itemId": "7663fa50545a817a"
+    },
+    {
+      "id": "881fe8a08132183f",
+      "t": "2026-11-19T18:33:48.933Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El calendari solidari d'Andi destinarà els diners als infants amb discapacitat intel·lectual» (Ràdio Sabadell).",
+      "itemId": "f162865e580cd673"
+    },
+    {
+      "id": "2ac2ff665b18df7d",
+      "t": "2026-11-19T18:33:48.934Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "f162865e580cd673"
+    },
+    {
+      "id": "71ca7c3df741ccb7",
+      "t": "2026-11-19T18:33:48.935Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Andi Sabadell presenta una nova edició del seu Calendari Solidari amb dotze escenaris de la ciutat» (Diari de Sabadell).",
+      "itemId": "ea134bd3ddc2c787"
+    },
+    {
+      "id": "e5f8426173fafccb",
+      "t": "2026-11-19T18:33:48.936Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "ea134bd3ddc2c787"
+    },
+    {
+      "id": "45540febcc2c4390",
+      "t": "2026-11-19T18:33:48.937Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Palau al Dia - Notícies del 19/11/2026» (Ràdio Palau - Palau al Dia).",
+      "itemId": "12b57302c9ac702f"
+    },
+    {
+      "id": "32846b9efbbd0042",
+      "t": "2026-11-19T18:33:48.938Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "12b57302c9ac702f"
     }
   ],
-  "actualizado": "2026-11-19T17:20:16.247Z"
+  "actualizado": "2026-11-19T18:34:08.959Z"
 }

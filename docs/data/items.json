@@ -104,6 +104,46 @@
   },
   "items": [
     {
+      "id": "12b57302c9ac702f",
+      "titulo": "Palau al Dia - Notícies del 19/11/2026",
+      "enlace": "https://www.radiopalau.cat/podcasts/palau-al-dia/radiopalau_podcast_6846/",
+      "fuente": "radio-palau",
+      "fuenteNombre": "Ràdio Palau - Palau al Dia",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "palau",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-19T17:59:57.000Z",
+      "detectado": "2026-11-19T18:33:48.932Z",
+      "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "ea134bd3ddc2c787",
+      "titulo": "Andi Sabadell presenta una nova edició del seu Calendari Solidari amb dotze escenaris de la ciutat",
+      "enlace": "https://www.diaridesabadell.com/sabadell/andi-sabadell-presenta-una-nova-edicio-del-seu-calendari-solidari-amb-dotze-escenaris-de-la-ciutat.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-19T17:42:25.000Z",
+      "detectado": "2026-11-19T18:33:48.932Z",
+      "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "a607b3f4808afdc7",
       "titulo": "Els Mossos, a la cerca de coure robat a la xarxa de Rodalies",
       "enlace": "https://www.diaridesabadell.com/sabadell/mossos-coure-robat-rodalies.html",
@@ -128,6 +168,27 @@
       ],
       "duplicadaDe": null,
       "propuesta": true
+    },
+    {
+      "id": "f162865e580cd673",
+      "titulo": "El calendari solidari d'Andi destinarà els diners als infants amb discapacitat intel·lectual",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/calendari-solidari-andi-diners-als-infants-amb-discapacitat",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-19T17:13:00.000Z",
+      "detectado": "2026-11-19T18:33:48.932Z",
+      "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
     },
     {
       "id": "b28cad7affdededf",
@@ -189,6 +250,25 @@
       "etiquetas": [
         "deportes"
       ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "7663fa50545a817a",
+      "titulo": "L’Outlet de CIPO recapta 28.000 euros amb la venda de més de 3.000 peces en tres dies",
+      "enlace": "https://www.diaridesabadell.com/sabadell/loutlet-de-cipo-recapta-28000-euros-amb-la-venda-de-mes-de-3000-peces-en-tres-dies.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-19T15:04:02.000Z",
+      "detectado": "2026-11-19T18:33:48.932Z",
+      "sensible": false,
+      "etiquetas": [],
       "puntuacion": 0,
       "motivos": [],
       "duplicadaDe": null,
@@ -1326,5 +1406,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-19T17:20:16.242Z"
+  "actualizado": "2026-11-19T18:34:08.955Z"
 }
