@@ -1,13 +1,6 @@
 {
   "eventos": [
     {
-      "id": "a685caf7ecdc8daf",
-      "t": "2026-11-14T20:18:12.712Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Intenten segrestar a Sabadell l’home raptat a l’AP-7 al setembre» (iSabadell).",
-      "itemId": "2190761995b1baf9"
-    },
-    {
       "id": "38e1050bc0a8222c",
       "t": "2026-11-14T20:18:12.713Z",
       "agente": "etiquetador",
@@ -2799,7 +2792,14 @@
       "agente": "rastreador",
       "texto": "He recollit «Infopòdcast Sabadell 19.11.26» (Ràdio Sabadell).",
       "itemId": "ac57cfd4f8ed99c3"
+    },
+    {
+      "id": "12dceb4f82e3da85",
+      "t": "2026-11-19T07:59:12.079Z",
+      "agente": "rastreador",
+      "texto": "La font «Ajuntament de Cerdanyola del Vallès» torna a respondre.",
+      "itemId": null
     }
   ],
-  "actualizado": "2026-11-18T23:18:23.553Z"
+  "actualizado": "2026-11-19T07:59:32.069Z"
 }
