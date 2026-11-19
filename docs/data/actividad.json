@@ -1,41 +1,6 @@
 {
   "eventos": [
     {
-      "id": "5799bc6c0d6ee7ad",
-      "t": "2026-11-16T10:54:14.948Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Emergències, Economia i ocupació, Medi ambient.",
-      "itemId": "97eed1cfe717cec9"
-    },
-    {
-      "id": "84da4331dc019fe8",
-      "t": "2026-11-16T10:54:14.949Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): emergències, economia i ocupació, medi ambient.",
-      "itemId": "97eed1cfe717cec9"
-    },
-    {
-      "id": "80abe93b00dce9b2",
-      "t": "2026-11-16T10:54:14.950Z",
-      "agente": "rastreador",
-      "texto": "He recollit «L'R7, sense servei durant tres setmanes» (Diari de Sabadell).",
-      "itemId": "1732624618fd6cd1"
-    },
-    {
-      "id": "6d03c5d70b7b73fd",
-      "t": "2026-11-16T10:54:14.951Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Obres i urbanisme.",
-      "itemId": "1732624618fd6cd1"
-    },
-    {
-      "id": "2b8685d04d393cbd",
-      "t": "2026-11-16T10:54:14.952Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El 25N posa el focus en les violències masclistes contra les dones grans» (Ajuntament de Cerdanyola del Vallès).",
-      "itemId": "b0a29e3ef254baec"
-    },
-    {
       "id": "48b13898112b72bf",
       "t": "2026-11-16T10:54:14.953Z",
       "agente": "etiquetador",
@@ -2799,7 +2764,42 @@
       "agente": "mesa",
       "texto": "Proposo incloure-ho a l'escaleta (4 punts): font oficial · política local, obres i urbanisme.",
       "itemId": "9556a588a56b4a4e"
+    },
+    {
+      "id": "b0efe7eec420c80b",
+      "t": "2026-11-19T14:29:23.908Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La 49a Exposició de Pessebres estrenarà nova sala d'exposicions» (Ràdio Sabadell).",
+      "itemId": "cb88d1404258ee7c"
+    },
+    {
+      "id": "7348b150c85b4ab7",
+      "t": "2026-11-19T14:29:23.909Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "cb88d1404258ee7c"
+    },
+    {
+      "id": "319a18c1c9749a14",
+      "t": "2026-11-19T14:29:23.910Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La campanya pel 29-N arriba a l'equador amb el cara a cara entre Sánchez i Feijóo en el punt de mira» (Ràdio Sabadell).",
+      "itemId": "5e89662e47fb0922"
+    },
+    {
+      "id": "c8ecb0d7e76c86b5",
+      "t": "2026-11-19T14:29:23.911Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El Sabadell s'apunta a una ronda més de copes» (Ràdio Sabadell).",
+      "itemId": "f7163b8478ecb111"
+    },
+    {
+      "id": "86f25ef78c19d006",
+      "t": "2026-11-19T14:29:23.912Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Setmana de l’Emprenedoria: 8 cites per acostar-se a l’aventura d’emprendre» (iSabadell).",
+      "itemId": "5fd413e26951e7fa"
     }
   ],
-  "actualizado": "2026-11-19T13:20:48.511Z"
+  "actualizado": "2026-11-19T14:29:40.484Z"
 }

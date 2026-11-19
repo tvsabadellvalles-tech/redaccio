@@ -104,6 +104,90 @@
   },
   "items": [
     {
+      "id": "5fd413e26951e7fa",
+      "titulo": "Setmana de l’Emprenedoria: 8 cites per acostar-se a l’aventura d’emprendre",
+      "enlace": "https://www.isabadell.cat/sabadell/economia/empresa/setmana-de-lemprenedoria-8-cites-per-acostar-se-a-laventura-demprendre-341162/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-19T14:15:45.000Z",
+      "detectado": "2026-11-19T14:29:23.908Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "f7163b8478ecb111",
+      "titulo": "El Sabadell s'apunta a una ronda més de copes",
+      "enlace": "https://radiosabadell.fm/podcast/hotel-suis-191126-Utebo",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-19T13:31:18.000Z",
+      "detectado": "2026-11-19T14:29:23.908Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "5e89662e47fb0922",
+      "titulo": "La campanya pel 29-N arriba a l'equador amb el cara a cara entre Sánchez i Feijóo en el punt de mira",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-migdia-29N-cara-cara-sanchez-feijoo-191126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-19T13:23:32.000Z",
+      "detectado": "2026-11-19T14:29:23.908Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "cb88d1404258ee7c",
+      "titulo": "La 49a Exposició de Pessebres estrenarà nova sala d'exposicions",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/exposicio-pessebres-sala-exposicions",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-19T12:52:41.000Z",
+      "detectado": "2026-11-19T14:29:23.908Z",
+      "sensible": false,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "9556a588a56b4a4e",
       "titulo": "Se celebra la sessió ordinaria del mes de novembre del ple",
       "enlace": "https://www.bdv.cat/noticies/se-celebra-la-sessio-ordinaria-del-mes-de-novembre-del-ple",
@@ -1086,5 +1170,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-19T13:20:48.507Z"
+  "actualizado": "2026-11-19T14:29:40.479Z"
 }
