@@ -6,7 +6,7 @@
     },
     "radio-sabadell": {
       "ok": true,
-      "items": 1
+      "items": 2
     },
     "diari-sabadell": {
       "ok": true,
@@ -22,7 +22,7 @@
     },
     "ayto-castellar": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "ayto-sentmenat": {
       "ok": true,
@@ -50,7 +50,7 @@
     },
     "ayto-montcada": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "avisos-montcada": {
       "ok": true,
@@ -66,11 +66,11 @@
     },
     "ayto-cerdanyola": {
       "ok": true,
-      "items": 1
+      "items": 2
     },
     "ayto-badia": {
       "ok": true,
-      "items": 1
+      "items": 2
     },
     "ayto-sant-quirze": {
       "ok": true,
@@ -81,6 +81,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-19T09:01:03.308Z",
-  "actualizado": "2026-11-19T09:01:20.382Z"
+  "consultat": "2026-11-19T10:06:42.065Z",
+  "actualizado": "2026-11-19T10:06:58.895Z"
 }

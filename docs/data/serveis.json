@@ -5,7 +5,7 @@
       "nom": "FGC Barcelona–Vallès",
       "enllac": "https://www.fgc.cat/adequacions-horaries/",
       "alternatiu": null,
-      "consultat": "2026-11-19T09:01:03.308Z",
+      "consultat": "2026-11-19T10:06:42.065Z",
       "estat": "cap-avis-recent",
       "detall": "Sense adequacions horàries."
     },
@@ -14,7 +14,7 @@
       "nom": "Rodalies R4 i R7",
       "enllac": "https://rodalies.gencat.cat/ca/alteracions_del_servei/",
       "alternatiu": null,
-      "consultat": "2026-11-19T09:01:03.308Z",
+      "consultat": "2026-11-19T10:06:42.065Z",
       "estat": "cap-avis-recent",
       "detall": "Cap avís publicat avui a les línies R4 i R7.",
       "avisos": []
@@ -24,16 +24,23 @@
       "nom": "Trànsit · Vallès Occidental",
       "enllac": "https://cit.transit.gencat.cat/",
       "alternatiu": null,
-      "consultat": "2026-11-19T09:01:03.308Z",
+      "consultat": "2026-11-19T10:06:42.065Z",
       "estat": "avis",
-      "detall": "1 incidència d’avui a les carreteres seleccionades del Vallès Occidental, segons la llista actual de Trànsit.",
-      "actualitzat": "2026-11-19T09:01:04.000Z",
+      "detall": "2 incidències d’avui a les carreteres seleccionades del Vallès Occidental, segons la llista actual de Trànsit.",
+      "actualitzat": "2026-11-19T10:06:06.000Z",
       "avisos": [
         {
           "titol": "Circulació · Circulació amb retencions",
           "detall": "AP-7 | BARBERÀ DEL VALLÈS | Sentit Sud cap a TARRAGONA | Punt km. 147-145",
           "publicat": "2026-11-19T06:27:21.000Z",
           "carretera": "AP-7",
+          "comarca": 40
+        },
+        {
+          "titol": "Circulació · Circulació amb congestió",
+          "detall": "C-58 | MONTCADA I REIXAC | Sentit Sud cap a NUS TRINITAT | Punt km. 1.5-3.5",
+          "publicat": "2026-11-19T06:24:22.000Z",
+          "carretera": "C-58",
           "comarca": 40
         }
       ]
@@ -43,7 +50,7 @@
       "nom": "Meteocat · Vallès Occidental",
       "enllac": "https://www.meteo.cat/prediccio/general",
       "alternatiu": null,
-      "consultat": "2026-11-19T09:01:03.308Z",
+      "consultat": "2026-11-19T10:06:42.065Z",
       "estat": "previsio",
       "detall": "Sense avisos actius. Previsió de dijous, 19 de novembre al Vallès Occidental: màxima 17°, mínima 9°. sol al matí · sol a la tarda · Pluja matí: Probable (30–70%) · tarda: No se n’espera · Actualitzada 18-11-2026 15:00:00.",
       "previsio": {
@@ -65,12 +72,12 @@
       "nom": "Emergències · Protecció Civil",
       "enllac": "https://interior.gencat.cat/ca/actualitat/",
       "alternatiu": "https://govern.cat/salapremsa/notes-premsa",
-      "consultat": "2026-11-19T09:01:03.308Z",
+      "consultat": "2026-11-19T10:06:42.065Z",
       "estat": "cap-avis-recent",
       "detall": "Cap alerta local no meteorològica identificada a les alertes destacades d’Interior.",
       "avisos": []
     }
   ],
-  "consultat": "2026-11-19T09:01:03.308Z",
-  "actualizado": "2026-11-19T09:01:22.724Z"
+  "consultat": "2026-11-19T10:06:42.065Z",
+  "actualizado": "2026-11-19T10:07:00.915Z"
 }

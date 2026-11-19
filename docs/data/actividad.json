@@ -1,76 +1,6 @@
 {
   "eventos": [
     {
-      "id": "c9f2053f1d5956ef",
-      "t": "2026-11-15T11:44:59.168Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Obres i urbanisme, Salut, Educació, Esports.",
-      "itemId": "7a1acaf3fe165988"
-    },
-    {
-      "id": "7ffd9a5461004a75",
-      "t": "2026-11-15T11:44:59.169Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "7a1acaf3fe165988"
-    },
-    {
-      "id": "10cf6203eb0de785",
-      "t": "2026-11-15T11:44:59.170Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): obres i urbanisme, salut, educació.",
-      "itemId": "7a1acaf3fe165988"
-    },
-    {
-      "id": "4116043df13b814a",
-      "t": "2026-11-15T11:44:59.171Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Joan Dausà, Els Catarres i Lildami, primers noms confirmats de l'Observa 2027» (Ràdio Sabadell).",
-      "itemId": "252bdda2289ec522"
-    },
-    {
-      "id": "11aa0171546b64da",
-      "t": "2026-11-15T11:44:59.172Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Cultura i festes.",
-      "itemId": "252bdda2289ec522"
-    },
-    {
-      "id": "2b0b206d2fef602f",
-      "t": "2026-11-15T14:58:48.995Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La música no coneix les nostres fronteres» (Ràdio Sabadell).",
-      "itemId": "f89cb492a0ebe11a"
-    },
-    {
-      "id": "9be35000fe2c3605",
-      "t": "2026-11-15T15:40:41.968Z",
-      "agente": "rastreador",
-      "texto": "He recollit «CIPO celebra la bona acollida del seu outlet solidari amb prop de 7.000 peces de roba» (Diari de Sabadell).",
-      "itemId": "3aa03084ead21e52"
-    },
-    {
-      "id": "7b0d1b4462cd9b5b",
-      "t": "2026-11-15T15:40:41.969Z",
-      "agente": "rastreador",
-      "texto": "He recollit «L'edifici de l'Homedes: entre l’enderroc i la rehabilitació» (Diari de Sabadell).",
-      "itemId": "6ab624b45bc32327"
-    },
-    {
-      "id": "39376a3b25a19f27",
-      "t": "2026-11-15T17:40:07.963Z",
-      "agente": "rastreador",
-      "texto": "He recollit «'La Sireneta' s'acomiada de La Faràndula després de tres temporades» (Ràdio Sabadell).",
-      "itemId": "20b5b67a2f4429e1"
-    },
-    {
-      "id": "1ad1699584b78a77",
-      "t": "2026-11-15T17:40:07.964Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Cultura i festes.",
-      "itemId": "20b5b67a2f4429e1"
-    },
-    {
       "id": "27400e31cf3e2538",
       "t": "2026-11-15T19:13:16.110Z",
       "agente": "rastreador",
@@ -2799,7 +2729,77 @@
       "agente": "mesa",
       "texto": "Proposo incloure-ho a l'escaleta (5 punts): font oficial · emergències, salut, educació.",
       "itemId": "79c10c3bd77cd68b"
+    },
+    {
+      "id": "49be44511ba60126",
+      "t": "2026-11-19T10:06:42.065Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La campanya de tardor de plantació renova el verd urbà a tots els barris amb prop de 5.000 arbustos nous» (Ajuntament de Montcada i Reixac).",
+      "itemId": "8b05d3488fc10883"
+    },
+    {
+      "id": "0e83c850e3d6277b",
+      "t": "2026-11-19T10:06:42.066Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Operatiu de seguretat Kanpai a Badia» (Ajuntament de Badia del Vallès).",
+      "itemId": "5a80df192f4099e2"
+    },
+    {
+      "id": "fcfa4ddc66f3fd99",
+      "t": "2026-11-19T10:06:42.067Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Avís per intensitat de vent a Castellar i la comarca» (L'Actual - Castellar del Vallès).",
+      "itemId": "14aa66d8531e9d7c"
+    },
+    {
+      "id": "b8bd7fcc46898247",
+      "t": "2026-11-19T10:06:42.068Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Horta 3-1 Sabadell 'B': el filial es posa al dia encaixant una nova derrota» (Ràdio Sabadell).",
+      "itemId": "0533aeaa634b2e66"
+    },
+    {
+      "id": "9b3e7acdfde3dade",
+      "t": "2026-11-19T10:06:42.069Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut, Esports.",
+      "itemId": "0533aeaa634b2e66"
+    },
+    {
+      "id": "a473c6c56e40b0b9",
+      "t": "2026-11-19T10:06:42.070Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Entitats de Cerdanyola impulsen la candidatura del Dr. Josep Tarrés a la Creu de Sant Jordi» (Ajuntament de Cerdanyola del Vallès).",
+      "itemId": "dcc4003b2b7b19b5"
+    },
+    {
+      "id": "a2234cbaca36b80e",
+      "t": "2026-11-19T10:06:42.071Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut, Cultura i festes.",
+      "itemId": "dcc4003b2b7b19b5"
+    },
+    {
+      "id": "d54d6aef95060309",
+      "t": "2026-11-19T10:06:42.072Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Cerdanyola renova el reconeixement com a Ciutat de la Ciència i la Innovació» (Ajuntament de Cerdanyola del Vallès).",
+      "itemId": "f2db353991bef8b6"
+    },
+    {
+      "id": "13e5c1ad37a8d741",
+      "t": "2026-11-19T10:06:42.073Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local, Economia i ocupació, Salut, Educació, Cultura i festes.",
+      "itemId": "f2db353991bef8b6"
+    },
+    {
+      "id": "55269e8da8645f7e",
+      "t": "2026-11-19T10:06:42.074Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (5 punts): font oficial · política local, economia i ocupació, salut, educació.",
+      "itemId": "f2db353991bef8b6"
     }
   ],
-  "actualizado": "2026-11-19T09:01:20.385Z"
+  "actualizado": "2026-11-19T10:06:58.897Z"
 }

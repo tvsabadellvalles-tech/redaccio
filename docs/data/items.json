@@ -134,6 +134,110 @@
       "propuesta": true
     },
     {
+      "id": "f2db353991bef8b6",
+      "titulo": "Cerdanyola renova el reconeixement com a Ciutat de la Ciència i la Innovació",
+      "enlace": "http://www.cerdanyola.cat/actualitat/cerdanyola-renova-el-reconeixement-com-ciutat-de-la-ciencia-i-la-innovacio",
+      "fuente": "ayto-cerdanyola",
+      "fuenteNombre": "Ajuntament de Cerdanyola del Vallès",
+      "tipo": "oficial",
+      "resumen": "Cerdanyola renova el reconeixement com a Ciutat de la Ciència i la Innovació Cerdanyola del Vallès ha renovat la distinció de Ciutat de la Ciència i la Innovació, un reconeixement atorgat pel Ministeri de Ciència, Innovació i Universitats…",
+      "municipio": "cerdanyola",
+      "municipiosMencionados": [
+        "cerdanyola"
+      ],
+      "publicado": "2026-11-19T10:26:26.000Z",
+      "detectado": "2026-11-19T10:06:42.065Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica",
+        "economia",
+        "salud",
+        "educacion",
+        "cultura"
+      ],
+      "puntuacion": 5,
+      "motivos": [
+        "font oficial",
+        "política local, economia i ocupació, salut, educació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "dcc4003b2b7b19b5",
+      "titulo": "Entitats de Cerdanyola impulsen la candidatura del Dr. Josep Tarrés a la Creu de Sant Jordi",
+      "enlace": "http://www.cerdanyola.cat/actualitat/entitats-de-cerdanyola-impulsen-la-candidatura-del-dr-josep-tarres-la-creu-de-sant-jordi",
+      "fuente": "ayto-cerdanyola",
+      "fuenteNombre": "Ajuntament de Cerdanyola del Vallès",
+      "tipo": "oficial",
+      "resumen": "Entitats de Cerdanyola impulsen la candidatura del Dr. Josep Tarrés a la Creu de Sant Jordi Un grup d'entitats vinculades al Grup de Treball Llegat Uralita ha impulsat la candidatura del Dr. Josep Tarrés Olivella a la Creu de Sant Jordi,…",
+      "municipio": "cerdanyola",
+      "municipiosMencionados": [
+        "cerdanyola"
+      ],
+      "publicado": "2026-11-19T10:00:25.000Z",
+      "detectado": "2026-11-19T10:06:42.065Z",
+      "sensible": false,
+      "etiquetas": [
+        "salud",
+        "cultura"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "font oficial",
+        "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "0533aeaa634b2e66",
+      "titulo": "Horta 3-1 Sabadell 'B': el filial es posa al dia encaixant una nova derrota",
+      "enlace": "https://radiosabadell.fm/esports/ce-sabadell/horta-3-1-sabadell-b-derrota-lliga-elit-3",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-19T09:33:05.000Z",
+      "detectado": "2026-11-19T10:06:42.065Z",
+      "sensible": false,
+      "etiquetas": [
+        "salud",
+        "deportes"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "14aa66d8531e9d7c",
+      "titulo": "Avís per intensitat de vent a Castellar i la comarca",
+      "enlace": "https://www.lactual.cat/actualitat/avis-intensitat-vent-castellar-comarca_55403_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [
+        "castellar"
+      ],
+      "publicado": "2026-11-19T09:24:24.000Z",
+      "detectado": "2026-11-19T10:06:42.065Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "a6558118578d939c",
       "titulo": "Santa Perpètua marxarà en silenci contra les violències masclistes",
       "enlace": "https://www.staperpetua.cat/actualitat/noticies/santa-perpetua-marxara-en-silenci-contra-les-violencies-masclistes.html",
@@ -364,7 +468,49 @@
       ],
       "duplicadaDe": null,
       "propuesta": true
+    },
+    {
+      "id": "8b05d3488fc10883",
+      "titulo": "La campanya de tardor de plantació renova el verd urbà a tots els barris amb prop de 5.000 arbustos nous",
+      "enlace": "https://www.montcada.cat/actualitat/noticies/la-campanya-de-tardor-de-plantacio-renova-el-verd-urba-a-tots-els-barris-amb-prop-de-5000-arbustos-nous.html",
+      "fuente": "ayto-montcada",
+      "fuenteNombre": "Ajuntament de Montcada i Reixac",
+      "tipo": "oficial",
+      "resumen": "",
+      "municipio": "montcada",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-18T23:00:00.000Z",
+      "detectado": "2026-11-19T10:06:42.065Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "5a80df192f4099e2",
+      "titulo": "Operatiu de seguretat Kanpai a Badia",
+      "enlace": "http://www.badiadelvalles.cat/document.php?id=12331",
+      "fuente": "ayto-badia",
+      "fuenteNombre": "Ajuntament de Badia del Vallès",
+      "tipo": "oficial",
+      "resumen": "",
+      "municipio": "badia",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-18T23:00:00.000Z",
+      "detectado": "2026-11-19T10:06:42.065Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
     }
   ],
-  "actualizado": "2026-11-19T09:01:20.380Z"
+  "actualizado": "2026-11-19T10:06:58.893Z"
 }

@@ -2,18 +2,18 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-19T09:01:03.308Z",
+  "consultat": "2026-11-19T10:06:42.065Z",
   "total": 21,
   "activitats": [
     {
-      "titol": "BERTA NO VE",
+      "titol": "Ferran metge (9.30)",
       "inici": "2026-11-19T00:00:00.000Z",
       "final": "2026-11-20T00:00:00.000Z",
       "totElDia": true,
       "color": null
     },
     {
-      "titol": "Ferran metge (9.30)",
+      "titol": "BERTA NO VE",
       "inici": "2026-11-19T00:00:00.000Z",
       "final": "2026-11-20T00:00:00.000Z",
       "totElDia": true,
@@ -48,16 +48,16 @@
       "color": null
     },
     {
-      "titol": "L'Informatiu",
+      "titol": "Ent. info Omnium",
       "inici": "2026-11-19T15:15:00.000Z",
-      "final": "2026-11-19T16:15:00.000Z",
+      "final": "2026-11-19T15:45:00.000Z",
       "totElDia": false,
       "color": null
     },
     {
-      "titol": "Ent. info Omnium",
+      "titol": "L'Informatiu",
       "inici": "2026-11-19T15:15:00.000Z",
-      "final": "2026-11-19T15:45:00.000Z",
+      "final": "2026-11-19T16:15:00.000Z",
       "totElDia": false,
       "color": null
     },
@@ -154,5 +154,5 @@
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-19T09:01:41.827Z"
+  "actualizado": "2026-11-19T10:07:18.352Z"
 }
