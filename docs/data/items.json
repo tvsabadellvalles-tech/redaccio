@@ -104,6 +104,27 @@
   },
   "items": [
     {
+      "id": "5f810c5cb7e9cc35",
+      "titulo": "Infopodcast 20.11.2026",
+      "enlace": "https://radiosabadell.fm/alacarta/audio/infopodcast-20112026",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-19T23:54:13.000Z",
+      "detectado": "2026-11-19T23:58:12.709Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "a89cd90359306488",
       "titulo": "La renovació del DNI a Santa Perpètua es podrà fer en una única cita",
       "enlace": "https://www.staperpetua.cat/actualitat/noticies/la-renovacio-del-dni-a-santa-perpetua-es-podra-fer-en-una-unica-cita.html",
@@ -131,5 +152,5 @@
       "propuesta": true
     }
   ],
-  "actualizado": "2026-11-19T23:13:55.227Z"
+  "actualizado": "2026-11-19T23:58:36.533Z"
 }

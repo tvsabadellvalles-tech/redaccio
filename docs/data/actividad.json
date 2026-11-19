@@ -1,13 +1,6 @@
 {
   "eventos": [
     {
-      "id": "98ffa5c6d55d3fac",
-      "t": "2026-11-16T14:50:53.658Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): font oficial · política local, obres i urbanisme.",
-      "itemId": "60165d5598d196b1"
-    },
-    {
       "id": "5e819f4a651b352a",
       "t": "2026-11-16T14:50:53.659Z",
       "agente": "rastreador",
@@ -2799,7 +2792,14 @@
       "agente": "mesa",
       "texto": "Proposo incloure-ho a l'escaleta (4 punts): font oficial · successos, educació.",
       "itemId": "a89cd90359306488"
+    },
+    {
+      "id": "f059e48a4c4ea8bb",
+      "t": "2026-11-19T23:58:12.709Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Infopodcast 20.11.2026» (Ràdio Sabadell).",
+      "itemId": "5f810c5cb7e9cc35"
     }
   ],
-  "actualizado": "2026-11-19T23:13:55.232Z"
+  "actualizado": "2026-11-19T23:58:36.537Z"
 }
