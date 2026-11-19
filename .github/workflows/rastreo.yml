@@ -118,7 +118,7 @@ jobs:
           node --input-type=module <<'NODE'
           import { writeFile } from 'node:fs/promises';
           const apiKey = process.env.GOOGLE_CALENDAR_BROWSER_API_KEY?.trim() || '';
-          await writeFile('docs/calendar-client.json', JSON.stringify({ apiKey }, null, 2) + '\\n', 'utf8');
+          await writeFile('docs/calendar-client.json', JSON.stringify({ apiKey }, null, 2) + '\n', 'utf8');
           console.log(apiKey ? 'Configuració pública del calendari preparada.' : 'Calendari en directe pendent de GOOGLE_CALENDAR_BROWSER_API_KEY.');
           NODE
 

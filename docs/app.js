@@ -754,6 +754,7 @@ async function comprovarNovaVersio() {
 const INTERVALO_CALENDARI_EN_VIU_MS = 20000;
 const GOOGLE_CALENDAR_ID = 'tvsabadellvalles@gmail.com';
 let calendariEnViuActiu = false;
+let calendariEnViuHaActualitzat = false;
 let calendariEnViuEnCurs = false;
 let clauCalendariEnViu = '';
 let colorsCalendariEnViu = {};
@@ -787,7 +788,6 @@ async function consultarGoogleCalendarJson(url) {
       Accept: 'application/json',
       'X-Goog-Api-Key': clauCalendariEnViu
     },
-    signal: AbortSignal.timeout(15000)
   });
   const cos = await resposta.json().catch(() => null);
   if (!resposta.ok) {
@@ -818,6 +818,7 @@ async function consultarCalendariEnViu() {
   const fiDia = dataHoraLocalCalendari(sumarDiesCalendari(avui, 2));
   const base = 'https://www.googleapis.com/calendar/v3/calendars/'
     + encodeURIComponent(GOOGLE_CALENDAR_ID) + '/events';
+  const colors = await obtenirColorsCalendari();
   const activitats = [];
   let tokenPagina = '';
 
@@ -849,7 +850,7 @@ async function consultarCalendariEnViu() {
       if (!Number.isFinite(inici.getTime()) || !Number.isFinite(final.getTime())
         || inici >= fiDia || final <= iniciDia) continue;
 
-      const color = colorsCalendariEnViu[esdeveniment.colorId]?.background;
+      const color = colors[esdeveniment.colorId]?.background;
       activitats.push({
         titol: String(esdeveniment.summary).trim(),
         inici: inici.toISOString(),
@@ -861,11 +862,6 @@ async function consultarCalendariEnViu() {
     tokenPagina = resposta.nextPageToken || '';
   } while (tokenPagina);
 
-  await obtenirColorsCalendari();
-  for (const activitat of activitats) {
-    // Aplica la paleta recuperada després de consultar els esdeveniments.
-    // Els esdeveniments sense color propi conserven el color neutre.
-  }
   return {
     estat: 'ok',
     origen: 'google-api-directe',
@@ -887,7 +883,8 @@ async function refrescarCalendariEnViu() {
     if (Object.keys(colorsCalendariEnViu).length) {
       // La següent lectura ja reflectirà qualsevol canvi de color.
     }
-    if (!calendariEnViuActiu) pintarAgenda(calendari);
+    pintarAgenda(calendari);
+    calendariEnViuHaActualitzat = true;
   } catch (error) {
     // Manté l’última agenda coneguda; el sondeig següent tornarà a provar-ho.
     console.warn('No s’ha pogut actualitzar el calendari en directe.', error);
@@ -922,7 +919,7 @@ async function carregar() {
     jsonOpcional(`${carpetaDatos}/calendari.json`)
   ]);
   pintarServeis(serveis);
-  pintarAgenda(calendari);
+  if (!calendariEnViuHaActualitzat) pintarAgenda(calendari);
   pintarFrescorNoticies(estat);
   pintarAvisos(estat || { fuentes: {} });
   if (!serveis) pintarPrevisio(null);
