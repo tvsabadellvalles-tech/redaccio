@@ -104,6 +104,51 @@
   },
   "items": [
     {
+      "id": "a607b3f4808afdc7",
+      "titulo": "Els Mossos, a la cerca de coure robat a la xarxa de Rodalies",
+      "enlace": "https://www.diaridesabadell.com/sabadell/mossos-coure-robat-rodalies.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-19T17:15:15.000Z",
+      "detectado": "2026-11-19T17:19:59.247Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad",
+        "sucesos"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "mobilitat, successos"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "b28cad7affdededf",
+      "titulo": "El Consell d'Infants torna a les ones",
+      "enlace": "https://www.lactual.cat/actualitat/consell-infants-torna-ones_55414_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-19T16:52:55.000Z",
+      "detectado": "2026-11-19T17:19:59.247Z",
+      "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "06b5fe52045db669",
       "titulo": "La Penya La Plana celebrarà diumenge el seu 15è aniversari",
       "enlace": "https://radiosabadell.fm/esports/ce-sabadell/15-aniversari-penya-arlequinada-la-plana-",
@@ -1281,5 +1326,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-19T16:37:25.412Z"
+  "actualizado": "2026-11-19T17:20:16.242Z"
 }

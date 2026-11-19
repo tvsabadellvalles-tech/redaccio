@@ -1,41 +1,6 @@
 {
   "eventos": [
     {
-      "id": "32931171f0a4b8ef",
-      "t": "2026-11-16T11:56:07.453Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "f77401f55e9caadb"
-    },
-    {
-      "id": "180b744e98c38d4b",
-      "t": "2026-11-16T11:56:07.454Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Un cotxe bolca al mig de la via després de xocar contra un turisme estacionat» (Ràdio Sabadell).",
-      "itemId": "0a9547851f06fd9a"
-    },
-    {
-      "id": "58c7b52029d280cd",
-      "t": "2026-11-16T11:56:07.455Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Emergències, Successos.",
-      "itemId": "0a9547851f06fd9a"
-    },
-    {
-      "id": "3dab39538e4ab59d",
-      "t": "2026-11-16T11:56:07.456Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): emergències, successos.",
-      "itemId": "0a9547851f06fd9a"
-    },
-    {
-      "id": "32714ad089e02285",
-      "t": "2026-11-16T11:56:07.458Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Altaió (CCQC): \"Ens costa entendre que Illa firmi tan tranquil·lament que les obres podrien executar-se al 2028\"» (Ràdio Sabadell).",
-      "itemId": "e90e7e10fa874e26"
-    },
-    {
       "id": "88cc20d55fc6b812",
       "t": "2026-11-16T11:56:07.459Z",
       "agente": "etiquetador",
@@ -2799,7 +2764,42 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Esports.",
       "itemId": "06b5fe52045db669"
+    },
+    {
+      "id": "f56b5c5f9832092d",
+      "t": "2026-11-19T17:19:59.247Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El Consell d'Infants torna a les ones» (L'Actual - Castellar del Vallès).",
+      "itemId": "b28cad7affdededf"
+    },
+    {
+      "id": "39d4759028cd7ff9",
+      "t": "2026-11-19T17:19:59.248Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "b28cad7affdededf"
+    },
+    {
+      "id": "5f4ae4091f1a27b1",
+      "t": "2026-11-19T17:19:59.249Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Els Mossos, a la cerca de coure robat a la xarxa de Rodalies» (Diari de Sabadell).",
+      "itemId": "a607b3f4808afdc7"
+    },
+    {
+      "id": "ab2fe423a8a44734",
+      "t": "2026-11-19T17:19:59.250Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat, Successos.",
+      "itemId": "a607b3f4808afdc7"
+    },
+    {
+      "id": "155ba287510a0075",
+      "t": "2026-11-19T17:19:59.251Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): mobilitat, successos.",
+      "itemId": "a607b3f4808afdc7"
     }
   ],
-  "actualizado": "2026-11-19T16:37:25.420Z"
+  "actualizado": "2026-11-19T17:20:16.247Z"
 }
