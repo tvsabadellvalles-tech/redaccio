@@ -2,18 +2,18 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-19T01:25:41.840Z",
+  "consultat": "2026-11-19T02:29:25.431Z",
   "total": 20,
   "activitats": [
     {
-      "titol": "BERTA NO VE",
+      "titol": "Ferran metge (9.30)",
       "inici": "2026-11-19T00:00:00.000Z",
       "final": "2026-11-20T00:00:00.000Z",
       "totElDia": true,
       "color": null
     },
     {
-      "titol": "Ferran metge (9.30)",
+      "titol": "BERTA NO VE",
       "inici": "2026-11-19T00:00:00.000Z",
       "final": "2026-11-20T00:00:00.000Z",
       "totElDia": true,
@@ -147,5 +147,5 @@
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-19T01:26:21.766Z"
+  "actualizado": "2026-11-19T02:30:00.823Z"
 }
