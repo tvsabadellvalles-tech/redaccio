@@ -104,6 +104,120 @@
   },
   "items": [
     {
+      "id": "714d0e21c54dd655",
+      "titulo": "Els detalls de les obres del camp del Can Rull RT: data d'inici, durada, inversió i què s'hi fa",
+      "enlace": "https://radiosabadell.fm/esports/futbol/detalls-obres-camp-del-can-rull",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-20T13:55:04.000Z",
+      "detectado": "2026-11-20T14:31:10.229Z",
+      "sensible": false,
+      "etiquetas": [
+        "urbanismo",
+        "deportes"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "4614ea049dd2ceee",
+      "titulo": "Abascal anuncia denúncies pels incidents contra Vox a Sabadell",
+      "enlace": "https://www.isabadell.cat/politica/eleccions-generals-2026/abascal-anuncia-denuncies-pels-incidents-contra-vox-a-sabadell-341274/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-20T13:53:12.000Z",
+      "detectado": "2026-11-20T14:31:10.229Z",
+      "sensible": false,
+      "etiquetas": [
+        "sucesos",
+        "deportes"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "successos"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "d85ca2c513fe5739",
+      "titulo": "L’esperit 'vuitanter' de Roxette aterra al Maloa Club",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/esperit-roxette-sabadell",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-20T13:28:20.000Z",
+      "detectado": "2026-11-20T14:31:10.229Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes",
+        "cultura"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "8ca73012ac921b15",
+      "titulo": "La ressaca del cara a cara entre Sánchez i Feijóo pel 29-N",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-migdia-cara-cara-29n-201126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-20T13:27:28.000Z",
+      "detectado": "2026-11-20T14:31:10.229Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "229ebc35e8a64d79",
+      "titulo": "La prèvia del Sabadell-Granada: duel de ratxes",
+      "enlace": "https://radiosabadell.fm/podcast/hotel-suis-201126-Sabadell-Granada",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-20T13:23:48.000Z",
+      "detectado": "2026-11-20T14:31:10.229Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "6c14d9d624f4df99",
       "titulo": "PRESSUPOSTOS 27 - Ajuntament de Sabadell",
       "enlace": "https://radiosabadell.fm/pressupostos-27-ajuntament-de-sabadell",
@@ -1468,5 +1582,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-20T13:30:58.372Z"
+  "actualizado": "2026-11-20T14:31:30.322Z"
 }

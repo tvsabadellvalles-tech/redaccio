@@ -1,62 +1,6 @@
 {
   "eventos": [
     {
-      "id": "3c6386fc7c97075d",
-      "t": "2026-11-17T11:40:06.465Z",
-      "agente": "rastreador",
-      "texto": "He recollit «‘La Sireneta’ s’acomiada després de 14.000 espectadors en tres temporades» (iSabadell).",
-      "itemId": "01833dd99a5dc8a8"
-    },
-    {
-      "id": "b1e019cb7d206a03",
-      "t": "2026-11-17T11:40:06.466Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Economia i ocupació.",
-      "itemId": "01833dd99a5dc8a8"
-    },
-    {
-      "id": "27e2c799bf1d8db6",
-      "t": "2026-11-17T12:24:29.126Z",
-      "agente": "rastreador",
-      "texto": "He recollit «L'I3PT estudiarà les aigües residuals hospitalàries i la sèpsia amb dos nous doctorats industrials» (Diari de Sabadell).",
-      "itemId": "f0b717fb2b2076a5"
-    },
-    {
-      "id": "01288f195d9cabe0",
-      "t": "2026-11-17T12:24:29.127Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Mar Pastor: \"És un 'thriller' dur, però ple de sentiments i emocions\"» (Diari de Sabadell).",
-      "itemId": "cdd7dd1445874282"
-    },
-    {
-      "id": "5b453e977bcef6f0",
-      "t": "2026-11-17T12:24:29.128Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local.",
-      "itemId": "cdd7dd1445874282"
-    },
-    {
-      "id": "e927bbf65fa4d0a9",
-      "t": "2026-11-17T12:24:29.129Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Novetats en la tradicional Exposició de Pessebres de Sabadell» (Ràdio Sabadell).",
-      "itemId": "c9a97ee3f9088cc8"
-    },
-    {
-      "id": "b8d3e9ea1a871004",
-      "t": "2026-11-17T12:24:29.130Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Cultura i festes.",
-      "itemId": "c9a97ee3f9088cc8"
-    },
-    {
-      "id": "339e9d58a891058b",
-      "t": "2026-11-17T12:56:41.858Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Inscriu-te al taller d'alimentaci� saludable i cuina en fam�lia!» (Ajuntament de Badia del Vallès).",
-      "itemId": "afb516191e8efce4"
-    },
-    {
       "id": "8d27333b2c2a87fd",
       "t": "2026-11-17T12:56:41.859Z",
       "agente": "rastreador",
@@ -2799,7 +2743,63 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Política local, Esports.",
       "itemId": "6c14d9d624f4df99"
+    },
+    {
+      "id": "cd7b0528bdf1c5cc",
+      "t": "2026-11-20T14:31:10.229Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La prèvia del Sabadell-Granada: duel de ratxes» (Ràdio Sabadell).",
+      "itemId": "229ebc35e8a64d79"
+    },
+    {
+      "id": "e689d70b925d3d72",
+      "t": "2026-11-20T14:31:10.230Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La ressaca del cara a cara entre Sánchez i Feijóo pel 29-N» (Ràdio Sabadell).",
+      "itemId": "8ca73012ac921b15"
+    },
+    {
+      "id": "2cff62a5e7249bce",
+      "t": "2026-11-20T14:31:10.231Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L’esperit 'vuitanter' de Roxette aterra al Maloa Club» (Ràdio Sabadell).",
+      "itemId": "d85ca2c513fe5739"
+    },
+    {
+      "id": "20696f84d9ce3329",
+      "t": "2026-11-20T14:31:10.232Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports, Cultura i festes.",
+      "itemId": "d85ca2c513fe5739"
+    },
+    {
+      "id": "f436cd22fdd544d1",
+      "t": "2026-11-20T14:31:10.233Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Abascal anuncia denúncies pels incidents contra Vox a Sabadell» (iSabadell).",
+      "itemId": "4614ea049dd2ceee"
+    },
+    {
+      "id": "db35e9a4ff63e4d1",
+      "t": "2026-11-20T14:31:10.234Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Successos, Esports.",
+      "itemId": "4614ea049dd2ceee"
+    },
+    {
+      "id": "9debd62104e43b38",
+      "t": "2026-11-20T14:31:10.235Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Els detalls de les obres del camp del Can Rull RT: data d'inici, durada, inversió i què s'hi fa» (Ràdio Sabadell).",
+      "itemId": "714d0e21c54dd655"
+    },
+    {
+      "id": "455057d0ae28e99f",
+      "t": "2026-11-20T14:31:10.236Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Obres i urbanisme, Esports.",
+      "itemId": "714d0e21c54dd655"
     }
   ],
-  "actualizado": "2026-11-20T13:30:58.376Z"
+  "actualizado": "2026-11-20T14:31:30.325Z"
 }
