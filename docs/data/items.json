@@ -104,6 +104,175 @@
   },
   "items": [
     {
+      "id": "6c14d9d624f4df99",
+      "titulo": "PRESSUPOSTOS 27 - Ajuntament de Sabadell",
+      "enlace": "https://radiosabadell.fm/pressupostos-27-ajuntament-de-sabadell",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-20T13:11:26.000Z",
+      "detectado": "2026-11-20T13:30:42.967Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica",
+        "deportes"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "35576e5be99ade6d",
+      "titulo": "12 propostes per gaudir d’un farcit cap de setmana en família",
+      "enlace": "https://www.isabadell.cat/oci/12-propostes-cap-de-setmana-341156/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-20T13:05:45.000Z",
+      "detectado": "2026-11-20T13:30:42.967Z",
+      "sensible": true,
+      "etiquetas": [
+        "salud"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "7116468360954a2d",
+      "titulo": "La febre pel GTA VI arriba a Sabadell: \"Volien fer campana tant dijous com divendres per jugar-hi\"",
+      "enlace": "https://www.diaridesabadell.com/sabadell/gta-vi-sabadell-joc-play.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-20T12:41:00.000Z",
+      "detectado": "2026-11-20T13:30:42.967Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "0266e0c1274c80da",
+      "titulo": "Gabriel Fernàndez proposa commemorar els 25 anys del Centre d’Atenció a la Dona",
+      "enlace": "https://radiosabadell.fm/actualitat/politica/fernandez-commemorar-25-anys-centre-atencio-dona",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-20T12:31:50.000Z",
+      "detectado": "2026-11-20T13:30:42.967Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "0b3419dcacb62545",
+      "titulo": "La remodelació de la Zona Esportiva Municipal de Can Rull està prevista per l'any 2028",
+      "enlace": "https://www.diaridesabadell.com/esports/can-rull-romulo-tronchoni-camp-terra-gespa-millores-2028.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-20T12:05:52.000Z",
+      "detectado": "2026-11-20T13:30:42.967Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "960e3bdf5334131e",
+      "titulo": "Les Milles de Cerdanyola celebren la seva 38a edició",
+      "enlace": "http://www.cerdanyola.cat/actualitat/les-milles-de-cerdanyola-celebren-la-seva-38a-edicio",
+      "fuente": "ayto-cerdanyola",
+      "fuenteNombre": "Ajuntament de Cerdanyola del Vallès",
+      "tipo": "oficial",
+      "resumen": "Les Milles de Cerdanyola celebren la seva 38a edició Cerdanyola celebrarà demà, dissabte 21 de novembre, la 38a edició de les Milles de Cerdanyola, una cursa atlètica plenament consolidada en el calendari esportiu de la ciutat. La prova…",
+      "municipio": "cerdanyola",
+      "municipiosMencionados": [
+        "cerdanyola",
+        "sant-cugat"
+      ],
+      "publicado": "2026-11-20T12:00:09.000Z",
+      "detectado": "2026-11-20T08:04:37.921Z",
+      "sensible": true,
+      "etiquetas": [
+        "movilidad",
+        "deportes"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "font oficial",
+        "mobilitat"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "760fba0faa1c6529",
+      "titulo": "Acció per Sabadell vol fer balanç de 25 anys d’atenció a les dones",
+      "enlace": "https://www.isabadell.cat/politica/accio-per-sabadell-vol-fer-balanc-de-25-anys-datencio-a-les-dones-341270/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-20T12:00:00.000Z",
+      "detectado": "2026-11-20T13:30:42.967Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "374671a4d0e8e8c7",
       "titulo": "FOTOS | Missió a Sabadell: recuperar els drets abans que l'ERROR 404 s'apoderi de la ciutat",
       "enlace": "https://www.diaridesabadell.com/sabadell/missio-sabadell-error404-sabadell-sindic-scape-room.html",
@@ -117,6 +286,27 @@
       ],
       "publicado": "2026-11-20T11:45:46.000Z",
       "detectado": "2026-11-20T11:51:23.704Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "09c05bc8167071d7",
+      "titulo": "Ernesto Pascual, politòleg: “Aquestes eleccions marcaran la manera d’entendre la comunicació política”",
+      "enlace": "https://radiosabadell.fm/actualitat/politica/comunicacio-29N-analisi-debat",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-20T11:41:08.000Z",
+      "detectado": "2026-11-20T13:30:42.967Z",
       "sensible": false,
       "etiquetas": [],
       "puntuacion": 0,
@@ -148,27 +338,34 @@
       "propuesta": false
     },
     {
-      "id": "6c3b5b0dd82fcf0c",
-      "titulo": "L’Ajuntament fa una crida a la ciutadania i les entitats per participar a la Cavalcada de Reis 2027",
-      "enlace": "http://www.cerdanyola.cat/actualitat/lajuntament-fa-una-crida-la-ciutadania-i-les-entitats-participar-la-cavalcada-de-reis",
+      "id": "79c10c3bd77cd68b",
+      "titulo": "Torna l'Empíric Festival per connectar ciència, salut i societat",
+      "enlace": "http://www.cerdanyola.cat/actualitat/torna-lempiric-festival-connectar-ciencia-salut-i-societat",
       "fuente": "ayto-cerdanyola",
       "fuenteNombre": "Ajuntament de Cerdanyola del Vallès",
       "tipo": "oficial",
-      "resumen": "L’Ajuntament fa una crida a la ciutadania i les entitats per participar a la Cavalcada de Reis 2027 La Cavalcada de Reis és una de les celebracions més esperades i participatives de Cerdanyola. Per començar a preparar una nova nit màgica,…",
+      "resumen": "Torna l'Empíric Festival per connectar ciència, salut i societat L’Empíric, el Festival de Literatura i Ciència de Cerdanyola del Vallès, torna amb una tercera edició que convida a explorar els vincles entre ciència, salut i societat. Del…",
       "municipio": "cerdanyola",
       "municipiosMencionados": [
         "cerdanyola"
       ],
-      "publicado": "2026-11-20T11:30:36.000Z",
-      "detectado": "2026-11-20T11:51:23.704Z",
+      "publicado": "2026-11-20T11:30:49.000Z",
+      "detectado": "2026-11-20T13:30:42.967Z",
       "sensible": true,
-      "etiquetas": [],
-      "puntuacion": 1,
+      "etiquetas": [
+        "emergencias",
+        "salud",
+        "educacion",
+        "deportes",
+        "cultura"
+      ],
+      "puntuacion": 5,
       "motivos": [
-        "font oficial"
+        "font oficial",
+        "emergències, salut, educació"
       ],
       "duplicadaDe": null,
-      "propuesta": false
+      "propuesta": true
     },
     {
       "id": "087bf26970a75aff",
@@ -361,6 +558,29 @@
       "propuesta": false
     },
     {
+      "id": "6241d6d25514054a",
+      "titulo": "Els infants i joves de Santa Perpètua alcen la veu contra el racisme en l'especial de L'Informatiu",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/els-infants-i-joves-de-santa-perpetua-alcen-la-veu-contra-el-racisme-en-lespecial-de-linformatiu.html",
+      "fuente": "ayto-santa-perpetua",
+      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
+      "tipo": "oficial",
+      "resumen": "L'Informatiu 782 de 20 de novembre inclou l’onzena edició Infància i Adolescència amb motiu del Dia Mundial dels Drets de la Infància, que es commemora justament avui.",
+      "municipio": "santa-perpetua",
+      "municipiosMencionados": [
+        "santa-perpetua"
+      ],
+      "publicado": "2026-11-20T11:00:00.000Z",
+      "detectado": "2026-11-20T13:30:42.967Z",
+      "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "e667c76b45a1c29b",
       "titulo": "Irene Cordón, egiptòloga: \"El cristianisme copia molt dels mites egipcis\"",
       "enlace": "https://radiosabadell.fm/podcast/noticies-mati-deus-nil-irene-cordon-201126",
@@ -399,6 +619,29 @@
       "motivos": [
         "mobilitat"
       ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "128c6758ef670b8e",
+      "titulo": "L'OAR Gràcia masculí cau a Sant Joan Despí (30-28) i continua sense puntuar a fora",
+      "enlace": "https://radiosabadell.fm/esports/handbol/nova-desfeta-oar-gracia-masculi",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-20T10:39:20.000Z",
+      "detectado": "2026-11-20T13:30:42.967Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
       "duplicadaDe": null,
       "propuesta": false
     },
@@ -629,6 +872,27 @@
       "propuesta": false
     },
     {
+      "id": "a27d345268222fd6",
+      "titulo": "Teoria King Kong, el dissabte 21 de novembre, a la Sala Telers",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/teoria-king-kong-el-dissabte-21-de-novembre-a-la-sala-telers.html",
+      "fuente": "ayto-santa-perpetua",
+      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
+      "tipo": "oficial",
+      "resumen": "Forma part de la programació d'Efímera i de les activitats amb motiu del Dia Internacional de lluita per a l'eliminació de les violències masclistes.",
+      "municipio": "santa-perpetua",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-20T10:00:00.000Z",
+      "detectado": "2026-11-20T13:30:42.967Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": "e35e16746c7eae43",
+      "propuesta": false
+    },
+    {
       "id": "60577273b5ef9cbe",
       "titulo": "Programa 595 21/11/26",
       "enlace": "https://radiosabadell.fm/alacarta/audio/programa-595-211126",
@@ -722,6 +986,29 @@
       ],
       "duplicadaDe": null,
       "propuesta": true
+    },
+    {
+      "id": "6c3b5b0dd82fcf0c",
+      "titulo": "L’Ajuntament fa una crida a la ciutadania i les entitats per participar a la Cavalcada de Reis 2027",
+      "enlace": "http://www.cerdanyola.cat/actualitat/lajuntament-fa-una-crida-la-ciutadania-i-les-entitats-participar-la-cavalcada-de-reis",
+      "fuente": "ayto-cerdanyola",
+      "fuenteNombre": "Ajuntament de Cerdanyola del Vallès",
+      "tipo": "oficial",
+      "resumen": "L’Ajuntament fa una crida a la ciutadania i les entitats per participar a la Cavalcada de Reis 2027 La Cavalcada de Reis és una de les celebracions més esperades i participatives de Cerdanyola. Per començar a preparar una nova nit màgica,…",
+      "municipio": "cerdanyola",
+      "municipiosMencionados": [
+        "cerdanyola"
+      ],
+      "publicado": "2026-11-20T09:15:36.000Z",
+      "detectado": "2026-11-20T11:51:23.704Z",
+      "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
     },
     {
       "id": "826c18f293b04c16",
@@ -860,34 +1147,6 @@
       "motivos": [
         "font oficial",
         "mobilitat, successos, política local"
-      ],
-      "duplicadaDe": null,
-      "propuesta": true
-    },
-    {
-      "id": "960e3bdf5334131e",
-      "titulo": "Les Milles de Cerdanyola celebren la seva 38a edició",
-      "enlace": "http://www.cerdanyola.cat/actualitat/les-milles-de-cerdanyola-celebren-la-seva-38a-edicio",
-      "fuente": "ayto-cerdanyola",
-      "fuenteNombre": "Ajuntament de Cerdanyola del Vallès",
-      "tipo": "oficial",
-      "resumen": "Les Milles de Cerdanyola celebren la seva 38a edició Cerdanyola celebrarà demà, dissabte 21 de novembre, la 38a edició de les Milles de Cerdanyola, una cursa atlètica plenament consolidada en el calendari esportiu de la ciutat. La prova…",
-      "municipio": "cerdanyola",
-      "municipiosMencionados": [
-        "cerdanyola",
-        "sant-cugat"
-      ],
-      "publicado": "2026-11-20T08:00:09.000Z",
-      "detectado": "2026-11-20T08:04:37.921Z",
-      "sensible": true,
-      "etiquetas": [
-        "movilidad",
-        "deportes"
-      ],
-      "puntuacion": 3,
-      "motivos": [
-        "font oficial",
-        "mobilitat"
       ],
       "duplicadaDe": null,
       "propuesta": true
@@ -1180,7 +1439,34 @@
       ],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "699071c2cac00341",
+      "titulo": "El Pavelló Tèxtil Besòs culmina les obres de reforma per millorar-ne la funcionalitat i l’adequació esportiva",
+      "enlace": "https://www.sentmenat.cat/actualitat/noticies/el-pavello-textil-besos-culmina-les-obres-de-reforma-per-millorar-ne-la-funcionalitat-i-ladequacio-esportiva.html",
+      "fuente": "ayto-sentmenat",
+      "fuenteNombre": "Ajuntament de Sentmenat",
+      "tipo": "oficial",
+      "resumen": "L’Ajuntament de Sentmenat ha recepcionat, el passat 17 de novembre, les obres de reforma del Pavelló Tèxtil Besòs, una actuació iniciada durant el mes de juliol que ha permès millorar les condicions d’ús de l’equipament, incrementar-ne la…",
+      "municipio": "sentmenat",
+      "municipiosMencionados": [
+        "sentmenat"
+      ],
+      "publicado": "2026-11-19T23:00:00.000Z",
+      "detectado": "2026-11-20T13:30:42.967Z",
+      "sensible": false,
+      "etiquetas": [
+        "urbanismo",
+        "deportes"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "font oficial",
+        "obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
     }
   ],
-  "actualizado": "2026-11-20T11:57:19.019Z"
+  "actualizado": "2026-11-20T13:30:58.372Z"
 }

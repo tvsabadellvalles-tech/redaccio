@@ -1,153 +1,6 @@
 {
   "eventos": [
     {
-      "id": "d4b5a50740ab38c7",
-      "t": "2026-11-17T11:05:34.810Z",
-      "agente": "rastreador",
-      "texto": "He recollit «L’Ajuntament abandona TikTok en rebuig a la difusió de continguts d’abús sexual infantil a la plataforma» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "98138611b67b30a8"
-    },
-    {
-      "id": "f67e4ded7d477cd2",
-      "t": "2026-11-17T11:05:34.811Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "98138611b67b30a8"
-    },
-    {
-      "id": "9462cb4136f118b3",
-      "t": "2026-11-17T11:05:34.812Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Yolanda Campos, infermera: \"Les famílies senten que els donem la mà i no els deixem\"» (Ràdio Sabadell).",
-      "itemId": "3dab403d9e187331"
-    },
-    {
-      "id": "b7d9d901efe6d393",
-      "t": "2026-11-17T11:05:34.813Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Salut.",
-      "itemId": "3dab403d9e187331"
-    },
-    {
-      "id": "cd2b74e48c8b3d58",
-      "t": "2026-11-17T11:05:34.814Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Astralpool CN Sabadell-Jadran Herceg Novi: un dels partits més importants dels últims anys» (Ràdio Sabadell).",
-      "itemId": "e489ccd0536fb239"
-    },
-    {
-      "id": "a406de9db5b5fd5b",
-      "t": "2026-11-17T11:05:34.815Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Salut, Esports.",
-      "itemId": "e489ccd0536fb239"
-    },
-    {
-      "id": "efd8140383880ba1",
-      "t": "2026-11-17T11:05:34.816Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Detingut un home per cremar una desena de contenidors i diversos vehicles a Sabadell de matinada» (Diari de Sabadell).",
-      "itemId": "6d99cdb24bad06a8"
-    },
-    {
-      "id": "f6ce4b13569a4ec1",
-      "t": "2026-11-17T11:05:34.817Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Emergències, Successos.",
-      "itemId": "6d99cdb24bad06a8"
-    },
-    {
-      "id": "593779bedf02de10",
-      "t": "2026-11-17T11:05:34.818Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "6d99cdb24bad06a8"
-    },
-    {
-      "id": "ca17a782d4f9eb5f",
-      "t": "2026-11-17T11:05:34.819Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): emergències, successos.",
-      "itemId": "6d99cdb24bad06a8"
-    },
-    {
-      "id": "0e1a930739751394",
-      "t": "2026-11-17T11:05:34.820Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Conxita Tarruell, escriptora: \"Als Balcans hem descobert països que estan renaixent\"» (Ràdio Sabadell).",
-      "itemId": "53977a5e630d91e9"
-    },
-    {
-      "id": "a24e65801248576b",
-      "t": "2026-11-17T11:05:34.821Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Joan Morera, director Conservatori: \"El concert de Santa Cecília és el primer del curs\"» (Ràdio Sabadell).",
-      "itemId": "e01a45fc89992fb5"
-    },
-    {
-      "id": "9ba3f14dfe9be076",
-      "t": "2026-11-17T11:05:34.822Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Cultura i festes.",
-      "itemId": "e01a45fc89992fb5"
-    },
-    {
-      "id": "5ab12348968e0e0b",
-      "t": "2026-11-17T11:40:06.457Z",
-      "agente": "rastreador",
-      "texto": "He recollit «L’Ajuntament commemora el Dia Internacional de les Persones amb Discapacitat 2026 amb activitats inclusives i de sensibilització» (Ajuntament de Montcada i Reixac).",
-      "itemId": "a22db234807121c7"
-    },
-    {
-      "id": "d9a78cf4c19129fb",
-      "t": "2026-11-17T11:40:06.458Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Detingut per l’incendi de diversos contenidors a Can Puiggener» (iSabadell).",
-      "itemId": "0d0a9059f4abca7f"
-    },
-    {
-      "id": "b778135b0cd1f6d4",
-      "t": "2026-11-17T11:40:06.459Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Emergències, Successos.",
-      "itemId": "0d0a9059f4abca7f"
-    },
-    {
-      "id": "b3fdde3f2380b49d",
-      "t": "2026-11-17T11:40:06.460Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "0d0a9059f4abca7f"
-    },
-    {
-      "id": "a99d1d2e1ad89cc3",
-      "t": "2026-11-17T11:40:06.461Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): emergències, successos.",
-      "itemId": "0d0a9059f4abca7f"
-    },
-    {
-      "id": "2a5ab5cd795b895c",
-      "t": "2026-11-17T11:40:06.462Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Acte d'ERC per a les eleccions generals» (L'Actual - Castellar del Vallès).",
-      "itemId": "54e8cebc42179308"
-    },
-    {
-      "id": "18d498f39e38ef9c",
-      "t": "2026-11-17T11:40:06.463Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Descarten que l’home vist a Manresa fos el fugitiu d’Oviedo» (iSabadell).",
-      "itemId": "ad2d3abc78a2ae5f"
-    },
-    {
-      "id": "6487ceb396331099",
-      "t": "2026-11-17T11:40:06.464Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Successos.",
-      "itemId": "ad2d3abc78a2ae5f"
-    },
-    {
       "id": "3c6386fc7c97075d",
       "t": "2026-11-17T11:40:06.465Z",
       "agente": "rastreador",
@@ -2799,7 +2652,154 @@
       "agente": "vigilante",
       "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
       "itemId": "03f230c161bb04dd"
+    },
+    {
+      "id": "19e2042de7de31d9",
+      "t": "2026-11-20T13:30:42.967Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El Pavelló Tèxtil Besòs culmina les obres de reforma per millorar-ne la funcionalitat i l’adequació esportiva» (Ajuntament de Sentmenat).",
+      "itemId": "699071c2cac00341"
+    },
+    {
+      "id": "8132ec22a844d01b",
+      "t": "2026-11-20T13:30:42.968Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Obres i urbanisme, Esports.",
+      "itemId": "699071c2cac00341"
+    },
+    {
+      "id": "69b1121eff13397a",
+      "t": "2026-11-20T13:30:42.969Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Teoria King Kong, el dissabte 21 de novembre, a la Sala Telers» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "a27d345268222fd6"
+    },
+    {
+      "id": "8c1f7bc28f7bcdb6",
+      "t": "2026-11-20T13:30:42.970Z",
+      "agente": "deduplicador",
+      "texto": "Descartada perquè és duplicada: coincideix amb «Teoria King Kong, el dissabte 20 de novembre, a la Sala Telers» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "a27d345268222fd6"
+    },
+    {
+      "id": "799b017d7edbb514",
+      "t": "2026-11-20T13:30:42.971Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L'OAR Gràcia masculí cau a Sant Joan Despí (30-28) i continua sense puntuar a fora» (Ràdio Sabadell).",
+      "itemId": "128c6758ef670b8e"
+    },
+    {
+      "id": "3607e233f715b91e",
+      "t": "2026-11-20T13:30:42.972Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "128c6758ef670b8e"
+    },
+    {
+      "id": "108ce5ff785816ee",
+      "t": "2026-11-20T13:30:42.973Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Els infants i joves de Santa Perpètua alcen la veu contra el racisme en l'especial de L'Informatiu» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "6241d6d25514054a"
+    },
+    {
+      "id": "246fd274f12580a8",
+      "t": "2026-11-20T13:30:42.974Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "6241d6d25514054a"
+    },
+    {
+      "id": "1b9c165a0dcd68f2",
+      "t": "2026-11-20T13:30:42.979Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Ernesto Pascual, politòleg: “Aquestes eleccions marcaran la manera d’entendre la comunicació política”» (Ràdio Sabadell).",
+      "itemId": "09c05bc8167071d7"
+    },
+    {
+      "id": "88be07e79343052f",
+      "t": "2026-11-20T13:30:42.980Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Acció per Sabadell vol fer balanç de 25 anys d’atenció a les dones» (iSabadell).",
+      "itemId": "760fba0faa1c6529"
+    },
+    {
+      "id": "eea1fc8339a2fe4f",
+      "t": "2026-11-20T13:30:42.981Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local.",
+      "itemId": "760fba0faa1c6529"
+    },
+    {
+      "id": "3b0aaedc24a21a9b",
+      "t": "2026-11-20T13:30:42.982Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La remodelació de la Zona Esportiva Municipal de Can Rull està prevista per l'any 2028» (Diari de Sabadell).",
+      "itemId": "0b3419dcacb62545"
+    },
+    {
+      "id": "9ac35f51a1e2fe61",
+      "t": "2026-11-20T13:30:42.983Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "0b3419dcacb62545"
+    },
+    {
+      "id": "bc137be2a18d9c5b",
+      "t": "2026-11-20T13:30:42.984Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Gabriel Fernàndez proposa commemorar els 25 anys del Centre d’Atenció a la Dona» (Ràdio Sabadell).",
+      "itemId": "0266e0c1274c80da"
+    },
+    {
+      "id": "a062d19a18dda7b6",
+      "t": "2026-11-20T13:30:42.985Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local.",
+      "itemId": "0266e0c1274c80da"
+    },
+    {
+      "id": "7ec750a5c2221152",
+      "t": "2026-11-20T13:30:42.986Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La febre pel GTA VI arriba a Sabadell: \"Volien fer campana tant dijous com divendres per jugar-hi\"» (Diari de Sabadell).",
+      "itemId": "7116468360954a2d"
+    },
+    {
+      "id": "6fa0f1ff5b57f705",
+      "t": "2026-11-20T13:30:42.987Z",
+      "agente": "rastreador",
+      "texto": "He recollit «12 propostes per gaudir d’un farcit cap de setmana en família» (iSabadell).",
+      "itemId": "35576e5be99ade6d"
+    },
+    {
+      "id": "7987259cd3f20a3d",
+      "t": "2026-11-20T13:30:42.988Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut.",
+      "itemId": "35576e5be99ade6d"
+    },
+    {
+      "id": "320570b963f3381a",
+      "t": "2026-11-20T13:30:42.989Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "35576e5be99ade6d"
+    },
+    {
+      "id": "ddb6f77f5cda2204",
+      "t": "2026-11-20T13:30:42.990Z",
+      "agente": "rastreador",
+      "texto": "He recollit «PRESSUPOSTOS 27 - Ajuntament de Sabadell» (Ràdio Sabadell).",
+      "itemId": "6c14d9d624f4df99"
+    },
+    {
+      "id": "580e042d462b33d8",
+      "t": "2026-11-20T13:30:42.991Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local, Esports.",
+      "itemId": "6c14d9d624f4df99"
     }
   ],
-  "actualizado": "2026-11-20T11:57:19.022Z"
+  "actualizado": "2026-11-20T13:30:58.376Z"
 }
