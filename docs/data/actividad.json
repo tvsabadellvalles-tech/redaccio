@@ -1,27 +1,6 @@
 {
   "eventos": [
     {
-      "id": "f03b9b092ef040ed",
-      "t": "2026-11-17T14:51:08.440Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · mobilitat.",
-      "itemId": "1db8f1c00c8828cc"
-    },
-    {
-      "id": "8d8ade395d247097",
-      "t": "2026-11-17T14:51:08.441Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Marta Pontnou protagonitzarà l’acte central de les activitats al voltant del 25-N a Castellar» (Diari de Sabadell).",
-      "itemId": "af906eefed0ff357"
-    },
-    {
-      "id": "dd0a80db71052f3b",
-      "t": "2026-11-17T14:51:08.442Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Utebo-Sabadell: la tercera és la bona?» (Ràdio Sabadell).",
-      "itemId": "2158dc12958086c5"
-    },
-    {
       "id": "32e3853a70e7bffc",
       "t": "2026-11-17T14:51:08.443Z",
       "agente": "etiquetador",
@@ -2799,7 +2778,28 @@
       "agente": "rastreador",
       "texto": "He recollit «Infopòdcast Sabadell 23.11.26» (Ràdio Sabadell).",
       "itemId": "fa058b2e2823f6c1"
+    },
+    {
+      "id": "8c3de5c5d19e7037",
+      "t": "2026-11-20T18:29:26.647Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El CE Sabadell busca un triomf balsàmic davant de l'equip més en forma de la categoria» (Diari de Sabadell).",
+      "itemId": "a63afd35afd67c94"
+    },
+    {
+      "id": "99cbc93ce98ac7ee",
+      "t": "2026-11-20T18:29:26.648Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Divisió nord-sud oficial: aquests són els possibles rivals del Sabadell a la segona ronda de la Copa del Rei» (Ràdio Sabadell).",
+      "itemId": "97ca79bdacc2fc19"
+    },
+    {
+      "id": "fe95207b7f107a48",
+      "t": "2026-11-20T18:29:26.649Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "97ca79bdacc2fc19"
     }
   ],
-  "actualizado": "2026-11-20T17:29:48.939Z"
+  "actualizado": "2026-11-20T18:29:46.261Z"
 }

@@ -104,6 +104,48 @@
   },
   "items": [
     {
+      "id": "7fa65ca8f82bdd4a",
+      "titulo": "Inauguració del Cafè Colors",
+      "enlace": "https://www.lactual.cat/actualitat/inauguracio-cafe-colors_55416_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-20T18:17:25.000Z",
+      "detectado": "2026-11-20T11:14:04.879Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "97ca79bdacc2fc19",
+      "titulo": "Divisió nord-sud oficial: aquests són els possibles rivals del Sabadell a la segona ronda de la Copa del Rei",
+      "enlace": "https://radiosabadell.fm/esports/ce-sabadell/divisio-nord-sud-oficial-segona-ronda-possibles-rivals-2627",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-20T17:41:01.000Z",
+      "detectado": "2026-11-20T18:29:26.647Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "fa058b2e2823f6c1",
       "titulo": "Infopòdcast Sabadell 23.11.26",
       "enlace": "https://radiosabadell.fm/alacarta/audio/infopodcast-sabadell-231126",
@@ -117,6 +159,27 @@
       ],
       "publicado": "2026-11-20T17:21:21.000Z",
       "detectado": "2026-11-20T17:29:29.782Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "a63afd35afd67c94",
+      "titulo": "El CE Sabadell busca un triomf balsàmic davant de l'equip més en forma de la categoria",
+      "enlace": "https://www.diaridesabadell.com/esports/centre-esports-sabadell-granada-cf-previa-segona-divisio.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-20T17:10:40.000Z",
+      "detectado": "2026-11-20T18:29:26.647Z",
       "sensible": false,
       "etiquetas": [],
       "puntuacion": 0,
@@ -152,25 +215,6 @@
       ],
       "duplicadaDe": null,
       "propuesta": true
-    },
-    {
-      "id": "7fa65ca8f82bdd4a",
-      "titulo": "Inauguració del Cafè Colors",
-      "enlace": "https://www.lactual.cat/actualitat/inauguracio-cafe-colors_55416_102.html",
-      "fuente": "ayto-castellar",
-      "fuenteNombre": "L'Actual - Castellar del Vallès",
-      "tipo": "medio",
-      "resumen": "",
-      "municipio": "castellar",
-      "municipiosMencionados": [],
-      "publicado": "2026-11-20T16:32:37.000Z",
-      "detectado": "2026-11-20T11:14:04.879Z",
-      "sensible": false,
-      "etiquetas": [],
-      "puntuacion": 0,
-      "motivos": [],
-      "duplicadaDe": null,
-      "propuesta": false
     },
     {
       "id": "097ebce0c6883648",
@@ -1791,5 +1835,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-20T17:29:48.935Z"
+  "actualizado": "2026-11-20T18:29:46.257Z"
 }
