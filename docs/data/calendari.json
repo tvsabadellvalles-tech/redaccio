@@ -2,72 +2,9 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-20T22:12:06.593Z",
-  "total": 12,
+  "consultat": "2026-11-20T23:00:09.576Z",
+  "total": 6,
   "activitats": [
-    {
-      "titol": "BERTA NO VE",
-      "inici": "2026-11-19T00:00:00.000Z",
-      "final": "2026-11-20T00:00:00.000Z",
-      "totElDia": true,
-      "color": null
-    },
-    {
-      "titol": "(Joan) Presentació escape room sindic",
-      "inici": "2026-11-20T08:30:00.000Z",
-      "final": "2026-11-20T09:30:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "Reunió Diputació",
-      "inici": "2026-11-20T09:00:00.000Z",
-      "final": "2026-11-20T10:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "Gravació La Mar de bé",
-      "inici": "2026-11-20T10:00:00.000Z",
-      "final": "2026-11-20T12:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "(Pep) Rdp Acció per Sabadell",
-      "inici": "2026-11-20T11:30:00.000Z",
-      "final": "2026-11-20T12:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "COTXE! Rdp Ferran Costa",
-      "inici": "2026-11-20T12:15:00.000Z",
-      "final": "2026-11-20T13:15:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "L'Informatiu",
-      "inici": "2026-11-20T15:00:00.000Z",
-      "final": "2026-11-20T16:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "COTXE! (Ferran i becari?) Inauguració instal·lacions Cercle",
-      "inici": "2026-11-20T16:15:00.000Z",
-      "final": "2026-11-20T18:15:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "(Adriana) FALS - VIA 15 (Souvenirs)",
-      "inici": "2026-11-20T17:00:00.000Z",
-      "final": "2026-11-20T18:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
     {
       "titol": "Acte Central del Dia Universal dels Drets dels Infants",
       "inici": "2026-11-21T09:30:00.000Z",
@@ -88,8 +25,29 @@
       "final": "2026-11-21T15:00:00.000Z",
       "totElDia": false,
       "color": null
+    },
+    {
+      "titol": "Acte central Front Ampli",
+      "inici": "2026-11-22T10:30:00.000Z",
+      "final": "2026-11-22T11:30:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "(Montse) Taula rodona periodisme",
+      "inici": "2026-11-22T11:00:00.000Z",
+      "final": "2026-11-22T12:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "CE Sabadell 'B' - Atletic Sant Just",
+      "inici": "2026-11-22T18:00:00.000Z",
+      "final": "2026-11-22T20:00:00.000Z",
+      "totElDia": false,
+      "color": null
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-20T22:12:45.203Z"
+  "actualizado": "2026-11-20T23:00:56.172Z"
 }
