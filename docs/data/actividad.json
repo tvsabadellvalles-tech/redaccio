@@ -1,90 +1,6 @@
 {
   "eventos": [
     {
-      "id": "5e819f4a651b352a",
-      "t": "2026-11-16T14:50:53.659Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Salva Peig i Maria Pla, directors de la 'Sireneta': \"Ens queda la satisfacció de la feina ben feta\"» (Ràdio Sabadell).",
-      "itemId": "72eef6d073b11d02"
-    },
-    {
-      "id": "ed68658aea46db67",
-      "t": "2026-11-16T14:50:53.660Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Inspeccionen un tren de Rodalies a Montcada i Reixac en la recerca del fugitiu d’Oviedo» (Ràdio Sabadell).",
-      "itemId": "8079bbf710d1c701"
-    },
-    {
-      "id": "172e9b971b0744b8",
-      "t": "2026-11-16T14:50:53.661Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat, Successos, Educació.",
-      "itemId": "8079bbf710d1c701"
-    },
-    {
-      "id": "447c3cabaa77d712",
-      "t": "2026-11-16T14:50:53.662Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): mobilitat, successos, educació.",
-      "itemId": "8079bbf710d1c701"
-    },
-    {
-      "id": "73e1e753ff718003",
-      "t": "2026-11-16T14:50:53.663Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Un dispositiu per trobar 'El Ruso' obliga a tallar la circulació de la línia R4 de Rodalies» (Diari de Sabadell).",
-      "itemId": "143f732a89a2220e"
-    },
-    {
-      "id": "b21d8003b314d1b0",
-      "t": "2026-11-16T14:50:53.664Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat.",
-      "itemId": "143f732a89a2220e"
-    },
-    {
-      "id": "a4dafd81d79a8789",
-      "t": "2026-11-16T14:50:53.665Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Martí Romero, lutier: ''Vaig començar de manera autodidacta, elaborant els meus propis instruments per necessitat''» (Ràdio Sabadell).",
-      "itemId": "9e2990d5c16a0227"
-    },
-    {
-      "id": "da0468291e66a95f",
-      "t": "2026-11-16T14:50:53.666Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Plou sobre mullat a Elda: més baixes i un partit més sense guanyar» (Ràdio Sabadell).",
-      "itemId": "4360730db1b3bfda"
-    },
-    {
-      "id": "b837498c7376a350",
-      "t": "2026-11-16T14:50:53.667Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Esports.",
-      "itemId": "4360730db1b3bfda"
-    },
-    {
-      "id": "5ae930e29852dcdd",
-      "t": "2026-11-16T14:50:53.668Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El president Illa es compromet a estudiar la viabilitat de soterrar la Ronda Nord al seu pas per Sabadell» (Ràdio Sabadell).",
-      "itemId": "6fafd81b75f47c88"
-    },
-    {
-      "id": "89b467cd9ab0b3ea",
-      "t": "2026-11-16T14:50:53.669Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Inspeccionen trens de l’R4 en busca del fugitiu d’Oviedo» (iSabadell).",
-      "itemId": "572bb43b93278a44"
-    },
-    {
-      "id": "7f6b240cb3a99cee",
-      "t": "2026-11-16T14:50:53.670Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat, Successos.",
-      "itemId": "572bb43b93278a44"
-    },
-    {
       "id": "6d1ef9b145a5edf0",
       "t": "2026-11-16T14:50:53.671Z",
       "agente": "mesa",
@@ -2799,7 +2715,91 @@
       "agente": "rastreador",
       "texto": "He recollit «Infopodcast 20.11.2026» (Ràdio Sabadell).",
       "itemId": "5f810c5cb7e9cc35"
+    },
+    {
+      "id": "cc041737700e3aab",
+      "t": "2026-11-20T08:04:37.921Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El Semaf desconvoca la vaga de maquinistes de dilluns a Rodalies» (Diari de Sabadell).",
+      "itemId": "b6e11bb727073107"
+    },
+    {
+      "id": "29fd3c1f9fb4f1fc",
+      "t": "2026-11-20T08:04:37.922Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat.",
+      "itemId": "b6e11bb727073107"
+    },
+    {
+      "id": "5f56be1f4d250ef6",
+      "t": "2026-11-20T08:04:37.923Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Obertes les inscripcions per a La Paulina, la cursa amb nom de tortuga i botifarrada a la meta» (Diari de Sabadell).",
+      "itemId": "3e36c57ccd4fa591"
+    },
+    {
+      "id": "81b875c125fdccb2",
+      "t": "2026-11-20T08:04:37.924Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Indubio estrena 'Sabatilles'» (Diari de Sabadell).",
+      "itemId": "e9495805d8457d16"
+    },
+    {
+      "id": "3ee53c8b0041f78c",
+      "t": "2026-11-20T08:04:37.925Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La sorra ha de tornar als jocs infantils? \"Els nens han de caure i saber què es trobaran\"» (Diari de Sabadell).",
+      "itemId": "ad7f1628dd9144d2"
+    },
+    {
+      "id": "80fa715aa7a3e70f",
+      "t": "2026-11-20T08:04:37.926Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "ad7f1628dd9144d2"
+    },
+    {
+      "id": "3246e15d4f6f93f6",
+      "t": "2026-11-20T08:04:37.927Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El MTIV busca antics comerciants per recuperar la seva memòria» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "a6643a0425d1de4e"
+    },
+    {
+      "id": "868ce43c7f3181aa",
+      "t": "2026-11-20T08:04:37.928Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Economia i ocupació.",
+      "itemId": "a6643a0425d1de4e"
+    },
+    {
+      "id": "64ca25ce62734483",
+      "t": "2026-11-20T08:04:37.929Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Les Milles de Cerdanyola celebren la seva 38a edició» (Ajuntament de Cerdanyola del Vallès).",
+      "itemId": "960e3bdf5334131e"
+    },
+    {
+      "id": "6d84555df6c10d2c",
+      "t": "2026-11-20T08:04:37.930Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat, Esports.",
+      "itemId": "960e3bdf5334131e"
+    },
+    {
+      "id": "bdc929c5c85aa284",
+      "t": "2026-11-20T08:04:37.931Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "960e3bdf5334131e"
+    },
+    {
+      "id": "3d1c217f4f564ea9",
+      "t": "2026-11-20T08:04:37.932Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · mobilitat.",
+      "itemId": "960e3bdf5334131e"
     }
   ],
-  "actualizado": "2026-11-19T23:58:36.537Z"
+  "actualizado": "2026-11-20T08:04:57.630Z"
 }

@@ -104,6 +104,142 @@
   },
   "items": [
     {
+      "id": "960e3bdf5334131e",
+      "titulo": "Les Milles de Cerdanyola celebren la seva 38a edició",
+      "enlace": "http://www.cerdanyola.cat/actualitat/les-milles-de-cerdanyola-celebren-la-seva-38a-edicio",
+      "fuente": "ayto-cerdanyola",
+      "fuenteNombre": "Ajuntament de Cerdanyola del Vallès",
+      "tipo": "oficial",
+      "resumen": "Les Milles de Cerdanyola celebren la seva 38a edició Cerdanyola celebrarà demà, dissabte 21 de novembre, la 38a edició de les Milles de Cerdanyola, una cursa atlètica plenament consolidada en el calendari esportiu de la ciutat. La prova…",
+      "municipio": "cerdanyola",
+      "municipiosMencionados": [
+        "cerdanyola",
+        "sant-cugat"
+      ],
+      "publicado": "2026-11-20T08:00:09.000Z",
+      "detectado": "2026-11-20T08:04:37.921Z",
+      "sensible": true,
+      "etiquetas": [
+        "movilidad",
+        "deportes"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "font oficial",
+        "mobilitat"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "a6643a0425d1de4e",
+      "titulo": "El MTIV busca antics comerciants per recuperar la seva memòria",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/el-mtiv-busca-antics-comerciants-per-recuperar-la-seva-memoria.html",
+      "fuente": "ayto-santa-perpetua",
+      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
+      "tipo": "oficial",
+      "resumen": "El Museu del Treball i la Indústria Viva (MTIV) de Santa Perpètua de Mogoda fa una crida als antics propietaris de comerços, botiguers i treballadors d’establiments que ja han tancat per recuperar la història del comerç local i…",
+      "municipio": "santa-perpetua",
+      "municipiosMencionados": [
+        "santa-perpetua"
+      ],
+      "publicado": "2026-11-20T08:00:00.000Z",
+      "detectado": "2026-11-20T08:04:37.921Z",
+      "sensible": false,
+      "etiquetas": [
+        "economia"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "font oficial",
+        "economia i ocupació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "ad7f1628dd9144d2",
+      "titulo": "La sorra ha de tornar als jocs infantils? \"Els nens han de caure i saber què es trobaran\"",
+      "enlace": "https://www.diaridesabadell.com/sabadell/sorra-cautxu-reciclat-parcs-jocs-infantils-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-20T07:58:50.000Z",
+      "detectado": "2026-11-20T08:04:37.921Z",
+      "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "e9495805d8457d16",
+      "titulo": "Indubio estrena 'Sabatilles'",
+      "enlace": "https://www.diaridesabadell.com/valles/sant-cugat-del-valles/indubio-canco-sabatilles-grup.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-20T07:45:00.000Z",
+      "detectado": "2026-11-20T08:04:37.921Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "3e36c57ccd4fa591",
+      "titulo": "Obertes les inscripcions per a La Paulina, la cursa amb nom de tortuga i botifarrada a la meta",
+      "enlace": "https://www.diaridesabadell.com/valles/polinya/paulina-cursa-polinya-inscripcions.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "polinya"
+      ],
+      "publicado": "2026-11-20T07:23:00.000Z",
+      "detectado": "2026-11-20T08:04:37.921Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "b6e11bb727073107",
+      "titulo": "El Semaf desconvoca la vaga de maquinistes de dilluns a Rodalies",
+      "enlace": "https://www.diaridesabadell.com/valles/vaga-rodalies-dilluns-desconvocada.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-20T07:16:43.000Z",
+      "detectado": "2026-11-20T08:04:37.921Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "mobilitat"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "7be09d5164dd6782",
       "titulo": "ERC reivindica l'esquerra catalana de cara al 29N",
       "enlace": "https://www.lactual.cat/actualitat/erc-reivindica-esquerra-catalana-cara-29n_55415_102.html",
@@ -171,5 +307,5 @@
       "propuesta": true
     }
   ],
-  "actualizado": "2026-11-20T06:48:42.894Z"
+  "actualizado": "2026-11-20T08:04:57.626Z"
 }
