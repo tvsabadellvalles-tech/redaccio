@@ -616,11 +616,11 @@ async function consultarServei(servei, ara, userAgent, parser, municipis) {
       );
       const tipusContingut = respostaTransit.headers.get('content-type') || 'desconegut';
       const xmlTransit = await respostaTransit.text();
-      if (!/<(?:rss|feed|rdf:RDF)\\b/i.test(xmlTransit)) {
-        const etiquetes = [...xmlTransit.matchAll(/<\\s*([a-zA-Z_][\\w:.-]*)\\b/g)]
+      if (!/<(?:rss|feed|rdf:RDF)\b/i.test(xmlTransit)) {
+        const etiquetes = [...xmlTransit.matchAll(/<\s*([a-zA-Z_][\w:.-]*)\b/g)]
           .slice(0, 8)
           .map((coincidencia) => coincidencia[1]);
-        const mostra = xmlTransit.trim().slice(0, 160).replace(/\\s+/g, ' ') || 'cos buit';
+        const mostra = xmlTransit.trim().slice(0, 160).replace(/\s+/g, ' ') || 'cos buit';
         throw new Error(`La font oficial no ha retornat una estructura RSS (Content-Type: ${tipusContingut}; bytes: ${Buffer.byteLength(xmlTransit, 'utf8')}; etiquetes: ${etiquetes.join(', ') || 'cap'}; mostra: ${mostra})`);
       }
 
