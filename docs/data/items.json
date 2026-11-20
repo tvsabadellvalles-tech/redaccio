@@ -104,6 +104,96 @@
   },
   "items": [
     {
+      "id": "fa058b2e2823f6c1",
+      "titulo": "Infopòdcast Sabadell 23.11.26",
+      "enlace": "https://radiosabadell.fm/alacarta/audio/infopodcast-sabadell-231126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-20T17:21:21.000Z",
+      "detectado": "2026-11-20T17:29:29.782Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "e2e4cec3c31146f2",
+      "titulo": "Llargues retencions a la C-58 per la confluència de diversos accidents",
+      "enlace": "https://radiosabadell.fm/actualitat/successos/llargues-retencions-la-c-58-la-confluencia-de-diversos-accidents",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell",
+        "sant-quirze"
+      ],
+      "publicado": "2026-11-20T16:41:27.000Z",
+      "detectado": "2026-11-20T17:29:29.782Z",
+      "sensible": false,
+      "etiquetas": [
+        "emergencias",
+        "movilidad",
+        "sucesos",
+        "salud"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "emergències, mobilitat, successos, salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "7fa65ca8f82bdd4a",
+      "titulo": "Inauguració del Cafè Colors",
+      "enlace": "https://www.lactual.cat/actualitat/inauguracio-cafe-colors_55416_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-20T16:32:37.000Z",
+      "detectado": "2026-11-20T11:14:04.879Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "097ebce0c6883648",
+      "titulo": "Sessió plenària del Consell d’Infants",
+      "enlace": "https://www.montcada.cat/actualitat/noticies/sessio-plenaria-del-consell-dinfants-.html",
+      "fuente": "ayto-montcada",
+      "fuenteNombre": "Ajuntament de Montcada i Reixac",
+      "tipo": "oficial",
+      "resumen": "",
+      "municipio": "montcada",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-20T16:30:00.000Z",
+      "detectado": "2026-11-20T17:29:29.782Z",
+      "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "0dc87aee568a580b",
       "titulo": "El DUDI torna amb força un any més",
       "enlace": "https://www.lactual.cat/actualitat/dudi-torna-forca-any-mes_55419_102.html",
@@ -119,6 +209,32 @@
       "etiquetas": [],
       "puntuacion": 0,
       "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "13f0b9a3bafb1cad",
+      "titulo": "Sabadell-Granada: el factor Nova Creu Alta per contrarestar l'equip més en forma de la categoria",
+      "enlace": "https://radiosabadell.fm/esports/ce-sabadell/previa-sabadell-granada-jornada-15-hypermotion",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-20T15:47:40.000Z",
+      "detectado": "2026-11-20T17:29:29.782Z",
+      "sensible": false,
+      "etiquetas": [
+        "salud",
+        "deportes"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "salut"
+      ],
       "duplicadaDe": null,
       "propuesta": false
     },
@@ -866,25 +982,6 @@
       "etiquetas": [
         "deportes"
       ],
-      "puntuacion": 0,
-      "motivos": [],
-      "duplicadaDe": null,
-      "propuesta": false
-    },
-    {
-      "id": "7fa65ca8f82bdd4a",
-      "titulo": "Inauguració del Cafè Colors",
-      "enlace": "https://www.lactual.cat/actualitat/inauguracio-cafe-colors_55416_102.html",
-      "fuente": "ayto-castellar",
-      "fuenteNombre": "L'Actual - Castellar del Vallès",
-      "tipo": "medio",
-      "resumen": "",
-      "municipio": "castellar",
-      "municipiosMencionados": [],
-      "publicado": "2026-11-20T10:36:10.000Z",
-      "detectado": "2026-11-20T11:14:04.879Z",
-      "sensible": false,
-      "etiquetas": [],
       "puntuacion": 0,
       "motivos": [],
       "duplicadaDe": null,
@@ -1694,5 +1791,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-20T16:29:33.799Z"
+  "actualizado": "2026-11-20T17:29:48.935Z"
 }

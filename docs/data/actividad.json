@@ -1,62 +1,6 @@
 {
   "eventos": [
     {
-      "id": "0cfc53cfbdd74434",
-      "t": "2026-11-17T14:13:19.200Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Un de cada cinc sabadellencs pot aspirar a comprar un pis al mercat lliure» (Ràdio Sabadell).",
-      "itemId": "8e8bb16aca724b19"
-    },
-    {
-      "id": "fb66b78b0f945fa9",
-      "t": "2026-11-17T14:13:19.201Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Obres i urbanisme, Economia i ocupació.",
-      "itemId": "8e8bb16aca724b19"
-    },
-    {
-      "id": "357c2c4c27ae8a7d",
-      "t": "2026-11-17T14:13:19.202Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La crisi de l'habitatge, en xifres. Actualment, hi ha un dèficit de 8.000 pisos al Vallès Occidental» (Ràdio Sabadell).",
-      "itemId": "18d4427e2b95c07d"
-    },
-    {
-      "id": "fcf27dc281128f82",
-      "t": "2026-11-17T14:13:19.203Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Obres i urbanisme.",
-      "itemId": "18d4427e2b95c07d"
-    },
-    {
-      "id": "97992b230a092e75",
-      "t": "2026-11-17T14:13:19.204Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Amb quins efectius compta el Sabadell per a l'estrena de Copa a Utebo?» (Ràdio Sabadell).",
-      "itemId": "238e24e132bf106d"
-    },
-    {
-      "id": "8ed6962b16dab9ff",
-      "t": "2026-11-17T14:13:19.205Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Jesús Fernández, Banc de Sang: \"La compatibilitat de la sang de cordó no ha de ser tant alta\"» (Ràdio Sabadell).",
-      "itemId": "a306394d163a859c"
-    },
-    {
-      "id": "7d38fcf7ad969153",
-      "t": "2026-11-17T14:51:08.438Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La Rambla reobrirà al trànsit els caps de setmana entre Pau Casals i Marià Fortuny» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "1db8f1c00c8828cc"
-    },
-    {
-      "id": "d0dafddd2f0d68f9",
-      "t": "2026-11-17T14:51:08.439Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat.",
-      "itemId": "1db8f1c00c8828cc"
-    },
-    {
       "id": "f03b9b092ef040ed",
       "t": "2026-11-17T14:51:08.440Z",
       "agente": "mesa",
@@ -2799,7 +2743,63 @@
       "agente": "rastreador",
       "texto": "He recollit «El DUDI torna amb força un any més» (L'Actual - Castellar del Vallès).",
       "itemId": "0dc87aee568a580b"
+    },
+    {
+      "id": "04e0518bac7ec0e6",
+      "t": "2026-11-20T17:29:29.782Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Sabadell-Granada: el factor Nova Creu Alta per contrarestar l'equip més en forma de la categoria» (Ràdio Sabadell).",
+      "itemId": "13f0b9a3bafb1cad"
+    },
+    {
+      "id": "c5bff0b2d6b45af9",
+      "t": "2026-11-20T17:29:29.783Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut, Esports.",
+      "itemId": "13f0b9a3bafb1cad"
+    },
+    {
+      "id": "4e23109ea4b1ae91",
+      "t": "2026-11-20T17:29:29.784Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Sessió plenària del Consell d’Infants» (Ajuntament de Montcada i Reixac).",
+      "itemId": "097ebce0c6883648"
+    },
+    {
+      "id": "85fc0e357038905c",
+      "t": "2026-11-20T17:29:29.785Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "097ebce0c6883648"
+    },
+    {
+      "id": "d555c6907f7b29fa",
+      "t": "2026-11-20T17:29:29.786Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Llargues retencions a la C-58 per la confluència de diversos accidents» (Ràdio Sabadell).",
+      "itemId": "e2e4cec3c31146f2"
+    },
+    {
+      "id": "8e05415a3970753a",
+      "t": "2026-11-20T17:29:29.787Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Emergències, Mobilitat, Successos, Salut.",
+      "itemId": "e2e4cec3c31146f2"
+    },
+    {
+      "id": "55ca7b8aed87b4df",
+      "t": "2026-11-20T17:29:29.788Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): emergències, mobilitat, successos, salut.",
+      "itemId": "e2e4cec3c31146f2"
+    },
+    {
+      "id": "b92a812573d8dca1",
+      "t": "2026-11-20T17:29:29.789Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Infopòdcast Sabadell 23.11.26» (Ràdio Sabadell).",
+      "itemId": "fa058b2e2823f6c1"
     }
   ],
-  "actualizado": "2026-11-20T16:29:33.804Z"
+  "actualizado": "2026-11-20T17:29:48.939Z"
 }
