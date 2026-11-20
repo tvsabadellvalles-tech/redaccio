@@ -3,7 +3,7 @@
 const params = new URLSearchParams(location.search);
 const carpetaDatos = params.get('datos') ? `data/${params.get('datos').replace(/[^a-z0-9_-]/gi, '')}` : 'data';
 // Incrementa aquesta versió juntament amb docs/version.json i els paràmetres ?v= de docs/index.html en cada publicació.
-const VERSIO_APP = '2026.11.19.2';
+const VERSIO_APP = '2026.11.20.1';
 const REFRESCO_MS = 60000;
 const ANTIGUITAT_MAXIMA_SERVEIS_MS = 10 * 60 * 1000;
 const ANTIGUITAT_MAXIMA_DADES_MS = 45 * 60 * 1000;
@@ -669,7 +669,7 @@ function pintarAgenda(calendari) {
     );
     if (/^#[\da-f]{6}$/i.test(activitat.color || '')) {
       article.style.setProperty('--agenda-color', activitat.color);
-      article.style.setProperty('--agenda-tint', `${activitat.color}18`);
+      article.style.setProperty('--agenda-tint', `${activitat.color}30`);
     }
     llista.append(article);
     }
@@ -784,14 +784,13 @@ function dataHoraLocalCalendari(dia, horaLocal = '00:00') {
 async function consultarGoogleCalendarJson(url) {
   const controlador = typeof AbortController === 'function' ? new AbortController() : null;
   let temporitzador;
+  const urlPeticio = new URL(url.toString());
+  urlPeticio.searchParams.set('key', clauCalendariEnViu);
   try {
     const resposta = await Promise.race([
-      fetch(url, {
+      fetch(urlPeticio, {
         cache: 'no-store',
-        headers: {
-          Accept: 'application/json',
-          'X-Goog-Api-Key': clauCalendariEnViu
-        },
+        headers: { Accept: 'application/json' },
         ...(controlador ? { signal: controlador.signal } : {})
       }),
       new Promise((_, rebutjar) => {
@@ -812,16 +811,23 @@ async function consultarGoogleCalendarJson(url) {
 }
 
 async function obtenirColorsCalendari() {
-  if (Date.now() - colorsCalendariEnViuConsultats < 6 * 60 * 60 * 1000) {
-    return colorsCalendariEnViu;
-  }
-  colorsCalendariEnViuConsultats = Date.now();
+  const ara = Date.now();
+  const intervalReintent = Object.keys(colorsCalendariEnViu).length
+    ? 6 * 60 * 60 * 1000
+    : 60 * 1000;
+  if (ara - colorsCalendariEnViuConsultats < intervalReintent) return colorsCalendariEnViu;
+  colorsCalendariEnViuConsultats = ara;
   try {
     const resposta = await consultarGoogleCalendarJson('https://www.googleapis.com/calendar/v3/colors');
     colorsCalendariEnViu = resposta.event || {};
+    if (!Object.keys(colorsCalendariEnViu).length) {
+      colorsCalendariEnViuConsultats = ara - intervalReintent + 60 * 1000;
+    }
   } catch (error) {
-    console.warn('No s’han pogut recuperar els colors del calendari.', error);
+    // Reintenta pronto si Google rechaza temporalmente la consulta de colores.
     colorsCalendariEnViu = {};
+    colorsCalendariEnViuConsultats = Date.now() - intervalReintent + 60 * 1000;
+    console.warn('No s’han pogut recuperar els colors del calendari.', error);
   }
   return colorsCalendariEnViu;
 }
