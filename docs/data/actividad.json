@@ -1,13 +1,6 @@
 {
   "eventos": [
     {
-      "id": "e08650533a39c4da",
-      "t": "2026-11-16T18:34:28.052Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Els Catarres i Lildami inauguraran el Festival Observa 2027» (iSabadell).",
-      "itemId": "420301329b9873a7"
-    },
-    {
       "id": "a9f309793f356ca9",
       "t": "2026-11-16T18:34:28.053Z",
       "agente": "etiquetador",
@@ -2799,7 +2792,14 @@
       "agente": "rastreador",
       "texto": "La font «Ajuntament de Badia del Vallès» no respon (fetch failed).",
       "itemId": null
+    },
+    {
+      "id": "1ee57ca492fea109",
+      "t": "2026-11-20T10:13:52.750Z",
+      "agente": "rastreador",
+      "texto": "La font «Ajuntament de Badia del Vallès» torna a respondre.",
+      "itemId": null
     }
   ],
-  "actualizado": "2026-11-20T10:11:00.793Z"
+  "actualizado": "2026-11-20T10:14:03.415Z"
 }
