@@ -620,7 +620,8 @@ async function consultarServei(servei, ara, userAgent, parser, municipis) {
         const etiquetes = [...xmlTransit.matchAll(/<\\s*([a-zA-Z_][\\w:.-]*)\\b/g)]
           .slice(0, 8)
           .map((coincidencia) => coincidencia[1]);
-        throw new Error(`La font oficial no ha retornat una estructura RSS (Content-Type: ${tipusContingut}; etiquetes: ${etiquetes.join(', ') || 'cap'})`);
+        const mostra = xmlTransit.trim().slice(0, 160).replace(/\\s+/g, ' ') || 'cos buit';
+        throw new Error(`La font oficial no ha retornat una estructura RSS (Content-Type: ${tipusContingut}; bytes: ${Buffer.byteLength(xmlTransit, 'utf8')}; etiquetes: ${etiquetes.join(', ') || 'cap'}; mostra: ${mostra})`);
       }
 
       const feed = await parser.parseString(xmlTransit);
