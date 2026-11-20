@@ -104,6 +104,25 @@
   },
   "items": [
     {
+      "id": "364b0786a7732874",
+      "titulo": "El barri de les Termes espera canvis: \"Està degradat\"",
+      "enlace": "https://www.diaridesabadell.com/sabadell/les-termes-queixes-veins-pla-barris-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-20T19:38:56.000Z",
+      "detectado": "2026-11-20T20:26:28.400Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "49c503e9b9e30b60",
       "titulo": "Una trentena de persones es concentren a la plaça Sant Roc en suport als detinguts durant la vaga general",
       "enlace": "https://radiosabadell.fm/actualitat/societat/una-trentena-de-persones-es-concentren-la-placa-sant-roc-en-suport-als",
@@ -1884,5 +1903,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-20T19:35:52.404Z"
+  "actualizado": "2026-11-20T20:26:48.228Z"
 }

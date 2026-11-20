@@ -1,13 +1,6 @@
 {
   "eventos": [
     {
-      "id": "462ea81c766e074b",
-      "t": "2026-11-17T15:09:28.598Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Castellar alça la veu contra la violència vers les dones» (L'Actual - Castellar del Vallès).",
-      "itemId": "e25df8c538f9dfd3"
-    },
-    {
       "id": "af4d0454bf1d09f3",
       "t": "2026-11-17T16:05:06.125Z",
       "agente": "rastreador",
@@ -2799,7 +2792,14 @@
       "agente": "vigilante",
       "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
       "itemId": "49c503e9b9e30b60"
+    },
+    {
+      "id": "cb2fb0bb123c99a3",
+      "t": "2026-11-20T20:26:28.400Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El barri de les Termes espera canvis: \"Està degradat\"» (Diari de Sabadell).",
+      "itemId": "364b0786a7732874"
     }
   ],
-  "actualizado": "2026-11-20T19:35:52.407Z"
+  "actualizado": "2026-11-20T20:26:48.231Z"
 }
