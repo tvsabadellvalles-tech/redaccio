@@ -26,4 +26,4 @@ Después, en [GitHub Actions](https://github.com/tvsabadellvalles-tech/redaccio/
 
 ## Colores compatibles
 
-El script lee tanto los colores clásicos (`colorId`) como las nuevas etiquetas de color (`eventLabelId`) y sus colores personalizados. La paleta y las etiquetas se guardan en caché durante seis horas; los eventos se vuelven a consultar en cada petición.
+El script lee tanto los colores clásicos (`colorId`, con `eventLabelVersion=0`) como las nuevas etiquetas de color (`eventLabelId`, con `eventLabelVersion=1`) y sus colores personalizados. La paleta y las etiquetas se guardan en caché durante seis horas; el resultado de la agenda se comparte durante 15 segundos para no hacer una petición por pantalla.

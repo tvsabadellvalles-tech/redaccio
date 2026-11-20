@@ -46,6 +46,27 @@ function testCalendarAccess() {
 }
 
 function crearAgenda_() {
+  const cache = CacheService.getScriptCache();
+  const clauCache = 'agenda_publica_v2';
+  const guardat = cache.get(clauCache);
+  if (guardat) {
+    try {
+      return JSON.parse(guardat);
+    } catch (error) {
+      cache.remove(clauCache);
+    }
+  }
+
+  const dades = crearAgendaSenseCache_();
+  try {
+    cache.put(clauCache, JSON.stringify(dades), 15);
+  } catch (error) {
+    console.warn('No s’ha pogut desar la memòria cau curta de l’agenda: ' + error.message);
+  }
+  return dades;
+}
+
+function crearAgendaSenseCache_() {
   const ara = new Date();
   const inici = new Date(ara.getTime());
   inici.setHours(0, 0, 0, 0);
@@ -74,7 +95,16 @@ function crearAgenda_() {
       .map(label => [label.id, label.backgroundColor])
   );
 
-  const esdeveniments = llistarEsdeveniments_(calendarId, inici, final, token);
+  // Google requereix eventLabelVersion=0 per als colors clàssics
+  // i eventLabelVersion=1 per a les etiquetes personalitzades.
+  const esdeveniments = llistarEsdeveniments_(calendarId, inici, final, 0, token);
+  let esdevenimentsEtiquetes = [];
+  if (etiquetes.length) {
+    esdevenimentsEtiquetes = llistarEsdeveniments_(calendarId, inici, final, 1, token);
+  }
+  const etiquetaPerId = new Map(
+    esdevenimentsEtiquetes.map(event => [event.id, event.eventLabelId])
+  );
   const activitats = [];
 
   for (const event of esdeveniments) {
@@ -86,7 +116,7 @@ function crearAgenda_() {
       || !Number.isFinite(dataFinal.getTime())) continue;
     if (dataInici >= final || dataFinal <= inici) continue;
 
-    const eventLabelId = event.eventLabelId;
+    const eventLabelId = etiquetaPerId.get(event.id);
     const color = colorsEtiquetes[eventLabelId]
       || (event.colorId && colors[event.colorId] ? colors[event.colorId].background : null);
     activitats.push({
@@ -119,10 +149,13 @@ function dataEvent_(valor) {
   return valor.dateTime ? new Date(valor.dateTime) : null;
 }
 
-function llistarEsdeveniments_(calendarId, inici, final, token) {
+function llistarEsdeveniments_(calendarId, inici, final, versioEtiquetes, token) {
   const base = 'https://www.googleapis.com/calendar/v3/calendars/' + calendarId + '/events';
   const resultat = [];
   let pageToken = '';
+  const camps = versioEtiquetes === 1
+    ? 'items(id,eventLabelId),nextPageToken'
+    : 'items(id,summary,start,end,status,colorId),nextPageToken';
 
   do {
     const params = {
@@ -131,7 +164,8 @@ function llistarEsdeveniments_(calendarId, inici, final, token) {
       singleEvents: 'true',
       orderBy: 'startTime',
       maxResults: '2500',
-      fields: 'items(id,summary,start,end,status,colorId,eventLabelId),nextPageToken'
+      eventLabelVersion: String(versioEtiquetes),
+      fields: camps
     };
     if (pageToken) params.pageToken = pageToken;
     const json = apiGet_(construirUrl_(base, params), token);
