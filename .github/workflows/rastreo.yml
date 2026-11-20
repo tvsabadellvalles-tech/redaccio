@@ -114,12 +114,23 @@ jobs:
         shell: bash
         env:
           GOOGLE_CALENDAR_BROWSER_API_KEY: ${{ secrets.GOOGLE_CALENDAR_BROWSER_API_KEY }}
+          GOOGLE_CALENDAR_APPS_SCRIPT_URL: ${{ secrets.GOOGLE_CALENDAR_APPS_SCRIPT_URL }}
         run: |
           node --input-type=module <<'NODE'
           import { writeFile } from 'node:fs/promises';
           const apiKey = process.env.GOOGLE_CALENDAR_BROWSER_API_KEY?.trim() || '';
-          await writeFile('docs/calendar-client.json', JSON.stringify({ apiKey }, null, 2) + '\n', 'utf8');
-          console.log(apiKey ? 'Configuració pública del calendari preparada.' : 'Calendari en directe pendent de GOOGLE_CALENDAR_BROWSER_API_KEY.');
+          const proxyUrl = process.env.GOOGLE_CALENDAR_APPS_SCRIPT_URL?.trim() || '';
+          if (proxyUrl) {
+            const endpoint = new URL(proxyUrl);
+            if (endpoint.protocol !== 'https:' || endpoint.hostname !== 'script.google.com'
+              || !endpoint.pathname.includes('/macros/s/') || !endpoint.pathname.endsWith('/exec')) {
+              throw new Error('GOOGLE_CALENDAR_APPS_SCRIPT_URL ha de ser una URL /exec de script.google.com.');
+            }
+          }
+          await writeFile('docs/calendar-client.json', JSON.stringify({ apiKey, proxyUrl }, null, 2) + '\n', 'utf8');
+          console.log(proxyUrl
+            ? 'Proxy autenticat del calendari preparat.'
+            : 'Proxy autenticat pendent de GOOGLE_CALENDAR_APPS_SCRIPT_URL.');
           NODE
 
       - name: Preparar archivos del sitio

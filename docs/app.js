@@ -3,7 +3,7 @@
 const params = new URLSearchParams(location.search);
 const carpetaDatos = params.get('datos') ? `data/${params.get('datos').replace(/[^a-z0-9_-]/gi, '')}` : 'data';
 // Incrementa aquesta versió juntament amb docs/version.json i els paràmetres ?v= de docs/index.html en cada publicació.
-const VERSIO_APP = '2026.11.20.1';
+const VERSIO_APP = '2026.11.20.2';
 const REFRESCO_MS = 60000;
 const ANTIGUITAT_MAXIMA_SERVEIS_MS = 10 * 60 * 1000;
 const ANTIGUITAT_MAXIMA_DADES_MS = 45 * 60 * 1000;
@@ -754,6 +754,8 @@ async function comprovarNovaVersio() {
 const INTERVALO_CALENDARI_EN_VIU_MS = 20000;
 const GOOGLE_CALENDAR_ID = 'tvsabadellvalles@gmail.com';
 let calendariEnViuActiu = false;
+let calendariEnViuProxyUrl = '';
+let sequenciaCalendariJsonp = 0;
 let calendariEnViuHaActualitzat = false;
 let calendariEnViuEnCurs = false;
 let clauCalendariEnViu = '';
@@ -895,11 +897,63 @@ async function consultarCalendariEnViu() {
   };
 }
 
+
+function consultarCalendariProxyJsonp() {
+  return new Promise((resolve, reject) => {
+    if (!calendariEnViuProxyUrl) {
+      reject(new Error('El proxy autenticat del calendari no està configurat.'));
+      return;
+    }
+
+    const callbackName = 'tvsvCalendarCallback_' + Date.now() + '_' + (++sequenciaCalendariJsonp);
+    const script = document.createElement('script');
+    let temporitzador = null;
+    let acabat = false;
+
+    const netejar = () => {
+      if (acabat) return;
+      acabat = true;
+      if (temporitzador !== null) clearTimeout(temporitzador);
+      script.remove();
+      delete window[callbackName];
+    };
+
+    window[callbackName] = (dadesCalendari) => {
+      netejar();
+      if (!dadesCalendari || dadesCalendari.estat !== 'ok') {
+        reject(new Error(dadesCalendari?.error || 'El proxy no ha pogut llegir el calendari.'));
+        return;
+      }
+      resolve(dadesCalendari);
+    };
+
+    script.onerror = () => {
+      netejar();
+      reject(new Error('No s’ha pogut carregar el proxy de Google Calendar.'));
+    };
+
+    const url = new URL(calendariEnViuProxyUrl);
+    url.searchParams.set('prefix', 'window.' + callbackName);
+    url.searchParams.set('_', String(Date.now()));
+    script.async = true;
+    script.src = url.toString();
+
+    temporitzador = setTimeout(() => {
+      netejar();
+      reject(new Error('Temps d’espera esgotat consultant el proxy de Google Calendar.'));
+    }, 15000);
+
+    document.head.append(script);
+  });
+}
+
 async function refrescarCalendariEnViu() {
   if (!calendariEnViuActiu || calendariEnViuEnCurs || document.hidden) return;
   calendariEnViuEnCurs = true;
   try {
-    const calendari = await consultarCalendariEnViu();
+    const calendari = calendariEnViuProxyUrl
+      ? await consultarCalendariProxyJsonp()
+      : await consultarCalendariEnViu();
     // Recupera els colors si la primera consulta d’esdeveniments s’ha avançat a la paleta.
     if (Object.keys(colorsCalendariEnViu).length) {
       // La següent lectura ja reflectirà qualsevol canvi de color.
@@ -921,8 +975,9 @@ async function iniciarCalendariEnViu() {
     const resposta = await fetch(url, { cache: 'no-store' });
     if (!resposta.ok) return;
     const configuracio = await resposta.json();
+    calendariEnViuProxyUrl = String(configuracio?.proxyUrl || '').trim();
     clauCalendariEnViu = String(configuracio?.apiKey || '').trim();
-    if (!clauCalendariEnViu) return;
+    if (!calendariEnViuProxyUrl && !clauCalendariEnViu) return;
 
     calendariEnViuActiu = true;
     await refrescarCalendariEnViu();
