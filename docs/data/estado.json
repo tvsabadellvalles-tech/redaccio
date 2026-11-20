@@ -6,11 +6,11 @@
     },
     "radio-sabadell": {
       "ok": true,
-      "items": 1
+      "items": 3
     },
     "diari-sabadell": {
       "ok": true,
-      "items": 4
+      "items": 5
     },
     "diari-terrassa": {
       "ok": true,
@@ -62,7 +62,7 @@
     },
     "ayto-barbera": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "ayto-cerdanyola": {
       "ok": true,
@@ -81,6 +81,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-20T08:04:37.921Z",
-  "actualizado": "2026-11-20T08:04:57.628Z"
+  "consultat": "2026-11-20T09:06:58.937Z",
+  "actualizado": "2026-11-20T09:07:18.238Z"
 }

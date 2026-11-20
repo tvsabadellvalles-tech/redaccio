@@ -1,55 +1,6 @@
 {
   "eventos": [
     {
-      "id": "6d1ef9b145a5edf0",
-      "t": "2026-11-16T14:50:53.671Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): mobilitat, successos.",
-      "itemId": "572bb43b93278a44"
-    },
-    {
-      "id": "24b5e67265c0a110",
-      "t": "2026-11-16T14:50:53.672Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La policia continua buscant El Ruso a Catalunya» (Ràdio Sabadell).",
-      "itemId": "e7a191c67489d222"
-    },
-    {
-      "id": "81d9edf84cd2847d",
-      "t": "2026-11-16T14:50:53.673Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat, Successos, Salut.",
-      "itemId": "e7a191c67489d222"
-    },
-    {
-      "id": "2abc5ca896d93b06",
-      "t": "2026-11-16T14:50:53.674Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "e7a191c67489d222"
-    },
-    {
-      "id": "03c05134f88eb12c",
-      "t": "2026-11-16T14:50:53.675Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): mobilitat, successos, salut.",
-      "itemId": "e7a191c67489d222"
-    },
-    {
-      "id": "590a3ea6e0e71386",
-      "t": "2026-11-16T14:50:53.676Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El Gran Recapte suma 4.000 quilos d'aliments a Castellar» (L'Actual - Castellar del Vallès).",
-      "itemId": "77353874a1ce8a62"
-    },
-    {
-      "id": "096252c18a6fb10b",
-      "t": "2026-11-16T14:50:53.677Z",
-      "agente": "rastreador",
-      "texto": "He recollit «\"Ha costat gairebé un any\": veïns de Sabadell recuperen els diners de factures de llum de fins a 900 euros» (Diari de Sabadell).",
-      "itemId": "73cc157e162abb36"
-    },
-    {
       "id": "baa7c5ceb3c0f78f",
       "t": "2026-11-16T16:30:39.423Z",
       "agente": "rastreador",
@@ -2799,7 +2750,56 @@
       "agente": "mesa",
       "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · mobilitat.",
       "itemId": "960e3bdf5334131e"
+    },
+    {
+      "id": "74e6a70abb494f66",
+      "t": "2026-11-20T09:06:58.937Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Com es va formar el sistema solar?» (Ràdio Sabadell).",
+      "itemId": "15b0069a29464f23"
+    },
+    {
+      "id": "2d610fcb96f8df0a",
+      "t": "2026-11-20T09:06:58.938Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La Policia Local participa en un dispositiu KANPAI a l’estació de Rodalies de Barberà» (Ajuntament de Barberà del Vallès).",
+      "itemId": "46150db51a654ec2"
+    },
+    {
+      "id": "35149e9b000fe0dc",
+      "t": "2026-11-20T09:06:58.939Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat, Successos, Política local.",
+      "itemId": "46150db51a654ec2"
+    },
+    {
+      "id": "78c450de5675125a",
+      "t": "2026-11-20T09:06:58.940Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "46150db51a654ec2"
+    },
+    {
+      "id": "1cb0bf73af0477f4",
+      "t": "2026-11-20T09:06:58.941Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (5 punts): font oficial · mobilitat, successos, política local.",
+      "itemId": "46150db51a654ec2"
+    },
+    {
+      "id": "7e2446d5bac68310",
+      "t": "2026-11-20T09:06:58.942Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Ernesto Pascual, politòleg: \"Feijóo ha donat la imatge que volia i Sánchez ha acabat diluint-se\"» (Ràdio Sabadell).",
+      "itemId": "70eafdbf39a33f9b"
+    },
+    {
+      "id": "be187f48390e0cdc",
+      "t": "2026-11-20T09:06:58.943Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Qualla Kids s'alia amb Clickedu per impulsar una nova aplicació de gestió escolar» (Diari de Sabadell).",
+      "itemId": "826c18f293b04c16"
     }
   ],
-  "actualizado": "2026-11-20T08:04:57.630Z"
+  "actualizado": "2026-11-20T09:07:18.240Z"
 }

@@ -104,6 +104,74 @@
   },
   "items": [
     {
+      "id": "826c18f293b04c16",
+      "titulo": "Qualla Kids s'alia amb Clickedu per impulsar una nova aplicació de gestió escolar",
+      "enlace": "https://www.diaridesabadell.com/diners/qualla-kids-alianca-clickedu.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-20T09:00:43.000Z",
+      "detectado": "2026-11-20T09:06:58.937Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "70eafdbf39a33f9b",
+      "titulo": "Ernesto Pascual, politòleg: \"Feijóo ha donat la imatge que volia i Sánchez ha acabat diluint-se\"",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-mati-analisi-debat-201126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-20T08:12:41.000Z",
+      "detectado": "2026-11-20T09:06:58.937Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "46150db51a654ec2",
+      "titulo": "La Policia Local participa en un dispositiu KANPAI a l’estació de Rodalies de Barberà",
+      "enlace": "https://www.bdv.cat/noticies/la-policia-local-participa-en-un-dispositiu-kanpai-lestacio-de-rodalies-de-barbera",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "L’operatiu, dut a terme conjuntament amb els Mossos d’Esquadra i la Policia Nacional, s’emmarca en les actuacions per prevenir i combatre la multireincidència i ha permès identificar 73 persones La Policia Local de Barberà del Vallès ha…",
+      "municipio": "barbera",
+      "municipiosMencionados": [
+        "sabadell",
+        "barbera",
+        "badia"
+      ],
+      "publicado": "2026-11-20T08:11:00.000Z",
+      "detectado": "2026-11-20T09:06:58.937Z",
+      "sensible": true,
+      "etiquetas": [
+        "movilidad",
+        "sucesos",
+        "politica"
+      ],
+      "puntuacion": 5,
+      "motivos": [
+        "font oficial",
+        "mobilitat, successos, política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
       "id": "960e3bdf5334131e",
       "titulo": "Les Milles de Cerdanyola celebren la seva 38a edició",
       "enlace": "http://www.cerdanyola.cat/actualitat/les-milles-de-cerdanyola-celebren-la-seva-38a-edicio",
@@ -158,6 +226,33 @@
       "propuesta": false
     },
     {
+      "id": "a89cd90359306488",
+      "titulo": "La renovació del DNI a Santa Perpètua es podrà fer en una única cita",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/la-renovacio-del-dni-a-santa-perpetua-es-podra-fer-en-una-unica-cita.html",
+      "fuente": "ayto-santa-perpetua",
+      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
+      "tipo": "oficial",
+      "resumen": "La Junta Local de Seguretat s’ha centrat en temes d’educació ciutadana i formació policial",
+      "municipio": "santa-perpetua",
+      "municipiosMencionados": [
+        "santa-perpetua"
+      ],
+      "publicado": "2026-11-20T08:00:00.000Z",
+      "detectado": "2026-11-19T23:13:27.378Z",
+      "sensible": false,
+      "etiquetas": [
+        "sucesos",
+        "educacion"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "font oficial",
+        "successos, educació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
       "id": "ad7f1628dd9144d2",
       "titulo": "La sorra ha de tornar als jocs infantils? \"Els nens han de caure i saber què es trobaran\"",
       "enlace": "https://www.diaridesabadell.com/sabadell/sorra-cautxu-reciclat-parcs-jocs-infantils-sabadell.html",
@@ -170,6 +265,25 @@
       "publicado": "2026-11-20T07:58:50.000Z",
       "detectado": "2026-11-20T08:04:37.921Z",
       "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "15b0069a29464f23",
+      "titulo": "Com es va formar el sistema solar?",
+      "enlace": "https://radiosabadell.fm/podcast/fils-ciutat-univers-infinit-sistema-solar-201126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-20T07:57:16.000Z",
+      "detectado": "2026-11-20T09:06:58.937Z",
+      "sensible": false,
       "etiquetas": [],
       "puntuacion": 0,
       "motivos": [],
@@ -278,34 +392,7 @@
       "motivos": [],
       "duplicadaDe": null,
       "propuesta": false
-    },
-    {
-      "id": "a89cd90359306488",
-      "titulo": "La renovació del DNI a Santa Perpètua es podrà fer en una única cita",
-      "enlace": "https://www.staperpetua.cat/actualitat/noticies/la-renovacio-del-dni-a-santa-perpetua-es-podra-fer-en-una-unica-cita.html",
-      "fuente": "ayto-santa-perpetua",
-      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
-      "tipo": "oficial",
-      "resumen": "La Junta Local de Seguretat s’ha centrat en temes d’educació ciutadana i formació policial",
-      "municipio": "santa-perpetua",
-      "municipiosMencionados": [
-        "santa-perpetua"
-      ],
-      "publicado": "2026-11-19T23:00:00.000Z",
-      "detectado": "2026-11-19T23:13:27.378Z",
-      "sensible": false,
-      "etiquetas": [
-        "sucesos",
-        "educacion"
-      ],
-      "puntuacion": 4,
-      "motivos": [
-        "font oficial",
-        "successos, educació"
-      ],
-      "duplicadaDe": null,
-      "propuesta": true
     }
   ],
-  "actualizado": "2026-11-20T08:04:57.626Z"
+  "actualizado": "2026-11-20T09:07:18.237Z"
 }
