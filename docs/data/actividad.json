@@ -1,97 +1,6 @@
 {
   "eventos": [
     {
-      "id": "baa7c5ceb3c0f78f",
-      "t": "2026-11-16T16:30:39.423Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Com triar una sala de vetlla» (iSabadell).",
-      "itemId": "691373767d89b76a"
-    },
-    {
-      "id": "d3ddd82235aa9d17",
-      "t": "2026-11-16T16:30:39.424Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local, Salut.",
-      "itemId": "691373767d89b76a"
-    },
-    {
-      "id": "cbc23d93c58463ae",
-      "t": "2026-11-16T16:30:39.425Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): política local, salut.",
-      "itemId": "691373767d89b76a"
-    },
-    {
-      "id": "0aed3712ea992f9e",
-      "t": "2026-11-16T16:30:39.426Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La Fundació per la Indústria incorpora cinc nous patrons» (iSabadell).",
-      "itemId": "e45bba93e946b973"
-    },
-    {
-      "id": "95cf39ef9b4d066a",
-      "t": "2026-11-16T16:30:39.427Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local.",
-      "itemId": "e45bba93e946b973"
-    },
-    {
-      "id": "3123dda868fee90b",
-      "t": "2026-11-16T16:30:39.428Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Últims dies per sol·licitar el vot per correu» (L'Actual - Castellar del Vallès).",
-      "itemId": "1cad34723971a7d8"
-    },
-    {
-      "id": "19cc60357af55429",
-      "t": "2026-11-16T16:30:39.429Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La màgia de votar per primera vegada» (L'Actual - Castellar del Vallès).",
-      "itemId": "a7c406b5938d406f"
-    },
-    {
-      "id": "b1f2244dda47257f",
-      "t": "2026-11-16T17:42:44.853Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El líder Sant Nicolau s'acostuma a esclafar els rivals: triomf 65-86 a Cerdanyola» (Ràdio Sabadell).",
-      "itemId": "e8857da02173e323"
-    },
-    {
-      "id": "6dfee84725e9891e",
-      "t": "2026-11-16T17:42:44.854Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Ferran Costa: \"Estem passant una turbulència, podem començar a tirar gent o agafar l'avió entre tots per tornar a veure el sol\"» (Diari de Sabadell).",
-      "itemId": "50b5d8bcdfce5268"
-    },
-    {
-      "id": "aa489277c92f89d0",
-      "t": "2026-11-16T17:42:44.855Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La por s’instal·la a Matadepera per un repunt de robatoris a domicilis: \"Ens hem sentit molt sols\"» (Diari de Terrassa).",
-      "itemId": "a8d020a006207704"
-    },
-    {
-      "id": "b276c86ee4c915d1",
-      "t": "2026-11-16T17:42:44.856Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Successos.",
-      "itemId": "a8d020a006207704"
-    },
-    {
-      "id": "69016f5c6aba4241",
-      "t": "2026-11-16T17:42:44.857Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Nou director a les Urgències del Parc Taulí, en plena reorganització del servei» (Diari de Sabadell).",
-      "itemId": "0401587827ea6898"
-    },
-    {
-      "id": "27f647e8986e887e",
-      "t": "2026-11-16T17:42:44.858Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Salut.",
-      "itemId": "0401587827ea6898"
-    },
-    {
       "id": "9e105029287d57ae",
       "t": "2026-11-16T18:34:28.051Z",
       "agente": "rastreador",
@@ -2799,7 +2708,98 @@
       "agente": "rastreador",
       "texto": "He recollit «Qualla Kids s'alia amb Clickedu per impulsar una nova aplicació de gestió escolar» (Diari de Sabadell).",
       "itemId": "826c18f293b04c16"
+    },
+    {
+      "id": "356628dcccfc5a68",
+      "t": "2026-11-20T10:07:40.438Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L’Ajuntament cedeix l’Aulari de Mas Rampinyo per acollir temporalment 120 alumnes de l’IE Mas Rampinyo» (Ajuntament de Montcada i Reixac).",
+      "itemId": "31e2c92aef804a28"
+    },
+    {
+      "id": "28c9da64ad49e743",
+      "t": "2026-11-20T10:07:40.439Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Emergències, Educació.",
+      "itemId": "31e2c92aef804a28"
+    },
+    {
+      "id": "7abca2e4a0dd3a4f",
+      "t": "2026-11-20T10:07:40.440Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (5 punts): font oficial · emergències, educació.",
+      "itemId": "31e2c92aef804a28"
+    },
+    {
+      "id": "3cf3aa030b106f40",
+      "t": "2026-11-20T10:07:40.441Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Barberà del Vallès constitueix el nou Consell Municipal d’Infants i recupera aquest espai de participació infantil» (Ajuntament de Barberà del Vallès).",
+      "itemId": "a02c9dc6b3dd875b"
+    },
+    {
+      "id": "7ce10f567a6b068a",
+      "t": "2026-11-20T10:07:40.442Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local, Educació, Cultura i festes.",
+      "itemId": "a02c9dc6b3dd875b"
+    },
+    {
+      "id": "ad00513e426c9c31",
+      "t": "2026-11-20T10:07:40.443Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "a02c9dc6b3dd875b"
+    },
+    {
+      "id": "c6ab52fe0da43f4b",
+      "t": "2026-11-20T10:07:40.444Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): font oficial · política local, educació.",
+      "itemId": "a02c9dc6b3dd875b"
+    },
+    {
+      "id": "6a9b1c4a9e8ac47b",
+      "t": "2026-11-20T10:07:40.445Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Iniciada la remodelació que permetrà la millora de la plaça Francesc Macià» (Ajuntament de Montcada i Reixac).",
+      "itemId": "d95cc55b9a41e706"
+    },
+    {
+      "id": "8c5450da244bb2a6",
+      "t": "2026-11-20T10:07:40.446Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Cerdanyola defensa la seva autonomia municipal i recorda que no s'ha iniciat cap procés d'aprovació urbanística a la Pelleria» (Ajuntament de Cerdanyola del Vallès).",
+      "itemId": "fb308193ca751c36"
+    },
+    {
+      "id": "19c2210a55493a46",
+      "t": "2026-11-20T10:07:40.447Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat, Política local, Obres i urbanisme, Salut.",
+      "itemId": "fb308193ca751c36"
+    },
+    {
+      "id": "be1b7128d498c8ed",
+      "t": "2026-11-20T10:07:40.448Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (5 punts): font oficial · mobilitat, política local, obres i urbanisme, salut.",
+      "itemId": "fb308193ca751c36"
+    },
+    {
+      "id": "1f51a9429b1cca59",
+      "t": "2026-11-20T10:07:40.449Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Dependència digital: com la informàtica afecta la nostra vida quotidiana Emissió» (Ràdio Sabadell).",
+      "itemId": "fe3e50a6d98d9c08"
+    },
+    {
+      "id": "fa50116ca037a68a",
+      "t": "2026-11-20T10:07:40.450Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Programa 595 21/11/26» (Ràdio Sabadell).",
+      "itemId": "60577273b5ef9cbe"
     }
   ],
-  "actualizado": "2026-11-20T09:07:18.240Z"
+  "actualizado": "2026-11-20T10:07:54.574Z"
 }

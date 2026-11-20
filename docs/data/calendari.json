@@ -2,7 +2,7 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-20T09:06:58.937Z",
+  "consultat": "2026-11-20T10:07:40.438Z",
   "total": 11,
   "activitats": [
     {
@@ -41,7 +41,7 @@
       "color": null
     },
     {
-      "titol": "COTXE! (Paulino) Rdp Ferran Costa",
+      "titol": "COTXE! Rdp Ferran Costa",
       "inici": "2026-11-20T12:15:00.000Z",
       "final": "2026-11-20T13:15:00.000Z",
       "totElDia": false,
@@ -84,5 +84,5 @@
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-20T09:07:37.982Z"
+  "actualizado": "2026-11-20T10:08:14.414Z"
 }

@@ -104,6 +104,74 @@
   },
   "items": [
     {
+      "id": "60577273b5ef9cbe",
+      "titulo": "Programa 595 21/11/26",
+      "enlace": "https://radiosabadell.fm/alacarta/audio/programa-595-211126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-20T09:59:31.000Z",
+      "detectado": "2026-11-20T10:07:40.438Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "fe3e50a6d98d9c08",
+      "titulo": "Dependència digital: com la informàtica afecta la nostra vida quotidiana Emissió",
+      "enlace": "https://radiosabadell.fm/alacarta/audio/dependencia-digital-com-la-informatica-afecta-la-nostra-vida-quotidiana-emissio-0",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-20T09:54:21.000Z",
+      "detectado": "2026-11-20T10:07:40.438Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "fb308193ca751c36",
+      "titulo": "Cerdanyola defensa la seva autonomia municipal i recorda que no s'ha iniciat cap procés d'aprovació urbanística a la Pelleria",
+      "enlace": "http://www.cerdanyola.cat/actualitat/cerdanyola-defensa-la-seva-autonomia-municipal-i-recorda-que-no-sha-iniciat-cap-proces",
+      "fuente": "ayto-cerdanyola",
+      "fuenteNombre": "Ajuntament de Cerdanyola del Vallès",
+      "tipo": "oficial",
+      "resumen": "Cerdanyola defensa la seva autonomia municipal i recorda que no s'ha iniciat cap procés d'aprovació urbanística a la Pelleria L'Ajuntament de Cerdanyola del Vallès vol aclarir les informacions i manifestacions fetes públiques per…",
+      "municipio": "cerdanyola",
+      "municipiosMencionados": [
+        "cerdanyola",
+        "sant-cugat"
+      ],
+      "publicado": "2026-11-20T09:30:47.000Z",
+      "detectado": "2026-11-20T10:07:40.438Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad",
+        "politica",
+        "urbanismo",
+        "salud"
+      ],
+      "puntuacion": 5,
+      "motivos": [
+        "font oficial",
+        "mobilitat, política local, obres i urbanisme, salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
       "id": "826c18f293b04c16",
       "titulo": "Qualla Kids s'alia amb Clickedu per impulsar una nova aplicació de gestió escolar",
       "enlace": "https://www.diaridesabadell.com/diners/qualla-kids-alianca-clickedu.html",
@@ -121,6 +189,55 @@
       "motivos": [],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "d95cc55b9a41e706",
+      "titulo": "Iniciada la remodelació que permetrà la millora de la plaça Francesc Macià",
+      "enlace": "https://www.montcada.cat/actualitat/noticies/iniciada-la-remodelacio-que-permetra-la-millora-de-la-placa-francesc-macia-.html",
+      "fuente": "ayto-montcada",
+      "fuenteNombre": "Ajuntament de Montcada i Reixac",
+      "tipo": "oficial",
+      "resumen": "",
+      "municipio": "montcada",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-20T09:00:00.000Z",
+      "detectado": "2026-11-20T10:07:40.438Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "a02c9dc6b3dd875b",
+      "titulo": "Barberà del Vallès constitueix el nou Consell Municipal d’Infants i recupera aquest espai de participació infantil",
+      "enlace": "https://www.bdv.cat/noticies/barbera-del-valles-constitueix-el-nou-consell-municipal-dinfants-i-recupera-aquest-espai-de",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "El Teatre Municipal Cooperativa va acollir aquest dilluns 16 de novembre, a les 18 h, l’acte de constitució del nou Consell Municipal d’Infants de Barberà del Vallès, un espai de participació que es recupera amb la voluntat de donar veu…",
+      "municipio": "barbera",
+      "municipiosMencionados": [
+        "barbera"
+      ],
+      "publicado": "2026-11-20T08:42:00.000Z",
+      "detectado": "2026-11-20T10:07:40.438Z",
+      "sensible": true,
+      "etiquetas": [
+        "politica",
+        "educacion",
+        "cultura"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "font oficial",
+        "política local, educació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
     },
     {
       "id": "70eafdbf39a33f9b",
@@ -392,7 +509,32 @@
       "motivos": [],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "31e2c92aef804a28",
+      "titulo": "L’Ajuntament cedeix l’Aulari de Mas Rampinyo per acollir temporalment 120 alumnes de l’IE Mas Rampinyo",
+      "enlace": "https://www.montcada.cat/actualitat/noticies/lajuntament-cedeix-laulari-de-mas-rampinyo-per-acollir-temporalment-120-alumnes-de-lie-mas-rampinyo.html",
+      "fuente": "ayto-montcada",
+      "fuenteNombre": "Ajuntament de Montcada i Reixac",
+      "tipo": "oficial",
+      "resumen": "Els quatre grups de 5è i 6è de primària iniciaran les classes al nou espai el proper dilluns 23 de novembre. La cessió temporal de l'equipament municipal al Departament d’Educació es fa per garantir la continuïtat de l'activitat lectiva…",
+      "municipio": "montcada",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-19T23:00:00.000Z",
+      "detectado": "2026-11-20T10:07:40.438Z",
+      "sensible": false,
+      "etiquetas": [
+        "emergencias",
+        "educacion"
+      ],
+      "puntuacion": 5,
+      "motivos": [
+        "font oficial",
+        "emergències, educació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
     }
   ],
-  "actualizado": "2026-11-20T09:07:18.237Z"
+  "actualizado": "2026-11-20T10:07:54.571Z"
 }
