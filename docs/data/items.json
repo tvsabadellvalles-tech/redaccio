@@ -104,6 +104,74 @@
   },
   "items": [
     {
+      "id": "8ee0d72da1357508",
+      "titulo": "Cerdanyola respon a les crítiques de Sant Cugat i defensa la seva autonomia en el projecte d'un nou barri a la Pelleria",
+      "enlace": "https://www.diaridesabadell.com/valles/cerdanyola/cerdanyola-barri-sant-cugat-pelleria.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "cerdanyola",
+        "sant-cugat"
+      ],
+      "publicado": "2026-11-20T10:21:07.000Z",
+      "detectado": "2026-11-20T10:23:10.166Z",
+      "sensible": false,
+      "etiquetas": [
+        "salud"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "3fae9a3018f286b7",
+      "titulo": "Emprenedores sense filtres: la vida real darrere dels negocis",
+      "enlace": "https://www.santquirzevalles.cat/actualitat/noticies/emprenedores-sense-filtres-la-vida-real-darrere-dels-negocis",
+      "fuente": "ayto-sant-quirze",
+      "fuenteNombre": "Ajuntament de Sant Quirze del Vallès",
+      "tipo": "oficial",
+      "resumen": "Una quarantena de dones es reuneixen i comparteixen experiències amb motiu del Dia Internacional de la Dona Emprenedora",
+      "municipio": "sant-quirze",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-20T10:21:07.000Z",
+      "detectado": "2026-11-20T10:23:10.166Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "c1241f7f399f97b3",
+      "titulo": "El 20N, una data assenyalada des de fa 51 anys a Sabadell: \"Va ser un gran alleugeriment\"",
+      "enlace": "https://www.diaridesabadell.com/sabadell/50-anys-diari-de-sabadell/mort-francisco-franco-51-anys-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-20T10:15:47.000Z",
+      "detectado": "2026-11-20T10:23:10.166Z",
+      "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "60577273b5ef9cbe",
       "titulo": "Programa 595 21/11/26",
       "enlace": "https://radiosabadell.fm/alacarta/audio/programa-595-211126",
@@ -536,5 +604,5 @@
       "propuesta": true
     }
   ],
-  "actualizado": "2026-11-20T10:07:54.571Z"
+  "actualizado": "2026-11-20T10:23:20.487Z"
 }

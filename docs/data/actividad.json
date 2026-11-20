@@ -1,41 +1,6 @@
 {
   "eventos": [
     {
-      "id": "a9f309793f356ca9",
-      "t": "2026-11-16T18:34:28.053Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Cultura i festes.",
-      "itemId": "420301329b9873a7"
-    },
-    {
-      "id": "6ca56affcf69efdb",
-      "t": "2026-11-16T19:36:01.848Z",
-      "agente": "rastreador",
-      "texto": "La font «Ajuntament de Barberà del Vallès» no respon (fetch failed).",
-      "itemId": null
-    },
-    {
-      "id": "ce7dd9f937637190",
-      "t": "2026-11-16T20:26:47.730Z",
-      "agente": "rastreador",
-      "texto": "La font «Ajuntament de Barberà del Vallès» torna a respondre.",
-      "itemId": null
-    },
-    {
-      "id": "40b1c95a61d4c013",
-      "t": "2026-11-16T20:26:47.731Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Tribuna Preferent 26-27 #10 (215): Una altra derrota a fora... i un altre lesionat» (Ràdio Sabadell).",
-      "itemId": "885d0781336cbcf3"
-    },
-    {
-      "id": "5b0980b9382ab227",
-      "t": "2026-11-16T21:19:06.428Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La millor setmana per ser elPetit de casa acaba de començar» (Diari de Sabadell).",
-      "itemId": "1ce8142c800c35d1"
-    },
-    {
       "id": "2690cee908bb15b5",
       "t": "2026-11-16T23:44:46.594Z",
       "agente": "rastreador",
@@ -2799,7 +2764,42 @@
       "agente": "rastreador",
       "texto": "La font «Ajuntament de Badia del Vallès» torna a respondre.",
       "itemId": null
+    },
+    {
+      "id": "9efd79f520c6f0c2",
+      "t": "2026-11-20T10:23:10.166Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El 20N, una data assenyalada des de fa 51 anys a Sabadell: \"Va ser un gran alleugeriment\"» (Diari de Sabadell).",
+      "itemId": "c1241f7f399f97b3"
+    },
+    {
+      "id": "dc163d7203b5aacf",
+      "t": "2026-11-20T10:23:10.167Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "c1241f7f399f97b3"
+    },
+    {
+      "id": "df236d9ffb38d3a7",
+      "t": "2026-11-20T10:23:10.168Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Cerdanyola respon a les crítiques de Sant Cugat i defensa la seva autonomia en el projecte d'un nou barri a la Pelleria» (Diari de Sabadell).",
+      "itemId": "8ee0d72da1357508"
+    },
+    {
+      "id": "f58737c809b03859",
+      "t": "2026-11-20T10:23:10.169Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut.",
+      "itemId": "8ee0d72da1357508"
+    },
+    {
+      "id": "802d2fc5d1ab62fe",
+      "t": "2026-11-20T10:23:10.170Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Emprenedores sense filtres: la vida real darrere dels negocis» (Ajuntament de Sant Quirze del Vallès).",
+      "itemId": "3fae9a3018f286b7"
     }
   ],
-  "actualizado": "2026-11-20T10:14:03.415Z"
+  "actualizado": "2026-11-20T10:23:20.490Z"
 }

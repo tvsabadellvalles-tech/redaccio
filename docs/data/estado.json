@@ -10,7 +10,7 @@
     },
     "diari-sabadell": {
       "ok": true,
-      "items": 5
+      "items": 6
     },
     "diari-terrassa": {
       "ok": true,
@@ -74,13 +74,13 @@
     },
     "ayto-sant-quirze": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "324-comarques": {
       "ok": true,
       "items": 0
     }
   },
-  "consultat": "2026-11-20T10:17:26.962Z",
-  "actualizado": "2026-11-20T10:17:42.742Z"
+  "consultat": "2026-11-20T10:23:10.166Z",
+  "actualizado": "2026-11-20T10:23:20.488Z"
 }
