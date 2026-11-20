@@ -104,6 +104,25 @@
   },
   "items": [
     {
+      "id": "ad011d49f4a4d69d",
+      "titulo": "Agenda cultural 20.11.26",
+      "enlace": "https://radiosabadell.fm/alacarta/audio/agenda-cultural-201126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-20T15:22:14.000Z",
+      "detectado": "2026-11-20T15:30:08.805Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "714d0e21c54dd655",
       "titulo": "Els detalls de les obres del camp del Can Rull RT: data d'inici, durada, inversió i què s'hi fa",
       "enlace": "https://radiosabadell.fm/esports/futbol/detalls-obres-camp-del-can-rull",
@@ -152,6 +171,34 @@
       ],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "3c16b2bb328803cc",
+      "titulo": "La història curiosa del Sabadell-Granada: l'àrbitre vestit de policia",
+      "enlace": "https://radiosabadell.fm/esports/ce-sabadell/historia-curiosa-sabadell-granada-arbitre-policia",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-20T13:45:24.000Z",
+      "detectado": "2026-11-20T15:30:08.805Z",
+      "sensible": false,
+      "etiquetas": [
+        "emergencias",
+        "sucesos",
+        "medioambiente",
+        "deportes"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "emergències, successos, medi ambient"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
     },
     {
       "id": "d85ca2c513fe5739",
@@ -1582,5 +1629,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-20T14:31:30.322Z"
+  "actualizado": "2026-11-20T15:30:29.459Z"
 }

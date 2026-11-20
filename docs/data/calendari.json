@@ -2,8 +2,8 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-20T14:31:10.229Z",
-  "total": 13,
+  "consultat": "2026-11-20T15:30:08.805Z",
+  "total": 12,
   "activitats": [
     {
       "titol": "BERTA NO VE",
@@ -88,15 +88,8 @@
       "final": "2026-11-21T15:00:00.000Z",
       "totElDia": false,
       "color": null
-    },
-    {
-      "titol": "CN Sabadell - CN Sant Andreu",
-      "inici": "2026-11-21T16:30:00.000Z",
-      "final": "2026-11-21T17:30:00.000Z",
-      "totElDia": false,
-      "color": null
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-20T14:31:49.117Z"
+  "actualizado": "2026-11-20T15:30:51.712Z"
 }

@@ -1,34 +1,6 @@
 {
   "eventos": [
     {
-      "id": "8d27333b2c2a87fd",
-      "t": "2026-11-17T12:56:41.859Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Ja es poden fer les inscripcions a la I Cursa Antiracista de Santa Perpètua» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "12fd36f5277fa199"
-    },
-    {
-      "id": "693ccadce847ef63",
-      "t": "2026-11-17T12:56:41.860Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El festival Observa confirma els Catarres, Joan Dausà i Lildami» (Diari de Sabadell).",
-      "itemId": "d7ae3bafb2b4170a"
-    },
-    {
-      "id": "70601f52edc382f0",
-      "t": "2026-11-17T12:56:41.861Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Les famílies a la Generalitat: \"Els nostres fills s’estan quedant sense sortides i cal que es resolgui\"» (Diari de Sabadell).",
-      "itemId": "91a42a0d2daaae4e"
-    },
-    {
-      "id": "01fc1a9b54ebde35",
-      "t": "2026-11-17T12:56:41.862Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Educació.",
-      "itemId": "91a42a0d2daaae4e"
-    },
-    {
       "id": "cbf0cc23b1257800",
       "t": "2026-11-17T12:56:41.863Z",
       "agente": "rastreador",
@@ -2799,7 +2771,35 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Obres i urbanisme, Esports.",
       "itemId": "714d0e21c54dd655"
+    },
+    {
+      "id": "bc630bd0d61fde51",
+      "t": "2026-11-20T15:30:08.805Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La història curiosa del Sabadell-Granada: l'àrbitre vestit de policia» (Ràdio Sabadell).",
+      "itemId": "3c16b2bb328803cc"
+    },
+    {
+      "id": "a37872f2139e2039",
+      "t": "2026-11-20T15:30:08.806Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Emergències, Successos, Medi ambient, Esports.",
+      "itemId": "3c16b2bb328803cc"
+    },
+    {
+      "id": "46912a06f7688b08",
+      "t": "2026-11-20T15:30:08.807Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): emergències, successos, medi ambient.",
+      "itemId": "3c16b2bb328803cc"
+    },
+    {
+      "id": "0ac5c782c75c811f",
+      "t": "2026-11-20T15:30:08.808Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Agenda cultural 20.11.26» (Ràdio Sabadell).",
+      "itemId": "ad011d49f4a4d69d"
     }
   ],
-  "actualizado": "2026-11-20T14:31:30.325Z"
+  "actualizado": "2026-11-20T15:30:29.463Z"
 }
