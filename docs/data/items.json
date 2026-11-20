@@ -104,6 +104,175 @@
   },
   "items": [
     {
+      "id": "374671a4d0e8e8c7",
+      "titulo": "FOTOS | Missió a Sabadell: recuperar els drets abans que l'ERROR 404 s'apoderi de la ciutat",
+      "enlace": "https://www.diaridesabadell.com/sabadell/missio-sabadell-error404-sabadell-sindic-scape-room.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-20T11:45:46.000Z",
+      "detectado": "2026-11-20T11:51:23.704Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "3e5860b80691305c",
+      "titulo": "Alumnes protagonitzen una protesta contra la falta de docents i colònies",
+      "enlace": "https://www.isabadell.cat/societat/educacio/alumnes-protagonitzen-una-protesta-contra-la-falta-de-docents-i-colonies-341224/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-20T11:35:52.000Z",
+      "detectado": "2026-11-20T11:51:23.704Z",
+      "sensible": false,
+      "etiquetas": [
+        "educacion"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "educació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "6c3b5b0dd82fcf0c",
+      "titulo": "L’Ajuntament fa una crida a la ciutadania i les entitats per participar a la Cavalcada de Reis 2027",
+      "enlace": "http://www.cerdanyola.cat/actualitat/lajuntament-fa-una-crida-la-ciutadania-i-les-entitats-participar-la-cavalcada-de-reis",
+      "fuente": "ayto-cerdanyola",
+      "fuenteNombre": "Ajuntament de Cerdanyola del Vallès",
+      "tipo": "oficial",
+      "resumen": "L’Ajuntament fa una crida a la ciutadania i les entitats per participar a la Cavalcada de Reis 2027 La Cavalcada de Reis és una de les celebracions més esperades i participatives de Cerdanyola. Per començar a preparar una nova nit màgica,…",
+      "municipio": "cerdanyola",
+      "municipiosMencionados": [
+        "cerdanyola"
+      ],
+      "publicado": "2026-11-20T11:30:36.000Z",
+      "detectado": "2026-11-20T11:51:23.704Z",
+      "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "087bf26970a75aff",
+      "titulo": "El programa educatiu de la Sindicatura de Greuges creix amb un ‘scape room’",
+      "enlace": "https://www.isabadell.cat/societat/scape-room-programa-educatiu-sindicatura-greuges-341227/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-20T11:30:01.000Z",
+      "detectado": "2026-11-20T11:51:23.704Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "9d8d97325a67c63c",
+      "titulo": "La Llanterna Màgica 401: 25 anys de màgia. Harry Potter i la pedra filosofal.",
+      "enlace": "https://radiosabadell.fm/alacarta/audio/la-llanterna-magica-401-25-anys-de-magia-harry-potter-i-la-pedra-filosofal",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-20T11:22:45.000Z",
+      "detectado": "2026-11-20T11:51:23.704Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "1ac130de64cd25fa",
+      "titulo": "Fèlix Colomer: \"El documental de Vinicius és una porqueria\"",
+      "enlace": "https://www.diaridesabadell.com/oci-cultura/felix-colomer-emmy-internacional-temps-mort.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-20T11:19:29.000Z",
+      "detectado": "2026-11-20T11:51:23.704Z",
+      "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "c0e181df6ba60e5c",
+      "titulo": "S'esfondra de nou una xemeneia d'un dels blocs dels Merinals: \"Els nostres edificis es desfan!\"",
+      "enlace": "https://www.diaridesabadell.com/sabadell/esfondrament-xemeneia-bloc-sabadell-merinals-2026.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-20T11:19:04.000Z",
+      "detectado": "2026-11-20T11:51:23.704Z",
+      "sensible": false,
+      "etiquetas": [
+        "sucesos",
+        "economia"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "successos, economia i ocupació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "3e53198d7099a2b2",
+      "titulo": "Programa 95 de la Caverna Galàctica",
+      "enlace": "https://radiosabadell.fm/alacarta/audio/programa-95-de-la-caverna-galactica",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-20T11:15:18.000Z",
+      "detectado": "2026-11-20T11:51:23.704Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "81590ccee14ee242",
       "titulo": "Viu el Nadal a SQV!",
       "enlace": "https://www.santquirzevalles.cat/actualitat/noticies/viu-el-nadal-a-sqv",
@@ -210,6 +379,25 @@
       "propuesta": false
     },
     {
+      "id": "d53a07f2a22a63e4",
+      "titulo": "Veni, Vidi, Vici amb Gerard Quintana i Care Santos",
+      "enlace": "https://radiosabadell.fm/alacarta/audio/veni-vidi-vici-amb-gerard-quintana-i-care-santos",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-20T10:35:11.000Z",
+      "detectado": "2026-11-20T11:51:23.704Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "34f7baa98e47ac04",
       "titulo": "La vaga d'estudiants ressona a Sabadell",
       "enlace": "https://www.diaridesabadell.com/sabadell/la-vaga-destudiants-ressona-a-sabadell.html",
@@ -229,6 +417,33 @@
       "motivos": [],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "418ce24fc7abf7ba",
+      "titulo": "Una trentena d'estudiants de Sabadell es mobilitzen per defensar l'educació pública i la recuperació de les colònies",
+      "enlace": "https://radiosabadell.fm/actualitat/educacio/una-trentena-destudiants-de-sabadell-es-mobilitzen-defensar-leducacio-publica-i",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-20T10:21:48.000Z",
+      "detectado": "2026-11-20T11:51:23.704Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica",
+        "educacion",
+        "medioambiente"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "política local, educació, medi ambient"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
     },
     {
       "id": "8ee0d72da1357508",
@@ -299,6 +514,27 @@
       "propuesta": false
     },
     {
+      "id": "e35e16746c7eae43",
+      "titulo": "Teoria King Kong, el dissabte 20 de novembre, a la Sala Telers",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/teoria-king-kong-el-dissabte-20-de-novembre-a-la-sala-telers.html",
+      "fuente": "ayto-santa-perpetua",
+      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
+      "tipo": "oficial",
+      "resumen": "Forma part de la programació d'Efímera i de les activitats amb motiu del Dia Internacional de lluita per a l'eliminació de les violències masclistes.",
+      "municipio": "santa-perpetua",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-20T10:00:00.000Z",
+      "detectado": "2026-11-20T11:51:23.704Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "60577273b5ef9cbe",
       "titulo": "Programa 595 21/11/26",
       "enlace": "https://radiosabadell.fm/alacarta/audio/programa-595-211126",
@@ -335,6 +571,33 @@
       "motivos": [],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "2434db90e3fee815",
+      "titulo": "'Error 404', un nou 'scape room' per apropar els drets humans als joves i adolescents",
+      "enlace": "https://radiosabadell.fm/actualitat/educacio/error-404-scape-room-sobre-drets-humans",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-20T09:47:35.000Z",
+      "detectado": "2026-11-20T11:51:23.704Z",
+      "sensible": true,
+      "etiquetas": [
+        "emergencias",
+        "salud",
+        "educacion"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "emergències, salut, educació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
     },
     {
       "id": "fb308193ca751c36",
@@ -402,6 +665,30 @@
       "puntuacion": 1,
       "motivos": [
         "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "c7f19d0457aea615",
+      "titulo": "La setmana vinent s'asfaltarà un tram de l'avinguda Tres",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/la-setmana-vinent-sasfaltara-un-tram-de-lavinguda-tres.html",
+      "fuente": "ayto-santa-perpetua",
+      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
+      "tipo": "oficial",
+      "resumen": "Les obres afectaran el tram comprès entre el carrer U i la rotonda situada a l’altura de l’avinguda de l’Estela Ibèrica.",
+      "municipio": "santa-perpetua",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-20T09:00:00.000Z",
+      "detectado": "2026-11-20T11:51:23.704Z",
+      "sensible": false,
+      "etiquetas": [
+        "urbanismo"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "font oficial",
+        "obres i urbanisme"
       ],
       "duplicadaDe": null,
       "propuesta": false
@@ -563,6 +850,29 @@
       ],
       "duplicadaDe": null,
       "propuesta": true
+    },
+    {
+      "id": "da8915df9835444c",
+      "titulo": "L’Outlet de CIPO recapta 28.000 euros per al centre d’atenció de Can Gambús",
+      "enlace": "https://www.isabadell.cat/societat/loutlet-de-cipo-recapta-28-000-euros-per-al-centre-datencio-de-can-gambus-341159/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-20T08:00:00.000Z",
+      "detectado": "2026-11-20T11:51:23.704Z",
+      "sensible": false,
+      "etiquetas": [
+        "salud"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
     },
     {
       "id": "ad7f1628dd9144d2",
@@ -753,7 +1063,30 @@
       ],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "bd672bedc03472a5",
+      "titulo": "El programa DOT 2026-2027 ofereix noves oportunitats de formació i inserció laboral",
+      "enlace": "https://www.sentmenat.cat/actualitat/noticies/el-programa-dot-2026-2027-ofereix-noves-oportunitats-de-formacio-i-insercio-laboral.html",
+      "fuente": "ayto-sentmenat",
+      "fuenteNombre": "Ajuntament de Sentmenat",
+      "tipo": "oficial",
+      "resumen": "Les persones de Sentmenat interessades a millorar les seves competències digitals i les seves oportunitats laborals ja poden fer la preinscripció al programa DOT (Dispositiu d'Orientació i TIC).",
+      "municipio": "sentmenat",
+      "municipiosMencionados": [
+        "sentmenat"
+      ],
+      "publicado": "2026-11-19T23:00:00.000Z",
+      "detectado": "2026-11-20T11:51:23.704Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
     }
   ],
-  "actualizado": "2026-11-20T11:14:26.184Z"
+  "actualizado": "2026-11-20T11:51:32.557Z"
 }

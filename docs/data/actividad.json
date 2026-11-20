@@ -1,195 +1,6 @@
 {
   "eventos": [
     {
-      "id": "a3888a16ef6590e6",
-      "t": "2026-11-17T08:52:50.131Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Economia i ocupació, Educació, Cultura i festes.",
-      "itemId": "bf77a3dc1bb566a2"
-    },
-    {
-      "id": "0758d0d92e4d81b4",
-      "t": "2026-11-17T08:52:50.132Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · economia i ocupació, educació.",
-      "itemId": "bf77a3dc1bb566a2"
-    },
-    {
-      "id": "88fad8efccd7bec8",
-      "t": "2026-11-17T08:52:50.133Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La vaga ferroviària deixa Rodalies amb menys de la meitat dels trens previstos en els serveis mínims» (Diari de Sabadell).",
-      "itemId": "6230ad5e0cfd0a7d"
-    },
-    {
-      "id": "a314ee3c574d3178",
-      "t": "2026-11-17T08:52:50.134Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat.",
-      "itemId": "6230ad5e0cfd0a7d"
-    },
-    {
-      "id": "6de3b62292cb9601",
-      "t": "2026-11-17T09:00:20.273Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Aprovat el projecte del nou edifici de serveis esportius, que tindrà més de 2.00 m2» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "99e3dbc464aa1bc0"
-    },
-    {
-      "id": "dd9075508b7965a5",
-      "t": "2026-11-17T09:00:20.274Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local, Esports.",
-      "itemId": "99e3dbc464aa1bc0"
-    },
-    {
-      "id": "554a26e9b5ed31ed",
-      "t": "2026-11-17T09:00:20.275Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · política local.",
-      "itemId": "99e3dbc464aa1bc0"
-    },
-    {
-      "id": "5898de7f4c6466a2",
-      "t": "2026-11-17T09:43:55.824Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Finalitzen els treballs de retirada de canya americana i desbrossada de la llera del riu Ripoll» (Ajuntament de Barberà del Vallès).",
-      "itemId": "ea45fd8f7c336eee"
-    },
-    {
-      "id": "906405b6bd7318ef",
-      "t": "2026-11-17T09:43:55.825Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Emergències, Economia i ocupació, Medi ambient.",
-      "itemId": "ea45fd8f7c336eee"
-    },
-    {
-      "id": "70b4a52774ca7b51",
-      "t": "2026-11-17T09:43:55.826Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (5 punts): font oficial · emergències, economia i ocupació, medi ambient.",
-      "itemId": "ea45fd8f7c336eee"
-    },
-    {
-      "id": "5e5593beff2181fa",
-      "t": "2026-11-17T09:43:55.827Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Ajudicades les obres de la primera fase de la nova pista d'atletisme» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "94933945f4ec6e67"
-    },
-    {
-      "id": "47d9d0a93294b705",
-      "t": "2026-11-17T09:43:55.828Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Obres i urbanisme, Economia i ocupació.",
-      "itemId": "94933945f4ec6e67"
-    },
-    {
-      "id": "3daa44b55488526a",
-      "t": "2026-11-17T09:43:55.829Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · obres i urbanisme, economia i ocupació.",
-      "itemId": "94933945f4ec6e67"
-    },
-    {
-      "id": "09bf50d6ced69172",
-      "t": "2026-11-17T09:43:55.830Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Aprovat el projecte del nou edifici de serveis esportius, que tindrà més de 2.000 m2» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "f96a512e6e0016b6"
-    },
-    {
-      "id": "c719f90ef82edeef",
-      "t": "2026-11-17T09:43:55.831Z",
-      "agente": "deduplicador",
-      "texto": "Descartada perquè és duplicada: coincideix amb «Aprovat el projecte del nou edifici de serveis esportius, que tindrà més de 2.00 m2» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "f96a512e6e0016b6"
-    },
-    {
-      "id": "a2d0c8b11342471d",
-      "t": "2026-11-17T09:59:25.503Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La reurbanització de Ca la Gràcia prioritza la seguretat dels vianants i redueix el trànsit de pas» (Ajuntament de Sentmenat).",
-      "itemId": "78456ee005f84697"
-    },
-    {
-      "id": "9cbc23bc1a3f6408",
-      "t": "2026-11-17T09:59:25.504Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat.",
-      "itemId": "78456ee005f84697"
-    },
-    {
-      "id": "2661d8381f762835",
-      "t": "2026-11-17T09:59:25.505Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · mobilitat.",
-      "itemId": "78456ee005f84697"
-    },
-    {
-      "id": "5e44bda5019a5d2b",
-      "t": "2026-11-17T09:59:25.506Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El doctor Luis Martínez, nou director del servei d'Urgències del Parc Taulí» (Ràdio Sabadell).",
-      "itemId": "935ca98f07f31f0b"
-    },
-    {
-      "id": "389e1746ea3e5410",
-      "t": "2026-11-17T09:59:25.507Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Obres i urbanisme, Salut, Educació.",
-      "itemId": "935ca98f07f31f0b"
-    },
-    {
-      "id": "558cdfa341137c1b",
-      "t": "2026-11-17T09:59:25.508Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): obres i urbanisme, salut, educació.",
-      "itemId": "935ca98f07f31f0b"
-    },
-    {
-      "id": "859fa355c89bb59a",
-      "t": "2026-11-17T09:59:25.509Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El servei de Rodalies a l'R4, sota mínims» (Ràdio Sabadell).",
-      "itemId": "e535a48615b170b0"
-    },
-    {
-      "id": "99c4807d68629252",
-      "t": "2026-11-17T09:59:25.510Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat, Successos, Política local.",
-      "itemId": "e535a48615b170b0"
-    },
-    {
-      "id": "af0d5ee309f15947",
-      "t": "2026-11-17T09:59:25.511Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): mobilitat, successos, política local.",
-      "itemId": "e535a48615b170b0"
-    },
-    {
-      "id": "1c0ea112f4e9ec6a",
-      "t": "2026-11-17T11:05:34.800Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La tertúlia: Habitatge, la Caserna i altres temes d'actualitat» (Ràdio Sabadell).",
-      "itemId": "db13b4c9183bc4c3"
-    },
-    {
-      "id": "698ad138adff8ec2",
-      "t": "2026-11-17T11:05:34.801Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Obres i urbanisme.",
-      "itemId": "db13b4c9183bc4c3"
-    },
-    {
-      "id": "05af6474d6293376",
-      "t": "2026-11-17T11:05:34.802Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Presó per a un home acusat de robar joies i rellotges a dones grans» (Diari de Sabadell).",
-      "itemId": "4bb513b2d738803b"
-    },
-    {
       "id": "f4fc52719d4f9bde",
       "t": "2026-11-17T11:05:34.803Z",
       "agente": "rastreador",
@@ -2799,7 +2610,196 @@
       "agente": "rastreador",
       "texto": "He recollit «Viu el Nadal a SQV!» (Ajuntament de Sant Quirze del Vallès).",
       "itemId": "81590ccee14ee242"
+    },
+    {
+      "id": "9f16d065f8312ed5",
+      "t": "2026-11-20T11:51:23.704Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El programa DOT 2026-2027 ofereix noves oportunitats de formació i inserció laboral» (Ajuntament de Sentmenat).",
+      "itemId": "bd672bedc03472a5"
+    },
+    {
+      "id": "b90fab681409de96",
+      "t": "2026-11-20T11:51:23.705Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L’Outlet de CIPO recapta 28.000 euros per al centre d’atenció de Can Gambús» (iSabadell).",
+      "itemId": "da8915df9835444c"
+    },
+    {
+      "id": "d7f94ae2b0b8c00b",
+      "t": "2026-11-20T11:51:23.706Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut.",
+      "itemId": "da8915df9835444c"
+    },
+    {
+      "id": "ebe4282f59ab24db",
+      "t": "2026-11-20T11:51:23.707Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La setmana vinent s'asfaltarà un tram de l'avinguda Tres» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "c7f19d0457aea615"
+    },
+    {
+      "id": "ddc65bd885daa667",
+      "t": "2026-11-20T11:51:23.708Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Obres i urbanisme.",
+      "itemId": "c7f19d0457aea615"
+    },
+    {
+      "id": "1243fcdfebe8773d",
+      "t": "2026-11-20T11:51:23.709Z",
+      "agente": "rastreador",
+      "texto": "He recollit «'Error 404', un nou 'scape room' per apropar els drets humans als joves i adolescents» (Ràdio Sabadell).",
+      "itemId": "2434db90e3fee815"
+    },
+    {
+      "id": "b59b1eb5e2ffadeb",
+      "t": "2026-11-20T11:51:23.710Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Emergències, Salut, Educació.",
+      "itemId": "2434db90e3fee815"
+    },
+    {
+      "id": "78405c512cfefcd8",
+      "t": "2026-11-20T11:51:23.711Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "2434db90e3fee815"
+    },
+    {
+      "id": "4cb1ef50637a8a64",
+      "t": "2026-11-20T11:51:23.712Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): emergències, salut, educació.",
+      "itemId": "2434db90e3fee815"
+    },
+    {
+      "id": "ab51e28785faeedb",
+      "t": "2026-11-20T11:51:23.713Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Teoria King Kong, el dissabte 20 de novembre, a la Sala Telers» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "e35e16746c7eae43"
+    },
+    {
+      "id": "4d163bcb5057c2fb",
+      "t": "2026-11-20T11:51:23.714Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Una trentena d'estudiants de Sabadell es mobilitzen per defensar l'educació pública i la recuperació de les colònies» (Ràdio Sabadell).",
+      "itemId": "418ce24fc7abf7ba"
+    },
+    {
+      "id": "86d1e9f88c919c0a",
+      "t": "2026-11-20T11:51:23.715Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local, Educació, Medi ambient.",
+      "itemId": "418ce24fc7abf7ba"
+    },
+    {
+      "id": "449c382c71190a76",
+      "t": "2026-11-20T11:51:23.716Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): política local, educació, medi ambient.",
+      "itemId": "418ce24fc7abf7ba"
+    },
+    {
+      "id": "282a96a2a91c5eac",
+      "t": "2026-11-20T11:51:23.717Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Veni, Vidi, Vici amb Gerard Quintana i Care Santos» (Ràdio Sabadell).",
+      "itemId": "d53a07f2a22a63e4"
+    },
+    {
+      "id": "76ed0dba7b14995d",
+      "t": "2026-11-20T11:51:23.718Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Programa 95 de la Caverna Galàctica» (Ràdio Sabadell).",
+      "itemId": "3e53198d7099a2b2"
+    },
+    {
+      "id": "c912e9c247813a19",
+      "t": "2026-11-20T11:51:23.719Z",
+      "agente": "rastreador",
+      "texto": "He recollit «S'esfondra de nou una xemeneia d'un dels blocs dels Merinals: \"Els nostres edificis es desfan!\"» (Diari de Sabadell).",
+      "itemId": "c0e181df6ba60e5c"
+    },
+    {
+      "id": "df6b6d38bd9b00d6",
+      "t": "2026-11-20T11:51:23.720Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Successos, Economia i ocupació.",
+      "itemId": "c0e181df6ba60e5c"
+    },
+    {
+      "id": "79abc3a97c620a69",
+      "t": "2026-11-20T11:51:23.721Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): successos, economia i ocupació.",
+      "itemId": "c0e181df6ba60e5c"
+    },
+    {
+      "id": "62c2e6692a10cea4",
+      "t": "2026-11-20T11:51:23.722Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Fèlix Colomer: \"El documental de Vinicius és una porqueria\"» (Diari de Sabadell).",
+      "itemId": "1ac130de64cd25fa"
+    },
+    {
+      "id": "325440731ab37087",
+      "t": "2026-11-20T11:51:23.723Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "1ac130de64cd25fa"
+    },
+    {
+      "id": "8c003a0838208377",
+      "t": "2026-11-20T11:51:23.724Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La Llanterna Màgica 401: 25 anys de màgia. Harry Potter i la pedra filosofal.» (Ràdio Sabadell).",
+      "itemId": "9d8d97325a67c63c"
+    },
+    {
+      "id": "14da3aa2679f50f9",
+      "t": "2026-11-20T11:51:23.725Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El programa educatiu de la Sindicatura de Greuges creix amb un ‘scape room’» (iSabadell).",
+      "itemId": "087bf26970a75aff"
+    },
+    {
+      "id": "3a098c0201c575aa",
+      "t": "2026-11-20T11:51:23.726Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L’Ajuntament fa una crida a la ciutadania i les entitats per participar a la Cavalcada de Reis 2027» (Ajuntament de Cerdanyola del Vallès).",
+      "itemId": "6c3b5b0dd82fcf0c"
+    },
+    {
+      "id": "e5b8cf4c65d3a498",
+      "t": "2026-11-20T11:51:23.727Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "6c3b5b0dd82fcf0c"
+    },
+    {
+      "id": "ce0aecbf78d3530e",
+      "t": "2026-11-20T11:51:23.728Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Alumnes protagonitzen una protesta contra la falta de docents i colònies» (iSabadell).",
+      "itemId": "3e5860b80691305c"
+    },
+    {
+      "id": "7d49b9ccde72be04",
+      "t": "2026-11-20T11:51:23.729Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Educació.",
+      "itemId": "3e5860b80691305c"
+    },
+    {
+      "id": "ca642b1690151e56",
+      "t": "2026-11-20T11:51:23.730Z",
+      "agente": "rastreador",
+      "texto": "He recollit «FOTOS | Missió a Sabadell: recuperar els drets abans que l'ERROR 404 s'apoderi de la ciutat» (Diari de Sabadell).",
+      "itemId": "374671a4d0e8e8c7"
     }
   ],
-  "actualizado": "2026-11-20T11:14:26.187Z"
+  "actualizado": "2026-11-20T11:51:32.560Z"
 }
