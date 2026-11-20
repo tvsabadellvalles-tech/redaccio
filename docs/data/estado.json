@@ -65,12 +65,12 @@
       "items": 0
     },
     "ayto-cerdanyola": {
-      "ok": true,
+      "ok": false,
+      "error": "terminated",
       "items": 0
     },
     "ayto-badia": {
-      "ok": false,
-      "error": "fetch failed",
+      "ok": true,
       "items": 0
     },
     "ayto-sant-quirze": {
@@ -82,6 +82,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-20T23:00:09.576Z",
-  "actualizado": "2026-11-20T23:00:37.454Z"
+  "consultat": "2026-11-20T23:48:33.151Z",
+  "actualizado": "2026-11-20T23:48:54.170Z"
 }
