@@ -1,41 +1,6 @@
 {
   "eventos": [
     {
-      "id": "32e3853a70e7bffc",
-      "t": "2026-11-17T14:51:08.443Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Esports.",
-      "itemId": "2158dc12958086c5"
-    },
-    {
-      "id": "3a0ee99b7d967634",
-      "t": "2026-11-17T14:51:08.444Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "2158dc12958086c5"
-    },
-    {
-      "id": "e7a9daa4f9f99fc9",
-      "t": "2026-11-17T14:51:08.445Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Els veïns de Badia podran tornar a fer la compra a l'avinguda de la Costa Brava» (Diari de Sabadell).",
-      "itemId": "f1c329278e207565"
-    },
-    {
-      "id": "721e2657e7536060",
-      "t": "2026-11-17T14:51:08.446Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Reobre la Biblioteca Esteve Paluzie de Barberà» (Diari de Sabadell).",
-      "itemId": "ef317873fa36718a"
-    },
-    {
-      "id": "7528f81d9d16652c",
-      "t": "2026-11-17T14:51:08.447Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Cultura i festes.",
-      "itemId": "ef317873fa36718a"
-    },
-    {
       "id": "462ea81c766e074b",
       "t": "2026-11-17T15:09:28.598Z",
       "agente": "rastreador",
@@ -2799,7 +2764,42 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Esports.",
       "itemId": "97ca79bdacc2fc19"
+    },
+    {
+      "id": "40d69fe3c1fb1b25",
+      "t": "2026-11-20T19:35:35.507Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Palau al Dia - Notícies del 20/11/2026» (Ràdio Palau - Palau al Dia).",
+      "itemId": "f85899de90245286"
+    },
+    {
+      "id": "0921c228d8af9db1",
+      "t": "2026-11-20T19:35:35.508Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Educació, Cultura i festes.",
+      "itemId": "f85899de90245286"
+    },
+    {
+      "id": "8f2555859dd7f7d3",
+      "t": "2026-11-20T19:35:35.509Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Una trentena de persones es concentren a la plaça Sant Roc en suport als detinguts durant la vaga general» (Ràdio Sabadell).",
+      "itemId": "49c503e9b9e30b60"
+    },
+    {
+      "id": "c2967ecd6f60434b",
+      "t": "2026-11-20T19:35:35.510Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Successos.",
+      "itemId": "49c503e9b9e30b60"
+    },
+    {
+      "id": "5a724dd3940d4ab7",
+      "t": "2026-11-20T19:35:35.511Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "49c503e9b9e30b60"
     }
   ],
-  "actualizado": "2026-11-20T18:29:46.261Z"
+  "actualizado": "2026-11-20T19:35:52.407Z"
 }

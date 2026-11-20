@@ -104,6 +104,31 @@
   },
   "items": [
     {
+      "id": "49c503e9b9e30b60",
+      "titulo": "Una trentena de persones es concentren a la plaça Sant Roc en suport als detinguts durant la vaga general",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/una-trentena-de-persones-es-concentren-la-placa-sant-roc-en-suport-als",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-20T18:32:02.000Z",
+      "detectado": "2026-11-20T19:35:35.507Z",
+      "sensible": true,
+      "etiquetas": [
+        "sucesos"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "successos"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "7fa65ca8f82bdd4a",
       "titulo": "Inauguració del Cafè Colors",
       "enlace": "https://www.lactual.cat/actualitat/inauguracio-cafe-colors_55416_102.html",
@@ -119,6 +144,30 @@
       "etiquetas": [],
       "puntuacion": 0,
       "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "f85899de90245286",
+      "titulo": "Palau al Dia - Notícies del 20/11/2026",
+      "enlace": "https://www.radiopalau.cat/podcasts/palau-al-dia/radiopalau_podcast_6848/",
+      "fuente": "radio-palau",
+      "fuenteNombre": "Ràdio Palau - Palau al Dia",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "palau",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-20T17:59:57.000Z",
+      "detectado": "2026-11-20T19:35:35.507Z",
+      "sensible": false,
+      "etiquetas": [
+        "educacion",
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "educació"
+      ],
       "duplicadaDe": null,
       "propuesta": false
     },
@@ -1835,5 +1884,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-20T18:29:46.257Z"
+  "actualizado": "2026-11-20T19:35:52.404Z"
 }

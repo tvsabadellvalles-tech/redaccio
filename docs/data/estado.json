@@ -30,7 +30,7 @@
     },
     "radio-palau": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "ayto-polinya": {
       "ok": true,
@@ -81,6 +81,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-20T18:29:26.647Z",
-  "actualizado": "2026-11-20T18:29:46.259Z"
+  "consultat": "2026-11-20T19:35:35.507Z",
+  "actualizado": "2026-11-20T19:35:52.405Z"
 }
