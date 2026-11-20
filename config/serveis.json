@@ -14,19 +14,32 @@
       "tipus": "rodalies",
       "url": "https://serveisgrs.rodalies.gencat.cat/api/notices?limit=500&sort=date,desc&sort=time,desc",
       "enllac": "https://rodalies.gencat.cat/ca/alteracions_del_servei/",
-      "linies": ["R4", "R7"]
+      "linies": [
+        "R4",
+        "R7"
+      ]
     },
     {
       "id": "transit",
       "nom": "Trànsit · Vallès Occidental",
       "tipus": "transit",
-      "url": "https://cit.transit.gencat.cat/cit/rest/incidents",
+      "url": "https://www.gencat.cat/transit/opendata/incidenciesRSS.xml",
       "enllac": "https://cit.transit.gencat.cat/",
       "demarcacio": "08",
       "comarca": 40,
-      "vies": ["C-58", "B-30", "AP-7", "N-150"],
-      "tipusIncidents": ["retencions", "obres", "cons"],
-      "maxSnapshotAgeMinutes": 5
+      "vies": [
+        "C-58",
+        "B-30",
+        "AP-7",
+        "N-150"
+      ],
+      "tipusIncidents": [
+        "retencions",
+        "obres",
+        "cons"
+      ],
+      "maxSnapshotAgeMinutes": 180,
+      "nota": "Font RSS oficial del Servei Català de Trànsit. El catàleg públic indica actualització horària; no s'accepta una resposta que no sigui RSS/XML o que tingui una marca temporal de més de 180 minuts."
     },
     {
       "id": "meteocat",
