@@ -1,13 +1,6 @@
 {
   "eventos": [
     {
-      "id": "9e105029287d57ae",
-      "t": "2026-11-16T18:34:28.051Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Palau al Dia - Notícies del 16/11/2026» (Ràdio Palau - Palau al Dia).",
-      "itemId": "9893d1a9bee5b056"
-    },
-    {
       "id": "e08650533a39c4da",
       "t": "2026-11-16T18:34:28.052Z",
       "agente": "rastreador",
@@ -2799,7 +2792,14 @@
       "agente": "rastreador",
       "texto": "He recollit «Programa 595 21/11/26» (Ràdio Sabadell).",
       "itemId": "60577273b5ef9cbe"
+    },
+    {
+      "id": "b3e92aee2c1fafa3",
+      "t": "2026-11-20T10:10:36.076Z",
+      "agente": "rastreador",
+      "texto": "La font «Ajuntament de Badia del Vallès» no respon (fetch failed).",
+      "itemId": null
     }
   ],
-  "actualizado": "2026-11-20T10:07:54.574Z"
+  "actualizado": "2026-11-20T10:11:00.793Z"
 }

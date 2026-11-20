@@ -69,7 +69,8 @@
       "items": 2
     },
     "ayto-badia": {
-      "ok": true,
+      "ok": false,
+      "error": "fetch failed",
       "items": 0
     },
     "ayto-sant-quirze": {
@@ -81,6 +82,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-20T10:07:40.438Z",
-  "actualizado": "2026-11-20T10:07:54.572Z"
+  "consultat": "2026-11-20T10:10:36.076Z",
+  "actualizado": "2026-11-20T10:11:00.791Z"
 }
