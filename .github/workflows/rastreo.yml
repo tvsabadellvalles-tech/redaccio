@@ -123,7 +123,7 @@ jobs:
           NODE
 
       - name: Diagnosticar permisos i colors de Google Calendar
-        if: github.event_name == 'workflow_dispatch'
+        if: github.event_name == 'push' || github.event_name == 'workflow_dispatch'
         shell: bash
         env:
           GOOGLE_CALENDAR_BROWSER_API_KEY: ${{ secrets.GOOGLE_CALENDAR_BROWSER_API_KEY }}
