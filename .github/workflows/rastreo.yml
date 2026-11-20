@@ -122,51 +122,6 @@ jobs:
           console.log(apiKey ? 'Configuració pública del calendari preparada.' : 'Calendari en directe pendent de GOOGLE_CALENDAR_BROWSER_API_KEY.');
           NODE
 
-      - name: Diagnosticar permisos i colors de Google Calendar
-        if: github.event_name == 'push' || github.event_name == 'workflow_dispatch'
-        shell: bash
-        env:
-          GOOGLE_CALENDAR_BROWSER_API_KEY: ${{ secrets.GOOGLE_CALENDAR_BROWSER_API_KEY }}
-        run: |
-          node --input-type=module <<'NODE'
-          const key = process.env.GOOGLE_CALENDAR_BROWSER_API_KEY?.trim() || '';
-          if (!key) {
-            console.log('[calendar-check] api_key_configured=false');
-            process.exit(0);
-          }
-          const referer = 'https://tvsabadellvalles-tech.github.io/redaccio/';
-          const headers = { Accept: 'application/json', Referer: referer };
-          async function getJson(url) {
-            const endpoint = new URL(url);
-            endpoint.searchParams.set('key', key);
-            const response = await fetch(endpoint, { headers, signal: AbortSignal.timeout(15000) });
-            const body = await response.json().catch(() => ({}));
-            return { status: response.status, ok: response.ok, body };
-          }
-          const colors = await getJson('https://www.googleapis.com/calendar/v3/colors');
-          const palette = Object.keys(colors.body?.event || {});
-          console.log(`[calendar-check] colors_http=${colors.status} palette_entries=${palette.length}`);
-          const now = new Date();
-          const end = new Date(now);
-          end.setDate(end.getDate() + 2);
-          const base = 'https://www.googleapis.com/calendar/v3/calendars/tvsabadellvalles%40gmail.com/events';
-          for (const labelVersion of [0, 1]) {
-            const url = new URL(base);
-            url.searchParams.set('timeMin', now.toISOString());
-            url.searchParams.set('timeMax', end.toISOString());
-            url.searchParams.set('singleEvents', 'true');
-            url.searchParams.set('maxResults', '2500');
-            url.searchParams.set('eventLabelVersion', String(labelVersion));
-            url.searchParams.set('fields', 'items(id,colorId,eventLabelId),nextPageToken');
-            const result = await getJson(url);
-            const events = Array.isArray(result.body?.items) ? result.body.items : [];
-            const colored = events.filter(event => labelVersion === 0 ? Boolean(event.colorId) : Boolean(event.eventLabelId)).length;
-            console.log(`[calendar-check] eventLabelVersion=${labelVersion} events_http=${result.status} events=${events.length} colored=${colored}`);
-            if (!result.ok) console.log(`[calendar-check] api_message=${String(result.body?.error?.message || 'no message').slice(0, 200)}`);
-          }
-          if (!colors.ok) console.log(`[calendar-check] colors_message=${String(colors.body?.error?.message || 'no message').slice(0, 200)}`);
-          NODE
-
       - name: Preparar archivos del sitio
         if: github.event_name != 'schedule' || steps.guardar.outputs.changed == 'true'
         uses: actions/upload-pages-artifact@v3
