@@ -1,41 +1,6 @@
 {
   "eventos": [
     {
-      "id": "cbf0cc23b1257800",
-      "t": "2026-11-17T12:56:41.863Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La nova vaga a Rodalies castiga els usuaris de Sabadell: \"Sentim impotència\"» (Diari de Sabadell).",
-      "itemId": "d452b252582517be"
-    },
-    {
-      "id": "19c5591054c17376",
-      "t": "2026-11-17T12:56:41.864Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat.",
-      "itemId": "d452b252582517be"
-    },
-    {
-      "id": "ecfbefe3bbd6cba5",
-      "t": "2026-11-17T14:13:19.197Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Afectacions al trànsit del carrer Sant Josep» (Avisos de l'Ajuntament de Montcada i Reixac).",
-      "itemId": "765ff816411b144d"
-    },
-    {
-      "id": "7410d20eca3ab899",
-      "t": "2026-11-17T14:13:19.198Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat.",
-      "itemId": "765ff816411b144d"
-    },
-    {
-      "id": "713c3f35805c255b",
-      "t": "2026-11-17T14:13:19.199Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · mobilitat.",
-      "itemId": "765ff816411b144d"
-    },
-    {
       "id": "0cfc53cfbdd74434",
       "t": "2026-11-17T14:13:19.200Z",
       "agente": "rastreador",
@@ -2799,7 +2764,42 @@
       "agente": "rastreador",
       "texto": "He recollit «Agenda cultural 20.11.26» (Ràdio Sabadell).",
       "itemId": "ad011d49f4a4d69d"
+    },
+    {
+      "id": "617d23ff9789df54",
+      "t": "2026-11-20T16:29:14.438Z",
+      "agente": "rastreador",
+      "texto": "He recollit «'Sabadell, dita en poesia’ es transforma en pòdcast» (Ràdio Sabadell).",
+      "itemId": "6a2397290ebb93c7"
+    },
+    {
+      "id": "55439e272a4e052e",
+      "t": "2026-11-20T16:29:14.439Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "6a2397290ebb93c7"
+    },
+    {
+      "id": "470afa7fc820b148",
+      "t": "2026-11-20T16:29:14.440Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Enric López, actor: ''Sabadell dita en poesia és experiència poètica 360°''» (Ràdio Sabadell).",
+      "itemId": "e0fe2830484c79b9"
+    },
+    {
+      "id": "0f549e56b33f5d80",
+      "t": "2026-11-20T16:29:14.441Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "e0fe2830484c79b9"
+    },
+    {
+      "id": "5c0d7645229c73c6",
+      "t": "2026-11-20T16:29:14.442Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El DUDI torna amb força un any més» (L'Actual - Castellar del Vallès).",
+      "itemId": "0dc87aee568a580b"
     }
   ],
-  "actualizado": "2026-11-20T15:30:29.463Z"
+  "actualizado": "2026-11-20T16:29:33.804Z"
 }

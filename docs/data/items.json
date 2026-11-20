@@ -104,6 +104,48 @@
   },
   "items": [
     {
+      "id": "0dc87aee568a580b",
+      "titulo": "El DUDI torna amb força un any més",
+      "enlace": "https://www.lactual.cat/actualitat/dudi-torna-forca-any-mes_55419_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-20T15:48:20.000Z",
+      "detectado": "2026-11-20T16:29:14.438Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "e0fe2830484c79b9",
+      "titulo": "Enric López, actor: ''Sabadell dita en poesia és experiència poètica 360°''",
+      "enlace": "https://radiosabadell.fm/alacarta/audio/enric-lopez-actor-sabadell-dita-en-poesia-es-experiencia-poetica-360deg",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-20T15:42:05.000Z",
+      "detectado": "2026-11-20T16:29:14.438Z",
+      "sensible": false,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "ad011d49f4a4d69d",
       "titulo": "Agenda cultural 20.11.26",
       "enlace": "https://radiosabadell.fm/alacarta/audio/agenda-cultural-201126",
@@ -117,6 +159,29 @@
       "detectado": "2026-11-20T15:30:08.805Z",
       "sensible": false,
       "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "6a2397290ebb93c7",
+      "titulo": "'Sabadell, dita en poesia’ es transforma en pòdcast",
+      "enlace": "https://radiosabadell.fm/actualitat/cultura/sabadell-dita-en-poesia-es-transforma-en-podcast",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-20T15:22:01.000Z",
+      "detectado": "2026-11-20T16:29:14.438Z",
+      "sensible": false,
+      "etiquetas": [
+        "cultura"
+      ],
       "puntuacion": 0,
       "motivos": [],
       "duplicadaDe": null,
@@ -1629,5 +1694,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-20T15:30:29.459Z"
+  "actualizado": "2026-11-20T16:29:33.799Z"
 }
