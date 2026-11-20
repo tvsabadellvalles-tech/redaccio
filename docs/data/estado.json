@@ -22,7 +22,7 @@
     },
     "ayto-castellar": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "ayto-sentmenat": {
       "ok": true,
@@ -81,6 +81,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-20T05:47:18.556Z",
-  "actualizado": "2026-11-20T05:47:32.444Z"
+  "consultat": "2026-11-20T06:48:27.283Z",
+  "actualizado": "2026-11-20T06:48:42.895Z"
 }

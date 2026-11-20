@@ -104,6 +104,25 @@
   },
   "items": [
     {
+      "id": "7be09d5164dd6782",
+      "titulo": "ERC reivindica l'esquerra catalana de cara al 29N",
+      "enlace": "https://www.lactual.cat/actualitat/erc-reivindica-esquerra-catalana-cara-29n_55415_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-20T05:53:03.000Z",
+      "detectado": "2026-11-20T06:48:27.283Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "5f810c5cb7e9cc35",
       "titulo": "Infopodcast 20.11.2026",
       "enlace": "https://radiosabadell.fm/alacarta/audio/infopodcast-20112026",
@@ -152,5 +171,5 @@
       "propuesta": true
     }
   ],
-  "actualizado": "2026-11-19T23:58:36.533Z"
+  "actualizado": "2026-11-20T06:48:42.894Z"
 }
