@@ -446,6 +446,33 @@
       "propuesta": true
     },
     {
+      "id": "12e80e1f7d300b0b",
+      "titulo": "Una trentena d'estudiants de Sabadell es mobilitzen per defensar l'educació pública",
+      "enlace": "https://radiosabadell.fm/actualitat/educacio/trentena-estudiants-sabadell-mobilitzen-defensar-educacio-publica",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-20T10:21:48.000Z",
+      "detectado": "2026-11-20T11:55:17.924Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica",
+        "educacion",
+        "medioambiente"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "política local, educació, medi ambient"
+      ],
+      "duplicadaDe": "418ce24fc7abf7ba",
+      "propuesta": false
+    },
+    {
       "id": "8ee0d72da1357508",
       "titulo": "Cerdanyola respon a les crítiques de Sant Cugat i defensa la seva autonomia en el projecte d'un nou barri a la Pelleria",
       "enlace": "https://www.diaridesabadell.com/valles/cerdanyola/cerdanyola-barri-sant-cugat-pelleria.html",
@@ -1088,5 +1115,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-20T11:51:32.557Z"
+  "actualizado": "2026-11-20T11:55:26.595Z"
 }

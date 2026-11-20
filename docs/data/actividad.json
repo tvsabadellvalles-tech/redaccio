@@ -1,20 +1,6 @@
 {
   "eventos": [
     {
-      "id": "f4fc52719d4f9bde",
-      "t": "2026-11-17T11:05:34.803Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La fira d'artesans de Sabadell (FANSA) afronta el segon Nadal a l’Imperial amb il·lusió, però enyora el Passeig: \"No som al rovell de l'ou\"» (Diari de Sabadell).",
-      "itemId": "bea66f579773ed35"
-    },
-    {
-      "id": "8767bfae963f1f77",
-      "t": "2026-11-17T11:05:34.804Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Cultura i festes.",
-      "itemId": "bea66f579773ed35"
-    },
-    {
       "id": "5a84747a604ea0c8",
       "t": "2026-11-17T11:05:34.805Z",
       "agente": "rastreador",
@@ -2799,7 +2785,21 @@
       "agente": "rastreador",
       "texto": "He recollit «FOTOS | Missió a Sabadell: recuperar els drets abans que l'ERROR 404 s'apoderi de la ciutat» (Diari de Sabadell).",
       "itemId": "374671a4d0e8e8c7"
+    },
+    {
+      "id": "ac24c45e9ae10729",
+      "t": "2026-11-20T11:55:17.924Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Una trentena d'estudiants de Sabadell es mobilitzen per defensar l'educació pública» (Ràdio Sabadell).",
+      "itemId": "12e80e1f7d300b0b"
+    },
+    {
+      "id": "e114b9e7e68eea49",
+      "t": "2026-11-20T11:55:17.925Z",
+      "agente": "deduplicador",
+      "texto": "Descartada perquè és duplicada: coincideix amb «Una trentena d'estudiants de Sabadell es mobilitzen per defensar l'educació pública i la recuperació de les colònies» (Ràdio Sabadell).",
+      "itemId": "12e80e1f7d300b0b"
     }
   ],
-  "actualizado": "2026-11-20T11:51:32.560Z"
+  "actualizado": "2026-11-20T11:55:26.599Z"
 }
