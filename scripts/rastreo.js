@@ -609,57 +609,77 @@ async function consultarServei(servei, ara, userAgent, parser, municipis) {
       return { ...base, estat: 'avis', detall: seccio.slice(0, 360) || 'La font publica una informació de servei.' };
     }
     if (servei.tipus === 'transit') {
-      const dades = await descarregarJsonTransit(urlIncidentsTransit(servei), userAgent);
-      const araTransit = new Date();
-      if (!Array.isArray(dades.incidents)) throw new Error('La API de Trànsit no inclou la llista d’incidències');
-      const dataCarrega = Number(dades.dataCarrega);
-      if (!Number.isFinite(dataCarrega) || dataCarrega <= 0 || dataCarrega > araTransit.getTime()) {
-        throw new Error('La API de Trànsit no inclou una data de càrrega vàlida');
+      const respostaTransit = await descarregarResposta(
+        servei.url,
+        'application/rss+xml, application/xml, text/xml;q=0.9',
+        userAgent
+      );
+      const tipusContingut = respostaTransit.headers.get('content-type') || 'desconegut';
+      const xmlTransit = await respostaTransit.text();
+      if (!/<(?:rss|feed|rdf:RDF)\\b/i.test(xmlTransit)) {
+        throw new Error(`La font oficial no ha retornat RSS/XML (Content-Type: ${tipusContingut})`);
       }
-      const antiguitatCarrega = araTransit.getTime() - dataCarrega;
-      if (antiguitatCarrega > (servei.maxSnapshotAgeMinutes || 180) * 60000) {
-        throw new Error(`Les dades de Trànsit tenen més de ${servei.maxSnapshotAgeMinutes || 180} minuts i no es poden donar per actuals`);
+
+      const feed = await parser.parseString(xmlTransit);
+      if (!Array.isArray(feed.items)) throw new Error('El RSS oficial no inclou una llista d’incidències');
+
+      const datesFeed = [
+        feed.lastBuildDate,
+        respostaTransit.headers.get('last-modified'),
+        ...feed.items.map((item) => item.isoDate || item.pubDate || item.date)
+      ].map((valor) => valor ? new Date(valor) : null)
+        .filter((data) => data && Number.isFinite(data.getTime()))
+        .sort((a, b) => b - a);
+      const dataCarrega = datesFeed[0];
+      if (!dataCarrega || dataCarrega > ara || ara.getTime() - dataCarrega.getTime() > (servei.maxSnapshotAgeMinutes || 180) * 60000) {
+        throw new Error('El RSS oficial no té una marca temporal prou recent per verificar l’estat del trànsit');
       }
-      const vies = new Set(servei.vies || []);
-      const avisos = dades.incidents
-        .map((incident) => {
-          const publicat = Number(incident.dataHora);
-          const data = new Date(publicat);
-          const sentit = incident.descripcioSentit
-            ? `Sentit ${incident.descripcioSentit}${incident.capa ? ` cap a ${incident.capa}` : ''}`
-            : incident.capa ? `cap a ${incident.capa}` : '';
-          const detall = [
-            incident.descCarretera,
-            incident.nomMunicipi,
-            sentit,
-            `Punt km. ${incident.quilometreInicial}-${incident.quilometreFinal}`,
-            incident.infoAdicional
-          ].filter(Boolean).join(' | ');
+
+      const idsMunicipis = new Set(servei.municipis || []);
+      const aliasesMunicipis = municipis
+        .filter((municipi) => idsMunicipis.has(municipi.id))
+        .flatMap((municipi) => [municipi.nombre, ...(municipi.alias || [])])
+        .map(normalizar)
+        .filter(Boolean);
+      aliasesMunicipis.push('valles occidental');
+
+      const inclouText = (text, terme) => {
+        const escapada = terme.replace(/[.*+?^${}()|[\\]\\\\]/g, '\\\\$&').replace(/\\s+/g, '\\\\s+');
+        return new RegExp(`(?:^|[^a-z0-9])${escapada}(?=$|[^a-z0-9])`, 'i').test(text);
+      };
+      const vies = servei.vies || [];
+      const avisos = feed.items
+        .map((item) => {
+          const titol = textHtml(item.title || '');
+          const detall = textHtml(item.contentSnippet || item.content || item.summary || item.description || '');
+          const text = normalizar(`${titol} ${detall}`);
+          const carretera = vies.find((via) => {
+            const viaNormalitzada = normalizar(via).replace(/-/g, '\\s*-?\\s*');
+            return new RegExp(`(?:^|[^a-z0-9])${viaNormalitzada}(?=$|[^a-z0-9])`, 'i').test(text);
+          });
+          const dataPublicacio = item.isoDate || item.pubDate || item.date;
+          const publicat = dataPublicacio ? new Date(dataPublicacio) : null;
+          const local = aliasesMunicipis.some((alias) => inclouText(text, alias));
+          if (!titol || !carretera || !local || !publicat || !Number.isFinite(publicat.getTime())
+            || publicat > ara || clauDiaLocal(publicat) !== clauDiaLocal(ara)) return null;
           return {
-            titol: `${incident.descripcioCausa || 'Incidència viària'} · ${incident.descripcioNivell || 'afectació viària'}`,
+            titol,
             detall,
-            publicat: Number.isFinite(publicat) && Number.isFinite(data.getTime()) ? data.toISOString() : null,
-            carretera: incident.descCarretera,
-            comarca: Number(incident.codiComarca)
+            publicat: publicat.toISOString(),
+            carretera
           };
         })
-        .filter((avís) =>
-          avís.titol &&
-          avís.publicat &&
-          avís.comarca === Number(servei.comarca) &&
-          vies.has(avís.carretera) &&
-          clauDiaLocal(new Date(avís.publicat)) === clauDiaLocal(araTransit) &&
-          new Date(avís.publicat).getTime() <= araTransit.getTime()
-        )
+        .filter(Boolean)
         .sort((a, b) => new Date(b.publicat) - new Date(a.publicat))
         .slice(0, 5);
+
       return {
         ...base,
         estat: avisos.length ? 'avis' : 'cap-avis-recent',
         detall: avisos.length
-          ? `${avisos.length} ${avisos.length === 1 ? 'incidència' : 'incidències'} d’avui a les carreteres seleccionades del Vallès Occidental, segons la llista actual de Trànsit.`
-          : `Cap incidència d’avui a les carreteres seleccionades del Vallès Occidental, segons la llista actual de Trànsit.`,
-        actualitzat: new Date(dataCarrega).toISOString(),
+          ? `${avisos.length} ${avisos.length === 1 ? 'incidència' : 'incidències'} d’avui a les carreteres seleccionades del Vallès Occidental, segons el RSS oficial de Trànsit.`
+          : 'Cap incidència d’avui a les carreteres seleccionades del Vallès Occidental, segons el RSS oficial de Trànsit.',
+        actualitzat: dataCarrega.toISOString(),
         avisos
       };
     }
