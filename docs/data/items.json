@@ -192,6 +192,29 @@
       "propuesta": false
     },
     {
+      "id": "03f230c161bb04dd",
+      "titulo": "Torna la Festa dels Peluixos a la Biblioteca",
+      "enlace": "https://www.ripollet.cat/actualitat/noticies/torna-la-festa-dels-peluixos-a-la-biblioteca",
+      "fuente": "ayto-ripollet",
+      "fuenteNombre": "Ajuntament de Ripollet",
+      "tipo": "oficial",
+      "resumen": "L'èxit de la primera convocatòria ha fet que l'equipament torni a organitzar aquesta activitat, on els infants deixen el seu peluix per gaudir d'activitats, amb l'objectiu de fomentar l'hàbit de lectura.",
+      "municipio": "ripollet",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-20T11:25:00.000Z",
+      "detectado": "2026-11-20T11:57:06.852Z",
+      "sensible": true,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "9d8d97325a67c63c",
       "titulo": "La Llanterna Màgica 401: 25 anys de màgia. Harry Potter i la pedra filosofal.",
       "enlace": "https://radiosabadell.fm/alacarta/audio/la-llanterna-magica-401-25-anys-de-magia-harry-potter-i-la-pedra-filosofal",
@@ -269,6 +292,50 @@
       "etiquetas": [],
       "puntuacion": 0,
       "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "0f94031239229c0a",
+      "titulo": "Ripollet reivindica ‘Vides dignes, vides lliures’ amb motiu del 25N",
+      "enlace": "https://www.ripollet.cat/actualitat/noticies/ripollet-reivindica-2018vides-dignes-vides-lliures2019-amb-motiu-del-25n",
+      "fuente": "ayto-ripollet",
+      "fuenteNombre": "Ajuntament de Ripollet",
+      "tipo": "oficial",
+      "resumen": "El programa del Dia Internacional per a l’Eliminació de la Violència contra les Dones inclou activitats culturals, tallers, espais de reflexió i accions de sensibilització durant tot el mes de novembre.",
+      "municipio": "ripollet",
+      "municipiosMencionados": [
+        "ripollet"
+      ],
+      "publicado": "2026-11-20T11:15:00.000Z",
+      "detectado": "2026-11-20T11:57:06.852Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "1a29868b68ac6e80",
+      "titulo": "Can Mas es mobilitza per recuperar l'associació de veïns",
+      "enlace": "https://www.ripollet.cat/actualitat/noticies/can-mas-es-mobilitza-per-recuperar-lassociacio-de-veins",
+      "fuente": "ayto-ripollet",
+      "fuenteNombre": "Ajuntament de Ripollet",
+      "tipo": "oficial",
+      "resumen": "Una cinquantena de persones han participat aquest dijous en una assemblea oberta al Centre Cívic de Can Mas, convocada per un grup de veïnes que vol impulsar una nova associació després de la dissolució, a l'abril, de l'antiga entitat…",
+      "municipio": "ripollet",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-20T11:10:00.000Z",
+      "detectado": "2026-11-20T11:57:06.852Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
       "duplicadaDe": null,
       "propuesta": false
     },
@@ -1115,5 +1182,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-20T11:55:26.595Z"
+  "actualizado": "2026-11-20T11:57:19.019Z"
 }

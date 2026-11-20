@@ -58,7 +58,7 @@
     },
     "ayto-ripollet": {
       "ok": true,
-      "items": 0
+      "items": 3
     },
     "ayto-barbera": {
       "ok": true,
@@ -81,6 +81,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-20T11:55:17.924Z",
-  "actualizado": "2026-11-20T11:55:26.597Z"
+  "consultat": "2026-11-20T11:57:06.852Z",
+  "actualizado": "2026-11-20T11:57:19.021Z"
 }

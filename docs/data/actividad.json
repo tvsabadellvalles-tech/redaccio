@@ -1,41 +1,6 @@
 {
   "eventos": [
     {
-      "id": "5a84747a604ea0c8",
-      "t": "2026-11-17T11:05:34.805Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Un duel clau a l'Astralpool CN Sabadell masculí per posar peu i mig al top-8 europeu» (Diari de Sabadell).",
-      "itemId": "4aa38e01b0f28295"
-    },
-    {
-      "id": "efd403de036d64a8",
-      "t": "2026-11-17T11:05:34.806Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Detingut un home per la crema de contenidors a Can Puiggener» (Ràdio Sabadell).",
-      "itemId": "c0e394913aefea40"
-    },
-    {
-      "id": "84e814912f7e9f95",
-      "t": "2026-11-17T11:05:34.807Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Emergències, Successos, Salut.",
-      "itemId": "c0e394913aefea40"
-    },
-    {
-      "id": "32e5dc0a033029b8",
-      "t": "2026-11-17T11:05:34.808Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "c0e394913aefea40"
-    },
-    {
-      "id": "a544a98cca0662d0",
-      "t": "2026-11-17T11:05:34.809Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): emergències, successos, salut.",
-      "itemId": "c0e394913aefea40"
-    },
-    {
       "id": "d4b5a50740ab38c7",
       "t": "2026-11-17T11:05:34.810Z",
       "agente": "rastreador",
@@ -2799,7 +2764,42 @@
       "agente": "deduplicador",
       "texto": "Descartada perquè és duplicada: coincideix amb «Una trentena d'estudiants de Sabadell es mobilitzen per defensar l'educació pública i la recuperació de les colònies» (Ràdio Sabadell).",
       "itemId": "12e80e1f7d300b0b"
+    },
+    {
+      "id": "db32379a2eae271c",
+      "t": "2026-11-20T11:57:06.852Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Can Mas es mobilitza per recuperar l'associació de veïns» (Ajuntament de Ripollet).",
+      "itemId": "1a29868b68ac6e80"
+    },
+    {
+      "id": "6c5ae36e0b57cb25",
+      "t": "2026-11-20T11:57:06.853Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Ripollet reivindica ‘Vides dignes, vides lliures’ amb motiu del 25N» (Ajuntament de Ripollet).",
+      "itemId": "0f94031239229c0a"
+    },
+    {
+      "id": "38a9b3f25ee4e6bc",
+      "t": "2026-11-20T11:57:06.854Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Torna la Festa dels Peluixos a la Biblioteca» (Ajuntament de Ripollet).",
+      "itemId": "03f230c161bb04dd"
+    },
+    {
+      "id": "63505e387ccfaa52",
+      "t": "2026-11-20T11:57:06.855Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "03f230c161bb04dd"
+    },
+    {
+      "id": "a836a89dbd67ef7f",
+      "t": "2026-11-20T11:57:06.856Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "03f230c161bb04dd"
     }
   ],
-  "actualizado": "2026-11-20T11:55:26.599Z"
+  "actualizado": "2026-11-20T11:57:19.022Z"
 }
