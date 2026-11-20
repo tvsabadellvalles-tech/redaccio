@@ -644,8 +644,9 @@ async function consultarServei(servei, ara, userAgent, parser, municipis) {
       aliasesMunicipis.push('valles occidental');
 
       const inclouText = (text, terme) => {
-        const escapada = terme.replace(/[.*+?^${}()|[\\]\\\\]/g, '\\\\$&').replace(/\\s+/g, '\\\\s+');
-        return new RegExp(`(?:^|[^a-z0-9])${escapada}(?=$|[^a-z0-9])`, 'i').test(text);
+        const textAmbSeparadors = ` ${text.replace(/[^a-z0-9]+/g, ' ').trim()} `;
+        const termeNet = ` ${terme.replace(/[^a-z0-9]+/g, ' ').trim()} `;
+        return textAmbSeparadors.includes(termeNet);
       };
       const vies = servei.vies || [];
       const avisos = feed.items
