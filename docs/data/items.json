@@ -104,6 +104,112 @@
   },
   "items": [
     {
+      "id": "81590ccee14ee242",
+      "titulo": "Viu el Nadal a SQV!",
+      "enlace": "https://www.santquirzevalles.cat/actualitat/noticies/viu-el-nadal-a-sqv",
+      "fuente": "ayto-sant-quirze",
+      "fuenteNombre": "Ajuntament de Sant Quirze del Vallès",
+      "tipo": "oficial",
+      "resumen": "L'encesa de llums donarà el tret de sortida a la programació nadalenca",
+      "municipio": "sant-quirze",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-20T11:09:54.000Z",
+      "detectado": "2026-11-20T11:14:04.879Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "e667c76b45a1c29b",
+      "titulo": "Irene Cordón, egiptòloga: \"El cristianisme copia molt dels mites egipcis\"",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-mati-deus-nil-irene-cordon-201126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-20T10:49:36.000Z",
+      "detectado": "2026-11-20T11:14:04.879Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "20ad07afb5f15eb6",
+      "titulo": "La tertúlia: Renfe o les eleccions del 29N",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-mati-tertulia-201126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-20T10:43:30.000Z",
+      "detectado": "2026-11-20T11:14:04.879Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "mobilitat"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "7fa65ca8f82bdd4a",
+      "titulo": "Inauguració del Cafè Colors",
+      "enlace": "https://www.lactual.cat/actualitat/inauguracio-cafe-colors_55416_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-20T10:36:10.000Z",
+      "detectado": "2026-11-20T11:14:04.879Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "d69c484cf3bf4ffe",
+      "titulo": "Conversem amb Gerard Quintana i Care Santos. Amb Jordina Puntí, cap de cultura; Rocío Garcia, tècnica de so.",
+      "enlace": "https://radiosabadell.fm/alacarta/audio/conversem-amb-gerard-quintana-i-care-santos-amb-jordina-punti-cap-de-cultura-rocio",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-20T10:35:11.000Z",
+      "detectado": "2026-11-20T11:14:04.879Z",
+      "sensible": false,
+      "etiquetas": [
+        "salud",
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "34f7baa98e47ac04",
       "titulo": "La vaga d'estudiants ressona a Sabadell",
       "enlace": "https://www.diaridesabadell.com/sabadell/la-vaga-destudiants-ressona-a-sabadell.html",
@@ -623,7 +729,31 @@
       ],
       "duplicadaDe": null,
       "propuesta": true
+    },
+    {
+      "id": "6d8f2ad0dbc77941",
+      "titulo": "Reuni� de l'Oficina de l'Amiant sobre les obres de la primera fase de retirada de l'amiant",
+      "enlace": "http://www.badiadelvalles.cat/document.php?id=12334",
+      "fuente": "ayto-badia",
+      "fuenteNombre": "Ajuntament de Badia del Vallès",
+      "tipo": "oficial",
+      "resumen": "",
+      "municipio": "badia",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-19T23:00:00.000Z",
+      "detectado": "2026-11-20T11:14:04.879Z",
+      "sensible": false,
+      "etiquetas": [
+        "urbanismo"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "font oficial",
+        "obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
     }
   ],
-  "actualizado": "2026-11-20T10:26:52.671Z"
+  "actualizado": "2026-11-20T11:14:26.184Z"
 }

@@ -6,7 +6,7 @@
     },
     "radio-sabadell": {
       "ok": true,
-      "items": 5
+      "items": 8
     },
     "diari-sabadell": {
       "ok": true,
@@ -22,7 +22,7 @@
     },
     "ayto-castellar": {
       "ok": true,
-      "items": 1
+      "items": 2
     },
     "ayto-sentmenat": {
       "ok": true,
@@ -70,17 +70,17 @@
     },
     "ayto-badia": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "ayto-sant-quirze": {
       "ok": true,
-      "items": 1
+      "items": 2
     },
     "324-comarques": {
       "ok": true,
       "items": 0
     }
   },
-  "consultat": "2026-11-20T10:30:18.702Z",
-  "actualizado": "2026-11-20T10:30:28.108Z"
+  "consultat": "2026-11-20T11:14:04.879Z",
+  "actualizado": "2026-11-20T11:14:26.185Z"
 }

@@ -1,69 +1,6 @@
 {
   "eventos": [
     {
-      "id": "8b8412f865dab50b",
-      "t": "2026-11-17T08:00:02.772Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El Mercat Central es reinventa: productes vegans i joves al capdavant de les parades» (Ràdio Sabadell).",
-      "itemId": "eeda9e3a5f7c2f52"
-    },
-    {
-      "id": "ea262a4bdfa91245",
-      "t": "2026-11-17T08:00:02.773Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Economia i ocupació.",
-      "itemId": "eeda9e3a5f7c2f52"
-    },
-    {
-      "id": "224d19339e01b748",
-      "t": "2026-11-17T08:00:02.774Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Vaga de maquinistes: cancel·lacions a Rodalies» (iSabadell).",
-      "itemId": "b14c61841d1fd880"
-    },
-    {
-      "id": "eafce76489c32919",
-      "t": "2026-11-17T08:00:02.775Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat.",
-      "itemId": "b14c61841d1fd880"
-    },
-    {
-      "id": "09e33662982947ce",
-      "t": "2026-11-17T08:52:50.126Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Descobrim la verdolaga» (Ràdio Sabadell).",
-      "itemId": "7ad265d6309ff220"
-    },
-    {
-      "id": "30ec78d6acdffd5a",
-      "t": "2026-11-17T08:52:50.127Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Entitats i Ajuntament de Sabadell reclamen aixecar les restriccions per la pesta porcina africana» (Diari de Sabadell).",
-      "itemId": "a51dbc955f25dbe3"
-    },
-    {
-      "id": "afc55d318536c87a",
-      "t": "2026-11-17T08:52:50.128Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El torrent de Colobrers, en espera d’obres a causa de les pluges de l'octubre» (Diari de Sabadell).",
-      "itemId": "44e7487ca4f37933"
-    },
-    {
-      "id": "317c2d08022766cd",
-      "t": "2026-11-17T08:52:50.129Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Obres i urbanisme.",
-      "itemId": "44e7487ca4f37933"
-    },
-    {
-      "id": "2a91ca840101b4f1",
-      "t": "2026-11-17T08:52:50.130Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Alumnes del Marta Mata i Pablo Picasso registren les seves cooperatives a l’OAE» (Ajuntament de Barberà del Vallès).",
-      "itemId": "bf77a3dc1bb566a2"
-    },
-    {
       "id": "a3888a16ef6590e6",
       "t": "2026-11-17T08:52:50.131Z",
       "agente": "etiquetador",
@@ -2799,7 +2736,70 @@
       "agente": "rastreador",
       "texto": "He recollit «La vaga d'estudiants ressona a Sabadell» (Diari de Sabadell).",
       "itemId": "34f7baa98e47ac04"
+    },
+    {
+      "id": "3a75063fe266bba8",
+      "t": "2026-11-20T11:14:04.879Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Reuni� de l'Oficina de l'Amiant sobre les obres de la primera fase de retirada de l'amiant» (Ajuntament de Badia del Vallès).",
+      "itemId": "6d8f2ad0dbc77941"
+    },
+    {
+      "id": "40cf98e25ebbc6da",
+      "t": "2026-11-20T11:14:04.880Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Obres i urbanisme.",
+      "itemId": "6d8f2ad0dbc77941"
+    },
+    {
+      "id": "d0fd73965acb8220",
+      "t": "2026-11-20T11:14:04.881Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Conversem amb Gerard Quintana i Care Santos. Amb Jordina Puntí, cap de cultura; Rocío Garcia, tècnica de so.» (Ràdio Sabadell).",
+      "itemId": "d69c484cf3bf4ffe"
+    },
+    {
+      "id": "ae7f602fc5b0d570",
+      "t": "2026-11-20T11:14:04.882Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut, Cultura i festes.",
+      "itemId": "d69c484cf3bf4ffe"
+    },
+    {
+      "id": "abbf1d9feb673b8d",
+      "t": "2026-11-20T11:14:04.883Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Inauguració del Cafè Colors» (L'Actual - Castellar del Vallès).",
+      "itemId": "7fa65ca8f82bdd4a"
+    },
+    {
+      "id": "47a56f24f10f1790",
+      "t": "2026-11-20T11:14:04.884Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La tertúlia: Renfe o les eleccions del 29N» (Ràdio Sabadell).",
+      "itemId": "20ad07afb5f15eb6"
+    },
+    {
+      "id": "2f21673847e05f2a",
+      "t": "2026-11-20T11:14:04.885Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat.",
+      "itemId": "20ad07afb5f15eb6"
+    },
+    {
+      "id": "e9a703b55d67537e",
+      "t": "2026-11-20T11:14:04.886Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Irene Cordón, egiptòloga: \"El cristianisme copia molt dels mites egipcis\"» (Ràdio Sabadell).",
+      "itemId": "e667c76b45a1c29b"
+    },
+    {
+      "id": "3e19af4d88dee36c",
+      "t": "2026-11-20T11:14:04.887Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Viu el Nadal a SQV!» (Ajuntament de Sant Quirze del Vallès).",
+      "itemId": "81590ccee14ee242"
     }
   ],
-  "actualizado": "2026-11-20T10:26:52.675Z"
+  "actualizado": "2026-11-20T11:14:26.187Z"
 }
