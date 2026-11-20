@@ -108,7 +108,8 @@ function crearAgendaSenseCache_() {
   const activitats = [];
 
   for (const event of esdeveniments) {
-    if (!event || event.status === 'cancelled' || !event.summary || !event.start || !event.end) continue;
+    if (!event || event.status === 'cancelled' || event.visibility === 'private'
+      || !event.summary || !event.start || !event.end) continue;
     const totElDia = Boolean(event.start.date);
     const dataInici = dataEvent_(event.start);
     const dataFinal = dataEvent_(event.end);
