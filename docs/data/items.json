@@ -104,6 +104,27 @@
   },
   "items": [
     {
+      "id": "34f7baa98e47ac04",
+      "titulo": "La vaga d'estudiants ressona a Sabadell",
+      "enlace": "https://www.diaridesabadell.com/sabadell/la-vaga-destudiants-ressona-a-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-20T10:22:26.000Z",
+      "detectado": "2026-11-20T10:26:43.148Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "8ee0d72da1357508",
       "titulo": "Cerdanyola respon a les crítiques de Sant Cugat i defensa la seva autonomia en el projecte d'un nou barri a la Pelleria",
       "enlace": "https://www.diaridesabadell.com/valles/cerdanyola/cerdanyola-barri-sant-cugat-pelleria.html",
@@ -604,5 +625,5 @@
       "propuesta": true
     }
   ],
-  "actualizado": "2026-11-20T10:23:20.487Z"
+  "actualizado": "2026-11-20T10:26:52.671Z"
 }
