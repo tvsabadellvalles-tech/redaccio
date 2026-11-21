@@ -104,6 +104,33 @@
   },
   "items": [
     {
+      "id": "48cde46a2f18727a",
+      "titulo": "Una seixantena de corredors estrenen la Sweet Run, la proposta més dolça de la Cap d’Any Race",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/seixantena-corredors-sweet-run-sabadell",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-21T16:39:52.000Z",
+      "detectado": "2026-11-21T17:05:55.110Z",
+      "sensible": false,
+      "etiquetas": [
+        "economia",
+        "salud",
+        "deportes"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "economia i ocupació, salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "9acdbdc999163532",
       "titulo": "Cerdanyola activa en alerta el pla municipal d’emergències per vent davant la previsió de ratxes fortes",
       "enlace": "http://www.cerdanyola.cat/actualitat/cerdanyola-activa-en-alerta-el-pla-municipal-demergencies-vent-davant-la-previsio-de",
@@ -530,5 +557,5 @@
       "propuesta": true
     }
   ],
-  "actualizado": "2026-11-21T16:16:12.467Z"
+  "actualizado": "2026-11-21T17:06:13.313Z"
 }

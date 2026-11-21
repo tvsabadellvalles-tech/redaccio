@@ -1,20 +1,6 @@
 {
   "eventos": [
     {
-      "id": "3ded3f224c5b159e",
-      "t": "2026-11-18T08:05:54.673Z",
-      "agente": "rastreador",
-      "texto": "He recollit «FOTOS | Comencen les obres del nou mercat de Campoamor» (Diari de Sabadell).",
-      "itemId": "8403b91042a45719"
-    },
-    {
-      "id": "3345f56ecbffd306",
-      "t": "2026-11-18T08:05:54.674Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Obres i urbanisme.",
-      "itemId": "8403b91042a45719"
-    },
-    {
       "id": "eae51cee7b5446d5",
       "t": "2026-11-18T09:09:28.028Z",
       "agente": "rastreador",
@@ -2799,7 +2785,21 @@
       "agente": "mesa",
       "texto": "Proposo incloure-ho a l'escaleta (4 punts): font oficial · emergències.",
       "itemId": "9acdbdc999163532"
+    },
+    {
+      "id": "8feb819d817f3236",
+      "t": "2026-11-21T17:05:55.110Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Una seixantena de corredors estrenen la Sweet Run, la proposta més dolça de la Cap d’Any Race» (Ràdio Sabadell).",
+      "itemId": "48cde46a2f18727a"
+    },
+    {
+      "id": "6ba59095b76269cd",
+      "t": "2026-11-21T17:05:55.111Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Economia i ocupació, Salut, Esports.",
+      "itemId": "48cde46a2f18727a"
     }
   ],
-  "actualizado": "2026-11-21T16:16:12.471Z"
+  "actualizado": "2026-11-21T17:06:13.318Z"
 }
