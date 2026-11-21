@@ -104,6 +104,72 @@
   },
   "items": [
     {
+      "id": "aced6de8ca083da1",
+      "titulo": "Una oda als drets dels més petits: el Consell d’Infants de Sabadell reivindica \"una ciutat inclusiva i sense discriminacions\"",
+      "enlace": "https://www.diaridesabadell.com/sabadell/dia-internacional-dels-drets-dels-infants-sabadell-2026.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-21T12:38:50.000Z",
+      "detectado": "2026-11-21T12:53:27.460Z",
+      "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "da2149452fdae43c",
+      "titulo": "Sabadell ret homenatge a Ernest Lluch en el 26è aniversari del seu assassinat",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/homenatge-ernest-lluch-sabadell",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-21T12:38:13.000Z",
+      "detectado": "2026-11-21T12:53:27.460Z",
+      "sensible": true,
+      "etiquetas": [
+        "politica",
+        "salud"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "política local, salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "0f4fcae5d76385bb",
+      "titulo": "Xavi Graells s'endú l'Estevet d'or al Concurs de Ratafia Casolana",
+      "enlace": "https://www.lactual.cat/actualitat/xavi-graells-endu-estevet-or-concurs-ratafia-casolana_55420_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-21T12:09:17.000Z",
+      "detectado": "2026-11-21T12:53:27.460Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "1ac130de64cd25fa",
       "titulo": "Fèlix Colomer: \"El documental de Vinicius és una porqueria\"",
       "enlace": "https://www.diaridesabadell.com/oci-cultura/felix-colomer-emmy-internacional-temps-mort.html",
@@ -267,5 +333,5 @@
       "propuesta": true
     }
   ],
-  "actualizado": "2026-11-21T09:29:47.193Z"
+  "actualizado": "2026-11-21T12:53:41.591Z"
 }

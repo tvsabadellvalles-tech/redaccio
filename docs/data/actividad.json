@@ -1,55 +1,6 @@
 {
   "eventos": [
     {
-      "id": "50b67925352b5280",
-      "t": "2026-11-17T18:09:09.803Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Incertesa, pertinença, comoditat... Què hi ha darrere la moda de tot al negre dels adolescents?» (Diari de Sabadell).",
-      "itemId": "5ac467fcfb6a10e0"
-    },
-    {
-      "id": "54f72c46f7cc4054",
-      "t": "2026-11-17T18:09:09.804Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "5ac467fcfb6a10e0"
-    },
-    {
-      "id": "62383ac96511a982",
-      "t": "2026-11-17T19:11:15.387Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La sopa hondurenya de costella de vedella de La Mila: \"Volíem recordar la cuina lenta i la de les nostres àvies\"» (Diari de Sabadell).",
-      "itemId": "1495e0ce0d6257d0"
-    },
-    {
-      "id": "ced756dcc6bdbc7d",
-      "t": "2026-11-17T19:11:15.388Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Palau al Dia - Notícies del 17/11/2026» (Ràdio Palau - Palau al Dia).",
-      "itemId": "42e9193d50ef83e9"
-    },
-    {
-      "id": "0297adf164b9e118",
-      "t": "2026-11-17T19:11:15.389Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Salut.",
-      "itemId": "42e9193d50ef83e9"
-    },
-    {
-      "id": "aed7099f9fd56e45",
-      "t": "2026-11-17T19:11:15.390Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Nadal 2026 a Sabadell: quan visita el Llaminer cada barri?» (Diari de Sabadell).",
-      "itemId": "fbe00887740e7a78"
-    },
-    {
-      "id": "012ace9abd433740",
-      "t": "2026-11-17T19:11:15.391Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La demarcació de Sabadell té un dèficit de 8.000 habitatges» (iSabadell).",
-      "itemId": "f0cf3fd3e2268779"
-    },
-    {
       "id": "9fd6ea298876504c",
       "t": "2026-11-17T19:11:15.392Z",
       "agente": "etiquetador",
@@ -2799,7 +2750,56 @@
       "agente": "rastreador",
       "texto": "He recollit «Parlem d'Òpera 665: \"Òpera a Catalunya: Cavalleria rusticana / Pagliacci\"» (Ràdio Sabadell).",
       "itemId": "7617dfc4a7169f34"
+    },
+    {
+      "id": "86e571f27a0771fb",
+      "t": "2026-11-21T12:53:27.460Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Xavi Graells s'endú l'Estevet d'or al Concurs de Ratafia Casolana» (L'Actual - Castellar del Vallès).",
+      "itemId": "0f4fcae5d76385bb"
+    },
+    {
+      "id": "91d338dcf1f8caa0",
+      "t": "2026-11-21T12:53:27.461Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Sabadell ret homenatge a Ernest Lluch en el 26è aniversari del seu assassinat» (Ràdio Sabadell).",
+      "itemId": "da2149452fdae43c"
+    },
+    {
+      "id": "9da1023f90f4d70e",
+      "t": "2026-11-21T12:53:27.462Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local, Salut.",
+      "itemId": "da2149452fdae43c"
+    },
+    {
+      "id": "2370e2f974be097f",
+      "t": "2026-11-21T12:53:27.463Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "da2149452fdae43c"
+    },
+    {
+      "id": "8fa993b81ed1bcdc",
+      "t": "2026-11-21T12:53:27.464Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): política local, salut.",
+      "itemId": "da2149452fdae43c"
+    },
+    {
+      "id": "337bebf9b9824a21",
+      "t": "2026-11-21T12:53:27.465Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Una oda als drets dels més petits: el Consell d’Infants de Sabadell reivindica \"una ciutat inclusiva i sense discriminacions\"» (Diari de Sabadell).",
+      "itemId": "aced6de8ca083da1"
+    },
+    {
+      "id": "71ea3ca31e2c3c87",
+      "t": "2026-11-21T12:53:27.466Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "aced6de8ca083da1"
     }
   ],
-  "actualizado": "2026-11-21T09:29:47.197Z"
+  "actualizado": "2026-11-21T12:53:41.595Z"
 }
