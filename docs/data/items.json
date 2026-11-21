@@ -104,6 +104,29 @@
   },
   "items": [
     {
+      "id": "03534472166b72f9",
+      "titulo": "El Sabadell juvenil s'estavella contra l'Oberena (1-3) i s'allunya del somni de la Copa",
+      "enlace": "https://radiosabadell.fm/esports/ce-sabadell/sabadell-juvenil-oberena-dhj-copa",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-21T19:52:28.000Z",
+      "detectado": "2026-11-21T20:53:52.763Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "90aed726d1fa4728",
       "titulo": "Sabadell celebra el Dia Internacional dels Infants",
       "enlace": "https://www.isabadell.cat/societat/sabadell-celebra-el-dia-internacional-dels-infants-341328/",
@@ -620,5 +643,5 @@
       "propuesta": true
     }
   ],
-  "actualizado": "2026-11-21T19:24:26.744Z"
+  "actualizado": "2026-11-21T20:54:08.367Z"
 }
