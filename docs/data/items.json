@@ -104,6 +104,46 @@
   },
   "items": [
     {
+      "id": "14e35ce5d89c350f",
+      "titulo": "El Cafè Colors s'obre a tota la comunitat LGTBIQA+",
+      "enlace": "https://www.lactual.cat/actualitat/cafe-colors-obre-tota-comunitat-lgtbiqa_55421_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-21T13:42:31.000Z",
+      "detectado": "2026-11-21T13:50:30.166Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "8a1ba5d54c8cb614",
+      "titulo": "Sabadell recorda Ernest Lluch en el 26è aniversari del seu assassinat: \"Ara més que mai, cal que continuïn vius els seus valors\"",
+      "enlace": "https://www.diaridesabadell.com/sabadell/homenatge-assassinat-ernest-lluch-sabadell-2026.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-21T13:00:08.000Z",
+      "detectado": "2026-11-21T13:50:30.166Z",
+      "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "aced6de8ca083da1",
       "titulo": "Una oda als drets dels més petits: el Consell d’Infants de Sabadell reivindica \"una ciutat inclusiva i sense discriminacions\"",
       "enlace": "https://www.diaridesabadell.com/sabadell/dia-internacional-dels-drets-dels-infants-sabadell-2026.html",
@@ -166,6 +206,51 @@
       "etiquetas": [],
       "puntuacion": 0,
       "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "56570f30baca13f4",
+      "titulo": "En la primera ocasió clara, s'avança el Granada (0-1)",
+      "enlace": "https://www.diaridesabadell.com/esports/centre-esports-sabadell-granada-cf-nova-creu-alta-directe-minut-a-minut-lliga-hypermotion.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-21T11:35:32.000Z",
+      "detectado": "2026-11-21T13:50:30.166Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "2ee5227fbd6f36aa",
+      "titulo": "La plaça de la Infància, epicentre de la celebració del Dia Universal dels Drets dels Infants",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/acte-central-DUDI-2026",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-21T11:30:29.000Z",
+      "detectado": "2026-11-21T13:50:30.166Z",
+      "sensible": true,
+      "etiquetas": [
+        "politica",
+        "deportes"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "política local"
+      ],
       "duplicadaDe": null,
       "propuesta": false
     },
@@ -333,5 +418,5 @@
       "propuesta": true
     }
   ],
-  "actualizado": "2026-11-21T12:53:41.591Z"
+  "actualizado": "2026-11-21T13:50:59.770Z"
 }

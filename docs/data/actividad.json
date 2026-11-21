@@ -1,55 +1,6 @@
 {
   "eventos": [
     {
-      "id": "9fd6ea298876504c",
-      "t": "2026-11-17T19:11:15.392Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Obres i urbanisme, Economia i ocupació.",
-      "itemId": "f0cf3fd3e2268779"
-    },
-    {
-      "id": "c389bafec89c22a0",
-      "t": "2026-11-17T19:11:15.393Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Així serà la programació nadalenca de la Cava Urpí» (iSabadell).",
-      "itemId": "e1d025dd27f8ce6c"
-    },
-    {
-      "id": "954543bec2a1669d",
-      "t": "2026-11-17T19:11:15.394Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La Cambra detecta un potencial de 9.400 habitatges a Sabadell» (Diari de Sabadell).",
-      "itemId": "dc0e5125483f5333"
-    },
-    {
-      "id": "10ff4d00d97c10da",
-      "t": "2026-11-17T19:11:15.395Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Obres i urbanisme.",
-      "itemId": "dc0e5125483f5333"
-    },
-    {
-      "id": "1cb944f06c766d9a",
-      "t": "2026-11-17T20:16:47.840Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Cerdanyola presenta un Nadal ple d’espectacles, música i grans atraccions per a tota la família» (Ajuntament de Cerdanyola del Vallès).",
-      "itemId": "6698070bae409fd2"
-    },
-    {
-      "id": "e6ad803a2fa7c6fa",
-      "t": "2026-11-17T20:16:47.841Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local, Economia i ocupació, Salut, Esports, Cultura i festes.",
-      "itemId": "6698070bae409fd2"
-    },
-    {
-      "id": "bc9c0b655da229b5",
-      "t": "2026-11-17T20:16:47.842Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "6698070bae409fd2"
-    },
-    {
       "id": "2dd9feda9a815e3a",
       "t": "2026-11-17T20:16:47.843Z",
       "agente": "mesa",
@@ -2799,7 +2750,56 @@
       "agente": "vigilante",
       "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
       "itemId": "aced6de8ca083da1"
+    },
+    {
+      "id": "290bc0e299cc6579",
+      "t": "2026-11-21T13:50:30.166Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La plaça de la Infància, epicentre de la celebració del Dia Universal dels Drets dels Infants» (Ràdio Sabadell).",
+      "itemId": "2ee5227fbd6f36aa"
+    },
+    {
+      "id": "40297322d1a31223",
+      "t": "2026-11-21T13:50:30.167Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local, Esports.",
+      "itemId": "2ee5227fbd6f36aa"
+    },
+    {
+      "id": "ed64d3441914efd3",
+      "t": "2026-11-21T13:50:30.168Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "2ee5227fbd6f36aa"
+    },
+    {
+      "id": "46c0c944654fe746",
+      "t": "2026-11-21T13:50:30.169Z",
+      "agente": "rastreador",
+      "texto": "He recollit «En la primera ocasió clara, s'avança el Granada (0-1)» (Diari de Sabadell).",
+      "itemId": "56570f30baca13f4"
+    },
+    {
+      "id": "05bdbf93b58d3f1d",
+      "t": "2026-11-21T13:50:30.170Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Sabadell recorda Ernest Lluch en el 26è aniversari del seu assassinat: \"Ara més que mai, cal que continuïn vius els seus valors\"» (Diari de Sabadell).",
+      "itemId": "8a1ba5d54c8cb614"
+    },
+    {
+      "id": "ebf7752592207845",
+      "t": "2026-11-21T13:50:30.171Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "8a1ba5d54c8cb614"
+    },
+    {
+      "id": "7e5a36d9ce3fcd21",
+      "t": "2026-11-21T13:50:30.172Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El Cafè Colors s'obre a tota la comunitat LGTBIQA+» (L'Actual - Castellar del Vallès).",
+      "itemId": "14e35ce5d89c350f"
     }
   ],
-  "actualizado": "2026-11-21T12:53:41.595Z"
+  "actualizado": "2026-11-21T13:50:59.774Z"
 }
