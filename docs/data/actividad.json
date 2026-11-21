@@ -1,34 +1,6 @@
 {
   "eventos": [
     {
-      "id": "2dff389c13feb554",
-      "t": "2026-11-17T16:05:06.129Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El Natació Sabadell, nou cuer de la Segona 'B': \"És qüestió de dinàmiques\"» (Ràdio Sabadell).",
-      "itemId": "29429ac59804c969"
-    },
-    {
-      "id": "6bf3fcbfd600cb93",
-      "t": "2026-11-17T16:05:06.130Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Salut, Educació, Esports.",
-      "itemId": "29429ac59804c969"
-    },
-    {
-      "id": "bf67fb07254dd330",
-      "t": "2026-11-17T16:05:06.131Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El CE Sabadell debuta a la Copa del Rei: tercer intent» (Diari de Sabadell).",
-      "itemId": "5611644f84243e0c"
-    },
-    {
-      "id": "996b9ae8dd5f57ad",
-      "t": "2026-11-17T16:05:06.132Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El Servei de Primera Acollida entrega els certificats» (L'Actual - Castellar del Vallès).",
-      "itemId": "18a84653cc713112"
-    },
-    {
       "id": "cc62aca59f88bb64",
       "t": "2026-11-17T16:05:06.133Z",
       "agente": "rastreador",
@@ -2799,7 +2771,35 @@
       "agente": "rastreador",
       "texto": "La font «Ajuntament de Cerdanyola del Vallès» no respon (terminated).",
       "itemId": null
+    },
+    {
+      "id": "f328f3337aada1b4",
+      "t": "2026-11-21T07:50:33.063Z",
+      "agente": "rastreador",
+      "texto": "He recollit «‘Jon, lo tuyo también es violencia’» (iSabadell).",
+      "itemId": "17933b0e2b1fb6ec"
+    },
+    {
+      "id": "04ead5c3bf6323ba",
+      "t": "2026-11-21T07:50:33.064Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Successos.",
+      "itemId": "17933b0e2b1fb6ec"
+    },
+    {
+      "id": "b2e819e6404d592e",
+      "t": "2026-11-21T07:50:33.065Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Sabadell, on el residu tèxtil es transforma en oportunitats de futur» (iSabadell).",
+      "itemId": "196c44f66b61f939"
+    },
+    {
+      "id": "1bd880ecb5efc4ea",
+      "t": "2026-11-21T07:50:33.066Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Economia i ocupació.",
+      "itemId": "196c44f66b61f939"
     }
   ],
-  "actualizado": "2026-11-20T23:48:54.172Z"
+  "actualizado": "2026-11-21T07:50:51.360Z"
 }

@@ -104,6 +104,54 @@
   },
   "items": [
     {
+      "id": "17933b0e2b1fb6ec",
+      "titulo": "‘Jon, lo tuyo también es violencia’",
+      "enlace": "https://www.isabadell.cat/opinio/motu-proprio/jon-lo-tuyo-tambien-es-violencia-341030/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-21T07:00:00.000Z",
+      "detectado": "2026-11-21T07:50:33.063Z",
+      "sensible": false,
+      "etiquetas": [
+        "sucesos"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "successos"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "196c44f66b61f939",
+      "titulo": "Sabadell, on el residu tèxtil es transforma en oportunitats de futur",
+      "enlace": "https://www.isabadell.cat/el-raco-de-valua/sabadell-on-el-residu-textil-es-transforma-en-oportunitats-de-futur-341066/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-21T07:00:00.000Z",
+      "detectado": "2026-11-21T07:50:33.063Z",
+      "sensible": false,
+      "etiquetas": [
+        "economia"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "economia i ocupació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "56fb8b72c0cb581a",
       "titulo": "Sentmenat se suma a la Setmana Europea de la Prevenció de Residus amb el repte d’incrementar la recollida de la fracció orgànica",
       "enlace": "https://www.sentmenat.cat/actualitat/noticies/sentmenat-se-suma-a-la-setmana-europea-de-la-prevencio-de-residus-amb-el-repte-dincrementar-la-recollida-de-la-fraccio-organica.html",
@@ -131,5 +179,5 @@
       "propuesta": true
     }
   ],
-  "actualizado": "2026-11-20T23:00:37.452Z"
+  "actualizado": "2026-11-21T07:50:51.356Z"
 }
