@@ -104,6 +104,53 @@
   },
   "items": [
     {
+      "id": "9acdbdc999163532",
+      "titulo": "Cerdanyola activa en alerta el pla municipal d’emergències per vent davant la previsió de ratxes fortes",
+      "enlace": "http://www.cerdanyola.cat/actualitat/cerdanyola-activa-en-alerta-el-pla-municipal-demergencies-vent-davant-la-previsio-de",
+      "fuente": "ayto-cerdanyola",
+      "fuenteNombre": "Ajuntament de Cerdanyola del Vallès",
+      "tipo": "oficial",
+      "resumen": "Cerdanyola activa en alerta el pla municipal d’emergències per vent davant la previsió de ratxes fortes L’Ajuntament ha activta en fase d’alerta el Pla d’actuació municipal d’emergències per vent davant la previsió de ventades que poden…",
+      "municipio": "cerdanyola",
+      "municipiosMencionados": [
+        "cerdanyola"
+      ],
+      "publicado": "2026-11-21T16:08:21.000Z",
+      "detectado": "2026-11-21T16:15:59.288Z",
+      "sensible": false,
+      "etiquetas": [
+        "emergencias"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "font oficial",
+        "emergències"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "767e21b35d82af07",
+      "titulo": "El gol del CE Sabadell 1-1 Granada CF",
+      "enlace": "https://radiosabadell.fm/alacarta/audio/el-gol-del-ce-sabadell-1-1-granada-cf",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-21T15:46:33.000Z",
+      "detectado": "2026-11-21T16:15:59.288Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "ddfb0440e72f8779",
       "titulo": "El Sabadell torna a ser competitiu a la Nova Creu Alta (1-1)",
       "enlace": "https://www.isabadell.cat/esports/futbol/el-sabadell-torna-a-ser-competitiu-a-la-nova-creu-alta-1-1-341296/",
@@ -483,5 +530,5 @@
       "propuesta": true
     }
   ],
-  "actualizado": "2026-11-21T15:26:37.229Z"
+  "actualizado": "2026-11-21T16:16:12.467Z"
 }

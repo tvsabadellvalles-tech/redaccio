@@ -1,34 +1,6 @@
 {
   "eventos": [
     {
-      "id": "c9cedcb84cd5e28a",
-      "t": "2026-11-18T08:05:54.669Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Salut.",
-      "itemId": "57f9ef35e813421e"
-    },
-    {
-      "id": "8a097f2706570179",
-      "t": "2026-11-18T08:05:54.670Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "57f9ef35e813421e"
-    },
-    {
-      "id": "3c96758e38ec72c5",
-      "t": "2026-11-18T08:05:54.671Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La Puríssima, on les joguines tornen a ser estimades» (iSabadell).",
-      "itemId": "aed88230d6491a8a"
-    },
-    {
-      "id": "98d280deb854e10c",
-      "t": "2026-11-18T08:05:54.672Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "aed88230d6491a8a"
-    },
-    {
       "id": "3ded3f224c5b159e",
       "t": "2026-11-18T08:05:54.673Z",
       "agente": "rastreador",
@@ -2799,7 +2771,35 @@
       "agente": "rastreador",
       "texto": "He recollit «El Sabadell torna a ser competitiu a la Nova Creu Alta (1-1)» (iSabadell).",
       "itemId": "ddfb0440e72f8779"
+    },
+    {
+      "id": "a46217ae78d5df84",
+      "t": "2026-11-21T16:15:59.288Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El gol del CE Sabadell 1-1 Granada CF» (Ràdio Sabadell).",
+      "itemId": "767e21b35d82af07"
+    },
+    {
+      "id": "2359affb759b7aa7",
+      "t": "2026-11-21T16:15:59.289Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Cerdanyola activa en alerta el pla municipal d’emergències per vent davant la previsió de ratxes fortes» (Ajuntament de Cerdanyola del Vallès).",
+      "itemId": "9acdbdc999163532"
+    },
+    {
+      "id": "1e0bb994b7f40d61",
+      "t": "2026-11-21T16:15:59.290Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Emergències.",
+      "itemId": "9acdbdc999163532"
+    },
+    {
+      "id": "e585effbd0835cf4",
+      "t": "2026-11-21T16:15:59.291Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): font oficial · emergències.",
+      "itemId": "9acdbdc999163532"
     }
   ],
-  "actualizado": "2026-11-21T15:26:37.231Z"
+  "actualizado": "2026-11-21T16:16:12.471Z"
 }
