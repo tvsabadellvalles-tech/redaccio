@@ -1,13 +1,6 @@
 {
   "eventos": [
     {
-      "id": "a6257c05e05649a3",
-      "t": "2026-11-17T18:09:09.802Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Generació BSO 16/11/26» (Ràdio Sabadell).",
-      "itemId": "2e092069d3ff1acc"
-    },
-    {
       "id": "50b67925352b5280",
       "t": "2026-11-17T18:09:09.803Z",
       "agente": "rastreador",
@@ -2799,7 +2792,14 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Esports.",
       "itemId": "0164926fe44d2ff6"
+    },
+    {
+      "id": "771cc75a59814381",
+      "t": "2026-11-21T09:29:32.460Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Parlem d'Òpera 665: \"Òpera a Catalunya: Cavalleria rusticana / Pagliacci\"» (Ràdio Sabadell).",
+      "itemId": "7617dfc4a7169f34"
     }
   ],
-  "actualizado": "2026-11-21T08:38:44.126Z"
+  "actualizado": "2026-11-21T09:29:47.197Z"
 }

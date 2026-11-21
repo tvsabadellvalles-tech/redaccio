@@ -104,6 +104,44 @@
   },
   "items": [
     {
+      "id": "1ac130de64cd25fa",
+      "titulo": "Fèlix Colomer: \"El documental de Vinicius és una porqueria\"",
+      "enlace": "https://www.diaridesabadell.com/oci-cultura/felix-colomer-emmy-internacional-temps-mort.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-21T09:00:02.000Z",
+      "detectado": "2026-11-21T09:29:32.460Z",
+      "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "7617dfc4a7169f34",
+      "titulo": "Parlem d'Òpera 665: \"Òpera a Catalunya: Cavalleria rusticana / Pagliacci\"",
+      "enlace": "https://radiosabadell.fm/alacarta/audio/parlem-dopera-665-opera-catalunya-cavalleria-rusticana-pagliacci",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-21T08:42:21.000Z",
+      "detectado": "2026-11-21T09:29:32.460Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "0164926fe44d2ff6",
       "titulo": "Sabadell, una fàbrica de campions que no s'atura",
       "enlace": "https://www.diaridesabadell.com/esports/sabadell-fabrica-campions-esportistes-esport-ciutat-generacio-or-jocs-olimpics-referents.html",
@@ -229,5 +267,5 @@
       "propuesta": true
     }
   ],
-  "actualizado": "2026-11-21T08:38:44.123Z"
+  "actualizado": "2026-11-21T09:29:47.193Z"
 }
