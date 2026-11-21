@@ -1,20 +1,6 @@
 {
   "eventos": [
     {
-      "id": "eae51cee7b5446d5",
-      "t": "2026-11-18T09:09:28.028Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La Junta Electoral autoritza l’emissió de Connecta amb l’alcalde, que es reprendrà el 24 de novembre» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "01faa8067d5c9823"
-    },
-    {
-      "id": "ec7a77d17f846cbf",
-      "t": "2026-11-18T09:09:28.029Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local.",
-      "itemId": "01faa8067d5c9823"
-    },
-    {
       "id": "ca0c9002a230c815",
       "t": "2026-11-18T09:09:28.030Z",
       "agente": "mesa",
@@ -2799,7 +2785,21 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Economia i ocupació, Salut, Esports.",
       "itemId": "48cde46a2f18727a"
+    },
+    {
+      "id": "4ea60752124e4cc5",
+      "t": "2026-11-21T18:27:08.594Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Sabadell recorda Ernest Lluch en el 26è aniversari del seu assassinat» (iSabadell).",
+      "itemId": "40e45b62d116558b"
+    },
+    {
+      "id": "b1da31f8b6790079",
+      "t": "2026-11-21T18:27:08.595Z",
+      "agente": "deduplicador",
+      "texto": "Descartada perquè és duplicada: coincideix amb «Sabadell recorda Ernest Lluch en el 26è aniversari del seu assassinat: \"Ara més que mai, cal que continuïn vius els seus valors\"» (Diari de Sabadell).",
+      "itemId": "40e45b62d116558b"
     }
   ],
-  "actualizado": "2026-11-21T17:06:13.318Z"
+  "actualizado": "2026-11-21T18:27:23.690Z"
 }
