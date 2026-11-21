@@ -1,34 +1,6 @@
 {
   "eventos": [
     {
-      "id": "ca0c9002a230c815",
-      "t": "2026-11-18T09:09:28.030Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · política local.",
-      "itemId": "01faa8067d5c9823"
-    },
-    {
-      "id": "bc3f9c54fcfcc144",
-      "t": "2026-11-18T09:09:28.031Z",
-      "agente": "rastreador",
-      "texto": "He recollit «'Federico García', l’espectacle que clou l’homenatge de Cerdanyola a Federico García Lorca» (Ajuntament de Cerdanyola del Vallès).",
-      "itemId": "ae6d25ac4deb0d02"
-    },
-    {
-      "id": "51d8c3d99652fc0a",
-      "t": "2026-11-18T09:09:28.032Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Educació, Cultura i festes.",
-      "itemId": "ae6d25ac4deb0d02"
-    },
-    {
-      "id": "138a2be84a26de41",
-      "t": "2026-11-18T09:09:28.033Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "ae6d25ac4deb0d02"
-    },
-    {
       "id": "1422f5c83c68aa83",
       "t": "2026-11-18T09:09:28.034Z",
       "agente": "rastreador",
@@ -2799,7 +2771,35 @@
       "agente": "deduplicador",
       "texto": "Descartada perquè és duplicada: coincideix amb «Sabadell recorda Ernest Lluch en el 26è aniversari del seu assassinat: \"Ara més que mai, cal que continuïn vius els seus valors\"» (Diari de Sabadell).",
       "itemId": "40e45b62d116558b"
+    },
+    {
+      "id": "ba8932db4b18ac8c",
+      "t": "2026-11-21T19:24:07.779Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La 21ª Festa del vi novell arriba amb canvi de dia i nou format» (iSabadell).",
+      "itemId": "f621d3d597dc603c"
+    },
+    {
+      "id": "2f46f84357a3ec2c",
+      "t": "2026-11-21T19:24:07.780Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "f621d3d597dc603c"
+    },
+    {
+      "id": "4b07fde5179dd12f",
+      "t": "2026-11-21T19:24:07.781Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Sabadell celebra el Dia Internacional dels Infants» (iSabadell).",
+      "itemId": "90aed726d1fa4728"
+    },
+    {
+      "id": "63b0d4e88a21d8cf",
+      "t": "2026-11-21T19:24:07.782Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "90aed726d1fa4728"
     }
   ],
-  "actualizado": "2026-11-21T18:27:23.690Z"
+  "actualizado": "2026-11-21T19:24:26.747Z"
 }

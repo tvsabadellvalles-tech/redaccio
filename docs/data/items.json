@@ -104,6 +104,27 @@
   },
   "items": [
     {
+      "id": "90aed726d1fa4728",
+      "titulo": "Sabadell celebra el Dia Internacional dels Infants",
+      "enlace": "https://www.isabadell.cat/societat/sabadell-celebra-el-dia-internacional-dels-infants-341328/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-21T18:35:07.000Z",
+      "detectado": "2026-11-21T19:24:07.779Z",
+      "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "40e45b62d116558b",
       "titulo": "Sabadell recorda Ernest Lluch en el 26è aniversari del seu assassinat",
       "enlace": "https://www.isabadell.cat/societat/sabadell-recorda-ernest-lluch-en-el-26e-aniversari-del-seu-assassinat-341320/",
@@ -415,6 +436,27 @@
       "propuesta": false
     },
     {
+      "id": "f621d3d597dc603c",
+      "titulo": "La 21ª Festa del vi novell arriba amb canvi de dia i nou format",
+      "enlace": "https://www.isabadell.cat/oci/la-21a-festa-del-vi-novell-arriba-amb-canvi-de-dia-i-nou-format-340981/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-21T10:00:00.000Z",
+      "detectado": "2026-11-21T19:24:07.779Z",
+      "sensible": false,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "1ac130de64cd25fa",
       "titulo": "Fèlix Colomer: \"El documental de Vinicius és una porqueria\"",
       "enlace": "https://www.diaridesabadell.com/oci-cultura/felix-colomer-emmy-internacional-temps-mort.html",
@@ -578,5 +620,5 @@
       "propuesta": true
     }
   ],
-  "actualizado": "2026-11-21T18:27:23.687Z"
+  "actualizado": "2026-11-21T19:24:26.744Z"
 }
