@@ -1,34 +1,6 @@
 {
   "eventos": [
     {
-      "id": "2dd9feda9a815e3a",
-      "t": "2026-11-17T20:16:47.843Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (5 punts): font oficial · política local, economia i ocupació, salut.",
-      "itemId": "6698070bae409fd2"
-    },
-    {
-      "id": "e55184ee67c78fba",
-      "t": "2026-11-17T23:02:03.969Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Infopòdcast Sabadell 18.11.26» (Ràdio Sabadell).",
-      "itemId": "15076eb7496c30b2"
-    },
-    {
-      "id": "914af1ab0e70e635",
-      "t": "2026-11-18T05:49:13.053Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Últimes hores per demanar el vot per correu el 29-N» (Ràdio Sabadell).",
-      "itemId": "7e80e23984ffe918"
-    },
-    {
-      "id": "3eac219f378057a9",
-      "t": "2026-11-18T08:05:54.668Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La campanya Cap infant sense joguines 2026 obre el període de sol·licituds del 18 de novembre a l'1 de desembre» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "57f9ef35e813421e"
-    },
-    {
       "id": "c9cedcb84cd5e28a",
       "t": "2026-11-18T08:05:54.669Z",
       "agente": "etiquetador",
@@ -2799,7 +2771,35 @@
       "agente": "rastreador",
       "texto": "He recollit «El Cafè Colors s'obre a tota la comunitat LGTBIQA+» (L'Actual - Castellar del Vallès).",
       "itemId": "14e35ce5d89c350f"
+    },
+    {
+      "id": "63baa4a136a89740",
+      "t": "2026-11-21T15:26:21.650Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Un CE Sabadell superior s'ha de conformar amb un punt davant del Granada» (Diari de Sabadell).",
+      "itemId": "399d1014068a1049"
+    },
+    {
+      "id": "04425a8e1abbadbc",
+      "t": "2026-11-21T15:26:21.651Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Sabadell 1-1 Granada: el triple de feina per aconseguir empatar» (Ràdio Sabadell).",
+      "itemId": "c023670dfbce66e6"
+    },
+    {
+      "id": "0c7d006debe24140",
+      "t": "2026-11-21T15:26:21.652Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "c023670dfbce66e6"
+    },
+    {
+      "id": "2f75a280655dd7ab",
+      "t": "2026-11-21T15:26:21.653Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El Sabadell torna a ser competitiu a la Nova Creu Alta (1-1)» (iSabadell).",
+      "itemId": "ddfb0440e72f8779"
     }
   ],
-  "actualizado": "2026-11-21T13:50:59.774Z"
+  "actualizado": "2026-11-21T15:26:37.231Z"
 }
