@@ -104,6 +104,56 @@
   },
   "items": [
     {
+      "id": "0164926fe44d2ff6",
+      "titulo": "Sabadell, una fàbrica de campions que no s'atura",
+      "enlace": "https://www.diaridesabadell.com/esports/sabadell-fabrica-campions-esportistes-esport-ciutat-generacio-or-jocs-olimpics-referents.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-21T07:54:29.000Z",
+      "detectado": "2026-11-21T08:38:26.564Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "d30ef24fe3021385",
+      "titulo": "El Ple debatrà la desafectació de l'antiga caserna perquè aculli les futures consultes externes del Taulí",
+      "enlace": "https://radiosabadell.fm/actualitat/politica/ple-desafectacio-caserna-consultes-externes-tauli",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-21T07:50:07.000Z",
+      "detectado": "2026-11-21T08:38:26.564Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica",
+        "urbanismo",
+        "salud"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "política local, obres i urbanisme, salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
       "id": "17933b0e2b1fb6ec",
       "titulo": "‘Jon, lo tuyo también es violencia’",
       "enlace": "https://www.isabadell.cat/opinio/motu-proprio/jon-lo-tuyo-tambien-es-violencia-341030/",
@@ -179,5 +229,5 @@
       "propuesta": true
     }
   ],
-  "actualizado": "2026-11-21T07:50:51.356Z"
+  "actualizado": "2026-11-21T08:38:44.123Z"
 }

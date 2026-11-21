@@ -1,41 +1,6 @@
 {
   "eventos": [
     {
-      "id": "cc62aca59f88bb64",
-      "t": "2026-11-17T16:05:06.133Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Cerdanyola presentarà la programació de Nadal el 17 de novembre» (Ajuntament de Cerdanyola del Vallès).",
-      "itemId": "3103799746dff761"
-    },
-    {
-      "id": "a9b9a44061715241",
-      "t": "2026-11-17T16:05:06.134Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local, Economia i ocupació, Esports, Cultura i festes.",
-      "itemId": "3103799746dff761"
-    },
-    {
-      "id": "6954e64f695a20a9",
-      "t": "2026-11-17T16:05:06.135Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "3103799746dff761"
-    },
-    {
-      "id": "18587422f9812cb7",
-      "t": "2026-11-17T16:05:06.136Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): font oficial · política local, economia i ocupació.",
-      "itemId": "3103799746dff761"
-    },
-    {
-      "id": "4b35039df51a2e0c",
-      "t": "2026-11-17T18:09:09.801Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Simó convida a recuperar el plaer dels fogons» (L'Actual - Castellar del Vallès).",
-      "itemId": "8abf548f68af6b14"
-    },
-    {
       "id": "a6257c05e05649a3",
       "t": "2026-11-17T18:09:09.802Z",
       "agente": "rastreador",
@@ -2799,7 +2764,42 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Economia i ocupació.",
       "itemId": "196c44f66b61f939"
+    },
+    {
+      "id": "07d0d62bd8fadc0f",
+      "t": "2026-11-21T08:38:26.564Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El Ple debatrà la desafectació de l'antiga caserna perquè aculli les futures consultes externes del Taulí» (Ràdio Sabadell).",
+      "itemId": "d30ef24fe3021385"
+    },
+    {
+      "id": "df8a7922fe2cf175",
+      "t": "2026-11-21T08:38:26.565Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local, Obres i urbanisme, Salut.",
+      "itemId": "d30ef24fe3021385"
+    },
+    {
+      "id": "ef934ef5bcaec7b3",
+      "t": "2026-11-21T08:38:26.566Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): política local, obres i urbanisme, salut.",
+      "itemId": "d30ef24fe3021385"
+    },
+    {
+      "id": "a4181ebeb628cbf0",
+      "t": "2026-11-21T08:38:26.567Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Sabadell, una fàbrica de campions que no s'atura» (Diari de Sabadell).",
+      "itemId": "0164926fe44d2ff6"
+    },
+    {
+      "id": "7dba472ed5c6dc67",
+      "t": "2026-11-21T08:38:26.568Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "0164926fe44d2ff6"
     }
   ],
-  "actualizado": "2026-11-21T07:50:51.360Z"
+  "actualizado": "2026-11-21T08:38:44.126Z"
 }
