@@ -104,6 +104,57 @@
   },
   "items": [
     {
+      "id": "b9e60c11d01636dd",
+      "titulo": "FOTOS | Els efectes del vent a Sabadell: una persona ferida i una vintena d'avisos a Bombers",
+      "enlace": "https://www.diaridesabadell.com/sabadell/fotos-els-efectes-del-vent-a-sabadell-una-persona-ferida-i-una-vintena-davisos-a-bombers.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-22T12:46:21.000Z",
+      "detectado": "2026-11-22T13:37:26.272Z",
+      "sensible": false,
+      "etiquetas": [
+        "emergencias"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "emergències"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "63426de90aa44299",
+      "titulo": "Mor un home en l'incendi d'un habitatge a Sant Quirze del Vallès",
+      "enlace": "https://www.acn.cat/new/mor-un-home-en-lincendi-dun-habitatge-a-sant-quirze-del-valles/texts",
+      "fuente": "acn",
+      "fuenteNombre": "Agència Catalana de Notícies (ACN)",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sant-quirze"
+      ],
+      "publicado": "2026-11-22T11:37:58.004Z",
+      "detectado": "2026-11-22T13:37:26.272Z",
+      "sensible": false,
+      "etiquetas": [
+        "emergencias",
+        "urbanismo"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "emergències, obres i urbanisme"
+      ],
+      "duplicadaDe": "cace244720300c45",
+      "propuesta": false
+    },
+    {
       "id": "cace244720300c45",
       "titulo": "Mor un home en l'incendi d'un habitatge a Sant Quirze",
       "enlace": "https://radiosabadell.fm/actualitat/comarca/mor-home-incendi-habitatge-sant-quirze",
@@ -267,5 +318,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-22T11:48:24.951Z"
+  "actualizado": "2026-11-22T13:37:44.133Z"
 }
