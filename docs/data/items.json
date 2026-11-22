@@ -104,6 +104,33 @@
   },
   "items": [
     {
+      "id": "dcc5c8c7e23ba66d",
+      "titulo": "Una persona ferida lleu per la caiguda d'un fanal a la ronda Bellesguard a conseqüència del vent",
+      "enlace": "https://radiosabadell.fm/actualitat/successos/persona-ferida-lleu-caiguda-fanal-vent-sabadell",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-22T09:24:36.000Z",
+      "detectado": "2026-11-22T10:17:36.595Z",
+      "sensible": false,
+      "etiquetas": [
+        "emergencias",
+        "movilidad",
+        "cultura"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "emergències, mobilitat"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
       "id": "be810323f199c0dd",
       "titulo": "Sabadell i el Vallès, en alerta per vent fort amb ratxes que poden superar els 72 km/h",
       "enlace": "https://www.diaridesabadell.com/sabadell/alerta-meteocat-ventada-sabadell-risc-2026.html",
@@ -211,5 +238,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-22T09:26:58.559Z"
+  "actualizado": "2026-11-22T10:17:49.436Z"
 }

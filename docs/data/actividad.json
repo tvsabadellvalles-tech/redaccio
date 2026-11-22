@@ -1,27 +1,6 @@
 {
   "eventos": [
     {
-      "id": "a0a1aed5d5c56753",
-      "t": "2026-11-18T11:20:51.838Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): política local, educació.",
-      "itemId": "89c0d4f7eb8c64e3"
-    },
-    {
-      "id": "271cb1cecb58a064",
-      "t": "2026-11-18T11:20:51.839Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La disputa per liderar els carrers de Sabadell: així es reparteixen els trams per als cartells electorals» (Diari de Sabadell).",
-      "itemId": "e3b712823011e7d9"
-    },
-    {
-      "id": "dc995734e95c2c5b",
-      "t": "2026-11-18T11:20:51.840Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Com hem de fer un bon ús d'un inhaladors?» (Ràdio Sabadell).",
-      "itemId": "d97ba74194074aa3"
-    },
-    {
       "id": "8430d3d5f143516a",
       "t": "2026-11-18T11:20:51.841Z",
       "agente": "rastreador",
@@ -2799,7 +2778,28 @@
       "agente": "mesa",
       "texto": "Proposo incloure-ho a l'escaleta (3 punts): emergències.",
       "itemId": "be810323f199c0dd"
+    },
+    {
+      "id": "15e484640a9d6515",
+      "t": "2026-11-22T10:17:36.595Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Una persona ferida lleu per la caiguda d'un fanal a la ronda Bellesguard a conseqüència del vent» (Ràdio Sabadell).",
+      "itemId": "dcc5c8c7e23ba66d"
+    },
+    {
+      "id": "5a5b7c7f003d4e87",
+      "t": "2026-11-22T10:17:36.596Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Emergències, Mobilitat, Cultura i festes.",
+      "itemId": "dcc5c8c7e23ba66d"
+    },
+    {
+      "id": "8a8083ec9b4de7ba",
+      "t": "2026-11-22T10:17:36.597Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): emergències, mobilitat.",
+      "itemId": "dcc5c8c7e23ba66d"
     }
   ],
-  "actualizado": "2026-11-22T09:26:58.562Z"
+  "actualizado": "2026-11-22T10:17:49.439Z"
 }
