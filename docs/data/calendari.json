@@ -2,7 +2,7 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-22T17:36:24.674Z",
+  "consultat": "2026-11-22T18:19:29.893Z",
   "total": 14,
   "activitats": [
     {
@@ -27,14 +27,14 @@
       "color": null
     },
     {
-      "titol": "(Paulino) gravació anunci Inmobiliaria Peritax",
+      "titol": "Rdp PSC",
       "inici": "2026-11-23T09:00:00.000Z",
       "final": "2026-11-23T10:00:00.000Z",
       "totElDia": false,
       "color": null
     },
     {
-      "titol": "Rdp PSC",
+      "titol": "(Paulino) gravació anunci Inmobiliaria Peritax",
       "inici": "2026-11-23T09:00:00.000Z",
       "final": "2026-11-23T10:00:00.000Z",
       "totElDia": false,
@@ -56,15 +56,15 @@
     },
     {
       "titol": "(Joan) Acreditacions LaLiga",
-      "inici": "2026-11-23T14:30:00.000Z",
-      "final": "2026-11-23T15:00:00.000Z",
+      "inici": "2026-11-23T14:00:00.000Z",
+      "final": "2026-11-23T14:30:00.000Z",
       "totElDia": false,
       "color": null
     },
     {
       "titol": "L'Informatiu",
-      "inici": "2026-11-23T15:00:00.000Z",
-      "final": "2026-11-23T16:00:00.000Z",
+      "inici": "2026-11-23T14:30:00.000Z",
+      "final": "2026-11-23T15:30:00.000Z",
       "totElDia": false,
       "color": null
     },
@@ -105,5 +105,5 @@
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-22T17:37:02.658Z"
+  "actualizado": "2026-11-22T18:20:04.217Z"
 }

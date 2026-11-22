@@ -1,27 +1,6 @@
 {
   "eventos": [
     {
-      "id": "2b896cce0d4538b2",
-      "t": "2026-11-18T13:40:20.878Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La nova residència d'Atendis a Can Rull estarà enllestida al 2028» (Ràdio Sabadell).",
-      "itemId": "d289a0fe98570edb"
-    },
-    {
-      "id": "0f2a101cb254b065",
-      "t": "2026-11-18T13:40:20.879Z",
-      "agente": "deduplicador",
-      "texto": "Descartada perquè és duplicada: coincideix amb «La nova residència d’Atendis a Can Rull està prevista pel 2028» (Ràdio Sabadell).",
-      "itemId": "d289a0fe98570edb"
-    },
-    {
-      "id": "f0eace0973457787",
-      "t": "2026-11-18T13:40:20.880Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Ogou (Front Ampli): “Les eleccions seran un referèndum sobre l’habitatge”» (iSabadell).",
-      "itemId": "91d64e7da0751a2d"
-    },
-    {
       "id": "df7b319a7dc861b6",
       "t": "2026-11-18T13:40:20.881Z",
       "agente": "deduplicador",
@@ -2799,7 +2778,28 @@
       "agente": "rastreador",
       "texto": "He recollit «La Taula de Periodisme Local enceta la Setmana del Llibre SBD 2026» (iSabadell).",
       "itemId": "812dc8718d9f822d"
+    },
+    {
+      "id": "3ac9954d012dfd6b",
+      "t": "2026-11-22T18:19:29.893Z",
+      "agente": "rastreador",
+      "texto": "He recollit «\"Cal estar present als carrers perquè es busca incidir en el vot indecís\": com ens afecta la cartelleria electoral?» (Diari de Sabadell).",
+      "itemId": "ed6eff18a94a4ff3"
+    },
+    {
+      "id": "14b516da94a26323",
+      "t": "2026-11-22T18:19:29.894Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Així seran les obres al camp del Can Rull: actuacions i calendari» (iSabadell).",
+      "itemId": "eb095eb0424485dc"
+    },
+    {
+      "id": "c167dda1ded161b1",
+      "t": "2026-11-22T18:19:29.895Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Obres i urbanisme, Esports.",
+      "itemId": "eb095eb0424485dc"
     }
   ],
-  "actualizado": "2026-11-22T16:08:25.627Z"
+  "actualizado": "2026-11-22T18:19:44.747Z"
 }
