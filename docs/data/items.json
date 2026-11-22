@@ -104,6 +104,107 @@
   },
   "items": [
     {
+      "id": "c10ad066577b9125",
+      "titulo": "La Taula de Periodisme Local obre la Setmana del Llibre de Sabadell",
+      "enlace": "https://radiosabadell.fm/actualitat/cultura/taula-periodisme-local-setmana-llibre-sabadell",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-22T15:09:59.000Z",
+      "detectado": "2026-11-22T15:20:51.072Z",
+      "sensible": false,
+      "etiquetas": [
+        "urbanismo",
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "5ca16d7b535e7d71",
+      "titulo": "El Front Ampli desplega la seva artilleria a Sabadell: “No teniu ganes de veure Colau com a ministra d’Habitatge?”",
+      "enlace": "https://www.diaridesabadell.com/sabadell/front-ampli-sabadell-acte-campanya-29n.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-22T15:09:26.000Z",
+      "detectado": "2026-11-22T15:20:51.072Z",
+      "sensible": false,
+      "etiquetas": [
+        "urbanismo"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "8c0135e1abe60f98",
+      "titulo": "Una persona ferida per la caiguda d’un fanal a Sol i Padrís",
+      "enlace": "https://www.isabadell.cat/successos/una-persona-ferida-per-la-caiguda-dun-fanal-a-sol-i-padris-341349/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-22T14:39:12.000Z",
+      "detectado": "2026-11-22T15:20:51.072Z",
+      "sensible": false,
+      "etiquetas": [
+        "emergencias",
+        "sucesos"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "emergències, successos"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "b59ecaf8c1c9d6c0",
+      "titulo": "Mor un home en l’incendi d’un habitatge a Sant Quirze del Vallès",
+      "enlace": "https://www.diarideterrassa.com/terrassa/mor-un-home-en-lincendi-dun-habitatge-a-sant-quirze-del-valles.html",
+      "fuente": "diari-terrassa",
+      "fuenteNombre": "Diari de Terrassa",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sant-quirze"
+      ],
+      "publicado": "2026-11-22T14:16:00.000Z",
+      "detectado": "2026-11-22T15:20:51.072Z",
+      "sensible": false,
+      "etiquetas": [
+        "emergencias",
+        "urbanismo"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "emergències, obres i urbanisme"
+      ],
+      "duplicadaDe": "cace244720300c45",
+      "propuesta": false
+    },
+    {
       "id": "aba87192a33a5c8e",
       "titulo": "El Sabadell Pickleball Club es proclama campió de Catalunya per clubs",
       "enlace": "https://radiosabadell.fm/esports/altres-esports/sabadell-pickleball-club-campio-catalunya-2026",
@@ -394,5 +495,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-22T14:29:50.380Z"
+  "actualizado": "2026-11-22T15:21:07.794Z"
 }

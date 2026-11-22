@@ -1,69 +1,6 @@
 {
   "eventos": [
     {
-      "id": "4bfd97d229329fc8",
-      "t": "2026-11-18T12:18:32.461Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Josep Maria Bunyol, escriptor: \"Tinc pendent un crim a Sabadell\"» (Ràdio Sabadell).",
-      "itemId": "2eb7cd945cda35c4"
-    },
-    {
-      "id": "414aabe8aef4f0db",
-      "t": "2026-11-18T13:40:20.866Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Instal·lar plaques solars a Barcelona» (iSabadell).",
-      "itemId": "7db6eee98b2aa4d3"
-    },
-    {
-      "id": "155d027115c73af7",
-      "t": "2026-11-18T13:40:20.867Z",
-      "agente": "deduplicador",
-      "texto": "Descartada perquè és duplicada: coincideix amb «Instal·lar plaques solars a Barcelona» (iSabadell).",
-      "itemId": "7db6eee98b2aa4d3"
-    },
-    {
-      "id": "8a505735d836e761",
-      "t": "2026-11-18T13:40:20.868Z",
-      "agente": "rastreador",
-      "texto": "He recollit «“Teixim Nadal a Barberà”, una programació amb una quarantena d'activitats i un nou personatge» (Ajuntament de Barberà del Vallès).",
-      "itemId": "8f8107ccbd23d460"
-    },
-    {
-      "id": "a5f716d7769a9e17",
-      "t": "2026-11-18T13:40:20.869Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local, Esports, Cultura i festes.",
-      "itemId": "8f8107ccbd23d460"
-    },
-    {
-      "id": "bc680bfb6da2fb9f",
-      "t": "2026-11-18T13:40:20.870Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "8f8107ccbd23d460"
-    },
-    {
-      "id": "e737661a28d7e55e",
-      "t": "2026-11-18T13:40:20.871Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · política local.",
-      "itemId": "8f8107ccbd23d460"
-    },
-    {
-      "id": "c3d9da1df68d037c",
-      "t": "2026-11-18T13:40:20.872Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Josep Maria Bunyol, guionista: “Sabadell tindrà el seu crim”» (Ràdio Sabadell).",
-      "itemId": "75b5f92e842bff4a"
-    },
-    {
-      "id": "e1aefb49c09e500a",
-      "t": "2026-11-18T13:40:20.873Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Salut, Cultura i festes.",
-      "itemId": "75b5f92e842bff4a"
-    },
-    {
       "id": "61c6ba690edbf3fb",
       "t": "2026-11-18T13:40:20.874Z",
       "agente": "rastreador",
@@ -2799,7 +2736,70 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Esports.",
       "itemId": "aba87192a33a5c8e"
+    },
+    {
+      "id": "68891ad2dc40dcac",
+      "t": "2026-11-22T15:20:51.072Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Mor un home en l’incendi d’un habitatge a Sant Quirze del Vallès» (Diari de Terrassa).",
+      "itemId": "b59ecaf8c1c9d6c0"
+    },
+    {
+      "id": "686c9cdb1a0dfc35",
+      "t": "2026-11-22T15:20:51.073Z",
+      "agente": "deduplicador",
+      "texto": "Descartada perquè és duplicada: coincideix amb «Mor un home en l'incendi d'un habitatge a Sant Quirze» (Ràdio Sabadell).",
+      "itemId": "b59ecaf8c1c9d6c0"
+    },
+    {
+      "id": "fe06dab631f1bcf2",
+      "t": "2026-11-22T15:20:51.074Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Una persona ferida per la caiguda d’un fanal a Sol i Padrís» (iSabadell).",
+      "itemId": "8c0135e1abe60f98"
+    },
+    {
+      "id": "413d4bd3037e6ac9",
+      "t": "2026-11-22T15:20:51.075Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Emergències, Successos.",
+      "itemId": "8c0135e1abe60f98"
+    },
+    {
+      "id": "f1b0b39dcef59671",
+      "t": "2026-11-22T15:20:51.076Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): emergències, successos.",
+      "itemId": "8c0135e1abe60f98"
+    },
+    {
+      "id": "bd95ce8ad8d431f3",
+      "t": "2026-11-22T15:20:51.077Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El Front Ampli desplega la seva artilleria a Sabadell: “No teniu ganes de veure Colau com a ministra d’Habitatge?”» (Diari de Sabadell).",
+      "itemId": "5ca16d7b535e7d71"
+    },
+    {
+      "id": "93a67d6197065e85",
+      "t": "2026-11-22T15:20:51.078Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Obres i urbanisme.",
+      "itemId": "5ca16d7b535e7d71"
+    },
+    {
+      "id": "21381f52eb95d14a",
+      "t": "2026-11-22T15:20:51.079Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La Taula de Periodisme Local obre la Setmana del Llibre de Sabadell» (Ràdio Sabadell).",
+      "itemId": "c10ad066577b9125"
+    },
+    {
+      "id": "2a2a23c5ec63bcce",
+      "t": "2026-11-22T15:20:51.080Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Obres i urbanisme, Cultura i festes.",
+      "itemId": "c10ad066577b9125"
     }
   ],
-  "actualizado": "2026-11-22T14:29:50.384Z"
+  "actualizado": "2026-11-22T15:21:07.799Z"
 }
