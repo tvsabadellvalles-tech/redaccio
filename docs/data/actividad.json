@@ -1,13 +1,6 @@
 {
   "eventos": [
     {
-      "id": "df7b319a7dc861b6",
-      "t": "2026-11-18T13:40:20.881Z",
-      "agente": "deduplicador",
-      "texto": "Descartada perquè és duplicada: coincideix amb «Front Ampli equipara les eleccions a un \"referèndum sobre habitatge\"» (Ràdio Sabadell).",
-      "itemId": "91d64e7da0751a2d"
-    },
-    {
       "id": "ef116407c2c958dd",
       "t": "2026-11-18T15:34:16.100Z",
       "agente": "rastreador",
@@ -2799,7 +2792,14 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Obres i urbanisme, Esports.",
       "itemId": "eb095eb0424485dc"
+    },
+    {
+      "id": "b5af80d9641256f9",
+      "t": "2026-11-22T21:29:54.754Z",
+      "agente": "rastreador",
+      "texto": "La font «Ajuntament de Sant Quirze del Vallès» no respon (HTTP 503).",
+      "itemId": null
     }
   ],
-  "actualizado": "2026-11-22T18:19:44.747Z"
+  "actualizado": "2026-11-22T21:30:08.695Z"
 }
