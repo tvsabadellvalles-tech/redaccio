@@ -104,6 +104,25 @@
   },
   "items": [
     {
+      "id": "afbec5f2fd0c620a",
+      "titulo": "‘Cara a cara i GTA’, per Surroca (22/11/26)",
+      "enlace": "https://www.isabadell.cat/la-vinyeta/cara-a-cara-i-gta-per-surroca-22-11-26-341334/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-22T08:15:00.000Z",
+      "detectado": "2026-11-22T08:35:39.009Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "2051b9198415766b",
       "titulo": "Les germanes Emília i Angelina Masachs, víctimes del nazisme",
       "enlace": "https://www.isabadell.cat/sabadell/historia/germanes-emilia-adelina-masachs-341223/",
@@ -121,7 +140,51 @@
       "motivos": [],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "e5585d945f4b706a",
+      "titulo": "Les germanes Emília i Angelina Masachs, víctimes del nazisme",
+      "enlace": "https://www.isabadell.cat/sabadell/historia/germanes-emilia-angelina-masachs-341223/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-22T07:00:00.000Z",
+      "detectado": "2026-11-22T08:35:39.009Z",
+      "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": "2051b9198415766b",
+      "propuesta": false
+    },
+    {
+      "id": "1be62365148dad0f",
+      "titulo": "'La bici de la Lola', a la gran pantalla de Sabadell",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/projeccio-bici-lola-imperial-dudi-sabadell",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-22T05:36:42.000Z",
+      "detectado": "2026-11-22T08:35:39.009Z",
+      "sensible": true,
+      "etiquetas": [
+        "salud"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
     }
   ],
-  "actualizado": "2026-11-22T07:44:27.868Z"
+  "actualizado": "2026-11-22T08:35:54.586Z"
 }

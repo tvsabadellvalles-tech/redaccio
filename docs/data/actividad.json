@@ -1,48 +1,6 @@
 {
   "eventos": [
     {
-      "id": "87d6fe71a42355c7",
-      "t": "2026-11-18T10:15:04.940Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Àmplia presència local entre les persones participants i guanyadores de la 12a edició del concurs de microrelats ‘Dones veu a les dones?’» (Ajuntament de Montcada i Reixac).",
-      "itemId": "fb003efdeb72baa2"
-    },
-    {
-      "id": "ff2329f8b94ab19c",
-      "t": "2026-11-18T10:15:04.941Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Horta-Sabadell 'B': el filial es posa al dia al Feliu i Codina» (Ràdio Sabadell).",
-      "itemId": "97cc32f15d00e8a4"
-    },
-    {
-      "id": "685b3deb75c5db58",
-      "t": "2026-11-18T10:15:04.942Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Esports.",
-      "itemId": "97cc32f15d00e8a4"
-    },
-    {
-      "id": "8c27c3a1c67f3886",
-      "t": "2026-11-18T10:15:04.943Z",
-      "agente": "rastreador",
-      "texto": "He recollit «'Overbooking' per tramitar el vot per Correu» (Ràdio Sabadell).",
-      "itemId": "3e60652728cf2bd4"
-    },
-    {
-      "id": "7ad507d2980f9f3a",
-      "t": "2026-11-18T10:15:04.944Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Sant Quirze presenta l'Escola de la Pau, un projecte per fomentar aquest objectiu de manera transversal» (Ajuntament de Sant Quirze del Vallès).",
-      "itemId": "c516a28e1fe3aa6d"
-    },
-    {
-      "id": "8eb62f2acaf6e7fe",
-      "t": "2026-11-18T10:15:04.945Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Educació.",
-      "itemId": "c516a28e1fe3aa6d"
-    },
-    {
       "id": "fbde461aaa83239c",
       "t": "2026-11-18T11:20:51.835Z",
       "agente": "rastreador",
@@ -2799,7 +2757,49 @@
       "agente": "vigilante",
       "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
       "itemId": "2051b9198415766b"
+    },
+    {
+      "id": "fed8bad06cc19007",
+      "t": "2026-11-22T08:35:39.009Z",
+      "agente": "rastreador",
+      "texto": "He recollit «'La bici de la Lola', a la gran pantalla de Sabadell» (Ràdio Sabadell).",
+      "itemId": "1be62365148dad0f"
+    },
+    {
+      "id": "c2aa8a3eb25e1916",
+      "t": "2026-11-22T08:35:39.010Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut.",
+      "itemId": "1be62365148dad0f"
+    },
+    {
+      "id": "d4d91ca30713d821",
+      "t": "2026-11-22T08:35:39.011Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "1be62365148dad0f"
+    },
+    {
+      "id": "218040d4900eaccf",
+      "t": "2026-11-22T08:35:39.012Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Les germanes Emília i Angelina Masachs, víctimes del nazisme» (iSabadell).",
+      "itemId": "e5585d945f4b706a"
+    },
+    {
+      "id": "af6d8fec6340a8fa",
+      "t": "2026-11-22T08:35:39.013Z",
+      "agente": "deduplicador",
+      "texto": "Descartada perquè és duplicada: coincideix amb «Les germanes Emília i Angelina Masachs, víctimes del nazisme» (iSabadell).",
+      "itemId": "e5585d945f4b706a"
+    },
+    {
+      "id": "bc3a82301964d08d",
+      "t": "2026-11-22T08:35:39.014Z",
+      "agente": "rastreador",
+      "texto": "He recollit «‘Cara a cara i GTA’, per Surroca (22/11/26)» (iSabadell).",
+      "itemId": "afbec5f2fd0c620a"
     }
   ],
-  "actualizado": "2026-11-22T07:44:27.871Z"
+  "actualizado": "2026-11-22T08:35:54.590Z"
 }

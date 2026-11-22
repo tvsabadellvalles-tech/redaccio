@@ -2,11 +2,11 @@
   "fuentes": {
     "isabadell": {
       "ok": true,
-      "items": 1
+      "items": 2
     },
     "radio-sabadell": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "diari-sabadell": {
       "ok": true,
@@ -81,6 +81,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-22T07:44:10.035Z",
-  "actualizado": "2026-11-22T07:44:27.869Z"
+  "consultat": "2026-11-22T08:35:39.009Z",
+  "actualizado": "2026-11-22T08:35:54.589Z"
 }
