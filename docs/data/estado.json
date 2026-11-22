@@ -10,7 +10,7 @@
     },
     "diari-sabadell": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "diari-terrassa": {
       "ok": true,
@@ -81,6 +81,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-22T08:35:39.009Z",
-  "actualizado": "2026-11-22T08:35:54.589Z"
+  "consultat": "2026-11-22T09:26:43.992Z",
+  "actualizado": "2026-11-22T09:26:58.560Z"
 }

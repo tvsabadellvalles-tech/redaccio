@@ -1,27 +1,6 @@
 {
   "eventos": [
     {
-      "id": "fbde461aaa83239c",
-      "t": "2026-11-18T11:20:51.835Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Els comerços de Sentmenat impulsen una campanya de Nadal amb el sorteig d’una gran panera» (Ajuntament de Sentmenat).",
-      "itemId": "694642b8f0539e22"
-    },
-    {
-      "id": "ae1800f609121d5e",
-      "t": "2026-11-18T11:20:51.836Z",
-      "agente": "rastreador",
-      "texto": "He recollit «David Palacios, Assemblea de Docents de Sabadell: \"Les colònies han sortit de franc al Departament\"» (Ràdio Sabadell).",
-      "itemId": "89c0d4f7eb8c64e3"
-    },
-    {
-      "id": "f7299882c10f87a2",
-      "t": "2026-11-18T11:20:51.837Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local, Educació.",
-      "itemId": "89c0d4f7eb8c64e3"
-    },
-    {
       "id": "a0a1aed5d5c56753",
       "t": "2026-11-18T11:20:51.838Z",
       "agente": "mesa",
@@ -2799,7 +2778,28 @@
       "agente": "rastreador",
       "texto": "He recollit «‘Cara a cara i GTA’, per Surroca (22/11/26)» (iSabadell).",
       "itemId": "afbec5f2fd0c620a"
+    },
+    {
+      "id": "1597e05df0491442",
+      "t": "2026-11-22T09:26:43.992Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Sabadell i el Vallès, en alerta per vent fort amb ratxes que poden superar els 72 km/h» (Diari de Sabadell).",
+      "itemId": "be810323f199c0dd"
+    },
+    {
+      "id": "c983293afdc90b3e",
+      "t": "2026-11-22T09:26:43.993Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Emergències.",
+      "itemId": "be810323f199c0dd"
+    },
+    {
+      "id": "79ef053dcd6d112c",
+      "t": "2026-11-22T09:26:43.994Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): emergències.",
+      "itemId": "be810323f199c0dd"
     }
   ],
-  "actualizado": "2026-11-22T08:35:54.590Z"
+  "actualizado": "2026-11-22T09:26:58.562Z"
 }

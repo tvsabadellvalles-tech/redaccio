@@ -104,6 +104,31 @@
   },
   "items": [
     {
+      "id": "be810323f199c0dd",
+      "titulo": "Sabadell i el Vallès, en alerta per vent fort amb ratxes que poden superar els 72 km/h",
+      "enlace": "https://www.diaridesabadell.com/sabadell/alerta-meteocat-ventada-sabadell-risc-2026.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-22T09:05:36.000Z",
+      "detectado": "2026-11-22T09:26:43.992Z",
+      "sensible": false,
+      "etiquetas": [
+        "emergencias"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "emergències"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
       "id": "afbec5f2fd0c620a",
       "titulo": "‘Cara a cara i GTA’, per Surroca (22/11/26)",
       "enlace": "https://www.isabadell.cat/la-vinyeta/cara-a-cara-i-gta-per-surroca-22-11-26-341334/",
@@ -186,5 +211,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-22T08:35:54.586Z"
+  "actualizado": "2026-11-22T09:26:58.559Z"
 }
