@@ -1,34 +1,6 @@
 {
   "eventos": [
     {
-      "id": "e433259597c2af8e",
-      "t": "2026-11-18T11:20:51.842Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La tertúlia: l'habitatge, el 29-N i els pessebres» (Ràdio Sabadell).",
-      "itemId": "6e51084b226c9018"
-    },
-    {
-      "id": "060761b90bb13b2b",
-      "t": "2026-11-18T11:20:51.843Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Obres i urbanisme.",
-      "itemId": "6e51084b226c9018"
-    },
-    {
-      "id": "bb4b514a1e5ad099",
-      "t": "2026-11-18T11:20:51.844Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Natàlia Munill, advocada: \"Podem gravar les converses si som part implicada\"» (Ràdio Sabadell).",
-      "itemId": "67c96647f88e6d3b"
-    },
-    {
-      "id": "549696f32e1c30f8",
-      "t": "2026-11-18T11:20:51.845Z",
-      "agente": "rastreador",
-      "texto": "He recollit «David Palacios, Assemblea de Docents de Sabadell: \"No fem boicot a les colònies\"» (Ràdio Sabadell).",
-      "itemId": "beae534dbe4bb9a1"
-    },
-    {
       "id": "75a6addca4b3a574",
       "t": "2026-11-18T11:20:51.846Z",
       "agente": "deduplicador",
@@ -2799,7 +2771,35 @@
       "agente": "rastreador",
       "texto": "He recollit «Ferides nou dones que participaven a la Cursa de les Dones de Barcelona per la caiguda d'un arbre pel fort vent» (Agència Catalana de Notícies (ACN)).",
       "itemId": "43b06e2ab98256fd"
+    },
+    {
+      "id": "f22248e046bde016",
+      "t": "2026-11-22T11:48:08.977Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Mor un home en l'incendi d'un habitatge a Sant Quirze» (Ràdio Sabadell).",
+      "itemId": "cace244720300c45"
+    },
+    {
+      "id": "2c9fc42f45d1b81c",
+      "t": "2026-11-22T11:48:08.978Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Emergències, Successos, Obres i urbanisme.",
+      "itemId": "cace244720300c45"
+    },
+    {
+      "id": "cb7e560a8eee48da",
+      "t": "2026-11-22T11:48:08.979Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "cace244720300c45"
+    },
+    {
+      "id": "de98213dd995178a",
+      "t": "2026-11-22T11:48:08.980Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): emergències, successos, obres i urbanisme.",
+      "itemId": "cace244720300c45"
     }
   ],
-  "actualizado": "2026-11-22T11:06:01.447Z"
+  "actualizado": "2026-11-22T11:48:24.953Z"
 }

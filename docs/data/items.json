@@ -104,6 +104,35 @@
   },
   "items": [
     {
+      "id": "cace244720300c45",
+      "titulo": "Mor un home en l'incendi d'un habitatge a Sant Quirze",
+      "enlace": "https://radiosabadell.fm/actualitat/comarca/mor-home-incendi-habitatge-sant-quirze",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell",
+        "cerdanyola",
+        "sant-quirze"
+      ],
+      "publicado": "2026-11-22T11:26:43.000Z",
+      "detectado": "2026-11-22T11:48:08.976Z",
+      "sensible": true,
+      "etiquetas": [
+        "emergencias",
+        "sucesos",
+        "urbanismo"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "emergències, successos, obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
       "id": "dcc5c8c7e23ba66d",
       "titulo": "Una persona ferida lleu per la caiguda d'un fanal a la ronda Bellesguard a conseqüència del vent",
       "enlace": "https://radiosabadell.fm/actualitat/successos/persona-ferida-lleu-caiguda-fanal-vent-sabadell",
@@ -238,5 +267,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-22T10:17:49.436Z"
+  "actualizado": "2026-11-22T11:48:24.951Z"
 }
