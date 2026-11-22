@@ -104,6 +104,67 @@
   },
   "items": [
     {
+      "id": "812dc8718d9f822d",
+      "titulo": "La Taula de Periodisme Local enceta la Setmana del Llibre SBD 2026",
+      "enlace": "https://www.isabadell.cat/cultura/la-taula-de-periodisme-local-enceta-la-setmana-del-llibre-sbd-2026-341364/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-22T15:50:15.000Z",
+      "detectado": "2026-11-22T16:08:06.487Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "411a3780cc6f1abb",
+      "titulo": "FOTOS | Motor Clàssic torna a Fira Sabadell amb una mostra de vehicles històrics",
+      "enlace": "https://www.diaridesabadell.com/suplements/motor/fotos-5a-edicio-motor-classic-torna-a-fira-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-22T15:47:34.000Z",
+      "detectado": "2026-11-22T16:08:06.487Z",
+      "sensible": false,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "fd01d71bb951d849",
+      "titulo": "Front Ampli es reivindica com el vot útil de l’esquerra",
+      "enlace": "https://www.isabadell.cat/politica/front-ampli-es-reivindica-com-el-vot-util-de-lesquerra-341358/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-22T15:28:15.000Z",
+      "detectado": "2026-11-22T16:08:06.487Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "c10ad066577b9125",
       "titulo": "La Taula de Periodisme Local obre la Setmana del Llibre de Sabadell",
       "enlace": "https://radiosabadell.fm/actualitat/cultura/taula-periodisme-local-setmana-llibre-sabadell",
@@ -495,5 +556,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-22T15:21:07.794Z"
+  "actualizado": "2026-11-22T16:08:25.624Z"
 }

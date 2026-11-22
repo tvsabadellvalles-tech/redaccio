@@ -1,34 +1,6 @@
 {
   "eventos": [
     {
-      "id": "61c6ba690edbf3fb",
-      "t": "2026-11-18T13:40:20.874Z",
-      "agente": "rastreador",
-      "texto": "He recollit «En marxa el projecte de la nova residència d’Atendis a Can Rull» (iSabadell).",
-      "itemId": "663ad6ffbc998145"
-    },
-    {
-      "id": "109ff2ae7d568c42",
-      "t": "2026-11-18T13:40:20.875Z",
-      "agente": "rastreador",
-      "texto": "He recollit «'Superdimecres': Champions de waterpolo, Copa del Rei i Sabadell 'B'» (Ràdio Sabadell).",
-      "itemId": "137ba1d8e5ef7dbd"
-    },
-    {
-      "id": "94ddeb89a93a400b",
-      "t": "2026-11-18T13:40:20.876Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Acord per la futura residència d'Atendis a Can Rull» (Diari de Sabadell).",
-      "itemId": "dc9049a6b447a62b"
-    },
-    {
-      "id": "110c7825ad16f235",
-      "t": "2026-11-18T13:40:20.877Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Obres i urbanisme.",
-      "itemId": "dc9049a6b447a62b"
-    },
-    {
       "id": "2b896cce0d4538b2",
       "t": "2026-11-18T13:40:20.878Z",
       "agente": "rastreador",
@@ -2799,7 +2771,35 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Obres i urbanisme, Cultura i festes.",
       "itemId": "c10ad066577b9125"
+    },
+    {
+      "id": "c26ef048a42dcf76",
+      "t": "2026-11-22T16:08:06.487Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Front Ampli es reivindica com el vot útil de l’esquerra» (iSabadell).",
+      "itemId": "fd01d71bb951d849"
+    },
+    {
+      "id": "618c540740e61581",
+      "t": "2026-11-22T16:08:06.488Z",
+      "agente": "rastreador",
+      "texto": "He recollit «FOTOS | Motor Clàssic torna a Fira Sabadell amb una mostra de vehicles històrics» (Diari de Sabadell).",
+      "itemId": "411a3780cc6f1abb"
+    },
+    {
+      "id": "d932c3dcde6eaea8",
+      "t": "2026-11-22T16:08:06.489Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "411a3780cc6f1abb"
+    },
+    {
+      "id": "02623c1926efdc63",
+      "t": "2026-11-22T16:08:06.490Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La Taula de Periodisme Local enceta la Setmana del Llibre SBD 2026» (iSabadell).",
+      "itemId": "812dc8718d9f822d"
     }
   ],
-  "actualizado": "2026-11-22T15:21:07.799Z"
+  "actualizado": "2026-11-22T16:08:25.627Z"
 }
