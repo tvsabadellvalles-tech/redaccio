@@ -2,28 +2,21 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-22T22:20:33.625Z",
-  "total": 14,
+  "consultat": "2026-11-22T23:05:38.778Z",
+  "total": 18,
   "activitats": [
     {
-      "titol": "Acte central Front Ampli",
-      "inici": "2026-11-22T10:30:00.000Z",
-      "final": "2026-11-22T11:30:00.000Z",
-      "totElDia": false,
+      "titol": "ADRIANA NO VE",
+      "inici": "2026-11-24T00:00:00.000Z",
+      "final": "2026-11-25T00:00:00.000Z",
+      "totElDia": true,
       "color": null
     },
     {
-      "titol": "(Montse) Taula rodona periodisme",
-      "inici": "2026-11-22T11:00:00.000Z",
-      "final": "2026-11-22T12:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "CE Sabadell 'B' - Atletic Sant Just",
-      "inici": "2026-11-22T18:00:00.000Z",
-      "final": "2026-11-22T20:00:00.000Z",
-      "totElDia": false,
+      "titol": "PAULINO NO VE",
+      "inici": "2026-11-24T00:00:00.000Z",
+      "final": "2026-11-25T00:00:00.000Z",
+      "totElDia": true,
       "color": null
     },
     {
@@ -102,8 +95,43 @@
       "final": "2026-11-23T20:00:00.000Z",
       "totElDia": false,
       "color": null
+    },
+    {
+      "titol": "Entrevista Mireia Ingla (ERC)",
+      "inici": "2026-11-24T08:00:00.000Z",
+      "final": "2026-11-24T09:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "Connecta't",
+      "inici": "2026-11-24T12:00:00.000Z",
+      "final": "2026-11-24T13:15:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "CN Sabadell F - Echeyde",
+      "inici": "2026-11-24T14:00:00.000Z",
+      "final": "2026-11-24T15:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "L'Informatiu",
+      "inici": "2026-11-24T15:00:00.000Z",
+      "final": "2026-11-24T16:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "CX - VIA 15 (La llet)",
+      "inici": "2026-11-24T17:00:00.000Z",
+      "final": "2026-11-24T18:00:00.000Z",
+      "totElDia": false,
+      "color": null
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-22T22:21:11.178Z"
+  "actualizado": "2026-11-22T23:06:12.041Z"
 }

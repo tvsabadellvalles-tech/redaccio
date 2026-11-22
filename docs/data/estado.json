@@ -2,23 +2,23 @@
   "fuentes": {
     "isabadell": {
       "ok": true,
-      "items": 7
+      "items": 0
     },
     "radio-sabadell": {
       "ok": true,
-      "items": 7
+      "items": 0
     },
     "diari-sabadell": {
       "ok": true,
-      "items": 4
+      "items": 0
     },
     "diari-terrassa": {
       "ok": true,
-      "items": 1
+      "items": 0
     },
     "acn": {
       "ok": true,
-      "items": 1
+      "items": 0
     },
     "ayto-castellar": {
       "ok": true,
@@ -81,6 +81,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-22T22:20:33.625Z",
-  "actualizado": "2026-11-22T22:20:52.753Z"
+  "consultat": "2026-11-22T23:05:38.778Z",
+  "actualizado": "2026-11-22T23:05:53.284Z"
 }
