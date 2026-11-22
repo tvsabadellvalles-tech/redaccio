@@ -102,6 +102,26 @@
     "deportes": "Esports",
     "cultura": "Cultura i festes"
   },
-  "items": [],
-  "actualizado": "2026-11-21T23:38:28.643Z"
+  "items": [
+    {
+      "id": "2051b9198415766b",
+      "titulo": "Les germanes Emília i Angelina Masachs, víctimes del nazisme",
+      "enlace": "https://www.isabadell.cat/sabadell/historia/germanes-emilia-adelina-masachs-341223/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-22T07:00:00.000Z",
+      "detectado": "2026-11-22T07:44:10.035Z",
+      "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    }
+  ],
+  "actualizado": "2026-11-22T07:44:27.868Z"
 }

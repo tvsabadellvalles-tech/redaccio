@@ -1,20 +1,6 @@
 {
   "eventos": [
     {
-      "id": "4fea354eb78a0033",
-      "t": "2026-11-18T09:09:28.036Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "d23c664d1b6d2a51"
-    },
-    {
-      "id": "78f3dae1bb33841f",
-      "t": "2026-11-18T09:09:28.037Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): font oficial · obres i urbanisme, salut, educació.",
-      "itemId": "d23c664d1b6d2a51"
-    },
-    {
       "id": "87d6fe71a42355c7",
       "t": "2026-11-18T10:15:04.940Z",
       "agente": "rastreador",
@@ -2799,7 +2785,21 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Esports.",
       "itemId": "03534472166b72f9"
+    },
+    {
+      "id": "e83865d76e58d51f",
+      "t": "2026-11-22T07:44:10.035Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Les germanes Emília i Angelina Masachs, víctimes del nazisme» (iSabadell).",
+      "itemId": "2051b9198415766b"
+    },
+    {
+      "id": "308902d7b426f4ec",
+      "t": "2026-11-22T07:44:10.036Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "2051b9198415766b"
     }
   ],
-  "actualizado": "2026-11-21T20:54:08.371Z"
+  "actualizado": "2026-11-22T07:44:27.871Z"
 }
