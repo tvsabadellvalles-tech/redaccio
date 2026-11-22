@@ -1,55 +1,6 @@
 {
   "eventos": [
     {
-      "id": "96d28f89d71c9388",
-      "t": "2026-11-18T12:18:32.454Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "7cb5a851595e1e46"
-    },
-    {
-      "id": "cf33abfaf790afe9",
-      "t": "2026-11-18T12:18:32.455Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La nova residència d’Atendis a Can Rull està prevista pel 2028» (Ràdio Sabadell).",
-      "itemId": "194ec91d9c1a68f6"
-    },
-    {
-      "id": "c72a21f079216842",
-      "t": "2026-11-18T12:18:32.456Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local, Obres i urbanisme, Salut.",
-      "itemId": "194ec91d9c1a68f6"
-    },
-    {
-      "id": "fa25498d0dd53af5",
-      "t": "2026-11-18T12:18:32.457Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): política local, obres i urbanisme, salut.",
-      "itemId": "194ec91d9c1a68f6"
-    },
-    {
-      "id": "32640b2f59dfc935",
-      "t": "2026-11-18T12:18:32.458Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Front Ampli equipara les eleccions a un \"referèndum sobre habitatge\"» (Ràdio Sabadell).",
-      "itemId": "4f1028e4f2f0d629"
-    },
-    {
-      "id": "026cf4ea176712d8",
-      "t": "2026-11-18T12:18:32.459Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Emergències, Política local, Obres i urbanisme, Cultura i festes.",
-      "itemId": "4f1028e4f2f0d629"
-    },
-    {
-      "id": "2bf9ee1fd81cb266",
-      "t": "2026-11-18T12:18:32.460Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): emergències, política local, obres i urbanisme.",
-      "itemId": "4f1028e4f2f0d629"
-    },
-    {
       "id": "4bfd97d229329fc8",
       "t": "2026-11-18T12:18:32.461Z",
       "agente": "rastreador",
@@ -2799,7 +2750,56 @@
       "agente": "mesa",
       "texto": "Proposo incloure-ho a l'escaleta (3 punts): emergències.",
       "itemId": "b9e60c11d01636dd"
+    },
+    {
+      "id": "a1c88f5dd93ba8fa",
+      "t": "2026-11-22T14:29:28.939Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Ernest Urtasun (Front Ampli) crida a defensar les pensions en un acte a Sabadell» (Ràdio Sabadell).",
+      "itemId": "d214bd61b548f637"
+    },
+    {
+      "id": "faebf41d24f3a20f",
+      "t": "2026-11-22T14:29:28.940Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local, Obres i urbanisme, Cultura i festes.",
+      "itemId": "d214bd61b548f637"
+    },
+    {
+      "id": "b051b3c47e88643b",
+      "t": "2026-11-22T14:29:28.941Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): política local, obres i urbanisme.",
+      "itemId": "d214bd61b548f637"
+    },
+    {
+      "id": "52f7842706aea413",
+      "t": "2026-11-22T14:29:28.942Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Mor un home en l’incendi d’una casa a Sant Quirze» (iSabadell).",
+      "itemId": "524128180de84cd4"
+    },
+    {
+      "id": "bfe63764d34a2415",
+      "t": "2026-11-22T14:29:28.943Z",
+      "agente": "deduplicador",
+      "texto": "Descartada perquè és duplicada: coincideix amb «Mor un home en l'incendi d'un habitatge a Sant Quirze» (Ràdio Sabadell).",
+      "itemId": "524128180de84cd4"
+    },
+    {
+      "id": "4c026ec58c30bef4",
+      "t": "2026-11-22T14:29:28.944Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El Sabadell Pickleball Club es proclama campió de Catalunya per clubs» (Ràdio Sabadell).",
+      "itemId": "aba87192a33a5c8e"
+    },
+    {
+      "id": "efc84b9db3552f7f",
+      "t": "2026-11-22T14:29:28.945Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "aba87192a33a5c8e"
     }
   ],
-  "actualizado": "2026-11-22T13:37:44.135Z"
+  "actualizado": "2026-11-22T14:29:50.384Z"
 }
