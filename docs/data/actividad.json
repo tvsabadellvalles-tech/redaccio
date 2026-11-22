@@ -1,13 +1,6 @@
 {
   "eventos": [
     {
-      "id": "8430d3d5f143516a",
-      "t": "2026-11-18T11:20:51.841Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Arnau Alfagem, Andi: \"Som capaços. Prou d'infantilitzar-nos\"» (Ràdio Sabadell).",
-      "itemId": "16f977125eb79010"
-    },
-    {
       "id": "e433259597c2af8e",
       "t": "2026-11-18T11:20:51.842Z",
       "agente": "rastreador",
@@ -2799,7 +2792,14 @@
       "agente": "mesa",
       "texto": "Proposo incloure-ho a l'escaleta (4 punts): emergències, mobilitat.",
       "itemId": "dcc5c8c7e23ba66d"
+    },
+    {
+      "id": "a7e2f1941034a87f",
+      "t": "2026-11-22T11:05:47.333Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Ferides nou dones que participaven a la Cursa de les Dones de Barcelona per la caiguda d'un arbre pel fort vent» (Agència Catalana de Notícies (ACN)).",
+      "itemId": "43b06e2ab98256fd"
     }
   ],
-  "actualizado": "2026-11-22T10:17:49.439Z"
+  "actualizado": "2026-11-22T11:06:01.447Z"
 }
