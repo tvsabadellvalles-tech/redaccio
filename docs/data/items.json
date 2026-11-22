@@ -104,6 +104,33 @@
   },
   "items": [
     {
+      "id": "ae42fba8cfc6a8e2",
+      "titulo": "Cruel desenllaç per al Sabadell 'B' contra l'Atlètic Sant Just (1-1)",
+      "enlace": "https://radiosabadell.fm/esports/ce-sabadell/resum-sabadell-b-atletic-sant-just-lliga-elit-j10",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell",
+        "rubi"
+      ],
+      "publicado": "2026-11-22T21:19:24.000Z",
+      "detectado": "2026-11-22T22:20:33.625Z",
+      "sensible": false,
+      "etiquetas": [
+        "salud",
+        "deportes"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "eb095eb0424485dc",
       "titulo": "Així seran les obres al camp del Can Rull: actuacions i calendari",
       "enlace": "https://www.isabadell.cat/societat/aixi-seran-les-obres-al-camp-del-can-rull-actuacions-i-calendari-341372/",
@@ -601,5 +628,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-22T18:19:44.743Z"
+  "actualizado": "2026-11-22T22:20:52.752Z"
 }

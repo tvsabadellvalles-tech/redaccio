@@ -1,27 +1,6 @@
 {
   "eventos": [
     {
-      "id": "ef116407c2c958dd",
-      "t": "2026-11-18T15:34:16.100Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Toni Sallés fa un pas al costat i deixa de ser l'entrenador de la Sabadellenca» (Ràdio Sabadell).",
-      "itemId": "a6bf882f0b115e04"
-    },
-    {
-      "id": "0054bf2552e40793",
-      "t": "2026-11-18T15:34:16.101Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Esports.",
-      "itemId": "a6bf882f0b115e04"
-    },
-    {
-      "id": "72f5c067f29d9b88",
-      "t": "2026-11-18T15:34:16.102Z",
-      "agente": "rastreador",
-      "texto": "He recollit «L'encesa de llums i tots els detalls de la campanya de Nadal a Castellar» (Diari de Sabadell).",
-      "itemId": "5e020e398d1b230c"
-    },
-    {
       "id": "b779f281699b462e",
       "t": "2026-11-18T15:34:16.103Z",
       "agente": "rastreador",
@@ -2799,7 +2778,28 @@
       "agente": "rastreador",
       "texto": "La font «Ajuntament de Sant Quirze del Vallès» no respon (HTTP 503).",
       "itemId": null
+    },
+    {
+      "id": "da63de24cce164b9",
+      "t": "2026-11-22T22:20:33.625Z",
+      "agente": "rastreador",
+      "texto": "La font «Ajuntament de Sant Quirze del Vallès» torna a respondre.",
+      "itemId": null
+    },
+    {
+      "id": "afec705e752c36a0",
+      "t": "2026-11-22T22:20:33.626Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Cruel desenllaç per al Sabadell 'B' contra l'Atlètic Sant Just (1-1)» (Ràdio Sabadell).",
+      "itemId": "ae42fba8cfc6a8e2"
+    },
+    {
+      "id": "4a0b799e052bc2a3",
+      "t": "2026-11-22T22:20:33.627Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut, Esports.",
+      "itemId": "ae42fba8cfc6a8e2"
     }
   ],
-  "actualizado": "2026-11-22T21:30:08.695Z"
+  "actualizado": "2026-11-22T22:20:52.755Z"
 }
