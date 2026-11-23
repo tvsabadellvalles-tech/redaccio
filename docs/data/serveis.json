@@ -5,7 +5,7 @@
       "nom": "FGC Barcelona–Vallès",
       "enllac": "https://www.fgc.cat/adequacions-horaries/",
       "alternatiu": null,
-      "consultat": "2026-11-23T17:11:46.867Z",
+      "consultat": "2026-11-23T18:12:16.594Z",
       "estat": "cap-avis-recent",
       "detall": "Sense adequacions horàries."
     },
@@ -14,14 +14,14 @@
       "nom": "Rodalies R4 i R7",
       "enllac": "https://rodalies.gencat.cat/ca/alteracions_del_servei/",
       "alternatiu": null,
-      "consultat": "2026-11-23T17:11:46.867Z",
+      "consultat": "2026-11-23T18:12:16.594Z",
       "estat": "avis",
       "detall": "1 avís publicat avui a les línies R4 i R7.",
       "avisos": [
         {
-          "titol": "Circulació amb demores que poden superar els 20 minuts a causa d'una incidència a la infraestructura d'Adif, ja resolta.",
-          "detall": "Circulació amb demores que poden superar els 20 minuts a causa d'una incidència a la infraestructura d'Adif, ja resolta.",
-          "publicat": "2026-11-23T13:19:00.000Z",
+          "titol": "Circulació amb demores que poden superar els 15 minuts a causa d'una incidència a la infraestructura d'Adif, ja resolta.",
+          "detall": "Circulació amb demores que poden superar els 15 minuts a causa d'una incidència a la infraestructura d'Adif, ja resolta.",
+          "publicat": "2026-11-23T17:25:00.000Z",
           "linies": [
             "R4"
           ]
@@ -33,16 +33,18 @@
       "nom": "Trànsit · Vallès Occidental",
       "enllac": "https://cit.transit.gencat.cat/",
       "alternatiu": null,
-      "consultat": "2026-11-23T17:11:46.867Z",
-      "estat": "no-verificat",
-      "detall": "No s’ha pogut consultar la font oficial: El RSS oficial no té una marca temporal prou recent per verificar l’estat del trànsit"
+      "consultat": "2026-11-23T18:12:16.594Z",
+      "estat": "cap-avis-recent",
+      "detall": "Cap incidència d’avui a les carreteres seleccionades del Vallès Occidental, segons el RSS oficial de Trànsit.",
+      "actualitzat": "2026-11-23T18:12:03.000Z",
+      "avisos": []
     },
     {
       "id": "meteocat",
       "nom": "Meteocat · Vallès Occidental",
       "enllac": "https://www.meteo.cat/prediccio/general",
       "alternatiu": null,
-      "consultat": "2026-11-23T17:11:46.867Z",
+      "consultat": "2026-11-23T18:12:16.594Z",
       "estat": "previsio",
       "detall": "Sense avisos actius. Previsió de dimarts, 24 de novembre al Vallès Occidental: màxima 15°, mínima 6°. molt cobert al matí · plugim a la tarda · Pluja matí: No es descarta (<10%) · tarda: Molt probable (>70%) · Actualitzada 23-11-2026 15:00:00.",
       "previsio": {
@@ -64,12 +66,12 @@
       "nom": "Emergències · Protecció Civil",
       "enllac": "https://interior.gencat.cat/ca/actualitat/",
       "alternatiu": "https://govern.cat/salapremsa/notes-premsa",
-      "consultat": "2026-11-23T17:11:46.867Z",
+      "consultat": "2026-11-23T18:12:16.594Z",
       "estat": "cap-avis-recent",
       "detall": "Cap alerta local no meteorològica identificada a les alertes destacades d’Interior.",
       "avisos": []
     }
   ],
-  "consultat": "2026-11-23T17:11:46.867Z",
-  "actualizado": "2026-11-23T17:12:11.026Z"
+  "consultat": "2026-11-23T18:12:16.594Z",
+  "actualizado": "2026-11-23T18:12:35.360Z"
 }

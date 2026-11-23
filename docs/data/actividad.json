@@ -1,69 +1,6 @@
 {
   "eventos": [
     {
-      "id": "155ba287510a0075",
-      "t": "2026-11-19T17:19:59.251Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): mobilitat, successos.",
-      "itemId": "a607b3f4808afdc7"
-    },
-    {
-      "id": "f3e48358a2d632c0",
-      "t": "2026-11-19T18:33:48.932Z",
-      "agente": "rastreador",
-      "texto": "He recollit «L’Outlet de CIPO recapta 28.000 euros amb la venda de més de 3.000 peces en tres dies» (Diari de Sabadell).",
-      "itemId": "7663fa50545a817a"
-    },
-    {
-      "id": "881fe8a08132183f",
-      "t": "2026-11-19T18:33:48.933Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El calendari solidari d'Andi destinarà els diners als infants amb discapacitat intel·lectual» (Ràdio Sabadell).",
-      "itemId": "f162865e580cd673"
-    },
-    {
-      "id": "2ac2ff665b18df7d",
-      "t": "2026-11-19T18:33:48.934Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "f162865e580cd673"
-    },
-    {
-      "id": "71ca7c3df741ccb7",
-      "t": "2026-11-19T18:33:48.935Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Andi Sabadell presenta una nova edició del seu Calendari Solidari amb dotze escenaris de la ciutat» (Diari de Sabadell).",
-      "itemId": "ea134bd3ddc2c787"
-    },
-    {
-      "id": "e5f8426173fafccb",
-      "t": "2026-11-19T18:33:48.936Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "ea134bd3ddc2c787"
-    },
-    {
-      "id": "45540febcc2c4390",
-      "t": "2026-11-19T18:33:48.937Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Palau al Dia - Notícies del 19/11/2026» (Ràdio Palau - Palau al Dia).",
-      "itemId": "12b57302c9ac702f"
-    },
-    {
-      "id": "32846b9efbbd0042",
-      "t": "2026-11-19T18:33:48.938Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "12b57302c9ac702f"
-    },
-    {
-      "id": "31152f61784c31cc",
-      "t": "2026-11-19T19:40:44.686Z",
-      "agente": "rastreador",
-      "texto": "He recollit «FOTOS I VÍDEO | Tensió a Can Puiggener, alguns manifestants es planten per evitar que se celebri un acte de Vox» (Diari de Sabadell).",
-      "itemId": "ce09079936ddb2c6"
-    },
-    {
       "id": "63b538e675b26cbc",
       "t": "2026-11-19T19:40:44.687Z",
       "agente": "rastreador",
@@ -2799,7 +2736,70 @@
       "agente": "vigilante",
       "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
       "itemId": "0891e19c391a46ec"
+    },
+    {
+      "id": "60db0ec5aa21de04",
+      "t": "2026-11-23T18:12:16.594Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Sabadell aportarà 8.000 euros a un fons d'ajuda per a Veneçuela» (Ràdio Sabadell).",
+      "itemId": "1a6dc6f73fa287c3"
+    },
+    {
+      "id": "e68cd02616ef7fa6",
+      "t": "2026-11-23T18:12:16.595Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Emergències, Política local, Esports.",
+      "itemId": "1a6dc6f73fa287c3"
+    },
+    {
+      "id": "593af29919224642",
+      "t": "2026-11-23T18:12:16.596Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): emergències, política local.",
+      "itemId": "1a6dc6f73fa287c3"
+    },
+    {
+      "id": "670b043113cda02d",
+      "t": "2026-11-23T18:12:16.597Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La caserna supera un nou tràmit per acollir l’ampliació de l’hospital Taulí» (iSabadell).",
+      "itemId": "a13bc8205afeac53"
+    },
+    {
+      "id": "83103131b11136f9",
+      "t": "2026-11-23T18:12:16.598Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local, Salut.",
+      "itemId": "a13bc8205afeac53"
+    },
+    {
+      "id": "f01c44ecf593f2d3",
+      "t": "2026-11-23T18:12:16.599Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): política local, salut.",
+      "itemId": "a13bc8205afeac53"
+    },
+    {
+      "id": "de80d6a3ab4a9545",
+      "t": "2026-11-23T18:12:16.600Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Llum verda al primer pas per traslladar les consultes externes del Taulí a la Caserna» (Ràdio Sabadell).",
+      "itemId": "7f37f005522010bc"
+    },
+    {
+      "id": "dd4a9aea82506f29",
+      "t": "2026-11-23T18:12:16.601Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local, Salut.",
+      "itemId": "7f37f005522010bc"
+    },
+    {
+      "id": "19ee49834b039ce4",
+      "t": "2026-11-23T18:12:16.602Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): política local, salut.",
+      "itemId": "7f37f005522010bc"
     }
   ],
-  "actualizado": "2026-11-23T17:12:08.797Z"
+  "actualizado": "2026-11-23T18:12:32.933Z"
 }

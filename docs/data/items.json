@@ -104,6 +104,83 @@
   },
   "items": [
     {
+      "id": "7f37f005522010bc",
+      "titulo": "Llum verda al primer pas per traslladar les consultes externes del Taulí a la Caserna",
+      "enlace": "https://radiosabadell.fm/actualitat/politica/llum-verda-traslladar-consultes-externes-tauli-la-caserna",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-23T17:44:38.000Z",
+      "detectado": "2026-11-23T18:12:16.594Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica",
+        "salud"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "política local, salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "a13bc8205afeac53",
+      "titulo": "La caserna supera un nou tràmit per acollir l’ampliació de l’hospital Taulí",
+      "enlace": "https://www.isabadell.cat/politica/ple-municipal/ajuntament-primer-pas-consultes-externes-341440/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-23T17:44:09.000Z",
+      "detectado": "2026-11-23T18:12:16.594Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica",
+        "salud"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "política local, salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "1a6dc6f73fa287c3",
+      "titulo": "Sabadell aportarà 8.000 euros a un fons d'ajuda per a Veneçuela",
+      "enlace": "https://radiosabadell.fm/actualitat/economia/sabadell-aportara-8000-euros-un-fons-dajuda-venecuela",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-23T16:45:45.000Z",
+      "detectado": "2026-11-23T18:12:16.594Z",
+      "sensible": false,
+      "etiquetas": [
+        "emergencias",
+        "politica",
+        "deportes"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "emergències, política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
       "id": "0891e19c391a46ec",
       "titulo": "Una professora de ball, jutjada per una presumpta agressió sexual a una menor a Sabadell",
       "enlace": "https://www.diaridesabadell.com/sabadell/professora-ball-judici-sabadell-agressio-sexual.html",
@@ -1945,5 +2022,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-23T17:12:08.792Z"
+  "actualizado": "2026-11-23T18:12:32.929Z"
 }
