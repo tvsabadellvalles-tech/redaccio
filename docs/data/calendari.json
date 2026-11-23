@@ -2,7 +2,7 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-23T13:59:34.964Z",
+  "consultat": "2026-11-23T15:02:15.023Z",
   "total": 23,
   "activitats": [
     {
@@ -125,7 +125,7 @@
       "color": null
     },
     {
-      "titol": "(Ferran i Fernando) VIA15 Mercat Central",
+      "titol": "(Ferran i Fernando becari) VIA15 Mercat Central",
       "inici": "2026-11-24T11:30:00.000Z",
       "final": "2026-11-24T12:30:00.000Z",
       "totElDia": false,
@@ -168,5 +168,5 @@
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-23T14:00:14.549Z"
+  "actualizado": "2026-11-23T15:02:49.741Z"
 }
