@@ -104,6 +104,55 @@
   },
   "items": [
     {
+      "id": "c258f73951e58ed2",
+      "titulo": "Els contractes del bloc de Gràcia, prop de renovar-se",
+      "enlace": "https://www.diaridesabadell.com/sabadell/situacio-contractes-bloc-gracia-pah-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-23T20:44:06.000Z",
+      "detectado": "2026-11-23T22:07:02.884Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "5508cce28741812c",
+      "titulo": "El ple, en contra de convertir l'aparcament de Pi i Maragall en un poliesportiu",
+      "enlace": "https://radiosabadell.fm/actualitat/politica/ple-contra-convertir-aparcament-pi-i-maragall-poliesportiu",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-23T20:20:19.000Z",
+      "detectado": "2026-11-23T22:07:02.884Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica",
+        "deportes"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "5ea8efd05d81d438",
       "titulo": "Compromís municipal per regularitzar els lloguers del bloc de Gràcia",
       "enlace": "https://radiosabadell.fm/actualitat/politica/compromis-municipal-regularitzar-lloguers-del-bloc-de-gracia",
@@ -2214,5 +2263,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-23T20:17:22.039Z"
+  "actualizado": "2026-11-23T22:07:18.882Z"
 }

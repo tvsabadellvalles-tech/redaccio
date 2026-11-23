@@ -1,34 +1,6 @@
 {
   "eventos": [
     {
-      "id": "6d84555df6c10d2c",
-      "t": "2026-11-20T08:04:37.930Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat, Esports.",
-      "itemId": "960e3bdf5334131e"
-    },
-    {
-      "id": "bdc929c5c85aa284",
-      "t": "2026-11-20T08:04:37.931Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "960e3bdf5334131e"
-    },
-    {
-      "id": "3d1c217f4f564ea9",
-      "t": "2026-11-20T08:04:37.932Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · mobilitat.",
-      "itemId": "960e3bdf5334131e"
-    },
-    {
-      "id": "74e6a70abb494f66",
-      "t": "2026-11-20T09:06:58.937Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Com es va formar el sistema solar?» (Ràdio Sabadell).",
-      "itemId": "15b0069a29464f23"
-    },
-    {
       "id": "2d610fcb96f8df0a",
       "t": "2026-11-20T09:06:58.938Z",
       "agente": "rastreador",
@@ -2799,7 +2771,35 @@
       "agente": "mesa",
       "texto": "Proposo incloure-ho a l'escaleta (3 punts): política local, obres i urbanisme.",
       "itemId": "5ea8efd05d81d438"
+    },
+    {
+      "id": "aee2a6778b9bb9ba",
+      "t": "2026-11-23T22:07:02.884Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El ple, en contra de convertir l'aparcament de Pi i Maragall en un poliesportiu» (Ràdio Sabadell).",
+      "itemId": "5508cce28741812c"
+    },
+    {
+      "id": "27ab718d7a7e0b24",
+      "t": "2026-11-23T22:07:02.885Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local, Esports.",
+      "itemId": "5508cce28741812c"
+    },
+    {
+      "id": "bdeeddf30943634a",
+      "t": "2026-11-23T22:07:02.886Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Els contractes del bloc de Gràcia, prop de renovar-se» (Diari de Sabadell).",
+      "itemId": "c258f73951e58ed2"
+    },
+    {
+      "id": "7d67808d2ee82107",
+      "t": "2026-11-23T22:07:02.887Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local.",
+      "itemId": "c258f73951e58ed2"
     }
   ],
-  "actualizado": "2026-11-23T20:17:22.043Z"
+  "actualizado": "2026-11-23T22:07:18.886Z"
 }
