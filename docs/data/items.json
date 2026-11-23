@@ -104,6 +104,284 @@
   },
   "items": [
     {
+      "id": "a517d94e753e8edd",
+      "titulo": "VÍDEO | Laura Escanes deixa entreveure per a qui anirà el seu vot aquest 29N",
+      "enlace": "https://www.diaridesabadell.com/sabadell/laura-escanes-eleccions-29n-pedro-sanchez.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-23T11:10:16.000Z",
+      "detectado": "2026-11-23T11:30:20.592Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "b5fc8c0de94e279d",
+      "titulo": "Aquest dijous 26 de novembre, Barberà dona la benvinguda al Nadal!",
+      "enlace": "https://www.bdv.cat/noticies/aquest-dijous-26-de-novembre-barbera-dona-la-benvinguda-al-nadal",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "‘Teixim Nadal a Barberà' és el lema d'enguany, que engloba prop d'una cinquantena d’activitats fins al gener de 2027. Barberà del Vallès es prepara per viure un Nadal ple de màgia, cultura i activitats per a tots els públics sota el lema…",
+      "municipio": "barbera",
+      "municipiosMencionados": [
+        "sentmenat",
+        "barbera"
+      ],
+      "publicado": "2026-11-23T11:10:00.000Z",
+      "detectado": "2026-11-23T11:30:20.592Z",
+      "sensible": true,
+      "etiquetas": [
+        "politica",
+        "economia",
+        "salud",
+        "medioambiente",
+        "cultura"
+      ],
+      "puntuacion": 5,
+      "motivos": [
+        "font oficial",
+        "política local, economia i ocupació, salut, medi ambient"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "6a309dd49cf5d44d",
+      "titulo": "La Profecia de l'Estel",
+      "enlace": "https://www.bdv.cat/agenda/la-profecia-de-lestel",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "LA PROFECIA DE L'ESTEL Adaptació de l’obra d’Ignasi Roda Fàbregas. Un escriptor ha rebut l’encàrrec d’escriure uns nous Pastorets, però no se’n surt. Així que són els mateixos personatges de l’obra qui l’ajuden a escriure la seva pròpia…",
+      "municipio": "barbera",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-23T11:08:00.000Z",
+      "detectado": "2026-11-23T11:30:20.592Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica",
+        "cultura"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "font oficial",
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "ef0c353801e44a0f",
+      "titulo": "Així llueix el Calendari Solidari 2027 d’Andi",
+      "enlace": "https://www.isabadell.cat/societat/aixi-llueix-el-calendari-solidari-2027-dandi-341378/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-23T11:07:16.000Z",
+      "detectado": "2026-11-23T11:30:20.592Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "992f6b46fb508142",
+      "titulo": "El Cercle estrena noves pistes de pickleball, futbol i un parc infantil",
+      "enlace": "https://www.isabadell.cat/esports/el-cercle-estrena-noves-pistes-de-pickleball-futbol-i-un-parc-infantil-341387/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-23T11:05:33.000Z",
+      "detectado": "2026-11-23T11:30:20.592Z",
+      "sensible": true,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "1860717acfeb901a",
+      "titulo": "Concert de Nadal",
+      "enlace": "https://www.bdv.cat/agenda/concert-de-nadal",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "CONCERT DE NADAL Organitza: A Quatre Veus Barberà del Vallès",
+      "municipio": "barbera",
+      "municipiosMencionados": [
+        "barbera"
+      ],
+      "publicado": "2026-11-23T11:04:00.000Z",
+      "detectado": "2026-11-23T11:30:20.592Z",
+      "sensible": false,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "f61beb8e02caf15f",
+      "titulo": "El Black Friday arriba a Sabadell amb descomptes de fins al 40% als comerços de la ciutat",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/el-black-friday-arriba-sabadell-amb-descomptes-de-fins-al-40-als-comercos-de-la",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-23T11:03:34.000Z",
+      "detectado": "2026-11-23T11:30:20.592Z",
+      "sensible": false,
+      "etiquetas": [
+        "economia"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "economia i ocupació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "035ced90ea506b06",
+      "titulo": "Concert de la Coral de Nadal de la gent gran",
+      "enlace": "https://www.bdv.cat/agenda/concert-de-la-coral-de-nadal-de-la-gent-gran",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "CONCERT DE LA CORAL DE NADAL DE LA GENT GRAN Recital de cançons i nadales a càrrec de la coral de la gent gran de la ciutat Organitza: Gent Gran",
+      "municipio": "barbera",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-23T10:58:00.000Z",
+      "detectado": "2026-11-23T11:30:20.592Z",
+      "sensible": false,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "3137437d6e079a66",
+      "titulo": "Sant Quirze dona la benvinguda als nadons nascuts aquest 2026",
+      "enlace": "https://www.santquirzevalles.cat/actualitat/noticies/sant-quirze-dona-la-benvinguda-als-nadons-nascuts-aquest-2026",
+      "fuente": "ayto-sant-quirze",
+      "fuenteNombre": "Ajuntament de Sant Quirze del Vallès",
+      "tipo": "oficial",
+      "resumen": "L'Ajuntament va rebre dissabte una trentena de famílies que han tingut un infant aquest any",
+      "municipio": "sant-quirze",
+      "municipiosMencionados": [
+        "sant-quirze"
+      ],
+      "publicado": "2026-11-23T10:47:00.000Z",
+      "detectado": "2026-11-23T11:30:20.592Z",
+      "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "5767970546da07ac",
+      "titulo": "Tions i tiones i tallers de decoració",
+      "enlace": "https://www.bdv.cat/agenda/tions-i-tiones-i-tallers-de-decoracio",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "TIONS I TIONES I TALLERS DE DECORACIÓ Cercavila de tions pels carrers del barri i tallers per decorar tions a la plaça de l'Havana. Exposició de tions visitable fins al 10 de gener Organitza: Grup de Joves del Casc Antic",
+      "municipio": "barbera",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-23T10:44:00.000Z",
+      "detectado": "2026-11-23T11:30:20.592Z",
+      "sensible": false,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "f1d66fdc82f329ab",
+      "titulo": "Tot el que has de saber sobre l’estada de l’Ambaixador Reial a Sabadell",
+      "enlace": "https://www.isabadell.cat/nadal/tot-el-que-has-de-saber-sobre-lestada-de-lambaixador-reial-a-sabadell-341388/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-23T10:39:58.000Z",
+      "detectado": "2026-11-23T11:30:20.592Z",
+      "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "b6bb397ccdeb573e",
+      "titulo": "Poemas, música i moviment",
+      "enlace": "https://www.bdv.cat/agenda/poemas-musica-i-moviment",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "POEMES, MÚSICA I MOVIMENT Proposta cultural que combina poesia amb música i l'energia del country En benefici de la Marató Organitza: Associació de dones Braç a Braç",
+      "municipio": "barbera",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-23T10:38:00.000Z",
+      "detectado": "2026-11-23T11:30:20.592Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "b5e7c7ed2aa6c3d5",
       "titulo": "Cantada de Nadales",
       "enlace": "https://www.bdv.cat/agenda/cantada-de-nadales",
@@ -282,6 +560,27 @@
       "motivos": [
         "font oficial"
       ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "60dba9d0533a543f",
+      "titulo": "Tots els detalls de l'arribada de l'Ambaixador Reial a Sabadell 2026",
+      "enlace": "https://www.diaridesabadell.com/sabadell/nadal/arribada-ambaixador-reial-a-sabadell-2026.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-23T10:02:17.000Z",
+      "detectado": "2026-11-23T11:30:20.592Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
       "duplicadaDe": null,
       "propuesta": false
     },
@@ -663,6 +962,25 @@
       "propuesta": true
     },
     {
+      "id": "774b78ce11b33b1b",
+      "titulo": "‘La bola negra sigue presente’",
+      "enlace": "https://www.isabadell.cat/opinio/la-bola-negra-sigue-presente-341411/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-23T07:00:00.000Z",
+      "detectado": "2026-11-23T11:30:20.592Z",
+      "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "6f1b599fc10f1b6f",
       "titulo": "Taller d'autodefensa per a dones, al Complex Esportiu",
       "enlace": "http://www.badiadelvalles.cat/document.php?id=12335",
@@ -684,7 +1002,54 @@
       ],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "c8a7090eb56de7d1",
+      "titulo": "Presentada la diagnosi participativa que serà el punt de partida del Pla Local de Promoció de la Salut 2027-2030",
+      "enlace": "https://www.montcada.cat/actualitat/noticies/presentada-la-diagnosi-participativa-que-sera-el-punt-de-partida-del-pla-local-de-promocio-de-la-salut-2027-2030.html",
+      "fuente": "ayto-montcada",
+      "fuenteNombre": "Ajuntament de Montcada i Reixac",
+      "tipo": "oficial",
+      "resumen": "",
+      "municipio": "montcada",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-22T23:00:00.000Z",
+      "detectado": "2026-11-23T11:30:20.592Z",
+      "sensible": false,
+      "etiquetas": [
+        "salud"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "font oficial",
+        "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "94ecc9016cfdd385",
+      "titulo": "Tornen les aules d’estudi nocturn a la Biblioteca",
+      "enlace": "https://www.montcada.cat/actualitat/avisos/tornen-les-aules-destudi-nocturn-a-la-biblioteca.html",
+      "fuente": "avisos-montcada",
+      "fuenteNombre": "Avisos de l'Ajuntament de Montcada i Reixac",
+      "tipo": "oficial",
+      "resumen": "",
+      "municipio": "montcada",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-22T23:00:00.000Z",
+      "detectado": "2026-11-23T11:30:20.592Z",
+      "sensible": false,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
     }
   ],
-  "actualizado": "2026-11-23T10:35:58.798Z"
+  "actualizado": "2026-11-23T11:30:38.535Z"
 }

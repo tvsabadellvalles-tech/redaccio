@@ -2,18 +2,18 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-23T10:35:41.479Z",
+  "consultat": "2026-11-23T11:30:20.592Z",
   "total": 18,
   "activitats": [
     {
-      "titol": "ADRIANA NO VE",
+      "titol": "PAULINO NO VE",
       "inici": "2026-11-24T00:00:00.000Z",
       "final": "2026-11-25T00:00:00.000Z",
       "totElDia": true,
       "color": null
     },
     {
-      "titol": "PAULINO NO VE",
+      "titol": "ADRIANA NO VE",
       "inici": "2026-11-24T00:00:00.000Z",
       "final": "2026-11-25T00:00:00.000Z",
       "totElDia": true,
@@ -41,7 +41,7 @@
       "color": null
     },
     {
-      "titol": "(Lorena) Fals VIA15 Mercat Central",
+      "titol": "Fals VIA15 Mercat Central",
       "inici": "2026-11-23T11:30:00.000Z",
       "final": "2026-11-23T12:30:00.000Z",
       "totElDia": false,
@@ -133,5 +133,5 @@
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-23T10:36:16.878Z"
+  "actualizado": "2026-11-23T11:30:59.476Z"
 }
