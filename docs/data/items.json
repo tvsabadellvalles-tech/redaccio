@@ -102,6 +102,84 @@
     "deportes": "Esports",
     "cultura": "Cultura i festes"
   },
-  "items": [],
-  "actualizado": "2026-11-22T23:05:53.282Z"
+  "items": [
+    {
+      "id": "b9a89c7f6ebfe4ec",
+      "titulo": "L'exposició sobre Lorca, ara a la Biblioteca Esteve Paluzie",
+      "enlace": "https://www.bdv.cat/noticies/lexposicio-sobre-lorca-ara-la-biblioteca-esteve-paluzie",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "Ja es pot visitar a la Biblioteca Esteve Paluzie de Barberà del Vallès, una exposició dedicada a Federico García Lorca. Es tracta d’una mostra comissariada per Helena Bea Mellado, qui ha dotat de contingut històric la mostra, i produïda…",
+      "municipio": "barbera",
+      "municipiosMencionados": [
+        "barbera"
+      ],
+      "publicado": "2026-11-23T09:06:00.000Z",
+      "detectado": "2026-11-23T09:22:54.281Z",
+      "sensible": false,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "b115988859ad8ffa",
+      "titulo": "L’Ajuntament contractarà 16 persones per fer tasques d’informació durant la jornada electoral del 29 de novembre",
+      "enlace": "http://www.cerdanyola.cat/actualitat/lajuntament-contractara-16-persones-fer-tasques-dinformacio-durant-la-jornada-electoral",
+      "fuente": "ayto-cerdanyola",
+      "fuenteNombre": "Ajuntament de Cerdanyola del Vallès",
+      "tipo": "oficial",
+      "resumen": "L’Ajuntament contractarà 16 persones per fer tasques d’informació durant la jornada electoral del 29 de novembre L’Ajuntament contractarà 16 persones per dur a terme tasques d’informació i suport a la ciutadania durant la jornada de les…",
+      "municipio": "cerdanyola",
+      "municipiosMencionados": [
+        "cerdanyola"
+      ],
+      "publicado": "2026-11-23T08:49:26.000Z",
+      "detectado": "2026-11-23T09:22:54.281Z",
+      "sensible": false,
+      "etiquetas": [
+        "economia"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "font oficial",
+        "economia i ocupació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "af3f3457cee6cd7a",
+      "titulo": "L’Ajuntament homenatja Joaquín Ventura Cantis amb motiu del seu centenari",
+      "enlace": "http://www.cerdanyola.cat/actualitat/lajuntament-homenatja-joaquin-ventura-cantis-amb-motiu-del-seu-centenari",
+      "fuente": "ayto-cerdanyola",
+      "fuenteNombre": "Ajuntament de Cerdanyola del Vallès",
+      "tipo": "oficial",
+      "resumen": "L’Ajuntament homenatja Joaquín Ventura Cantis amb motiu del seu centenari L’Ajuntament ha homenatjat a Joaquín Ventura Cantis, veí de la ciutat, amb motiu del seu cent aniversari, que va celebrar el passat 28 de juliol de 2026. Nascut a…",
+      "municipio": "cerdanyola",
+      "municipiosMencionados": [
+        "cerdanyola"
+      ],
+      "publicado": "2026-11-23T08:01:14.000Z",
+      "detectado": "2026-11-23T09:22:54.281Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "font oficial",
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    }
+  ],
+  "actualizado": "2026-11-23T09:23:12.961Z"
 }

@@ -1,55 +1,6 @@
 {
   "eventos": [
     {
-      "id": "b779f281699b462e",
-      "t": "2026-11-18T15:34:16.103Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Detenen un home i se'n busca un altre per un robatori violent en un domicili de Sant Quirze» (Diari de Sabadell).",
-      "itemId": "8f12b6c62ff0df0c"
-    },
-    {
-      "id": "8acdb3cf01758f4c",
-      "t": "2026-11-18T15:34:16.104Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Successos, Obres i urbanisme.",
-      "itemId": "8f12b6c62ff0df0c"
-    },
-    {
-      "id": "98877f6e3ab483c4",
-      "t": "2026-11-18T15:34:16.105Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "8f12b6c62ff0df0c"
-    },
-    {
-      "id": "b64c0ea720632c9f",
-      "t": "2026-11-18T15:34:16.106Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): successos, obres i urbanisme.",
-      "itemId": "8f12b6c62ff0df0c"
-    },
-    {
-      "id": "38222002f8966920",
-      "t": "2026-11-18T15:34:16.107Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Els Mossos detenen un home i busquen un segon implicat en un robatori violent a Sant Quirze» (Ràdio Sabadell).",
-      "itemId": "136886ff91823da8"
-    },
-    {
-      "id": "be17435fc52b1fca",
-      "t": "2026-11-18T15:34:16.108Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Successos, Obres i urbanisme, Salut, Esports.",
-      "itemId": "136886ff91823da8"
-    },
-    {
-      "id": "170db2d3fca0341a",
-      "t": "2026-11-18T15:34:16.109Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "136886ff91823da8"
-    },
-    {
       "id": "6cb1d6deb8e43b96",
       "t": "2026-11-18T15:34:16.110Z",
       "agente": "mesa",
@@ -2799,7 +2750,56 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Salut, Esports.",
       "itemId": "ae42fba8cfc6a8e2"
+    },
+    {
+      "id": "2c9f92c0cebdf7e2",
+      "t": "2026-11-23T09:22:54.281Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L’Ajuntament homenatja Joaquín Ventura Cantis amb motiu del seu centenari» (Ajuntament de Cerdanyola del Vallès).",
+      "itemId": "af3f3457cee6cd7a"
+    },
+    {
+      "id": "26af04ce91c6116f",
+      "t": "2026-11-23T09:22:54.282Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local.",
+      "itemId": "af3f3457cee6cd7a"
+    },
+    {
+      "id": "64c6309c675aa1dd",
+      "t": "2026-11-23T09:22:54.283Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · política local.",
+      "itemId": "af3f3457cee6cd7a"
+    },
+    {
+      "id": "50865c00f9503d1c",
+      "t": "2026-11-23T09:22:54.284Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L’Ajuntament contractarà 16 persones per fer tasques d’informació durant la jornada electoral del 29 de novembre» (Ajuntament de Cerdanyola del Vallès).",
+      "itemId": "b115988859ad8ffa"
+    },
+    {
+      "id": "47198aa371dcca3e",
+      "t": "2026-11-23T09:22:54.285Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Economia i ocupació.",
+      "itemId": "b115988859ad8ffa"
+    },
+    {
+      "id": "ec0ffee2faed5292",
+      "t": "2026-11-23T09:22:54.286Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L'exposició sobre Lorca, ara a la Biblioteca Esteve Paluzie» (Ajuntament de Barberà del Vallès).",
+      "itemId": "b9a89c7f6ebfe4ec"
+    },
+    {
+      "id": "dbfbf148c6eda60e",
+      "t": "2026-11-23T09:22:54.287Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "b9a89c7f6ebfe4ec"
     }
   ],
-  "actualizado": "2026-11-22T22:20:52.755Z"
+  "actualizado": "2026-11-23T09:23:12.965Z"
 }

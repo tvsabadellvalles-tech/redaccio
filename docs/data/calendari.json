@@ -2,7 +2,7 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-23T07:58:20.800Z",
+  "consultat": "2026-11-23T09:22:54.281Z",
   "total": 18,
   "activitats": [
     {
@@ -20,16 +20,16 @@
       "color": null
     },
     {
-      "titol": "Rdp PSC",
+      "titol": "(Paulino) gravació anunci Inmobiliaria Peritax",
       "inici": "2026-11-23T09:00:00.000Z",
       "final": "2026-11-23T10:00:00.000Z",
       "totElDia": false,
       "color": null
     },
     {
-      "titol": "(Paulino) gravació anunci Inmobiliaria Peritax",
-      "inici": "2026-11-23T09:00:00.000Z",
-      "final": "2026-11-23T10:00:00.000Z",
+      "titol": "Rdp PSC",
+      "inici": "2026-11-23T09:15:00.000Z",
+      "final": "2026-11-23T10:15:00.000Z",
       "totElDia": false,
       "color": null
     },
@@ -133,5 +133,5 @@
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-23T07:58:55.077Z"
+  "actualizado": "2026-11-23T09:23:32.661Z"
 }

@@ -62,11 +62,11 @@
     },
     "ayto-barbera": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "ayto-cerdanyola": {
       "ok": true,
-      "items": 0
+      "items": 2
     },
     "ayto-badia": {
       "ok": true,
@@ -81,6 +81,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-23T07:58:20.800Z",
-  "actualizado": "2026-11-23T07:58:36.396Z"
+  "consultat": "2026-11-23T09:22:54.281Z",
+  "actualizado": "2026-11-23T09:23:12.963Z"
 }
