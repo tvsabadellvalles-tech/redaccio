@@ -2,7 +2,7 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-23T18:12:16.594Z",
+  "consultat": "2026-11-23T19:16:43.005Z",
   "total": 23,
   "activitats": [
     {
@@ -125,7 +125,7 @@
       "color": null
     },
     {
-      "titol": "(Ferran i Fernando becari) VIA15 Mercat Central",
+      "titol": "COTXE! (Ferran i Fernando becari) VIA15 Mercat Central",
       "inici": "2026-11-24T11:30:00.000Z",
       "final": "2026-11-24T12:30:00.000Z",
       "totElDia": false,
@@ -168,5 +168,5 @@
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-23T18:12:51.630Z"
+  "actualizado": "2026-11-23T19:17:20.908Z"
 }

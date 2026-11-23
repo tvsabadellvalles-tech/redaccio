@@ -104,6 +104,104 @@
   },
   "items": [
     {
+      "id": "7baeffe8f2b93f71",
+      "titulo": "El ple de Sabadell reconeix la lluita del moviment veïnal i les reivindicacions pendents als barris",
+      "enlace": "https://www.diaridesabadell.com/sabadell/el-ple-de-sabadell-reconeix-la-lluita-del-moviment-veinal-i-les-reivindicacions-pendents-als-barris.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-23T18:54:28.000Z",
+      "detectado": "2026-11-23T19:16:43.005Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "4f4b4c11938f0eb4",
+      "titulo": "El moviment veïnal porta al ple un llistat de millores pendents als barris",
+      "enlace": "https://www.isabadell.cat/sabadell/el-moviment-veinal-porta-al-ple-un-llistat-de-millores-pendents-als-barris-341462/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-23T18:51:43.000Z",
+      "detectado": "2026-11-23T19:16:43.005Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "80194e2f29d3a276",
+      "titulo": "Les principals reivindicacions veïnals de Sabadell arriben al ple municipal",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/reivindicacions-veinals-sabadell-ple-municipal",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-23T18:09:08.000Z",
+      "detectado": "2026-11-23T19:16:43.005Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad",
+        "politica",
+        "salud",
+        "educacion",
+        "cultura"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "mobilitat, política local, salut, educació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "b9e87c27d98d3e19",
+      "titulo": "Palau al Dia - Notícies del 23/11/2026",
+      "enlace": "https://www.radiopalau.cat/podcasts/palau-al-dia/radiopalau_podcast_6851/",
+      "fuente": "radio-palau",
+      "fuenteNombre": "Ràdio Palau - Palau al Dia",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "palau",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-23T17:59:54.000Z",
+      "detectado": "2026-11-23T19:16:43.005Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "7f37f005522010bc",
       "titulo": "Llum verda al primer pas per traslladar les consultes externes del Taulí a la Caserna",
       "enlace": "https://radiosabadell.fm/actualitat/politica/llum-verda-traslladar-consultes-externes-tauli-la-caserna",
@@ -152,6 +250,27 @@
       ],
       "duplicadaDe": null,
       "propuesta": true
+    },
+    {
+      "id": "4da88401de6d4bad",
+      "titulo": "Un emprenedor crea el vermut Sant Grial, una marca de Sabadell",
+      "enlace": "https://www.diaridesabadell.com/oci-cultura/vermut-sant-grial-roger-costa.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-23T17:43:27.000Z",
+      "detectado": "2026-11-23T19:16:43.005Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
     },
     {
       "id": "1a6dc6f73fa287c3",
@@ -257,6 +376,29 @@
       ],
       "duplicadaDe": null,
       "propuesta": true
+    },
+    {
+      "id": "ee723ef6ed0b8696",
+      "titulo": "El nou passeig de Can Feu i Gràcia, cap a març de 2027",
+      "enlace": "https://www.diaridesabadell.com/sabadell/calendari-passeig-antoni-farres-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-23T16:10:18.000Z",
+      "detectado": "2026-11-23T19:16:43.005Z",
+      "sensible": false,
+      "etiquetas": [
+        "salud"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
     },
     {
       "id": "14cf54d4a1ecb6cc",
@@ -2022,5 +2164,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-23T18:12:32.929Z"
+  "actualizado": "2026-11-23T19:17:01.177Z"
 }

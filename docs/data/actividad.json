@@ -1,83 +1,6 @@
 {
   "eventos": [
     {
-      "id": "63b538e675b26cbc",
-      "t": "2026-11-19T19:40:44.687Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Tensió a Can Puiggener: impedeixen a Vox celebrar un acte electoral» (iSabadell).",
-      "itemId": "18a56bfea76816af"
-    },
-    {
-      "id": "11748c0679205b12",
-      "t": "2026-11-19T20:35:31.398Z",
-      "agente": "rastreador",
-      "texto": "He recollit «ERC reivindica l'esquerra catalana de cara al 29N» (L'Actual - Castellar del Vallès).",
-      "itemId": "7be09d5164dd6782"
-    },
-    {
-      "id": "f68f78e28392c170",
-      "t": "2026-11-19T21:28:10.870Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Una protesta antifeixista impedeix a Vox celebrar un míting a Can Puiggener» (Ràdio Sabadell).",
-      "itemId": "0142d00ec9a6be45"
-    },
-    {
-      "id": "635d53f2cc938958",
-      "t": "2026-11-19T21:28:10.871Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Successos.",
-      "itemId": "0142d00ec9a6be45"
-    },
-    {
-      "id": "83b72cad1b4a433e",
-      "t": "2026-11-19T23:13:27.378Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La renovació del DNI a Santa Perpètua es podrà fer en una única cita» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "a89cd90359306488"
-    },
-    {
-      "id": "9befdecba33e8043",
-      "t": "2026-11-19T23:13:27.379Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Successos, Educació.",
-      "itemId": "a89cd90359306488"
-    },
-    {
-      "id": "afcea16f5ff0443f",
-      "t": "2026-11-19T23:13:27.380Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): font oficial · successos, educació.",
-      "itemId": "a89cd90359306488"
-    },
-    {
-      "id": "f059e48a4c4ea8bb",
-      "t": "2026-11-19T23:58:12.709Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Infopodcast 20.11.2026» (Ràdio Sabadell).",
-      "itemId": "5f810c5cb7e9cc35"
-    },
-    {
-      "id": "cc041737700e3aab",
-      "t": "2026-11-20T08:04:37.921Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El Semaf desconvoca la vaga de maquinistes de dilluns a Rodalies» (Diari de Sabadell).",
-      "itemId": "b6e11bb727073107"
-    },
-    {
-      "id": "29fd3c1f9fb4f1fc",
-      "t": "2026-11-20T08:04:37.922Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat.",
-      "itemId": "b6e11bb727073107"
-    },
-    {
-      "id": "5f56be1f4d250ef6",
-      "t": "2026-11-20T08:04:37.923Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Obertes les inscripcions per a La Paulina, la cursa amb nom de tortuga i botifarrada a la meta» (Diari de Sabadell).",
-      "itemId": "3e36c57ccd4fa591"
-    },
-    {
       "id": "81b875c125fdccb2",
       "t": "2026-11-20T08:04:37.924Z",
       "agente": "rastreador",
@@ -2799,7 +2722,84 @@
       "agente": "mesa",
       "texto": "Proposo incloure-ho a l'escaleta (3 punts): política local, salut.",
       "itemId": "7f37f005522010bc"
+    },
+    {
+      "id": "048b1f3efea9ee80",
+      "t": "2026-11-23T19:16:43.005Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El nou passeig de Can Feu i Gràcia, cap a març de 2027» (Diari de Sabadell).",
+      "itemId": "ee723ef6ed0b8696"
+    },
+    {
+      "id": "86fa89c44f739c99",
+      "t": "2026-11-23T19:16:43.006Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut.",
+      "itemId": "ee723ef6ed0b8696"
+    },
+    {
+      "id": "532fc4ab36768144",
+      "t": "2026-11-23T19:16:43.007Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Un emprenedor crea el vermut Sant Grial, una marca de Sabadell» (Diari de Sabadell).",
+      "itemId": "4da88401de6d4bad"
+    },
+    {
+      "id": "81e931c52fa7d0e6",
+      "t": "2026-11-23T19:16:43.008Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Palau al Dia - Notícies del 23/11/2026» (Ràdio Palau - Palau al Dia).",
+      "itemId": "b9e87c27d98d3e19"
+    },
+    {
+      "id": "ecc67625e331ad12",
+      "t": "2026-11-23T19:16:43.009Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Les principals reivindicacions veïnals de Sabadell arriben al ple municipal» (Ràdio Sabadell).",
+      "itemId": "80194e2f29d3a276"
+    },
+    {
+      "id": "5252717c902fd3cb",
+      "t": "2026-11-23T19:16:43.010Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat, Política local, Salut, Educació, Cultura i festes.",
+      "itemId": "80194e2f29d3a276"
+    },
+    {
+      "id": "b0de584bb0a5b9c7",
+      "t": "2026-11-23T19:16:43.011Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): mobilitat, política local, salut, educació.",
+      "itemId": "80194e2f29d3a276"
+    },
+    {
+      "id": "9da0aa8e4bd05961",
+      "t": "2026-11-23T19:16:43.012Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El moviment veïnal porta al ple un llistat de millores pendents als barris» (iSabadell).",
+      "itemId": "4f4b4c11938f0eb4"
+    },
+    {
+      "id": "64e5cc76bc748af5",
+      "t": "2026-11-23T19:16:43.013Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local.",
+      "itemId": "4f4b4c11938f0eb4"
+    },
+    {
+      "id": "b9717c4c68c90a6a",
+      "t": "2026-11-23T19:16:43.014Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El ple de Sabadell reconeix la lluita del moviment veïnal i les reivindicacions pendents als barris» (Diari de Sabadell).",
+      "itemId": "7baeffe8f2b93f71"
+    },
+    {
+      "id": "1c1e2d6bce23f05d",
+      "t": "2026-11-23T19:16:43.015Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local.",
+      "itemId": "7baeffe8f2b93f71"
     }
   ],
-  "actualizado": "2026-11-23T18:12:32.933Z"
+  "actualizado": "2026-11-23T19:17:01.181Z"
 }
