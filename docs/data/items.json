@@ -104,6 +104,84 @@
   },
   "items": [
     {
+      "id": "0891e19c391a46ec",
+      "titulo": "Una professora de ball, jutjada per una presumpta agressió sexual a una menor a Sabadell",
+      "enlace": "https://www.diaridesabadell.com/sabadell/professora-ball-judici-sabadell-agressio-sexual.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-23T16:20:16.000Z",
+      "detectado": "2026-11-23T17:11:46.867Z",
+      "sensible": true,
+      "etiquetas": [
+        "sucesos"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "successos"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "fd8ce0a4831d6318",
+      "titulo": "Sabadell celebra la Setmana de l'Emprenedoria",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/sabadell-celebra-la-setmana-de-lemprenedoria",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-23T16:16:20.000Z",
+      "detectado": "2026-11-23T17:11:46.867Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica",
+        "economia"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "política local, economia i ocupació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "315819c467e838ca",
+      "titulo": "Aprovada per unanimitat la subvenció per finançar les obres a la Nova Creu Alta",
+      "enlace": "https://radiosabadell.fm/actualitat/economia/aprovada-unanimitat-subvencio-obres-nova-creu-alta",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-23T16:12:31.000Z",
+      "detectado": "2026-11-23T17:11:46.867Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica",
+        "urbanismo",
+        "deportes"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "política local, obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
       "id": "14cf54d4a1ecb6cc",
       "titulo": "Un empat agredolç per recuperar sensacions: \"En els moments d'adversitat és quan apareix la convicció\"",
       "enlace": "https://www.diaridesabadell.com/esports/ferran-costa-centre-esports-sabadell-granada-declaracions-roda-de-premsa-empat-postpartit.html",
@@ -1867,5 +1945,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-23T16:08:52.869Z"
+  "actualizado": "2026-11-23T17:12:08.792Z"
 }

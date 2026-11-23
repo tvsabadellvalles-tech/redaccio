@@ -1,69 +1,6 @@
 {
   "eventos": [
     {
-      "id": "a879acd1db734250",
-      "t": "2026-11-19T15:30:07.073Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): mobilitat, política local.",
-      "itemId": "1900fd2f54b46823"
-    },
-    {
-      "id": "a53f0b3d2c6a65a4",
-      "t": "2026-11-19T15:30:07.074Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Nou horari confirmat: l'Eibar tornarà a la Nova Creu Alta el dissabte 5 de desembre» (Ràdio Sabadell).",
-      "itemId": "6c16ff3455bcee98"
-    },
-    {
-      "id": "e39a449d219b369e",
-      "t": "2026-11-19T15:30:07.075Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Esports.",
-      "itemId": "6c16ff3455bcee98"
-    },
-    {
-      "id": "24daec9fc594cc1a",
-      "t": "2026-11-19T16:37:08.989Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La Penya La Plana celebrarà diumenge el seu 15è aniversari» (Ràdio Sabadell).",
-      "itemId": "06b5fe52045db669"
-    },
-    {
-      "id": "25b02c8b9b7b03a3",
-      "t": "2026-11-19T16:37:08.990Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Esports.",
-      "itemId": "06b5fe52045db669"
-    },
-    {
-      "id": "f56b5c5f9832092d",
-      "t": "2026-11-19T17:19:59.247Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El Consell d'Infants torna a les ones» (L'Actual - Castellar del Vallès).",
-      "itemId": "b28cad7affdededf"
-    },
-    {
-      "id": "39d4759028cd7ff9",
-      "t": "2026-11-19T17:19:59.248Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "b28cad7affdededf"
-    },
-    {
-      "id": "5f4ae4091f1a27b1",
-      "t": "2026-11-19T17:19:59.249Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Els Mossos, a la cerca de coure robat a la xarxa de Rodalies» (Diari de Sabadell).",
-      "itemId": "a607b3f4808afdc7"
-    },
-    {
-      "id": "ab2fe423a8a44734",
-      "t": "2026-11-19T17:19:59.250Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat, Successos.",
-      "itemId": "a607b3f4808afdc7"
-    },
-    {
       "id": "155ba287510a0075",
       "t": "2026-11-19T17:19:59.251Z",
       "agente": "mesa",
@@ -2799,7 +2736,70 @@
       "agente": "rastreador",
       "texto": "He recollit «Un empat agredolç per recuperar sensacions: \"En els moments d'adversitat és quan apareix la convicció\"» (Diari de Sabadell).",
       "itemId": "14cf54d4a1ecb6cc"
+    },
+    {
+      "id": "ad4f10239a427c41",
+      "t": "2026-11-23T17:11:46.867Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Aprovada per unanimitat la subvenció per finançar les obres a la Nova Creu Alta» (Ràdio Sabadell).",
+      "itemId": "315819c467e838ca"
+    },
+    {
+      "id": "5bbfc5e8b413a879",
+      "t": "2026-11-23T17:11:46.868Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local, Obres i urbanisme, Esports.",
+      "itemId": "315819c467e838ca"
+    },
+    {
+      "id": "903f79d79cab8dfe",
+      "t": "2026-11-23T17:11:46.869Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): política local, obres i urbanisme.",
+      "itemId": "315819c467e838ca"
+    },
+    {
+      "id": "ccee930369bb5243",
+      "t": "2026-11-23T17:11:46.870Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Sabadell celebra la Setmana de l'Emprenedoria» (Ràdio Sabadell).",
+      "itemId": "fd8ce0a4831d6318"
+    },
+    {
+      "id": "6dc9de4d1b9f0510",
+      "t": "2026-11-23T17:11:46.871Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local, Economia i ocupació.",
+      "itemId": "fd8ce0a4831d6318"
+    },
+    {
+      "id": "bef2f512e9370d95",
+      "t": "2026-11-23T17:11:46.872Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): política local, economia i ocupació.",
+      "itemId": "fd8ce0a4831d6318"
+    },
+    {
+      "id": "9f19b5d820c3d398",
+      "t": "2026-11-23T17:11:46.873Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Una professora de ball, jutjada per una presumpta agressió sexual a una menor a Sabadell» (Diari de Sabadell).",
+      "itemId": "0891e19c391a46ec"
+    },
+    {
+      "id": "12a6ce7a4193e056",
+      "t": "2026-11-23T17:11:46.874Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Successos.",
+      "itemId": "0891e19c391a46ec"
+    },
+    {
+      "id": "9b4a960f3137dcc0",
+      "t": "2026-11-23T17:11:46.875Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "0891e19c391a46ec"
     }
   ],
-  "actualizado": "2026-11-23T16:08:52.873Z"
+  "actualizado": "2026-11-23T17:12:08.797Z"
 }
