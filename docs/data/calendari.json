@@ -2,8 +2,8 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-23T11:30:20.592Z",
-  "total": 18,
+  "consultat": "2026-11-23T12:35:12.180Z",
+  "total": 22,
   "activitats": [
     {
       "titol": "PAULINO NO VE",
@@ -41,7 +41,7 @@
       "color": null
     },
     {
-      "titol": "Fals VIA15 Mercat Central",
+      "titol": "(Ferran) Fals VIA15 Mercat Central",
       "inici": "2026-11-23T11:30:00.000Z",
       "final": "2026-11-23T12:30:00.000Z",
       "totElDia": false,
@@ -76,9 +76,9 @@
       "color": null
     },
     {
-      "titol": "CNS classe prepart (Gran Via)",
-      "inici": "2026-11-23T17:45:00.000Z",
-      "final": "2026-11-23T18:30:00.000Z",
+      "titol": "(Ferran) CNS classe prepart (Gran Via)",
+      "inici": "2026-11-23T17:30:00.000Z",
+      "final": "2026-11-23T18:15:00.000Z",
       "totElDia": false,
       "color": null
     },
@@ -104,6 +104,27 @@
       "color": null
     },
     {
+      "titol": "Lorena entra",
+      "inici": "2026-11-24T11:00:00.000Z",
+      "final": "2026-11-24T11:30:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "Visita d'obres a la nova Llar Residència - Centre Ocupacional a Sabadell",
+      "inici": "2026-11-24T11:30:00.000Z",
+      "final": "2026-11-24T12:30:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "(Ferran i Fernando) VIA15 Mercat Central",
+      "inici": "2026-11-24T11:30:00.000Z",
+      "final": "2026-11-24T12:30:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
       "titol": "Connecta't",
       "inici": "2026-11-24T12:00:00.000Z",
       "final": "2026-11-24T13:15:00.000Z",
@@ -125,7 +146,14 @@
       "color": null
     },
     {
-      "titol": "CX - VIA 15 (La llet)",
+      "titol": "Lorena marxa",
+      "inici": "2026-11-24T15:00:00.000Z",
+      "final": "2026-11-24T15:30:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "FALS FERRAN / CX - VIA 15 (La llet)",
       "inici": "2026-11-24T17:00:00.000Z",
       "final": "2026-11-24T18:00:00.000Z",
       "totElDia": false,
@@ -133,5 +161,5 @@
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-23T11:30:59.476Z"
+  "actualizado": "2026-11-23T12:35:46.438Z"
 }

@@ -104,6 +104,230 @@
   },
   "items": [
     {
+      "id": "e6971aa24219a913",
+      "titulo": "El Real Sporting de Gijón, proper rival del CE Sabadell a la Copa",
+      "enlace": "https://www.isabadell.cat/esports/futbol/el-ce-sabadell-ja-coneix-el-proper-rival-a-la-copa-del-rei-341418/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-23T12:24:20.000Z",
+      "detectado": "2026-11-23T12:35:12.180Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "836cabc70940117e",
+      "titulo": "El mercat solidari de joguines de Sant Quirze recapta prop de 1.600 euros",
+      "enlace": "https://www.santquirzevalles.cat/actualitat/noticies/el-mercat-solidari-de-joguines-de-sant-quirze-recapta-prop-de-1-600-euros",
+      "fuente": "ayto-sant-quirze",
+      "fuenteNombre": "Ajuntament de Sant Quirze del Vallès",
+      "tipo": "oficial",
+      "resumen": "La iniciativa promou la reutilització i la solidaritat, i destina els diners recaptats a donar suport a joves migrants en situació de vulnerabilitat",
+      "municipio": "sant-quirze",
+      "municipiosMencionados": [
+        "sant-quirze"
+      ],
+      "publicado": "2026-11-23T12:20:48.000Z",
+      "detectado": "2026-11-23T12:35:12.180Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "162764035f54d8bd",
+      "titulo": "Trenet de Nadal",
+      "enlace": "https://www.bdv.cat/agenda/trenet-de-nadal",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "TRENET DE NADAL Gaudeix d'un recorregut per la ciutat a bord d'un trenet decorat i accessible a tothom. Per pujar-hi només cal presentar una butlleta que t'entregaran en comprar als comerços de la ciutat. Parada única: Passeig Doctor…",
+      "municipio": "barbera",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-23T12:10:00.000Z",
+      "detectado": "2026-11-23T12:35:12.180Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "3787f387608dc2f3",
+      "titulo": "El CE Sabadell ja coneix el seu segon rival a la Copa del Rei",
+      "enlace": "https://www.diaridesabadell.com/esports/centre-esports-sabadell-segona-eliminatoria-rival-copa-del-rei-sorteig.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-23T12:03:49.000Z",
+      "detectado": "2026-11-23T12:35:12.180Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "cc56d817c5e59536",
+      "titulo": "Concert de Nadal de l'Escola Municipal de Música",
+      "enlace": "https://www.bdv.cat/agenda/concert-de-nadal-de-lescola-municipal-de-musica",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "CONCERT DE NADAL DE L'ESCOLA MUNICIPAL DE MÚSICA Audició i concert especial de les festes a càrrec de l'alumnat de l'Escola Municipal de Música de Barberà del Vallès en suport a la Marató Organitza: Escola Municipal de Música de Barberà…",
+      "municipio": "barbera",
+      "municipiosMencionados": [
+        "barbera"
+      ],
+      "publicado": "2026-11-23T12:03:00.000Z",
+      "detectado": "2026-11-23T12:35:12.180Z",
+      "sensible": false,
+      "etiquetas": [
+        "educacion",
+        "cultura"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "font oficial",
+        "educació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "960f47bef0c7e075",
+      "titulo": "Sabadell-Sporting: la segona ronda de la Copa del Rei, a casa!",
+      "enlace": "https://radiosabadell.fm/esports/ce-sabadell/sabadell-real-sporting-segona-ronda-copa-rei",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-23T11:58:15.000Z",
+      "detectado": "2026-11-23T12:35:12.180Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "e1cb9622f1a883da",
+      "titulo": "Activitats infantils, xocolatada i botiga solidària de La Marató",
+      "enlace": "https://www.bdv.cat/agenda/activitats-infantils-xocolatada-i-botiga-solidaria-de-la-marato",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "ACTIVITATS INFANTILS, XOCOLATADA I BOTIGA SOLIDÀRIA DE LA MARATÓ Jornada festiva i solidària amb tallers infantils, xocolatada i paradeta de productes en benefici de La Marató Organitza: AFA Miquel Martí i Pol",
+      "municipio": "barbera",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-23T11:52:00.000Z",
+      "detectado": "2026-11-23T12:35:12.180Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "e741b3cc4b34ff50",
+      "titulo": "El Far del Benestar: Una llum per Nadal",
+      "enlace": "https://www.bdv.cat/agenda/el-far-del-benestar-una-llum-nadal",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "EL FAR DEL BENESTAR: UNA LLUM PER NADAL Taller nadalenc creatiu per a infants de 5 a 11 anys Organitza: APAPS LLums",
+      "municipio": "barbera",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-23T11:43:00.000Z",
+      "detectado": "2026-11-23T12:35:12.180Z",
+      "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "0a45a30f619fea1f",
+      "titulo": "Un incendi afecta almenys dues naus d'un polígon industrial de Valldoreix",
+      "enlace": "https://www.diaridesabadell.com/valles/sant-cugat-del-valles/incendi-valldoreix-nau-botiga-motos-reciclatge-bombers.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-23T11:34:30.000Z",
+      "detectado": "2026-11-23T12:35:12.180Z",
+      "sensible": false,
+      "etiquetas": [
+        "emergencias",
+        "economia"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "emergències, economia i ocupació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "f83e76913c16140d",
+      "titulo": "Un grup de veïns de Bellaterra reclamen a la Generalitat que escolti la seva voluntat d'annexionar-se a Sant Cugat",
+      "enlace": "https://www.diaridesabadell.com/valles/bellaterra-veins-sant-cugat-cerdanyola.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "cerdanyola",
+        "sant-cugat"
+      ],
+      "publicado": "2026-11-23T11:27:50.000Z",
+      "detectado": "2026-11-23T12:35:12.180Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "a517d94e753e8edd",
       "titulo": "VÍDEO | Laura Escanes deixa entreveure per a qui anirà el seu vot aquest 29N",
       "enlace": "https://www.diaridesabadell.com/sabadell/laura-escanes-eleccions-29n-pedro-sanchez.html",
@@ -200,6 +424,27 @@
       "propuesta": false
     },
     {
+      "id": "77198fdda902ccd5",
+      "titulo": "L'Astralpool CN Sabadell masculí guanya el CN Barcelona i assegura virtualment la segona posició",
+      "enlace": "https://www.diaridesabadell.com/esports/cn-barcelona-astralpool-club-natacio-sabadell-masculi-nova-escullera-cronica-triomf.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-23T11:05:58.000Z",
+      "detectado": "2026-11-23T12:35:12.180Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "992f6b46fb508142",
       "titulo": "El Cercle estrena noves pistes de pickleball, futbol i un parc infantil",
       "enlace": "https://www.isabadell.cat/esports/el-cercle-estrena-noves-pistes-de-pickleball-futbol-i-un-parc-infantil-341387/",
@@ -266,6 +511,57 @@
       "puntuacion": 1,
       "motivos": [
         "economia i ocupació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "d220e5d90d4e7776",
+      "titulo": "El Black Friday arriba a Sabadell amb descomptes de fins al 40% als comerços de la ciutat",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/black-friday-sabadell-descomptes-fins-40-per-cent-comercos",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-23T11:03:34.000Z",
+      "detectado": "2026-11-23T12:35:12.180Z",
+      "sensible": false,
+      "etiquetas": [
+        "economia"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "economia i ocupació"
+      ],
+      "duplicadaDe": "f61beb8e02caf15f",
+      "propuesta": false
+    },
+    {
+      "id": "dec3b0197a93b93c",
+      "titulo": "Santa Perpètua es suma a la Setmana Europea de la Prevenció de Residus",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/santa-perpetua-es-suma-a-la-setmana-europea-de-la-prevencio-de-residus.html",
+      "fuente": "ayto-santa-perpetua",
+      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
+      "tipo": "oficial",
+      "resumen": "L’acció s’emmarca dins el programa comarcal “Petits gestos, grans canvis”.",
+      "municipio": "santa-perpetua",
+      "municipiosMencionados": [
+        "santa-perpetua"
+      ],
+      "publicado": "2026-11-23T11:00:00.000Z",
+      "detectado": "2026-11-23T12:35:12.180Z",
+      "sensible": false,
+      "etiquetas": [
+        "medioambiente"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "font oficial",
+        "medi ambient"
       ],
       "duplicadaDe": null,
       "propuesta": false
@@ -936,6 +1232,30 @@
       "propuesta": false
     },
     {
+      "id": "6e6e158cb04bfe12",
+      "titulo": "L’AMB aprova un pressupost de prop de 3.000 milions d’euros per al 2027",
+      "enlace": "https://www.ripollet.cat/actualitat/noticies/l2019amb-aprova-un-pressupost-de-prop-de-3-000-milions-d2019euros-per-al-2027",
+      "fuente": "ayto-ripollet",
+      "fuenteNombre": "Ajuntament de Ripollet",
+      "tipo": "oficial",
+      "resumen": "El Consell Metropolità de l’Àrea Metropolitana de Barcelona (AMB) ha aprovat inicialment el pressupost general per al 2027, que ascendeix a 2.988 milions d’euros, un 3,18 % més que l’exercici anterior. Es tracta del tercer pressupost més…",
+      "municipio": "ripollet",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-23T08:46:57.000Z",
+      "detectado": "2026-11-23T12:35:12.180Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "font oficial",
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
       "id": "af3f3457cee6cd7a",
       "titulo": "L’Ajuntament homenatja Joaquín Ventura Cantis amb motiu del seu centenari",
       "enlace": "http://www.cerdanyola.cat/actualitat/lajuntament-homenatja-joaquin-ventura-cantis-amb-motiu-del-seu-centenari",
@@ -962,6 +1282,25 @@
       "propuesta": true
     },
     {
+      "id": "da2d44b3bb867bfe",
+      "titulo": "Abans de Nadal, menys presses i més criteri",
+      "enlace": "https://www.diaridesabadell.com/contingut-patrocinat/abans-de-nadal-menys-presses-i-mes-criteri.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-23T07:00:02.000Z",
+      "detectado": "2026-11-23T12:35:12.180Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "774b78ce11b33b1b",
       "titulo": "‘La bola negra sigue presente’",
       "enlace": "https://www.isabadell.cat/opinio/la-bola-negra-sigue-presente-341411/",
@@ -977,6 +1316,29 @@
       "etiquetas": [],
       "puntuacion": 0,
       "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "0f94031239229c0a",
+      "titulo": "Ripollet reivindica ‘Vides dignes, vides lliures’ amb motiu del 25N",
+      "enlace": "https://www.ripollet.cat/actualitat/noticies/ripollet-reivindica-2018vides-dignes-vides-lliures2019-amb-motiu-del-25n",
+      "fuente": "ayto-ripollet",
+      "fuenteNombre": "Ajuntament de Ripollet",
+      "tipo": "oficial",
+      "resumen": "El programa del Dia Internacional per a l’Eliminació de la Violència contra les Dones inclou activitats culturals, tallers, espais de reflexió i accions de sensibilització durant tot el mes de novembre.",
+      "municipio": "ripollet",
+      "municipiosMencionados": [
+        "ripollet"
+      ],
+      "publicado": "2026-11-23T07:00:00.000Z",
+      "detectado": "2026-11-23T12:35:12.180Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
       "duplicadaDe": null,
       "propuesta": false
     },
@@ -1049,7 +1411,78 @@
       ],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "5ebd3937eaa77b1b",
+      "titulo": "Sentmenat ha viscut aquest dissabte una experiència ben diferent!",
+      "enlace": "https://www.sentmenat.cat/actualitat/noticies/sentmenat-ha-viscut-aquest-dissabte-una-experiencia-ben-diferent.html",
+      "fuente": "ayto-sentmenat",
+      "fuenteNombre": "Ajuntament de Sentmenat",
+      "tipo": "oficial",
+      "resumen": "Més de 300 participants han pres part en la primera edició de la Survival Zombie, una gimcana esportiva ambientada en un escenari zombi, en què calia superar diferents proves i reptes sense acabar infectat pel virus!",
+      "municipio": "sentmenat",
+      "municipiosMencionados": [
+        "sentmenat"
+      ],
+      "publicado": "2026-11-22T23:00:00.000Z",
+      "detectado": "2026-11-23T12:35:12.180Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "9f0f22c97beb93ce",
+      "titulo": "40 anys de la Cursa de Guanta, 40 anys de compromís i estima pel nostre poble!",
+      "enlace": "https://www.sentmenat.cat/actualitat/noticies/40-anys-de-la-cursa-de-guanta-40-anys-de-compromis-i-estima-pel-nostre-poble.html",
+      "fuente": "ayto-sentmenat",
+      "fuenteNombre": "Ajuntament de Sentmenat",
+      "tipo": "oficial",
+      "resumen": "Aquest divendres, abans de celebrar la 40a edició de la Cursa de Guanta, vam voler fer un reconeixement institucional a Salvador Alcázar, veí de Sentmenat i una de les persones que ha impulsat i fet créixer aquesta cursa emblemàtica…",
+      "municipio": "sentmenat",
+      "municipiosMencionados": [
+        "sentmenat"
+      ],
+      "publicado": "2026-11-22T23:00:00.000Z",
+      "detectado": "2026-11-23T12:35:12.180Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "e6931f13fbfec218",
+      "titulo": "La tardor també es nota als nostres carrers!",
+      "enlace": "https://www.sentmenat.cat/actualitat/noticies/la-tardor-tambe-es-nota-als-nostres-carrers.html",
+      "fuente": "ayto-sentmenat",
+      "fuenteNombre": "Ajuntament de Sentmenat",
+      "tipo": "oficial",
+      "resumen": "Sentmenat és un municipi molt verd, i això és un orgull, però també representa un repte per mantenir els carrers nets durant aquesta època de l’any.",
+      "municipio": "sentmenat",
+      "municipiosMencionados": [
+        "sentmenat"
+      ],
+      "publicado": "2026-11-22T23:00:00.000Z",
+      "detectado": "2026-11-23T12:35:12.180Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
     }
   ],
-  "actualizado": "2026-11-23T11:30:38.535Z"
+  "actualizado": "2026-11-23T12:35:28.998Z"
 }

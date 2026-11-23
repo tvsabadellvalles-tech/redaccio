@@ -1,202 +1,6 @@
 {
   "eventos": [
     {
-      "id": "b8bd7fcc46898247",
-      "t": "2026-11-19T10:06:42.068Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Horta 3-1 Sabadell 'B': el filial es posa al dia encaixant una nova derrota» (Ràdio Sabadell).",
-      "itemId": "0533aeaa634b2e66"
-    },
-    {
-      "id": "9b3e7acdfde3dade",
-      "t": "2026-11-19T10:06:42.069Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Salut, Esports.",
-      "itemId": "0533aeaa634b2e66"
-    },
-    {
-      "id": "a473c6c56e40b0b9",
-      "t": "2026-11-19T10:06:42.070Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Entitats de Cerdanyola impulsen la candidatura del Dr. Josep Tarrés a la Creu de Sant Jordi» (Ajuntament de Cerdanyola del Vallès).",
-      "itemId": "dcc4003b2b7b19b5"
-    },
-    {
-      "id": "a2234cbaca36b80e",
-      "t": "2026-11-19T10:06:42.071Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Salut, Cultura i festes.",
-      "itemId": "dcc4003b2b7b19b5"
-    },
-    {
-      "id": "d54d6aef95060309",
-      "t": "2026-11-19T10:06:42.072Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Cerdanyola renova el reconeixement com a Ciutat de la Ciència i la Innovació» (Ajuntament de Cerdanyola del Vallès).",
-      "itemId": "f2db353991bef8b6"
-    },
-    {
-      "id": "13e5c1ad37a8d741",
-      "t": "2026-11-19T10:06:42.073Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local, Economia i ocupació, Salut, Educació, Cultura i festes.",
-      "itemId": "f2db353991bef8b6"
-    },
-    {
-      "id": "55269e8da8645f7e",
-      "t": "2026-11-19T10:06:42.074Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (5 punts): font oficial · política local, economia i ocupació, salut, educació.",
-      "itemId": "f2db353991bef8b6"
-    },
-    {
-      "id": "21f76b1df3b3b0f6",
-      "t": "2026-11-19T11:07:11.508Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El DOT programa noves formacions sobre IA i igualtat» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "ede3c6aa91461040"
-    },
-    {
-      "id": "af9dcb0a44475197",
-      "t": "2026-11-19T11:07:11.509Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Clam al Poblenou per fer arribar el bus de l'L14 al barri i connectar-lo amb l'Hospital Taulí» (Diari de Sabadell).",
-      "itemId": "3694ad8a6e2cedea"
-    },
-    {
-      "id": "ba9e5d13bacdecdb",
-      "t": "2026-11-19T11:07:11.510Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat, Salut.",
-      "itemId": "3694ad8a6e2cedea"
-    },
-    {
-      "id": "7d48c44c7e7add35",
-      "t": "2026-11-19T11:07:11.511Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): mobilitat, salut.",
-      "itemId": "3694ad8a6e2cedea"
-    },
-    {
-      "id": "3ab000701852a22d",
-      "t": "2026-11-19T11:07:11.512Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Mogoda Serveis recull tres cops a la setmana el cartró dels comerços» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "98cc455ea7ba2b41"
-    },
-    {
-      "id": "11806c88b551809f",
-      "t": "2026-11-19T11:07:11.513Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Acampada als horts de Can Llong per protegir diverses colònies de gats» (Ràdio Sabadell).",
-      "itemId": "ac958856628d1cd3"
-    },
-    {
-      "id": "89369b6fe1fb52bf",
-      "t": "2026-11-19T11:07:11.514Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Obres i urbanisme.",
-      "itemId": "ac958856628d1cd3"
-    },
-    {
-      "id": "7d25a55b0a24102b",
-      "t": "2026-11-19T11:07:11.515Z",
-      "agente": "rastreador",
-      "texto": "He recollit «L'Ajuntament i la Generalitat acorden treballar conjuntament per impulsar la transformació de Montcada i Reixac» (Ajuntament de Montcada i Reixac).",
-      "itemId": "4803f5e6637604e2"
-    },
-    {
-      "id": "7747389699b64642",
-      "t": "2026-11-19T11:07:11.516Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Quin rival li pot tocar al Sabadell a la segona ronda de la Copa?» (Ràdio Sabadell).",
-      "itemId": "ecb5f777a355c5eb"
-    },
-    {
-      "id": "3e8007e6c5b49d6c",
-      "t": "2026-11-19T11:07:11.517Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Esports.",
-      "itemId": "ecb5f777a355c5eb"
-    },
-    {
-      "id": "7f8040268b2da6d9",
-      "t": "2026-11-19T11:07:11.518Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Pista de gel per dinamitzar Nadal» (L'Actual - Castellar del Vallès).",
-      "itemId": "50d5f332b65de80e"
-    },
-    {
-      "id": "59479b16003fd34f",
-      "t": "2026-11-19T11:07:11.519Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Neguit entre estudiants de Sabadell per l'estat dels instituts, les colònies o la manca de personal: \"Hem convocat una protesta\"» (Diari de Sabadell).",
-      "itemId": "ad7a3d5066256b22"
-    },
-    {
-      "id": "b6a565f9e8c025ff",
-      "t": "2026-11-19T11:07:11.520Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Connectats, el joc que t'anima a jugar amb la llengua» (Ràdio Sabadell).",
-      "itemId": "843783331047f902"
-    },
-    {
-      "id": "8d71fcbd56d6abb2",
-      "t": "2026-11-19T11:07:11.521Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Carles Cendros, Roxette Experience: \"Fem un homenatge al Roxette dels 80\"» (Ràdio Sabadell).",
-      "itemId": "8f3851536406c12b"
-    },
-    {
-      "id": "43a5a8bc756b468b",
-      "t": "2026-11-19T12:04:48.362Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Proposen un nou equipament esportiu a la Creu Alta» (Diari de Sabadell).",
-      "itemId": "5c829a21fe021e07"
-    },
-    {
-      "id": "474135ad307f5c3b",
-      "t": "2026-11-19T12:04:48.363Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat, Política local, Esports.",
-      "itemId": "5c829a21fe021e07"
-    },
-    {
-      "id": "2731fc14f6493057",
-      "t": "2026-11-19T12:04:48.364Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): mobilitat, política local.",
-      "itemId": "5c829a21fe021e07"
-    },
-    {
-      "id": "a07ffa66fbfb26e3",
-      "t": "2026-11-19T12:04:48.365Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La Crida proposa construir una pista poliesportiva a La Creu Alta» (Ràdio Sabadell).",
-      "itemId": "ee9f81e888e2c462"
-    },
-    {
-      "id": "048f914acaf912f7",
-      "t": "2026-11-19T12:04:48.366Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local, Esports.",
-      "itemId": "ee9f81e888e2c462"
-    },
-    {
-      "id": "d7afd0dee6a3eedd",
-      "t": "2026-11-19T12:04:48.367Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Montse Vilanova, directora Valltech: \"El Vallès és un terreny molt ric, però necessita espais de trobada\"» (Ràdio Sabadell).",
-      "itemId": "a36b08f8758541b6"
-    },
-    {
-      "id": "7917c7a3756f1c35",
-      "t": "2026-11-19T12:04:48.368Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El nou edifici de l’Institut Escola El Martinet funcionarà amb energia solar» (Ajuntament de Ripollet).",
-      "itemId": "eeb8514988e1ff89"
-    },
-    {
       "id": "56ca5c2be9aea4cc",
       "t": "2026-11-19T12:04:48.369Z",
       "agente": "etiquetador",
@@ -2799,7 +2603,203 @@
       "agente": "rastreador",
       "texto": "He recollit «VÍDEO | Laura Escanes deixa entreveure per a qui anirà el seu vot aquest 29N» (Diari de Sabadell).",
       "itemId": "a517d94e753e8edd"
+    },
+    {
+      "id": "3d30ece968262021",
+      "t": "2026-11-23T12:35:12.180Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Sentmenat ha viscut aquest dissabte una experiència ben diferent!» (Ajuntament de Sentmenat).",
+      "itemId": "5ebd3937eaa77b1b"
+    },
+    {
+      "id": "07dad03cb629a215",
+      "t": "2026-11-23T12:35:12.181Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "5ebd3937eaa77b1b"
+    },
+    {
+      "id": "ef8464f3db4f6724",
+      "t": "2026-11-23T12:35:12.182Z",
+      "agente": "rastreador",
+      "texto": "He recollit «40 anys de la Cursa de Guanta, 40 anys de compromís i estima pel nostre poble!» (Ajuntament de Sentmenat).",
+      "itemId": "9f0f22c97beb93ce"
+    },
+    {
+      "id": "47c46cc818853301",
+      "t": "2026-11-23T12:35:12.183Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La tardor també es nota als nostres carrers!» (Ajuntament de Sentmenat).",
+      "itemId": "e6931f13fbfec218"
+    },
+    {
+      "id": "4be90d562387641d",
+      "t": "2026-11-23T12:35:12.185Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Abans de Nadal, menys presses i més criteri» (Diari de Sabadell).",
+      "itemId": "da2d44b3bb867bfe"
+    },
+    {
+      "id": "d37504b4fb368476",
+      "t": "2026-11-23T12:35:12.186Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L’AMB aprova un pressupost de prop de 3.000 milions d’euros per al 2027» (Ajuntament de Ripollet).",
+      "itemId": "6e6e158cb04bfe12"
+    },
+    {
+      "id": "2474a005be6928ab",
+      "t": "2026-11-23T12:35:12.187Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local.",
+      "itemId": "6e6e158cb04bfe12"
+    },
+    {
+      "id": "0b43bec6704be12b",
+      "t": "2026-11-23T12:35:12.188Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · política local.",
+      "itemId": "6e6e158cb04bfe12"
+    },
+    {
+      "id": "7d8e1cafb12d7be3",
+      "t": "2026-11-23T12:35:12.189Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Santa Perpètua es suma a la Setmana Europea de la Prevenció de Residus» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "dec3b0197a93b93c"
+    },
+    {
+      "id": "ee45d02b8e91296f",
+      "t": "2026-11-23T12:35:12.190Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Medi ambient.",
+      "itemId": "dec3b0197a93b93c"
+    },
+    {
+      "id": "998a3199d5441e75",
+      "t": "2026-11-23T12:35:12.191Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El Black Friday arriba a Sabadell amb descomptes de fins al 40% als comerços de la ciutat» (Ràdio Sabadell).",
+      "itemId": "d220e5d90d4e7776"
+    },
+    {
+      "id": "189a2747630264d7",
+      "t": "2026-11-23T12:35:12.192Z",
+      "agente": "deduplicador",
+      "texto": "Descartada perquè és duplicada: coincideix amb «El Black Friday arriba a Sabadell amb descomptes de fins al 40% als comerços de la ciutat» (Ràdio Sabadell).",
+      "itemId": "d220e5d90d4e7776"
+    },
+    {
+      "id": "51f07da2bd47824a",
+      "t": "2026-11-23T12:35:12.193Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L'Astralpool CN Sabadell masculí guanya el CN Barcelona i assegura virtualment la segona posició» (Diari de Sabadell).",
+      "itemId": "77198fdda902ccd5"
+    },
+    {
+      "id": "b3036bd48b8aa1ee",
+      "t": "2026-11-23T12:35:12.194Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Un grup de veïns de Bellaterra reclamen a la Generalitat que escolti la seva voluntat d'annexionar-se a Sant Cugat» (Diari de Sabadell).",
+      "itemId": "f83e76913c16140d"
+    },
+    {
+      "id": "33f7e66300f42721",
+      "t": "2026-11-23T12:35:12.195Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Un incendi afecta almenys dues naus d'un polígon industrial de Valldoreix» (Diari de Sabadell).",
+      "itemId": "0a45a30f619fea1f"
+    },
+    {
+      "id": "997b9a4b03dba83f",
+      "t": "2026-11-23T12:35:12.196Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Emergències, Economia i ocupació.",
+      "itemId": "0a45a30f619fea1f"
+    },
+    {
+      "id": "94fedbe88149d7ba",
+      "t": "2026-11-23T12:35:12.197Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): emergències, economia i ocupació.",
+      "itemId": "0a45a30f619fea1f"
+    },
+    {
+      "id": "e24606b3cba3ac13",
+      "t": "2026-11-23T12:35:12.198Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El Far del Benestar: Una llum per Nadal» (Ajuntament de Barberà del Vallès).",
+      "itemId": "e741b3cc4b34ff50"
+    },
+    {
+      "id": "9a6d4fdb93adeb74",
+      "t": "2026-11-23T12:35:12.199Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "e741b3cc4b34ff50"
+    },
+    {
+      "id": "0f5659572c53c667",
+      "t": "2026-11-23T12:35:12.200Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Activitats infantils, xocolatada i botiga solidària de La Marató» (Ajuntament de Barberà del Vallès).",
+      "itemId": "e1cb9622f1a883da"
+    },
+    {
+      "id": "76025b7cc9a88ba3",
+      "t": "2026-11-23T12:35:12.201Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Sabadell-Sporting: la segona ronda de la Copa del Rei, a casa!» (Ràdio Sabadell).",
+      "itemId": "960f47bef0c7e075"
+    },
+    {
+      "id": "97cd32e67b897bb9",
+      "t": "2026-11-23T12:35:12.202Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "960f47bef0c7e075"
+    },
+    {
+      "id": "b3804c3cc9597568",
+      "t": "2026-11-23T12:35:12.203Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Concert de Nadal de l'Escola Municipal de Música» (Ajuntament de Barberà del Vallès).",
+      "itemId": "cc56d817c5e59536"
+    },
+    {
+      "id": "989491cf825d73dc",
+      "t": "2026-11-23T12:35:12.204Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Educació, Cultura i festes.",
+      "itemId": "cc56d817c5e59536"
+    },
+    {
+      "id": "1923b3cfa6faf302",
+      "t": "2026-11-23T12:35:12.205Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El CE Sabadell ja coneix el seu segon rival a la Copa del Rei» (Diari de Sabadell).",
+      "itemId": "3787f387608dc2f3"
+    },
+    {
+      "id": "ed3c4a16c04c8712",
+      "t": "2026-11-23T12:35:12.206Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Trenet de Nadal» (Ajuntament de Barberà del Vallès).",
+      "itemId": "162764035f54d8bd"
+    },
+    {
+      "id": "2a9549588306649d",
+      "t": "2026-11-23T12:35:12.207Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El mercat solidari de joguines de Sant Quirze recapta prop de 1.600 euros» (Ajuntament de Sant Quirze del Vallès).",
+      "itemId": "836cabc70940117e"
+    },
+    {
+      "id": "559964c5b9d4adbd",
+      "t": "2026-11-23T12:35:12.208Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El Real Sporting de Gijón, proper rival del CE Sabadell a la Copa» (iSabadell).",
+      "itemId": "e6971aa24219a913"
     }
   ],
-  "actualizado": "2026-11-23T11:30:38.538Z"
+  "actualizado": "2026-11-23T12:35:29.003Z"
 }
