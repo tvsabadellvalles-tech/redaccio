@@ -104,6 +104,441 @@
   },
   "items": [
     {
+      "id": "b5e7c7ed2aa6c3d5",
+      "titulo": "Cantada de Nadales",
+      "enlace": "https://www.bdv.cat/agenda/cantada-de-nadales",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "CANTA DE NADALES Recital i cantada de nadales populars i tradicionals Organitza: Casa de Granada Cultural Andaluza del Vallès Occidental",
+      "municipio": "barbera",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-23T10:35:00.000Z",
+      "detectado": "2026-11-23T10:35:41.479Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "9a1085335cc025c7",
+      "titulo": "Pessebre de Nadal de l'AVV La Romànica",
+      "enlace": "https://www.bdv.cat/agenda/pessebre-de-nadal-de-lavv-la-romanica",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "PESSEBRE DE NADAL DE L'AVV LA ROMÀNICA Exposició tradicional del Pessebre de nadal a la seu de l'associació de veïns, visitable durant totes les festes Inauguració: Dijous 10 de desembre a les 18.30 h - Organitza: Associació de Veïns La…",
+      "municipio": "barbera",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-23T10:32:00.000Z",
+      "detectado": "2026-11-23T10:35:41.479Z",
+      "sensible": false,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "76405ccd85640fc1",
+      "titulo": "Torneig de futbol de La Marató de 3cat, categories sub11 i sub12",
+      "enlace": "https://www.bdv.cat/agenda/torneig-de-futbol-de-la-marato-de-3cat-categories-sub11-i-sub12",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "Torneig de futbol de La Marató de 3cat, categories sub11 i sub12 L'objectiu és recollir fonts per a les malalties neurodegenerativas i neuromusculars Organitza: Ajuntament de Barberà del Vallès",
+      "municipio": "barbera",
+      "municipiosMencionados": [
+        "barbera"
+      ],
+      "publicado": "2026-11-23T10:28:00.000Z",
+      "detectado": "2026-11-23T10:35:41.479Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "f79ea79d381a3991",
+      "titulo": "Fira de Nadal",
+      "enlace": "https://www.bdv.cat/agenda/fira-de-nadal-2",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "FIRA DE NADAL PROGRAMA 11 – 13 h – Taller de Pinta Cares 11.30 h – Pare Noel itinerant 12 h – Exhibició balls nadalencs a càrrec de MJ Fitness 13 h – Essers màgics 16.30 h – Pare Noel itinerant 17 – 19 h – Taller de Pinta Cares 17 – 20 h…",
+      "municipio": "barbera",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-23T10:14:00.000Z",
+      "detectado": "2026-11-23T10:35:41.479Z",
+      "sensible": false,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "7fe585003184e9d8",
+      "titulo": "Marc Braquer, The Rootsons: “A Sabadell hi ha un ecosistema que fa sentir acompanyat a l’emprenedor”",
+      "enlace": "https://radiosabadell.fm/alacarta/audio/marc-braquer-rootsons-sabadell-hi-ha-un-ecosistema-que-fa-sentir-acompanyat",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-23T10:11:12.000Z",
+      "detectado": "2026-11-23T10:35:41.479Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "b3b747049a618b13",
+      "titulo": "Fira de Nadal",
+      "enlace": "https://www.bdv.cat/agenda/fira-de-nadal-1",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "FIRA DE NADAL PROGRAMA 11 h – La Roda de la Fortuna itinerant 11 – 13 h – Taller de Pinta Cares 12.30 – 13.30 h – Campament del Carter Reial 16.30 h – Pare Noel itinerant 17– 19 h – Taller de Pinta Cares 17– 20 h – Bosc màgic itinerant 18…",
+      "municipio": "barbera",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-23T10:11:00.000Z",
+      "detectado": "2026-11-23T10:35:41.479Z",
+      "sensible": false,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "52b880207551f1db",
+      "titulo": "Fira de Nadal",
+      "enlace": "https://www.bdv.cat/agenda/fira-de-nadal",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "Fira de nadal Programa 11 h – Esser màgics 11 – 13 h – Taller de Pinta Cares 12 h – Mag Reivax 13 h – Carboner 16.30 h – Carboner 17 – 19 h – Taller de Pinta Cares 17 – 20 h – Bosc Màgic interactiu 17.30 h – Mag Reivax 18.30 h – Companyia…",
+      "municipio": "barbera",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-23T10:08:00.000Z",
+      "detectado": "2026-11-23T10:35:41.479Z",
+      "sensible": false,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "556038169907fcd6",
+      "titulo": "Fira de Nadal",
+      "enlace": "https://www.bdv.cat/agenda/fira-de-nadal-0",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "FIRA DE NADAL: PROGRAMACIÓ 11 h - Carboner 11 - 13 h - Taller de Pinta Cares 12 h - Mag Reivax 13 h - Essers màgics 16.30 h - Carboner 17 - 19 h - Taller de Pinta Cares 17- 20 h - Bosc Màgic Interactiu 18 h - Mag Reivax 19.30 h - Nevada…",
+      "municipio": "barbera",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-23T10:04:00.000Z",
+      "detectado": "2026-11-23T10:35:41.479Z",
+      "sensible": false,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "4b47b524773d2ecd",
+      "titulo": "Americana nadalenca de pàdel",
+      "enlace": "https://www.bdv.cat/agenda/americana-nadalenca-de-padel",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "AMERICANA NADALENCA DE PÀDEL Mini-torneig de pàdel en format americana per a parelles. Inscripcions a: info@airclubpadel.com Aquesta activitat es realitzarà tots els dissabtes i diumenges Organitza: AirClub Pàdel",
+      "municipio": "barbera",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-23T10:00:00.000Z",
+      "detectado": "2026-11-23T10:35:41.479Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "a6cb0a40f3e66e50",
+      "titulo": "Inauguració de la Campanya de Nadal del Mercat",
+      "enlace": "https://www.bdv.cat/agenda/inauguracio-de-la-campanya-de-nadal-del-mercat",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "INAUGURACIÓ DE LA CAMPANYA DE NADAL DEL MERCAT Xocolatada popular taller de maquillatge i disfresses, taller de clauers màgics, exhibicions, espectacle de Nadal i sorteig final de vals de compra Organitza: Mercat Onze de Setembre i…",
+      "municipio": "barbera",
+      "municipiosMencionados": [
+        "barbera"
+      ],
+      "publicado": "2026-11-23T09:55:00.000Z",
+      "detectado": "2026-11-23T10:35:41.479Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "2337823a36b7a297",
+      "titulo": "Paco Aranda (PSC): \"Poca broma, el 30 de novembre pot ser massa tard\"",
+      "enlace": "https://radiosabadell.fm/actualitat/politica/paco-aranda-psc-carpa-29N",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-23T09:50:46.000Z",
+      "detectado": "2026-11-23T10:35:41.479Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "7b40ffe89d405d76",
+      "titulo": "Encesa de les Llums de Nadal i inauguració del Pessebre",
+      "enlace": "https://www.bdv.cat/agenda/encesa-de-les-llums-de-nadal-i-inauguracio-del-pessebre",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "ENCESA DE LES LLUMS DE NADAL I INAUGURACIÓ DEL PESSEBRE Vine a escoltar la llegenda de l'arbre màgic i gaudeix de l'encesa de la lluminària de Nadal amb els personatges de la Profecía de l'Este i el Guardià de les hores. Seguidament,…",
+      "municipio": "barbera",
+      "municipiosMencionados": [
+        "barbera"
+      ],
+      "publicado": "2026-11-23T09:44:00.000Z",
+      "detectado": "2026-11-23T10:35:41.479Z",
+      "sensible": false,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "5ae6307b0ee6a89e",
+      "titulo": "Pluja de regals i presentació de la Campanya de Nadal",
+      "enlace": "https://www.bdv.cat/agenda/pluja-de-regals-i-presentacio-de-la-campanya-de-nadal",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "PLUJA DE REGALS I PRESENTACIÓ DE LA CAMPANYA DE NADAL Sorteig i pluja de regals directes abans de l'encesa de llums, juntament amb la presentació oficial de la Campanya de Nadal comercial de la ciutat Organitza: Associació Som Comerç Som…",
+      "municipio": "barbera",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-23T09:42:00.000Z",
+      "detectado": "2026-11-23T10:35:41.479Z",
+      "sensible": false,
+      "etiquetas": [
+        "economia",
+        "medioambiente"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "font oficial",
+        "economia i ocupació, medi ambient"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "a5dd01d8e0e02953",
+      "titulo": "Nous castellanismes i com evitar-los",
+      "enlace": "https://radiosabadell.fm/podcast/fils-ciutat-taula-sabadellenca-castellanismes-231126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-23T09:41:42.000Z",
+      "detectado": "2026-11-23T10:35:41.479Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "2cf8fb4b83cfd019",
+      "titulo": "El Cercle Sabadellès amplia les seves instal·lacions en el marc del 170è aniversari",
+      "enlace": "https://radiosabadell.fm/esports/altres-esports/tennis/noves-installacions-cercle-sabadelles-170-aniversari",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-23T09:41:32.000Z",
+      "detectado": "2026-11-23T10:35:41.479Z",
+      "sensible": true,
+      "etiquetas": [
+        "movilidad",
+        "educacion",
+        "deportes"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "mobilitat, educació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "b6f3fe7457064d7d",
+      "titulo": "'Aguamarina', un llibre provocador i juganer",
+      "enlace": "https://radiosabadell.fm/podcast/fils-ciutat-llibre-obert-aguamarina-231126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-23T09:37:37.000Z",
+      "detectado": "2026-11-23T10:35:41.479Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "2b874047e7f7b3ab",
+      "titulo": "El Black Friday i l'encesa de llums donen el tret de sortida a la campanya comercial del Nadal",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-mati-black-friday-nadal-231126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-23T09:33:28.000Z",
+      "detectado": "2026-11-23T10:35:41.479Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "73e201e9491182ba",
+      "titulo": "La Policia Local ha interposat 91 denúncies per incompliment de l'Ordenança municipal de residus",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/la-policia-local-ha-interposat-91-denuncies-per-incompliment-de-lordenanca-municipal-de-residus.html",
+      "fuente": "ayto-santa-perpetua",
+      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
+      "tipo": "oficial",
+      "resumen": "Es constata una millora en el compliment de la normativa",
+      "municipio": "santa-perpetua",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-23T09:30:00.000Z",
+      "detectado": "2026-11-23T10:35:41.479Z",
+      "sensible": false,
+      "etiquetas": [
+        "sucesos",
+        "medioambiente"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "font oficial",
+        "successos, medi ambient"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "f960ecba6c870c0a",
+      "titulo": "La tertúlia: la Caserna, Renfe i el 29-N",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-mati-tertulia-231126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-23T09:24:35.000Z",
+      "detectado": "2026-11-23T10:35:41.479Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "mobilitat"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "b9a89c7f6ebfe4ec",
       "titulo": "L'exposició sobre Lorca, ara a la Biblioteca Esteve Paluzie",
       "enlace": "https://www.bdv.cat/noticies/lexposicio-sobre-lorca-ara-la-biblioteca-esteve-paluzie",
@@ -124,6 +559,53 @@
       "puntuacion": 1,
       "motivos": [
         "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "cf4a1b1aedcf774a",
+      "titulo": "La Moguda Gastronòmica 2026 incrementa un 50% les vendes",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/la-moguda-gastronomica-2026-incrementa-un-50-les-vendes.html",
+      "fuente": "ayto-santa-perpetua",
+      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
+      "tipo": "oficial",
+      "resumen": "Es quadriplica la participació en el Passaport Gastronòmic",
+      "municipio": "santa-perpetua",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-23T09:00:00.000Z",
+      "detectado": "2026-11-23T10:35:41.479Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "3289a8987dbb6fd9",
+      "titulo": "Les entrades per visitar l'Ambaixador Reial es posaran a la venda el dijous 10 de desembre",
+      "enlace": "https://radiosabadell.fm/actualitat/cultura/entrades-visitar-ambaixador-reial-venda-10-desembre",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-23T08:53:57.000Z",
+      "detectado": "2026-11-23T10:35:41.479Z",
+      "sensible": true,
+      "etiquetas": [
+        "economia",
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "economia i ocupació"
       ],
       "duplicadaDe": null,
       "propuesta": false
@@ -179,7 +661,30 @@
       ],
       "duplicadaDe": null,
       "propuesta": true
+    },
+    {
+      "id": "6f1b599fc10f1b6f",
+      "titulo": "Taller d'autodefensa per a dones, al Complex Esportiu",
+      "enlace": "http://www.badiadelvalles.cat/document.php?id=12335",
+      "fuente": "ayto-badia",
+      "fuenteNombre": "Ajuntament de Badia del Vallès",
+      "tipo": "oficial",
+      "resumen": "",
+      "municipio": "badia",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-22T23:00:00.000Z",
+      "detectado": "2026-11-23T10:35:41.479Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
     }
   ],
-  "actualizado": "2026-11-23T09:23:12.961Z"
+  "actualizado": "2026-11-23T10:35:58.798Z"
 }

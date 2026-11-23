@@ -6,7 +6,7 @@
     },
     "radio-sabadell": {
       "ok": true,
-      "items": 0
+      "items": 8
     },
     "diari-sabadell": {
       "ok": true,
@@ -42,7 +42,7 @@
     },
     "ayto-santa-perpetua": {
       "ok": true,
-      "items": 0
+      "items": 2
     },
     "avisos-santa-perpetua": {
       "ok": true,
@@ -62,7 +62,7 @@
     },
     "ayto-barbera": {
       "ok": true,
-      "items": 1
+      "items": 12
     },
     "ayto-cerdanyola": {
       "ok": true,
@@ -70,7 +70,7 @@
     },
     "ayto-badia": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "ayto-sant-quirze": {
       "ok": true,
@@ -81,6 +81,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-23T09:22:54.281Z",
-  "actualizado": "2026-11-23T09:23:12.963Z"
+  "consultat": "2026-11-23T10:35:41.479Z",
+  "actualizado": "2026-11-23T10:35:58.799Z"
 }

@@ -1,300 +1,6 @@
 {
   "eventos": [
     {
-      "id": "6cb1d6deb8e43b96",
-      "t": "2026-11-18T15:34:16.110Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): successos, obres i urbanisme, salut.",
-      "itemId": "136886ff91823da8"
-    },
-    {
-      "id": "b31f7b6239c8b4d7",
-      "t": "2026-11-18T16:40:16.097Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Comuns-Front Ampli situa l'habitatge digne al centre de la campanya a Sabadell» (Diari de Sabadell).",
-      "itemId": "657c8ac1b547470f"
-    },
-    {
-      "id": "694885633834111a",
-      "t": "2026-11-18T16:40:16.098Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Emergències, Obres i urbanisme.",
-      "itemId": "657c8ac1b547470f"
-    },
-    {
-      "id": "2d0fb31f0eb44500",
-      "t": "2026-11-18T16:40:16.099Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): emergències, obres i urbanisme.",
-      "itemId": "657c8ac1b547470f"
-    },
-    {
-      "id": "bf4d0186aaee158b",
-      "t": "2026-11-18T16:40:16.100Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El Centre concentra gairebé un de cada quatre nous habitants de Sabadell» (Diari de Sabadell).",
-      "itemId": "dca641366ddde93d"
-    },
-    {
-      "id": "d66f591793470762",
-      "t": "2026-11-18T16:40:16.101Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Castellar encendrà els llums de Nadal el dijous 26» (L'Actual - Castellar del Vallès).",
-      "itemId": "b2828c306b4cdffa"
-    },
-    {
-      "id": "db1bbcd892530bec",
-      "t": "2026-11-18T16:40:16.102Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Veïns de Bellaterra convoquen una concentració per defensar l’annexió a Sant Cugat» (Diari de Sabadell).",
-      "itemId": "0189db46900a0e02"
-    },
-    {
-      "id": "c4ea278f4a6cdf39",
-      "t": "2026-11-18T16:40:16.103Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Rodalies modifica el servei dels primers i últims trens del cap de setmana de la línia R4 fins al 21 de febrer» (Diari de Sabadell).",
-      "itemId": "efcfffa116c03109"
-    },
-    {
-      "id": "421dbb6bf18c5f3a",
-      "t": "2026-11-18T16:40:16.104Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat, Salut.",
-      "itemId": "efcfffa116c03109"
-    },
-    {
-      "id": "0bdd4bcc00e9b640",
-      "t": "2026-11-18T16:40:16.105Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): mobilitat, salut.",
-      "itemId": "efcfffa116c03109"
-    },
-    {
-      "id": "bf6173d68d5e4783",
-      "t": "2026-11-18T16:40:16.106Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Barrio» (Ràdio Sabadell).",
-      "itemId": "2ff777fd3c886d2a"
-    },
-    {
-      "id": "30d0411fd1f61b63",
-      "t": "2026-11-18T16:40:16.107Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Transhumància» (Ràdio Sabadell).",
-      "itemId": "ca536f9ff54516e4"
-    },
-    {
-      "id": "08cdd9068bb02ee3",
-      "t": "2026-11-18T16:40:16.108Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Veler d'Agost» (Ràdio Sabadell).",
-      "itemId": "ae811251015271f4"
-    },
-    {
-      "id": "3bea1dccfeec3eed",
-      "t": "2026-11-18T16:40:16.109Z",
-      "agente": "rastreador",
-      "texto": "He recollit «En La Estación» (Ràdio Sabadell).",
-      "itemId": "1095788b60888564"
-    },
-    {
-      "id": "8f70e12bd7aca59c",
-      "t": "2026-11-18T16:40:16.110Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Planimetria» (Ràdio Sabadell).",
-      "itemId": "72e844b07e3b4aaf"
-    },
-    {
-      "id": "2e311161beb8f121",
-      "t": "2026-11-18T17:38:42.761Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Premien el treball d'una universitària per transformar una antiga fàbrica en desús de Sabadell» (Diari de Sabadell).",
-      "itemId": "68b5ebcdc93edb3d"
-    },
-    {
-      "id": "f6c68d38b3a58805",
-      "t": "2026-11-18T17:38:42.762Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La Ciutat» (Ràdio Sabadell).",
-      "itemId": "ecf9875b43186bc4"
-    },
-    {
-      "id": "be04f93daf367676",
-      "t": "2026-11-18T17:38:42.763Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Barri» (Ràdio Sabadell).",
-      "itemId": "25d0114cdcf254be"
-    },
-    {
-      "id": "dc1e2d16c8632143",
-      "t": "2026-11-18T17:38:42.764Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Ametllers» (Ràdio Sabadell).",
-      "itemId": "cc47be0dac3f1561"
-    },
-    {
-      "id": "862f845b32e6aecc",
-      "t": "2026-11-18T17:38:42.765Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Cases Encantades» (Ràdio Sabadell).",
-      "itemId": "5febd70599bda0d8"
-    },
-    {
-      "id": "edbbf89fc76024f1",
-      "t": "2026-11-18T17:38:42.766Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La Ciutat Invisible» (Ràdio Sabadell).",
-      "itemId": "a0377b48769b6ecd"
-    },
-    {
-      "id": "348f82bc3363b7d4",
-      "t": "2026-11-18T17:38:42.767Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La Calle» (Ràdio Sabadell).",
-      "itemId": "2ab0dc5b962cd934"
-    },
-    {
-      "id": "8471c22edd1e2024",
-      "t": "2026-11-18T17:38:42.768Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Omplim» (Ràdio Sabadell).",
-      "itemId": "5392137093d5c0db"
-    },
-    {
-      "id": "bbfbb90d8b47bd4c",
-      "t": "2026-11-18T17:38:42.769Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La Ciutat» (Ràdio Sabadell).",
-      "itemId": "6781c049da528a4c"
-    },
-    {
-      "id": "146f098b86a36430",
-      "t": "2026-11-18T17:38:42.770Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Sabadell Dita» (Ràdio Sabadell).",
-      "itemId": "7a6b04cf8c25792d"
-    },
-    {
-      "id": "4d66635302736633",
-      "t": "2026-11-18T18:30:24.125Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Núria Perpinyà ens convida a explorar el cos humà amb la novel·la 'El cos invisible'» (Ajuntament de Cerdanyola del Vallès).",
-      "itemId": "5ea4598e65805b33"
-    },
-    {
-      "id": "90aab19df0a4fe04",
-      "t": "2026-11-18T18:30:24.126Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local, Obres i urbanisme, Educació, Cultura i festes.",
-      "itemId": "5ea4598e65805b33"
-    },
-    {
-      "id": "963bd6b21f0ba31b",
-      "t": "2026-11-18T18:30:24.127Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (5 punts): font oficial · política local, obres i urbanisme, educació.",
-      "itemId": "5ea4598e65805b33"
-    },
-    {
-      "id": "0862cc32f6fefaa0",
-      "t": "2026-11-18T18:30:24.128Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Un novembre amb el servei de Rodalies sota mínims a Sabadell i el Vallès» (Diari de Sabadell).",
-      "itemId": "2cb5dffaeddf33f8"
-    },
-    {
-      "id": "40e2d02328d73459",
-      "t": "2026-11-18T18:30:24.129Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat.",
-      "itemId": "2cb5dffaeddf33f8"
-    },
-    {
-      "id": "005dbf3115b24c89",
-      "t": "2026-11-18T18:30:24.130Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Palau al Dia - Notícies del 18/11/2026» (Ràdio Palau - Palau al Dia).",
-      "itemId": "955321a7672abda5"
-    },
-    {
-      "id": "5ca84b3c17236888",
-      "t": "2026-11-18T18:30:24.131Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Salut, Cultura i festes.",
-      "itemId": "955321a7672abda5"
-    },
-    {
-      "id": "d075b039644231c3",
-      "t": "2026-11-18T20:31:35.729Z",
-      "agente": "rastreador",
-      "texto": "He recollit «FOTOS | Els Pessebristes enllesteixen els preparatius de la 49a exposició» (Diari de Sabadell).",
-      "itemId": "45aac898977c0644"
-    },
-    {
-      "id": "4fab0c5d4a580cbe",
-      "t": "2026-11-18T20:31:35.730Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Cultura i festes.",
-      "itemId": "45aac898977c0644"
-    },
-    {
-      "id": "2dbfe5599d2787b5",
-      "t": "2026-11-18T20:31:35.731Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Utebo 0-3 Sabadell: la Copa del Rei, un bàlsam amb estrenes golejadores» (Ràdio Sabadell).",
-      "itemId": "d51b15dcb4ed3819"
-    },
-    {
-      "id": "79493609bc28bf5d",
-      "t": "2026-11-18T20:31:35.732Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Salut, Esports.",
-      "itemId": "d51b15dcb4ed3819"
-    },
-    {
-      "id": "9529f63b203a3fb4",
-      "t": "2026-11-18T20:31:35.733Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "d51b15dcb4ed3819"
-    },
-    {
-      "id": "a70959c312d2ab3c",
-      "t": "2026-11-18T20:31:35.734Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Els gols de l'Utebo FC 0-3 CE Sabadell» (Ràdio Sabadell).",
-      "itemId": "113dd603df22cec1"
-    },
-    {
-      "id": "bd47f6140ec20da3",
-      "t": "2026-11-18T20:31:35.735Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Astralpool CN Sabadell 10-11 Jadran Herceg Novi: una dolorosa remuntada que complica el top-8» (Ràdio Sabadell).",
-      "itemId": "42c428c1c2f288b8"
-    },
-    {
-      "id": "61ee46db823979c7",
-      "t": "2026-11-18T20:31:35.736Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Esports.",
-      "itemId": "42c428c1c2f288b8"
-    },
-    {
-      "id": "2e3ff35a1aa4b4d6",
-      "t": "2026-11-18T20:31:35.737Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El CE Sabadell es retroba amb la victòria amb contundència a la Copa» (Diari de Sabadell).",
-      "itemId": "23edf9919a4c3674"
-    },
-    {
-      "id": "b581d3ed162f96bc",
-      "t": "2026-11-18T20:31:35.738Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El Sabadell es passeja a Utebo i recupera sensacions (0-3)» (iSabadell).",
-      "itemId": "ed2c5220aa86cac1"
-    },
-    {
       "id": "85289158b2a37ad1",
       "t": "2026-11-18T20:31:35.739Z",
       "agente": "etiquetador",
@@ -2799,7 +2505,301 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Cultura i festes.",
       "itemId": "b9a89c7f6ebfe4ec"
+    },
+    {
+      "id": "1e961b69d96b96d9",
+      "t": "2026-11-23T10:35:41.479Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Taller d'autodefensa per a dones, al Complex Esportiu» (Ajuntament de Badia del Vallès).",
+      "itemId": "6f1b599fc10f1b6f"
+    },
+    {
+      "id": "5acb9c84752a3e14",
+      "t": "2026-11-23T10:35:41.480Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "6f1b599fc10f1b6f"
+    },
+    {
+      "id": "b7baa4a709bec51b",
+      "t": "2026-11-23T10:35:41.481Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Les entrades per visitar l'Ambaixador Reial es posaran a la venda el dijous 10 de desembre» (Ràdio Sabadell).",
+      "itemId": "3289a8987dbb6fd9"
+    },
+    {
+      "id": "cc17b431de61b378",
+      "t": "2026-11-23T10:35:41.482Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Economia i ocupació, Cultura i festes.",
+      "itemId": "3289a8987dbb6fd9"
+    },
+    {
+      "id": "cb8f384f4c231145",
+      "t": "2026-11-23T10:35:41.483Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "3289a8987dbb6fd9"
+    },
+    {
+      "id": "d4fba182e4eabb55",
+      "t": "2026-11-23T10:35:41.484Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La Moguda Gastronòmica 2026 incrementa un 50% les vendes» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "cf4a1b1aedcf774a"
+    },
+    {
+      "id": "07d761704b279563",
+      "t": "2026-11-23T10:35:41.485Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La tertúlia: la Caserna, Renfe i el 29-N» (Ràdio Sabadell).",
+      "itemId": "f960ecba6c870c0a"
+    },
+    {
+      "id": "d96b7a098ba6d7d7",
+      "t": "2026-11-23T10:35:41.486Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat.",
+      "itemId": "f960ecba6c870c0a"
+    },
+    {
+      "id": "58e52524d1ca3212",
+      "t": "2026-11-23T10:35:41.487Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La Policia Local ha interposat 91 denúncies per incompliment de l'Ordenança municipal de residus» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "73e201e9491182ba"
+    },
+    {
+      "id": "dd2f12746851b1d2",
+      "t": "2026-11-23T10:35:41.488Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Successos, Medi ambient.",
+      "itemId": "73e201e9491182ba"
+    },
+    {
+      "id": "3ded2ff4ee33e4f2",
+      "t": "2026-11-23T10:35:41.489Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): font oficial · successos, medi ambient.",
+      "itemId": "73e201e9491182ba"
+    },
+    {
+      "id": "2a7975738b472027",
+      "t": "2026-11-23T10:35:41.490Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El Black Friday i l'encesa de llums donen el tret de sortida a la campanya comercial del Nadal» (Ràdio Sabadell).",
+      "itemId": "2b874047e7f7b3ab"
+    },
+    {
+      "id": "1dd9fb4b1f2db9b4",
+      "t": "2026-11-23T10:35:41.491Z",
+      "agente": "rastreador",
+      "texto": "He recollit «'Aguamarina', un llibre provocador i juganer» (Ràdio Sabadell).",
+      "itemId": "b6f3fe7457064d7d"
+    },
+    {
+      "id": "3038bd3fe18fa364",
+      "t": "2026-11-23T10:35:41.492Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El Cercle Sabadellès amplia les seves instal·lacions en el marc del 170è aniversari» (Ràdio Sabadell).",
+      "itemId": "2cf8fb4b83cfd019"
+    },
+    {
+      "id": "10ceea972017585b",
+      "t": "2026-11-23T10:35:41.493Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat, Educació, Esports.",
+      "itemId": "2cf8fb4b83cfd019"
+    },
+    {
+      "id": "00d2de70a4bdf274",
+      "t": "2026-11-23T10:35:41.494Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "2cf8fb4b83cfd019"
+    },
+    {
+      "id": "b883ffccb946c7d7",
+      "t": "2026-11-23T10:35:41.495Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): mobilitat, educació.",
+      "itemId": "2cf8fb4b83cfd019"
+    },
+    {
+      "id": "115186384655cebc",
+      "t": "2026-11-23T10:35:41.496Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Nous castellanismes i com evitar-los» (Ràdio Sabadell).",
+      "itemId": "a5dd01d8e0e02953"
+    },
+    {
+      "id": "c32e7c617cc51b2a",
+      "t": "2026-11-23T10:35:41.497Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Pluja de regals i presentació de la Campanya de Nadal» (Ajuntament de Barberà del Vallès).",
+      "itemId": "5ae6307b0ee6a89e"
+    },
+    {
+      "id": "5cddd6d64dff7ab8",
+      "t": "2026-11-23T10:35:41.498Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Economia i ocupació, Medi ambient.",
+      "itemId": "5ae6307b0ee6a89e"
+    },
+    {
+      "id": "6d35ffe71ebd499b",
+      "t": "2026-11-23T10:35:41.499Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · economia i ocupació, medi ambient.",
+      "itemId": "5ae6307b0ee6a89e"
+    },
+    {
+      "id": "ab240ff569bfd3f8",
+      "t": "2026-11-23T10:35:41.500Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Encesa de les Llums de Nadal i inauguració del Pessebre» (Ajuntament de Barberà del Vallès).",
+      "itemId": "7b40ffe89d405d76"
+    },
+    {
+      "id": "a10c42439fc87388",
+      "t": "2026-11-23T10:35:41.501Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "7b40ffe89d405d76"
+    },
+    {
+      "id": "d99e10a3aea6b701",
+      "t": "2026-11-23T10:35:41.502Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Paco Aranda (PSC): \"Poca broma, el 30 de novembre pot ser massa tard\"» (Ràdio Sabadell).",
+      "itemId": "2337823a36b7a297"
+    },
+    {
+      "id": "6040bdda1ba54098",
+      "t": "2026-11-23T10:35:41.503Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local.",
+      "itemId": "2337823a36b7a297"
+    },
+    {
+      "id": "ad8d858419696a76",
+      "t": "2026-11-23T10:35:41.504Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Inauguració de la Campanya de Nadal del Mercat» (Ajuntament de Barberà del Vallès).",
+      "itemId": "a6cb0a40f3e66e50"
+    },
+    {
+      "id": "49a375cc420f4209",
+      "t": "2026-11-23T10:35:41.505Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Americana nadalenca de pàdel» (Ajuntament de Barberà del Vallès).",
+      "itemId": "4b47b524773d2ecd"
+    },
+    {
+      "id": "e2e81b5c03d14842",
+      "t": "2026-11-23T10:35:41.506Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "4b47b524773d2ecd"
+    },
+    {
+      "id": "077d6fcf48adb413",
+      "t": "2026-11-23T10:35:41.507Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Fira de Nadal» (Ajuntament de Barberà del Vallès).",
+      "itemId": "556038169907fcd6"
+    },
+    {
+      "id": "450bcb7e83cd876d",
+      "t": "2026-11-23T10:35:41.508Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "556038169907fcd6"
+    },
+    {
+      "id": "7983a292a76b1698",
+      "t": "2026-11-23T10:35:41.509Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Fira de Nadal» (Ajuntament de Barberà del Vallès).",
+      "itemId": "52b880207551f1db"
+    },
+    {
+      "id": "53301b7d6bdbf963",
+      "t": "2026-11-23T10:35:41.510Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "52b880207551f1db"
+    },
+    {
+      "id": "4d76c303eaf54f6a",
+      "t": "2026-11-23T10:35:41.511Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Fira de Nadal» (Ajuntament de Barberà del Vallès).",
+      "itemId": "b3b747049a618b13"
+    },
+    {
+      "id": "5491c88d34a522ac",
+      "t": "2026-11-23T10:35:41.512Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "b3b747049a618b13"
+    },
+    {
+      "id": "c36cd7af0e64960d",
+      "t": "2026-11-23T10:35:41.513Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Marc Braquer, The Rootsons: “A Sabadell hi ha un ecosistema que fa sentir acompanyat a l’emprenedor”» (Ràdio Sabadell).",
+      "itemId": "7fe585003184e9d8"
+    },
+    {
+      "id": "45b5672dd812609a",
+      "t": "2026-11-23T10:35:41.514Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Fira de Nadal» (Ajuntament de Barberà del Vallès).",
+      "itemId": "f79ea79d381a3991"
+    },
+    {
+      "id": "a5f5d299861f0509",
+      "t": "2026-11-23T10:35:41.515Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "f79ea79d381a3991"
+    },
+    {
+      "id": "21583bf0e5fa053a",
+      "t": "2026-11-23T10:35:41.516Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Torneig de futbol de La Marató de 3cat, categories sub11 i sub12» (Ajuntament de Barberà del Vallès).",
+      "itemId": "76405ccd85640fc1"
+    },
+    {
+      "id": "c680f00b0440c29b",
+      "t": "2026-11-23T10:35:41.517Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "76405ccd85640fc1"
+    },
+    {
+      "id": "6f899f9e03334a5c",
+      "t": "2026-11-23T10:35:41.518Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Pessebre de Nadal de l'AVV La Romànica» (Ajuntament de Barberà del Vallès).",
+      "itemId": "9a1085335cc025c7"
+    },
+    {
+      "id": "7730aa8ffeb1a1cf",
+      "t": "2026-11-23T10:35:41.519Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "9a1085335cc025c7"
+    },
+    {
+      "id": "27d2420e524825cd",
+      "t": "2026-11-23T10:35:41.520Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Cantada de Nadales» (Ajuntament de Barberà del Vallès).",
+      "itemId": "b5e7c7ed2aa6c3d5"
     }
   ],
-  "actualizado": "2026-11-23T09:23:12.965Z"
+  "actualizado": "2026-11-23T10:35:58.800Z"
 }
