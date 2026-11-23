@@ -2,7 +2,7 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-23T22:58:50.373Z",
+  "consultat": "2026-11-23T23:50:41.056Z",
   "total": 23,
   "activitats": [
     {
@@ -20,80 +20,10 @@
       "color": null
     },
     {
-      "titol": "(Paulino) gravació anunci Inmobiliaria Peritax",
-      "inici": "2026-11-23T09:00:00.000Z",
-      "final": "2026-11-23T10:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "Rdp PSC",
-      "inici": "2026-11-23T09:15:00.000Z",
-      "final": "2026-11-23T10:15:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "Gent de Sabadell",
-      "inici": "2026-11-23T10:00:00.000Z",
-      "final": "2026-11-23T11:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "(Ferran) Fals VIA15 Mercat Central",
-      "inici": "2026-11-23T11:30:00.000Z",
-      "final": "2026-11-23T12:30:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "(Joan) Acreditacions LaLiga",
-      "inici": "2026-11-23T14:00:00.000Z",
-      "final": "2026-11-23T14:30:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "L'Informatiu",
-      "inici": "2026-11-23T14:30:00.000Z",
-      "final": "2026-11-23T15:30:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "L'Arlequinat",
-      "inici": "2026-11-23T16:30:00.000Z",
-      "final": "2026-11-23T18:30:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "CX - VIA 15 (Actualitat)",
-      "inici": "2026-11-23T17:00:00.000Z",
-      "final": "2026-11-23T18:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "(Ferran) CNS classe prepart (Gran Via)",
-      "inici": "2026-11-23T17:30:00.000Z",
-      "final": "2026-11-23T18:15:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "Jornades Països Catalans",
-      "inici": "2026-11-23T18:00:00.000Z",
-      "final": "2026-11-23T19:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "(Ferran) LÍMIT REEL 1P, 19.45",
-      "inici": "2026-11-23T19:45:00.000Z",
-      "final": "2026-11-23T20:00:00.000Z",
-      "totElDia": false,
+      "titol": "PEÇA COMERÇ PALAU!!",
+      "inici": "2026-11-25T00:00:00.000Z",
+      "final": "2026-11-26T00:00:00.000Z",
+      "totElDia": true,
       "color": null
     },
     {
@@ -165,8 +95,78 @@
       "final": "2026-11-24T18:00:00.000Z",
       "totElDia": false,
       "color": null
+    },
+    {
+      "titol": "CNS Club Fit + 65",
+      "inici": "2026-11-25T09:30:00.000Z",
+      "final": "2026-11-25T10:30:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "Lorena entra",
+      "inici": "2026-11-25T10:00:00.000Z",
+      "final": "2026-11-25T10:30:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "Espai Obert",
+      "inici": "2026-11-25T10:00:00.000Z",
+      "final": "2026-11-25T11:30:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "(Josep Maria i Montse) Entrevista Front Ampli",
+      "inici": "2026-11-25T10:30:00.000Z",
+      "final": "2026-11-25T12:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "(Lorena) Decles a òptica pel VIA15",
+      "inici": "2026-11-25T11:30:00.000Z",
+      "final": "2026-11-25T12:30:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "(Ferran) ZOOM Decles VIA15 aFFac",
+      "inici": "2026-11-25T11:30:00.000Z",
+      "final": "2026-11-25T12:30:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "L'Informatiu",
+      "inici": "2026-11-25T15:00:00.000Z",
+      "final": "2026-11-25T16:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "Lorena marxa",
+      "inici": "2026-11-25T16:00:00.000Z",
+      "final": "2026-11-25T16:30:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "COTXE! (Ferran i becari) CX - VIA 15 (Conflicte docents)",
+      "inici": "2026-11-25T17:00:00.000Z",
+      "final": "2026-11-25T18:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "COTXE! (Ferran i becari) Acte central de Junts",
+      "inici": "2026-11-25T18:00:00.000Z",
+      "final": "2026-11-25T19:00:00.000Z",
+      "totElDia": false,
+      "color": null
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-23T22:59:24.203Z"
+  "actualizado": "2026-11-23T23:51:14.553Z"
 }

@@ -1,13 +1,6 @@
 {
   "eventos": [
     {
-      "id": "2d610fcb96f8df0a",
-      "t": "2026-11-20T09:06:58.938Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La Policia Local participa en un dispositiu KANPAI a l’estació de Rodalies de Barberà» (Ajuntament de Barberà del Vallès).",
-      "itemId": "46150db51a654ec2"
-    },
-    {
       "id": "35149e9b000fe0dc",
       "t": "2026-11-20T09:06:58.939Z",
       "agente": "etiquetador",
@@ -2799,7 +2792,14 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Política local.",
       "itemId": "c258f73951e58ed2"
+    },
+    {
+      "id": "54d8f82ad260a781",
+      "t": "2026-11-23T23:50:41.056Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L’INCIVISME TÉ UN COST. I EL PAGUEM ENTRE TOTS.» (Ajuntament de Sentmenat).",
+      "itemId": "5e6064a16e6b98e7"
     }
   ],
-  "actualizado": "2026-11-23T22:07:18.886Z"
+  "actualizado": "2026-11-23T23:50:55.531Z"
 }
