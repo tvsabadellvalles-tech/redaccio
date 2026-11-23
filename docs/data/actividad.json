@@ -1,97 +1,6 @@
 {
   "eventos": [
     {
-      "id": "0226dfbd5bb27935",
-      "t": "2026-11-19T13:20:29.531Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Se celebra la sessió ordinaria del mes de novembre del ple» (Ajuntament de Barberà del Vallès).",
-      "itemId": "9556a588a56b4a4e"
-    },
-    {
-      "id": "63c55e5281801085",
-      "t": "2026-11-19T13:20:29.532Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local, Obres i urbanisme, Esports, Cultura i festes.",
-      "itemId": "9556a588a56b4a4e"
-    },
-    {
-      "id": "ebe427f4423a7528",
-      "t": "2026-11-19T13:20:29.533Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "9556a588a56b4a4e"
-    },
-    {
-      "id": "47aa8119dae0538d",
-      "t": "2026-11-19T13:20:29.534Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): font oficial · política local, obres i urbanisme.",
-      "itemId": "9556a588a56b4a4e"
-    },
-    {
-      "id": "b0efe7eec420c80b",
-      "t": "2026-11-19T14:29:23.908Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La 49a Exposició de Pessebres estrenarà nova sala d'exposicions» (Ràdio Sabadell).",
-      "itemId": "cb88d1404258ee7c"
-    },
-    {
-      "id": "7348b150c85b4ab7",
-      "t": "2026-11-19T14:29:23.909Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Cultura i festes.",
-      "itemId": "cb88d1404258ee7c"
-    },
-    {
-      "id": "319a18c1c9749a14",
-      "t": "2026-11-19T14:29:23.910Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La campanya pel 29-N arriba a l'equador amb el cara a cara entre Sánchez i Feijóo en el punt de mira» (Ràdio Sabadell).",
-      "itemId": "5e89662e47fb0922"
-    },
-    {
-      "id": "c8ecb0d7e76c86b5",
-      "t": "2026-11-19T14:29:23.911Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El Sabadell s'apunta a una ronda més de copes» (Ràdio Sabadell).",
-      "itemId": "f7163b8478ecb111"
-    },
-    {
-      "id": "86f25ef78c19d006",
-      "t": "2026-11-19T14:29:23.912Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Setmana de l’Emprenedoria: 8 cites per acostar-se a l’aventura d’emprendre» (iSabadell).",
-      "itemId": "5fd413e26951e7fa"
-    },
-    {
-      "id": "93b3c60dd551034d",
-      "t": "2026-11-19T15:30:07.069Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Acampada als horts de Can Rull i Can Llong per \"impedir l’entrada de maquinària\" i \"protegir els gats\"» (Diari de Sabadell).",
-      "itemId": "cd934910d1b8e988"
-    },
-    {
-      "id": "594a10a13650326a",
-      "t": "2026-11-19T15:30:07.070Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Programa d'actuacións per al Parc de Sant Llorenç 2027-31» (L'Actual - Castellar del Vallès).",
-      "itemId": "96f9f17888c3b1e8"
-    },
-    {
-      "id": "8cec30b8405796cc",
-      "t": "2026-11-19T15:30:07.071Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Pi i Margall: de zona blava a pista esportiva?» (iSabadell).",
-      "itemId": "1900fd2f54b46823"
-    },
-    {
-      "id": "4eddc466adf438cf",
-      "t": "2026-11-19T15:30:07.072Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat, Política local, Esports.",
-      "itemId": "1900fd2f54b46823"
-    },
-    {
       "id": "a879acd1db734250",
       "t": "2026-11-19T15:30:07.073Z",
       "agente": "mesa",
@@ -2799,7 +2708,98 @@
       "agente": "mesa",
       "texto": "Proposo incloure-ho a l'escaleta (3 punts): emergències.",
       "itemId": "baaf736384c9afdc"
+    },
+    {
+      "id": "ae7e10737bbdce46",
+      "t": "2026-11-23T16:08:29.650Z",
+      "agente": "rastreador",
+      "texto": "He recollit «HP escull Sant Cugat del Vallès per instal·lar el seu centre de vendes europeu» (Diari de Sabadell).",
+      "itemId": "8cb128684450be6c"
+    },
+    {
+      "id": "5adaf0508094a572",
+      "t": "2026-11-23T16:08:29.651Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Una sabadellenca, a la convocatòria de la selecció catalana absoluta de futbol» (Diari de Sabadell).",
+      "itemId": "8251cc0d4d246697"
+    },
+    {
+      "id": "6317fa4ceef42a50",
+      "t": "2026-11-23T16:08:29.652Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "8251cc0d4d246697"
+    },
+    {
+      "id": "c90862bf738653ff",
+      "t": "2026-11-23T16:08:29.653Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La setmana gran d'Alain Ribeiro: doblet entre lliga i Copa» (Ràdio Sabadell).",
+      "itemId": "5ba724195a4e0c62"
+    },
+    {
+      "id": "1b598968be8bbbc6",
+      "t": "2026-11-23T16:08:29.654Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut, Esports.",
+      "itemId": "5ba724195a4e0c62"
+    },
+    {
+      "id": "9cec10f3bc930783",
+      "t": "2026-11-23T16:08:29.655Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Xevi Tortolero, cap de Xeviot Moda: ''La nostra signatura és l’atenció especialitzada, i això a les grans superfícies no ho trobes''» (Ràdio Sabadell).",
+      "itemId": "584948ff5f4262ec"
+    },
+    {
+      "id": "49d2bd8467fd5519",
+      "t": "2026-11-23T16:08:29.656Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut.",
+      "itemId": "584948ff5f4262ec"
+    },
+    {
+      "id": "1716278a87662a7b",
+      "t": "2026-11-23T16:08:29.657Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Comença la tercera fase de les obres de la canonada de Llevant a Sabadell» (Diari de Sabadell).",
+      "itemId": "a3c2310fae4b70ed"
+    },
+    {
+      "id": "70e0753a0d0c79c8",
+      "t": "2026-11-23T16:08:29.658Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Obres i urbanisme.",
+      "itemId": "a3c2310fae4b70ed"
+    },
+    {
+      "id": "dac40ba32ee3bbb7",
+      "t": "2026-11-23T16:08:29.659Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Trasllat temporal a unes noves aules per l'aparició de fongs i humitats a l'escola» (Diari de Sabadell).",
+      "itemId": "74d59582a4809d97"
+    },
+    {
+      "id": "3b77dcad1699a712",
+      "t": "2026-11-23T16:08:29.660Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Emergències, Educació.",
+      "itemId": "74d59582a4809d97"
+    },
+    {
+      "id": "f09237137ee33908",
+      "t": "2026-11-23T16:08:29.661Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): emergències, educació.",
+      "itemId": "74d59582a4809d97"
+    },
+    {
+      "id": "366d48d0b28032a0",
+      "t": "2026-11-23T16:08:29.662Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Un empat agredolç per recuperar sensacions: \"En els moments d'adversitat és quan apareix la convicció\"» (Diari de Sabadell).",
+      "itemId": "14cf54d4a1ecb6cc"
     }
   ],
-  "actualizado": "2026-11-23T13:59:54.103Z"
+  "actualizado": "2026-11-23T16:08:52.873Z"
 }

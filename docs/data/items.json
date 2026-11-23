@@ -104,6 +104,127 @@
   },
   "items": [
     {
+      "id": "14cf54d4a1ecb6cc",
+      "titulo": "Un empat agredolç per recuperar sensacions: \"En els moments d'adversitat és quan apareix la convicció\"",
+      "enlace": "https://www.diaridesabadell.com/esports/ferran-costa-centre-esports-sabadell-granada-declaracions-roda-de-premsa-empat-postpartit.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-23T16:00:45.000Z",
+      "detectado": "2026-11-23T16:08:29.650Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "74d59582a4809d97",
+      "titulo": "Trasllat temporal a unes noves aules per l'aparició de fongs i humitats a l'escola",
+      "enlace": "https://www.diaridesabadell.com/valles/montcada/mas-rampinyo-aulari-alumnes-trasllat-fongs-humitats.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "montcada"
+      ],
+      "publicado": "2026-11-23T15:43:52.000Z",
+      "detectado": "2026-11-23T16:08:29.650Z",
+      "sensible": false,
+      "etiquetas": [
+        "emergencias",
+        "educacion"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "emergències, educació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "a3c2310fae4b70ed",
+      "titulo": "Comença la tercera fase de les obres de la canonada de Llevant a Sabadell",
+      "enlace": "https://www.diaridesabadell.com/sabadell/inici-obres-canonada-llevant-aigues-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-23T15:27:24.000Z",
+      "detectado": "2026-11-23T16:08:29.650Z",
+      "sensible": false,
+      "etiquetas": [
+        "urbanismo"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "584948ff5f4262ec",
+      "titulo": "Xevi Tortolero, cap de Xeviot Moda: ''La nostra signatura és l’atenció especialitzada, i això a les grans superfícies no ho trobes''",
+      "enlace": "https://radiosabadell.fm/alacarta/audio/xevi-tortolero-cap-de-xeviot-moda-la-nostra-signatura-es-latencio-especialitzada-i",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-23T15:06:22.000Z",
+      "detectado": "2026-11-23T16:08:29.650Z",
+      "sensible": false,
+      "etiquetas": [
+        "salud"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "5ba724195a4e0c62",
+      "titulo": "La setmana gran d'Alain Ribeiro: doblet entre lliga i Copa",
+      "enlace": "https://radiosabadell.fm/esports/ce-sabadell/setmana-gran-alain-ribeiro-doblet-utebo-granada",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-23T15:06:07.000Z",
+      "detectado": "2026-11-23T16:08:29.650Z",
+      "sensible": false,
+      "etiquetas": [
+        "salud",
+        "deportes"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "baaf736384c9afdc",
       "titulo": "Una dotzena d'actuacions pel temporal de vent",
       "enlace": "https://www.lactual.cat/actualitat/dotzena-actuacions-temporal-vent_55426_102.html",
@@ -280,6 +401,27 @@
       "propuesta": false
     },
     {
+      "id": "8251cc0d4d246697",
+      "titulo": "Una sabadellenca, a la convocatòria de la selecció catalana absoluta de futbol",
+      "enlace": "https://www.diaridesabadell.com/esports/meri-munoz-portera-convocatoria-seleccio-catalana-femenina-absoluta-amistos-corea-del-sud.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-23T12:47:09.000Z",
+      "detectado": "2026-11-23T16:08:29.650Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "f10a894590b3f380",
       "titulo": "El PSC crida a les dones a votar: \"Sabadellenques, defenseu els vostres drets!\"",
       "enlace": "https://www.diaridesabadell.com/sabadell/psc-eleccions-generals-sabadell-dones-violencia.html",
@@ -312,6 +454,27 @@
       ],
       "publicado": "2026-11-23T12:24:20.000Z",
       "detectado": "2026-11-23T12:35:12.180Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "8cb128684450be6c",
+      "titulo": "HP escull Sant Cugat del Vallès per instal·lar el seu centre de vendes europeu",
+      "enlace": "https://www.diaridesabadell.com/diners/hp-sant-cugat-del-valles-barcelona-sales-center.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sant-cugat"
+      ],
+      "publicado": "2026-11-23T12:24:06.000Z",
+      "detectado": "2026-11-23T16:08:29.650Z",
       "sensible": false,
       "etiquetas": [],
       "puntuacion": 0,
@@ -1704,5 +1867,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-23T13:59:54.101Z"
+  "actualizado": "2026-11-23T16:08:52.869Z"
 }

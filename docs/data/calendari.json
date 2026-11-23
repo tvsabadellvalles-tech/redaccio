@@ -2,7 +2,7 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-23T15:02:15.023Z",
+  "consultat": "2026-11-23T16:08:29.650Z",
   "total": 23,
   "activitats": [
     {
@@ -146,16 +146,16 @@
       "color": null
     },
     {
-      "titol": "L'Informatiu",
-      "inici": "2026-11-24T15:00:00.000Z",
-      "final": "2026-11-24T16:00:00.000Z",
+      "titol": "Lorena marxa",
+      "inici": "2026-11-24T14:30:00.000Z",
+      "final": "2026-11-24T15:00:00.000Z",
       "totElDia": false,
       "color": null
     },
     {
-      "titol": "Lorena marxa",
+      "titol": "L'Informatiu",
       "inici": "2026-11-24T15:00:00.000Z",
-      "final": "2026-11-24T15:30:00.000Z",
+      "final": "2026-11-24T16:00:00.000Z",
       "totElDia": false,
       "color": null
     },
@@ -168,5 +168,5 @@
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-23T15:02:49.741Z"
+  "actualizado": "2026-11-23T16:09:11.108Z"
 }
