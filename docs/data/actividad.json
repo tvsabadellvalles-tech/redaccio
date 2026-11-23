@@ -1,125 +1,6 @@
 {
   "eventos": [
     {
-      "id": "56ca5c2be9aea4cc",
-      "t": "2026-11-19T12:04:48.369Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Educació.",
-      "itemId": "eeb8514988e1ff89"
-    },
-    {
-      "id": "c795a7abf310a15c",
-      "t": "2026-11-19T12:04:48.370Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Lluís Coloma, pianista: \"Amb Blue Lou Marini fem un concert molt energètic\"» (Ràdio Sabadell).",
-      "itemId": "7bcf6dadd6c7c5de"
-    },
-    {
-      "id": "e5dd6d279ce33a8b",
-      "t": "2026-11-19T12:04:48.371Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Cultura i festes.",
-      "itemId": "7bcf6dadd6c7c5de"
-    },
-    {
-      "id": "347cfd8814826af0",
-      "t": "2026-11-19T12:04:48.372Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Francesc Bartolomé, Agrupació de Pessebristes: \"El pessebre monumental manté la mateixa estructura\"» (Ràdio Sabadell).",
-      "itemId": "e850e742a2e8f3a8"
-    },
-    {
-      "id": "803a1a7ee93c61ab",
-      "t": "2026-11-19T12:04:48.373Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Què és el GTA6 i perquè hi ha tanta revolada?» (Ràdio Sabadell).",
-      "itemId": "9810706332bc54a7"
-    },
-    {
-      "id": "73de482117bead47",
-      "t": "2026-11-19T12:04:48.374Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Dubtes sobre el reciclatge dels envasos» (Ràdio Sabadell).",
-      "itemId": "0270e157b46596e4"
-    },
-    {
-      "id": "a8f29e1a7c430140",
-      "t": "2026-11-19T12:04:48.375Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Amunt El Teló 18/11/26» (Ràdio Sabadell).",
-      "itemId": "621a940e7fe51e80"
-    },
-    {
-      "id": "4c1233565d39ea35",
-      "t": "2026-11-19T12:04:48.376Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El CE Sabadell incrementa fins a un 66% el preu de les entrades davant el Granada CF» (Diari de Sabadell).",
-      "itemId": "c1c6d0dd92f2acb7"
-    },
-    {
-      "id": "07869f1a750d1ae9",
-      "t": "2026-11-19T12:04:48.377Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Esports.",
-      "itemId": "c1c6d0dd92f2acb7"
-    },
-    {
-      "id": "73f84d34ebb9fb44",
-      "t": "2026-11-19T13:20:29.523Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Can Gavarra acull la 5a Trobada Comunitat Vallès PAE, dedicada a la qualitat dels polígons industrials» (Ajuntament de Polinyà).",
-      "itemId": "cbcc2567bc435024"
-    },
-    {
-      "id": "559fc206c085fcb5",
-      "t": "2026-11-19T13:20:29.524Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Setmana dels Drets de la Inf�ncia, a Badia, del 20 de novembre al 4 de desembre» (Ajuntament de Badia del Vallès).",
-      "itemId": "c5ff46ea41e98bec"
-    },
-    {
-      "id": "759e47caa256c246",
-      "t": "2026-11-19T13:20:29.525Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El 22è outlet de CIPO recapta 28.000 euros per al futur centre de Can Gambús» (Ràdio Sabadell).",
-      "itemId": "c639c0c353d91c2c"
-    },
-    {
-      "id": "85022d1801ffe478",
-      "t": "2026-11-19T13:20:29.526Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Salut, Cultura i festes.",
-      "itemId": "c639c0c353d91c2c"
-    },
-    {
-      "id": "6cffef539d7a87f8",
-      "t": "2026-11-19T13:20:29.527Z",
-      "agente": "rastreador",
-      "texto": "He recollit «FGC incrementarà el servei els caps de setmana i festius previs a Nadal» (Diari de Sabadell).",
-      "itemId": "809e099a613f504e"
-    },
-    {
-      "id": "a0bedbec998ce646",
-      "t": "2026-11-19T13:20:29.528Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat.",
-      "itemId": "809e099a613f504e"
-    },
-    {
-      "id": "9b5e8c30776b00e4",
-      "t": "2026-11-19T13:20:29.529Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Valltech programa activitats per trobar espais de trobada i interconnexió entre empreses» (Ràdio Sabadell).",
-      "itemId": "2c30111e6cb6843a"
-    },
-    {
-      "id": "f29c5291826550a2",
-      "t": "2026-11-19T13:20:29.530Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Economia i ocupació.",
-      "itemId": "2c30111e6cb6843a"
-    },
-    {
       "id": "0226dfbd5bb27935",
       "t": "2026-11-19T13:20:29.531Z",
       "agente": "rastreador",
@@ -2799,7 +2680,126 @@
       "agente": "rastreador",
       "texto": "He recollit «El Real Sporting de Gijón, proper rival del CE Sabadell a la Copa» (iSabadell).",
       "itemId": "e6971aa24219a913"
+    },
+    {
+      "id": "44fdf13eb46ab9fc",
+      "t": "2026-11-23T13:59:34.964Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L'avinguda Tres està tallada al trànsit per obres d'asfaltat» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "6c2b71f5849c1846"
+    },
+    {
+      "id": "bb70c9791f8eda49",
+      "t": "2026-11-23T13:59:34.965Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat, Obres i urbanisme.",
+      "itemId": "6c2b71f5849c1846"
+    },
+    {
+      "id": "3c6dbe8cbeaafde6",
+      "t": "2026-11-23T13:59:34.966Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): font oficial · mobilitat, obres i urbanisme.",
+      "itemId": "6c2b71f5849c1846"
+    },
+    {
+      "id": "c46307e2eafd842b",
+      "t": "2026-11-23T13:59:34.967Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El PSC crida a les dones a votar: \"Sabadellenques, defenseu els vostres drets!\"» (Diari de Sabadell).",
+      "itemId": "f10a894590b3f380"
+    },
+    {
+      "id": "93d48fda5cd90f20",
+      "t": "2026-11-23T13:59:34.968Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Sant Quirze donarà la benvinguda al Nadal divendres 27 amb l'encesa de l'arbre» (Ajuntament de Sant Quirze del Vallès).",
+      "itemId": "bc7ae3b464819019"
+    },
+    {
+      "id": "05327a367bc7e8f3",
+      "t": "2026-11-23T13:59:34.969Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Hora del conte: Una de pastorets!» (Ajuntament de Barberà del Vallès).",
+      "itemId": "7049262cce2663a4"
+    },
+    {
+      "id": "56e1c6e56e54a1db",
+      "t": "2026-11-23T13:59:34.970Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La segona ronda de Copa, a la Nova Creu Alta: Sabadell-Sporting» (Ràdio Sabadell).",
+      "itemId": "0baddfa6e60066e4"
+    },
+    {
+      "id": "615d3dff56c4b717",
+      "t": "2026-11-23T13:59:34.971Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El Natació Sabadell s'imposa al Sant Just i regna en solitari la Primera Nacional» (Ràdio Sabadell).",
+      "itemId": "e920dd9bed4e968d"
+    },
+    {
+      "id": "8f516d2db3b346f8",
+      "t": "2026-11-23T13:59:34.972Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "e920dd9bed4e968d"
+    },
+    {
+      "id": "036c7032d383f496",
+      "t": "2026-11-23T13:59:34.973Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Correus ofereix el servei Bústia Ecommerce» (L'Actual - Castellar del Vallès).",
+      "itemId": "c2e148d8889b9400"
+    },
+    {
+      "id": "88448878a1f8f78f",
+      "t": "2026-11-23T13:59:34.974Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Aranda (PSC): “Catalunya ha de ser decisiva el 29-N”» (iSabadell).",
+      "itemId": "8a1b87e6686b028a"
+    },
+    {
+      "id": "ea57aa3787b3e67e",
+      "t": "2026-11-23T13:59:34.975Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local.",
+      "itemId": "8a1b87e6686b028a"
+    },
+    {
+      "id": "3200e97a9dcac39b",
+      "t": "2026-11-23T13:59:34.976Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El Ple municipal afronta l'últim tràmit abans de cedir l'antiga caserna al Parc Taulí» (Ràdio Sabadell).",
+      "itemId": "347cf6008943b5e5"
+    },
+    {
+      "id": "d9d905a923ead335",
+      "t": "2026-11-23T13:59:34.977Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local.",
+      "itemId": "347cf6008943b5e5"
+    },
+    {
+      "id": "a12c70c3c98190aa",
+      "t": "2026-11-23T13:59:34.978Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Una dotzena d'actuacions pel temporal de vent» (L'Actual - Castellar del Vallès).",
+      "itemId": "baaf736384c9afdc"
+    },
+    {
+      "id": "cecad90d2a4f79ce",
+      "t": "2026-11-23T13:59:34.979Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Emergències.",
+      "itemId": "baaf736384c9afdc"
+    },
+    {
+      "id": "0a58b9225301196d",
+      "t": "2026-11-23T13:59:34.980Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): emergències.",
+      "itemId": "baaf736384c9afdc"
     }
   ],
-  "actualizado": "2026-11-23T12:35:29.003Z"
+  "actualizado": "2026-11-23T13:59:54.103Z"
 }

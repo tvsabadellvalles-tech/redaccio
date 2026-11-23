@@ -104,6 +104,201 @@
   },
   "items": [
     {
+      "id": "baaf736384c9afdc",
+      "titulo": "Una dotzena d'actuacions pel temporal de vent",
+      "enlace": "https://www.lactual.cat/actualitat/dotzena-actuacions-temporal-vent_55426_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-23T13:38:38.000Z",
+      "detectado": "2026-11-23T13:59:34.964Z",
+      "sensible": false,
+      "etiquetas": [
+        "emergencias"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "emergències"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "347cf6008943b5e5",
+      "titulo": "El Ple municipal afronta l'últim tràmit abans de cedir l'antiga caserna al Parc Taulí",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-migdia-desafectacio-caserna-ple-231126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-23T13:29:55.000Z",
+      "detectado": "2026-11-23T13:59:34.964Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "8a1b87e6686b028a",
+      "titulo": "Aranda (PSC): “Catalunya ha de ser decisiva el 29-N”",
+      "enlace": "https://www.isabadell.cat/politica/aranda-els-vots-dels-catalans-seran-decisius-el-29-n-341429/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-23T13:25:25.000Z",
+      "detectado": "2026-11-23T13:59:34.964Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "c2e148d8889b9400",
+      "titulo": "Correus ofereix el servei Bústia Ecommerce",
+      "enlace": "https://www.lactual.cat/actualitat/correus-ofereix-servei-bustia-ecommerce_55427_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-23T13:23:25.000Z",
+      "detectado": "2026-11-23T13:59:34.964Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "e920dd9bed4e968d",
+      "titulo": "El Natació Sabadell s'imposa al Sant Just i regna en solitari la Primera Nacional",
+      "enlace": "https://radiosabadell.fm/esports/altres-esports/voleibol/natacio-sabadell-sant-just-primera-2627",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-23T13:11:57.000Z",
+      "detectado": "2026-11-23T13:59:34.964Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "0baddfa6e60066e4",
+      "titulo": "La segona ronda de Copa, a la Nova Creu Alta: Sabadell-Sporting",
+      "enlace": "https://radiosabadell.fm/podcast/hotel-suis-231126-copa-sporting",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-23T13:03:18.000Z",
+      "detectado": "2026-11-23T13:59:34.964Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "7049262cce2663a4",
+      "titulo": "Hora del conte: Una de pastorets!",
+      "enlace": "https://www.bdv.cat/agenda/hora-del-conte-una-de-pastorets",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "HORA DEL CONTE: UNA DE PASTORETS! Espectacle de Nadal amb titelles, a càrrec de Rosa Fité Edat recomenada a partir de 4 anys. Entrada gratuïta amb inscripció a partir de l'11 de desembre Aforament limitat",
+      "municipio": "barbera",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-23T12:57:00.000Z",
+      "detectado": "2026-11-23T13:59:34.964Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "bc7ae3b464819019",
+      "titulo": "Sant Quirze donarà la benvinguda al Nadal divendres 27 amb l'encesa de l'arbre",
+      "enlace": "https://www.santquirzevalles.cat/actualitat/noticies/sant-quirze-donara-la-benvinguda-al-nadal-divendres-27-amb-lencesa-de-larbre",
+      "fuente": "ayto-sant-quirze",
+      "fuenteNombre": "Ajuntament de Sant Quirze del Vallès",
+      "tipo": "oficial",
+      "resumen": "L'acte inaugurarà el Cicle Nadalenc, amb més de 90 activitats per a tots els públics",
+      "municipio": "sant-quirze",
+      "municipiosMencionados": [
+        "sant-quirze"
+      ],
+      "publicado": "2026-11-23T12:55:34.000Z",
+      "detectado": "2026-11-23T13:59:34.964Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "f10a894590b3f380",
+      "titulo": "El PSC crida a les dones a votar: \"Sabadellenques, defenseu els vostres drets!\"",
+      "enlace": "https://www.diaridesabadell.com/sabadell/psc-eleccions-generals-sabadell-dones-violencia.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-23T12:40:14.000Z",
+      "detectado": "2026-11-23T13:59:34.964Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "e6971aa24219a913",
       "titulo": "El Real Sporting de Gijón, proper rival del CE Sabadell a la Copa",
       "enlace": "https://www.isabadell.cat/esports/futbol/el-ce-sabadell-ja-coneix-el-proper-rival-a-la-copa-del-rei-341418/",
@@ -464,6 +659,31 @@
       "motivos": [],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "6c2b71f5849c1846",
+      "titulo": "L'avinguda Tres està tallada al trànsit per obres d'asfaltat",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/lavinguda-tres-esta-tallada-al-transit-per-obres-dasfaltat.html",
+      "fuente": "ayto-santa-perpetua",
+      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
+      "tipo": "oficial",
+      "resumen": "El tram afectat és el comprès entre el carrer U i la rotonda situada a l’altura de l’avinguda de l’Estela Ibèrica.",
+      "municipio": "santa-perpetua",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-23T11:05:00.000Z",
+      "detectado": "2026-11-23T13:59:34.964Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad",
+        "urbanismo"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "font oficial",
+        "mobilitat, obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
     },
     {
       "id": "1860717acfeb901a",
@@ -1484,5 +1704,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-23T12:35:28.998Z"
+  "actualizado": "2026-11-23T13:59:54.101Z"
 }
