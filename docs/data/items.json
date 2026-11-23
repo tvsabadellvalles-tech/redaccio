@@ -104,6 +104,56 @@
   },
   "items": [
     {
+      "id": "5ea8efd05d81d438",
+      "titulo": "Compromís municipal per regularitzar els lloguers del bloc de Gràcia",
+      "enlace": "https://radiosabadell.fm/actualitat/politica/compromis-municipal-regularitzar-lloguers-del-bloc-de-gracia",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-23T19:27:48.000Z",
+      "detectado": "2026-11-23T20:17:05.165Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica",
+        "urbanismo"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "política local, obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "a61d3b27625e7b48",
+      "titulo": "El ple, a favor de regularitzar les famílies del bloc de la PAH a Gràcia",
+      "enlace": "https://www.isabadell.cat/politica/ple-municipal/el-ple-a-favor-de-regularitzar-les-families-del-bloc-de-la-pah-a-gracia-341480/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-23T19:27:40.000Z",
+      "detectado": "2026-11-23T20:17:05.165Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica",
+        "urbanismo"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "política local, obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
       "id": "7baeffe8f2b93f71",
       "titulo": "El ple de Sabadell reconeix la lluita del moviment veïnal i les reivindicacions pendents als barris",
       "enlace": "https://www.diaridesabadell.com/sabadell/el-ple-de-sabadell-reconeix-la-lluita-del-moviment-veinal-i-les-reivindicacions-pendents-als-barris.html",
@@ -2164,5 +2214,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-23T19:17:01.177Z"
+  "actualizado": "2026-11-23T20:17:22.039Z"
 }

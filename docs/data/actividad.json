@@ -1,48 +1,6 @@
 {
   "eventos": [
     {
-      "id": "81b875c125fdccb2",
-      "t": "2026-11-20T08:04:37.924Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Indubio estrena 'Sabatilles'» (Diari de Sabadell).",
-      "itemId": "e9495805d8457d16"
-    },
-    {
-      "id": "3ee53c8b0041f78c",
-      "t": "2026-11-20T08:04:37.925Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La sorra ha de tornar als jocs infantils? \"Els nens han de caure i saber què es trobaran\"» (Diari de Sabadell).",
-      "itemId": "ad7f1628dd9144d2"
-    },
-    {
-      "id": "80fa715aa7a3e70f",
-      "t": "2026-11-20T08:04:37.926Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "ad7f1628dd9144d2"
-    },
-    {
-      "id": "3246e15d4f6f93f6",
-      "t": "2026-11-20T08:04:37.927Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El MTIV busca antics comerciants per recuperar la seva memòria» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "a6643a0425d1de4e"
-    },
-    {
-      "id": "868ce43c7f3181aa",
-      "t": "2026-11-20T08:04:37.928Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Economia i ocupació.",
-      "itemId": "a6643a0425d1de4e"
-    },
-    {
-      "id": "64ca25ce62734483",
-      "t": "2026-11-20T08:04:37.929Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Les Milles de Cerdanyola celebren la seva 38a edició» (Ajuntament de Cerdanyola del Vallès).",
-      "itemId": "960e3bdf5334131e"
-    },
-    {
       "id": "6d84555df6c10d2c",
       "t": "2026-11-20T08:04:37.930Z",
       "agente": "etiquetador",
@@ -2799,7 +2757,49 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Política local.",
       "itemId": "7baeffe8f2b93f71"
+    },
+    {
+      "id": "c96e5e5bb43f4291",
+      "t": "2026-11-23T20:17:05.165Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El ple, a favor de regularitzar les famílies del bloc de la PAH a Gràcia» (iSabadell).",
+      "itemId": "a61d3b27625e7b48"
+    },
+    {
+      "id": "d48b205a2bed67d2",
+      "t": "2026-11-23T20:17:05.166Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local, Obres i urbanisme.",
+      "itemId": "a61d3b27625e7b48"
+    },
+    {
+      "id": "f19e82e3cc69ffa8",
+      "t": "2026-11-23T20:17:05.167Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): política local, obres i urbanisme.",
+      "itemId": "a61d3b27625e7b48"
+    },
+    {
+      "id": "34707419e08c1015",
+      "t": "2026-11-23T20:17:05.168Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Compromís municipal per regularitzar els lloguers del bloc de Gràcia» (Ràdio Sabadell).",
+      "itemId": "5ea8efd05d81d438"
+    },
+    {
+      "id": "543bd062f1a66431",
+      "t": "2026-11-23T20:17:05.169Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local, Obres i urbanisme.",
+      "itemId": "5ea8efd05d81d438"
+    },
+    {
+      "id": "6c2b718c6edd804a",
+      "t": "2026-11-23T20:17:05.170Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): política local, obres i urbanisme.",
+      "itemId": "5ea8efd05d81d438"
     }
   ],
-  "actualizado": "2026-11-23T19:17:01.181Z"
+  "actualizado": "2026-11-23T20:17:22.043Z"
 }
