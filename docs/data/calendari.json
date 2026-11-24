@@ -2,8 +2,8 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-24T14:02:55.563Z",
-  "total": 23,
+  "consultat": "2026-11-24T15:04:27.030Z",
+  "total": 24,
   "activitats": [
     {
       "titol": "PAULINO NO VE",
@@ -111,9 +111,16 @@
       "color": null
     },
     {
-      "titol": "(Lorena) Decles a òptica pel VIA15",
+      "titol": "(Pep) Decles a òptica pel VIA15",
       "inici": "2026-11-25T10:30:00.000Z",
       "final": "2026-11-25T11:30:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "Acte central 25N",
+      "inici": "2026-11-25T11:00:00.000Z",
+      "final": "2026-11-25T12:00:00.000Z",
       "totElDia": false,
       "color": null
     },
@@ -168,5 +175,5 @@
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-24T14:03:37.717Z"
+  "actualizado": "2026-11-24T15:04:57.797Z"
 }

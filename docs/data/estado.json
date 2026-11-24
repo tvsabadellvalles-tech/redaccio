@@ -2,7 +2,7 @@
   "fuentes": {
     "isabadell": {
       "ok": true,
-      "items": 7
+      "items": 8
     },
     "radio-sabadell": {
       "ok": true,
@@ -22,7 +22,7 @@
     },
     "ayto-castellar": {
       "ok": true,
-      "items": 2
+      "items": 3
     },
     "ayto-sentmenat": {
       "ok": true,
@@ -50,7 +50,7 @@
     },
     "ayto-montcada": {
       "ok": true,
-      "items": 1
+      "items": 2
     },
     "avisos-montcada": {
       "ok": true,
@@ -81,6 +81,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-24T14:02:55.563Z",
-  "actualizado": "2026-11-24T14:03:13.611Z"
+  "consultat": "2026-11-24T15:04:27.030Z",
+  "actualizado": "2026-11-24T15:04:40.603Z"
 }

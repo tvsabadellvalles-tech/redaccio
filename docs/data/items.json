@@ -104,6 +104,48 @@
   },
   "items": [
     {
+      "id": "f75de185ad4b6e81",
+      "titulo": "El Black Friday aterra al comerç local",
+      "enlace": "https://www.lactual.cat/actualitat/black-friday-aterra-comerc-local_55433_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-24T14:47:49.000Z",
+      "detectado": "2026-11-24T15:04:27.030Z",
+      "sensible": false,
+      "etiquetas": [
+        "economia"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "economia i ocupació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "6368fde0b838fb3b",
+      "titulo": "La futura residència de CIPO podria entrar en funcionament el 2028",
+      "enlace": "https://www.isabadell.cat/societat/la-futura-residencia-de-cipo-podria-entrar-en-funcionament-el-2028-341544/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-24T14:14:53.000Z",
+      "detectado": "2026-11-24T15:04:27.030Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "013cb532ed31bef6",
       "titulo": "El conseller Raül Moreno visita la nova llar residència-centre ocupacional de Can Gambús",
       "enlace": "https://radiosabadell.fm/podcast/noticies-migdia-visita-obres-residencia-can-gambus-241126",
@@ -1823,7 +1865,33 @@
       ],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "04076576f085cb9e",
+      "titulo": "La regidoria de Comerç obre les inscripcions per participar a la Fira de Nadal 2026",
+      "enlace": "https://www.montcada.cat/actualitat/noticies/la-regidoria-de-comerc-obre-les-inscripcions-per-participar-a-la-fira-de-nadal-2026.html",
+      "fuente": "ayto-montcada",
+      "fuenteNombre": "Ajuntament de Montcada i Reixac",
+      "tipo": "oficial",
+      "resumen": "",
+      "municipio": "montcada",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-23T23:00:00.000Z",
+      "detectado": "2026-11-24T15:04:27.030Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica",
+        "economia",
+        "cultura"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "font oficial",
+        "política local, economia i ocupació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
     }
   ],
-  "actualizado": "2026-11-24T14:03:13.608Z"
+  "actualizado": "2026-11-24T15:04:40.600Z"
 }

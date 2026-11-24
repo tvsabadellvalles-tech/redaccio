@@ -1,48 +1,6 @@
 {
   "eventos": [
     {
-      "id": "2370e2f974be097f",
-      "t": "2026-11-21T12:53:27.463Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "da2149452fdae43c"
-    },
-    {
-      "id": "8fa993b81ed1bcdc",
-      "t": "2026-11-21T12:53:27.464Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): política local, salut.",
-      "itemId": "da2149452fdae43c"
-    },
-    {
-      "id": "337bebf9b9824a21",
-      "t": "2026-11-21T12:53:27.465Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Una oda als drets dels més petits: el Consell d’Infants de Sabadell reivindica \"una ciutat inclusiva i sense discriminacions\"» (Diari de Sabadell).",
-      "itemId": "aced6de8ca083da1"
-    },
-    {
-      "id": "71ea3ca31e2c3c87",
-      "t": "2026-11-21T12:53:27.466Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "aced6de8ca083da1"
-    },
-    {
-      "id": "290bc0e299cc6579",
-      "t": "2026-11-21T13:50:30.166Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La plaça de la Infància, epicentre de la celebració del Dia Universal dels Drets dels Infants» (Ràdio Sabadell).",
-      "itemId": "2ee5227fbd6f36aa"
-    },
-    {
-      "id": "40297322d1a31223",
-      "t": "2026-11-21T13:50:30.167Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local, Esports.",
-      "itemId": "2ee5227fbd6f36aa"
-    },
-    {
       "id": "ed64d3441914efd3",
       "t": "2026-11-21T13:50:30.168Z",
       "agente": "vigilante",
@@ -2799,7 +2757,49 @@
       "agente": "rastreador",
       "texto": "He recollit «El conseller Raül Moreno visita la nova llar residència-centre ocupacional de Can Gambús» (Ràdio Sabadell).",
       "itemId": "013cb532ed31bef6"
+    },
+    {
+      "id": "003972a447d00150",
+      "t": "2026-11-24T15:04:27.030Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La regidoria de Comerç obre les inscripcions per participar a la Fira de Nadal 2026» (Ajuntament de Montcada i Reixac).",
+      "itemId": "04076576f085cb9e"
+    },
+    {
+      "id": "8b3b0596a8676ad3",
+      "t": "2026-11-24T15:04:27.031Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local, Economia i ocupació, Cultura i festes.",
+      "itemId": "04076576f085cb9e"
+    },
+    {
+      "id": "a493592cf90d3650",
+      "t": "2026-11-24T15:04:27.032Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): font oficial · política local, economia i ocupació.",
+      "itemId": "04076576f085cb9e"
+    },
+    {
+      "id": "a57713c0b1da59d7",
+      "t": "2026-11-24T15:04:27.033Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La futura residència de CIPO podria entrar en funcionament el 2028» (iSabadell).",
+      "itemId": "6368fde0b838fb3b"
+    },
+    {
+      "id": "b58626e90d7ee2e4",
+      "t": "2026-11-24T15:04:27.034Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El Black Friday aterra al comerç local» (L'Actual - Castellar del Vallès).",
+      "itemId": "f75de185ad4b6e81"
+    },
+    {
+      "id": "d074e3dc0f95fdbf",
+      "t": "2026-11-24T15:04:27.035Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Economia i ocupació.",
+      "itemId": "f75de185ad4b6e81"
     }
   ],
-  "actualizado": "2026-11-24T14:03:13.614Z"
+  "actualizado": "2026-11-24T15:04:40.606Z"
 }
