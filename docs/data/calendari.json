@@ -2,7 +2,7 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-24T08:24:44.349Z",
+  "consultat": "2026-11-24T09:41:37.077Z",
   "total": 21,
   "activitats": [
     {
@@ -62,7 +62,7 @@
       "color": null
     },
     {
-      "titol": "CN Sabadell F - Echeyde",
+      "titol": "(Ferran) CN Sabadell F - Echeyde",
       "inici": "2026-11-24T14:00:00.000Z",
       "final": "2026-11-24T15:00:00.000Z",
       "totElDia": false,
@@ -83,7 +83,7 @@
       "color": null
     },
     {
-      "titol": "CNS Club Fit + 65",
+      "titol": "(Pep) CNS Club Fit + 65",
       "inici": "2026-11-25T09:30:00.000Z",
       "final": "2026-11-25T10:30:00.000Z",
       "totElDia": false,
@@ -112,8 +112,8 @@
     },
     {
       "titol": "(Lorena) Decles a òptica pel VIA15",
-      "inici": "2026-11-25T11:30:00.000Z",
-      "final": "2026-11-25T12:30:00.000Z",
+      "inici": "2026-11-25T10:30:00.000Z",
+      "final": "2026-11-25T11:30:00.000Z",
       "totElDia": false,
       "color": null
     },
@@ -154,5 +154,5 @@
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-24T08:25:22.621Z"
+  "actualizado": "2026-11-24T09:42:19.041Z"
 }

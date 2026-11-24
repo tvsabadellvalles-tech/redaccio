@@ -104,6 +104,218 @@
   },
   "items": [
     {
+      "id": "ae5c25963f588d09",
+      "titulo": "Taller de cuina per a persones adultes: Fem galetes de Nadal!",
+      "enlace": "https://www.bdv.cat/agenda/taller-de-cuina-persones-adultes-fem-galetes-de-nadal",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "TALLER DE CUINA PER A PERSONES ADULTES: APERITIUS INTERACTIUS DE CAP D'ANY Taller creatiu de receptes i aperitius per a la celebració de la nit de Cap d'Any Organitza: Mercat Onze de Setembre",
+      "municipio": "barbera",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-24T09:41:00.000Z",
+      "detectado": "2026-11-24T09:41:37.077Z",
+      "sensible": false,
+      "etiquetas": [
+        "salud"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "font oficial",
+        "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "6f6a5d56edee558f",
+      "titulo": "Eleccions generals 29-N: Miquel Aguilar, segon suplent de Juntsn al Senat",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-mati-miquel-aguilar-junts-29N-241126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-24T09:32:59.000Z",
+      "detectado": "2026-11-24T09:41:37.077Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "df2d9d99a517270c",
+      "titulo": "Gran Sorteig de Nadal del Mercat",
+      "enlace": "https://www.bdv.cat/agenda/gran-sorteig-de-nadal-del-mercat",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "GRAN SORTEIG DE NADAL DEL MERCAT Sorteig de premis entre totes les butlletes de compra recollides durant la campanya Organitza: Mercat Onze de Setembre",
+      "municipio": "barbera",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-24T09:30:00.000Z",
+      "detectado": "2026-11-24T09:41:37.077Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "24a6ba05f792f9a5",
+      "titulo": "Taller de tions i tiones",
+      "enlace": "https://www.bdv.cat/agenda/taller-de-tions-i-tiones",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "TALLER DE TIONS I TIONES Taller de manualitats infantils per crear tions. Reserva la teva plaça a la web del mercat a partir del 14 de desembre a les 12 h Organitza: Mercat Onze de Setembre",
+      "municipio": "barbera",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-24T09:26:00.000Z",
+      "detectado": "2026-11-24T09:41:37.077Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "6968a53a4188446b",
+      "titulo": "Gerard Quintana, cantant: \"Sabadell és la referència dels festivals\"",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/gerard-quintana-cantant-sabadell-referencia",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-24T09:15:24.000Z",
+      "detectado": "2026-11-24T09:41:37.077Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "9bdc0751afd0dcf1",
+      "titulo": "Cantada de llúcies escolar itinerant",
+      "enlace": "https://www.bdv.cat/agenda/cantada-de-llucies-escolar-itinerant",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "CANTADA DE LLÚCIES ESCOLAR ITINERANT 9.30 h - Al pati de l'escola (Educació Infantil) 10 h - A les escales del TMC (Cicle Mitjà) 11 h - Al Mercat 11 de Setembre (Cicle Inicial) 11.45 h - Cantada conjunta de tota l'escola a la plaça de la…",
+      "municipio": "barbera",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-24T09:12:00.000Z",
+      "detectado": "2026-11-24T09:41:37.077Z",
+      "sensible": true,
+      "etiquetas": [
+        "educacion"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "font oficial",
+        "educació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "3b5c1a186ece676d",
+      "titulo": "Marta Pontnou: \"Des que naixem comparem els nostres cossos\"",
+      "enlace": "https://www.lactual.cat/actualitat/marta-pontnou-naixem-comparem-nostres-cossos_55430_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-24T09:00:07.000Z",
+      "detectado": "2026-11-24T09:41:37.077Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "70b66cd915e3bd8a",
+      "titulo": "Fèlix Colomer es queda a les portes de l'Emmy per 'Temps mort'",
+      "enlace": "https://www.diaridesabadell.com/oci-cultura/felix-colomer-temps-mort-documental.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-24T08:40:10.000Z",
+      "detectado": "2026-11-24T09:41:37.077Z",
+      "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "91f80aa69213c1eb",
+      "titulo": "Canvis en un dels col·legis electorals de Sabadell per a les eleccions d'aquest diumenge",
+      "enlace": "https://www.diaridesabadell.com/sabadell/canvis-colegi-electoral-eleccions-29n.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-24T08:36:03.000Z",
+      "detectado": "2026-11-24T09:41:37.077Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "60732c150bb7694b",
+      "titulo": "Miquel Aguilar, candidat de Junts al Senat: \"Parlem d'integrar i no d'expulsar\"",
+      "enlace": "https://radiosabadell.fm/actualitat/politica/miquel-aguilar-junts-entrevista-campanya-radio-sabadell",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-24T08:33:54.000Z",
+      "detectado": "2026-11-24T09:41:37.077Z",
+      "sensible": false,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "82a7140571c2f3c8",
       "titulo": "Teatre - Neu de Nadal",
       "enlace": "https://www.bdv.cat/agenda/teatre-neu-de-nadal",
@@ -169,6 +381,27 @@
       "motivos": [
         "mobilitat"
       ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "0dd7ed7a1aa5fad8",
+      "titulo": "Zurich redueix la seva participació al Banc Sabadell per sota del 3% després d'haver-la reforçat durant l'OPA del BBVA",
+      "enlace": "https://www.acn.cat/new/zurich-redueix-la-seva-participacio-al-banc-sabadell-per-sota-del-3-despres-dhaver-la-reforcat-durant-lopa-del-bbva/texts",
+      "fuente": "acn",
+      "fuenteNombre": "Agència Catalana de Notícies (ACN)",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-24T08:15:47.246Z",
+      "detectado": "2026-11-24T09:41:37.077Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
       "duplicadaDe": null,
       "propuesta": false
     },
@@ -438,7 +671,55 @@
       ],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "0010dd9e51b2a102",
+      "titulo": "Entren en servei el nou pas soterrat i els ascensors d’ús ciutadà de l’estació de tren de Montcada-Ripollet",
+      "enlace": "https://www.montcada.cat/actualitat/noticies/entren-en-servei-el-nou-pas-soterrat-i-els-ascensors-dus-ciutada-de-lestacio-de-tren-de-montcada-ripollet.html",
+      "fuente": "ayto-montcada",
+      "fuenteNombre": "Ajuntament de Montcada i Reixac",
+      "tipo": "oficial",
+      "resumen": "",
+      "municipio": "montcada",
+      "municipiosMencionados": [
+        "montcada",
+        "ripollet"
+      ],
+      "publicado": "2026-11-23T23:00:00.000Z",
+      "detectado": "2026-11-24T09:41:37.077Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "font oficial",
+        "mobilitat"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "a895fcf08f046e3a",
+      "titulo": "Sortida cultural a la Sagrada Fam�lia el 9 de desembre",
+      "enlace": "http://www.badiadelvalles.cat/document.php?id=12337",
+      "fuente": "ayto-badia",
+      "fuenteNombre": "Ajuntament de Badia del Vallès",
+      "tipo": "oficial",
+      "resumen": "",
+      "municipio": "badia",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-23T23:00:00.000Z",
+      "detectado": "2026-11-24T09:41:37.077Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
     }
   ],
-  "actualizado": "2026-11-24T08:25:01.468Z"
+  "actualizado": "2026-11-24T09:41:57.213Z"
 }

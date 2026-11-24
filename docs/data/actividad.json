@@ -1,146 +1,6 @@
 {
   "eventos": [
     {
-      "id": "40cf98e25ebbc6da",
-      "t": "2026-11-20T11:14:04.880Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Obres i urbanisme.",
-      "itemId": "6d8f2ad0dbc77941"
-    },
-    {
-      "id": "d0fd73965acb8220",
-      "t": "2026-11-20T11:14:04.881Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Conversem amb Gerard Quintana i Care Santos. Amb Jordina Puntí, cap de cultura; Rocío Garcia, tècnica de so.» (Ràdio Sabadell).",
-      "itemId": "d69c484cf3bf4ffe"
-    },
-    {
-      "id": "ae7f602fc5b0d570",
-      "t": "2026-11-20T11:14:04.882Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Salut, Cultura i festes.",
-      "itemId": "d69c484cf3bf4ffe"
-    },
-    {
-      "id": "abbf1d9feb673b8d",
-      "t": "2026-11-20T11:14:04.883Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Inauguració del Cafè Colors» (L'Actual - Castellar del Vallès).",
-      "itemId": "7fa65ca8f82bdd4a"
-    },
-    {
-      "id": "47a56f24f10f1790",
-      "t": "2026-11-20T11:14:04.884Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La tertúlia: Renfe o les eleccions del 29N» (Ràdio Sabadell).",
-      "itemId": "20ad07afb5f15eb6"
-    },
-    {
-      "id": "2f21673847e05f2a",
-      "t": "2026-11-20T11:14:04.885Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat.",
-      "itemId": "20ad07afb5f15eb6"
-    },
-    {
-      "id": "e9a703b55d67537e",
-      "t": "2026-11-20T11:14:04.886Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Irene Cordón, egiptòloga: \"El cristianisme copia molt dels mites egipcis\"» (Ràdio Sabadell).",
-      "itemId": "e667c76b45a1c29b"
-    },
-    {
-      "id": "3e19af4d88dee36c",
-      "t": "2026-11-20T11:14:04.887Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Viu el Nadal a SQV!» (Ajuntament de Sant Quirze del Vallès).",
-      "itemId": "81590ccee14ee242"
-    },
-    {
-      "id": "9f16d065f8312ed5",
-      "t": "2026-11-20T11:51:23.704Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El programa DOT 2026-2027 ofereix noves oportunitats de formació i inserció laboral» (Ajuntament de Sentmenat).",
-      "itemId": "bd672bedc03472a5"
-    },
-    {
-      "id": "b90fab681409de96",
-      "t": "2026-11-20T11:51:23.705Z",
-      "agente": "rastreador",
-      "texto": "He recollit «L’Outlet de CIPO recapta 28.000 euros per al centre d’atenció de Can Gambús» (iSabadell).",
-      "itemId": "da8915df9835444c"
-    },
-    {
-      "id": "d7f94ae2b0b8c00b",
-      "t": "2026-11-20T11:51:23.706Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Salut.",
-      "itemId": "da8915df9835444c"
-    },
-    {
-      "id": "ebe4282f59ab24db",
-      "t": "2026-11-20T11:51:23.707Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La setmana vinent s'asfaltarà un tram de l'avinguda Tres» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "c7f19d0457aea615"
-    },
-    {
-      "id": "ddc65bd885daa667",
-      "t": "2026-11-20T11:51:23.708Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Obres i urbanisme.",
-      "itemId": "c7f19d0457aea615"
-    },
-    {
-      "id": "1243fcdfebe8773d",
-      "t": "2026-11-20T11:51:23.709Z",
-      "agente": "rastreador",
-      "texto": "He recollit «'Error 404', un nou 'scape room' per apropar els drets humans als joves i adolescents» (Ràdio Sabadell).",
-      "itemId": "2434db90e3fee815"
-    },
-    {
-      "id": "b59b1eb5e2ffadeb",
-      "t": "2026-11-20T11:51:23.710Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Emergències, Salut, Educació.",
-      "itemId": "2434db90e3fee815"
-    },
-    {
-      "id": "78405c512cfefcd8",
-      "t": "2026-11-20T11:51:23.711Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "2434db90e3fee815"
-    },
-    {
-      "id": "4cb1ef50637a8a64",
-      "t": "2026-11-20T11:51:23.712Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): emergències, salut, educació.",
-      "itemId": "2434db90e3fee815"
-    },
-    {
-      "id": "ab51e28785faeedb",
-      "t": "2026-11-20T11:51:23.713Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Teoria King Kong, el dissabte 20 de novembre, a la Sala Telers» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "e35e16746c7eae43"
-    },
-    {
-      "id": "4d163bcb5057c2fb",
-      "t": "2026-11-20T11:51:23.714Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Una trentena d'estudiants de Sabadell es mobilitzen per defensar l'educació pública i la recuperació de les colònies» (Ràdio Sabadell).",
-      "itemId": "418ce24fc7abf7ba"
-    },
-    {
-      "id": "86d1e9f88c919c0a",
-      "t": "2026-11-20T11:51:23.715Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local, Educació, Medi ambient.",
-      "itemId": "418ce24fc7abf7ba"
-    },
-    {
       "id": "449c382c71190a76",
       "t": "2026-11-20T11:51:23.716Z",
       "agente": "mesa",
@@ -2799,7 +2659,147 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Cultura i festes.",
       "itemId": "82a7140571c2f3c8"
+    },
+    {
+      "id": "ba455fcd168d57a5",
+      "t": "2026-11-24T09:41:37.077Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Entren en servei el nou pas soterrat i els ascensors d’ús ciutadà de l’estació de tren de Montcada-Ripollet» (Ajuntament de Montcada i Reixac).",
+      "itemId": "0010dd9e51b2a102"
+    },
+    {
+      "id": "825429175d7852b7",
+      "t": "2026-11-24T09:41:37.078Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat.",
+      "itemId": "0010dd9e51b2a102"
+    },
+    {
+      "id": "9c0b2f9b8f077048",
+      "t": "2026-11-24T09:41:37.079Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · mobilitat.",
+      "itemId": "0010dd9e51b2a102"
+    },
+    {
+      "id": "6b204b47a7e20203",
+      "t": "2026-11-24T09:41:37.080Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Sortida cultural a la Sagrada Fam�lia el 9 de desembre» (Ajuntament de Badia del Vallès).",
+      "itemId": "a895fcf08f046e3a"
+    },
+    {
+      "id": "8cb283a4b860ae4a",
+      "t": "2026-11-24T09:41:37.081Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Zurich redueix la seva participació al Banc Sabadell per sota del 3% després d'haver-la reforçat durant l'OPA del BBVA» (Agència Catalana de Notícies (ACN)).",
+      "itemId": "0dd7ed7a1aa5fad8"
+    },
+    {
+      "id": "8a7fdc6e5e24dee1",
+      "t": "2026-11-24T09:41:37.082Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Miquel Aguilar, candidat de Junts al Senat: \"Parlem d'integrar i no d'expulsar\"» (Ràdio Sabadell).",
+      "itemId": "60732c150bb7694b"
+    },
+    {
+      "id": "8d67475b4de76db4",
+      "t": "2026-11-24T09:41:37.083Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "60732c150bb7694b"
+    },
+    {
+      "id": "86b198c0532e74fc",
+      "t": "2026-11-24T09:41:37.084Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Canvis en un dels col·legis electorals de Sabadell per a les eleccions d'aquest diumenge» (Diari de Sabadell).",
+      "itemId": "91f80aa69213c1eb"
+    },
+    {
+      "id": "5c834c101eb0529e",
+      "t": "2026-11-24T09:41:37.085Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Fèlix Colomer es queda a les portes de l'Emmy per 'Temps mort'» (Diari de Sabadell).",
+      "itemId": "70b66cd915e3bd8a"
+    },
+    {
+      "id": "43a19aea8ac2558e",
+      "t": "2026-11-24T09:41:37.086Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "70b66cd915e3bd8a"
+    },
+    {
+      "id": "cdc6e311d00c8354",
+      "t": "2026-11-24T09:41:37.087Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Marta Pontnou: \"Des que naixem comparem els nostres cossos\"» (L'Actual - Castellar del Vallès).",
+      "itemId": "3b5c1a186ece676d"
+    },
+    {
+      "id": "69015d909b1db837",
+      "t": "2026-11-24T09:41:37.088Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Cantada de llúcies escolar itinerant» (Ajuntament de Barberà del Vallès).",
+      "itemId": "9bdc0751afd0dcf1"
+    },
+    {
+      "id": "e7e7464da3de5a88",
+      "t": "2026-11-24T09:41:37.089Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Educació.",
+      "itemId": "9bdc0751afd0dcf1"
+    },
+    {
+      "id": "095f578a2d6d4f9b",
+      "t": "2026-11-24T09:41:37.090Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "9bdc0751afd0dcf1"
+    },
+    {
+      "id": "7b29b6ca709a7a78",
+      "t": "2026-11-24T09:41:37.091Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Gerard Quintana, cantant: \"Sabadell és la referència dels festivals\"» (Ràdio Sabadell).",
+      "itemId": "6968a53a4188446b"
+    },
+    {
+      "id": "0b547b71defc6278",
+      "t": "2026-11-24T09:41:37.092Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Taller de tions i tiones» (Ajuntament de Barberà del Vallès).",
+      "itemId": "24a6ba05f792f9a5"
+    },
+    {
+      "id": "7fa803218ae70425",
+      "t": "2026-11-24T09:41:37.093Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Gran Sorteig de Nadal del Mercat» (Ajuntament de Barberà del Vallès).",
+      "itemId": "df2d9d99a517270c"
+    },
+    {
+      "id": "e3ac373eab561055",
+      "t": "2026-11-24T09:41:37.094Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Eleccions generals 29-N: Miquel Aguilar, segon suplent de Juntsn al Senat» (Ràdio Sabadell).",
+      "itemId": "6f6a5d56edee558f"
+    },
+    {
+      "id": "0622e20ff3c25b01",
+      "t": "2026-11-24T09:41:37.095Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Taller de cuina per a persones adultes: Fem galetes de Nadal!» (Ajuntament de Barberà del Vallès).",
+      "itemId": "ae5c25963f588d09"
+    },
+    {
+      "id": "2eaf0ef6076c3ba2",
+      "t": "2026-11-24T09:41:37.096Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut.",
+      "itemId": "ae5c25963f588d09"
     }
   ],
-  "actualizado": "2026-11-24T08:25:01.471Z"
+  "actualizado": "2026-11-24T09:41:57.217Z"
 }
