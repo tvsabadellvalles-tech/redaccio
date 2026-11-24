@@ -104,6 +104,264 @@
   },
   "items": [
     {
+      "id": "d4b8fc5000940ef9",
+      "titulo": "Recollida d'aliments amb la cultura popular",
+      "enlace": "https://www.bdv.cat/agenda/recollida-daliments-amb-la-cultura-popular",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "RECOLLIDA D'ALIMENTS AMB LA CULTURA POPULAR Cercavila solidària itinerant per a la recollida d'aliments de primera necessitat per a les families vulnerables, a càrrec de la secció Infantil del Ball de Bastons de Barberà del Vallès…",
+      "municipio": "barbera",
+      "municipiosMencionados": [
+        "barbera"
+      ],
+      "publicado": "2026-11-24T12:39:00.000Z",
+      "detectado": "2026-11-24T12:44:04.915Z",
+      "sensible": true,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "8873e623727464e9",
+      "titulo": "Jutgen una professora de ball per agredir sexualment una menor",
+      "enlace": "https://www.isabadell.cat/tribunals-sabadell/jutgen-una-professora-de-ball-per-agredir-sexualment-una-menor-341513/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-24T12:38:50.000Z",
+      "detectado": "2026-11-24T12:44:04.915Z",
+      "sensible": true,
+      "etiquetas": [
+        "sucesos"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "successos"
+      ],
+      "duplicadaDe": "4050b3204db75dd3",
+      "propuesta": false
+    },
+    {
+      "id": "15f564b8fb8583a5",
+      "titulo": "Barberà se suma a la Setmana Europea per a la Prevenció de Residus amb accions informatives i de sensibilització",
+      "enlace": "https://www.bdv.cat/noticies/barbera-se-suma-la-setmana-europea-la-prevencio-de-residus-amb-accions-informatives-i-de",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "L’Ajuntament instal·la una carpa informativa en diferents punts de la ciutat per fomentar la correcta separació de residus i promoure hàbits més sostenibles Del 21 al 29 de novembre se celebra la 18a edició de la Setmana Europea per a la…",
+      "municipio": "barbera",
+      "municipiosMencionados": [
+        "barbera"
+      ],
+      "publicado": "2026-11-24T12:29:00.000Z",
+      "detectado": "2026-11-24T12:44:04.915Z",
+      "sensible": false,
+      "etiquetas": [
+        "medioambiente"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "font oficial",
+        "medi ambient"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "2a97a6e442e46626",
+      "titulo": "Visita del Patge Reial al Mercat",
+      "enlace": "https://www.bdv.cat/agenda/visita-del-patge-reial-al-mercat",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "VISITA DEL PATGE REIAL AL MERCAT Recollida de cartes dels infants per als Reis d'Orient Organitza: Mercat Onze de Setembre",
+      "municipio": "barbera",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-24T12:28:00.000Z",
+      "detectado": "2026-11-24T12:44:04.915Z",
+      "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "a55ac2af9a380f7d",
+      "titulo": "El Govern compra 460 habitatges socials per 40 milions, 17 a Sabadell",
+      "enlace": "https://www.isabadell.cat/societat/habitatge/el-govern-compra-460-habitatges-socials-per-40-milions-17-a-sabadell-341508/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-24T12:27:06.000Z",
+      "detectado": "2026-11-24T12:44:04.915Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica",
+        "urbanismo"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "política local, obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "1cff47ae099bdefe",
+      "titulo": "La IMPROvisadita especial de Nadal",
+      "enlace": "https://www.bdv.cat/agenda/la-improvisadita-especial-de-nadal",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "LA IMPROVISADITA ESPECIAL DE NADAL Espectacle d'Improvisació teatral i bingo musical nadalenc Organitza: La Asambleita",
+      "municipio": "barbera",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-24T12:21:00.000Z",
+      "detectado": "2026-11-24T12:44:04.915Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "1596dc48b856f5a0",
+      "titulo": "Cerdanyola donarà la benvinguda al Nadal amb l’encesa de llums aquest divendres",
+      "enlace": "http://www.cerdanyola.cat/actualitat/cerdanyola-donara-la-benvinguda-al-nadal-amb-lencesa-de-llums-aquest-divendres",
+      "fuente": "ayto-cerdanyola",
+      "fuenteNombre": "Ajuntament de Cerdanyola del Vallès",
+      "tipo": "oficial",
+      "resumen": "Cerdanyola donarà la benvinguda al Nadal amb l’encesa de llums aquest divendres Cerdanyola donarà el tret de sortida oficial a les festes de Nadal aquest divendres 27 de novembre, a partir de les 17:30 h, amb el tradicional acte d’encesa…",
+      "municipio": "cerdanyola",
+      "municipiosMencionados": [
+        "cerdanyola"
+      ],
+      "publicado": "2026-11-24T12:15:33.000Z",
+      "detectado": "2026-11-24T12:44:04.915Z",
+      "sensible": true,
+      "etiquetas": [
+        "politica"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "font oficial",
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "986e26af65bb8098",
+      "titulo": "‘El ple crític’. Qüestions socials i electorals",
+      "enlace": "https://www.isabadell.cat/opinio/el-ple-critic/questions-socials-i-electorals-341497/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-24T12:02:53.000Z",
+      "detectado": "2026-11-24T12:44:04.915Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "ffdef996546c6dbd",
+      "titulo": "Quadri Liameed renova fins al 2029",
+      "enlace": "https://www.isabadell.cat/esports/futbol/quadri-liameed-renova-fins-al-2029-341502/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-24T11:56:53.000Z",
+      "detectado": "2026-11-24T12:44:04.915Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": "f9ce691190456ada",
+      "propuesta": false
+    },
+    {
+      "id": "abe4822169e62043",
+      "titulo": "La comunitat educativa reivindica i celebra els drets dels Infants",
+      "enlace": "https://www.lactual.cat/actualitat/comunitat-educativa-reivindica-celebra-drets-infants_55431_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-24T11:37:55.000Z",
+      "detectado": "2026-11-24T11:37:53.376Z",
+      "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "1aaaf5737cbf5daf",
+      "titulo": "Presentada la campanya ‘A Ripollet, Nadal... a sac!’",
+      "enlace": "https://www.ripollet.cat/actualitat/noticies/presentada-la-campanya-2018a-ripollet-nadal-a-sac-2019",
+      "fuente": "ayto-ripollet",
+      "fuenteNombre": "Ajuntament de Ripollet",
+      "tipo": "oficial",
+      "resumen": "La programació començarà aquest divendres, 27 de novembre, amb l’encesa de l’enllumenat nadalenc i del Bosc Màgic, i s’allargarà fins a mitjans de gener. La campanya manté les activitats que es van estrenar l’any passat i incorpora…",
+      "municipio": "ripollet",
+      "municipiosMencionados": [
+        "ripollet"
+      ],
+      "publicado": "2026-11-24T11:36:35.000Z",
+      "detectado": "2026-11-24T12:44:04.915Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "f9ce691190456ada",
       "titulo": "Quadri Liameed renova amb el Centre d'Esports Sabadell fins al 2029",
       "enlace": "https://radiosabadell.fm/esports/ce-sabadell/quadri-renovacio-2029",
@@ -150,25 +408,6 @@
       "propuesta": false
     },
     {
-      "id": "abe4822169e62043",
-      "titulo": "La comunitat educativa reivindica i celebra els drets dels Infants",
-      "enlace": "https://www.lactual.cat/actualitat/comunitat-educativa-reivindica-celebra-drets-infants_55431_102.html",
-      "fuente": "ayto-castellar",
-      "fuenteNombre": "L'Actual - Castellar del Vallès",
-      "tipo": "medio",
-      "resumen": "",
-      "municipio": "castellar",
-      "municipiosMencionados": [],
-      "publicado": "2026-11-24T11:23:23.000Z",
-      "detectado": "2026-11-24T11:37:53.376Z",
-      "sensible": true,
-      "etiquetas": [],
-      "puntuacion": 0,
-      "motivos": [],
-      "duplicadaDe": null,
-      "propuesta": false
-    },
-    {
       "id": "041fe1863cb20fa0",
       "titulo": "II Festa dels 2 Nassos",
       "enlace": "https://www.bdv.cat/agenda/ii-festa-dels-2-nassos",
@@ -189,6 +428,31 @@
       "puntuacion": 1,
       "motivos": [
         "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "1fc1aa67989c7a88",
+      "titulo": "El Parc Taulí crea la Unitat de Pediatria Social",
+      "enlace": "https://radiosabadell.fm/actualitat/salut/parc-tauli-crea-unitat-pediatria-social",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-24T11:21:20.000Z",
+      "detectado": "2026-11-24T12:44:04.915Z",
+      "sensible": true,
+      "etiquetas": [
+        "salud"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "salut"
       ],
       "duplicadaDe": null,
       "propuesta": false
@@ -241,6 +505,32 @@
       "propuesta": false
     },
     {
+      "id": "c54d0c42badff801",
+      "titulo": "Local Friday 2026: Torna la campanya de Botigues al Carrer!",
+      "enlace": "https://www.bdv.cat/noticies/local-friday-2026-torna-la-campanya-de-botigues-al-carrer",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "Un any més, les botiges de la ciutat surten al carrer per viure tres dies de compres, activitats i festa en una nova edició del Local Friday, que se celebrarà del dijous 26 al dissabte 28 de novembre, coincidint amb l’encesa de llums de…",
+      "municipio": "barbera",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-24T11:13:00.000Z",
+      "detectado": "2026-11-24T12:44:04.915Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad",
+        "economia",
+        "cultura"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "font oficial",
+        "mobilitat, economia i ocupació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
       "id": "7cbb8547628537a8",
       "titulo": "L’Ajuntament inicia una nova fase del Pla d’Asfaltat amb actuacions de millora en set carrers de Cerdanyola",
       "enlace": "http://www.cerdanyola.cat/actualitat/lajuntament-inicia-una-nova-fase-del-pla-dasfaltat-amb-actuacions-de-millora-en-set",
@@ -267,6 +557,27 @@
       ],
       "duplicadaDe": null,
       "propuesta": true
+    },
+    {
+      "id": "70e51b2f30b7b149",
+      "titulo": "35 persones de 22 entitats participen en la 10a Jornada Associativa",
+      "enlace": "https://www.bdv.cat/noticies/35-persones-de-22-entitats-participen-en-la-10a-jornada-associativa",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "El matí del dissabte 21 de novembre les entitats van crear nous vincles i reforçar els existents durant la Jornada Associativa celebrada a la Torre d'en Gorgs. El dissabte 21 de novembre va tenir lloc la 10a Jornada Associativa, que va…",
+      "municipio": "barbera",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-24T11:03:00.000Z",
+      "detectado": "2026-11-24T12:44:04.915Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
     },
     {
       "id": "13b5d80323afade9",
@@ -688,6 +999,32 @@
       "motivos": [],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "16358688fe63031e",
+      "titulo": "Els Mossos de Ripollet alerten a la gent gran dels riscos de robatoris i estafes durant el cobrament de la paga doble de Nadal",
+      "enlace": "https://www.ripollet.cat/actualitat/noticies/els-mossos-de-ripollet-alerten-la-gent-gran-dels-riscos-de-robatoris-i-estafes-durant-el-cobrament-de-la-paga-doble-de-nadal",
+      "fuente": "ayto-ripollet",
+      "fuenteNombre": "Ajuntament de Ripollet",
+      "tipo": "oficial",
+      "resumen": "La policia recomana extremar les precaucions a l'hora de fer operacions bancàries i evitar retirar grans quantitats de diners en efectiu.",
+      "municipio": "ripollet",
+      "municipiosMencionados": [
+        "ripollet"
+      ],
+      "publicado": "2026-11-24T08:51:00.000Z",
+      "detectado": "2026-11-24T12:44:04.915Z",
+      "sensible": false,
+      "etiquetas": [
+        "sucesos"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "font oficial",
+        "successos"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
     },
     {
       "id": "cda041c2fc8877dd",
@@ -1254,7 +1591,32 @@
       ],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "a27f0a29dce14976",
+      "titulo": "L’HC Sentmenat presenta els seus equips en una jornada de club, esport i convivència",
+      "enlace": "https://www.sentmenat.cat/actualitat/noticies/lhc-sentmenat-presenta-els-seus-equips-en-una-jornada-de-club-esport-i-convivencia.html",
+      "fuente": "ayto-sentmenat",
+      "fuenteNombre": "Ajuntament de Sentmenat",
+      "tipo": "oficial",
+      "resumen": "Amb 123 esportistes, el club afronta la temporada 2026-2027 amb il·lusió, estrenant pista i consolidant el seu projecte esportiu i social.",
+      "municipio": "sentmenat",
+      "municipiosMencionados": [
+        "sentmenat"
+      ],
+      "publicado": "2026-11-23T23:00:00.000Z",
+      "detectado": "2026-11-24T12:44:04.915Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
     }
   ],
-  "actualizado": "2026-11-24T11:38:09.112Z"
+  "actualizado": "2026-11-24T12:44:23.677Z"
 }
