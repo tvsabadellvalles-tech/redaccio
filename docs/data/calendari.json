@@ -2,7 +2,7 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-24T15:04:27.030Z",
+  "consultat": "2026-11-24T16:15:36.365Z",
   "total": 24,
   "activitats": [
     {
@@ -90,16 +90,16 @@
       "color": null
     },
     {
-      "titol": "Espai Obert",
+      "titol": "Lorena entra",
       "inici": "2026-11-25T10:00:00.000Z",
-      "final": "2026-11-25T11:30:00.000Z",
+      "final": "2026-11-25T10:30:00.000Z",
       "totElDia": false,
       "color": null
     },
     {
-      "titol": "Lorena entra",
+      "titol": "(Joan) Espai Obert",
       "inici": "2026-11-25T10:00:00.000Z",
-      "final": "2026-11-25T10:30:00.000Z",
+      "final": "2026-11-25T11:30:00.000Z",
       "totElDia": false,
       "color": null
     },
@@ -118,7 +118,7 @@
       "color": null
     },
     {
-      "titol": "Acte central 25N",
+      "titol": "(Pep) Acte central 25N",
       "inici": "2026-11-25T11:00:00.000Z",
       "final": "2026-11-25T12:00:00.000Z",
       "totElDia": false,
@@ -175,5 +175,5 @@
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-24T15:04:57.797Z"
+  "actualizado": "2026-11-24T16:16:14.267Z"
 }

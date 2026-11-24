@@ -104,6 +104,27 @@
   },
   "items": [
     {
+      "id": "e6b73825339efcc5",
+      "titulo": "Castellar obre el cicle nadalenc",
+      "enlace": "https://www.lactual.cat/actualitat/castellar-obre-cicle-nadalenc_55437_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [
+        "castellar"
+      ],
+      "publicado": "2026-11-24T15:47:49.000Z",
+      "detectado": "2026-11-24T16:15:36.365Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "f75de185ad4b6e81",
       "titulo": "El Black Friday aterra al comerç local",
       "enlace": "https://www.lactual.cat/actualitat/black-friday-aterra-comerc-local_55433_102.html",
@@ -122,6 +143,32 @@
       "puntuacion": 1,
       "motivos": [
         "economia i ocupació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "6e0441061d571d77",
+      "titulo": "Tot a punt per a l'obertura de la pista de gel",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/tot-punt-lobertura-de-la-pista-de-gel",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-24T14:32:56.000Z",
+      "detectado": "2026-11-24T16:15:36.365Z",
+      "sensible": true,
+      "etiquetas": [
+        "medioambiente",
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "medi ambient"
       ],
       "duplicadaDe": null,
       "propuesta": false
@@ -1893,5 +1940,5 @@
       "propuesta": true
     }
   ],
-  "actualizado": "2026-11-24T15:04:40.600Z"
+  "actualizado": "2026-11-24T16:15:54.884Z"
 }

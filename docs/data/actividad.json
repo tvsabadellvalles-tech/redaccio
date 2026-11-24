@@ -1,34 +1,6 @@
 {
   "eventos": [
     {
-      "id": "ed64d3441914efd3",
-      "t": "2026-11-21T13:50:30.168Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "2ee5227fbd6f36aa"
-    },
-    {
-      "id": "46c0c944654fe746",
-      "t": "2026-11-21T13:50:30.169Z",
-      "agente": "rastreador",
-      "texto": "He recollit «En la primera ocasió clara, s'avança el Granada (0-1)» (Diari de Sabadell).",
-      "itemId": "56570f30baca13f4"
-    },
-    {
-      "id": "05bdbf93b58d3f1d",
-      "t": "2026-11-21T13:50:30.170Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Sabadell recorda Ernest Lluch en el 26è aniversari del seu assassinat: \"Ara més que mai, cal que continuïn vius els seus valors\"» (Diari de Sabadell).",
-      "itemId": "8a1ba5d54c8cb614"
-    },
-    {
-      "id": "ebf7752592207845",
-      "t": "2026-11-21T13:50:30.171Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "8a1ba5d54c8cb614"
-    },
-    {
       "id": "7e5a36d9ce3fcd21",
       "t": "2026-11-21T13:50:30.172Z",
       "agente": "rastreador",
@@ -2799,7 +2771,35 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Economia i ocupació.",
       "itemId": "f75de185ad4b6e81"
+    },
+    {
+      "id": "947f256e9dc91171",
+      "t": "2026-11-24T16:15:36.365Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Tot a punt per a l'obertura de la pista de gel» (Ràdio Sabadell).",
+      "itemId": "6e0441061d571d77"
+    },
+    {
+      "id": "da9e1a0ed5ad3519",
+      "t": "2026-11-24T16:15:36.366Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Medi ambient, Cultura i festes.",
+      "itemId": "6e0441061d571d77"
+    },
+    {
+      "id": "d01c593c3c0efba9",
+      "t": "2026-11-24T16:15:36.367Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "6e0441061d571d77"
+    },
+    {
+      "id": "474f4ccf816404f8",
+      "t": "2026-11-24T16:15:36.368Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Castellar obre el cicle nadalenc» (L'Actual - Castellar del Vallès).",
+      "itemId": "e6b73825339efcc5"
     }
   ],
-  "actualizado": "2026-11-24T15:04:40.606Z"
+  "actualizado": "2026-11-24T16:15:54.890Z"
 }
