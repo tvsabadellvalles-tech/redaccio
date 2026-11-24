@@ -104,6 +104,31 @@
   },
   "items": [
     {
+      "id": "078f51fb61a89d07",
+      "titulo": "El 112 rep 8 trucades al dia per violència masclista des de Sabadell",
+      "enlace": "https://www.isabadell.cat/societat/el-112-rep-8-trucades-al-dia-per-violencia-masclista-des-de-sabadell-341551/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-24T20:44:28.000Z",
+      "detectado": "2026-11-24T21:17:29.021Z",
+      "sensible": false,
+      "etiquetas": [
+        "emergencias"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "emergències"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
       "id": "95ff260ec5830690",
       "titulo": "Els Jardins del Sud, pendents de la tanca perimetral i la data d'obertura",
       "enlace": "https://www.diaridesabadell.com/sabadell/fotos-que-falta-data-obertura-tanca-cameres-jardins-sud-sabadell.html",
@@ -2092,5 +2117,5 @@
       "propuesta": true
     }
   ],
-  "actualizado": "2026-11-24T20:17:54.255Z"
+  "actualizado": "2026-11-24T21:17:47.952Z"
 }

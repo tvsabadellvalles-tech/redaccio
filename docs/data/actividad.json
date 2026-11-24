@@ -1,27 +1,6 @@
 {
   "eventos": [
     {
-      "id": "4b07fde5179dd12f",
-      "t": "2026-11-21T19:24:07.781Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Sabadell celebra el Dia Internacional dels Infants» (iSabadell).",
-      "itemId": "90aed726d1fa4728"
-    },
-    {
-      "id": "63b0d4e88a21d8cf",
-      "t": "2026-11-21T19:24:07.782Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "90aed726d1fa4728"
-    },
-    {
-      "id": "39db4794015dbf52",
-      "t": "2026-11-21T20:53:52.763Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El Sabadell juvenil s'estavella contra l'Oberena (1-3) i s'allunya del somni de la Copa» (Ràdio Sabadell).",
-      "itemId": "03534472166b72f9"
-    },
-    {
       "id": "6dce10d3197279a6",
       "t": "2026-11-21T20:53:52.764Z",
       "agente": "etiquetador",
@@ -2799,7 +2778,28 @@
       "agente": "rastreador",
       "texto": "He recollit «Els Jardins del Sud, pendents de la tanca perimetral i la data d'obertura» (Diari de Sabadell).",
       "itemId": "95ff260ec5830690"
+    },
+    {
+      "id": "281a5681299c20f2",
+      "t": "2026-11-24T21:17:29.021Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El 112 rep 8 trucades al dia per violència masclista des de Sabadell» (iSabadell).",
+      "itemId": "078f51fb61a89d07"
+    },
+    {
+      "id": "df7f954f4ddc121f",
+      "t": "2026-11-24T21:17:29.022Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Emergències.",
+      "itemId": "078f51fb61a89d07"
+    },
+    {
+      "id": "1fa3626ae97e1d94",
+      "t": "2026-11-24T21:17:29.023Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): emergències.",
+      "itemId": "078f51fb61a89d07"
     }
   ],
-  "actualizado": "2026-11-24T20:17:54.259Z"
+  "actualizado": "2026-11-24T21:17:47.956Z"
 }
