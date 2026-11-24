@@ -104,6 +104,300 @@
   },
   "items": [
     {
+      "id": "82a7140571c2f3c8",
+      "titulo": "Teatre - Neu de Nadal",
+      "enlace": "https://www.bdv.cat/agenda/teatre-neu-de-nadal",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "NEU DE NADAL (CIA. KIA TEATRE) Amb el primer floc de neu, arriba l'hivern, Ndal i.. En Rudolf, el cérvol de nas vermell que porta somriures i regals. Però aquest any hi ha un problema: no neva! I què passa si no neva? Serà Nadal…",
+      "municipio": "barbera",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-24T08:22:00.000Z",
+      "detectado": "2026-11-24T08:24:44.349Z",
+      "sensible": false,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "ff6daa6cfc83d0d0",
+      "titulo": "Teatre - El professor Bromera",
+      "enlace": "https://www.bdv.cat/agenda/teatre-el-professor-bromera",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "EL PROFESSOR BROMERA (CIA. MELABUFFA I CARALBC) Un entranyable alquimista transforma el seu laboratori en un món de fantasia. Amb l'ajuda del públic, el professor Bromera fa experiments per revelar de forma divertida els secrets…",
+      "municipio": "barbera",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-24T08:19:00.000Z",
+      "detectado": "2026-11-24T08:24:44.349Z",
+      "sensible": false,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "adc435056dc6cea0",
+      "titulo": "Interrompuda la circulació en un tram de la línia R4 de Rodalies",
+      "enlace": "https://www.diaridesabadell.com/sabadell/tall-rodalies-circulacio-r4.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-24T08:18:25.000Z",
+      "detectado": "2026-11-24T08:24:44.349Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "mobilitat"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "cb823cc509c922f6",
+      "titulo": "Un terç de la roba que es recull a l’Estat aterra a Sabadell",
+      "enlace": "https://www.diaridesabadell.com/sabadell/roba-segona-ma-contenidors-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-24T08:01:33.000Z",
+      "detectado": "2026-11-24T08:24:44.349Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "c0fc4e78f3c7e4e2",
+      "titulo": "Canvis en els sentits de circulació a Can Casablanques",
+      "enlace": "https://www.santquirzevalles.cat/actualitat/noticies/canvis-en-els-sentits-de-circulacio-a-can-casablanques-a-sant-quirze-del-valles",
+      "fuente": "ayto-sant-quirze",
+      "fuenteNombre": "Ajuntament de Sant Quirze del Vallès",
+      "tipo": "oficial",
+      "resumen": "Les modificacions s'implantaran, a Sant Quirze, els dies 26 i 27 de novembre per reduir el trànsit de pas i millorar la seguretat viària",
+      "municipio": "sant-quirze",
+      "municipiosMencionados": [
+        "sant-quirze"
+      ],
+      "publicado": "2026-11-24T08:00:00.000Z",
+      "detectado": "2026-11-24T08:24:44.349Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "font oficial",
+        "mobilitat"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "3ea31c8d16852994",
+      "titulo": "Teatre - Hats (Cia.Jam)",
+      "enlace": "https://www.bdv.cat/agenda/teatre-hats-ciajam",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "HATS (CIA. JAM) Un personatge atrapat en la seva proòpia rutina emprèn un viatge emocional. Mitjançant el joc amb diferents barrets, l'obra es converteix en una oda a la llibertat i a la lluita pels somnis, convidant-no a aparcar la…",
+      "municipio": "barbera",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-24T07:51:00.000Z",
+      "detectado": "2026-11-24T08:24:44.349Z",
+      "sensible": false,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "54595843b83b82d7",
+      "titulo": "Ball de Nadal de la Gent Gran",
+      "enlace": "https://www.bdv.cat/agenda/ball-de-nadal-de-la-gent-gran",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "BALL DE NADAL DE LA GENT GRAN Sessió de ball de tarda amb música en directe de Miki Covers i Sònia. Recollida prèvia d'entrades a Ca n'Amiguet o Casal de Cultura des del 14 de desembre Organitza: Gent Gran",
+      "municipio": "barbera",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-24T07:42:00.000Z",
+      "detectado": "2026-11-24T08:24:44.349Z",
+      "sensible": false,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "cccda37852dce0fe",
+      "titulo": "Quinto Tradicional",
+      "enlace": "https://www.bdv.cat/agenda/quinto-tradicional",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "QUINTO TRADICIONAL Joc tradicional de Quinto nadalenc Organitza: Colla de Diables de Barberà",
+      "municipio": "barbera",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-24T07:40:00.000Z",
+      "detectado": "2026-11-24T08:24:44.349Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "6e277807bded71a4",
+      "titulo": "Caga Tió Popular",
+      "enlace": "https://www.bdv.cat/agenda/caga-tio-popular-1",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "CAGA TIÓ POPULAR Festa infantil per fer cagar el tió i xocolatada berenar per a la infància Organitza: Associació de Veïns La Romànica",
+      "municipio": "barbera",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-24T07:35:00.000Z",
+      "detectado": "2026-11-24T08:24:44.349Z",
+      "sensible": true,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "0564a0d569e26af0",
+      "titulo": "Les aventures de Mel, Gagà i Tasar",
+      "enlace": "https://www.bdv.cat/agenda/les-aventures-de-mel-gaga-i-tasar",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "LES AVENTURES DE MEL, GAGÀ I TASAR El destí ha fet que Mel, Gagà i Tasar uneixin els seus camins en una missió molt important. Tots tres han de descobrir el secret d'una misteriosa profecia. No serà fàcil, ja que en Térbol, un estrambótic…",
+      "municipio": "barbera",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-24T07:28:00.000Z",
+      "detectado": "2026-11-24T08:24:44.349Z",
+      "sensible": true,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "bd50924afb18426c",
+      "titulo": "Tió Solidari del Casc Antic",
+      "enlace": "https://www.bdv.cat/agenda/tio-solidari-del-casc-antic",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "TIÓ SOLIDARI DEL CASC ANTIC 11 h - Decoració de l'avet de Nadal 13.30 h - Botifarrada solidària 17.30 h - Animació infantil i pinta-cares 18 h - Caga Tió 18.30 h - Xocolatada Organitza: Associació de Veïns i Botiguers del Casc Antic",
+      "municipio": "barbera",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-24T07:21:00.000Z",
+      "detectado": "2026-11-24T08:24:44.349Z",
+      "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "d8f2ddd405fa51b4",
+      "titulo": "XXVIII Jocs de Nadal 2026",
+      "enlace": "https://www.bdv.cat/agenda/xxviii-jocs-de-nadal-2026",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "XXVVII JOCS DE NADAL 2026 Jornada atlètica amb diverses proves i curses per a totes les edats Cost d'inscripció: 5 € Organitza: Unió Atlètica Barberà",
+      "municipio": "barbera",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-24T07:16:00.000Z",
+      "detectado": "2026-11-24T08:24:44.349Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "6841e9604b1920f0",
+      "titulo": "‘La solució està a l’esquerra’",
+      "enlace": "https://www.isabadell.cat/opinio/la-solucio-esta-a-lesquerra-341463/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-24T07:00:00.000Z",
+      "detectado": "2026-11-24T08:24:44.349Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "5e6064a16e6b98e7",
       "titulo": "L’INCIVISME TÉ UN COST. I EL PAGUEM ENTRE TOTS.",
       "enlace": "https://www.sentmenat.cat/actualitat/noticies/lincivisme-te-un-cost-i-el-paguem-entre-tots.html",
@@ -123,7 +417,28 @@
       ],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "69239e4649d42330",
+      "titulo": "Minut de silenci, avui al migdia, davant de l'Ajuntament, pel feminicidi a Ll�via",
+      "enlace": "http://www.badiadelvalles.cat/document.php?id=12336",
+      "fuente": "ayto-badia",
+      "fuenteNombre": "Ajuntament de Badia del Vallès",
+      "tipo": "oficial",
+      "resumen": "",
+      "municipio": "badia",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-23T23:00:00.000Z",
+      "detectado": "2026-11-24T08:24:44.349Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
     }
   ],
-  "actualizado": "2026-11-23T23:50:55.528Z"
+  "actualizado": "2026-11-24T08:25:01.468Z"
 }

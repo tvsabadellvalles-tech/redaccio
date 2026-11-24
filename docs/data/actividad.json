@@ -1,195 +1,6 @@
 {
   "eventos": [
     {
-      "id": "35149e9b000fe0dc",
-      "t": "2026-11-20T09:06:58.939Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat, Successos, Política local.",
-      "itemId": "46150db51a654ec2"
-    },
-    {
-      "id": "78c450de5675125a",
-      "t": "2026-11-20T09:06:58.940Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "46150db51a654ec2"
-    },
-    {
-      "id": "1cb0bf73af0477f4",
-      "t": "2026-11-20T09:06:58.941Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (5 punts): font oficial · mobilitat, successos, política local.",
-      "itemId": "46150db51a654ec2"
-    },
-    {
-      "id": "7e2446d5bac68310",
-      "t": "2026-11-20T09:06:58.942Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Ernesto Pascual, politòleg: \"Feijóo ha donat la imatge que volia i Sánchez ha acabat diluint-se\"» (Ràdio Sabadell).",
-      "itemId": "70eafdbf39a33f9b"
-    },
-    {
-      "id": "be187f48390e0cdc",
-      "t": "2026-11-20T09:06:58.943Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Qualla Kids s'alia amb Clickedu per impulsar una nova aplicació de gestió escolar» (Diari de Sabadell).",
-      "itemId": "826c18f293b04c16"
-    },
-    {
-      "id": "356628dcccfc5a68",
-      "t": "2026-11-20T10:07:40.438Z",
-      "agente": "rastreador",
-      "texto": "He recollit «L’Ajuntament cedeix l’Aulari de Mas Rampinyo per acollir temporalment 120 alumnes de l’IE Mas Rampinyo» (Ajuntament de Montcada i Reixac).",
-      "itemId": "31e2c92aef804a28"
-    },
-    {
-      "id": "28c9da64ad49e743",
-      "t": "2026-11-20T10:07:40.439Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Emergències, Educació.",
-      "itemId": "31e2c92aef804a28"
-    },
-    {
-      "id": "7abca2e4a0dd3a4f",
-      "t": "2026-11-20T10:07:40.440Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (5 punts): font oficial · emergències, educació.",
-      "itemId": "31e2c92aef804a28"
-    },
-    {
-      "id": "3cf3aa030b106f40",
-      "t": "2026-11-20T10:07:40.441Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Barberà del Vallès constitueix el nou Consell Municipal d’Infants i recupera aquest espai de participació infantil» (Ajuntament de Barberà del Vallès).",
-      "itemId": "a02c9dc6b3dd875b"
-    },
-    {
-      "id": "7ce10f567a6b068a",
-      "t": "2026-11-20T10:07:40.442Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local, Educació, Cultura i festes.",
-      "itemId": "a02c9dc6b3dd875b"
-    },
-    {
-      "id": "ad00513e426c9c31",
-      "t": "2026-11-20T10:07:40.443Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "a02c9dc6b3dd875b"
-    },
-    {
-      "id": "c6ab52fe0da43f4b",
-      "t": "2026-11-20T10:07:40.444Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): font oficial · política local, educació.",
-      "itemId": "a02c9dc6b3dd875b"
-    },
-    {
-      "id": "6a9b1c4a9e8ac47b",
-      "t": "2026-11-20T10:07:40.445Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Iniciada la remodelació que permetrà la millora de la plaça Francesc Macià» (Ajuntament de Montcada i Reixac).",
-      "itemId": "d95cc55b9a41e706"
-    },
-    {
-      "id": "8c5450da244bb2a6",
-      "t": "2026-11-20T10:07:40.446Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Cerdanyola defensa la seva autonomia municipal i recorda que no s'ha iniciat cap procés d'aprovació urbanística a la Pelleria» (Ajuntament de Cerdanyola del Vallès).",
-      "itemId": "fb308193ca751c36"
-    },
-    {
-      "id": "19c2210a55493a46",
-      "t": "2026-11-20T10:07:40.447Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat, Política local, Obres i urbanisme, Salut.",
-      "itemId": "fb308193ca751c36"
-    },
-    {
-      "id": "be1b7128d498c8ed",
-      "t": "2026-11-20T10:07:40.448Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (5 punts): font oficial · mobilitat, política local, obres i urbanisme, salut.",
-      "itemId": "fb308193ca751c36"
-    },
-    {
-      "id": "1f51a9429b1cca59",
-      "t": "2026-11-20T10:07:40.449Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Dependència digital: com la informàtica afecta la nostra vida quotidiana Emissió» (Ràdio Sabadell).",
-      "itemId": "fe3e50a6d98d9c08"
-    },
-    {
-      "id": "fa50116ca037a68a",
-      "t": "2026-11-20T10:07:40.450Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Programa 595 21/11/26» (Ràdio Sabadell).",
-      "itemId": "60577273b5ef9cbe"
-    },
-    {
-      "id": "b3e92aee2c1fafa3",
-      "t": "2026-11-20T10:10:36.076Z",
-      "agente": "rastreador",
-      "texto": "La font «Ajuntament de Badia del Vallès» no respon (fetch failed).",
-      "itemId": null
-    },
-    {
-      "id": "1ee57ca492fea109",
-      "t": "2026-11-20T10:13:52.750Z",
-      "agente": "rastreador",
-      "texto": "La font «Ajuntament de Badia del Vallès» torna a respondre.",
-      "itemId": null
-    },
-    {
-      "id": "9efd79f520c6f0c2",
-      "t": "2026-11-20T10:23:10.166Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El 20N, una data assenyalada des de fa 51 anys a Sabadell: \"Va ser un gran alleugeriment\"» (Diari de Sabadell).",
-      "itemId": "c1241f7f399f97b3"
-    },
-    {
-      "id": "dc163d7203b5aacf",
-      "t": "2026-11-20T10:23:10.167Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "c1241f7f399f97b3"
-    },
-    {
-      "id": "df236d9ffb38d3a7",
-      "t": "2026-11-20T10:23:10.168Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Cerdanyola respon a les crítiques de Sant Cugat i defensa la seva autonomia en el projecte d'un nou barri a la Pelleria» (Diari de Sabadell).",
-      "itemId": "8ee0d72da1357508"
-    },
-    {
-      "id": "f58737c809b03859",
-      "t": "2026-11-20T10:23:10.169Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Salut.",
-      "itemId": "8ee0d72da1357508"
-    },
-    {
-      "id": "802d2fc5d1ab62fe",
-      "t": "2026-11-20T10:23:10.170Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Emprenedores sense filtres: la vida real darrere dels negocis» (Ajuntament de Sant Quirze del Vallès).",
-      "itemId": "3fae9a3018f286b7"
-    },
-    {
-      "id": "e37e3b7368267a08",
-      "t": "2026-11-20T10:26:43.148Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La vaga d'estudiants ressona a Sabadell» (Diari de Sabadell).",
-      "itemId": "34f7baa98e47ac04"
-    },
-    {
-      "id": "3a75063fe266bba8",
-      "t": "2026-11-20T11:14:04.879Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Reuni� de l'Oficina de l'Amiant sobre les obres de la primera fase de retirada de l'amiant» (Ajuntament de Badia del Vallès).",
-      "itemId": "6d8f2ad0dbc77941"
-    },
-    {
       "id": "40cf98e25ebbc6da",
       "t": "2026-11-20T11:14:04.880Z",
       "agente": "etiquetador",
@@ -2799,7 +2610,196 @@
       "agente": "rastreador",
       "texto": "He recollit «L’INCIVISME TÉ UN COST. I EL PAGUEM ENTRE TOTS.» (Ajuntament de Sentmenat).",
       "itemId": "5e6064a16e6b98e7"
+    },
+    {
+      "id": "7a48ab4ee0b0abf8",
+      "t": "2026-11-24T08:24:44.349Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Minut de silenci, avui al migdia, davant de l'Ajuntament, pel feminicidi a Ll�via» (Ajuntament de Badia del Vallès).",
+      "itemId": "69239e4649d42330"
+    },
+    {
+      "id": "72eb876709ad4678",
+      "t": "2026-11-24T08:24:44.350Z",
+      "agente": "rastreador",
+      "texto": "He recollit «‘La solució està a l’esquerra’» (iSabadell).",
+      "itemId": "6841e9604b1920f0"
+    },
+    {
+      "id": "a3e78a699eea3c4d",
+      "t": "2026-11-24T08:24:44.351Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local.",
+      "itemId": "6841e9604b1920f0"
+    },
+    {
+      "id": "66a07f8691ac2b8f",
+      "t": "2026-11-24T08:24:44.352Z",
+      "agente": "rastreador",
+      "texto": "He recollit «XXVIII Jocs de Nadal 2026» (Ajuntament de Barberà del Vallès).",
+      "itemId": "d8f2ddd405fa51b4"
+    },
+    {
+      "id": "0b5cf712993115f2",
+      "t": "2026-11-24T08:24:44.353Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Tió Solidari del Casc Antic» (Ajuntament de Barberà del Vallès).",
+      "itemId": "bd50924afb18426c"
+    },
+    {
+      "id": "926789e8b07706b3",
+      "t": "2026-11-24T08:24:44.354Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "bd50924afb18426c"
+    },
+    {
+      "id": "e47319fd23a821ad",
+      "t": "2026-11-24T08:24:44.355Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Les aventures de Mel, Gagà i Tasar» (Ajuntament de Barberà del Vallès).",
+      "itemId": "0564a0d569e26af0"
+    },
+    {
+      "id": "2d48040100c8fd4a",
+      "t": "2026-11-24T08:24:44.356Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "0564a0d569e26af0"
+    },
+    {
+      "id": "5dcff065d1ddfa44",
+      "t": "2026-11-24T08:24:44.357Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "0564a0d569e26af0"
+    },
+    {
+      "id": "08abb0ddff88c9a1",
+      "t": "2026-11-24T08:24:44.358Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Caga Tió Popular» (Ajuntament de Barberà del Vallès).",
+      "itemId": "6e277807bded71a4"
+    },
+    {
+      "id": "f647f4f05d5d7488",
+      "t": "2026-11-24T08:24:44.359Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "6e277807bded71a4"
+    },
+    {
+      "id": "45f10b588e1bed61",
+      "t": "2026-11-24T08:24:44.360Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "6e277807bded71a4"
+    },
+    {
+      "id": "18575ea21e72de9e",
+      "t": "2026-11-24T08:24:44.361Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Quinto Tradicional» (Ajuntament de Barberà del Vallès).",
+      "itemId": "cccda37852dce0fe"
+    },
+    {
+      "id": "cfc8f11949bc6872",
+      "t": "2026-11-24T08:24:44.362Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Ball de Nadal de la Gent Gran» (Ajuntament de Barberà del Vallès).",
+      "itemId": "54595843b83b82d7"
+    },
+    {
+      "id": "7f7cbaefd2ecbe59",
+      "t": "2026-11-24T08:24:44.363Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "54595843b83b82d7"
+    },
+    {
+      "id": "0a4566487404dc43",
+      "t": "2026-11-24T08:24:44.364Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Teatre - Hats (Cia.Jam)» (Ajuntament de Barberà del Vallès).",
+      "itemId": "3ea31c8d16852994"
+    },
+    {
+      "id": "dedaea9acd9c0ebb",
+      "t": "2026-11-24T08:24:44.365Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "3ea31c8d16852994"
+    },
+    {
+      "id": "3f52c18d66916a5e",
+      "t": "2026-11-24T08:24:44.366Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Canvis en els sentits de circulació a Can Casablanques» (Ajuntament de Sant Quirze del Vallès).",
+      "itemId": "c0fc4e78f3c7e4e2"
+    },
+    {
+      "id": "d31c81eec57072cd",
+      "t": "2026-11-24T08:24:44.367Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat.",
+      "itemId": "c0fc4e78f3c7e4e2"
+    },
+    {
+      "id": "26a0d07f5db4e137",
+      "t": "2026-11-24T08:24:44.368Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · mobilitat.",
+      "itemId": "c0fc4e78f3c7e4e2"
+    },
+    {
+      "id": "6892eda3387705b1",
+      "t": "2026-11-24T08:24:44.369Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Un terç de la roba que es recull a l’Estat aterra a Sabadell» (Diari de Sabadell).",
+      "itemId": "cb823cc509c922f6"
+    },
+    {
+      "id": "673ce60fcd64aa42",
+      "t": "2026-11-24T08:24:44.370Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Interrompuda la circulació en un tram de la línia R4 de Rodalies» (Diari de Sabadell).",
+      "itemId": "adc435056dc6cea0"
+    },
+    {
+      "id": "85d9312b95c09dae",
+      "t": "2026-11-24T08:24:44.371Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat.",
+      "itemId": "adc435056dc6cea0"
+    },
+    {
+      "id": "2ae59371f0876ae1",
+      "t": "2026-11-24T08:24:44.372Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Teatre - El professor Bromera» (Ajuntament de Barberà del Vallès).",
+      "itemId": "ff6daa6cfc83d0d0"
+    },
+    {
+      "id": "9d0be1d1c14d588b",
+      "t": "2026-11-24T08:24:44.373Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "ff6daa6cfc83d0d0"
+    },
+    {
+      "id": "914a167ac0ab1a13",
+      "t": "2026-11-24T08:24:44.374Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Teatre - Neu de Nadal» (Ajuntament de Barberà del Vallès).",
+      "itemId": "82a7140571c2f3c8"
+    },
+    {
+      "id": "1ed40de91ddd64c5",
+      "t": "2026-11-24T08:24:44.375Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "82a7140571c2f3c8"
     }
   ],
-  "actualizado": "2026-11-23T23:50:55.531Z"
+  "actualizado": "2026-11-24T08:25:01.471Z"
 }

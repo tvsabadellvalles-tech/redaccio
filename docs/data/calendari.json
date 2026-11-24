@@ -2,18 +2,18 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-24T06:54:45.236Z",
-  "total": 23,
+  "consultat": "2026-11-24T08:24:44.349Z",
+  "total": 21,
   "activitats": [
     {
-      "titol": "ADRIANA NO VE",
+      "titol": "PAULINO NO VE",
       "inici": "2026-11-24T00:00:00.000Z",
       "final": "2026-11-25T00:00:00.000Z",
       "totElDia": true,
       "color": null
     },
     {
-      "titol": "PAULINO NO VE",
+      "titol": "ADRIANA NO VE",
       "inici": "2026-11-24T00:00:00.000Z",
       "final": "2026-11-25T00:00:00.000Z",
       "totElDia": true,
@@ -41,13 +41,6 @@
       "color": null
     },
     {
-      "titol": "Lorena entra",
-      "inici": "2026-11-24T11:00:00.000Z",
-      "final": "2026-11-24T11:30:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
       "titol": "Visita d'obres a la nova Llar Residència - Centre Ocupacional a Sabadell",
       "inici": "2026-11-24T11:30:00.000Z",
       "final": "2026-11-24T12:30:00.000Z",
@@ -71,13 +64,6 @@
     {
       "titol": "CN Sabadell F - Echeyde",
       "inici": "2026-11-24T14:00:00.000Z",
-      "final": "2026-11-24T15:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "Lorena marxa",
-      "inici": "2026-11-24T14:30:00.000Z",
       "final": "2026-11-24T15:00:00.000Z",
       "totElDia": false,
       "color": null
@@ -168,5 +154,5 @@
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-24T06:55:14.574Z"
+  "actualizado": "2026-11-24T08:25:22.621Z"
 }

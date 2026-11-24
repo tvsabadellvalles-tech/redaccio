@@ -2,7 +2,7 @@
   "fuentes": {
     "isabadell": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "radio-sabadell": {
       "ok": true,
@@ -10,7 +10,7 @@
     },
     "diari-sabadell": {
       "ok": true,
-      "items": 0
+      "items": 2
     },
     "diari-terrassa": {
       "ok": true,
@@ -62,7 +62,7 @@
     },
     "ayto-barbera": {
       "ok": true,
-      "items": 0
+      "items": 9
     },
     "ayto-cerdanyola": {
       "ok": true,
@@ -70,17 +70,17 @@
     },
     "ayto-badia": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "ayto-sant-quirze": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "324-comarques": {
       "ok": true,
       "items": 0
     }
   },
-  "consultat": "2026-11-24T06:54:45.236Z",
-  "actualizado": "2026-11-24T06:54:58.285Z"
+  "consultat": "2026-11-24T08:24:44.349Z",
+  "actualizado": "2026-11-24T08:25:01.469Z"
 }
