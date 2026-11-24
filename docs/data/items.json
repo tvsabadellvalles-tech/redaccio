@@ -104,6 +104,140 @@
   },
   "items": [
     {
+      "id": "013cb532ed31bef6",
+      "titulo": "El conseller Raül Moreno visita la nova llar residència-centre ocupacional de Can Gambús",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-migdia-visita-obres-residencia-can-gambus-241126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-24T13:31:29.000Z",
+      "detectado": "2026-11-24T14:02:55.563Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "6278641290360bc5",
+      "titulo": "El Sabadell lliga la continuïtat de Quadri fins al 2029",
+      "enlace": "https://radiosabadell.fm/podcast/hotel-suis-241126-renovacio-quadri",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-24T13:22:35.000Z",
+      "detectado": "2026-11-24T14:02:55.563Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "677190e9f1127660",
+      "titulo": "Denuncien una agressió feixista a la festa de la Víbria de la Creu Alta",
+      "enlace": "https://www.isabadell.cat/successos/denuncien-agressio-feixista-festa-vibria-creu-alta-341523/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-24T13:21:00.000Z",
+      "detectado": "2026-11-24T14:02:55.563Z",
+      "sensible": false,
+      "etiquetas": [
+        "sucesos",
+        "cultura"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "successos"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "93365f79146c2d55",
+      "titulo": "Les obres de la residència de CIPO a Can Gambús avancen sobre el previst",
+      "enlace": "https://radiosabadell.fm/actualitat/urbanisme/obres-residencia-cipo-can-gambus-avancen-previst",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-24T13:10:34.000Z",
+      "detectado": "2026-11-24T14:02:55.563Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica",
+        "urbanismo"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "política local, obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "1a9b556ac46515a3",
+      "titulo": "La pista de gel dels Jardinets obrirà del 27 de novembre al 10 de gener",
+      "enlace": "https://www.diaridesabadell.com/sabadell/calendari-tiquets-pista-gel-nadal-jardinets-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-24T12:53:45.000Z",
+      "detectado": "2026-11-24T14:02:55.563Z",
+      "sensible": false,
+      "etiquetas": [
+        "medioambiente"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "medi ambient"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "a22b2ab8ae818c33",
+      "titulo": "Torna la pista de gel als Jardinets: dates i horaris",
+      "enlace": "https://www.isabadell.cat/societat/pista-gel-jardinets-dates-horaris-341500/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-24T12:48:53.000Z",
+      "detectado": "2026-11-24T14:02:55.563Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "d4b8fc5000940ef9",
       "titulo": "Recollida d'aliments amb la cultura popular",
       "enlace": "https://www.bdv.cat/agenda/recollida-daliments-amb-la-cultura-popular",
@@ -127,6 +261,35 @@
       ],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "9552ee07144cafb6",
+      "titulo": "Minut de silenci per condemnar el feminicidi d'una veïna de Llívia",
+      "enlace": "https://www.bdv.cat/noticies/minut-de-silenci-condemnar-el-feminicidi-duna-veina-de-llivia",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "L'Ajuntament de Barberà del Vallès s'ha unit a la crida feta pel Departament d’Igualtat i Feminismes de la Generalitat de Catalunya i ha convocat a la ciutadania a participar en un minut de silenci aquest migdia a les 12 hores a la plaça…",
+      "municipio": "barbera",
+      "municipiosMencionados": [
+        "barbera"
+      ],
+      "publicado": "2026-11-24T12:39:00.000Z",
+      "detectado": "2026-11-24T14:02:55.563Z",
+      "sensible": false,
+      "etiquetas": [
+        "emergencias",
+        "salud",
+        "educacion",
+        "cultura"
+      ],
+      "puntuacion": 5,
+      "motivos": [
+        "font oficial",
+        "emergències, salut, educació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
     },
     {
       "id": "8873e623727464e9",
@@ -408,6 +571,29 @@
       "propuesta": false
     },
     {
+      "id": "2670c342041e49e6",
+      "titulo": "Ni l'OAR Gràcia femení s'enganxa del tot a dalt ni el masculí fuig de la zona de baix",
+      "enlace": "https://radiosabadell.fm/esports/handbol/doble-derrota-oar-gracia-marni-santvicenc",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-24T11:25:21.000Z",
+      "detectado": "2026-11-24T14:02:55.563Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "041fe1863cb20fa0",
       "titulo": "II Festa dels 2 Nassos",
       "enlace": "https://www.bdv.cat/agenda/ii-festa-dels-2-nassos",
@@ -511,7 +697,7 @@
       "fuente": "ayto-barbera",
       "fuenteNombre": "Ajuntament de Barberà del Vallès",
       "tipo": "oficial",
-      "resumen": "Un any més, les botiges de la ciutat surten al carrer per viure tres dies de compres, activitats i festa en una nova edició del Local Friday, que se celebrarà del dijous 26 al dissabte 28 de novembre, coincidint amb l’encesa de llums de…",
+      "resumen": "Un any més, les botigues de la ciutat surten al carrer per viure tres dies de compres, activitats i festa en una nova edició del Local Friday, que se celebrarà del dijous 26 al dissabte 28 de novembre, coincidint amb l’encesa de llums de…",
       "municipio": "barbera",
       "municipiosMencionados": [],
       "publicado": "2026-11-24T11:13:00.000Z",
@@ -1616,7 +1802,28 @@
       ],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "77df9a050afbbf1b",
+      "titulo": "Instal�lat el pessebre a l'Ajuntament",
+      "enlace": "http://www.badiadelvalles.cat/document.php?id=12338",
+      "fuente": "ayto-badia",
+      "fuenteNombre": "Ajuntament de Badia del Vallès",
+      "tipo": "oficial",
+      "resumen": "",
+      "municipio": "badia",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-23T23:00:00.000Z",
+      "detectado": "2026-11-24T14:02:55.563Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
     }
   ],
-  "actualizado": "2026-11-24T12:44:23.677Z"
+  "actualizado": "2026-11-24T14:03:13.608Z"
 }

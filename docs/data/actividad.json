@@ -1,118 +1,6 @@
 {
   "eventos": [
     {
-      "id": "4d9e01821484318b",
-      "t": "2026-11-20T23:00:09.578Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Emergències, Medi ambient.",
-      "itemId": "56fb8b72c0cb581a"
-    },
-    {
-      "id": "bdbd5bdd303fab25",
-      "t": "2026-11-20T23:00:09.579Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (5 punts): font oficial · emergències, medi ambient.",
-      "itemId": "56fb8b72c0cb581a"
-    },
-    {
-      "id": "6e405931c068e89b",
-      "t": "2026-11-20T23:48:33.151Z",
-      "agente": "rastreador",
-      "texto": "La font «Ajuntament de Cerdanyola del Vallès» no respon (terminated).",
-      "itemId": null
-    },
-    {
-      "id": "f328f3337aada1b4",
-      "t": "2026-11-21T07:50:33.063Z",
-      "agente": "rastreador",
-      "texto": "He recollit «‘Jon, lo tuyo también es violencia’» (iSabadell).",
-      "itemId": "17933b0e2b1fb6ec"
-    },
-    {
-      "id": "04ead5c3bf6323ba",
-      "t": "2026-11-21T07:50:33.064Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Successos.",
-      "itemId": "17933b0e2b1fb6ec"
-    },
-    {
-      "id": "b2e819e6404d592e",
-      "t": "2026-11-21T07:50:33.065Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Sabadell, on el residu tèxtil es transforma en oportunitats de futur» (iSabadell).",
-      "itemId": "196c44f66b61f939"
-    },
-    {
-      "id": "1bd880ecb5efc4ea",
-      "t": "2026-11-21T07:50:33.066Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Economia i ocupació.",
-      "itemId": "196c44f66b61f939"
-    },
-    {
-      "id": "07d0d62bd8fadc0f",
-      "t": "2026-11-21T08:38:26.564Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El Ple debatrà la desafectació de l'antiga caserna perquè aculli les futures consultes externes del Taulí» (Ràdio Sabadell).",
-      "itemId": "d30ef24fe3021385"
-    },
-    {
-      "id": "df8a7922fe2cf175",
-      "t": "2026-11-21T08:38:26.565Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local, Obres i urbanisme, Salut.",
-      "itemId": "d30ef24fe3021385"
-    },
-    {
-      "id": "ef934ef5bcaec7b3",
-      "t": "2026-11-21T08:38:26.566Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): política local, obres i urbanisme, salut.",
-      "itemId": "d30ef24fe3021385"
-    },
-    {
-      "id": "a4181ebeb628cbf0",
-      "t": "2026-11-21T08:38:26.567Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Sabadell, una fàbrica de campions que no s'atura» (Diari de Sabadell).",
-      "itemId": "0164926fe44d2ff6"
-    },
-    {
-      "id": "7dba472ed5c6dc67",
-      "t": "2026-11-21T08:38:26.568Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Esports.",
-      "itemId": "0164926fe44d2ff6"
-    },
-    {
-      "id": "771cc75a59814381",
-      "t": "2026-11-21T09:29:32.460Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Parlem d'Òpera 665: \"Òpera a Catalunya: Cavalleria rusticana / Pagliacci\"» (Ràdio Sabadell).",
-      "itemId": "7617dfc4a7169f34"
-    },
-    {
-      "id": "86e571f27a0771fb",
-      "t": "2026-11-21T12:53:27.460Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Xavi Graells s'endú l'Estevet d'or al Concurs de Ratafia Casolana» (L'Actual - Castellar del Vallès).",
-      "itemId": "0f4fcae5d76385bb"
-    },
-    {
-      "id": "91d338dcf1f8caa0",
-      "t": "2026-11-21T12:53:27.461Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Sabadell ret homenatge a Ernest Lluch en el 26è aniversari del seu assassinat» (Ràdio Sabadell).",
-      "itemId": "da2149452fdae43c"
-    },
-    {
-      "id": "9da1023f90f4d70e",
-      "t": "2026-11-21T12:53:27.462Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local, Salut.",
-      "itemId": "da2149452fdae43c"
-    },
-    {
       "id": "2370e2f974be097f",
       "t": "2026-11-21T12:53:27.463Z",
       "agente": "vigilante",
@@ -2799,7 +2687,119 @@
       "agente": "vigilante",
       "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
       "itemId": "d4b8fc5000940ef9"
+    },
+    {
+      "id": "a36bc9bbd85e2e35",
+      "t": "2026-11-24T14:02:55.563Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Instal�lat el pessebre a l'Ajuntament» (Ajuntament de Badia del Vallès).",
+      "itemId": "77df9a050afbbf1b"
+    },
+    {
+      "id": "7e0841e0da8c9722",
+      "t": "2026-11-24T14:02:55.564Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Ni l'OAR Gràcia femení s'enganxa del tot a dalt ni el masculí fuig de la zona de baix» (Ràdio Sabadell).",
+      "itemId": "2670c342041e49e6"
+    },
+    {
+      "id": "3926fefaf588ef82",
+      "t": "2026-11-24T14:02:55.565Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "2670c342041e49e6"
+    },
+    {
+      "id": "8296e1ec93e7ed53",
+      "t": "2026-11-24T14:02:55.566Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Minut de silenci per condemnar el feminicidi d'una veïna de Llívia» (Ajuntament de Barberà del Vallès).",
+      "itemId": "9552ee07144cafb6"
+    },
+    {
+      "id": "0417ce6a71e73da3",
+      "t": "2026-11-24T14:02:55.567Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Emergències, Salut, Educació, Cultura i festes.",
+      "itemId": "9552ee07144cafb6"
+    },
+    {
+      "id": "ff5801bff8a92920",
+      "t": "2026-11-24T14:02:55.568Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (5 punts): font oficial · emergències, salut, educació.",
+      "itemId": "9552ee07144cafb6"
+    },
+    {
+      "id": "e3393dfad9603a85",
+      "t": "2026-11-24T14:02:55.569Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Torna la pista de gel als Jardinets: dates i horaris» (iSabadell).",
+      "itemId": "a22b2ab8ae818c33"
+    },
+    {
+      "id": "3832f8b0a47e22f7",
+      "t": "2026-11-24T14:02:55.570Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La pista de gel dels Jardinets obrirà del 27 de novembre al 10 de gener» (Diari de Sabadell).",
+      "itemId": "1a9b556ac46515a3"
+    },
+    {
+      "id": "ea297ffa089e7e39",
+      "t": "2026-11-24T14:02:55.571Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Medi ambient.",
+      "itemId": "1a9b556ac46515a3"
+    },
+    {
+      "id": "ff51f3a037961f94",
+      "t": "2026-11-24T14:02:55.572Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Les obres de la residència de CIPO a Can Gambús avancen sobre el previst» (Ràdio Sabadell).",
+      "itemId": "93365f79146c2d55"
+    },
+    {
+      "id": "b4ca80e097cbc81a",
+      "t": "2026-11-24T14:02:55.573Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local, Obres i urbanisme.",
+      "itemId": "93365f79146c2d55"
+    },
+    {
+      "id": "edd3bbbe34f3659e",
+      "t": "2026-11-24T14:02:55.574Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): política local, obres i urbanisme.",
+      "itemId": "93365f79146c2d55"
+    },
+    {
+      "id": "460aa790a851271b",
+      "t": "2026-11-24T14:02:55.575Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Denuncien una agressió feixista a la festa de la Víbria de la Creu Alta» (iSabadell).",
+      "itemId": "677190e9f1127660"
+    },
+    {
+      "id": "c6591c844f617f03",
+      "t": "2026-11-24T14:02:55.576Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Successos, Cultura i festes.",
+      "itemId": "677190e9f1127660"
+    },
+    {
+      "id": "b7cdfa5f46ad8322",
+      "t": "2026-11-24T14:02:55.577Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El Sabadell lliga la continuïtat de Quadri fins al 2029» (Ràdio Sabadell).",
+      "itemId": "6278641290360bc5"
+    },
+    {
+      "id": "87e53d74e46cf1e3",
+      "t": "2026-11-24T14:02:55.578Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El conseller Raül Moreno visita la nova llar residència-centre ocupacional de Can Gambús» (Ràdio Sabadell).",
+      "itemId": "013cb532ed31bef6"
     }
   ],
-  "actualizado": "2026-11-24T12:44:23.681Z"
+  "actualizado": "2026-11-24T14:03:13.614Z"
 }

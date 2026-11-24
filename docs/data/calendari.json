@@ -2,8 +2,8 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-24T12:44:04.915Z",
-  "total": 21,
+  "consultat": "2026-11-24T14:02:55.563Z",
+  "total": 23,
   "activitats": [
     {
       "titol": "PAULINO NO VE",
@@ -125,6 +125,20 @@
       "color": null
     },
     {
+      "titol": "Rdp renovació Quadri",
+      "inici": "2026-11-25T12:30:00.000Z",
+      "final": "2026-11-25T13:30:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "Rdp PSC Paneque-Farrés",
+      "inici": "2026-11-25T12:30:00.000Z",
+      "final": "2026-11-25T13:30:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
       "titol": "L'Informatiu",
       "inici": "2026-11-25T15:00:00.000Z",
       "final": "2026-11-25T16:00:00.000Z",
@@ -154,5 +168,5 @@
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-24T12:44:42.750Z"
+  "actualizado": "2026-11-24T14:03:37.717Z"
 }
