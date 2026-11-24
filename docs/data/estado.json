@@ -10,7 +10,7 @@
     },
     "diari-sabadell": {
       "ok": true,
-      "items": 12
+      "items": 13
     },
     "diari-terrassa": {
       "ok": true,
@@ -65,9 +65,8 @@
       "items": 25
     },
     "ayto-cerdanyola": {
-      "ok": false,
-      "error": "terminated",
-      "items": 0
+      "ok": true,
+      "items": 2
     },
     "ayto-badia": {
       "ok": true,
@@ -82,6 +81,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-24T19:18:12.784Z",
-  "actualizado": "2026-11-24T19:18:30.054Z"
+  "consultat": "2026-11-24T20:17:38.617Z",
+  "actualizado": "2026-11-24T20:17:54.257Z"
 }

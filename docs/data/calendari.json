@@ -2,7 +2,7 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-24T19:18:12.784Z",
+  "consultat": "2026-11-24T20:17:38.617Z",
   "total": 24,
   "activitats": [
     {
@@ -132,14 +132,14 @@
       "color": null
     },
     {
-      "titol": "Rdp PSC Paneque-Farrés",
+      "titol": "Rdp renovació Quadri",
       "inici": "2026-11-25T12:30:00.000Z",
       "final": "2026-11-25T13:30:00.000Z",
       "totElDia": false,
       "color": null
     },
     {
-      "titol": "Rdp renovació Quadri",
+      "titol": "Rdp PSC Paneque-Farrés",
       "inici": "2026-11-25T12:30:00.000Z",
       "final": "2026-11-25T13:30:00.000Z",
       "totElDia": false,
@@ -175,5 +175,5 @@
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-24T19:18:50.251Z"
+  "actualizado": "2026-11-24T20:18:12.230Z"
 }

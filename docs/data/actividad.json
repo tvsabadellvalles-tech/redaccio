@@ -1,20 +1,6 @@
 {
   "eventos": [
     {
-      "id": "ba8932db4b18ac8c",
-      "t": "2026-11-21T19:24:07.779Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La 21ª Festa del vi novell arriba amb canvi de dia i nou format» (iSabadell).",
-      "itemId": "f621d3d597dc603c"
-    },
-    {
-      "id": "2f46f84357a3ec2c",
-      "t": "2026-11-21T19:24:07.780Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Cultura i festes.",
-      "itemId": "f621d3d597dc603c"
-    },
-    {
       "id": "4b07fde5179dd12f",
       "t": "2026-11-21T19:24:07.781Z",
       "agente": "rastreador",
@@ -2799,7 +2785,21 @@
       "agente": "mesa",
       "texto": "Proposo incloure-ho a l'escaleta (4 punts): mobilitat, obres i urbanisme, economia i ocupació.",
       "itemId": "da971d14f2823bb8"
+    },
+    {
+      "id": "12dceb4f82e3da85",
+      "t": "2026-11-24T20:17:38.617Z",
+      "agente": "rastreador",
+      "texto": "La font «Ajuntament de Cerdanyola del Vallès» torna a respondre.",
+      "itemId": null
+    },
+    {
+      "id": "403d9b5911882c4a",
+      "t": "2026-11-24T20:17:38.618Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Els Jardins del Sud, pendents de la tanca perimetral i la data d'obertura» (Diari de Sabadell).",
+      "itemId": "95ff260ec5830690"
     }
   ],
-  "actualizado": "2026-11-24T19:18:30.056Z"
+  "actualizado": "2026-11-24T20:17:54.259Z"
 }
