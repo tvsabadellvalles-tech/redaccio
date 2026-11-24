@@ -1,146 +1,6 @@
 {
   "eventos": [
     {
-      "id": "449c382c71190a76",
-      "t": "2026-11-20T11:51:23.716Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): política local, educació, medi ambient.",
-      "itemId": "418ce24fc7abf7ba"
-    },
-    {
-      "id": "282a96a2a91c5eac",
-      "t": "2026-11-20T11:51:23.717Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Veni, Vidi, Vici amb Gerard Quintana i Care Santos» (Ràdio Sabadell).",
-      "itemId": "d53a07f2a22a63e4"
-    },
-    {
-      "id": "76ed0dba7b14995d",
-      "t": "2026-11-20T11:51:23.718Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Programa 95 de la Caverna Galàctica» (Ràdio Sabadell).",
-      "itemId": "3e53198d7099a2b2"
-    },
-    {
-      "id": "c912e9c247813a19",
-      "t": "2026-11-20T11:51:23.719Z",
-      "agente": "rastreador",
-      "texto": "He recollit «S'esfondra de nou una xemeneia d'un dels blocs dels Merinals: \"Els nostres edificis es desfan!\"» (Diari de Sabadell).",
-      "itemId": "c0e181df6ba60e5c"
-    },
-    {
-      "id": "df6b6d38bd9b00d6",
-      "t": "2026-11-20T11:51:23.720Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Successos, Economia i ocupació.",
-      "itemId": "c0e181df6ba60e5c"
-    },
-    {
-      "id": "79abc3a97c620a69",
-      "t": "2026-11-20T11:51:23.721Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): successos, economia i ocupació.",
-      "itemId": "c0e181df6ba60e5c"
-    },
-    {
-      "id": "62c2e6692a10cea4",
-      "t": "2026-11-20T11:51:23.722Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Fèlix Colomer: \"El documental de Vinicius és una porqueria\"» (Diari de Sabadell).",
-      "itemId": "1ac130de64cd25fa"
-    },
-    {
-      "id": "325440731ab37087",
-      "t": "2026-11-20T11:51:23.723Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "1ac130de64cd25fa"
-    },
-    {
-      "id": "8c003a0838208377",
-      "t": "2026-11-20T11:51:23.724Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La Llanterna Màgica 401: 25 anys de màgia. Harry Potter i la pedra filosofal.» (Ràdio Sabadell).",
-      "itemId": "9d8d97325a67c63c"
-    },
-    {
-      "id": "14da3aa2679f50f9",
-      "t": "2026-11-20T11:51:23.725Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El programa educatiu de la Sindicatura de Greuges creix amb un ‘scape room’» (iSabadell).",
-      "itemId": "087bf26970a75aff"
-    },
-    {
-      "id": "3a098c0201c575aa",
-      "t": "2026-11-20T11:51:23.726Z",
-      "agente": "rastreador",
-      "texto": "He recollit «L’Ajuntament fa una crida a la ciutadania i les entitats per participar a la Cavalcada de Reis 2027» (Ajuntament de Cerdanyola del Vallès).",
-      "itemId": "6c3b5b0dd82fcf0c"
-    },
-    {
-      "id": "e5b8cf4c65d3a498",
-      "t": "2026-11-20T11:51:23.727Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "6c3b5b0dd82fcf0c"
-    },
-    {
-      "id": "ce0aecbf78d3530e",
-      "t": "2026-11-20T11:51:23.728Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Alumnes protagonitzen una protesta contra la falta de docents i colònies» (iSabadell).",
-      "itemId": "3e5860b80691305c"
-    },
-    {
-      "id": "7d49b9ccde72be04",
-      "t": "2026-11-20T11:51:23.729Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Educació.",
-      "itemId": "3e5860b80691305c"
-    },
-    {
-      "id": "ca642b1690151e56",
-      "t": "2026-11-20T11:51:23.730Z",
-      "agente": "rastreador",
-      "texto": "He recollit «FOTOS | Missió a Sabadell: recuperar els drets abans que l'ERROR 404 s'apoderi de la ciutat» (Diari de Sabadell).",
-      "itemId": "374671a4d0e8e8c7"
-    },
-    {
-      "id": "ac24c45e9ae10729",
-      "t": "2026-11-20T11:55:17.924Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Una trentena d'estudiants de Sabadell es mobilitzen per defensar l'educació pública» (Ràdio Sabadell).",
-      "itemId": "12e80e1f7d300b0b"
-    },
-    {
-      "id": "e114b9e7e68eea49",
-      "t": "2026-11-20T11:55:17.925Z",
-      "agente": "deduplicador",
-      "texto": "Descartada perquè és duplicada: coincideix amb «Una trentena d'estudiants de Sabadell es mobilitzen per defensar l'educació pública i la recuperació de les colònies» (Ràdio Sabadell).",
-      "itemId": "12e80e1f7d300b0b"
-    },
-    {
-      "id": "db32379a2eae271c",
-      "t": "2026-11-20T11:57:06.852Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Can Mas es mobilitza per recuperar l'associació de veïns» (Ajuntament de Ripollet).",
-      "itemId": "1a29868b68ac6e80"
-    },
-    {
-      "id": "6c5ae36e0b57cb25",
-      "t": "2026-11-20T11:57:06.853Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Ripollet reivindica ‘Vides dignes, vides lliures’ amb motiu del 25N» (Ajuntament de Ripollet).",
-      "itemId": "0f94031239229c0a"
-    },
-    {
-      "id": "38a9b3f25ee4e6bc",
-      "t": "2026-11-20T11:57:06.854Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Torna la Festa dels Peluixos a la Biblioteca» (Ajuntament de Ripollet).",
-      "itemId": "03f230c161bb04dd"
-    },
-    {
       "id": "63505e387ccfaa52",
       "t": "2026-11-20T11:57:06.855Z",
       "agente": "etiquetador",
@@ -2799,7 +2659,147 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Salut.",
       "itemId": "ae5c25963f588d09"
+    },
+    {
+      "id": "e4b40106913d49c4",
+      "t": "2026-11-24T10:39:00.035Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Avui s'inaugura l'exposició del projecte L'última frontera: La lluita pels drets dels joves que migren sols» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "c7f5053fdb175571"
+    },
+    {
+      "id": "915ba1cbea72142d",
+      "t": "2026-11-24T10:39:00.036Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "c7f5053fdb175571"
+    },
+    {
+      "id": "f5e4ca91ca21a003",
+      "t": "2026-11-24T10:39:00.037Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La Fira de Nadal se celebrarà el dissabte 28 de novembre a la Rambla i a la plaça de la Vila» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "637281e6b6109a77"
+    },
+    {
+      "id": "af84ba01d15313ad",
+      "t": "2026-11-24T10:39:00.038Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Educació, Cultura i festes.",
+      "itemId": "637281e6b6109a77"
+    },
+    {
+      "id": "ace07409256f7592",
+      "t": "2026-11-24T10:39:00.039Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Els 800 partits de Jordi Bransuela amb el Sabadell: \"No em considero un emblema, ho visc com un soci més\"» (Ràdio Sabadell).",
+      "itemId": "cda041c2fc8877dd"
+    },
+    {
+      "id": "49d773a5ebfed5b3",
+      "t": "2026-11-24T10:39:00.040Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut, Esports.",
+      "itemId": "cda041c2fc8877dd"
+    },
+    {
+      "id": "16b6f56a848ad13f",
+      "t": "2026-11-24T10:39:00.041Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Jutgen una professora de ball de Sabadell acusada d'agredir sexualment una menor» (Ràdio Sabadell).",
+      "itemId": "4050b3204db75dd3"
+    },
+    {
+      "id": "01a976f0d441fec5",
+      "t": "2026-11-24T10:39:00.042Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Successos, Educació.",
+      "itemId": "4050b3204db75dd3"
+    },
+    {
+      "id": "cf024186fa77696f",
+      "t": "2026-11-24T10:39:00.043Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "4050b3204db75dd3"
+    },
+    {
+      "id": "27d3a43a2444b496",
+      "t": "2026-11-24T10:39:00.044Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): successos, educació.",
+      "itemId": "4050b3204db75dd3"
+    },
+    {
+      "id": "92dd34435c8aa2ab",
+      "t": "2026-11-24T10:39:00.045Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Rebutgen la proposta de construir un nou equipament esportiu a la Creu Alta» (Diari de Sabadell).",
+      "itemId": "26b3ba79aaac6da8"
+    },
+    {
+      "id": "47f3a66c35b8321d",
+      "t": "2026-11-24T10:39:00.046Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local, Esports.",
+      "itemId": "26b3ba79aaac6da8"
+    },
+    {
+      "id": "4f4c212f990793f9",
+      "t": "2026-11-24T10:39:00.047Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Quinto de Nadal» (Ajuntament de Barberà del Vallès).",
+      "itemId": "c1cfb87603c91281"
+    },
+    {
+      "id": "7e9c4733aa9d581a",
+      "t": "2026-11-24T10:39:00.048Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El Canya Jove celebra 30 anys d'acompanyament als adolescents i joves de Sant Quirze» (Ajuntament de Sant Quirze del Vallès).",
+      "itemId": "7edcc82bf71edc90"
+    },
+    {
+      "id": "5eccc62c0ca8d8a0",
+      "t": "2026-11-24T10:39:00.049Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "7edcc82bf71edc90"
+    },
+    {
+      "id": "c01e18e4802d91e9",
+      "t": "2026-11-24T10:39:00.050Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La Caserna o les inversions a la Nova Creu Alta centren el Debat de Política Municipal» (Ràdio Sabadell).",
+      "itemId": "2b51f77e4b41e328"
+    },
+    {
+      "id": "90153cdb1d69bae8",
+      "t": "2026-11-24T10:39:00.051Z",
+      "agente": "rastreador",
+      "texto": "He recollit «1r Trofeu Nadal Penya Barça Futsal» (Ajuntament de Barberà del Vallès).",
+      "itemId": "da1ffc3c5ef4db78"
+    },
+    {
+      "id": "2fad8b6446706a50",
+      "t": "2026-11-24T10:39:00.052Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "da1ffc3c5ef4db78"
+    },
+    {
+      "id": "5b31e876d240bf8e",
+      "t": "2026-11-24T10:39:00.053Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Parc de Nadal Infantil» (Ajuntament de Barberà del Vallès).",
+      "itemId": "24eb6d6cb492bbeb"
+    },
+    {
+      "id": "605fb0c98d7443cf",
+      "t": "2026-11-24T10:39:00.054Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "24eb6d6cb492bbeb"
     }
   ],
-  "actualizado": "2026-11-24T09:41:57.217Z"
+  "actualizado": "2026-11-24T10:39:18.824Z"
 }

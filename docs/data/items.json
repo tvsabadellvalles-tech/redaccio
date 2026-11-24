@@ -104,6 +104,139 @@
   },
   "items": [
     {
+      "id": "24eb6d6cb492bbeb",
+      "titulo": "Parc de Nadal Infantil",
+      "enlace": "https://www.bdv.cat/agenda/parc-de-nadal-infantil",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "PARC DE NADAL INFANTIL Espai de jocs, tallers i manualitats per a infants Organitza: Mercat Onze de Setembre",
+      "municipio": "barbera",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-24T10:38:00.000Z",
+      "detectado": "2026-11-24T10:39:00.035Z",
+      "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "da1ffc3c5ef4db78",
+      "titulo": "1r Trofeu Nadal Penya Barça Futsal",
+      "enlace": "https://www.bdv.cat/agenda/1r-trofeu-nadal-penya-barca-futsal",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "1R TROFEU NADAL PENYA BARÇA FUTSAL Torneig de futbol sala quadrangular entre 4 equips de la comarca Organitza: Penya Barça de Barberà del Vallès",
+      "municipio": "barbera",
+      "municipiosMencionados": [
+        "barbera"
+      ],
+      "publicado": "2026-11-24T10:32:00.000Z",
+      "detectado": "2026-11-24T10:39:00.035Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "2b51f77e4b41e328",
+      "titulo": "La Caserna o les inversions a la Nova Creu Alta centren el Debat de Política Municipal",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-mati-debat-politica-novembre-241126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-24T10:17:24.000Z",
+      "detectado": "2026-11-24T10:39:00.035Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "7edcc82bf71edc90",
+      "titulo": "El Canya Jove celebra 30 anys d'acompanyament als adolescents i joves de Sant Quirze",
+      "enlace": "https://www.santquirzevalles.cat/actualitat/noticies/el-canya-jove-celebra-30-anys-dacompanyament-als-adolescents-i-joves-de-sant-quirze",
+      "fuente": "ayto-sant-quirze",
+      "fuenteNombre": "Ajuntament de Sant Quirze del Vallès",
+      "tipo": "oficial",
+      "resumen": "El servei municipal ha commemorat l'aniversari amb un taller de graffiti, música amb DJ i un sopar compartit",
+      "municipio": "sant-quirze",
+      "municipiosMencionados": [
+        "sant-quirze"
+      ],
+      "publicado": "2026-11-24T10:13:21.000Z",
+      "detectado": "2026-11-24T10:39:00.035Z",
+      "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "c1cfb87603c91281",
+      "titulo": "Quinto de Nadal",
+      "enlace": "https://www.bdv.cat/agenda/quinto-de-nadal",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "QUINTO DE NADAL Joc tradicional de Quinto nadalenc. Accés gratuït amb aforament limitat i rotatiu Aquesta activitat es realitzarà els dies: - 25 i 26 de desembre de 18 a 23 h - 1, 2 de gener de 18 a 23 h i el dia 6 de gener de 18 a 22 h…",
+      "municipio": "barbera",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-24T09:57:00.000Z",
+      "detectado": "2026-11-24T10:39:00.035Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "26b3ba79aaac6da8",
+      "titulo": "Rebutgen la proposta de construir un nou equipament esportiu a la Creu Alta",
+      "enlace": "https://www.diaridesabadell.com/esports/mocio-crida-creu-alta-equipament-esportiu-construccio-rebutjada.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-24T09:52:46.000Z",
+      "detectado": "2026-11-24T10:39:00.035Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica",
+        "deportes"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "ae5c25963f588d09",
       "titulo": "Taller de cuina per a persones adultes: Fem galetes de Nadal!",
       "enlace": "https://www.bdv.cat/agenda/taller-de-cuina-persones-adultes-fem-galetes-de-nadal",
@@ -189,6 +322,32 @@
       "propuesta": false
     },
     {
+      "id": "4050b3204db75dd3",
+      "titulo": "Jutgen una professora de ball de Sabadell acusada d'agredir sexualment una menor",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/jutgen-professora-ball-sabadell-agredir-sexualment-menor",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-24T09:23:35.000Z",
+      "detectado": "2026-11-24T10:39:00.035Z",
+      "sensible": true,
+      "etiquetas": [
+        "sucesos",
+        "educacion"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "successos, educació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
       "id": "6968a53a4188446b",
       "titulo": "Gerard Quintana, cantant: \"Sabadell és la referència dels festivals\"",
       "enlace": "https://radiosabadell.fm/actualitat/societat/gerard-quintana-cantant-sabadell-referencia",
@@ -253,6 +412,32 @@
       "propuesta": false
     },
     {
+      "id": "cda041c2fc8877dd",
+      "titulo": "Els 800 partits de Jordi Bransuela amb el Sabadell: \"No em considero un emblema, ho visc com un soci més\"",
+      "enlace": "https://radiosabadell.fm/esports/ce-sabadell/800-partits-jordi-bransuela-sabadell",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-24T08:41:25.000Z",
+      "detectado": "2026-11-24T10:39:00.035Z",
+      "sensible": false,
+      "etiquetas": [
+        "salud",
+        "deportes"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "70b66cd915e3bd8a",
       "titulo": "Fèlix Colomer es queda a les portes de l'Emmy per 'Temps mort'",
       "enlace": "https://www.diaridesabadell.com/oci-cultura/felix-colomer-temps-mort-documental.html",
@@ -312,6 +497,31 @@
       ],
       "puntuacion": 0,
       "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "637281e6b6109a77",
+      "titulo": "La Fira de Nadal se celebrarà el dissabte 28 de novembre a la Rambla i a la plaça de la Vila",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/la-fira-de-nadal-se-celebrara-el-dissabte-28-de-novembre-a-la-rambla-i-a-la-placa-de-la-vila.html",
+      "fuente": "ayto-santa-perpetua",
+      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
+      "tipo": "oficial",
+      "resumen": "L'activitat inclou l'encesa dels llums de Nadal que anirà precedida de dues actuacions de l'Escola Municipal de les Arts (EMA).",
+      "municipio": "santa-perpetua",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-24T08:30:00.000Z",
+      "detectado": "2026-11-24T10:39:00.035Z",
+      "sensible": false,
+      "etiquetas": [
+        "educacion",
+        "cultura"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "font oficial",
+        "educació"
+      ],
       "duplicadaDe": null,
       "propuesta": false
     },
@@ -451,6 +661,29 @@
       ],
       "duplicadaDe": null,
       "propuesta": true
+    },
+    {
+      "id": "c7f5053fdb175571",
+      "titulo": "Avui s'inaugura l'exposició del projecte L'última frontera: La lluita pels drets dels joves que migren sols",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/avui-sinaugura-lexposicio-del-projecte-lultima-frontera-la-lluita-pels-drets-dels-joves-que-migren-sols.html",
+      "fuente": "ayto-santa-perpetua",
+      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
+      "tipo": "oficial",
+      "resumen": "Forma part de la programació inclosa a la campanya SPM Antiracista",
+      "municipio": "santa-perpetua",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-24T08:00:00.000Z",
+      "detectado": "2026-11-24T10:39:00.035Z",
+      "sensible": false,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
     },
     {
       "id": "3ea31c8d16852994",
@@ -721,5 +954,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-24T09:41:57.213Z"
+  "actualizado": "2026-11-24T10:39:18.820Z"
 }
