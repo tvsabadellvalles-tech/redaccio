@@ -104,6 +104,31 @@
   },
   "items": [
     {
+      "id": "da971d14f2823bb8",
+      "titulo": "Palau al Dia - Notícies del 24/11/2026",
+      "enlace": "https://www.radiopalau.cat/podcasts/palau-al-dia/radiopalau_podcast_6854/",
+      "fuente": "radio-palau",
+      "fuenteNombre": "Ràdio Palau - Palau al Dia",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "palau",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-24T17:59:54.000Z",
+      "detectado": "2026-11-24T19:18:12.784Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad",
+        "urbanismo",
+        "economia"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "mobilitat, obres i urbanisme, economia i ocupació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
       "id": "2329371d9d3e7d5e",
       "titulo": "Crida dels docents castellarencs a la vaga de dijous",
       "enlace": "https://www.lactual.cat/actualitat/crida-docents-castellarencs-vaga-dijous_55438_102.html",
@@ -2048,5 +2073,5 @@
       "propuesta": true
     }
   ],
-  "actualizado": "2026-11-24T17:21:08.745Z"
+  "actualizado": "2026-11-24T19:18:30.052Z"
 }

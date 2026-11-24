@@ -30,7 +30,7 @@
     },
     "radio-palau": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "ayto-polinya": {
       "ok": true,
@@ -65,8 +65,9 @@
       "items": 25
     },
     "ayto-cerdanyola": {
-      "ok": true,
-      "items": 2
+      "ok": false,
+      "error": "terminated",
+      "items": 0
     },
     "ayto-badia": {
       "ok": true,
@@ -81,6 +82,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-24T18:13:02.314Z",
-  "actualizado": "2026-11-24T18:13:18.910Z"
+  "consultat": "2026-11-24T19:18:12.784Z",
+  "actualizado": "2026-11-24T19:18:30.054Z"
 }

@@ -1,34 +1,6 @@
 {
   "eventos": [
     {
-      "id": "8feb819d817f3236",
-      "t": "2026-11-21T17:05:55.110Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Una seixantena de corredors estrenen la Sweet Run, la proposta més dolça de la Cap d’Any Race» (Ràdio Sabadell).",
-      "itemId": "48cde46a2f18727a"
-    },
-    {
-      "id": "6ba59095b76269cd",
-      "t": "2026-11-21T17:05:55.111Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Economia i ocupació, Salut, Esports.",
-      "itemId": "48cde46a2f18727a"
-    },
-    {
-      "id": "4ea60752124e4cc5",
-      "t": "2026-11-21T18:27:08.594Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Sabadell recorda Ernest Lluch en el 26è aniversari del seu assassinat» (iSabadell).",
-      "itemId": "40e45b62d116558b"
-    },
-    {
-      "id": "b1da31f8b6790079",
-      "t": "2026-11-21T18:27:08.595Z",
-      "agente": "deduplicador",
-      "texto": "Descartada perquè és duplicada: coincideix amb «Sabadell recorda Ernest Lluch en el 26è aniversari del seu assassinat: \"Ara més que mai, cal que continuïn vius els seus valors\"» (Diari de Sabadell).",
-      "itemId": "40e45b62d116558b"
-    },
-    {
       "id": "ba8932db4b18ac8c",
       "t": "2026-11-21T19:24:07.779Z",
       "agente": "rastreador",
@@ -2799,7 +2771,35 @@
       "agente": "rastreador",
       "texto": "He recollit «Crida dels docents castellarencs a la vaga de dijous» (L'Actual - Castellar del Vallès).",
       "itemId": "2329371d9d3e7d5e"
+    },
+    {
+      "id": "6e405931c068e89b",
+      "t": "2026-11-24T19:18:12.784Z",
+      "agente": "rastreador",
+      "texto": "La font «Ajuntament de Cerdanyola del Vallès» no respon (terminated).",
+      "itemId": null
+    },
+    {
+      "id": "6be681fcd96e4646",
+      "t": "2026-11-24T19:18:12.785Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Palau al Dia - Notícies del 24/11/2026» (Ràdio Palau - Palau al Dia).",
+      "itemId": "da971d14f2823bb8"
+    },
+    {
+      "id": "bcaa84366ef4e975",
+      "t": "2026-11-24T19:18:12.786Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat, Obres i urbanisme, Economia i ocupació.",
+      "itemId": "da971d14f2823bb8"
+    },
+    {
+      "id": "b3371728ee94602a",
+      "t": "2026-11-24T19:18:12.787Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): mobilitat, obres i urbanisme, economia i ocupació.",
+      "itemId": "da971d14f2823bb8"
     }
   ],
-  "actualizado": "2026-11-24T17:21:08.747Z"
+  "actualizado": "2026-11-24T19:18:30.056Z"
 }
