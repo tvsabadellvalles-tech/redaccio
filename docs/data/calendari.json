@@ -2,8 +2,8 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-24T22:19:10.352Z",
-  "total": 24,
+  "consultat": "2026-11-24T23:15:55.774Z",
+  "total": 22,
   "activitats": [
     {
       "titol": "ADRIANA NO VE",
@@ -24,62 +24,6 @@
       "inici": "2026-11-25T00:00:00.000Z",
       "final": "2026-11-26T00:00:00.000Z",
       "totElDia": true,
-      "color": null
-    },
-    {
-      "titol": "Entrevista Mireia Ingla (ERC)",
-      "inici": "2026-11-24T08:00:00.000Z",
-      "final": "2026-11-24T09:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "Entrevista democracia 21 David Andrés",
-      "inici": "2026-11-24T10:00:00.000Z",
-      "final": "2026-11-24T11:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "Visita d'obres a la nova Llar Residència - Centre Ocupacional a Sabadell",
-      "inici": "2026-11-24T11:30:00.000Z",
-      "final": "2026-11-24T12:30:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "COTXE! (Ferran i Fernando becari) VIA15 Mercat Central",
-      "inici": "2026-11-24T11:30:00.000Z",
-      "final": "2026-11-24T12:30:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "Connecta't",
-      "inici": "2026-11-24T12:00:00.000Z",
-      "final": "2026-11-24T13:15:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "(Ferran) CN Sabadell F - Echeyde",
-      "inici": "2026-11-24T14:00:00.000Z",
-      "final": "2026-11-24T15:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "L'Informatiu",
-      "inici": "2026-11-24T15:00:00.000Z",
-      "final": "2026-11-24T16:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "FALS FERRAN / CX - VIA 15 (La llet)",
-      "inici": "2026-11-24T17:00:00.000Z",
-      "final": "2026-11-24T18:00:00.000Z",
-      "totElDia": false,
       "color": null
     },
     {
@@ -172,8 +116,50 @@
       "final": "2026-11-25T19:00:00.000Z",
       "totElDia": false,
       "color": null
+    },
+    {
+      "titol": "Entrevista VOX 29N",
+      "inici": "2026-11-26T09:00:00.000Z",
+      "final": "2026-11-26T10:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "Zeros i Uns",
+      "inici": "2026-11-26T09:30:00.000Z",
+      "final": "2026-11-26T10:30:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "(2) En primera persona: Eva Moreno i Eva Morán",
+      "inici": "2026-11-26T14:15:00.000Z",
+      "final": "2026-11-26T15:15:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "DIRECTE Encesa llums Barberà",
+      "inici": "2026-11-26T15:00:00.000Z",
+      "final": "2026-11-26T20:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "(Lorena) CX - VIA 15 (Actualitat)",
+      "inici": "2026-11-26T17:00:00.000Z",
+      "final": "2026-11-26T18:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "(Ferran) LÍMIT REEL VA DE MODA",
+      "inici": "2026-11-26T18:45:00.000Z",
+      "final": "2026-11-26T19:00:00.000Z",
+      "totElDia": false,
+      "color": null
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-24T22:19:49.088Z"
+  "actualizado": "2026-11-24T23:16:28.774Z"
 }

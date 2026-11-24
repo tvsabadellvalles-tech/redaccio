@@ -1,13 +1,6 @@
 {
   "eventos": [
     {
-      "id": "6dce10d3197279a6",
-      "t": "2026-11-21T20:53:52.764Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Esports.",
-      "itemId": "03534472166b72f9"
-    },
-    {
       "id": "e83865d76e58d51f",
       "t": "2026-11-22T07:44:10.035Z",
       "agente": "rastreador",
@@ -2799,7 +2792,14 @@
       "agente": "mesa",
       "texto": "Proposo incloure-ho a l'escaleta (3 punts): emergències.",
       "itemId": "078f51fb61a89d07"
+    },
+    {
+      "id": "7a8e853a74651a11",
+      "t": "2026-11-24T23:15:55.774Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Infopòdcast Sabadell 25.11.26» (Ràdio Sabadell).",
+      "itemId": "1d03a9680ec24d0f"
     }
   ],
-  "actualizado": "2026-11-24T21:17:47.956Z"
+  "actualizado": "2026-11-24T23:16:10.740Z"
 }
