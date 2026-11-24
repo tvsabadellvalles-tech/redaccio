@@ -104,6 +104,76 @@
   },
   "items": [
     {
+      "id": "2329371d9d3e7d5e",
+      "titulo": "Crida dels docents castellarencs a la vaga de dijous",
+      "enlace": "https://www.lactual.cat/actualitat/crida-docents-castellarencs-vaga-dijous_55438_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-24T16:52:34.000Z",
+      "detectado": "2026-11-24T17:20:41.553Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "a17a60d34ab0c439",
+      "titulo": "La Generalitat compra 17 habitatges de Sabadell que es mantindran en lloguer social",
+      "enlace": "https://www.diaridesabadell.com/sabadell/generalitat-compra-17-pisos-socials-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-24T15:57:13.000Z",
+      "detectado": "2026-11-24T17:20:41.553Z",
+      "sensible": false,
+      "etiquetas": [
+        "urbanismo"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "7de269d7bb43713e",
+      "titulo": "Compte enrere per inaugurar la Residència del Sud",
+      "enlace": "https://radiosabadell.fm/actualitat/urbanisme/compte-enrere-inaugurar-la-residencia-del-sud",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-24T15:48:08.000Z",
+      "detectado": "2026-11-24T17:20:41.553Z",
+      "sensible": false,
+      "etiquetas": [
+        "urbanismo",
+        "salud"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "obres i urbanisme, salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "e6b73825339efcc5",
       "titulo": "Castellar obre el cicle nadalenc",
       "enlace": "https://www.lactual.cat/actualitat/castellar-obre-cicle-nadalenc_55437_102.html",
@@ -122,6 +192,44 @@
       "puntuacion": 0,
       "motivos": [],
       "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "855762ce681e08af",
+      "titulo": "Ca n’Oriac porta la solidaritat a la pell: tatuatges a 20 euros per ajudar una nena a tornar a caminar",
+      "enlace": "https://www.diaridesabadell.com/sabadell/ca-noriac-ajuda-vega-tatuatge-solidaris-sabadell-2026.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-24T15:40:28.000Z",
+      "detectado": "2026-11-24T17:20:41.553Z",
+      "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "6df2d42625b152e5",
+      "titulo": "La residència de Cipo agafa forma: l'equipament podria entrar en funcionament el 2028",
+      "enlace": "https://www.diaridesabadell.com/sabadell/visita-obres-residencia-cipo-can-gambus-sabadell-2028.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-24T15:11:07.000Z",
+      "detectado": "2026-11-24T17:20:41.553Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": "6368fde0b838fb3b",
       "propuesta": false
     },
     {
@@ -1940,5 +2048,5 @@
       "propuesta": true
     }
   ],
-  "actualizado": "2026-11-24T16:15:54.884Z"
+  "actualizado": "2026-11-24T17:21:08.745Z"
 }

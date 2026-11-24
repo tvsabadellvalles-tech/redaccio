@@ -1,69 +1,6 @@
 {
   "eventos": [
     {
-      "id": "7e5a36d9ce3fcd21",
-      "t": "2026-11-21T13:50:30.172Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El Cafè Colors s'obre a tota la comunitat LGTBIQA+» (L'Actual - Castellar del Vallès).",
-      "itemId": "14e35ce5d89c350f"
-    },
-    {
-      "id": "63baa4a136a89740",
-      "t": "2026-11-21T15:26:21.650Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Un CE Sabadell superior s'ha de conformar amb un punt davant del Granada» (Diari de Sabadell).",
-      "itemId": "399d1014068a1049"
-    },
-    {
-      "id": "04425a8e1abbadbc",
-      "t": "2026-11-21T15:26:21.651Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Sabadell 1-1 Granada: el triple de feina per aconseguir empatar» (Ràdio Sabadell).",
-      "itemId": "c023670dfbce66e6"
-    },
-    {
-      "id": "0c7d006debe24140",
-      "t": "2026-11-21T15:26:21.652Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Esports.",
-      "itemId": "c023670dfbce66e6"
-    },
-    {
-      "id": "2f75a280655dd7ab",
-      "t": "2026-11-21T15:26:21.653Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El Sabadell torna a ser competitiu a la Nova Creu Alta (1-1)» (iSabadell).",
-      "itemId": "ddfb0440e72f8779"
-    },
-    {
-      "id": "a46217ae78d5df84",
-      "t": "2026-11-21T16:15:59.288Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El gol del CE Sabadell 1-1 Granada CF» (Ràdio Sabadell).",
-      "itemId": "767e21b35d82af07"
-    },
-    {
-      "id": "2359affb759b7aa7",
-      "t": "2026-11-21T16:15:59.289Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Cerdanyola activa en alerta el pla municipal d’emergències per vent davant la previsió de ratxes fortes» (Ajuntament de Cerdanyola del Vallès).",
-      "itemId": "9acdbdc999163532"
-    },
-    {
-      "id": "1e0bb994b7f40d61",
-      "t": "2026-11-21T16:15:59.290Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Emergències.",
-      "itemId": "9acdbdc999163532"
-    },
-    {
-      "id": "e585effbd0835cf4",
-      "t": "2026-11-21T16:15:59.291Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): font oficial · emergències.",
-      "itemId": "9acdbdc999163532"
-    },
-    {
       "id": "8feb819d817f3236",
       "t": "2026-11-21T17:05:55.110Z",
       "agente": "rastreador",
@@ -2799,7 +2736,70 @@
       "agente": "rastreador",
       "texto": "He recollit «Castellar obre el cicle nadalenc» (L'Actual - Castellar del Vallès).",
       "itemId": "e6b73825339efcc5"
+    },
+    {
+      "id": "0256c3829b68cc10",
+      "t": "2026-11-24T17:20:41.553Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La residència de Cipo agafa forma: l'equipament podria entrar en funcionament el 2028» (Diari de Sabadell).",
+      "itemId": "6df2d42625b152e5"
+    },
+    {
+      "id": "573fe880f68ad10e",
+      "t": "2026-11-24T17:20:41.554Z",
+      "agente": "deduplicador",
+      "texto": "Descartada perquè és duplicada: coincideix amb «La futura residència de CIPO podria entrar en funcionament el 2028» (iSabadell).",
+      "itemId": "6df2d42625b152e5"
+    },
+    {
+      "id": "4607e8d316ae266d",
+      "t": "2026-11-24T17:20:41.555Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Ca n’Oriac porta la solidaritat a la pell: tatuatges a 20 euros per ajudar una nena a tornar a caminar» (Diari de Sabadell).",
+      "itemId": "855762ce681e08af"
+    },
+    {
+      "id": "4f47ea485465a08f",
+      "t": "2026-11-24T17:20:41.556Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "855762ce681e08af"
+    },
+    {
+      "id": "6a0f5004fd6cfd1d",
+      "t": "2026-11-24T17:20:41.557Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Compte enrere per inaugurar la Residència del Sud» (Ràdio Sabadell).",
+      "itemId": "7de269d7bb43713e"
+    },
+    {
+      "id": "cb697fadda6e573a",
+      "t": "2026-11-24T17:20:41.558Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Obres i urbanisme, Salut.",
+      "itemId": "7de269d7bb43713e"
+    },
+    {
+      "id": "62f758faebd477f1",
+      "t": "2026-11-24T17:20:41.559Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La Generalitat compra 17 habitatges de Sabadell que es mantindran en lloguer social» (Diari de Sabadell).",
+      "itemId": "a17a60d34ab0c439"
+    },
+    {
+      "id": "b396134a76644358",
+      "t": "2026-11-24T17:20:41.560Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Obres i urbanisme.",
+      "itemId": "a17a60d34ab0c439"
+    },
+    {
+      "id": "9e3036083a40ab48",
+      "t": "2026-11-24T17:20:41.561Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Crida dels docents castellarencs a la vaga de dijous» (L'Actual - Castellar del Vallès).",
+      "itemId": "2329371d9d3e7d5e"
     }
   ],
-  "actualizado": "2026-11-24T16:15:54.890Z"
+  "actualizado": "2026-11-24T17:21:08.747Z"
 }
