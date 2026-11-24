@@ -2,18 +2,18 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-23T23:50:41.056Z",
+  "consultat": "2026-11-24T00:39:14.603Z",
   "total": 23,
   "activitats": [
     {
-      "titol": "PAULINO NO VE",
+      "titol": "ADRIANA NO VE",
       "inici": "2026-11-24T00:00:00.000Z",
       "final": "2026-11-25T00:00:00.000Z",
       "totElDia": true,
       "color": null
     },
     {
-      "titol": "ADRIANA NO VE",
+      "titol": "PAULINO NO VE",
       "inici": "2026-11-24T00:00:00.000Z",
       "final": "2026-11-25T00:00:00.000Z",
       "totElDia": true,
@@ -104,16 +104,16 @@
       "color": null
     },
     {
-      "titol": "Lorena entra",
+      "titol": "Espai Obert",
       "inici": "2026-11-25T10:00:00.000Z",
-      "final": "2026-11-25T10:30:00.000Z",
+      "final": "2026-11-25T11:30:00.000Z",
       "totElDia": false,
       "color": null
     },
     {
-      "titol": "Espai Obert",
+      "titol": "Lorena entra",
       "inici": "2026-11-25T10:00:00.000Z",
-      "final": "2026-11-25T11:30:00.000Z",
+      "final": "2026-11-25T10:30:00.000Z",
       "totElDia": false,
       "color": null
     },
@@ -168,5 +168,5 @@
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-23T23:51:14.553Z"
+  "actualizado": "2026-11-24T00:39:46.861Z"
 }
