@@ -104,6 +104,232 @@
   },
   "items": [
     {
+      "id": "f9ce691190456ada",
+      "titulo": "Quadri Liameed renova amb el Centre d'Esports Sabadell fins al 2029",
+      "enlace": "https://radiosabadell.fm/esports/ce-sabadell/quadri-renovacio-2029",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-24T11:30:47.000Z",
+      "detectado": "2026-11-24T11:37:53.376Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "7b10ef53cb424bee",
+      "titulo": "Tradicional cercavila de l'Home dels Nassos",
+      "enlace": "https://www.bdv.cat/agenda/tradicional-cercavila-de-lhome-dels-nassos",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "TRADICIONAL CERCAVILA DE L'HOME DELS NASSOS Cercavila de gegants des de La Romànica finalitzant amb balls de gegants a la plaça de la Vila Organitza: Colla de Geganers i Grallers de Barberà del Vallès",
+      "municipio": "barbera",
+      "municipiosMencionados": [
+        "barbera"
+      ],
+      "publicado": "2026-11-24T11:29:00.000Z",
+      "detectado": "2026-11-24T11:37:53.376Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "abe4822169e62043",
+      "titulo": "La comunitat educativa reivindica i celebra els drets dels Infants",
+      "enlace": "https://www.lactual.cat/actualitat/comunitat-educativa-reivindica-celebra-drets-infants_55431_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-24T11:23:23.000Z",
+      "detectado": "2026-11-24T11:37:53.376Z",
+      "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "041fe1863cb20fa0",
+      "titulo": "II Festa dels 2 Nassos",
+      "enlace": "https://www.bdv.cat/agenda/ii-festa-dels-2-nassos",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "II FESTA DELS 2 NASSOS Cercavila popular festiva d'acomiadament de l'any Organitza: Entitats de Cultura Popular de Barberà del Vallès",
+      "municipio": "barbera",
+      "municipiosMencionados": [
+        "barbera"
+      ],
+      "publicado": "2026-11-24T11:23:00.000Z",
+      "detectado": "2026-11-24T11:37:53.376Z",
+      "sensible": false,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "db5c5f6886b2906a",
+      "titulo": "Sant Quirze guarda un minut de silenci per condemnar un nou feminicidi a Catalunya",
+      "enlace": "https://www.santquirzevalles.cat/actualitat/noticies/sant-quirze-guarda-un-minut-de-silenci-per-condemnar-un-nou-feminicidi-a-catalunya",
+      "fuente": "ayto-sant-quirze",
+      "fuenteNombre": "Ajuntament de Sant Quirze del Vallès",
+      "tipo": "oficial",
+      "resumen": "L’acte ha tingut lloc avui, 24 de novembre, a la plaça de la Vila, en record de la dona assassinada a Llívia el passat 15 de novembre",
+      "municipio": "sant-quirze",
+      "municipiosMencionados": [
+        "sant-quirze"
+      ],
+      "publicado": "2026-11-24T11:18:40.000Z",
+      "detectado": "2026-11-24T11:37:53.376Z",
+      "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "c024304f05d81c56",
+      "titulo": "Taller de cuina per a persones adultes: Aperitius interactiu de Cap d'Any",
+      "enlace": "https://www.bdv.cat/agenda/taller-de-cuina-persones-adultes-aperitius-interactiu-de-cap-dany",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "TALLER DE CUINA PER A PERSONES ADULTES: APERITIUS INTERACTIUS DE CAP D'ANY Taller creatiu de receptes i aperitius per a la celebració de la nit de Cap d'Any Organitza: Mercat Onze de Setembre",
+      "municipio": "barbera",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-24T11:18:00.000Z",
+      "detectado": "2026-11-24T11:37:53.376Z",
+      "sensible": false,
+      "etiquetas": [
+        "salud"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "font oficial",
+        "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "7cbb8547628537a8",
+      "titulo": "L’Ajuntament inicia una nova fase del Pla d’Asfaltat amb actuacions de millora en set carrers de Cerdanyola",
+      "enlace": "http://www.cerdanyola.cat/actualitat/lajuntament-inicia-una-nova-fase-del-pla-dasfaltat-amb-actuacions-de-millora-en-set",
+      "fuente": "ayto-cerdanyola",
+      "fuenteNombre": "Ajuntament de Cerdanyola del Vallès",
+      "tipo": "oficial",
+      "resumen": "L’Ajuntament inicia una nova fase del Pla d’Asfaltat amb actuacions de millora en set carrers de Cerdanyola L’Ajuntament va iniciar ahir dilluns 23 de novembre els treballs de la nova fase del Pla d’Asfaltat, que inclou actuacions de…",
+      "municipio": "cerdanyola",
+      "municipiosMencionados": [
+        "cerdanyola"
+      ],
+      "publicado": "2026-11-24T11:09:22.000Z",
+      "detectado": "2026-11-24T11:37:53.376Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad",
+        "urbanismo",
+        "deportes"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "font oficial",
+        "mobilitat, obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "13b5d80323afade9",
+      "titulo": "PP i Vox \"ocupen\" espais electorals del Front Ampli a Sabadell",
+      "enlace": "https://www.diaridesabadell.com/sabadell/pp-vox-cartells-front-ampli-sabadell-eleccions-general-2026.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-24T11:00:51.000Z",
+      "detectado": "2026-11-24T11:37:53.376Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "ee1a11e4327c5ca7",
+      "titulo": "La màgia del Nadal torna a il·luminar el Vallès Occidenal",
+      "enlace": "https://www.diaridesabadell.com/sabadell/nadal/encesa-llums-nadal-vallesoccidental.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-24T10:53:09.000Z",
+      "detectado": "2026-11-24T11:37:53.376Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "ce01673bae6cf480",
+      "titulo": "Sabadell té 84 contenidors de roba: consulta quin és el més proper al teu barri",
+      "enlace": "https://www.diaridesabadell.com/sabadell/on-son-contenidors-de-roba-caritas-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-24T10:42:11.000Z",
+      "detectado": "2026-11-24T11:37:53.376Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "24eb6d6cb492bbeb",
       "titulo": "Parc de Nadal Infantil",
       "enlace": "https://www.bdv.cat/agenda/parc-de-nadal-infantil",
@@ -187,6 +413,31 @@
       "puntuacion": 1,
       "motivos": [
         "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "20c5c53638a1a26c",
+      "titulo": "VÍDEO | Tot a punt per l'encesa de les fonts al passeig de la Plaça Major de Sabadell",
+      "enlace": "https://www.diaridesabadell.com/sabadell/video-tot-a-punt-per-lencesa-de-les-fonts-al-passeig-de-la-placa-major-de-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-24T10:06:34.000Z",
+      "detectado": "2026-11-24T11:37:53.376Z",
+      "sensible": false,
+      "etiquetas": [
+        "medioambiente"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "medi ambient"
       ],
       "duplicadaDe": null,
       "propuesta": false
@@ -296,6 +547,33 @@
       "puntuacion": 1,
       "motivos": [
         "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "55402c239bf7f546",
+      "titulo": "28 i 29 de novembre, primer cap de setmana de Fira de Nadal!",
+      "enlace": "https://www.bdv.cat/noticies/28-i-29-de-novembre-primer-cap-de-setmana-de-fira-de-nadal",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "Aquest cap de setmana, Barberà del Vallès acollirà la primera part de la nova edició de la tradicional Fira de Nadal. Se celebrarà els dies 28 i 29 de novembre a la plaça de la Vila. La fira comptarà amb la participació de comerços…",
+      "municipio": "barbera",
+      "municipiosMencionados": [
+        "barbera"
+      ],
+      "publicado": "2026-11-24T09:28:00.000Z",
+      "detectado": "2026-11-24T11:37:53.376Z",
+      "sensible": true,
+      "etiquetas": [
+        "salud",
+        "cultura"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "font oficial",
+        "salut"
       ],
       "duplicadaDe": null,
       "propuesta": false
@@ -776,6 +1054,30 @@
       "propuesta": false
     },
     {
+      "id": "5a185f972a1dfc85",
+      "titulo": "L'EMA ofereix activitats de cant i creativitat per a les persones majors de 60 anys",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/lema-ofereix-activitats-de-cant-i-creativitat-per-a-les-persones-majors-de-60-anys.html",
+      "fuente": "ayto-santa-perpetua",
+      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
+      "tipo": "oficial",
+      "resumen": "L'Escola Municipal de les Arts (EMA) ofereix dues activitats adreçades a les persones majors de 60 anys: el Cor +60 i el Lab +60.",
+      "municipio": "santa-perpetua",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-24T07:30:00.000Z",
+      "detectado": "2026-11-24T11:37:53.376Z",
+      "sensible": false,
+      "etiquetas": [
+        "educacion"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "font oficial",
+        "educació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "0564a0d569e26af0",
       "titulo": "Les aventures de Mel, Gagà i Tasar",
       "enlace": "https://www.bdv.cat/agenda/les-aventures-de-mel-gaga-i-tasar",
@@ -954,5 +1256,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-24T10:39:18.820Z"
+  "actualizado": "2026-11-24T11:38:09.112Z"
 }

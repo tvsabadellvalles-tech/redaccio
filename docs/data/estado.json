@@ -6,11 +6,11 @@
     },
     "radio-sabadell": {
       "ok": true,
-      "items": 6
+      "items": 7
     },
     "diari-sabadell": {
       "ok": true,
-      "items": 5
+      "items": 9
     },
     "diari-terrassa": {
       "ok": true,
@@ -22,7 +22,7 @@
     },
     "ayto-castellar": {
       "ok": true,
-      "items": 1
+      "items": 2
     },
     "ayto-sentmenat": {
       "ok": true,
@@ -42,7 +42,7 @@
     },
     "ayto-santa-perpetua": {
       "ok": true,
-      "items": 2
+      "items": 3
     },
     "avisos-santa-perpetua": {
       "ok": true,
@@ -62,11 +62,11 @@
     },
     "ayto-barbera": {
       "ok": true,
-      "items": 16
+      "items": 20
     },
     "ayto-cerdanyola": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "ayto-badia": {
       "ok": true,
@@ -74,13 +74,13 @@
     },
     "ayto-sant-quirze": {
       "ok": true,
-      "items": 2
+      "items": 3
     },
     "324-comarques": {
       "ok": true,
       "items": 0
     }
   },
-  "consultat": "2026-11-24T10:39:00.035Z",
-  "actualizado": "2026-11-24T10:39:18.822Z"
+  "consultat": "2026-11-24T11:37:53.376Z",
+  "actualizado": "2026-11-24T11:38:09.114Z"
 }
