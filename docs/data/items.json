@@ -104,6 +104,29 @@
   },
   "items": [
     {
+      "id": "2c010d3e30ed4c83",
+      "titulo": "El Cádiz-Sabadell ja té horari: dissabte a les 16:15h",
+      "enlace": "https://radiosabadell.fm/esports/ce-sabadell/horari-cadiz-sabadell-j18-hypermotion-dissabte-1615",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-25T13:07:03.000Z",
+      "detectado": "2026-11-25T13:12:21.710Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "9861ecd0d68eaebf",
       "titulo": "Turull: “La victòria de Puigdemont és una victòria a l’extrema dreta”",
       "enlace": "https://www.isabadell.cat/politica/eleccions-generals-2026/turull-la-victoria-de-puigdemont-es-una-victoria-a-lextrema-dreta-341571/",
@@ -878,5 +901,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-25T13:04:04.599Z"
+  "actualizado": "2026-11-25T13:12:31.359Z"
 }

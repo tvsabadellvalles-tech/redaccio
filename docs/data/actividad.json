@@ -1,20 +1,6 @@
 {
   "eventos": [
     {
-      "id": "64c6309c675aa1dd",
-      "t": "2026-11-23T09:22:54.283Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · política local.",
-      "itemId": "af3f3457cee6cd7a"
-    },
-    {
-      "id": "50865c00f9503d1c",
-      "t": "2026-11-23T09:22:54.284Z",
-      "agente": "rastreador",
-      "texto": "He recollit «L’Ajuntament contractarà 16 persones per fer tasques d’informació durant la jornada electoral del 29 de novembre» (Ajuntament de Cerdanyola del Vallès).",
-      "itemId": "b115988859ad8ffa"
-    },
-    {
       "id": "47198aa371dcca3e",
       "t": "2026-11-23T09:22:54.285Z",
       "agente": "etiquetador",
@@ -2799,7 +2785,21 @@
       "agente": "rastreador",
       "texto": "He recollit «Turull: “La victòria de Puigdemont és una victòria a l’extrema dreta”» (iSabadell).",
       "itemId": "9861ecd0d68eaebf"
+    },
+    {
+      "id": "34995620382b8c1c",
+      "t": "2026-11-25T13:12:21.710Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El Cádiz-Sabadell ja té horari: dissabte a les 16:15h» (Ràdio Sabadell).",
+      "itemId": "2c010d3e30ed4c83"
+    },
+    {
+      "id": "ede586e459cb50ea",
+      "t": "2026-11-25T13:12:21.711Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "2c010d3e30ed4c83"
     }
   ],
-  "actualizado": "2026-11-25T13:04:04.604Z"
+  "actualizado": "2026-11-25T13:12:31.362Z"
 }
