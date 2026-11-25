@@ -627,16 +627,13 @@ async function consultarServei(servei, ara, userAgent, parser, municipis) {
       const feed = await parser.parseString(xmlTransit);
       if (!Array.isArray(feed.items)) throw new Error('El RSS oficial no inclou una llista d’incidències');
 
-      const datesFeed = [
-        feed.lastBuildDate,
-        respostaTransit.headers.get('last-modified'),
-        ...feed.items.map((item) => item.isoDate || item.pubDate || item.date)
-      ].map((valor) => valor ? new Date(valor) : null)
-        .filter((data) => data && Number.isFinite(data.getTime()))
-        .sort((a, b) => b - a);
-      const dataCarrega = datesFeed[0];
-      if (!dataCarrega || dataCarrega > ara || ara.getTime() - dataCarrega.getTime() > (servei.maxSnapshotAgeMinutes || 180) * 60000) {
-        throw new Error('El RSS oficial no té una marca temporal prou recent per verificar l’estat del trànsit');
+      // La data pubDate d'un item és la publicació de la incidència, no la data
+      // de refresc del conjunt. El catàleg oficial descriu aquest RSS com a actualització horària.
+      // Per tant, no rebutgem el feed perquè l'incident més recent sigui anterior a 3 hores.
+      const dataResposta = respostaTransit.headers.get('date');
+      const dataCarrega = dataResposta ? new Date(dataResposta) : new Date(ara);
+      if (!Number.isFinite(dataCarrega.getTime()) || dataCarrega > new Date(ara.getTime() + 5 * 60000)) {
+        throw new Error('La resposta RSS no inclou una data HTTP vàlida');
       }
 
       const idsMunicipis = new Set(servei.municipis || []);
@@ -665,12 +662,12 @@ async function consultarServei(servei, ara, userAgent, parser, municipis) {
           const dataPublicacio = item.isoDate || item.pubDate || item.date;
           const publicat = dataPublicacio ? new Date(dataPublicacio) : null;
           const local = aliasesMunicipis.some((alias) => inclouText(text, alias));
-          if (!titol || !carretera || !local || !publicat || !Number.isFinite(publicat.getTime())
-            || publicat > ara || clauDiaLocal(publicat) !== clauDiaLocal(ara)) return null;
+          if (!titol || !carretera || !local) return null;
+          if (publicat && (!Number.isFinite(publicat.getTime()) || publicat > ara)) return null;
           return {
             titol,
             detall,
-            publicat: publicat.toISOString(),
+            publicat: publicat?.toISOString() || null,
             carretera
           };
         })
@@ -682,7 +679,7 @@ async function consultarServei(servei, ara, userAgent, parser, municipis) {
         ...base,
         estat: avisos.length ? 'avis' : 'cap-avis-recent',
         detall: avisos.length
-          ? `${avisos.length} ${avisos.length === 1 ? 'incidència' : 'incidències'} d’avui a les carreteres seleccionades del Vallès Occidental, segons el RSS oficial de Trànsit.`
+          ? `${avisos.length} ${avisos.length === 1 ? 'incidència' : 'incidències'} a les carreteres seleccionades del Vallès Occidental, segons el RSS oficial de Trànsit.`
           : 'Cap incidència d’avui a les carreteres seleccionades del Vallès Occidental, segons el RSS oficial de Trànsit.',
         actualitzat: dataCarrega.toISOString(),
         avisos
