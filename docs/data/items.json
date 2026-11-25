@@ -104,6 +104,28 @@
   },
   "items": [
     {
+      "id": "0a6ed275009001fc",
+      "titulo": "Tres nous radars regularan la velocitat de la C-58 al seu pas pel Vallès: com funcionaran?",
+      "enlace": "https://www.diaridesabadell.com/sabadell/radars-nous-velocitat-c58-valles.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "ripollet",
+        "sant-quirze"
+      ],
+      "publicado": "2026-11-25T14:28:58.000Z",
+      "detectado": "2026-11-25T14:34:21.033Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "e24cfd34d79adcda",
       "titulo": "Croàcia (Zagreb) amb Kaua Garcia",
       "enlace": "https://radiosabadell.fm/alacarta/audio/croacia-zagreb-amb-kaua-garcia",
@@ -1051,5 +1073,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-25T14:16:58.736Z"
+  "actualizado": "2026-11-25T14:34:29.636Z"
 }

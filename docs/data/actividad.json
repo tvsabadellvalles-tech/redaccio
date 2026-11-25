@@ -1,13 +1,6 @@
 {
   "eventos": [
     {
-      "id": "58e52524d1ca3212",
-      "t": "2026-11-23T10:35:41.487Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La Policia Local ha interposat 91 denúncies per incompliment de l'Ordenança municipal de residus» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "73e201e9491182ba"
-    },
-    {
       "id": "dd2f12746851b1d2",
       "t": "2026-11-23T10:35:41.488Z",
       "agente": "etiquetador",
@@ -2799,7 +2792,14 @@
       "agente": "rastreador",
       "texto": "He recollit «Croàcia (Zagreb) amb Kaua Garcia» (Ràdio Sabadell).",
       "itemId": "e24cfd34d79adcda"
+    },
+    {
+      "id": "d97838ed07607548",
+      "t": "2026-11-25T14:34:21.033Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Tres nous radars regularan la velocitat de la C-58 al seu pas pel Vallès: com funcionaran?» (Diari de Sabadell).",
+      "itemId": "0a6ed275009001fc"
     }
   ],
-  "actualizado": "2026-11-25T14:16:58.740Z"
+  "actualizado": "2026-11-25T14:34:29.640Z"
 }
