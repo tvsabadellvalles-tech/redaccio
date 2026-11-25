@@ -557,6 +557,69 @@ function pintarPrevisio(dadesServeis) {
   actualitzarIconaPrevisio(new Date());
 }
 
+function urlMapaTransitWms() {
+  const url = new URL('https://sctwms.gencat.cat/WMS/mapserv.exe');
+  url.searchParams.set('map', '\\\\localhost\\AGATA\\EstatDelTransit.map');
+  const params = {
+    SERVICE: 'WMS',
+    VERSION: '1.1.1',
+    REQUEST: 'GetMap',
+    LAYERS: 'TOT',
+    STYLES: '',
+    SRS: 'EPSG:4326',
+    BBOX: '1.7,41.3,2.5,41.8',
+    WIDTH: '1000',
+    HEIGHT: '620',
+    FORMAT: 'image/png',
+    TRANSPARENT: 'TRUE',
+    CACHE_VERSION: String(Math.floor(Date.now() / (8 * 60 * 1000)))
+  };
+  for (const [clau, valor] of Object.entries(params)) url.searchParams.set(clau, valor);
+  return url.href;
+}
+
+function targetaMapaTransit(servei) {
+  const img = el('img', {
+    class: 'servei-mapa-imatge',
+    src: urlMapaTransitWms(),
+    alt: 'Mapa WMS oficial de l’estat del trànsit al Vallès Occidental',
+    loading: 'lazy',
+    decoding: 'async'
+  });
+  img.addEventListener('error', () => {
+    img.replaceWith(el('p', {
+      class: 'servei-mapa-error',
+      text: 'El mapa del WMS no s’ha pogut carregar ara mateix. Consulta la llista oficial d’incidències.'
+    }));
+  }, { once: true });
+
+  return el('section', {
+    class: 'servei-mapa-transit',
+    'aria-label': 'Mapa oficial del trànsit al Vallès Occidental'
+  },
+    el('div', { class: 'servei-mapa-cap' },
+      el('strong', { text: 'Mapa de trànsit · Vallès Occidental' }),
+      el('span', { text: 'Capes principals: actualització cada 8 minuts' })
+    ),
+    el('a', {
+      class: 'servei-mapa-enllac',
+      href: servei.enllac || 'https://cit.transit.gencat.cat/',
+      target: '_blank',
+      rel: 'noopener noreferrer',
+      'aria-label': 'Obrir la consulta oficial d’incidències del Servei Català de Trànsit'
+    }, img),
+    el('div', { class: 'servei-mapa-peu' },
+      el('span', { text: 'Font: Servei Català de Trànsit · WMS' }),
+      el('a', {
+        href: servei.enllac || 'https://cit.transit.gencat.cat/',
+        target: '_blank',
+        rel: 'noopener noreferrer',
+        text: 'Obrir llista d’incidències'
+      })
+    )
+  );
+}
+
 function pintarServeis(dadesServeis) {
   const graella = $('serveis-grid');
   const franjaAvisos = $('serveis-avisos');
@@ -615,6 +678,9 @@ function pintarServeis(dadesServeis) {
       avisos.push({ servei, avis, resum: resumAvisServei(servei, avis) });
     }
   }
+  const serveiTransit = dadesServeis.serveis.find((servei) => servei.id === 'transit');
+  if (serveiTransit) graella.append(targetaMapaTransit(serveiTransit));
+
   const clauActual = avisosServeis[indexAvisServei]?.clau;
   avisosServeis = avisos.map(({ servei, avis, resum }) => ({
     servei,
