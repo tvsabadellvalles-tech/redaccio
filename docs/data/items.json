@@ -104,6 +104,25 @@
   },
   "items": [
     {
+      "id": "1c335b1d7e0d544e",
+      "titulo": "Fem Pedagogia reconeix ciutadans que han transformat la seva experiència professional en titulació",
+      "enlace": "https://www.lactual.cat/actualitat/fem-pedagogia-reconeix-ciutadans-han-transformat-seva-experiencia-professional-en-titulacio_55441_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-25T10:56:34.000Z",
+      "detectado": "2026-11-25T11:41:39.684Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "c73996534e21931a",
       "titulo": "Circular en patinet elèctric sense casc i per les àrees de vianants, les principals infraccions detectades a Barberà",
       "enlace": "https://www.bdv.cat/noticies/circular-en-patinet-electric-sense-casc-i-les-arees-de-vianants-les-principals-infraccions",
@@ -195,6 +214,52 @@
       "puntuacion": 1,
       "motivos": [
         "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "a6558118578d939c",
+      "titulo": "Santa Perpètua marxarà en silenci contra les violències masclistes",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/santa-perpetua-marxara-en-silenci-contra-les-violencies-masclistes.html",
+      "fuente": "ayto-santa-perpetua",
+      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
+      "tipo": "oficial",
+      "resumen": "L’Ajuntament convoca la ciutadania el 25N a les 18.30 h des del parc Central",
+      "municipio": "santa-perpetua",
+      "municipiosMencionados": [
+        "santa-perpetua"
+      ],
+      "publicado": "2026-11-25T10:00:00.000Z",
+      "detectado": "2026-11-25T08:18:59.653Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "8af9d9367c0900a4",
+      "titulo": "Una setantena de persones, a la inauguració de l'exposició L'última frontera: La Lluita pels drets dels joves que migren sols",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/una-setantena-de-persones-a-la-inauguracio-de-lexposicio-lultima-frontera-la-lluita-pels-drets-dels-joves-que-migren-sols.html",
+      "fuente": "ayto-santa-perpetua",
+      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
+      "tipo": "oficial",
+      "resumen": "La Sala d’Exposicions La Granja acull fins al 13 de desembre l’exposició del projecte L'última frontera: La lluita pels drets dels joves que migren sols.",
+      "municipio": "santa-perpetua",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-25T10:00:00.000Z",
+      "detectado": "2026-11-25T11:41:39.684Z",
+      "sensible": false,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
       ],
       "duplicadaDe": null,
       "propuesta": false
@@ -523,19 +588,17 @@
       "propuesta": true
     },
     {
-      "id": "a6558118578d939c",
-      "titulo": "Santa Perpètua marxarà en silenci contra les violències masclistes",
-      "enlace": "https://www.staperpetua.cat/actualitat/noticies/santa-perpetua-marxara-en-silenci-contra-les-violencies-masclistes.html",
+      "id": "33d2e57433e19b97",
+      "titulo": "Sis parelles de mentoria impulsen la inserció laboral de les dones",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/sis-parelles-de-mentoria-impulsen-la-insercio-laboral-de-les-dones.html",
       "fuente": "ayto-santa-perpetua",
       "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
       "tipo": "oficial",
-      "resumen": "L’Ajuntament convoca la ciutadania el 25N a les 18.30 h des del parc Central",
+      "resumen": "El programa forma part del projecte Dones Competents",
       "municipio": "santa-perpetua",
-      "municipiosMencionados": [
-        "santa-perpetua"
-      ],
+      "municipiosMencionados": [],
       "publicado": "2026-11-25T08:00:00.000Z",
-      "detectado": "2026-11-25T08:18:59.653Z",
+      "detectado": "2026-11-25T11:41:39.684Z",
       "sensible": false,
       "etiquetas": [],
       "puntuacion": 1,
@@ -637,7 +700,31 @@
       "motivos": [],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "25daaa7a0eed3a71",
+      "titulo": "Noves neteges de fang al polígon de Ca n'Oller",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/noves-neteges-de-fang-al-poligon-de-ca-noller.html",
+      "fuente": "ayto-santa-perpetua",
+      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
+      "tipo": "oficial",
+      "resumen": "Aquests dies s’han dut a terme noves actuacions de neteja, en aquest cas, al polígon industrial de Ca n’Oller per fer front a les afectacions provocades pels aiguats.",
+      "municipio": "santa-perpetua",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-24T23:00:00.000Z",
+      "detectado": "2026-11-25T11:41:39.684Z",
+      "sensible": false,
+      "etiquetas": [
+        "economia"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "font oficial",
+        "economia i ocupació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
     }
   ],
-  "actualizado": "2026-11-25T10:41:53.283Z"
+  "actualizado": "2026-11-25T11:41:53.109Z"
 }

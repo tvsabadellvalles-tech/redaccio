@@ -1,48 +1,6 @@
 {
   "eventos": [
     {
-      "id": "21381f52eb95d14a",
-      "t": "2026-11-22T15:20:51.079Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La Taula de Periodisme Local obre la Setmana del Llibre de Sabadell» (Ràdio Sabadell).",
-      "itemId": "c10ad066577b9125"
-    },
-    {
-      "id": "2a2a23c5ec63bcce",
-      "t": "2026-11-22T15:20:51.080Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Obres i urbanisme, Cultura i festes.",
-      "itemId": "c10ad066577b9125"
-    },
-    {
-      "id": "c26ef048a42dcf76",
-      "t": "2026-11-22T16:08:06.487Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Front Ampli es reivindica com el vot útil de l’esquerra» (iSabadell).",
-      "itemId": "fd01d71bb951d849"
-    },
-    {
-      "id": "618c540740e61581",
-      "t": "2026-11-22T16:08:06.488Z",
-      "agente": "rastreador",
-      "texto": "He recollit «FOTOS | Motor Clàssic torna a Fira Sabadell amb una mostra de vehicles històrics» (Diari de Sabadell).",
-      "itemId": "411a3780cc6f1abb"
-    },
-    {
-      "id": "d932c3dcde6eaea8",
-      "t": "2026-11-22T16:08:06.489Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Cultura i festes.",
-      "itemId": "411a3780cc6f1abb"
-    },
-    {
-      "id": "02623c1926efdc63",
-      "t": "2026-11-22T16:08:06.490Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La Taula de Periodisme Local enceta la Setmana del Llibre SBD 2026» (iSabadell).",
-      "itemId": "812dc8718d9f822d"
-    },
-    {
       "id": "3ac9954d012dfd6b",
       "t": "2026-11-22T18:19:29.893Z",
       "agente": "rastreador",
@@ -2799,7 +2757,49 @@
       "agente": "mesa",
       "texto": "Proposo incloure-ho a l'escaleta (5 punts): font oficial · mobilitat, successos.",
       "itemId": "c73996534e21931a"
+    },
+    {
+      "id": "adfeeef204d3a9d4",
+      "t": "2026-11-25T11:41:39.684Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Noves neteges de fang al polígon de Ca n'Oller» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "25daaa7a0eed3a71"
+    },
+    {
+      "id": "07da008747d5e095",
+      "t": "2026-11-25T11:41:39.685Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Economia i ocupació.",
+      "itemId": "25daaa7a0eed3a71"
+    },
+    {
+      "id": "ead057f0fcae0d8c",
+      "t": "2026-11-25T11:41:39.686Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Sis parelles de mentoria impulsen la inserció laboral de les dones» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "33d2e57433e19b97"
+    },
+    {
+      "id": "72cfb220f02948d3",
+      "t": "2026-11-25T11:41:39.687Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Una setantena de persones, a la inauguració de l'exposició L'última frontera: La Lluita pels drets dels joves que migren sols» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "8af9d9367c0900a4"
+    },
+    {
+      "id": "77b21612c516c290",
+      "t": "2026-11-25T11:41:39.688Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "8af9d9367c0900a4"
+    },
+    {
+      "id": "1050673f2e23bc8f",
+      "t": "2026-11-25T11:41:39.689Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Fem Pedagogia reconeix ciutadans que han transformat la seva experiència professional en titulació» (L'Actual - Castellar del Vallès).",
+      "itemId": "1c335b1d7e0d544e"
     }
   ],
-  "actualizado": "2026-11-25T10:41:53.287Z"
+  "actualizado": "2026-11-25T11:41:53.113Z"
 }
