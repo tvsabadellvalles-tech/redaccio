@@ -584,6 +584,18 @@ function pintarServeis(dadesServeis) {
   for (const servei of dadesServeis.serveis) {
     const estat = etiquetaEstatServei(servei);
     const nomServei = noms[servei.id] || servei.nom;
+    const contingutServei = el('div', { class: 'servei-contingut' },
+      servei.detall ? el('p', { class: 'servei-detall', text: servei.detall }) : null,
+      servei.consultat ? el('small', { class: 'servei-actualitzacio', text: `Consultat ${hora(servei.consultat)}` }) : null,
+      servei.enllac ? el('div', { class: 'servei-enllacos' },
+        el('a', {
+          href: servei.enllac,
+          target: '_blank',
+          rel: 'noopener noreferrer',
+          text: servei.id === 'transit' ? 'Veure incidències oficials' : 'Font oficial'
+        })
+      ) : null
+    );
     graella.append(el('article', {
       class: `servei-card servei-card-${servei.id} ${estat.classe}`,
       'aria-label': `${nomServei}: ${estat.text}`,
@@ -591,8 +603,10 @@ function pintarServeis(dadesServeis) {
     },
       el('div', { class: 'servei-resum' },
         iconaServeiElement(servei),
-        el('span', { class: 'servei-nom', text: nomServei })
-      )
+        el('span', { class: 'servei-nom', text: nomServei }),
+        el('span', { class: 'servei-badge', text: estat.text })
+      ),
+      contingutServei
     ));
     const avisosServei = servei.id === 'fgc' && servei.estat === 'avis' && !servei.avisos?.length
       ? [{ titol: servei.detall, detall: servei.detall }]
