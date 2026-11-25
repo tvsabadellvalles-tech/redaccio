@@ -55,11 +55,18 @@ jobs:
             return { r, body: await r.text() };
           }
           const caps = await resposta({ SERVICE: 'WMS', VERSION: '1.1.1', REQUEST: 'GetCapabilities' });
-          console.log(`[wms-check] capabilities: http=${caps.r.status} type=${caps.r.headers.get('content-type') || ''} bytes=${Buffer.byteLength(caps.body)}`);
-          const layerMatches = [...caps.body.matchAll(/<Layer\\b([^>]*)>[\\s\\S]*?<Name>([^<]+)<\\/Name>/g)]
-            .slice(0, 40)
-            .map(m => `${m[2].trim()} queryable=${/queryable=["']1["']/.test(m[1])}`);
-          console.log(`[wms-check] layers: ${layerMatches.join(' | ')}`);
+          console.log('[wms-check] capabilities: http=' + caps.r.status + ' type=' + (caps.r.headers.get('content-type') || '') + ' bytes=' + Buffer.byteLength(caps.body));
+          const layerMatches = [];
+          for (const fragment of caps.body.split('<Layer').slice(1)) {
+            const fi = fragment.indexOf('>');
+            const ni = fragment.indexOf('<Name>');
+            const nf = ni >= 0 ? fragment.indexOf('</Name>', ni) : -1;
+            if (fi < 0 || ni < 0 || nf < 0) continue;
+            const attrs = fragment.slice(0, fi);
+            const name = fragment.slice(ni + 6, nf).trim();
+            layerMatches.push(name + ' queryable=' + attrs.includes('queryable="1"'));
+          }
+          console.log('[wms-check] layers: ' + layerMatches.join(' | '));
           const bbox = [1.7, 41.3, 2.5, 41.8], width = 1200, height = 1200;
           const punts = [
             ['C58-sud', 2.18, 41.49],
@@ -81,12 +88,12 @@ jobs:
                   BBOX: bbox.join(','), WIDTH: width, HEIGHT: height, FORMAT: 'image/png',
                   INFO_FORMAT: 'text/plain', X: x, Y: y, FEATURE_COUNT: 10
                 });
-                const mostra = q.body.replace(/\\s+/g, ' ').trim().slice(0, 220);
-                if (mostra && !/^GetFeatureInfo results:\\s*$/.test(mostra)) {
-                  console.log(`[wms-check] feature ${capa}/${nom}: http=${q.r.status} ${mostra}`);
+                const mostra = q.body.split('\n').join(' ').trim().slice(0, 220);
+                if (mostra && mostra !== 'GetFeatureInfo results:') {
+                  console.log('[wms-check] feature ' + capa + '/' + nom + ': http=' + q.r.status + ' ' + mostra);
                 }
               } catch (error) {
-                console.log(`[wms-check] feature ${capa}/${nom}: ERROR ${String(error?.message || error).slice(0, 120)}`);
+                console.log('[wms-check] feature ' + capa + '/' + nom + ': ERROR ' + String(error?.message || error).slice(0, 120));
               }
             }
           }
