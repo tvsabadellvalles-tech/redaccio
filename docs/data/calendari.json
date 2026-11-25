@@ -2,18 +2,18 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-25T13:43:52.228Z",
+  "consultat": "2026-11-25T13:48:23.738Z",
   "total": 20,
   "activitats": [
     {
-      "titol": "PAULINO NO VE",
+      "titol": "ADRIANA NO VE",
       "inici": "2026-11-24T00:00:00.000Z",
       "final": "2026-11-25T00:00:00.000Z",
       "totElDia": true,
       "color": null
     },
     {
-      "titol": "ADRIANA NO VE",
+      "titol": "PAULINO NO VE",
       "inici": "2026-11-24T00:00:00.000Z",
       "final": "2026-11-25T00:00:00.000Z",
       "totElDia": true,
@@ -147,5 +147,5 @@
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-25T13:44:27.424Z"
+  "actualizado": "2026-11-25T13:48:52.813Z"
 }

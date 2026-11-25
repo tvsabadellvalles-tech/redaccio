@@ -104,6 +104,34 @@
   },
   "items": [
     {
+      "id": "1c2c2a919d6ad3fd",
+      "titulo": "Barberà del Vallès commemora el 25 de Novembre, Dia Internacional per a l’Eliminació de la Violència contra les Dones",
+      "enlace": "https://www.bdv.cat/noticies/barbera-del-valles-commemora-el-25-de-novembre-dia-internacional-leliminacio-de-la-0",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "En commemoració del Dia Internacional per a l'Eliminació de la Violència contra les Dones, l'Ajuntament de Barberà del Vallès ha organitzat un acte per a tota la ciutadania amb la lectura de la Declaració institucional del 25N a la plaça…",
+      "municipio": "barbera",
+      "municipiosMencionados": [
+        "barbera"
+      ],
+      "publicado": "2026-11-25T13:43:00.000Z",
+      "detectado": "2026-11-25T13:48:23.738Z",
+      "sensible": true,
+      "etiquetas": [
+        "politica",
+        "salud",
+        "educacion"
+      ],
+      "puntuacion": 5,
+      "motivos": [
+        "font oficial",
+        "política local, salut, educació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
       "id": "838795e21cfd4d47",
       "titulo": "Jordi Turull (Junts), des de Sabadell: \"El vot útil per Espanya acaba sent el més inútil per Catalunya\"",
       "enlace": "https://www.diaridesabadell.com/sabadell/jordi-turull-junts-sabadell-eleccions-29-novembre.html",
@@ -981,5 +1009,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-25T13:39:16.073Z"
+  "actualizado": "2026-11-25T13:48:35.343Z"
 }

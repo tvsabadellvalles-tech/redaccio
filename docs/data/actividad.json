@@ -1,34 +1,6 @@
 {
   "eventos": [
     {
-      "id": "5acb9c84752a3e14",
-      "t": "2026-11-23T10:35:41.480Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Esports.",
-      "itemId": "6f1b599fc10f1b6f"
-    },
-    {
-      "id": "b7baa4a709bec51b",
-      "t": "2026-11-23T10:35:41.481Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Les entrades per visitar l'Ambaixador Reial es posaran a la venda el dijous 10 de desembre» (Ràdio Sabadell).",
-      "itemId": "3289a8987dbb6fd9"
-    },
-    {
-      "id": "cc17b431de61b378",
-      "t": "2026-11-23T10:35:41.482Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Economia i ocupació, Cultura i festes.",
-      "itemId": "3289a8987dbb6fd9"
-    },
-    {
-      "id": "cb8f384f4c231145",
-      "t": "2026-11-23T10:35:41.483Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "3289a8987dbb6fd9"
-    },
-    {
       "id": "d4fba182e4eabb55",
       "t": "2026-11-23T10:35:41.484Z",
       "agente": "rastreador",
@@ -2799,7 +2771,35 @@
       "agente": "rastreador",
       "texto": "He recollit «Jordi Turull (Junts), des de Sabadell: \"El vot útil per Espanya acaba sent el més inútil per Catalunya\"» (Diari de Sabadell).",
       "itemId": "838795e21cfd4d47"
+    },
+    {
+      "id": "78e42a038f2f00b5",
+      "t": "2026-11-25T13:48:23.738Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Barberà del Vallès commemora el 25 de Novembre, Dia Internacional per a l’Eliminació de la Violència contra les Dones» (Ajuntament de Barberà del Vallès).",
+      "itemId": "1c2c2a919d6ad3fd"
+    },
+    {
+      "id": "015cc947e78971db",
+      "t": "2026-11-25T13:48:23.739Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local, Salut, Educació.",
+      "itemId": "1c2c2a919d6ad3fd"
+    },
+    {
+      "id": "83a09d4a5298d10a",
+      "t": "2026-11-25T13:48:23.740Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "1c2c2a919d6ad3fd"
+    },
+    {
+      "id": "19db347840dfc092",
+      "t": "2026-11-25T13:48:23.741Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (5 punts): font oficial · política local, salut, educació.",
+      "itemId": "1c2c2a919d6ad3fd"
     }
   ],
-  "actualizado": "2026-11-25T13:39:16.076Z"
+  "actualizado": "2026-11-25T13:48:35.347Z"
 }
