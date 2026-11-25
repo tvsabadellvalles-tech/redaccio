@@ -47,23 +47,49 @@ jobs:
           node --input-type=module <<'NODE'
           const base = 'https://sctwms.gencat.cat/WMS/mapserv.exe';
           const map = '\\\\localhost\\AGATA\\EstatDelTransit.map';
-          async function consulta(etiqueta, params) {
+          async function resposta(params) {
             const url = new URL(base);
             url.searchParams.set('map', map);
             for (const [k, v] of Object.entries(params)) url.searchParams.set(k, String(v));
-            try {
-              const resposta = await fetch(url, { signal: AbortSignal.timeout(25000), headers: { 'User-Agent': 'TVSabadellValles-Redaccio/1.0', Accept: '*/*' } });
-              const tipus = resposta.headers.get('content-type') || '';
-              const bytes = new Uint8Array(await resposta.arrayBuffer());
-              const mostra = new TextDecoder().decode(bytes.slice(0, 260)).replace(/\\s+/g, ' ').trim();
-              console.log(`[wms-check] ${etiqueta}: http=${resposta.status} type=${tipus} bytes=${bytes.length} sample=${mostra}`);
-            } catch (error) {
-              console.log(`[wms-check] ${etiqueta}: ERROR ${String(error?.message || error).slice(0, 220)}`);
+            const r = await fetch(url, { signal: AbortSignal.timeout(25000), headers: { 'User-Agent': 'TVSabadellValles-Redaccio/1.0', Accept: '*/*' } });
+            return { r, body: await r.text() };
+          }
+          const caps = await resposta({ SERVICE: 'WMS', VERSION: '1.1.1', REQUEST: 'GetCapabilities' });
+          console.log(`[wms-check] capabilities: http=${caps.r.status} type=${caps.r.headers.get('content-type') || ''} bytes=${Buffer.byteLength(caps.body)}`);
+          const layerMatches = [...caps.body.matchAll(/<Layer\\b([^>]*)>[\\s\\S]*?<Name>([^<]+)<\\/Name>/g)]
+            .slice(0, 40)
+            .map(m => `${m[2].trim()} queryable=${/queryable=["']1["']/.test(m[1])}`);
+          console.log(`[wms-check] layers: ${layerMatches.join(' | ')}`);
+          const bbox = [1.7, 41.3, 2.5, 41.8], width = 1200, height = 1200;
+          const punts = [
+            ['C58-sud', 2.18, 41.49],
+            ['C58-Sabadell', 2.10, 41.54],
+            ['C58-Terrassa', 2.01, 41.57],
+            ['B30-SantCugat', 2.07, 41.47],
+            ['B30-Barbera', 2.13, 41.50],
+            ['AP7-Barbera', 2.15, 41.51],
+            ['N150-Sabadell', 2.10, 41.55]
+          ];
+          for (const capa of ['AFECTACIONS_DE_CIRCULACIO', 'AFECTACIONS_PER_OBRES', 'CONS', 'SERVEI']) {
+            for (const [nom, lon, lat] of punts) {
+              const x = Math.round((lon - bbox[0]) / (bbox[2] - bbox[0]) * width);
+              const y = Math.round((bbox[3] - lat) / (bbox[3] - bbox[1]) * height);
+              try {
+                const q = await resposta({
+                  SERVICE: 'WMS', VERSION: '1.1.1', REQUEST: 'GetFeatureInfo',
+                  LAYERS: capa, QUERY_LAYERS: capa, STYLES: '', SRS: 'EPSG:4326',
+                  BBOX: bbox.join(','), WIDTH: width, HEIGHT: height, FORMAT: 'image/png',
+                  INFO_FORMAT: 'text/plain', X: x, Y: y, FEATURE_COUNT: 10
+                });
+                const mostra = q.body.replace(/\\s+/g, ' ').trim().slice(0, 220);
+                if (mostra && !/^GetFeatureInfo results:\\s*$/.test(mostra)) {
+                  console.log(`[wms-check] feature ${capa}/${nom}: http=${q.r.status} ${mostra}`);
+                }
+              } catch (error) {
+                console.log(`[wms-check] feature ${capa}/${nom}: ERROR ${String(error?.message || error).slice(0, 120)}`);
+              }
             }
           }
-          await consulta('capabilities', { SERVICE: 'WMS', VERSION: '1.1.1', REQUEST: 'GetCapabilities' });
-          await consulta('mapa-circulacio', { SERVICE: 'WMS', VERSION: '1.1.1', REQUEST: 'GetMap', LAYERS: 'AFECTACIONS_DE_CIRCULACIO', STYLES: '', SRS: 'EPSG:4326', BBOX: '1.85,41.35,2.45,41.75', WIDTH: 800, HEIGHT: 600, FORMAT: 'image/png', TRANSPARENT: 'TRUE' });
-          await consulta('featureinfo-circulacio', { SERVICE: 'WMS', VERSION: '1.1.1', REQUEST: 'GetFeatureInfo', LAYERS: 'AFECTACIONS_DE_CIRCULACIO', QUERY_LAYERS: 'AFECTACIONS_DE_CIRCULACIO', STYLES: '', SRS: 'EPSG:4326', BBOX: '2.05,41.52,2.15,41.58', WIDTH: 512, HEIGHT: 512, FORMAT: 'image/png', INFO_FORMAT: 'text/plain', X: 256, Y: 256, FEATURE_COUNT: 10 });
           NODE
 
       - name: Rastrear fuentes
