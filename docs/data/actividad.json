@@ -1,153 +1,6 @@
 {
   "eventos": [
     {
-      "id": "cb7e560a8eee48da",
-      "t": "2026-11-22T11:48:08.979Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "cace244720300c45"
-    },
-    {
-      "id": "de98213dd995178a",
-      "t": "2026-11-22T11:48:08.980Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): emergències, successos, obres i urbanisme.",
-      "itemId": "cace244720300c45"
-    },
-    {
-      "id": "e80e7c2f0746e793",
-      "t": "2026-11-22T13:37:26.272Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Mor un home en l'incendi d'un habitatge a Sant Quirze del Vallès» (Agència Catalana de Notícies (ACN)).",
-      "itemId": "63426de90aa44299"
-    },
-    {
-      "id": "454f4ec35f7e60d8",
-      "t": "2026-11-22T13:37:26.273Z",
-      "agente": "deduplicador",
-      "texto": "Descartada perquè és duplicada: coincideix amb «Mor un home en l'incendi d'un habitatge a Sant Quirze» (Ràdio Sabadell).",
-      "itemId": "63426de90aa44299"
-    },
-    {
-      "id": "661c31b0a9106f31",
-      "t": "2026-11-22T13:37:26.274Z",
-      "agente": "rastreador",
-      "texto": "He recollit «FOTOS | Els efectes del vent a Sabadell: una persona ferida i una vintena d'avisos a Bombers» (Diari de Sabadell).",
-      "itemId": "b9e60c11d01636dd"
-    },
-    {
-      "id": "e07fc7c67aae1a5e",
-      "t": "2026-11-22T13:37:26.275Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Emergències.",
-      "itemId": "b9e60c11d01636dd"
-    },
-    {
-      "id": "b3dea903cb6d6bd0",
-      "t": "2026-11-22T13:37:26.276Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): emergències.",
-      "itemId": "b9e60c11d01636dd"
-    },
-    {
-      "id": "a1c88f5dd93ba8fa",
-      "t": "2026-11-22T14:29:28.939Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Ernest Urtasun (Front Ampli) crida a defensar les pensions en un acte a Sabadell» (Ràdio Sabadell).",
-      "itemId": "d214bd61b548f637"
-    },
-    {
-      "id": "faebf41d24f3a20f",
-      "t": "2026-11-22T14:29:28.940Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local, Obres i urbanisme, Cultura i festes.",
-      "itemId": "d214bd61b548f637"
-    },
-    {
-      "id": "b051b3c47e88643b",
-      "t": "2026-11-22T14:29:28.941Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): política local, obres i urbanisme.",
-      "itemId": "d214bd61b548f637"
-    },
-    {
-      "id": "52f7842706aea413",
-      "t": "2026-11-22T14:29:28.942Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Mor un home en l’incendi d’una casa a Sant Quirze» (iSabadell).",
-      "itemId": "524128180de84cd4"
-    },
-    {
-      "id": "bfe63764d34a2415",
-      "t": "2026-11-22T14:29:28.943Z",
-      "agente": "deduplicador",
-      "texto": "Descartada perquè és duplicada: coincideix amb «Mor un home en l'incendi d'un habitatge a Sant Quirze» (Ràdio Sabadell).",
-      "itemId": "524128180de84cd4"
-    },
-    {
-      "id": "4c026ec58c30bef4",
-      "t": "2026-11-22T14:29:28.944Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El Sabadell Pickleball Club es proclama campió de Catalunya per clubs» (Ràdio Sabadell).",
-      "itemId": "aba87192a33a5c8e"
-    },
-    {
-      "id": "efc84b9db3552f7f",
-      "t": "2026-11-22T14:29:28.945Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Esports.",
-      "itemId": "aba87192a33a5c8e"
-    },
-    {
-      "id": "68891ad2dc40dcac",
-      "t": "2026-11-22T15:20:51.072Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Mor un home en l’incendi d’un habitatge a Sant Quirze del Vallès» (Diari de Terrassa).",
-      "itemId": "b59ecaf8c1c9d6c0"
-    },
-    {
-      "id": "686c9cdb1a0dfc35",
-      "t": "2026-11-22T15:20:51.073Z",
-      "agente": "deduplicador",
-      "texto": "Descartada perquè és duplicada: coincideix amb «Mor un home en l'incendi d'un habitatge a Sant Quirze» (Ràdio Sabadell).",
-      "itemId": "b59ecaf8c1c9d6c0"
-    },
-    {
-      "id": "fe06dab631f1bcf2",
-      "t": "2026-11-22T15:20:51.074Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Una persona ferida per la caiguda d’un fanal a Sol i Padrís» (iSabadell).",
-      "itemId": "8c0135e1abe60f98"
-    },
-    {
-      "id": "413d4bd3037e6ac9",
-      "t": "2026-11-22T15:20:51.075Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Emergències, Successos.",
-      "itemId": "8c0135e1abe60f98"
-    },
-    {
-      "id": "f1b0b39dcef59671",
-      "t": "2026-11-22T15:20:51.076Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): emergències, successos.",
-      "itemId": "8c0135e1abe60f98"
-    },
-    {
-      "id": "bd95ce8ad8d431f3",
-      "t": "2026-11-22T15:20:51.077Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El Front Ampli desplega la seva artilleria a Sabadell: “No teniu ganes de veure Colau com a ministra d’Habitatge?”» (Diari de Sabadell).",
-      "itemId": "5ca16d7b535e7d71"
-    },
-    {
-      "id": "93a67d6197065e85",
-      "t": "2026-11-22T15:20:51.078Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Obres i urbanisme.",
-      "itemId": "5ca16d7b535e7d71"
-    },
-    {
       "id": "21381f52eb95d14a",
       "t": "2026-11-22T15:20:51.079Z",
       "agente": "rastreador",
@@ -2799,7 +2652,154 @@
       "agente": "rastreador",
       "texto": "He recollit «El Servei d'Informació i Antenció a la Dona (SIAD) atén 36 dones» (L'Actual - Castellar del Vallès).",
       "itemId": "f39f61bbf53b0319"
+    },
+    {
+      "id": "e602a76c79f230d3",
+      "t": "2026-11-25T10:41:36.874Z",
+      "agente": "rastreador",
+      "texto": "He recollit «‘El 29N a les dones ens hi va la vida!’» (iSabadell).",
+      "itemId": "7098ea73ff3e32fa"
+    },
+    {
+      "id": "e4c5e1ac5cf3af58",
+      "t": "2026-11-25T10:41:36.875Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Els Bombers de Sabadell, al límit per la manca de personal: \"El sistema s'aguanta per les hores extres\"» (Diari de Sabadell).",
+      "itemId": "1a68fe84ac28a649"
+    },
+    {
+      "id": "fd0c1e695956264b",
+      "t": "2026-11-25T10:41:36.876Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Emergències.",
+      "itemId": "1a68fe84ac28a649"
+    },
+    {
+      "id": "4c9dfa71d5afea3c",
+      "t": "2026-11-25T10:41:36.877Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): emergències.",
+      "itemId": "1a68fe84ac28a649"
+    },
+    {
+      "id": "3488f51603ecfa39",
+      "t": "2026-11-25T10:41:36.878Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La tertúlia: el 25-N, la nova residència per a persones amb discapacitat o el 29-N» (Ràdio Sabadell).",
+      "itemId": "9341b4125b04421f"
+    },
+    {
+      "id": "80b5e63342bcd850",
+      "t": "2026-11-25T10:41:36.879Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Paracetamol o Ibuprofé?» (Ràdio Sabadell).",
+      "itemId": "f3d7515d50cbdb51"
+    },
+    {
+      "id": "cbf96206bd69e367",
+      "t": "2026-11-25T10:41:36.880Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Alba Torras, número 20 d'ERC al Congrés: \"Amb PP i Vox ens enfrontarem a una paret\"» (Ràdio Sabadell).",
+      "itemId": "bb39f72e0dd36f0b"
+    },
+    {
+      "id": "1889cdb488bb4004",
+      "t": "2026-11-25T10:41:36.881Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local, Obres i urbanisme, Esports.",
+      "itemId": "bb39f72e0dd36f0b"
+    },
+    {
+      "id": "a0acc16de8760cbf",
+      "t": "2026-11-25T10:41:36.882Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): política local, obres i urbanisme.",
+      "itemId": "bb39f72e0dd36f0b"
+    },
+    {
+      "id": "c1b0f53eb98e631d",
+      "t": "2026-11-25T10:41:36.883Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Olga Jiménez, Secretària de Feminismes: \"Només a nivell comunitari podem acabar amb la violència\"» (Ràdio Sabadell).",
+      "itemId": "99ac9459a3134928"
+    },
+    {
+      "id": "99ee59967b7351a8",
+      "t": "2026-11-25T10:41:36.884Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Enrique Ortega, Observatori comarcal: \"Hi ha un increment de les denúncies als partits judicials\"» (Ràdio Sabadell).",
+      "itemId": "b5a08911bc28cf7f"
+    },
+    {
+      "id": "2daea488e8f62fab",
+      "t": "2026-11-25T10:41:36.885Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Cavalcada dels Reis Mags d'Orient» (Ajuntament de Barberà del Vallès).",
+      "itemId": "05379dd97c136008"
+    },
+    {
+      "id": "6cd2736ed76da517",
+      "t": "2026-11-25T10:41:36.886Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat.",
+      "itemId": "05379dd97c136008"
+    },
+    {
+      "id": "de04544b374c4bc9",
+      "t": "2026-11-25T10:41:36.887Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · mobilitat.",
+      "itemId": "05379dd97c136008"
+    },
+    {
+      "id": "5f6f59932d37fcb6",
+      "t": "2026-11-25T10:41:36.888Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El SALAS Sant Nicolau ja lidera en solitari la Super Copa» (Ràdio Sabadell).",
+      "itemId": "30ad83f30d3cb1fc"
+    },
+    {
+      "id": "8a725e5f9fabfeea",
+      "t": "2026-11-25T10:41:36.889Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut, Esports.",
+      "itemId": "30ad83f30d3cb1fc"
+    },
+    {
+      "id": "cc8f50fca6117199",
+      "t": "2026-11-25T10:41:36.890Z",
+      "agente": "rastreador",
+      "texto": "He recollit «DigiProces inverteix 2 milions d'euros per adaptar-se al mercat de la defensa i l'aeroespacial» (Diari de Sabadell).",
+      "itemId": "c796b1fc7926a62f"
+    },
+    {
+      "id": "e22ad11a3d9ed478",
+      "t": "2026-11-25T10:41:36.891Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Quin temps farà durant la triple encesa de llums d'aquest divendres a Sabadell?» (Diari de Sabadell).",
+      "itemId": "a7acf66296586306"
+    },
+    {
+      "id": "3a1fc1caf33ffb6a",
+      "t": "2026-11-25T10:41:36.892Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Circular en patinet elèctric sense casc i per les àrees de vianants, les principals infraccions detectades a Barberà» (Ajuntament de Barberà del Vallès).",
+      "itemId": "c73996534e21931a"
+    },
+    {
+      "id": "0e8970103a9f38f5",
+      "t": "2026-11-25T10:41:36.893Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat, Successos.",
+      "itemId": "c73996534e21931a"
+    },
+    {
+      "id": "0539c0a1a360d7d8",
+      "t": "2026-11-25T10:41:36.894Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (5 punts): font oficial · mobilitat, successos.",
+      "itemId": "c73996534e21931a"
     }
   ],
-  "actualizado": "2026-11-25T09:40:49.500Z"
+  "actualizado": "2026-11-25T10:41:53.287Z"
 }

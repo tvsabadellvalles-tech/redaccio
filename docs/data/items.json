@@ -104,6 +104,193 @@
   },
   "items": [
     {
+      "id": "c73996534e21931a",
+      "titulo": "Circular en patinet elèctric sense casc i per les àrees de vianants, les principals infraccions detectades a Barberà",
+      "enlace": "https://www.bdv.cat/noticies/circular-en-patinet-electric-sense-casc-i-les-arees-de-vianants-les-principals-infraccions",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "La Policia Local de Barberà del Vallès ha dut a terme, entre el 2 i el 15 de novembre, una campanya específica d'inspecció i control dels Vehicles de Mobilitat Personal (VMP), principalment patinets elèctrics, amb l'objectiu de millorar…",
+      "municipio": "barbera",
+      "municipiosMencionados": [
+        "barbera"
+      ],
+      "publicado": "2026-11-25T10:19:00.000Z",
+      "detectado": "2026-11-25T10:41:36.874Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad",
+        "sucesos"
+      ],
+      "puntuacion": 5,
+      "motivos": [
+        "font oficial",
+        "mobilitat, successos"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "a7acf66296586306",
+      "titulo": "Quin temps farà durant la triple encesa de llums d'aquest divendres a Sabadell?",
+      "enlace": "https://www.diaridesabadell.com/sabadell/temps-encesa-llums-sabadell-divendres-llaminer.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-25T10:13:48.000Z",
+      "detectado": "2026-11-25T10:41:36.874Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "c796b1fc7926a62f",
+      "titulo": "DigiProces inverteix 2 milions d'euros per adaptar-se al mercat de la defensa i l'aeroespacial",
+      "enlace": "https://www.diaridesabadell.com/diners/digiproces-inversio-defensa-aeroespacial.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "castellar"
+      ],
+      "publicado": "2026-11-25T10:03:37.000Z",
+      "detectado": "2026-11-25T10:41:36.874Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "30ad83f30d3cb1fc",
+      "titulo": "El SALAS Sant Nicolau ja lidera en solitari la Super Copa",
+      "enlace": "https://radiosabadell.fm/esports/basquet/salas-sant-nicolau-lider-solitari-super-copa",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "cerdanyola",
+        "sant-cugat"
+      ],
+      "publicado": "2026-11-25T10:01:04.000Z",
+      "detectado": "2026-11-25T10:41:36.874Z",
+      "sensible": false,
+      "etiquetas": [
+        "salud",
+        "deportes"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "05379dd97c136008",
+      "titulo": "Cavalcada dels Reis Mags d'Orient",
+      "enlace": "https://www.bdv.cat/agenda/cavalcada-dels-reis-mags-dorient",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "CALVADA DELS REIS D'ORIENT 17 h - Estació RENFE de Barberà, Arribada de Ses Majestats els Reis d'Orient 18 h - Tradicional cavalcada dels Reis d'Orient. Recorregut: Plaça de la Pau, c. de Nàpols, via Sant Oleguer, ronda de Santa Maria, c.…",
+      "municipio": "barbera",
+      "municipiosMencionados": [
+        "barbera"
+      ],
+      "publicado": "2026-11-25T09:58:00.000Z",
+      "detectado": "2026-11-25T10:41:36.874Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "font oficial",
+        "mobilitat"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "b5a08911bc28cf7f",
+      "titulo": "Enrique Ortega, Observatori comarcal: \"Hi ha un increment de les denúncies als partits judicials\"",
+      "enlace": "https://radiosabadell.fm/podcast/fils-ciutat-viu-valles-25N-dades",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-25T09:50:19.000Z",
+      "detectado": "2026-11-25T10:41:36.874Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "99ac9459a3134928",
+      "titulo": "Olga Jiménez, Secretària de Feminismes: \"Només a nivell comunitari podem acabar amb la violència\"",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-mati-teatre-25N-olga-jimenez-251126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-25T09:46:24.000Z",
+      "detectado": "2026-11-25T10:41:36.874Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "bb39f72e0dd36f0b",
+      "titulo": "Alba Torras, número 20 d'ERC al Congrés: \"Amb PP i Vox ens enfrontarem a una paret\"",
+      "enlace": "https://radiosabadell.fm/actualitat/politica/alba-torras-erc-eleccions-generals-29N",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-25T09:37:53.000Z",
+      "detectado": "2026-11-25T10:41:36.874Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica",
+        "urbanismo",
+        "deportes"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "política local, obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
       "id": "f39f61bbf53b0319",
       "titulo": "El Servei d'Informació i Antenció a la Dona (SIAD) atén 36 dones",
       "enlace": "https://www.lactual.cat/actualitat/servei-informacio-antencio-dona-siad-aten-36-dones_55435_102.html",
@@ -224,6 +411,25 @@
       "propuesta": false
     },
     {
+      "id": "f3d7515d50cbdb51",
+      "titulo": "Paracetamol o Ibuprofé?",
+      "enlace": "https://radiosabadell.fm/podcast/fils-ciutat-consells-farmacia-medicacio-251126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-25T08:30:37.000Z",
+      "detectado": "2026-11-25T10:41:36.874Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "d58823164e7e1f6b",
       "titulo": "26 de novembre: Tractament nocturn pel control del morrut",
       "enlace": "https://www.bdv.cat/noticies/26-de-novembre-tractament-nocturn-pel-control-del-morrut",
@@ -252,6 +458,25 @@
       "propuesta": true
     },
     {
+      "id": "9341b4125b04421f",
+      "titulo": "La tertúlia: el 25-N, la nova residència per a persones amb discapacitat o el 29-N",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-mati-tertulia-251126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-25T08:24:25.000Z",
+      "detectado": "2026-11-25T10:41:36.874Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "943a5ac4d9c1735e",
       "titulo": "Barbamec",
       "enlace": "https://www.bdv.cat/agenda/barbamec",
@@ -271,6 +496,31 @@
       ],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "1a68fe84ac28a649",
+      "titulo": "Els Bombers de Sabadell, al límit per la manca de personal: \"El sistema s'aguanta per les hores extres\"",
+      "enlace": "https://www.diaridesabadell.com/sabadell/bombers-sabadell-queixes-hores-extres-manca-personal.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-25T08:05:10.000Z",
+      "detectado": "2026-11-25T10:41:36.874Z",
+      "sensible": false,
+      "etiquetas": [
+        "emergencias"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "emergències"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
     },
     {
       "id": "a6558118578d939c",
@@ -349,6 +599,25 @@
       "propuesta": true
     },
     {
+      "id": "7098ea73ff3e32fa",
+      "titulo": "‘El 29N a les dones ens hi va la vida!’",
+      "enlace": "https://www.isabadell.cat/opinio/el-29n-a-les-dones-ens-hi-va-la-vida-341557/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-25T07:00:00.000Z",
+      "detectado": "2026-11-25T10:41:36.874Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "1d03a9680ec24d0f",
       "titulo": "Infopòdcast Sabadell 25.11.26",
       "enlace": "https://radiosabadell.fm/alacarta/audio/infopodcast-sabadell-251126",
@@ -370,5 +639,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-25T09:40:49.497Z"
+  "actualizado": "2026-11-25T10:41:53.283Z"
 }
