@@ -10,7 +10,7 @@
     },
     "diari-sabadell": {
       "ok": true,
-      "items": 3
+      "items": 4
     },
     "diari-terrassa": {
       "ok": true,
@@ -22,7 +22,7 @@
     },
     "ayto-castellar": {
       "ok": true,
-      "items": 5
+      "items": 6
     },
     "ayto-sentmenat": {
       "ok": true,
@@ -58,7 +58,7 @@
     },
     "ayto-ripollet": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "ayto-barbera": {
       "ok": true,
@@ -74,13 +74,13 @@
     },
     "ayto-sant-quirze": {
       "ok": true,
-      "items": 1
+      "items": 2
     },
     "324-comarques": {
       "ok": true,
       "items": 0
     }
   },
-  "consultat": "2026-11-25T11:41:39.684Z",
-  "actualizado": "2026-11-25T11:41:53.111Z"
+  "consultat": "2026-11-25T12:50:08.901Z",
+  "actualizado": "2026-11-25T12:50:26.355Z"
 }

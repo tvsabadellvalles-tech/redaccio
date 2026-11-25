@@ -1,41 +1,6 @@
 {
   "eventos": [
     {
-      "id": "3ac9954d012dfd6b",
-      "t": "2026-11-22T18:19:29.893Z",
-      "agente": "rastreador",
-      "texto": "He recollit «\"Cal estar present als carrers perquè es busca incidir en el vot indecís\": com ens afecta la cartelleria electoral?» (Diari de Sabadell).",
-      "itemId": "ed6eff18a94a4ff3"
-    },
-    {
-      "id": "14b516da94a26323",
-      "t": "2026-11-22T18:19:29.894Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Així seran les obres al camp del Can Rull: actuacions i calendari» (iSabadell).",
-      "itemId": "eb095eb0424485dc"
-    },
-    {
-      "id": "c167dda1ded161b1",
-      "t": "2026-11-22T18:19:29.895Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Obres i urbanisme, Esports.",
-      "itemId": "eb095eb0424485dc"
-    },
-    {
-      "id": "b5af80d9641256f9",
-      "t": "2026-11-22T21:29:54.754Z",
-      "agente": "rastreador",
-      "texto": "La font «Ajuntament de Sant Quirze del Vallès» no respon (HTTP 503).",
-      "itemId": null
-    },
-    {
-      "id": "da63de24cce164b9",
-      "t": "2026-11-22T22:20:33.625Z",
-      "agente": "rastreador",
-      "texto": "La font «Ajuntament de Sant Quirze del Vallès» torna a respondre.",
-      "itemId": null
-    },
-    {
       "id": "afec705e752c36a0",
       "t": "2026-11-22T22:20:33.626Z",
       "agente": "rastreador",
@@ -2799,7 +2764,42 @@
       "agente": "rastreador",
       "texto": "He recollit «Fem Pedagogia reconeix ciutadans que han transformat la seva experiència professional en titulació» (L'Actual - Castellar del Vallès).",
       "itemId": "1c335b1d7e0d544e"
+    },
+    {
+      "id": "6c5ae36e0b57cb25",
+      "t": "2026-11-25T12:50:08.901Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Ripollet reivindica ‘Vides dignes, vides lliures’ amb motiu del 25N» (Ajuntament de Ripollet).",
+      "itemId": "0f94031239229c0a"
+    },
+    {
+      "id": "68eeefa393b0bb7f",
+      "t": "2026-11-25T12:50:08.902Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Comença el Nadal a Sabadell aquest divendres: hora i lloc de la triple encesa de llums» (Diari de Sabadell).",
+      "itemId": "e909f69064f03bd0"
+    },
+    {
+      "id": "f9587b91278cfc37",
+      "t": "2026-11-25T12:50:08.903Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Rosa Puig: \"Donem una nova vida a les joguines\"» (Ràdio Sabadell).",
+      "itemId": "c8a2bca460378d0a"
+    },
+    {
+      "id": "3ae9ffefb00ed497",
+      "t": "2026-11-25T12:50:08.904Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Neix el Pla d'Acollida i Interculturalitat» (L'Actual - Castellar del Vallès).",
+      "itemId": "26250ce857bdbba4"
+    },
+    {
+      "id": "d610d39a9b849f1a",
+      "t": "2026-11-25T12:50:08.905Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Sant Quirze habilita bústies liles per fer visible la violència masclista silenciada» (Ajuntament de Sant Quirze del Vallès).",
+      "itemId": "5437223884242272"
     }
   ],
-  "actualizado": "2026-11-25T11:41:53.113Z"
+  "actualizado": "2026-11-25T12:50:26.357Z"
 }

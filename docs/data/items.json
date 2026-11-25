@@ -104,6 +104,88 @@
   },
   "items": [
     {
+      "id": "5437223884242272",
+      "titulo": "Sant Quirze habilita bústies liles per fer visible la violència masclista silenciada",
+      "enlace": "https://www.santquirzevalles.cat/actualitat/noticies/sant-quirze-habilita-busties-liles-per-fer-visible-la-violencia-masclista-silenciada-sqv",
+      "fuente": "ayto-sant-quirze",
+      "fuenteNombre": "Ajuntament de Sant Quirze del Vallès",
+      "tipo": "oficial",
+      "resumen": "S’han disposat aquests dos nous elements perquè les dones comparteixin les seves experiències",
+      "municipio": "sant-quirze",
+      "municipiosMencionados": [
+        "sant-quirze"
+      ],
+      "publicado": "2026-11-25T12:25:00.000Z",
+      "detectado": "2026-11-25T12:50:08.901Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "26250ce857bdbba4",
+      "titulo": "Neix el Pla d'Acollida i Interculturalitat",
+      "enlace": "https://www.lactual.cat/actualitat/neix-pla-acollida-interculturalitat_55443_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-25T12:16:55.000Z",
+      "detectado": "2026-11-25T12:50:08.901Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "c8a2bca460378d0a",
+      "titulo": "Rosa Puig: \"Donem una nova vida a les joguines\"",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-mati-joguines-purissima-251126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-25T11:57:52.000Z",
+      "detectado": "2026-11-25T12:50:08.901Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "e909f69064f03bd0",
+      "titulo": "Comença el Nadal a Sabadell aquest divendres: hora i lloc de la triple encesa de llums",
+      "enlace": "https://www.diaridesabadell.com/sabadell/nadal/data-horari-lloc-encesa-llums-nadal-sabadell-2026-llaminer.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-25T11:47:05.000Z",
+      "detectado": "2026-11-25T12:50:08.901Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "1c335b1d7e0d544e",
       "titulo": "Fem Pedagogia reconeix ciutadans que han transformat la seva experiència professional en titulació",
       "enlace": "https://www.lactual.cat/actualitat/fem-pedagogia-reconeix-ciutadans-han-transformat-seva-experiencia-professional-en-titulacio_55441_102.html",
@@ -681,6 +763,29 @@
       "propuesta": false
     },
     {
+      "id": "0f94031239229c0a",
+      "titulo": "Ripollet reivindica ‘Vides dignes, vides lliures’ amb motiu del 25N",
+      "enlace": "https://www.ripollet.cat/actualitat/noticies/ripollet-reivindica-2018vides-dignes-vides-lliures2019-amb-motiu-del-25n",
+      "fuente": "ayto-ripollet",
+      "fuenteNombre": "Ajuntament de Ripollet",
+      "tipo": "oficial",
+      "resumen": "El programa del Dia Internacional per a l’Eliminació de la Violència contra les Dones inclou activitats culturals, tallers, espais de reflexió i accions de sensibilització durant tot el mes de novembre.",
+      "municipio": "ripollet",
+      "municipiosMencionados": [
+        "ripollet"
+      ],
+      "publicado": "2026-11-25T07:00:00.000Z",
+      "detectado": "2026-11-25T12:50:08.901Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "1d03a9680ec24d0f",
       "titulo": "Infopòdcast Sabadell 25.11.26",
       "enlace": "https://radiosabadell.fm/alacarta/audio/infopodcast-sabadell-251126",
@@ -726,5 +831,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-25T11:41:53.109Z"
+  "actualizado": "2026-11-25T12:50:26.354Z"
 }
