@@ -104,6 +104,29 @@
   },
   "items": [
     {
+      "id": "4b156b13904d1365",
+      "titulo": "Comuns denuncien que PP i Vox han ocupat espais electorals del Front Ampli",
+      "enlace": "https://www.isabadell.cat/politica/comuns-denuncien-que-pp-vox-han-ocupat-espais-electorals-del-front-ampli-341602/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-25T17:06:07.000Z",
+      "detectado": "2026-11-25T17:25:04.873Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "86e8e31132e58f6f",
       "titulo": "Quadri: \"Em sento molt estimat per tothom i estic feliç de continuar al Sabadell\"",
       "enlace": "https://www.diaridesabadell.com/esports/quadri-liameed-renovacio-centre-esports-sabadell-lucas-viale-roda-premsa.html",
@@ -165,6 +188,27 @@
       "etiquetas": [
         "deportes"
       ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "7b7e2d5a8dd1d12c",
+      "titulo": "Les joguines de segona mà recuperen la il·lusió a la Puríssima",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/joguines-segona-ma-recuperen-illusio-la-purissima",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-25T15:35:06.000Z",
+      "detectado": "2026-11-25T17:25:04.873Z",
+      "sensible": true,
+      "etiquetas": [],
       "puntuacion": 0,
       "motivos": [],
       "duplicadaDe": null,
@@ -1352,5 +1396,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-25T16:28:07.782Z"
+  "actualizado": "2026-11-25T17:25:23.888Z"
 }

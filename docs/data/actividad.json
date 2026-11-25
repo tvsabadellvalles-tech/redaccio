@@ -1,34 +1,6 @@
 {
   "eventos": [
     {
-      "id": "a5f5d299861f0509",
-      "t": "2026-11-23T10:35:41.515Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Cultura i festes.",
-      "itemId": "f79ea79d381a3991"
-    },
-    {
-      "id": "21583bf0e5fa053a",
-      "t": "2026-11-23T10:35:41.516Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Torneig de futbol de La Marató de 3cat, categories sub11 i sub12» (Ajuntament de Barberà del Vallès).",
-      "itemId": "76405ccd85640fc1"
-    },
-    {
-      "id": "c680f00b0440c29b",
-      "t": "2026-11-23T10:35:41.517Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Esports.",
-      "itemId": "76405ccd85640fc1"
-    },
-    {
-      "id": "6f899f9e03334a5c",
-      "t": "2026-11-23T10:35:41.518Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Pessebre de Nadal de l'AVV La Romànica» (Ajuntament de Barberà del Vallès).",
-      "itemId": "9a1085335cc025c7"
-    },
-    {
       "id": "7730aa8ffeb1a1cf",
       "t": "2026-11-23T10:35:41.519Z",
       "agente": "etiquetador",
@@ -2799,7 +2771,35 @@
       "agente": "rastreador",
       "texto": "He recollit «Quadri: \"Em sento molt estimat per tothom i estic feliç de continuar al Sabadell\"» (Diari de Sabadell).",
       "itemId": "86e8e31132e58f6f"
+    },
+    {
+      "id": "4ff919d0d56fd578",
+      "t": "2026-11-25T17:25:04.873Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Les joguines de segona mà recuperen la il·lusió a la Puríssima» (Ràdio Sabadell).",
+      "itemId": "7b7e2d5a8dd1d12c"
+    },
+    {
+      "id": "86fb67e399eef118",
+      "t": "2026-11-25T17:25:04.874Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "7b7e2d5a8dd1d12c"
+    },
+    {
+      "id": "0ebd3e1f20968446",
+      "t": "2026-11-25T17:25:04.875Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Comuns denuncien que PP i Vox han ocupat espais electorals del Front Ampli» (iSabadell).",
+      "itemId": "4b156b13904d1365"
+    },
+    {
+      "id": "2a3778984088d916",
+      "t": "2026-11-25T17:25:04.876Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "4b156b13904d1365"
     }
   ],
-  "actualizado": "2026-11-25T16:28:07.787Z"
+  "actualizado": "2026-11-25T17:25:23.891Z"
 }
