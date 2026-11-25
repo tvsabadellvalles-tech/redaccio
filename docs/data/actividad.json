@@ -1,27 +1,6 @@
 {
   "eventos": [
     {
-      "id": "ec0ffee2faed5292",
-      "t": "2026-11-23T09:22:54.286Z",
-      "agente": "rastreador",
-      "texto": "He recollit «L'exposició sobre Lorca, ara a la Biblioteca Esteve Paluzie» (Ajuntament de Barberà del Vallès).",
-      "itemId": "b9a89c7f6ebfe4ec"
-    },
-    {
-      "id": "dbfbf148c6eda60e",
-      "t": "2026-11-23T09:22:54.287Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Cultura i festes.",
-      "itemId": "b9a89c7f6ebfe4ec"
-    },
-    {
-      "id": "1e961b69d96b96d9",
-      "t": "2026-11-23T10:35:41.479Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Taller d'autodefensa per a dones, al Complex Esportiu» (Ajuntament de Badia del Vallès).",
-      "itemId": "6f1b599fc10f1b6f"
-    },
-    {
       "id": "5acb9c84752a3e14",
       "t": "2026-11-23T10:35:41.480Z",
       "agente": "etiquetador",
@@ -2799,7 +2778,28 @@
       "agente": "rastreador",
       "texto": "He recollit «Els estudiants alcen la veu el 25N» (L'Actual - Castellar del Vallès).",
       "itemId": "65238ff1233c6833"
+    },
+    {
+      "id": "1f9df07e32958d73",
+      "t": "2026-11-25T13:38:58.285Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Sabadell posa el focus en les violències masclistes digitals amb motiu del 25-N» (Ràdio Sabadell).",
+      "itemId": "d52395e94bfaa0e8"
+    },
+    {
+      "id": "6ba4d54f14032d27",
+      "t": "2026-11-25T13:38:58.286Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Urri i Joel Priego també tenen una oferta de renovació sobre la taula» (Ràdio Sabadell).",
+      "itemId": "0f273bbef1c109bf"
+    },
+    {
+      "id": "4a33f215a2a47630",
+      "t": "2026-11-25T13:38:58.287Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Jordi Turull (Junts), des de Sabadell: \"El vot útil per Espanya acaba sent el més inútil per Catalunya\"» (Diari de Sabadell).",
+      "itemId": "838795e21cfd4d47"
     }
   ],
-  "actualizado": "2026-11-25T13:30:37.552Z"
+  "actualizado": "2026-11-25T13:39:16.076Z"
 }
