@@ -2041,7 +2041,7 @@ body {
 .streaming-estat-error { border-color: #873d43; color: #ffb5b8; }
 .streaming-accions { display: flex; align-items: center; flex-wrap: wrap; gap: 7px 12px; margin-top: 6px; color: var(--suave); font-size: 0.66rem; }
 .streaming-reintentar { min-height: 30px; padding: 5px 10px; border: 1px solid var(--borde); border-radius: 6px; background: var(--superficie); color: var(--texto); font-size: 0.69rem; font-weight: 700; cursor: pointer; }
-.streaming-reintentar:hover, .streaming-reintentar:focus-visible { border-color: var(--acento, var(--acento)); outline-offset: 2px; }
+.streaming-reintentar:hover, .streaming-reintentar:focus-visible { border-color: var(--acento); outline-offset: 2px; }
 .agenda-activitats { flex: 1 1 auto; }
 
 @media (max-width: 699px) {
