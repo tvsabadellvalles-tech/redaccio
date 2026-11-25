@@ -1,13 +1,6 @@
 {
   "eventos": [
     {
-      "id": "ad8d858419696a76",
-      "t": "2026-11-23T10:35:41.504Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Inauguració de la Campanya de Nadal del Mercat» (Ajuntament de Barberà del Vallès).",
-      "itemId": "a6cb0a40f3e66e50"
-    },
-    {
       "id": "49a375cc420f4209",
       "t": "2026-11-23T10:35:41.505Z",
       "agente": "rastreador",
@@ -2799,7 +2792,14 @@
       "agente": "rastreador",
       "texto": "He recollit «El Black Friday s’imposa a les rebaixes a Sabadell: \"Tothom ho espera!\"» (Diari de Sabadell).",
       "itemId": "28c6042e019233f8"
+    },
+    {
+      "id": "46e94e88f6dc525e",
+      "t": "2026-11-25T15:07:07.348Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Afectacions a la circulació al carrer Ripoll» (Avisos de l'Ajuntament de Montcada i Reixac).",
+      "itemId": "9239ab4b78ef7637"
     }
   ],
-  "actualizado": "2026-11-25T15:05:35.823Z"
+  "actualizado": "2026-11-25T15:07:16.038Z"
 }
