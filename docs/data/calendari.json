@@ -2,7 +2,7 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-25T15:09:02.128Z",
+  "consultat": "2026-11-25T15:10:53.240Z",
   "total": 20,
   "activitats": [
     {
@@ -97,7 +97,7 @@
       "color": null
     },
     {
-      "titol": "Entrevista VOX 29N",
+      "titol": "(Paulino) Entrevista VOX 29N",
       "inici": "2026-11-26T09:00:00.000Z",
       "final": "2026-11-26T10:00:00.000Z",
       "totElDia": false,
@@ -147,5 +147,5 @@
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-25T15:09:27.950Z"
+  "actualizado": "2026-11-25T15:11:23.480Z"
 }
