@@ -6,7 +6,7 @@
     },
     "radio-sabadell": {
       "ok": true,
-      "items": 1
+      "items": 2
     },
     "diari-sabadell": {
       "ok": true,
@@ -42,7 +42,7 @@
     },
     "ayto-santa-perpetua": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "avisos-santa-perpetua": {
       "ok": true,
@@ -74,13 +74,13 @@
     },
     "ayto-sant-quirze": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "324-comarques": {
       "ok": true,
       "items": 0
     }
   },
-  "consultat": "2026-11-25T06:46:35.117Z",
-  "actualizado": "2026-11-25T06:46:50.541Z"
+  "consultat": "2026-11-25T08:18:59.653Z",
+  "actualizado": "2026-11-25T08:19:16.512Z"
 }

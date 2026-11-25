@@ -104,6 +104,82 @@
   },
   "items": [
     {
+      "id": "a6558118578d939c",
+      "titulo": "Santa Perpètua marxarà en silenci contra les violències masclistes",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/santa-perpetua-marxara-en-silenci-contra-les-violencies-masclistes.html",
+      "fuente": "ayto-santa-perpetua",
+      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
+      "tipo": "oficial",
+      "resumen": "L’Ajuntament convoca la ciutadania el 25N a les 18.30 h des del parc Central",
+      "municipio": "santa-perpetua",
+      "municipiosMencionados": [
+        "santa-perpetua"
+      ],
+      "publicado": "2026-11-25T08:00:00.000Z",
+      "detectado": "2026-11-25T08:18:59.653Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "f342bc026ad12108",
+      "titulo": "Convocat el Ple ordinari de novembre per demà dijous",
+      "enlace": "https://www.santquirzevalles.cat/actualitat/noticies/convocat-el-ple-ordinari-de-novembre-per-dema-dijous",
+      "fuente": "ayto-sant-quirze",
+      "fuenteNombre": "Ajuntament de Sant Quirze del Vallès",
+      "tipo": "oficial",
+      "resumen": "La sessió es podrà seguir en directe a partir de les 20.30 hores",
+      "municipio": "sant-quirze",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-25T07:47:13.000Z",
+      "detectado": "2026-11-25T08:18:59.653Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "font oficial",
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "c2bab8860ac0c095",
+      "titulo": "La C-58 estrenarà tres radars nous abans de final d'any",
+      "enlace": "https://radiosabadell.fm/actualitat/mobilitat/c58-estrenara-tres-radars-velocitat-abans-final-any",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell",
+        "ripollet",
+        "badia",
+        "sant-quirze"
+      ],
+      "publicado": "2026-11-25T07:34:16.000Z",
+      "detectado": "2026-11-25T08:18:59.653Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad",
+        "sucesos"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "mobilitat, successos"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
       "id": "1d03a9680ec24d0f",
       "titulo": "Infopòdcast Sabadell 25.11.26",
       "enlace": "https://radiosabadell.fm/alacarta/audio/infopodcast-sabadell-251126",
@@ -125,5 +201,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-24T23:16:10.737Z"
+  "actualizado": "2026-11-25T08:19:16.511Z"
 }
