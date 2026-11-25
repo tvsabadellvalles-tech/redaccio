@@ -3,7 +3,7 @@
 const params = new URLSearchParams(location.search);
 const carpetaDatos = params.get('datos') ? `data/${params.get('datos').replace(/[^a-z0-9_-]/gi, '')}` : 'data';
 // Incrementa aquesta versió juntament amb docs/version.json i els paràmetres ?v= de docs/index.html en cada publicació.
-const VERSIO_APP = '2026.11.25.5';
+const VERSIO_APP = '2026.11.25.6';
 const REFRESCO_MS = 60000;
 const ANTIGUITAT_MAXIMA_SERVEIS_MS = 10 * 60 * 1000;
 const ANTIGUITAT_MAXIMA_DADES_MS = 45 * 60 * 1000;
@@ -586,8 +586,6 @@ function pintarServeis(dadesServeis) {
     const estat = etiquetaEstatServei(servei);
     const nomServei = noms[servei.id] || servei.nom;
     const contingutServei = el('div', { class: 'servei-contingut' },
-      servei.detall ? el('p', { class: 'servei-detall', text: servei.detall }) : null,
-      servei.consultat ? el('small', { class: 'servei-actualitzacio', text: `Consultat ${hora(servei.consultat)}` }) : null,
       servei.enllac ? el('div', { class: 'servei-enllacos' },
         el('a', {
           href: servei.enllac,
