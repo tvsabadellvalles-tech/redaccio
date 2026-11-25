@@ -1096,60 +1096,142 @@ async function carregar() {
 function iniciarStreaming() {
   const video = $('streaming-video');
   const estat = $('streaming-estat');
+  const boto = $('streaming-reintentar');
   if (!video || !estat) return;
+
+  let instanciaHls = null;
+  let promesaHls = null;
 
   const mostrarEstat = (text, error = false) => {
     estat.textContent = text;
     estat.hidden = false;
     estat.classList.toggle('streaming-estat-error', error);
   };
+
+  const destruirReproductor = () => {
+    if (instanciaHls) {
+      instanciaHls.destroy();
+      instanciaHls = null;
+    }
+    video.pause();
+    video.removeAttribute('src');
+    video.load();
+    video.closest('.streaming-marc')?.classList.remove('streaming-actiu');
+  };
+
   const reproduir = () => {
     const promesa = video.play();
-    promesa?.catch(() => mostrarEstat('Prem ▶ per iniciar el directe'));
+    promesa?.catch(() => mostrarEstat('El senyal està carregat. Prem ▶ al vídeo per iniciar-lo.'));
   };
-  const conectarHls = () => {
-    const Hls = window.Hls;
-    if (!Hls?.isSupported()) {
-      mostrarEstat('Aquest navegador no admet la reproducció HLS', true);
+
+  const carregarHls = () => {
+    if (window.Hls) return Promise.resolve(window.Hls);
+    if (promesaHls) return promesaHls;
+
+    promesaHls = new Promise((resolve, reject) => {
+      const cdns = [
+        'https://cdn.jsdelivr.net/npm/hls.js@1.7.4/dist/hls.min.js',
+        'https://unpkg.com/hls.js@1.7.4/dist/hls.min.js'
+      ];
+      let index = 0;
+      const intentar = () => {
+        if (index >= cdns.length) {
+          reject(new Error('No s’ha pogut descarregar hls.js des dels dos CDN'));
+          return;
+        }
+        const script = document.createElement('script');
+        script.src = cdns[index++];
+        script.async = true;
+        script.addEventListener('load', () => {
+          if (window.Hls) resolve(window.Hls);
+          else intentar();
+        }, { once: true });
+        script.addEventListener('error', () => {
+          script.remove();
+          intentar();
+        }, { once: true });
+        document.head.append(script);
+      };
+      intentar();
+    }).catch((error) => {
+      promesaHls = null;
+      throw error;
+    });
+    return promesaHls;
+  };
+
+  const connectarHls = async () => {
+    let Hls;
+    try {
+      Hls = await carregarHls();
+    } catch (error) {
+      mostrarEstat('No s’ha pogut carregar el reproductor HLS. Comprova la connexió i torna-ho a provar.', true);
       return;
     }
-    const hls = new Hls({ lowLatencyMode: true, liveSyncDurationCount: 3 });
-    hls.loadSource(video.dataset.source);
-    hls.attachMedia(video);
-    hls.on(Hls.Events.MANIFEST_PARSED, reproduir);
-    hls.on(Hls.Events.ERROR, (_event, data) => {
+
+    if (!Hls?.isSupported()) {
+      mostrarEstat('Aquest navegador no admet la reproducció HLS.', true);
+      return;
+    }
+
+    instanciaHls = new Hls({
+      lowLatencyMode: true,
+      liveSyncDurationCount: 3,
+      maxLiveSyncPlaybackRate: 1.2,
+      backBufferLength: 30,
+      enableWorker: true
+    });
+    mostrarEstat('Connectant amb el senyal en directe…');
+    instanciaHls.loadSource(video.dataset.source);
+    instanciaHls.attachMedia(video);
+    instanciaHls.on(Hls.Events.MANIFEST_PARSED, () => {
+      mostrarEstat('Senyal rebut. Preparant la reproducció…');
+      reproduir();
+    });
+    instanciaHls.on(Hls.Events.ERROR, (_event, data) => {
       if (!data.fatal) return;
+      const codiHttp = data.response?.code ? `HTTP ${data.response.code}` : '';
+      const detall = codiHttp || data.details || data.type || 'error desconegut';
       if (data.type === Hls.ErrorTypes.NETWORK_ERROR) {
-        mostrarEstat('Connexió interrompuda · reconnectant…', true);
-        hls.startLoad();
+        mostrarEstat(`No es pot carregar el flux (${detall}). Reintentant…`, true);
+        instanciaHls?.startLoad();
       } else if (data.type === Hls.ErrorTypes.MEDIA_ERROR) {
-        mostrarEstat('Recuperant el senyal…');
-        hls.recoverMediaError();
+        mostrarEstat(`Recuperant el descodificador (${detall})…`);
+        instanciaHls?.recoverMediaError();
       } else {
-        mostrarEstat('El streaming no està disponible ara mateix', true);
-        hls.destroy();
+        mostrarEstat(`El reproductor ha aturat el directe (${detall}). Prem «Tornar a connectar».`, true);
+        instanciaHls?.destroy();
+        instanciaHls = null;
       }
     });
   };
 
+  const connectar = () => {
+    destruirReproductor();
+    mostrarEstat('Connectant amb el directe…');
+    if (video.canPlayType('application/vnd.apple.mpegurl')) {
+      video.src = video.dataset.source;
+      video.load();
+      reproduir();
+    } else {
+      connectarHls();
+    }
+  };
+
   video.addEventListener('playing', () => {
     estat.hidden = true;
+    estat.classList.remove('streaming-estat-error');
     video.closest('.streaming-marc')?.classList.add('streaming-actiu');
   });
-  video.addEventListener('waiting', () => mostrarEstat('Carregant el directe…'));
-  video.addEventListener('error', () => mostrarEstat('El streaming no està disponible ara mateix', true));
-
-  if (video.canPlayType('application/vnd.apple.mpegurl')) {
-    video.src = video.dataset.source;
-    reproduir();
-    return;
-  }
-  const script = document.createElement('script');
-  script.src = 'https://cdn.jsdelivr.net/npm/hls.js@1.7.0/dist/hls.min.js';
-  script.async = true;
-  script.addEventListener('load', conectarHls, { once: true });
-  script.addEventListener('error', () => mostrarEstat('No s’ha pogut carregar el reproductor del directe', true), { once: true });
-  document.head.append(script);
+  video.addEventListener('waiting', () => mostrarEstat('Carregant fragments del directe…'));
+  video.addEventListener('error', () => {
+    const codi = video.error?.code;
+    mostrarEstat(codi
+      ? `El navegador no pot descodificar el vídeo (codi ${codi}).`
+      : 'El navegador no pot reproduir aquest vídeo.', true);
+  });
+  boto?.addEventListener('click', connectar);
+  connectar();
 }
 
 actualitzarRellotge();
