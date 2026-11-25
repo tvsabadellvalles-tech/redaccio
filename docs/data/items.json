@@ -132,6 +132,29 @@
       "propuesta": true
     },
     {
+      "id": "6ef8d4bc2cf603ca",
+      "titulo": "La roda de premsa de Lucas Viale: una renovació més, ofertes a 'Urri' i Priego...",
+      "enlace": "https://radiosabadell.fm/esports/ce-sabadell/roda-premsa-lucas-viale-acord-renovacio-quadri",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-25T13:36:26.000Z",
+      "detectado": "2026-11-25T13:52:15.534Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "838795e21cfd4d47",
       "titulo": "Jordi Turull (Junts), des de Sabadell: \"El vot útil per Espanya acaba sent el més inútil per Catalunya\"",
       "enlace": "https://www.diaridesabadell.com/sabadell/jordi-turull-junts-sabadell-eleccions-29-novembre.html",
@@ -1009,5 +1032,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-25T13:48:35.343Z"
+  "actualizado": "2026-11-25T13:52:23.657Z"
 }

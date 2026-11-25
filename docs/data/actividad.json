@@ -1,20 +1,6 @@
 {
   "eventos": [
     {
-      "id": "d4fba182e4eabb55",
-      "t": "2026-11-23T10:35:41.484Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La Moguda Gastronòmica 2026 incrementa un 50% les vendes» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "cf4a1b1aedcf774a"
-    },
-    {
-      "id": "07d761704b279563",
-      "t": "2026-11-23T10:35:41.485Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La tertúlia: la Caserna, Renfe i el 29-N» (Ràdio Sabadell).",
-      "itemId": "f960ecba6c870c0a"
-    },
-    {
       "id": "d96b7a098ba6d7d7",
       "t": "2026-11-23T10:35:41.486Z",
       "agente": "etiquetador",
@@ -2799,7 +2785,21 @@
       "agente": "mesa",
       "texto": "Proposo incloure-ho a l'escaleta (5 punts): font oficial · política local, salut, educació.",
       "itemId": "1c2c2a919d6ad3fd"
+    },
+    {
+      "id": "164724087e0582e5",
+      "t": "2026-11-25T13:52:15.534Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La roda de premsa de Lucas Viale: una renovació més, ofertes a 'Urri' i Priego...» (Ràdio Sabadell).",
+      "itemId": "6ef8d4bc2cf603ca"
+    },
+    {
+      "id": "4fa09b50b1106c20",
+      "t": "2026-11-25T13:52:15.535Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "6ef8d4bc2cf603ca"
     }
   ],
-  "actualizado": "2026-11-25T13:48:35.347Z"
+  "actualizado": "2026-11-25T13:52:23.661Z"
 }
