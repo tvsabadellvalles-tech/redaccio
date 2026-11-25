@@ -2533,3 +2533,9 @@ html.modo-tv .agenda-cap h2 { font-size: clamp(1.08rem, 1.25vw, 1.35rem); }
 .servei-resum { display: flex; align-items: center; justify-content: flex-start; gap: 9px; min-height: 100%; padding: 0; }
 .servei-nom { display: block; grid-row: auto; grid-column: auto; overflow: visible; white-space: normal; font-size: 0.88rem; }
 .servei-icona { flex: 0 0 auto; }
+
+/* Punt de color de l'estat: sense text ni etiqueta. */
+.servei-estat-punt { display: inline-block; width: 9px; height: 9px; flex: 0 0 9px; margin-left: auto; border-radius: 50%; background: #8b96a3; }
+.servei-card.servei-avis .servei-estat-punt { background: #ff7777; box-shadow: 0 0 0 3px rgb(255 119 119 / 16%); }
+.servei-card.servei-ok .servei-estat-punt { background: #70d7a0; box-shadow: 0 0 0 3px rgb(112 215 160 / 15%); }
+.servei-card.servei-desconegut .servei-estat-punt { background: #9aa7b6; box-shadow: 0 0 0 3px rgb(154 167 182 / 15%); }
