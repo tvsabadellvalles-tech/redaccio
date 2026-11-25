@@ -2,7 +2,7 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-25T20:59:19.286Z",
+  "consultat": "2026-11-25T21:56:56.874Z",
   "total": 20,
   "activitats": [
     {
@@ -41,16 +41,16 @@
       "color": null
     },
     {
-      "titol": "(Josep Maria i Montse) Entrevista Front Ampli",
+      "titol": "(Pep) Decles a òptica pel VIA15",
       "inici": "2026-11-25T10:30:00.000Z",
-      "final": "2026-11-25T12:00:00.000Z",
+      "final": "2026-11-25T11:30:00.000Z",
       "totElDia": false,
       "color": null
     },
     {
-      "titol": "(Pep) Decles a òptica pel VIA15",
+      "titol": "(Josep Maria i Montse) Entrevista Front Ampli",
       "inici": "2026-11-25T10:30:00.000Z",
-      "final": "2026-11-25T11:30:00.000Z",
+      "final": "2026-11-25T12:00:00.000Z",
       "totElDia": false,
       "color": null
     },
@@ -147,5 +147,5 @@
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-25T20:59:57.245Z"
+  "actualizado": "2026-11-25T21:57:40.059Z"
 }
