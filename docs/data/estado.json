@@ -26,8 +26,7 @@
       "items": 0
     },
     "ayto-sentmenat": {
-      "ok": false,
-      "error": "fetch failed",
+      "ok": true,
       "items": 0
     },
     "radio-palau": {
@@ -83,6 +82,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-25T14:38:39.584Z",
-  "actualizado": "2026-11-25T14:38:59.654Z"
+  "consultat": "2026-11-25T14:41:02.012Z",
+  "actualizado": "2026-11-25T14:41:17.151Z"
 }

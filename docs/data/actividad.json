@@ -1,13 +1,6 @@
 {
   "eventos": [
     {
-      "id": "2a7975738b472027",
-      "t": "2026-11-23T10:35:41.490Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El Black Friday i l'encesa de llums donen el tret de sortida a la campanya comercial del Nadal» (Ràdio Sabadell).",
-      "itemId": "2b874047e7f7b3ab"
-    },
-    {
       "id": "1dd9fb4b1f2db9b4",
       "t": "2026-11-23T10:35:41.491Z",
       "agente": "rastreador",
@@ -2799,7 +2792,14 @@
       "agente": "rastreador",
       "texto": "La font «Ajuntament de Sentmenat» no respon (fetch failed).",
       "itemId": null
+    },
+    {
+      "id": "5c5fa766eba11635",
+      "t": "2026-11-25T14:41:02.012Z",
+      "agente": "rastreador",
+      "texto": "La font «Ajuntament de Sentmenat» torna a respondre.",
+      "itemId": null
     }
   ],
-  "actualizado": "2026-11-25T14:36:45.470Z"
+  "actualizado": "2026-11-25T14:41:17.154Z"
 }
