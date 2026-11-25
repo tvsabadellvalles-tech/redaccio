@@ -38,8 +38,7 @@
         "obres",
         "cons"
       ],
-      "maxSnapshotAgeMinutes": 180,
-      "nota": "Font RSS oficial del Servei Català de Trànsit. El catàleg públic indica actualització horària; no s'accepta una resposta que no sigui RSS/XML o que tingui una marca temporal de més de 180 minuts."
+      "nota": "RSS oficial del Servei Català de Trànsit. La periodicitat publicada al catàleg és horària; la data de publicació d'un element és la de la incidència, no la del refresc del conjunt. Per a l'estat viari de més alta freqüència, la web mostra també el WMS oficial (capes principals cada 8 minuts)."
     },
     {
       "id": "meteocat",
