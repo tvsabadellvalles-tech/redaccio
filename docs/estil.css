@@ -716,16 +716,6 @@ li.vacio { color: var(--suave); padding: 16px 0; list-style: none; }
 .servei-enllacos { display: flex; flex-wrap: wrap; gap: 4px 12px; margin-top: 7px; }
 .servei-enllacos a { color: var(--acento); font-size: 0.72rem; font-weight: 700; text-decoration: none; }
 .servei-enllacos a:hover, .servei-enllacos a:focus-visible { text-decoration: underline; }
-.servei-mapa-transit { grid-column: 1 / -1; min-width: 0; padding: 8px 9px; border: 1px solid var(--borde); border-radius: 8px; background: var(--superficie); }
-.servei-mapa-cap { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 5px 10px; margin-bottom: 6px; }
-.servei-mapa-cap strong { font-size: 0.78rem; }
-.servei-mapa-cap span, .servei-mapa-peu { color: var(--suave); font-size: 0.65rem; }
-.servei-mapa-enllac { display: block; overflow: hidden; border: 1px solid var(--borde); border-radius: 6px; background: #f1f4f6; }
-.servei-mapa-imatge { display: block; width: 100%; height: 230px; object-fit: contain; }
-.servei-mapa-peu { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 5px 12px; padding-top: 6px; }
-.servei-mapa-peu a { color: var(--acento); font-weight: 700; text-decoration: none; }
-.servei-mapa-peu a:hover, .servei-mapa-peu a:focus-visible { text-decoration: underline; }
-.servei-mapa-error { margin: 0; padding: 14px; color: var(--suave); font-size: 0.73rem; }
 .serveis-nota { margin: 5px 0 0; color: var(--suave); font-size: 0.63rem; }
 .serveis-buits { grid-column: 1 / -1; margin: 0; padding: 7px; color: var(--suave); font-size: 0.75rem; }
 @media (max-width: 760px) { .serveis-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
