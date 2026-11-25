@@ -104,6 +104,50 @@
   },
   "items": [
     {
+      "id": "09ae9b60c48ad77f",
+      "titulo": "Turull reivindica Junts com ''la veu de Catalunya a Madrid''",
+      "enlace": "https://radiosabadell.fm/actualitat/politica/turull-reivindica-junts-com-la-veu-de-catalunya-madrid",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-25T18:15:38.000Z",
+      "detectado": "2026-11-25T19:07:33.639Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "ada2e523e38d9aa2",
+      "titulo": "Palau al Dia - Notícies del 25/11/2026",
+      "enlace": "https://www.radiopalau.cat/podcasts/palau-al-dia/radiopalau_podcast_6857/",
+      "fuente": "radio-palau",
+      "fuenteNombre": "Ràdio Palau - Palau al Dia",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "palau",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-25T18:00:01.000Z",
+      "detectado": "2026-11-25T19:07:33.639Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "4b156b13904d1365",
       "titulo": "Comuns denuncien que PP i Vox han ocupat espais electorals del Front Ampli",
       "enlace": "https://www.isabadell.cat/politica/comuns-denuncien-que-pp-vox-han-ocupat-espais-electorals-del-front-ampli-341602/",
@@ -117,6 +161,29 @@
       ],
       "publicado": "2026-11-25T17:06:07.000Z",
       "detectado": "2026-11-25T17:25:04.873Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "470e284f0c2ae631",
+      "titulo": "Quadri no reapareixerà a Leganés i espera tornar amb el grup la setmana que ve",
+      "enlace": "https://radiosabadell.fm/esports/ce-sabadell/quadri-roda-premsa-renovacio-2029-lucas-viale",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-25T17:01:49.000Z",
+      "detectado": "2026-11-25T19:07:33.639Z",
       "sensible": false,
       "etiquetas": [
         "deportes"
@@ -1396,5 +1463,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-25T17:25:23.888Z"
+  "actualizado": "2026-11-25T19:07:47.894Z"
 }

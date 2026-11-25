@@ -1,41 +1,6 @@
 {
   "eventos": [
     {
-      "id": "7730aa8ffeb1a1cf",
-      "t": "2026-11-23T10:35:41.519Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Cultura i festes.",
-      "itemId": "9a1085335cc025c7"
-    },
-    {
-      "id": "27d2420e524825cd",
-      "t": "2026-11-23T10:35:41.520Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Cantada de Nadales» (Ajuntament de Barberà del Vallès).",
-      "itemId": "b5e7c7ed2aa6c3d5"
-    },
-    {
-      "id": "47373183f3e0699c",
-      "t": "2026-11-23T11:30:20.592Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Presentada la diagnosi participativa que serà el punt de partida del Pla Local de Promoció de la Salut 2027-2030» (Ajuntament de Montcada i Reixac).",
-      "itemId": "c8a7090eb56de7d1"
-    },
-    {
-      "id": "7c9f98dc6ef09175",
-      "t": "2026-11-23T11:30:20.593Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Salut.",
-      "itemId": "c8a7090eb56de7d1"
-    },
-    {
-      "id": "dc15fa023209f179",
-      "t": "2026-11-23T11:30:20.594Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Tornen les aules d’estudi nocturn a la Biblioteca» (Avisos de l'Ajuntament de Montcada i Reixac).",
-      "itemId": "94ecc9016cfdd385"
-    },
-    {
       "id": "5a26955254fcacc9",
       "t": "2026-11-23T11:30:20.595Z",
       "agente": "etiquetador",
@@ -2799,7 +2764,42 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Esports.",
       "itemId": "4b156b13904d1365"
+    },
+    {
+      "id": "07012145892a2ffe",
+      "t": "2026-11-25T19:07:33.639Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Quadri no reapareixerà a Leganés i espera tornar amb el grup la setmana que ve» (Ràdio Sabadell).",
+      "itemId": "470e284f0c2ae631"
+    },
+    {
+      "id": "6a2eb29560a90097",
+      "t": "2026-11-25T19:07:33.640Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "470e284f0c2ae631"
+    },
+    {
+      "id": "97688da3ab5e0ea2",
+      "t": "2026-11-25T19:07:33.641Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Palau al Dia - Notícies del 25/11/2026» (Ràdio Palau - Palau al Dia).",
+      "itemId": "ada2e523e38d9aa2"
+    },
+    {
+      "id": "c9f9d198882ff59e",
+      "t": "2026-11-25T19:07:33.642Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local.",
+      "itemId": "ada2e523e38d9aa2"
+    },
+    {
+      "id": "156a37efb3b00586",
+      "t": "2026-11-25T19:07:33.643Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Turull reivindica Junts com ''la veu de Catalunya a Madrid''» (Ràdio Sabadell).",
+      "itemId": "09ae9b60c48ad77f"
     }
   ],
-  "actualizado": "2026-11-25T17:25:23.891Z"
+  "actualizado": "2026-11-25T19:07:47.896Z"
 }
