@@ -1,13 +1,6 @@
 {
   "eventos": [
     {
-      "id": "47198aa371dcca3e",
-      "t": "2026-11-23T09:22:54.285Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Economia i ocupació.",
-      "itemId": "b115988859ad8ffa"
-    },
-    {
       "id": "ec0ffee2faed5292",
       "t": "2026-11-23T09:22:54.286Z",
       "agente": "rastreador",
@@ -2799,7 +2792,14 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Esports.",
       "itemId": "2c010d3e30ed4c83"
+    },
+    {
+      "id": "a1c46bde2212b52c",
+      "t": "2026-11-25T13:30:25.688Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Els estudiants alcen la veu el 25N» (L'Actual - Castellar del Vallès).",
+      "itemId": "65238ff1233c6833"
     }
   ],
-  "actualizado": "2026-11-25T13:12:31.362Z"
+  "actualizado": "2026-11-25T13:30:37.552Z"
 }

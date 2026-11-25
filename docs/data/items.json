@@ -104,6 +104,25 @@
   },
   "items": [
     {
+      "id": "65238ff1233c6833",
+      "titulo": "Els estudiants alcen la veu el 25N",
+      "enlace": "https://www.lactual.cat/actualitat/estudiants-alcen-veu-25n_55444_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-25T13:29:16.000Z",
+      "detectado": "2026-11-25T13:30:25.688Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "2c010d3e30ed4c83",
       "titulo": "El Cádiz-Sabadell ja té horari: dissabte a les 16:15h",
       "enlace": "https://radiosabadell.fm/esports/ce-sabadell/horari-cadiz-sabadell-j18-hypermotion-dissabte-1615",
@@ -901,5 +920,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-25T13:12:31.359Z"
+  "actualizado": "2026-11-25T13:30:37.548Z"
 }
