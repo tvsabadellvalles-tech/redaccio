@@ -2029,9 +2029,6 @@ body {
 .streaming-estat { position: absolute; inset: auto 8px 8px; padding: 5px 8px; border: 1px solid #3b4652; border-radius: 5px; background: #0b1119dd; color: #d8e0e8; font-size: 0.72rem; text-align: center; pointer-events: none; }
 .streaming-estat[hidden] { display: none; }
 .streaming-estat-error { border-color: #873d43; color: #ffb5b8; }
-.streaming-accions { display: flex; align-items: center; flex-wrap: wrap; gap: 7px 12px; margin-top: 6px; color: var(--suave); font-size: 0.66rem; }
-.streaming-reintentar { min-height: 30px; padding: 5px 10px; border: 1px solid var(--borde); border-radius: 6px; background: var(--superficie); color: var(--texto); font-size: 0.69rem; font-weight: 700; cursor: pointer; }
-.streaming-reintentar:hover, .streaming-reintentar:focus-visible { border-color: var(--acento); outline-offset: 2px; }
 .agenda-activitats { flex: 1 1 auto; }
 
 @media (max-width: 699px) {
