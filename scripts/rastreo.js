@@ -663,7 +663,7 @@ async function consultarServei(servei, ara, userAgent, parser, municipis) {
           const publicat = dataPublicacio ? new Date(dataPublicacio) : null;
           const local = aliasesMunicipis.some((alias) => inclouText(text, alias));
           if (!titol || !carretera || !local) return null;
-          if (publicat && (!Number.isFinite(publicat.getTime()) || publicat > ara)) return null;
+          if (!publicat || !Number.isFinite(publicat.getTime()) || publicat > ara || clauDiaLocal(publicat) !== clauDiaLocal(ara)) return null;
           return {
             titol,
             detall,
@@ -680,7 +680,7 @@ async function consultarServei(servei, ara, userAgent, parser, municipis) {
         estat: avisos.length ? 'avis' : 'cap-avis-recent',
         detall: avisos.length
           ? `${avisos.length} ${avisos.length === 1 ? 'incidència' : 'incidències'} a les carreteres seleccionades del Vallès Occidental, segons el RSS oficial de Trànsit.`
-          : 'No s’hi identifiquen incidències a les carreteres seleccionades del Vallès Occidental en la consulta del RSS oficial de Trànsit.',
+          : 'Cap incidència d’avui a les carreteres seleccionades del Vallès Occidental, segons el RSS oficial de Trànsit.',
         actualitzat: dataCarrega.toISOString(),
         avisos
       };
