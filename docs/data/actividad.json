@@ -1,20 +1,6 @@
 {
   "eventos": [
     {
-      "id": "321aebcfb43c5c55",
-      "t": "2026-11-23T11:30:20.598Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Tots els detalls de l'arribada de l'Ambaixador Reial a Sabadell 2026» (Diari de Sabadell).",
-      "itemId": "60dba9d0533a543f"
-    },
-    {
-      "id": "149517b87aedad85",
-      "t": "2026-11-23T11:30:20.599Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Poemas, música i moviment» (Ajuntament de Barberà del Vallès).",
-      "itemId": "b6bb397ccdeb573e"
-    },
-    {
       "id": "ec3716e11de470cc",
       "t": "2026-11-23T11:30:20.600Z",
       "agente": "rastreador",
@@ -2799,7 +2785,21 @@
       "agente": "rastreador",
       "texto": "He recollit «Castellar alça la veu contra la violència envers les dones» (L'Actual - Castellar del Vallès).",
       "itemId": "0520800bf1a0584f"
+    },
+    {
+      "id": "bf8db3a46586d9a0",
+      "t": "2026-11-25T20:59:19.286Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Sabadell alça la veu contra la violència masclista» (Ràdio Sabadell).",
+      "itemId": "e5bfd3e1c7109221"
+    },
+    {
+      "id": "68c0575bcd573625",
+      "t": "2026-11-25T20:59:19.287Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Turull (Junts): “Si volen els nostres vots hauran de passar per taquilla”» (iSabadell).",
+      "itemId": "bba414aa960345c0"
     }
   ],
-  "actualizado": "2026-11-25T20:02:56.952Z"
+  "actualizado": "2026-11-25T20:59:36.096Z"
 }

@@ -104,6 +104,48 @@
   },
   "items": [
     {
+      "id": "bba414aa960345c0",
+      "titulo": "Turull (Junts): “Si volen els nostres vots hauran de passar per taquilla”",
+      "enlace": "https://www.isabadell.cat/politica/turull-junts-si-volen-els-nostres-vots-hauran-de-passar-per-taquilla-341626/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-25T20:54:56.000Z",
+      "detectado": "2026-11-25T20:59:19.286Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "e5bfd3e1c7109221",
+      "titulo": "Sabadell alça la veu contra la violència masclista",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/sabadell-alca-la-veu-contra-la-violencia-masclista",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-25T19:59:19.000Z",
+      "detectado": "2026-11-25T20:59:19.286Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "0520800bf1a0584f",
       "titulo": "Castellar alça la veu contra la violència envers les dones",
       "enlace": "https://www.lactual.cat/actualitat/castellar-alca-veu-contra-violencia-envers-dones_55447_102.html",
@@ -1505,5 +1547,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-25T20:02:56.949Z"
+  "actualizado": "2026-11-25T20:59:36.094Z"
 }
