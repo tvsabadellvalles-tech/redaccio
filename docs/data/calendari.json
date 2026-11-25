@@ -2,8 +2,8 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-25T13:03:52.484Z",
-  "total": 21,
+  "consultat": "2026-11-25T13:08:08.795Z",
+  "total": 20,
   "activitats": [
     {
       "titol": "ADRIANA NO VE",
@@ -83,13 +83,6 @@
       "color": null
     },
     {
-      "titol": "Lorena marxa",
-      "inici": "2026-11-25T16:00:00.000Z",
-      "final": "2026-11-25T16:30:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
       "titol": "COTXE! (Ferran i becari) CX - VIA 15 (Conflicte docents)",
       "inici": "2026-11-25T17:00:00.000Z",
       "final": "2026-11-25T18:00:00.000Z",
@@ -154,5 +147,5 @@
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-25T13:04:28.018Z"
+  "actualizado": "2026-11-25T13:08:44.547Z"
 }
