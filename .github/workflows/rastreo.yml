@@ -67,6 +67,15 @@ jobs:
             layerMatches.push(name + ' queryable=' + attrs.includes('queryable="1"'));
           }
           console.log('[wms-check] layers: ' + layerMatches.join(' | '));
+          for (const layers of ['TOT', 'SERVEI', 'AFECTACIONS_DE_CIRCULACIO,AFECTACIONS_PER_OBRES,CONS']) {
+            const mapa = await resposta({
+              SERVICE: 'WMS', VERSION: '1.1.1', REQUEST: 'GetMap',
+              LAYERS: layers, STYLES: '', SRS: 'EPSG:4326',
+              BBOX: '1.7,41.3,2.5,41.8', WIDTH: 1000, HEIGHT: 620,
+              FORMAT: 'image/png', TRANSPARENT: 'TRUE'
+            });
+            console.log('[wms-check] map ' + layers + ': http=' + mapa.r.status + ' type=' + (mapa.r.headers.get('content-type') || '') + ' bytes=' + Buffer.byteLength(mapa.body));
+          }
           const bbox = [1.7, 41.3, 2.5, 41.8], width = 1200, height = 1200;
           const punts = [
             ['C58-sud', 2.18, 41.49],
