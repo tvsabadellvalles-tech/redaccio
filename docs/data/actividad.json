@@ -1,34 +1,6 @@
 {
   "eventos": [
     {
-      "id": "afec705e752c36a0",
-      "t": "2026-11-22T22:20:33.626Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Cruel desenllaç per al Sabadell 'B' contra l'Atlètic Sant Just (1-1)» (Ràdio Sabadell).",
-      "itemId": "ae42fba8cfc6a8e2"
-    },
-    {
-      "id": "4a0b799e052bc2a3",
-      "t": "2026-11-22T22:20:33.627Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Salut, Esports.",
-      "itemId": "ae42fba8cfc6a8e2"
-    },
-    {
-      "id": "2c9f92c0cebdf7e2",
-      "t": "2026-11-23T09:22:54.281Z",
-      "agente": "rastreador",
-      "texto": "He recollit «L’Ajuntament homenatja Joaquín Ventura Cantis amb motiu del seu centenari» (Ajuntament de Cerdanyola del Vallès).",
-      "itemId": "af3f3457cee6cd7a"
-    },
-    {
-      "id": "26af04ce91c6116f",
-      "t": "2026-11-23T09:22:54.282Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local.",
-      "itemId": "af3f3457cee6cd7a"
-    },
-    {
       "id": "64c6309c675aa1dd",
       "t": "2026-11-23T09:22:54.283Z",
       "agente": "mesa",
@@ -2799,7 +2771,35 @@
       "agente": "rastreador",
       "texto": "He recollit «Sant Quirze habilita bústies liles per fer visible la violència masclista silenciada» (Ajuntament de Sant Quirze del Vallès).",
       "itemId": "5437223884242272"
+    },
+    {
+      "id": "9d12c86c218e2f5c",
+      "t": "2026-11-25T13:03:52.484Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Les violències masclistes en l'àmbit digital, en el punt de mira del 25-N a Sabadell» (Ràdio Sabadell).",
+      "itemId": "b9c5b0864c17ff5f"
+    },
+    {
+      "id": "9f9fb7efc8117a50",
+      "t": "2026-11-25T13:03:52.485Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Successos, Política local, Salut, Medi ambient.",
+      "itemId": "b9c5b0864c17ff5f"
+    },
+    {
+      "id": "6e70e21f33d57017",
+      "t": "2026-11-25T13:03:52.486Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): successos, política local, salut, medi ambient.",
+      "itemId": "b9c5b0864c17ff5f"
+    },
+    {
+      "id": "0ca15806df7dfe6a",
+      "t": "2026-11-25T13:03:52.487Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Turull: “La victòria de Puigdemont és una victòria a l’extrema dreta”» (iSabadell).",
+      "itemId": "9861ecd0d68eaebf"
     }
   ],
-  "actualizado": "2026-11-25T12:50:26.357Z"
+  "actualizado": "2026-11-25T13:04:04.604Z"
 }

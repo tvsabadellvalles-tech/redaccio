@@ -104,6 +104,44 @@
   },
   "items": [
     {
+      "id": "9861ecd0d68eaebf",
+      "titulo": "Turull: “La victòria de Puigdemont és una victòria a l’extrema dreta”",
+      "enlace": "https://www.isabadell.cat/politica/eleccions-generals-2026/turull-la-victoria-de-puigdemont-es-una-victoria-a-lextrema-dreta-341571/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-25T12:57:24.000Z",
+      "detectado": "2026-11-25T13:03:52.484Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "88aaeef2cda72cbf",
+      "titulo": "DigiProces invertirà 2 milions per adaptar-se als requeriments dels sectors aeroespacial i defensa",
+      "enlace": "https://www.lactual.cat/actualitat/digiproces-invertira-2-milions-adaptar-se-requeriments-sectors-aeroespacial-defensa_55440_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-25T12:55:27.000Z",
+      "detectado": "2026-11-25T09:40:31.767Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "5437223884242272",
       "titulo": "Sant Quirze habilita bústies liles per fer visible la violència masclista silenciada",
       "enlace": "https://www.santquirzevalles.cat/actualitat/noticies/sant-quirze-habilita-busties-liles-per-fer-visible-la-violencia-masclista-silenciada-sqv",
@@ -163,6 +201,34 @@
       "motivos": [],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "b9c5b0864c17ff5f",
+      "titulo": "Les violències masclistes en l'àmbit digital, en el punt de mira del 25-N a Sabadell",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/violencies-masclistes-ambit-digital-25-n",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-25T11:52:30.000Z",
+      "detectado": "2026-11-25T13:03:52.484Z",
+      "sensible": false,
+      "etiquetas": [
+        "sucesos",
+        "politica",
+        "salud",
+        "medioambiente"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "successos, política local, salut, medi ambient"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
     },
     {
       "id": "e909f69064f03bd0",
@@ -499,25 +565,6 @@
       "propuesta": false
     },
     {
-      "id": "88aaeef2cda72cbf",
-      "titulo": "DigiProces invertirà 2 milions per adaptar-se als requeriments dels sectors aeroespacial i defensa",
-      "enlace": "https://www.lactual.cat/actualitat/digiproces-invertira-2-milions-adaptar-se-requeriments-sectors-aeroespacial-defensa_55440_102.html",
-      "fuente": "ayto-castellar",
-      "fuenteNombre": "L'Actual - Castellar del Vallès",
-      "tipo": "medio",
-      "resumen": "",
-      "municipio": "castellar",
-      "municipiosMencionados": [],
-      "publicado": "2026-11-25T09:11:50.000Z",
-      "detectado": "2026-11-25T09:40:31.767Z",
-      "sensible": false,
-      "etiquetas": [],
-      "puntuacion": 0,
-      "motivos": [],
-      "duplicadaDe": null,
-      "propuesta": false
-    },
-    {
       "id": "e6b73825339efcc5",
       "titulo": "Castellar obre el cicle nadalenc",
       "enlace": "https://www.lactual.cat/actualitat/castellar-obre-cicle-nadalenc_55437_102.html",
@@ -831,5 +878,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-25T12:50:26.354Z"
+  "actualizado": "2026-11-25T13:04:04.599Z"
 }
