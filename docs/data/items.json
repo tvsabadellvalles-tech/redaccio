@@ -104,6 +104,29 @@
   },
   "items": [
     {
+      "id": "24966b877992e5f9",
+      "titulo": "El Tintín, la Mafalda o els personatges de Bola de drac irrompen a l'exposició de pessebres de Castellar",
+      "enlace": "https://www.diaridesabadell.com/valles/castellar/pessebres-castellar-exposicio-horaris-dates-calendari.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "castellar"
+      ],
+      "publicado": "2026-11-25T14:49:43.000Z",
+      "detectado": "2026-11-25T14:55:01.846Z",
+      "sensible": false,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "0a6ed275009001fc",
       "titulo": "Tres nous radars regularan la velocitat de la C-58 al seu pas pel Vallès: com funcionaran?",
       "enlace": "https://www.diaridesabadell.com/sabadell/radars-nous-velocitat-c58-valles.html",
@@ -1073,5 +1096,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-25T14:34:29.636Z"
+  "actualizado": "2026-11-25T14:55:11.865Z"
 }
