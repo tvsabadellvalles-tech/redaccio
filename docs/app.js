@@ -3,7 +3,7 @@
 const params = new URLSearchParams(location.search);
 const carpetaDatos = params.get('datos') ? `data/${params.get('datos').replace(/[^a-z0-9_-]/gi, '')}` : 'data';
 // Incrementa aquesta versió juntament amb docs/version.json i els paràmetres ?v= de docs/index.html en cada publicació.
-const VERSIO_APP = '2026.11.25.4';
+const VERSIO_APP = '2026.11.25.5';
 const REFRESCO_MS = 60000;
 const ANTIGUITAT_MAXIMA_SERVEIS_MS = 10 * 60 * 1000;
 const ANTIGUITAT_MAXIMA_DADES_MS = 45 * 60 * 1000;
@@ -1030,7 +1030,6 @@ async function carregar() {
 function iniciarStreaming() {
   const video = $('streaming-video');
   const estat = $('streaming-estat');
-  const boto = $('streaming-reintentar');
   if (!video || !estat) return;
 
   let instanciaHls = null;
@@ -1133,7 +1132,7 @@ function iniciarStreaming() {
         mostrarEstat(`Recuperant el descodificador (${detall})…`);
         instanciaHls?.recoverMediaError();
       } else {
-        mostrarEstat(`El reproductor ha aturat el directe (${detall}). Prem «Tornar a connectar».`, true);
+        mostrarEstat(`El reproductor ha aturat el directe (${detall}). Torna a carregar la pàgina.`, true);
         instanciaHls?.destroy();
         instanciaHls = null;
       }
@@ -1164,7 +1163,6 @@ function iniciarStreaming() {
       ? `El navegador no pot descodificar el vídeo (codi ${codi}).`
       : 'El navegador no pot reproduir aquest vídeo.', true);
   });
-  boto?.addEventListener('click', connectar);
   connectar();
 }
 
