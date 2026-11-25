@@ -1,13 +1,6 @@
 {
   "eventos": [
     {
-      "id": "1dd9fb4b1f2db9b4",
-      "t": "2026-11-23T10:35:41.491Z",
-      "agente": "rastreador",
-      "texto": "He recollit «'Aguamarina', un llibre provocador i juganer» (Ràdio Sabadell).",
-      "itemId": "b6f3fe7457064d7d"
-    },
-    {
       "id": "3038bd3fe18fa364",
       "t": "2026-11-23T10:35:41.492Z",
       "agente": "rastreador",
@@ -2799,7 +2792,14 @@
       "agente": "rastreador",
       "texto": "La font «Ajuntament de Sentmenat» torna a respondre.",
       "itemId": null
+    },
+    {
+      "id": "065036a969b72c58",
+      "t": "2026-11-25T14:42:57.746Z",
+      "agente": "rastreador",
+      "texto": "La font «L'Actual - Castellar del Vallès» torna a respondre.",
+      "itemId": null
     }
   ],
-  "actualizado": "2026-11-25T14:41:17.154Z"
+  "actualizado": "2026-11-25T14:43:07.396Z"
 }
