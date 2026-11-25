@@ -38,42 +38,6 @@ jobs:
           cache: npm
 
       - run: npm ci
-      - name: Diagnosticar sortida HLS del streaming
-        if: github.event_name == 'push'
-        shell: bash
-        run: |
-          node --input-type=module <<'NODE'
-          const target = 'https://ingest1-video.streaming-pro.com/canaltaronja/sabadell/playlist.m3u8';
-          const agents = [
-            ['default', 'TVSabadellValles-Website/1.0'],
-            ['browser', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36'],
-            ['chromecast', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160']
-          ];
-          for (const [label, ua] of agents) {
-            try {
-              const r = await fetch(target, { headers: { 'User-Agent': ua, Accept: 'application/vnd.apple.mpegurl, application/x-mpegURL, */*' }, signal: AbortSignal.timeout(20000) });
-              const body = await r.text();
-              console.log('[hls-check] ' + label + ': http=' + r.status + ' type=' + (r.headers.get('content-type') || '') + ' cors=' + (r.headers.get('access-control-allow-origin') || 'NONE') + ' bytes=' + Buffer.byteLength(body) + ' playlist=' + JSON.stringify(body));
-              const first = body.split('\n').map(x => x.trim()).find(x => x && !x.startsWith('#'));
-              if (r.ok && first) {
-                const child = new URL(first, target).href;
-                const seg = await fetch(child, { headers: { 'User-Agent': ua, Accept: '*/*' }, signal: AbortSignal.timeout(20000) });
-                const chunk = await seg.text();
-                console.log('[hls-check] ' + label + ' child: http=' + seg.status + ' type=' + (seg.headers.get('content-type') || '') + ' cors=' + (seg.headers.get('access-control-allow-origin') || 'NONE') + ' bytes=' + Buffer.byteLength(chunk) + ' playlist=' + JSON.stringify(chunk.slice(0, 400)));
-                const firstSegment = chunk.split('\n').map(x => x.trim()).find(x => x && !x.startsWith('#'));
-                if (seg.ok && firstSegment) {
-                  const segmentUrl = new URL(firstSegment, child).href;
-                  const media = await fetch(segmentUrl, { headers: { 'User-Agent': ua, Accept: '*/*' }, signal: AbortSignal.timeout(20000) });
-                  const bytes = new Uint8Array(await media.arrayBuffer());
-                  console.log('[hls-check] ' + label + ' media: http=' + media.status + ' type=' + (media.headers.get('content-type') || '') + ' cors=' + (media.headers.get('access-control-allow-origin') || 'NONE') + ' bytes=' + bytes.length);
-                }
-              }
-            } catch (error) {
-              console.log('[hls-check] ' + label + ': ERROR ' + String(error?.message || error).slice(0, 180));
-            }
-          }
-          NODE
-
       - name: Rastrear fuentes
         env:
           METEOCAT_API_KEY: ${{ secrets.METEOCAT_API_KEY }}
