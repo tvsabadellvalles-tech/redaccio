@@ -1,13 +1,6 @@
 {
   "eventos": [
     {
-      "id": "6040bdda1ba54098",
-      "t": "2026-11-23T10:35:41.503Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local.",
-      "itemId": "2337823a36b7a297"
-    },
-    {
       "id": "ad8d858419696a76",
       "t": "2026-11-23T10:35:41.504Z",
       "agente": "rastreador",
@@ -2799,7 +2792,14 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Esports.",
       "itemId": "536dd6f47a370012"
+    },
+    {
+      "id": "33c9a374936326cc",
+      "t": "2026-11-25T15:05:27.061Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El Black Friday s’imposa a les rebaixes a Sabadell: \"Tothom ho espera!\"» (Diari de Sabadell).",
+      "itemId": "28c6042e019233f8"
     }
   ],
-  "actualizado": "2026-11-25T14:57:00.261Z"
+  "actualizado": "2026-11-25T15:05:35.823Z"
 }
