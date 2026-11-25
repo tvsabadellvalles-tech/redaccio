@@ -1,13 +1,6 @@
 {
   "eventos": [
     {
-      "id": "d96b7a098ba6d7d7",
-      "t": "2026-11-23T10:35:41.486Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat.",
-      "itemId": "f960ecba6c870c0a"
-    },
-    {
       "id": "58e52524d1ca3212",
       "t": "2026-11-23T10:35:41.487Z",
       "agente": "rastreador",
@@ -2799,7 +2792,14 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Esports.",
       "itemId": "6ef8d4bc2cf603ca"
+    },
+    {
+      "id": "5b8d0b200d398dd7",
+      "t": "2026-11-25T14:16:48.927Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Croàcia (Zagreb) amb Kaua Garcia» (Ràdio Sabadell).",
+      "itemId": "e24cfd34d79adcda"
     }
   ],
-  "actualizado": "2026-11-25T13:52:23.661Z"
+  "actualizado": "2026-11-25T14:16:58.740Z"
 }
