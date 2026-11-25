@@ -104,6 +104,29 @@
   },
   "items": [
     {
+      "id": "536dd6f47a370012",
+      "titulo": "Quadri Liameed renova: “em sento molt feliç i estimat al club”",
+      "enlace": "https://www.isabadell.cat/esports/futbol/quadri-liameed-renova-em-sento-molt-felic-i-estimat-al-club-341563/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-25T14:56:13.000Z",
+      "detectado": "2026-11-25T14:56:49.061Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "24966b877992e5f9",
       "titulo": "El Tintín, la Mafalda o els personatges de Bola de drac irrompen a l'exposició de pessebres de Castellar",
       "enlace": "https://www.diaridesabadell.com/valles/castellar/pessebres-castellar-exposicio-horaris-dates-calendari.html",
@@ -125,6 +148,34 @@
       "motivos": [],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "3342c960a672e479",
+      "titulo": "L'acte central del 25N es trasllada al Teatre Ateneu a causa de la pluja",
+      "enlace": "http://www.cerdanyola.cat/actualitat/lacte-central-del-25n-es-trasllada-al-teatre-ateneu-causa-de-la-pluja",
+      "fuente": "ayto-cerdanyola",
+      "fuenteNombre": "Ajuntament de Cerdanyola del Vallès",
+      "tipo": "oficial",
+      "resumen": "L'acte central del 25N es trasllada al Teatre Ateneu a causa de la pluja A causa de la pluja que cau en aquests moments a Cerdanyola, l'Ajuntament ha decidit traslladar al Teatre Ateneu l'acte central de commemoració del Dia Internacional…",
+      "municipio": "cerdanyola",
+      "municipiosMencionados": [
+        "cerdanyola"
+      ],
+      "publicado": "2026-11-25T14:33:08.000Z",
+      "detectado": "2026-11-25T14:56:49.061Z",
+      "sensible": true,
+      "etiquetas": [
+        "salud",
+        "medioambiente",
+        "cultura"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "font oficial",
+        "salut, medi ambient"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
     },
     {
       "id": "0a6ed275009001fc",
@@ -398,6 +449,33 @@
       "etiquetas": [],
       "puntuacion": 0,
       "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "b0a29e3ef254baec",
+      "titulo": "El 25N posa el focus en les violències masclistes contra les dones grans",
+      "enlace": "http://www.cerdanyola.cat/actualitat/el-25n-posa-el-focus-en-les-violencies-masclistes-contra-les-dones-grans",
+      "fuente": "ayto-cerdanyola",
+      "fuenteNombre": "Ajuntament de Cerdanyola del Vallès",
+      "tipo": "oficial",
+      "resumen": "El 25N posa el focus en les violències masclistes contra les dones grans Cerdanyola se suma, un any més, a la commemoració del Dia Internacional per a l'Eliminació de la Violència envers les Dones, el 25 de novembre, amb una programació…",
+      "municipio": "cerdanyola",
+      "municipiosMencionados": [
+        "cerdanyola"
+      ],
+      "publicado": "2026-11-25T12:00:45.000Z",
+      "detectado": "2026-11-25T14:56:49.061Z",
+      "sensible": true,
+      "etiquetas": [
+        "salud",
+        "cultura"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "font oficial",
+        "salut"
+      ],
       "duplicadaDe": null,
       "propuesta": false
     },
@@ -1096,5 +1174,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-25T14:55:11.865Z"
+  "actualizado": "2026-11-25T14:57:00.257Z"
 }

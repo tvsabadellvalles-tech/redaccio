@@ -1,69 +1,6 @@
 {
   "eventos": [
     {
-      "id": "00d2de70a4bdf274",
-      "t": "2026-11-23T10:35:41.494Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "2cf8fb4b83cfd019"
-    },
-    {
-      "id": "b883ffccb946c7d7",
-      "t": "2026-11-23T10:35:41.495Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): mobilitat, educació.",
-      "itemId": "2cf8fb4b83cfd019"
-    },
-    {
-      "id": "115186384655cebc",
-      "t": "2026-11-23T10:35:41.496Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Nous castellanismes i com evitar-los» (Ràdio Sabadell).",
-      "itemId": "a5dd01d8e0e02953"
-    },
-    {
-      "id": "c32e7c617cc51b2a",
-      "t": "2026-11-23T10:35:41.497Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Pluja de regals i presentació de la Campanya de Nadal» (Ajuntament de Barberà del Vallès).",
-      "itemId": "5ae6307b0ee6a89e"
-    },
-    {
-      "id": "5cddd6d64dff7ab8",
-      "t": "2026-11-23T10:35:41.498Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Economia i ocupació, Medi ambient.",
-      "itemId": "5ae6307b0ee6a89e"
-    },
-    {
-      "id": "6d35ffe71ebd499b",
-      "t": "2026-11-23T10:35:41.499Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · economia i ocupació, medi ambient.",
-      "itemId": "5ae6307b0ee6a89e"
-    },
-    {
-      "id": "ab240ff569bfd3f8",
-      "t": "2026-11-23T10:35:41.500Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Encesa de les Llums de Nadal i inauguració del Pessebre» (Ajuntament de Barberà del Vallès).",
-      "itemId": "7b40ffe89d405d76"
-    },
-    {
-      "id": "a10c42439fc87388",
-      "t": "2026-11-23T10:35:41.501Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Cultura i festes.",
-      "itemId": "7b40ffe89d405d76"
-    },
-    {
-      "id": "d99e10a3aea6b701",
-      "t": "2026-11-23T10:35:41.502Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Paco Aranda (PSC): \"Poca broma, el 30 de novembre pot ser massa tard\"» (Ràdio Sabadell).",
-      "itemId": "2337823a36b7a297"
-    },
-    {
       "id": "6040bdda1ba54098",
       "t": "2026-11-23T10:35:41.503Z",
       "agente": "etiquetador",
@@ -2799,7 +2736,70 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Cultura i festes.",
       "itemId": "24966b877992e5f9"
+    },
+    {
+      "id": "2b8685d04d393cbd",
+      "t": "2026-11-25T14:56:49.061Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El 25N posa el focus en les violències masclistes contra les dones grans» (Ajuntament de Cerdanyola del Vallès).",
+      "itemId": "b0a29e3ef254baec"
+    },
+    {
+      "id": "48b13898112b72bf",
+      "t": "2026-11-25T14:56:49.062Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut, Cultura i festes.",
+      "itemId": "b0a29e3ef254baec"
+    },
+    {
+      "id": "ae165ee74ea7c511",
+      "t": "2026-11-25T14:56:49.063Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "b0a29e3ef254baec"
+    },
+    {
+      "id": "d158514b6330ef8a",
+      "t": "2026-11-25T14:56:49.064Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L'acte central del 25N es trasllada al Teatre Ateneu a causa de la pluja» (Ajuntament de Cerdanyola del Vallès).",
+      "itemId": "3342c960a672e479"
+    },
+    {
+      "id": "aa87162be3451313",
+      "t": "2026-11-25T14:56:49.065Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut, Medi ambient, Cultura i festes.",
+      "itemId": "3342c960a672e479"
+    },
+    {
+      "id": "d717da3b4583af81",
+      "t": "2026-11-25T14:56:49.066Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "3342c960a672e479"
+    },
+    {
+      "id": "ba52d72497e72c64",
+      "t": "2026-11-25T14:56:49.067Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · salut, medi ambient.",
+      "itemId": "3342c960a672e479"
+    },
+    {
+      "id": "648f6ee7ea6a02a6",
+      "t": "2026-11-25T14:56:49.068Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Quadri Liameed renova: “em sento molt feliç i estimat al club”» (iSabadell).",
+      "itemId": "536dd6f47a370012"
+    },
+    {
+      "id": "b4a85fd4ca5dcc36",
+      "t": "2026-11-25T14:56:49.069Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "536dd6f47a370012"
     }
   ],
-  "actualizado": "2026-11-25T14:55:11.869Z"
+  "actualizado": "2026-11-25T14:57:00.261Z"
 }
