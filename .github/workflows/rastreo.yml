@@ -38,6 +38,34 @@ jobs:
           cache: npm
 
       - run: npm ci
+      - name: Diagnosticar sortida HLS del streaming
+        if: github.event_name == 'push'
+        shell: bash
+        run: |
+          node --input-type=module <<'NODE'
+          const target = 'https://ingest1-video.streaming-pro.com/canaltaronja/sabadell/playlist.m3u8';
+          const agents = [
+            ['default', 'TVSabadellValles-Website/1.0'],
+            ['browser', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36'],
+            ['chromecast', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160']
+          ];
+          for (const [label, ua] of agents) {
+            try {
+              const r = await fetch(target, { headers: { 'User-Agent': ua, Accept: 'application/vnd.apple.mpegurl, application/x-mpegURL, */*' }, signal: AbortSignal.timeout(20000) });
+              const body = await r.text();
+              console.log('[hls-check] ' + label + ': http=' + r.status + ' type=' + (r.headers.get('content-type') || '') + ' bytes=' + Buffer.byteLength(body) + ' start=' + body.slice(0, 100).replace(/\\s+/g, ' '));
+              const first = body.split(/\\r?\\n/).map(x => x.trim()).find(x => x && !x.startsWith('#'));
+              if (r.ok && first) {
+                const child = new URL(first, target).href;
+                const seg = await fetch(child, { headers: { 'User-Agent': ua, Accept: '*/*' }, signal: AbortSignal.timeout(20000) });
+                const chunk = new Uint8Array(await seg.arrayBuffer());
+                console.log('[hls-check] ' + label + ' child: http=' + seg.status + ' type=' + (seg.headers.get('content-type') || '') + ' bytes=' + chunk.length);
+              }
+            } catch (error) {
+              console.log('[hls-check] ' + label + ': ERROR ' + String(error?.message || error).slice(0, 180));
+            }
+          }
+          NODE
 
       - name: Rastrear fuentes
         env:
