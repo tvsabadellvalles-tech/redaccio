@@ -104,6 +104,48 @@
   },
   "items": [
     {
+      "id": "0520800bf1a0584f",
+      "titulo": "Castellar alça la veu contra la violència envers les dones",
+      "enlace": "https://www.lactual.cat/actualitat/castellar-alca-veu-contra-violencia-envers-dones_55447_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [
+        "castellar"
+      ],
+      "publicado": "2026-11-25T19:47:02.000Z",
+      "detectado": "2026-11-25T20:02:45.499Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "10ecd78b5d7fbab4",
+      "titulo": "FOTOS | Més d'un centenar de manifestants a Sabadell encenen les torxes el 25N: \"Ens continuen assassinant\"",
+      "enlace": "https://www.diaridesabadell.com/sabadell/fotos-manifestacio-sabadell-25n.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-25T19:21:12.000Z",
+      "detectado": "2026-11-25T20:02:45.499Z",
+      "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "09ae9b60c48ad77f",
       "titulo": "Turull reivindica Junts com ''la veu de Catalunya a Madrid''",
       "enlace": "https://radiosabadell.fm/actualitat/politica/turull-reivindica-junts-com-la-veu-de-catalunya-madrid",
@@ -1463,5 +1505,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-25T19:07:47.894Z"
+  "actualizado": "2026-11-25T20:02:56.949Z"
 }

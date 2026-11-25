@@ -1,27 +1,6 @@
 {
   "eventos": [
     {
-      "id": "5a26955254fcacc9",
-      "t": "2026-11-23T11:30:20.595Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Cultura i festes.",
-      "itemId": "94ecc9016cfdd385"
-    },
-    {
-      "id": "fee66a48412d90a3",
-      "t": "2026-11-23T11:30:20.596Z",
-      "agente": "rastreador",
-      "texto": "He recollit «‘La bola negra sigue presente’» (iSabadell).",
-      "itemId": "774b78ce11b33b1b"
-    },
-    {
-      "id": "8f2a258640d4df13",
-      "t": "2026-11-23T11:30:20.597Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "774b78ce11b33b1b"
-    },
-    {
       "id": "321aebcfb43c5c55",
       "t": "2026-11-23T11:30:20.598Z",
       "agente": "rastreador",
@@ -2799,7 +2778,28 @@
       "agente": "rastreador",
       "texto": "He recollit «Turull reivindica Junts com ''la veu de Catalunya a Madrid''» (Ràdio Sabadell).",
       "itemId": "09ae9b60c48ad77f"
+    },
+    {
+      "id": "b44c4388f6dd63c6",
+      "t": "2026-11-25T20:02:45.499Z",
+      "agente": "rastreador",
+      "texto": "He recollit «FOTOS | Més d'un centenar de manifestants a Sabadell encenen les torxes el 25N: \"Ens continuen assassinant\"» (Diari de Sabadell).",
+      "itemId": "10ecd78b5d7fbab4"
+    },
+    {
+      "id": "ffd9fe068b6bedff",
+      "t": "2026-11-25T20:02:45.500Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "10ecd78b5d7fbab4"
+    },
+    {
+      "id": "a015789ea04335df",
+      "t": "2026-11-25T20:02:45.501Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Castellar alça la veu contra la violència envers les dones» (L'Actual - Castellar del Vallès).",
+      "itemId": "0520800bf1a0584f"
     }
   ],
-  "actualizado": "2026-11-25T19:07:47.896Z"
+  "actualizado": "2026-11-25T20:02:56.952Z"
 }
