@@ -243,7 +243,8 @@ function etiquetaEstatServei(servei) {
   if (servei.estat === 'cap-avis-recent') {
     const text = servei.id === 'fgc' ? 'SENSE INCIDÈNCIES'
       : servei.id === 'emergencies' ? 'SENSE ALERTES LOCALS'
-        : ['rodalies', 'transit'].includes(servei.id) ? "SENSE AVISOS D'AVUI" : 'SENSE AVISOS RECENTS';
+        : servei.id === 'transit' ? 'SENSE INCIDÈNCIES'
+          : servei.id === 'rodalies' ? "SENSE AVISOS D'AVUI" : 'SENSE AVISOS RECENTS';
     return { text, classe: 'servei-ok' };
   }
   return { text: 'NO VERIFICAT', classe: 'servei-desconegut' };
