@@ -211,4 +211,42 @@ jobs:
       - name: Publicar en GitHub Pages
         if: github.event_name != 'schedule' || steps.guardar.outputs.changed == 'true'
         id: deployment
+        continue-on-error: true
         uses: actions/deploy-pages@v4
+
+      - name: Esperar abans del primer reintent de Pages
+        if: steps.deployment.outcome == 'failure'
+        shell: bash
+        run: sleep 10
+
+      - name: Reintentar publicació a GitHub Pages
+        if: steps.deployment.outcome == 'failure'
+        id: deployment_retry
+        continue-on-error: true
+        uses: actions/deploy-pages@v4
+
+      - name: Esperar abans del segon reintent de Pages
+        if: steps.deployment_retry.outcome == 'failure'
+        shell: bash
+        run: sleep 15
+
+      - name: Segon reintent de publicació a GitHub Pages
+        if: steps.deployment_retry.outcome == 'failure'
+        id: deployment_retry_2
+        continue-on-error: true
+        uses: actions/deploy-pages@v4
+
+      - name: Verificar el resultat de la publicació
+        if: always() && (github.event_name != 'schedule' || steps.guardar.outputs.changed == 'true')
+        shell: bash
+        env:
+          DEPLOYMENT_1: ${{ steps.deployment.outcome }}
+          DEPLOYMENT_2: ${{ steps.deployment_retry.outcome }}
+          DEPLOYMENT_3: ${{ steps.deployment_retry_2.outcome }}
+        run: |
+          if [[ "$DEPLOYMENT_1" == "success" || "$DEPLOYMENT_2" == "success" || "$DEPLOYMENT_3" == "success" ]]; then
+            echo "GitHub Pages publicat correctament."
+            exit 0
+          fi
+          echo "::error::No s'ha pogut publicar GitHub Pages després de tres intents."
+          exit 1
