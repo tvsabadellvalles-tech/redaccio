@@ -1,76 +1,6 @@
 {
   "eventos": [
     {
-      "id": "49a375cc420f4209",
-      "t": "2026-11-23T10:35:41.505Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Americana nadalenca de pàdel» (Ajuntament de Barberà del Vallès).",
-      "itemId": "4b47b524773d2ecd"
-    },
-    {
-      "id": "e2e81b5c03d14842",
-      "t": "2026-11-23T10:35:41.506Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Esports.",
-      "itemId": "4b47b524773d2ecd"
-    },
-    {
-      "id": "077d6fcf48adb413",
-      "t": "2026-11-23T10:35:41.507Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Fira de Nadal» (Ajuntament de Barberà del Vallès).",
-      "itemId": "556038169907fcd6"
-    },
-    {
-      "id": "450bcb7e83cd876d",
-      "t": "2026-11-23T10:35:41.508Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Cultura i festes.",
-      "itemId": "556038169907fcd6"
-    },
-    {
-      "id": "7983a292a76b1698",
-      "t": "2026-11-23T10:35:41.509Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Fira de Nadal» (Ajuntament de Barberà del Vallès).",
-      "itemId": "52b880207551f1db"
-    },
-    {
-      "id": "53301b7d6bdbf963",
-      "t": "2026-11-23T10:35:41.510Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Cultura i festes.",
-      "itemId": "52b880207551f1db"
-    },
-    {
-      "id": "4d76c303eaf54f6a",
-      "t": "2026-11-23T10:35:41.511Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Fira de Nadal» (Ajuntament de Barberà del Vallès).",
-      "itemId": "b3b747049a618b13"
-    },
-    {
-      "id": "5491c88d34a522ac",
-      "t": "2026-11-23T10:35:41.512Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Cultura i festes.",
-      "itemId": "b3b747049a618b13"
-    },
-    {
-      "id": "c36cd7af0e64960d",
-      "t": "2026-11-23T10:35:41.513Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Marc Braquer, The Rootsons: “A Sabadell hi ha un ecosistema que fa sentir acompanyat a l’emprenedor”» (Ràdio Sabadell).",
-      "itemId": "7fe585003184e9d8"
-    },
-    {
-      "id": "45b5672dd812609a",
-      "t": "2026-11-23T10:35:41.514Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Fira de Nadal» (Ajuntament de Barberà del Vallès).",
-      "itemId": "f79ea79d381a3991"
-    },
-    {
       "id": "a5f5d299861f0509",
       "t": "2026-11-23T10:35:41.515Z",
       "agente": "etiquetador",
@@ -2799,7 +2729,77 @@
       "agente": "rastreador",
       "texto": "He recollit «Afectacions a la circulació al carrer Ripoll» (Avisos de l'Ajuntament de Montcada i Reixac).",
       "itemId": "9239ab4b78ef7637"
+    },
+    {
+      "id": "a50c0771517ea334",
+      "t": "2026-11-25T16:27:47.901Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Carles Coll, baixa d'última hora al Mundial de piscina curta de la Xina» (Ràdio Sabadell).",
+      "itemId": "1c32080f682b5b91"
+    },
+    {
+      "id": "65423f45d608c2dd",
+      "t": "2026-11-25T16:27:47.902Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "1c32080f682b5b91"
+    },
+    {
+      "id": "3d653266de73c210",
+      "t": "2026-11-25T16:27:47.903Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Mor un home atropellat a l'N-150 a l'altura de Montcada i Reixac» (Diari de Sabadell).",
+      "itemId": "d2767b63c87e8fca"
+    },
+    {
+      "id": "d156a15803b89342",
+      "t": "2026-11-25T16:27:47.904Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L’acte central del 25-N destaca les violències digitals de caire masclista» (iSabadell).",
+      "itemId": "605dbc14c57f6934"
+    },
+    {
+      "id": "ebe5ab8883d0e094",
+      "t": "2026-11-25T16:27:47.905Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Medi ambient.",
+      "itemId": "605dbc14c57f6934"
+    },
+    {
+      "id": "494d8761bd94b5f9",
+      "t": "2026-11-25T16:27:47.906Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Els socis hauran de pagar per veure el Sabadell-Sporting de Copa» (Ràdio Sabadell).",
+      "itemId": "1fc28388ccf097b5"
+    },
+    {
+      "id": "d5fc2826c4625570",
+      "t": "2026-11-25T16:27:47.907Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "1fc28388ccf097b5"
+    },
+    {
+      "id": "f2c7228fbe00375c",
+      "t": "2026-11-25T16:27:47.908Z",
+      "agente": "rastreador",
+      "texto": "He recollit «David Andrés Díaz (Democracia21): \"Proposem construir barris sencers al Vallès per fer front al problema de l’habitatge\"» (Diari de Sabadell).",
+      "itemId": "e0a14524a2ee6c3e"
+    },
+    {
+      "id": "74748329046da068",
+      "t": "2026-11-25T16:27:47.909Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Obres i urbanisme.",
+      "itemId": "e0a14524a2ee6c3e"
+    },
+    {
+      "id": "c71de8e9e4898570",
+      "t": "2026-11-25T16:27:47.910Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Quadri: \"Em sento molt estimat per tothom i estic feliç de continuar al Sabadell\"» (Diari de Sabadell).",
+      "itemId": "86e8e31132e58f6f"
     }
   ],
-  "actualizado": "2026-11-25T15:07:16.038Z"
+  "actualizado": "2026-11-25T16:28:07.787Z"
 }

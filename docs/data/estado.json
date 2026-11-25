@@ -2,7 +2,7 @@
   "fuentes": {
     "isabadell": {
       "ok": true,
-      "items": 3
+      "items": 4
     },
     "radio-sabadell": {
       "ok": true,
@@ -10,7 +10,7 @@
     },
     "diari-sabadell": {
       "ok": true,
-      "items": 8
+      "items": 12
     },
     "diari-terrassa": {
       "ok": true,
@@ -66,7 +66,7 @@
     },
     "ayto-cerdanyola": {
       "ok": true,
-      "items": 2
+      "items": 1
     },
     "ayto-badia": {
       "ok": true,
@@ -81,6 +81,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-25T15:13:38.550Z",
-  "actualizado": "2026-11-25T15:13:53.377Z"
+  "consultat": "2026-11-25T16:27:47.901Z",
+  "actualizado": "2026-11-25T16:28:07.784Z"
 }
