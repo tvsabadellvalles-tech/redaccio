@@ -5,7 +5,7 @@
       "nom": "FGC Barcelona–Vallès",
       "enllac": "https://www.fgc.cat/adequacions-horaries/",
       "alternatiu": null,
-      "consultat": "2026-11-25T22:51:57.455Z",
+      "consultat": "2026-11-25T23:39:46.470Z",
       "estat": "cap-avis-recent",
       "detall": "Sense adequacions horàries."
     },
@@ -14,30 +14,20 @@
       "nom": "Rodalies R4 i R7",
       "enllac": "https://rodalies.gencat.cat/ca/alteracions_del_servei/",
       "alternatiu": null,
-      "consultat": "2026-11-25T22:51:57.455Z",
-      "estat": "avis",
-      "detall": "1 avís publicat avui a les línies R4 i R7.",
-      "avisos": [
-        {
-          "titol": "A causa d'una incidència tècnica d'un tren a l'estació d'Arc de Triomf, ja resolta, els trens circulen fora del seu horari habitual, a",
-          "detall": "A causa d'una incidència tècnica d'un tren a l'estació d'Arc de Triomf, ja resolta, els trens circulen fora del seu horari habitual, amb demores que poden superar els 10 minuts.",
-          "publicat": "2026-11-25T16:26:00.000Z",
-          "linies": [
-            "R4",
-            "R1"
-          ]
-        }
-      ]
+      "consultat": "2026-11-25T23:39:46.470Z",
+      "estat": "cap-avis-recent",
+      "detall": "Cap avís publicat avui a les línies R4 i R7.",
+      "avisos": []
     },
     {
       "id": "transit",
       "nom": "Trànsit · Vallès Occidental",
       "enllac": "https://cit.transit.gencat.cat/",
       "alternatiu": null,
-      "consultat": "2026-11-25T22:51:57.455Z",
+      "consultat": "2026-11-25T23:39:46.470Z",
       "estat": "cap-avis-recent",
       "detall": "Cap incidència d’avui a les carreteres seleccionades del Vallès Occidental, segons el RSS oficial de Trànsit.",
-      "actualitzat": "2026-11-25T22:52:13.000Z",
+      "actualitzat": "2026-11-25T23:40:06.000Z",
       "avisos": []
     },
     {
@@ -45,7 +35,7 @@
       "nom": "Meteocat · Vallès Occidental",
       "enllac": "https://www.meteo.cat/prediccio/general",
       "alternatiu": null,
-      "consultat": "2026-11-25T22:51:57.455Z",
+      "consultat": "2026-11-25T23:39:46.470Z",
       "estat": "previsio",
       "detall": "Sense avisos actius. Previsió de dijous, 26 de novembre al Vallès Occidental: màxima 13°, mínima 3°. sol i núvols alts al matí · entre poc i mig ennuvolat a la tarda · Pluja matí: No se n’espera · tarda: No se n’espera · Actualitzada 25-11-2026 15:00:00.",
       "previsio": {
@@ -67,12 +57,12 @@
       "nom": "Emergències · Protecció Civil",
       "enllac": "https://interior.gencat.cat/ca/actualitat/",
       "alternatiu": "https://govern.cat/salapremsa/notes-premsa",
-      "consultat": "2026-11-25T22:51:57.455Z",
+      "consultat": "2026-11-25T23:39:46.470Z",
       "estat": "cap-avis-recent",
       "detall": "Cap alerta local no meteorològica identificada a les alertes destacades d’Interior.",
       "avisos": []
     }
   ],
-  "consultat": "2026-11-25T22:51:57.455Z",
-  "actualizado": "2026-11-25T22:52:15.186Z"
+  "consultat": "2026-11-25T23:39:46.470Z",
+  "actualizado": "2026-11-25T23:40:08.724Z"
 }

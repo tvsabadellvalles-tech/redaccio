@@ -1,41 +1,6 @@
 {
   "eventos": [
     {
-      "id": "ec3716e11de470cc",
-      "t": "2026-11-23T11:30:20.600Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Tot el que has de saber sobre l’estada de l’Ambaixador Reial a Sabadell» (iSabadell).",
-      "itemId": "f1d66fdc82f329ab"
-    },
-    {
-      "id": "02028efaf7840921",
-      "t": "2026-11-23T11:30:20.601Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "f1d66fdc82f329ab"
-    },
-    {
-      "id": "a6f9e98e876e7528",
-      "t": "2026-11-23T11:30:20.602Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Tions i tiones i tallers de decoració» (Ajuntament de Barberà del Vallès).",
-      "itemId": "5767970546da07ac"
-    },
-    {
-      "id": "868c7af88e3261be",
-      "t": "2026-11-23T11:30:20.603Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Cultura i festes.",
-      "itemId": "5767970546da07ac"
-    },
-    {
-      "id": "4979b38727490a32",
-      "t": "2026-11-23T11:30:20.604Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Sant Quirze dona la benvinguda als nadons nascuts aquest 2026» (Ajuntament de Sant Quirze del Vallès).",
-      "itemId": "3137437d6e079a66"
-    },
-    {
       "id": "a451e020fc8d0603",
       "t": "2026-11-23T11:30:20.605Z",
       "agente": "vigilante",
@@ -2799,7 +2764,42 @@
       "agente": "rastreador",
       "texto": "He recollit «Turull (Junts): “Si volen els nostres vots hauran de passar per taquilla”» (iSabadell).",
       "itemId": "bba414aa960345c0"
+    },
+    {
+      "id": "3dcfea9a41d6d3f3",
+      "t": "2026-11-25T23:39:46.470Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L'Ajuntament celebrarà avui la sessió plenària del mes de novembre» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "6cf6d9ae9283df39"
+    },
+    {
+      "id": "3a965994f399ba7c",
+      "t": "2026-11-25T23:39:46.471Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local.",
+      "itemId": "6cf6d9ae9283df39"
+    },
+    {
+      "id": "1b9d9fca9b83e710",
+      "t": "2026-11-25T23:39:46.472Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · política local.",
+      "itemId": "6cf6d9ae9283df39"
+    },
+    {
+      "id": "5d7821becb6cb1d0",
+      "t": "2026-11-25T23:39:46.473Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Un total de 26.882 persones estan cridades a les urnes aquest diumenge a Montcada i Reixac amb motiu de les eleccions generals» (Ajuntament de Montcada i Reixac).",
+      "itemId": "307417d284516db5"
+    },
+    {
+      "id": "6b8c4ff11cdee639",
+      "t": "2026-11-25T23:39:46.474Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Infopòdcast Sabadell 26.11.26» (Ràdio Sabadell).",
+      "itemId": "9a471bcc948a9fd6"
     }
   ],
-  "actualizado": "2026-11-25T20:59:36.096Z"
+  "actualizado": "2026-11-25T23:40:05.381Z"
 }
