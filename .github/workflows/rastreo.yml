@@ -53,7 +53,7 @@ jobs:
             try {
               const r = await fetch(target, { headers: { 'User-Agent': ua, Accept: 'application/vnd.apple.mpegurl, application/x-mpegURL, */*' }, signal: AbortSignal.timeout(20000) });
               const body = await r.text();
-              console.log('[hls-check] ' + label + ': http=' + r.status + ' type=' + (r.headers.get('content-type') || '') + ' bytes=' + Buffer.byteLength(body) + ' start=' + body.slice(0, 100).replace(/\\s+/g, ' '));
+              console.log('[hls-check] ' + label + ': http=' + r.status + ' type=' + (r.headers.get('content-type') || '') + ' bytes=' + Buffer.byteLength(body) + ' playlist=' + JSON.stringify(body));
               const first = body.split(/\\r?\\n/).map(x => x.trim()).find(x => x && !x.startsWith('#'));
               if (r.ok && first) {
                 const child = new URL(first, target).href;
