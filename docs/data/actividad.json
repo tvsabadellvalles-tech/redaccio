@@ -1,20 +1,6 @@
 {
   "eventos": [
     {
-      "id": "dd2f12746851b1d2",
-      "t": "2026-11-23T10:35:41.488Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Successos, Medi ambient.",
-      "itemId": "73e201e9491182ba"
-    },
-    {
-      "id": "3ded2ff4ee33e4f2",
-      "t": "2026-11-23T10:35:41.489Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): font oficial · successos, medi ambient.",
-      "itemId": "73e201e9491182ba"
-    },
-    {
       "id": "2a7975738b472027",
       "t": "2026-11-23T10:35:41.490Z",
       "agente": "rastreador",
@@ -2799,7 +2785,21 @@
       "agente": "rastreador",
       "texto": "He recollit «Tres nous radars regularan la velocitat de la C-58 al seu pas pel Vallès: com funcionaran?» (Diari de Sabadell).",
       "itemId": "0a6ed275009001fc"
+    },
+    {
+      "id": "3804e4f3fdf834bd",
+      "t": "2026-11-25T14:36:25.972Z",
+      "agente": "rastreador",
+      "texto": "La font «L'Actual - Castellar del Vallès» no respon (fetch failed).",
+      "itemId": null
+    },
+    {
+      "id": "616186b3cdba3a78",
+      "t": "2026-11-25T14:36:25.973Z",
+      "agente": "rastreador",
+      "texto": "La font «Ajuntament de Sentmenat» no respon (fetch failed).",
+      "itemId": null
     }
   ],
-  "actualizado": "2026-11-25T14:34:29.640Z"
+  "actualizado": "2026-11-25T14:36:45.470Z"
 }
