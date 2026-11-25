@@ -3,7 +3,7 @@
 const params = new URLSearchParams(location.search);
 const carpetaDatos = params.get('datos') ? `data/${params.get('datos').replace(/[^a-z0-9_-]/gi, '')}` : 'data';
 // Incrementa aquesta versió juntament amb docs/version.json i els paràmetres ?v= de docs/index.html en cada publicació.
-const VERSIO_APP = '2026.11.25.7';
+const VERSIO_APP = '2026.11.25.8';
 const REFRESCO_MS = 60000;
 const ANTIGUITAT_MAXIMA_SERVEIS_MS = 10 * 60 * 1000;
 const ANTIGUITAT_MAXIMA_DADES_MS = 45 * 60 * 1000;
@@ -583,15 +583,17 @@ function pintarServeis(dadesServeis) {
   const noms = { fgc: 'FGC', rodalies: 'Rodalies', transit: 'Trànsit', meteocat: 'Meteocat', emergencies: 'Emergències' };
   const avisos = [];
   for (const servei of dadesServeis.serveis) {
+    const estat = etiquetaEstatServei(servei);
     const nomServei = noms[servei.id] || servei.nom;
     graella.append(el('article', {
-      class: `servei-card servei-card-${servei.id}`,
+      class: `servei-card servei-card-${servei.id} ${estat.classe}`,
       'aria-label': nomServei,
       title: nomServei
     },
       el('div', { class: 'servei-resum' },
         iconaServeiElement(servei),
-        el('span', { class: 'servei-nom', text: nomServei })
+        el('span', { class: 'servei-nom', text: nomServei }),
+        el('span', { class: 'servei-estat-punt', 'aria-hidden': 'true' })
       )
     ));
     const avisosServei = servei.id === 'fgc' && servei.estat === 'avis' && !servei.avisos?.length
