@@ -1,76 +1,6 @@
 {
   "eventos": [
     {
-      "id": "bc3a82301964d08d",
-      "t": "2026-11-22T08:35:39.014Z",
-      "agente": "rastreador",
-      "texto": "He recollit «‘Cara a cara i GTA’, per Surroca (22/11/26)» (iSabadell).",
-      "itemId": "afbec5f2fd0c620a"
-    },
-    {
-      "id": "1597e05df0491442",
-      "t": "2026-11-22T09:26:43.992Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Sabadell i el Vallès, en alerta per vent fort amb ratxes que poden superar els 72 km/h» (Diari de Sabadell).",
-      "itemId": "be810323f199c0dd"
-    },
-    {
-      "id": "c983293afdc90b3e",
-      "t": "2026-11-22T09:26:43.993Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Emergències.",
-      "itemId": "be810323f199c0dd"
-    },
-    {
-      "id": "79ef053dcd6d112c",
-      "t": "2026-11-22T09:26:43.994Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): emergències.",
-      "itemId": "be810323f199c0dd"
-    },
-    {
-      "id": "15e484640a9d6515",
-      "t": "2026-11-22T10:17:36.595Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Una persona ferida lleu per la caiguda d'un fanal a la ronda Bellesguard a conseqüència del vent» (Ràdio Sabadell).",
-      "itemId": "dcc5c8c7e23ba66d"
-    },
-    {
-      "id": "5a5b7c7f003d4e87",
-      "t": "2026-11-22T10:17:36.596Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Emergències, Mobilitat, Cultura i festes.",
-      "itemId": "dcc5c8c7e23ba66d"
-    },
-    {
-      "id": "8a8083ec9b4de7ba",
-      "t": "2026-11-22T10:17:36.597Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): emergències, mobilitat.",
-      "itemId": "dcc5c8c7e23ba66d"
-    },
-    {
-      "id": "a7e2f1941034a87f",
-      "t": "2026-11-22T11:05:47.333Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Ferides nou dones que participaven a la Cursa de les Dones de Barcelona per la caiguda d'un arbre pel fort vent» (Agència Catalana de Notícies (ACN)).",
-      "itemId": "43b06e2ab98256fd"
-    },
-    {
-      "id": "f22248e046bde016",
-      "t": "2026-11-22T11:48:08.977Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Mor un home en l'incendi d'un habitatge a Sant Quirze» (Ràdio Sabadell).",
-      "itemId": "cace244720300c45"
-    },
-    {
-      "id": "2c9fc42f45d1b81c",
-      "t": "2026-11-22T11:48:08.978Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Emergències, Successos, Obres i urbanisme.",
-      "itemId": "cace244720300c45"
-    },
-    {
       "id": "cb7e560a8eee48da",
       "t": "2026-11-22T11:48:08.979Z",
       "agente": "vigilante",
@@ -2799,7 +2729,77 @@
       "agente": "rastreador",
       "texto": "He recollit «Santa Perpètua marxarà en silenci contra les violències masclistes» (Ajuntament de Santa Perpètua de Mogoda).",
       "itemId": "a6558118578d939c"
+    },
+    {
+      "id": "e3de49dd56f58dea",
+      "t": "2026-11-25T09:40:31.767Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Barbamec» (Ajuntament de Barberà del Vallès).",
+      "itemId": "943a5ac4d9c1735e"
+    },
+    {
+      "id": "e7045d3833626df9",
+      "t": "2026-11-25T09:40:31.768Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "943a5ac4d9c1735e"
+    },
+    {
+      "id": "0a519b41276d43d9",
+      "t": "2026-11-25T09:40:31.769Z",
+      "agente": "rastreador",
+      "texto": "He recollit «26 de novembre: Tractament nocturn pel control del morrut» (Ajuntament de Barberà del Vallès).",
+      "itemId": "d58823164e7e1f6b"
+    },
+    {
+      "id": "f3dcc424e015e61d",
+      "t": "2026-11-25T09:40:31.770Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Emergències, Mobilitat, Economia i ocupació.",
+      "itemId": "d58823164e7e1f6b"
+    },
+    {
+      "id": "a14bcf47d934a776",
+      "t": "2026-11-25T09:40:31.771Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (5 punts): font oficial · emergències, mobilitat, economia i ocupació.",
+      "itemId": "d58823164e7e1f6b"
+    },
+    {
+      "id": "9ddf9491d60b537f",
+      "t": "2026-11-25T09:40:31.774Z",
+      "agente": "rastreador",
+      "texto": "He recollit «DigiProces invertirà 2 milions per adaptar-se als requeriments dels sectors aeroespacial i defensa» (L'Actual - Castellar del Vallès).",
+      "itemId": "88aaeef2cda72cbf"
+    },
+    {
+      "id": "2410f1f53be00e26",
+      "t": "2026-11-25T09:40:31.775Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Oficina de Missatgeria Màgica» (Ajuntament de Barberà del Vallès).",
+      "itemId": "af858d8ba06f57f7"
+    },
+    {
+      "id": "3a18073b14d737ea",
+      "t": "2026-11-25T09:40:31.776Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "af858d8ba06f57f7"
+    },
+    {
+      "id": "3627bca44eda07dc",
+      "t": "2026-11-25T09:40:31.777Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Eleccions generals 29-N: Alba Torras, número 20 d'ERC al Congrés» (Ràdio Sabadell).",
+      "itemId": "2e091cb0b3a6bc6e"
+    },
+    {
+      "id": "367d6f2db8b05ad9",
+      "t": "2026-11-25T09:40:31.778Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El Servei d'Informació i Antenció a la Dona (SIAD) atén 36 dones» (L'Actual - Castellar del Vallès).",
+      "itemId": "f39f61bbf53b0319"
     }
   ],
-  "actualizado": "2026-11-25T08:19:16.513Z"
+  "actualizado": "2026-11-25T09:40:49.500Z"
 }

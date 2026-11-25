@@ -104,6 +104,175 @@
   },
   "items": [
     {
+      "id": "f39f61bbf53b0319",
+      "titulo": "El Servei d'Informació i Antenció a la Dona (SIAD) atén 36 dones",
+      "enlace": "https://www.lactual.cat/actualitat/servei-informacio-antencio-dona-siad-aten-36-dones_55435_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-25T09:37:35.000Z",
+      "detectado": "2026-11-25T09:40:31.767Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "2e091cb0b3a6bc6e",
+      "titulo": "Eleccions generals 29-N: Alba Torras, número 20 d'ERC al Congrés",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-mati-alba-torras-erc-29N-sabadell",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-25T09:35:37.000Z",
+      "detectado": "2026-11-25T09:40:31.767Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "af858d8ba06f57f7",
+      "titulo": "Oficina de Missatgeria Màgica",
+      "enlace": "https://www.bdv.cat/agenda/oficina-de-missatgeria-magica",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "OFICINA DE MISSATGERIA MÀGICA L'Oficina de Missatgeria Màgica ens transporta a un món imaginari i màgic que envolta la tradició de lliurar les cartes al patge d'Orient. Una activitat guiada, on les families podran gaudir d'una experiència…",
+      "municipio": "barbera",
+      "municipiosMencionados": [
+        "barbera"
+      ],
+      "publicado": "2026-11-25T09:30:00.000Z",
+      "detectado": "2026-11-25T09:40:31.767Z",
+      "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "88aaeef2cda72cbf",
+      "titulo": "DigiProces invertirà 2 milions per adaptar-se als requeriments dels sectors aeroespacial i defensa",
+      "enlace": "https://www.lactual.cat/actualitat/digiproces-invertira-2-milions-adaptar-se-requeriments-sectors-aeroespacial-defensa_55440_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-25T09:11:50.000Z",
+      "detectado": "2026-11-25T09:40:31.767Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "e6b73825339efcc5",
+      "titulo": "Castellar obre el cicle nadalenc",
+      "enlace": "https://www.lactual.cat/actualitat/castellar-obre-cicle-nadalenc_55437_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [
+        "castellar"
+      ],
+      "publicado": "2026-11-25T08:42:18.000Z",
+      "detectado": "2026-11-25T09:40:31.767Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "2329371d9d3e7d5e",
+      "titulo": "Crida dels docents castellarencs a la vaga de dijous",
+      "enlace": "https://www.lactual.cat/actualitat/crida-docents-castellarencs-vaga-dijous_55438_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-25T08:40:04.000Z",
+      "detectado": "2026-11-25T09:40:31.767Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "d58823164e7e1f6b",
+      "titulo": "26 de novembre: Tractament nocturn pel control del morrut",
+      "enlace": "https://www.bdv.cat/noticies/26-de-novembre-tractament-nocturn-pel-control-del-morrut",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "L'Ajuntament de Barberà del Vallès durà a terme un tractament fitosanitari pel control del morrut (Rhynchophorus ferrugineus) a la palmera canària i datilera, margallons i trachycarpus de diversos espais de la ciutat de Barberà la…",
+      "municipio": "barbera",
+      "municipiosMencionados": [
+        "barbera"
+      ],
+      "publicado": "2026-11-25T08:27:00.000Z",
+      "detectado": "2026-11-25T09:40:31.767Z",
+      "sensible": false,
+      "etiquetas": [
+        "emergencias",
+        "movilidad",
+        "economia"
+      ],
+      "puntuacion": 5,
+      "motivos": [
+        "font oficial",
+        "emergències, mobilitat, economia i ocupació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "943a5ac4d9c1735e",
+      "titulo": "Barbamec",
+      "enlace": "https://www.bdv.cat/agenda/barbamec",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "Espai lúdic infantil on es ofereix a tots els infants de 0 a 14 anys un punt d'activitat participatives durant aquest dies de vacances nadalenques Sessions Dissabte 2 de gener Sessió 1: 17 a 18.30 h Sessió 2: 19 a 20.30 h Diumenge 3 de…",
+      "municipio": "barbera",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-25T08:24:00.000Z",
+      "detectado": "2026-11-25T09:40:31.767Z",
+      "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "a6558118578d939c",
       "titulo": "Santa Perpètua marxarà en silenci contra les violències masclistes",
       "enlace": "https://www.staperpetua.cat/actualitat/noticies/santa-perpetua-marxara-en-silenci-contra-les-violencies-masclistes.html",
@@ -201,5 +370,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-25T08:19:16.511Z"
+  "actualizado": "2026-11-25T09:40:49.497Z"
 }

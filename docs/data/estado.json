@@ -6,7 +6,7 @@
     },
     "radio-sabadell": {
       "ok": true,
-      "items": 2
+      "items": 3
     },
     "diari-sabadell": {
       "ok": true,
@@ -22,7 +22,7 @@
     },
     "ayto-castellar": {
       "ok": true,
-      "items": 0
+      "items": 4
     },
     "ayto-sentmenat": {
       "ok": true,
@@ -62,7 +62,7 @@
     },
     "ayto-barbera": {
       "ok": true,
-      "items": 0
+      "items": 3
     },
     "ayto-cerdanyola": {
       "ok": true,
@@ -81,6 +81,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-25T08:18:59.653Z",
-  "actualizado": "2026-11-25T08:19:16.512Z"
+  "consultat": "2026-11-25T09:40:31.767Z",
+  "actualizado": "2026-11-25T09:40:49.498Z"
 }
