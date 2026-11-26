@@ -104,6 +104,72 @@
   },
   "items": [
     {
+      "id": "311c17ded5a79501",
+      "titulo": "La cessió de Kaua García al futbol croat: \"El meu somni és el primer equip del Sabadell\"",
+      "enlace": "https://radiosabadell.fm/esports/ce-sabadell/cessio-kaua-garcia-croacia-dragovoljac-sabadell",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-26T16:31:42.000Z",
+      "detectado": "2026-11-26T16:11:28.672Z",
+      "sensible": false,
+      "etiquetas": [
+        "salud",
+        "deportes"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "59bcf0612e36bcdf",
+      "titulo": "Quatre festes amb el Llaminer per donar la benvinguda al Nadal",
+      "enlace": "https://www.isabadell.cat/nadal/encesa-llums-nadal-sabadell-2026-341620/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-26T16:00:00.000Z",
+      "detectado": "2026-11-26T16:11:28.672Z",
+      "sensible": false,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "7828fcc3d8e880ee",
+      "titulo": "La Puríssima posa a la venda més de mil joguines reciclades",
+      "enlace": "https://www.diaridesabadell.com/sabadell/nadal/venda-joguines-solidaries-la-purissima-2026.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-26T15:48:35.000Z",
+      "detectado": "2026-11-26T16:11:28.672Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "f3fa5247100ef5ca",
       "titulo": "Nova jornada de vaga dels docents",
       "enlace": "https://www.lactual.cat/actualitat/nova-jornada-vaga-docents_55451_102.html",
@@ -805,6 +871,34 @@
       "propuesta": true
     },
     {
+      "id": "d44f0e41400774b4",
+      "titulo": "Cerdanyola acollirà aquest cap de setmana una jornada per promoure l’ús de la bicicleta i la ciclomobilitat",
+      "enlace": "http://www.cerdanyola.cat/actualitat/cerdanyola-acollira-aquest-cap-de-setmana-una-jornada-promoure-lus-de-la-bicicleta-i-la",
+      "fuente": "ayto-cerdanyola",
+      "fuenteNombre": "Ajuntament de Cerdanyola del Vallès",
+      "tipo": "oficial",
+      "resumen": "Cerdanyola acollirà aquest cap de setmana una jornada per promoure l’ús de la bicicleta i la ciclomobilitat L’Ajuntament organitza aquest cap de setmana, dissabte 28 i diumenge 29 de novembre, una jornada de promoció de la ciclomobilitat…",
+      "municipio": "cerdanyola",
+      "municipiosMencionados": [
+        "cerdanyola"
+      ],
+      "publicado": "2026-11-26T09:00:07.000Z",
+      "detectado": "2026-11-26T16:11:28.672Z",
+      "sensible": true,
+      "etiquetas": [
+        "movilidad",
+        "economia",
+        "salud"
+      ],
+      "puntuacion": 5,
+      "motivos": [
+        "font oficial",
+        "mobilitat, economia i ocupació, salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
       "id": "af8cb2e126a98bf4",
       "titulo": "La Coral Belles Arts culmina el seu intercanvi amb Euskadi",
       "enlace": "https://www.isabadell.cat/cultura/la-coral-belles-arts-culmina-el-seu-intercanvi-amb-euskadi-341613/",
@@ -1219,7 +1313,30 @@
       ],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "1de0b8c79ca16773",
+      "titulo": "Els sis dibuixos infantils que donen la benvinguda al Nadal",
+      "enlace": "https://www.polinya.cat/actualitat/noticies/els-sis-dibuixos-infantils-que-donen-la-benvinguda-al-nadal.html",
+      "fuente": "ayto-polinya",
+      "fuenteNombre": "Ajuntament de Polinyà",
+      "tipo": "oficial",
+      "resumen": "Les guanyadores del concurs encendran els llums de Nadal a Polinyà, el 26 de novembre",
+      "municipio": "polinya",
+      "municipiosMencionados": [
+        "polinya"
+      ],
+      "publicado": "2026-11-25T23:00:00.000Z",
+      "detectado": "2026-11-26T16:11:28.672Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
     }
   ],
-  "actualizado": "2026-11-26T14:04:01.055Z"
+  "actualizado": "2026-11-26T16:11:53.488Z"
 }

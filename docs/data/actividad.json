@@ -1,83 +1,6 @@
 {
   "eventos": [
     {
-      "id": "60db0ec5aa21de04",
-      "t": "2026-11-23T18:12:16.594Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Sabadell aportarà 8.000 euros a un fons d'ajuda per a Veneçuela» (Ràdio Sabadell).",
-      "itemId": "1a6dc6f73fa287c3"
-    },
-    {
-      "id": "e68cd02616ef7fa6",
-      "t": "2026-11-23T18:12:16.595Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Emergències, Política local, Esports.",
-      "itemId": "1a6dc6f73fa287c3"
-    },
-    {
-      "id": "593af29919224642",
-      "t": "2026-11-23T18:12:16.596Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): emergències, política local.",
-      "itemId": "1a6dc6f73fa287c3"
-    },
-    {
-      "id": "670b043113cda02d",
-      "t": "2026-11-23T18:12:16.597Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La caserna supera un nou tràmit per acollir l’ampliació de l’hospital Taulí» (iSabadell).",
-      "itemId": "a13bc8205afeac53"
-    },
-    {
-      "id": "83103131b11136f9",
-      "t": "2026-11-23T18:12:16.598Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local, Salut.",
-      "itemId": "a13bc8205afeac53"
-    },
-    {
-      "id": "f01c44ecf593f2d3",
-      "t": "2026-11-23T18:12:16.599Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): política local, salut.",
-      "itemId": "a13bc8205afeac53"
-    },
-    {
-      "id": "de80d6a3ab4a9545",
-      "t": "2026-11-23T18:12:16.600Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Llum verda al primer pas per traslladar les consultes externes del Taulí a la Caserna» (Ràdio Sabadell).",
-      "itemId": "7f37f005522010bc"
-    },
-    {
-      "id": "dd4a9aea82506f29",
-      "t": "2026-11-23T18:12:16.601Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local, Salut.",
-      "itemId": "7f37f005522010bc"
-    },
-    {
-      "id": "19ee49834b039ce4",
-      "t": "2026-11-23T18:12:16.602Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): política local, salut.",
-      "itemId": "7f37f005522010bc"
-    },
-    {
-      "id": "048b1f3efea9ee80",
-      "t": "2026-11-23T19:16:43.005Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El nou passeig de Can Feu i Gràcia, cap a març de 2027» (Diari de Sabadell).",
-      "itemId": "ee723ef6ed0b8696"
-    },
-    {
-      "id": "86fa89c44f739c99",
-      "t": "2026-11-23T19:16:43.006Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Salut.",
-      "itemId": "ee723ef6ed0b8696"
-    },
-    {
       "id": "532fc4ab36768144",
       "t": "2026-11-23T19:16:43.007Z",
       "agente": "rastreador",
@@ -2799,7 +2722,84 @@
       "agente": "rastreador",
       "texto": "He recollit «Nova jornada de vaga dels docents» (L'Actual - Castellar del Vallès).",
       "itemId": "f3fa5247100ef5ca"
+    },
+    {
+      "id": "b3e92aee2c1fafa3",
+      "t": "2026-11-26T16:11:28.672Z",
+      "agente": "rastreador",
+      "texto": "La font «Ajuntament de Badia del Vallès» no respon (fetch failed).",
+      "itemId": null
+    },
+    {
+      "id": "726402b9c42aef1e",
+      "t": "2026-11-26T16:11:28.673Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Els sis dibuixos infantils que donen la benvinguda al Nadal» (Ajuntament de Polinyà).",
+      "itemId": "1de0b8c79ca16773"
+    },
+    {
+      "id": "41b173261f011a9e",
+      "t": "2026-11-26T16:11:28.674Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Cerdanyola acollirà aquest cap de setmana una jornada per promoure l’ús de la bicicleta i la ciclomobilitat» (Ajuntament de Cerdanyola del Vallès).",
+      "itemId": "d44f0e41400774b4"
+    },
+    {
+      "id": "24e06bde2f187bf7",
+      "t": "2026-11-26T16:11:28.675Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat, Economia i ocupació, Salut.",
+      "itemId": "d44f0e41400774b4"
+    },
+    {
+      "id": "39ed5be1066e5cc7",
+      "t": "2026-11-26T16:11:28.676Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "d44f0e41400774b4"
+    },
+    {
+      "id": "56ca8a5bbee722db",
+      "t": "2026-11-26T16:11:28.677Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (5 punts): font oficial · mobilitat, economia i ocupació, salut.",
+      "itemId": "d44f0e41400774b4"
+    },
+    {
+      "id": "39016e5b75a8090d",
+      "t": "2026-11-26T16:11:28.678Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La Puríssima posa a la venda més de mil joguines reciclades» (Diari de Sabadell).",
+      "itemId": "7828fcc3d8e880ee"
+    },
+    {
+      "id": "a643b5284be8e798",
+      "t": "2026-11-26T16:11:28.679Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Quatre festes amb el Llaminer per donar la benvinguda al Nadal» (iSabadell).",
+      "itemId": "59bcf0612e36bcdf"
+    },
+    {
+      "id": "cf4e850f14dd56d6",
+      "t": "2026-11-26T16:11:28.680Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "59bcf0612e36bcdf"
+    },
+    {
+      "id": "bf9e0aca5528e1f8",
+      "t": "2026-11-26T16:11:28.681Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La cessió de Kaua García al futbol croat: \"El meu somni és el primer equip del Sabadell\"» (Ràdio Sabadell).",
+      "itemId": "311c17ded5a79501"
+    },
+    {
+      "id": "bbfa14089cbcf8bd",
+      "t": "2026-11-26T16:11:28.682Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut, Esports.",
+      "itemId": "311c17ded5a79501"
     }
   ],
-  "actualizado": "2026-11-26T14:04:01.059Z"
+  "actualizado": "2026-11-26T16:11:53.491Z"
 }
