@@ -1,118 +1,6 @@
 {
   "eventos": [
     {
-      "id": "fcfbeec6592186d4",
-      "t": "2026-11-23T11:30:20.620Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local, Economia i ocupació, Salut, Medi ambient, Cultura i festes.",
-      "itemId": "b5fc8c0de94e279d"
-    },
-    {
-      "id": "c55ec2191c37fd4d",
-      "t": "2026-11-23T11:30:20.621Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "b5fc8c0de94e279d"
-    },
-    {
-      "id": "57f3b234e3ad55ec",
-      "t": "2026-11-23T11:30:20.622Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (5 punts): font oficial · política local, economia i ocupació, salut, medi ambient.",
-      "itemId": "b5fc8c0de94e279d"
-    },
-    {
-      "id": "e673f37d26e9a122",
-      "t": "2026-11-23T11:30:20.623Z",
-      "agente": "rastreador",
-      "texto": "He recollit «VÍDEO | Laura Escanes deixa entreveure per a qui anirà el seu vot aquest 29N» (Diari de Sabadell).",
-      "itemId": "a517d94e753e8edd"
-    },
-    {
-      "id": "3d30ece968262021",
-      "t": "2026-11-23T12:35:12.180Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Sentmenat ha viscut aquest dissabte una experiència ben diferent!» (Ajuntament de Sentmenat).",
-      "itemId": "5ebd3937eaa77b1b"
-    },
-    {
-      "id": "07dad03cb629a215",
-      "t": "2026-11-23T12:35:12.181Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Esports.",
-      "itemId": "5ebd3937eaa77b1b"
-    },
-    {
-      "id": "ef8464f3db4f6724",
-      "t": "2026-11-23T12:35:12.182Z",
-      "agente": "rastreador",
-      "texto": "He recollit «40 anys de la Cursa de Guanta, 40 anys de compromís i estima pel nostre poble!» (Ajuntament de Sentmenat).",
-      "itemId": "9f0f22c97beb93ce"
-    },
-    {
-      "id": "47c46cc818853301",
-      "t": "2026-11-23T12:35:12.183Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La tardor també es nota als nostres carrers!» (Ajuntament de Sentmenat).",
-      "itemId": "e6931f13fbfec218"
-    },
-    {
-      "id": "4be90d562387641d",
-      "t": "2026-11-23T12:35:12.185Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Abans de Nadal, menys presses i més criteri» (Diari de Sabadell).",
-      "itemId": "da2d44b3bb867bfe"
-    },
-    {
-      "id": "d37504b4fb368476",
-      "t": "2026-11-23T12:35:12.186Z",
-      "agente": "rastreador",
-      "texto": "He recollit «L’AMB aprova un pressupost de prop de 3.000 milions d’euros per al 2027» (Ajuntament de Ripollet).",
-      "itemId": "6e6e158cb04bfe12"
-    },
-    {
-      "id": "2474a005be6928ab",
-      "t": "2026-11-23T12:35:12.187Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local.",
-      "itemId": "6e6e158cb04bfe12"
-    },
-    {
-      "id": "0b43bec6704be12b",
-      "t": "2026-11-23T12:35:12.188Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · política local.",
-      "itemId": "6e6e158cb04bfe12"
-    },
-    {
-      "id": "7d8e1cafb12d7be3",
-      "t": "2026-11-23T12:35:12.189Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Santa Perpètua es suma a la Setmana Europea de la Prevenció de Residus» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "dec3b0197a93b93c"
-    },
-    {
-      "id": "ee45d02b8e91296f",
-      "t": "2026-11-23T12:35:12.190Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Medi ambient.",
-      "itemId": "dec3b0197a93b93c"
-    },
-    {
-      "id": "998a3199d5441e75",
-      "t": "2026-11-23T12:35:12.191Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El Black Friday arriba a Sabadell amb descomptes de fins al 40% als comerços de la ciutat» (Ràdio Sabadell).",
-      "itemId": "d220e5d90d4e7776"
-    },
-    {
-      "id": "189a2747630264d7",
-      "t": "2026-11-23T12:35:12.192Z",
-      "agente": "deduplicador",
-      "texto": "Descartada perquè és duplicada: coincideix amb «El Black Friday arriba a Sabadell amb descomptes de fins al 40% als comerços de la ciutat» (Ràdio Sabadell).",
-      "itemId": "d220e5d90d4e7776"
-    },
-    {
       "id": "51f07da2bd47824a",
       "t": "2026-11-23T12:35:12.193Z",
       "agente": "rastreador",
@@ -2799,7 +2687,119 @@
       "agente": "mesa",
       "texto": "Proposo incloure-ho a l'escaleta (5 punts): font oficial · mobilitat, política local.",
       "itemId": "1596dc48b856f5a0"
+    },
+    {
+      "id": "a5d6282116282f9c",
+      "t": "2026-11-26T09:44:50.015Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La Deixalleria Municipal reforça els seus serveis i recorda els avantatges de la Targeta de Serveis Ambientals» (Ajuntament de Sentmenat).",
+      "itemId": "1a26c039deb11f7f"
+    },
+    {
+      "id": "ee7df9d5813c4761",
+      "t": "2026-11-26T09:44:50.016Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Medi ambient.",
+      "itemId": "1a26c039deb11f7f"
+    },
+    {
+      "id": "93f5a875f4dd2bb4",
+      "t": "2026-11-26T09:44:50.017Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L'Ajuntament recorda les reduccions disponibles a la taxa de residus per a l'any vinent» (Ajuntament de Sentmenat).",
+      "itemId": "7a839d01710b2573"
+    },
+    {
+      "id": "f3f843a98bea7a68",
+      "t": "2026-11-26T09:44:50.018Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Medi ambient.",
+      "itemId": "7a839d01710b2573"
+    },
+    {
+      "id": "f4ebc41d1b74bf7d",
+      "t": "2026-11-26T09:44:50.019Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El restaurant Garbí compleix 50 anys» (L'Actual - Castellar del Vallès).",
+      "itemId": "3306c320f11824df"
+    },
+    {
+      "id": "7b8dc46ccba792ae",
+      "t": "2026-11-26T09:44:50.020Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L’handbol barberenc, premiat a la 33a Festa de l’Handbol Català» (Ajuntament de Barberà del Vallès).",
+      "itemId": "b4b7694928708d53"
+    },
+    {
+      "id": "96f54431c4815c77",
+      "t": "2026-11-26T09:44:50.021Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local, Esports, Cultura i festes.",
+      "itemId": "b4b7694928708d53"
+    },
+    {
+      "id": "9d8ff67d81b2ce30",
+      "t": "2026-11-26T09:44:50.022Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "b4b7694928708d53"
+    },
+    {
+      "id": "a31fa393ab3234f8",
+      "t": "2026-11-26T09:44:50.023Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · política local.",
+      "itemId": "b4b7694928708d53"
+    },
+    {
+      "id": "2f74b3040db7e7a6",
+      "t": "2026-11-26T09:44:50.024Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La Coral Belles Arts culmina el seu intercanvi amb Euskadi» (iSabadell).",
+      "itemId": "af8cb2e126a98bf4"
+    },
+    {
+      "id": "99bce6f8af9e56bd",
+      "t": "2026-11-26T09:44:50.025Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "af8cb2e126a98bf4"
+    },
+    {
+      "id": "79f841fcff0e79a8",
+      "t": "2026-11-26T09:44:50.026Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Les proves de selecció de les borses de treball de personal tècnic i docent es faran el 19 de desembre» (Ajuntament de Cerdanyola del Vallès).",
+      "itemId": "0405d12197651c40"
+    },
+    {
+      "id": "508023d497386439",
+      "t": "2026-11-26T09:44:50.027Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut, Educació, Esports, Cultura i festes.",
+      "itemId": "0405d12197651c40"
+    },
+    {
+      "id": "64ff916f51dcbe7e",
+      "t": "2026-11-26T09:44:50.028Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "0405d12197651c40"
+    },
+    {
+      "id": "475945e1261ca676",
+      "t": "2026-11-26T09:44:50.029Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · salut, educació.",
+      "itemId": "0405d12197651c40"
+    },
+    {
+      "id": "4d47cdbc50a4fb59",
+      "t": "2026-11-26T09:44:50.030Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La tertúlia: les vagues de mestres, l'increment de la demanda del C2 i el 25-N» (Ràdio Sabadell).",
+      "itemId": "37d28a0f917bf85c"
     }
   ],
-  "actualizado": "2026-11-26T08:33:25.617Z"
+  "actualizado": "2026-11-26T09:45:06.660Z"
 }

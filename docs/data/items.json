@@ -104,6 +104,122 @@
   },
   "items": [
     {
+      "id": "37d28a0f917bf85c",
+      "titulo": "La tertúlia: les vagues de mestres, l'increment de la demanda del C2 i el 25-N",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-mati-tertulia-261126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-26T09:13:39.000Z",
+      "detectado": "2026-11-26T09:44:50.015Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "0405d12197651c40",
+      "titulo": "Les proves de selecció de les borses de treball de personal tècnic i docent es faran el 19 de desembre",
+      "enlace": "http://www.cerdanyola.cat/actualitat/les-proves-de-seleccio-de-les-borses-de-treball-de-personal-tecnic-i-docent-es-faran-el",
+      "fuente": "ayto-cerdanyola",
+      "fuenteNombre": "Ajuntament de Cerdanyola del Vallès",
+      "tipo": "oficial",
+      "resumen": "Les proves de selecció de les borses de treball de personal tècnic i docent es faran el 19 de desembre L’Ajuntament informa que les proves selectives per constituir les noves borses de treball de personal tècnic amb titulació…",
+      "municipio": "cerdanyola",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-26T09:05:40.000Z",
+      "detectado": "2026-11-26T09:44:50.015Z",
+      "sensible": true,
+      "etiquetas": [
+        "salud",
+        "educacion",
+        "deportes",
+        "cultura"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "font oficial",
+        "salut, educació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "af8cb2e126a98bf4",
+      "titulo": "La Coral Belles Arts culmina el seu intercanvi amb Euskadi",
+      "enlace": "https://www.isabadell.cat/cultura/la-coral-belles-arts-culmina-el-seu-intercanvi-amb-euskadi-341613/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-26T09:00:00.000Z",
+      "detectado": "2026-11-26T09:44:50.015Z",
+      "sensible": false,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "b4b7694928708d53",
+      "titulo": "L’handbol barberenc, premiat a la 33a Festa de l’Handbol Català",
+      "enlace": "https://www.bdv.cat/noticies/lhandbol-barberenc-premiat-la-33a-festa-de-lhandbol-catala",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "El Club Handbol Barberà, com a entitat, i tres jugadors i jugadores vinculats al club van ser guardonats en la 33a Festa de l’Handbol Català celebrada el passat divendres 20 de novembre a la Fàbrica Llobet de Calella, actual ciutat de…",
+      "municipio": "barbera",
+      "municipiosMencionados": [
+        "barbera"
+      ],
+      "publicado": "2026-11-26T08:43:00.000Z",
+      "detectado": "2026-11-26T09:44:50.015Z",
+      "sensible": true,
+      "etiquetas": [
+        "politica",
+        "deportes",
+        "cultura"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "font oficial",
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "3306c320f11824df",
+      "titulo": "El restaurant Garbí compleix 50 anys",
+      "enlace": "https://www.lactual.cat/actualitat/restaurant-garbi-compleix-50-anys_55446_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-26T08:41:34.000Z",
+      "detectado": "2026-11-26T09:44:50.015Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "1596dc48b856f5a0",
       "titulo": "Cerdanyola donarà la benvinguda al Nadal amb l’encesa de llums aquest divendres",
       "enlace": "http://www.cerdanyola.cat/actualitat/cerdanyola-donara-la-benvinguda-al-nadal-amb-lencesa-de-llums-aquest-divendres",
@@ -336,7 +452,55 @@
       ],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "1a26c039deb11f7f",
+      "titulo": "La Deixalleria Municipal reforça els seus serveis i recorda els avantatges de la Targeta de Serveis Ambientals",
+      "enlace": "https://www.sentmenat.cat/actualitat/noticies/la-deixalleria-municipal-reforca-els-seus-serveis-i-recorda-els-avantatges-de-la-targeta-de-serveis-ambientals.html",
+      "fuente": "ayto-sentmenat",
+      "fuenteNombre": "Ajuntament de Sentmenat",
+      "tipo": "oficial",
+      "resumen": "La Targeta de Serveis Ambientals permet accedir a tots els serveis de la Deixalleria Municipal i obtenir bonificacions en la taxa de residus mitjançant un ús responsable de les instal·lacions.",
+      "municipio": "sentmenat",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-25T23:00:00.000Z",
+      "detectado": "2026-11-26T09:44:50.015Z",
+      "sensible": false,
+      "etiquetas": [
+        "medioambiente"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "font oficial",
+        "medi ambient"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "7a839d01710b2573",
+      "titulo": "L'Ajuntament recorda les reduccions disponibles a la taxa de residus per a l'any vinent",
+      "enlace": "https://www.sentmenat.cat/actualitat/noticies/lajuntament-recorda-les-reduccions-disponibles-a-la-taxa-de-residus-per-a-lany-vinent.html",
+      "fuente": "ayto-sentmenat",
+      "fuenteNombre": "Ajuntament de Sentmenat",
+      "tipo": "oficial",
+      "resumen": "La ciutadania pot beneficiar-se de diferents reduccions en la taxa de residus segons la seva situació personal, familiar o els seus hàbits de gestió responsable dels residus. Les sol·licituds es poden presentar fins al 31 de desembre.",
+      "municipio": "sentmenat",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-25T23:00:00.000Z",
+      "detectado": "2026-11-26T09:44:50.015Z",
+      "sensible": false,
+      "etiquetas": [
+        "medioambiente"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "font oficial",
+        "medi ambient"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
     }
   ],
-  "actualizado": "2026-11-26T08:33:25.613Z"
+  "actualizado": "2026-11-26T09:45:06.656Z"
 }
