@@ -1,97 +1,6 @@
 {
   "eventos": [
     {
-      "id": "af76f96cc4cce4e8",
-      "t": "2026-11-23T11:30:20.607Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Cultura i festes.",
-      "itemId": "035ced90ea506b06"
-    },
-    {
-      "id": "5ce0bbd59c674202",
-      "t": "2026-11-23T11:30:20.608Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El Black Friday arriba a Sabadell amb descomptes de fins al 40% als comerços de la ciutat» (Ràdio Sabadell).",
-      "itemId": "f61beb8e02caf15f"
-    },
-    {
-      "id": "ba3ff50dbfd4aa7c",
-      "t": "2026-11-23T11:30:20.609Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Economia i ocupació.",
-      "itemId": "f61beb8e02caf15f"
-    },
-    {
-      "id": "1100c5321dcd4c56",
-      "t": "2026-11-23T11:30:20.610Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Concert de Nadal» (Ajuntament de Barberà del Vallès).",
-      "itemId": "1860717acfeb901a"
-    },
-    {
-      "id": "bc4a1f12cf182998",
-      "t": "2026-11-23T11:30:20.611Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Cultura i festes.",
-      "itemId": "1860717acfeb901a"
-    },
-    {
-      "id": "6a4e25857f92484f",
-      "t": "2026-11-23T11:30:20.612Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El Cercle estrena noves pistes de pickleball, futbol i un parc infantil» (iSabadell).",
-      "itemId": "992f6b46fb508142"
-    },
-    {
-      "id": "8345195a0f68ab37",
-      "t": "2026-11-23T11:30:20.613Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Esports.",
-      "itemId": "992f6b46fb508142"
-    },
-    {
-      "id": "5d2f41a11c193cdf",
-      "t": "2026-11-23T11:30:20.614Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "992f6b46fb508142"
-    },
-    {
-      "id": "99283cd57e0a4885",
-      "t": "2026-11-23T11:30:20.615Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Així llueix el Calendari Solidari 2027 d’Andi» (iSabadell).",
-      "itemId": "ef0c353801e44a0f"
-    },
-    {
-      "id": "7a8fb07207d460cc",
-      "t": "2026-11-23T11:30:20.616Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La Profecia de l'Estel» (Ajuntament de Barberà del Vallès).",
-      "itemId": "6a309dd49cf5d44d"
-    },
-    {
-      "id": "5be6d1be8c00e373",
-      "t": "2026-11-23T11:30:20.617Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local, Cultura i festes.",
-      "itemId": "6a309dd49cf5d44d"
-    },
-    {
-      "id": "d10bcbf4f73c8b7a",
-      "t": "2026-11-23T11:30:20.618Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · política local.",
-      "itemId": "6a309dd49cf5d44d"
-    },
-    {
-      "id": "5398bf085922fbdb",
-      "t": "2026-11-23T11:30:20.619Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Aquest dijous 26 de novembre, Barberà dona la benvinguda al Nadal!» (Ajuntament de Barberà del Vallès).",
-      "itemId": "b5fc8c0de94e279d"
-    },
-    {
       "id": "fcfbeec6592186d4",
       "t": "2026-11-23T11:30:20.620Z",
       "agente": "etiquetador",
@@ -2799,7 +2708,98 @@
       "agente": "vigilante",
       "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
       "itemId": "ba8e4c7641d14de5"
+    },
+    {
+      "id": "ac4b1ab20892bf83",
+      "t": "2026-11-26T08:33:12.855Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L'avinguda de l'Onze de Setembre és d'un carril per sentit a l'altura de les piscines» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "79ff78a6dd653035"
+    },
+    {
+      "id": "68787c8487a1aae9",
+      "t": "2026-11-26T08:33:12.856Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut.",
+      "itemId": "79ff78a6dd653035"
+    },
+    {
+      "id": "1b64d3765728171e",
+      "t": "2026-11-26T08:33:12.857Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Talls de trànsit a la plaça del Mil·lenari per una manifestació» (Ràdio Sabadell).",
+      "itemId": "5fb60bd52153fd40"
+    },
+    {
+      "id": "433f9f03d1647470",
+      "t": "2026-11-26T08:33:12.858Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat, Educació.",
+      "itemId": "5fb60bd52153fd40"
+    },
+    {
+      "id": "50f0018c9203bfd8",
+      "t": "2026-11-26T08:33:12.859Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): mobilitat, educació.",
+      "itemId": "5fb60bd52153fd40"
+    },
+    {
+      "id": "cbf0702619717dfa",
+      "t": "2026-11-26T08:33:12.860Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Talls de trànsit a Sabadell en una nova jornada de vaga del sector educatiu» (Diari de Sabadell).",
+      "itemId": "946293a8f7d20b19"
+    },
+    {
+      "id": "d85421c82c302eb9",
+      "t": "2026-11-26T08:33:12.861Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat.",
+      "itemId": "946293a8f7d20b19"
+    },
+    {
+      "id": "3dd5b6c75f01a4a1",
+      "t": "2026-11-26T08:33:12.862Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Primers noms confirmats del festival Embassa't 2027» (Ràdio Sabadell).",
+      "itemId": "07a301c979aa366f"
+    },
+    {
+      "id": "395a5610392c1fd9",
+      "t": "2026-11-26T08:33:12.863Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "07a301c979aa366f"
+    },
+    {
+      "id": "4143207dc5ed9cfc",
+      "t": "2026-11-26T08:33:12.864Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El Mago Pop compra un nou teatre» (Diari de Sabadell).",
+      "itemId": "62f936740b2497ab"
+    },
+    {
+      "id": "355bc359501de4d3",
+      "t": "2026-11-26T08:33:12.865Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Obres i urbanisme, Cultura i festes.",
+      "itemId": "62f936740b2497ab"
+    },
+    {
+      "id": "de46c3259de82919",
+      "t": "2026-11-26T08:33:12.867Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat, Política local.",
+      "itemId": "1596dc48b856f5a0"
+    },
+    {
+      "id": "042dd5b63227300d",
+      "t": "2026-11-26T08:33:12.869Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (5 punts): font oficial · mobilitat, política local.",
+      "itemId": "1596dc48b856f5a0"
     }
   ],
-  "actualizado": "2026-11-26T07:02:53.319Z"
+  "actualizado": "2026-11-26T08:33:25.617Z"
 }

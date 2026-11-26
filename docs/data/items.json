@@ -104,6 +104,127 @@
   },
   "items": [
     {
+      "id": "1596dc48b856f5a0",
+      "titulo": "Cerdanyola donarà la benvinguda al Nadal amb l’encesa de llums aquest divendres",
+      "enlace": "http://www.cerdanyola.cat/actualitat/cerdanyola-donara-la-benvinguda-al-nadal-amb-lencesa-de-llums-aquest-divendres",
+      "fuente": "ayto-cerdanyola",
+      "fuenteNombre": "Ajuntament de Cerdanyola del Vallès",
+      "tipo": "oficial",
+      "resumen": "Cerdanyola donarà la benvinguda al Nadal amb l’encesa de llums aquest divendres Cerdanyola donarà el tret de sortida oficial a les festes de Nadal aquest divendres 27 de novembre, a partir de les 17:30 h, amb el tradicional acte d’encesa…",
+      "municipio": "cerdanyola",
+      "municipiosMencionados": [
+        "cerdanyola"
+      ],
+      "publicado": "2026-11-26T08:30:33.000Z",
+      "detectado": "2026-11-26T08:33:12.855Z",
+      "sensible": true,
+      "etiquetas": [
+        "movilidad",
+        "politica"
+      ],
+      "puntuacion": 5,
+      "motivos": [
+        "font oficial",
+        "mobilitat, política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "62f936740b2497ab",
+      "titulo": "El Mago Pop compra un nou teatre",
+      "enlace": "https://www.diaridesabadell.com/valles/badia/mago-pop-teatre-regina-compra-barcelona.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-26T08:15:44.000Z",
+      "detectado": "2026-11-26T08:33:12.855Z",
+      "sensible": false,
+      "etiquetas": [
+        "urbanismo",
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "07a301c979aa366f",
+      "titulo": "Primers noms confirmats del festival Embassa't 2027",
+      "enlace": "https://radiosabadell.fm/actualitat/cultura/primers-noms-confirmats-festival-embassat-2027",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-26T08:09:31.000Z",
+      "detectado": "2026-11-26T08:33:12.855Z",
+      "sensible": false,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "946293a8f7d20b19",
+      "titulo": "Talls de trànsit a Sabadell en una nova jornada de vaga del sector educatiu",
+      "enlace": "https://www.diaridesabadell.com/sabadell/vaga-educativa-docents-sabadell-talls-transit-mobilitzacions-26n-sindicats-departament-educacio.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-26T08:04:17.000Z",
+      "detectado": "2026-11-26T08:33:12.855Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "mobilitat"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "5fb60bd52153fd40",
+      "titulo": "Talls de trànsit a la plaça del Mil·lenari per una manifestació",
+      "enlace": "https://radiosabadell.fm/actualitat/successos/talls-de-transit-la-placa-del-millenari-una-manifestacio",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-26T07:23:56.000Z",
+      "detectado": "2026-11-26T08:33:12.855Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad",
+        "educacion"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "mobilitat, educació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
       "id": "ba8e4c7641d14de5",
       "titulo": "La violència masclista, absent de la campanya electoral￼",
       "enlace": "https://www.isabadell.cat/opinio/la-violencia-masclista-absent-de-la-campanya-electoral%ef%bf%bc-341594/",
@@ -191,7 +312,31 @@
       ],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "79ff78a6dd653035",
+      "titulo": "L'avinguda de l'Onze de Setembre és d'un carril per sentit a l'altura de les piscines",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/lavinguda-de-lonze-de-setembre-es-dun-carril-per-sentit-a-laltura-de-les-piscines.html",
+      "fuente": "ayto-santa-perpetua",
+      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
+      "tipo": "oficial",
+      "resumen": "L’avinguda de l’Onze de Setembre passa a ser d’un carril en sentit cap a l’avinguda de Girona i s’han ampliat les places d’estacionament que ara hi ha a banda i banda en el tram entre el carrer de Puig i Cadafalch i l’avinguda de Girona.",
+      "municipio": "santa-perpetua",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-25T23:00:00.000Z",
+      "detectado": "2026-11-26T08:33:12.855Z",
+      "sensible": false,
+      "etiquetas": [
+        "salud"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "font oficial",
+        "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
     }
   ],
-  "actualizado": "2026-11-26T07:02:53.315Z"
+  "actualizado": "2026-11-26T08:33:25.613Z"
 }
