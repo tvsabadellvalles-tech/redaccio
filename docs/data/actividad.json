@@ -1,111 +1,6 @@
 {
   "eventos": [
     {
-      "id": "ea57aa3787b3e67e",
-      "t": "2026-11-23T13:59:34.975Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local.",
-      "itemId": "8a1b87e6686b028a"
-    },
-    {
-      "id": "3200e97a9dcac39b",
-      "t": "2026-11-23T13:59:34.976Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El Ple municipal afronta l'últim tràmit abans de cedir l'antiga caserna al Parc Taulí» (Ràdio Sabadell).",
-      "itemId": "347cf6008943b5e5"
-    },
-    {
-      "id": "d9d905a923ead335",
-      "t": "2026-11-23T13:59:34.977Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local.",
-      "itemId": "347cf6008943b5e5"
-    },
-    {
-      "id": "a12c70c3c98190aa",
-      "t": "2026-11-23T13:59:34.978Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Una dotzena d'actuacions pel temporal de vent» (L'Actual - Castellar del Vallès).",
-      "itemId": "baaf736384c9afdc"
-    },
-    {
-      "id": "cecad90d2a4f79ce",
-      "t": "2026-11-23T13:59:34.979Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Emergències.",
-      "itemId": "baaf736384c9afdc"
-    },
-    {
-      "id": "0a58b9225301196d",
-      "t": "2026-11-23T13:59:34.980Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): emergències.",
-      "itemId": "baaf736384c9afdc"
-    },
-    {
-      "id": "ae7e10737bbdce46",
-      "t": "2026-11-23T16:08:29.650Z",
-      "agente": "rastreador",
-      "texto": "He recollit «HP escull Sant Cugat del Vallès per instal·lar el seu centre de vendes europeu» (Diari de Sabadell).",
-      "itemId": "8cb128684450be6c"
-    },
-    {
-      "id": "5adaf0508094a572",
-      "t": "2026-11-23T16:08:29.651Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Una sabadellenca, a la convocatòria de la selecció catalana absoluta de futbol» (Diari de Sabadell).",
-      "itemId": "8251cc0d4d246697"
-    },
-    {
-      "id": "6317fa4ceef42a50",
-      "t": "2026-11-23T16:08:29.652Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Esports.",
-      "itemId": "8251cc0d4d246697"
-    },
-    {
-      "id": "c90862bf738653ff",
-      "t": "2026-11-23T16:08:29.653Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La setmana gran d'Alain Ribeiro: doblet entre lliga i Copa» (Ràdio Sabadell).",
-      "itemId": "5ba724195a4e0c62"
-    },
-    {
-      "id": "1b598968be8bbbc6",
-      "t": "2026-11-23T16:08:29.654Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Salut, Esports.",
-      "itemId": "5ba724195a4e0c62"
-    },
-    {
-      "id": "9cec10f3bc930783",
-      "t": "2026-11-23T16:08:29.655Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Xevi Tortolero, cap de Xeviot Moda: ''La nostra signatura és l’atenció especialitzada, i això a les grans superfícies no ho trobes''» (Ràdio Sabadell).",
-      "itemId": "584948ff5f4262ec"
-    },
-    {
-      "id": "49d2bd8467fd5519",
-      "t": "2026-11-23T16:08:29.656Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Salut.",
-      "itemId": "584948ff5f4262ec"
-    },
-    {
-      "id": "1716278a87662a7b",
-      "t": "2026-11-23T16:08:29.657Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Comença la tercera fase de les obres de la canonada de Llevant a Sabadell» (Diari de Sabadell).",
-      "itemId": "a3c2310fae4b70ed"
-    },
-    {
-      "id": "70e0753a0d0c79c8",
-      "t": "2026-11-23T16:08:29.658Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Obres i urbanisme.",
-      "itemId": "a3c2310fae4b70ed"
-    },
-    {
       "id": "dac40ba32ee3bbb7",
       "t": "2026-11-23T16:08:29.659Z",
       "agente": "rastreador",
@@ -2799,7 +2694,112 @@
       "agente": "rastreador",
       "texto": "He recollit «On podré veure el Llaminer i els personatges de Nadal? Horaris, llocs i novetats dels espectacles a Sabadell» (Diari de Sabadell).",
       "itemId": "83b32afa413df62c"
+    },
+    {
+      "id": "3411dc584e3f8256",
+      "t": "2026-11-26T12:48:09.650Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L'Observatori de Ciutat crea una eina interactiva al web municipal per consultar i comparar els resultats electorals» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "201213199275f9b4"
+    },
+    {
+      "id": "86bb20ecd68525a1",
+      "t": "2026-11-26T12:48:09.651Z",
+      "agente": "rastreador",
+      "texto": "He recollit «The Tyets, Ginestà, Serko i Mar Pujol, primers confirmats a l'Embassa't» (Diari de Sabadell).",
+      "itemId": "f7e8f2793efeb6dd"
+    },
+    {
+      "id": "3e55da86e6b2d39e",
+      "t": "2026-11-26T12:48:09.652Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Ple ordinari del 26 de novembre de 2026» (Ajuntament de Ripollet).",
+      "itemId": "4ac3d3e22d91139a"
+    },
+    {
+      "id": "2f86f66c90da81eb",
+      "t": "2026-11-26T12:48:09.653Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local.",
+      "itemId": "4ac3d3e22d91139a"
+    },
+    {
+      "id": "090e8a0dcb9a85e8",
+      "t": "2026-11-26T12:48:09.654Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · política local.",
+      "itemId": "4ac3d3e22d91139a"
+    },
+    {
+      "id": "f16878c4ddb296c5",
+      "t": "2026-11-26T12:48:09.655Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Dolors Suárez Altayó: \"El Quinto no pot ser un bingo en català\"» (Ràdio Sabadell).",
+      "itemId": "a859bc7f1051f830"
+    },
+    {
+      "id": "8366de8b1a2b5881",
+      "t": "2026-11-26T12:48:09.656Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Pep Cruz, actor: \"L'obra planteja el dubte de si es pot heretar la maldat\"» (Ràdio Sabadell).",
+      "itemId": "ff1fee5690e50dec"
+    },
+    {
+      "id": "3584577e202c85af",
+      "t": "2026-11-26T12:48:09.657Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El CE Sabadell, a confirmar les bones sensacions, ara a domicili» (Diari de Sabadell).",
+      "itemId": "9f082f368084f42b"
+    },
+    {
+      "id": "8571def5b9b398a8",
+      "t": "2026-11-26T12:48:09.658Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La demanda per examinar-se del C2 de català es multiplica per vuit en sis anys» (Ràdio Sabadell).",
+      "itemId": "0a6127629aa046e5"
+    },
+    {
+      "id": "503a0d0e84ab2a3a",
+      "t": "2026-11-26T12:48:09.659Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Successos, Salut, Educació.",
+      "itemId": "0a6127629aa046e5"
+    },
+    {
+      "id": "0493e2b8fbbc6967",
+      "t": "2026-11-26T12:48:09.660Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "0a6127629aa046e5"
+    },
+    {
+      "id": "cb3c98e6458378e4",
+      "t": "2026-11-26T12:48:09.661Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): successos, salut, educació.",
+      "itemId": "0a6127629aa046e5"
+    },
+    {
+      "id": "8804e14bc49308e8",
+      "t": "2026-11-26T12:48:09.662Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Barberà vol construir una ciutat més saludable i demana l'opinió de la ciutadania» (Ajuntament de Barberà del Vallès).",
+      "itemId": "a47b244db3cc910e"
+    },
+    {
+      "id": "b778d71b3d156cfd",
+      "t": "2026-11-26T12:48:09.663Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat, Salut.",
+      "itemId": "a47b244db3cc910e"
+    },
+    {
+      "id": "ae6debedc9219138",
+      "t": "2026-11-26T12:48:09.664Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): font oficial · mobilitat, salut.",
+      "itemId": "a47b244db3cc910e"
     }
   ],
-  "actualizado": "2026-11-26T11:41:21.023Z"
+  "actualizado": "2026-11-26T12:48:26.043Z"
 }

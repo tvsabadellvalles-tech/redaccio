@@ -104,6 +104,143 @@
   },
   "items": [
     {
+      "id": "a47b244db3cc910e",
+      "titulo": "Barberà vol construir una ciutat més saludable i demana l'opinió de la ciutadania",
+      "enlace": "https://www.bdv.cat/noticies/barbera-vol-construir-una-ciutat-mes-saludable-i-demana-lopinio-de-la-ciutadania",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "Què ens ofereix Barberà del Vallès per viure millor i cuidar la nostra salut? Quins aspectes de la ciutat podem millorar per afavorir el benestar de tothom? L'Ajuntament vol conèixer l'opinió de la ciutadania per donar resposta a aquestes…",
+      "municipio": "barbera",
+      "municipiosMencionados": [
+        "barbera"
+      ],
+      "publicado": "2026-11-26T12:44:00.000Z",
+      "detectado": "2026-11-26T12:48:09.650Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad",
+        "salud"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "font oficial",
+        "mobilitat, salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "0a6127629aa046e5",
+      "titulo": "La demanda per examinar-se del C2 de català es multiplica per vuit en sis anys",
+      "enlace": "https://radiosabadell.fm/actualitat/educacio/la-demanda-examinar-se-del-c2-de-catala-es-multiplica-vuit-en-sis-anys",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-26T12:37:36.000Z",
+      "detectado": "2026-11-26T12:48:09.650Z",
+      "sensible": true,
+      "etiquetas": [
+        "sucesos",
+        "salud",
+        "educacion"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "successos, salut, educació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "9f082f368084f42b",
+      "titulo": "El CE Sabadell, a confirmar les bones sensacions, ara a domicili",
+      "enlace": "https://www.diaridesabadell.com/esports/cd-leganes-centre-esports-sabadell-segona-divisio-previa.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-26T12:15:04.000Z",
+      "detectado": "2026-11-26T12:48:09.650Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "ff1fee5690e50dec",
+      "titulo": "Pep Cruz, actor: \"L'obra planteja el dubte de si es pot heretar la maldat\"",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-mati-pep-cruz-261126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-26T12:06:04.000Z",
+      "detectado": "2026-11-26T12:48:09.650Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "a859bc7f1051f830",
+      "titulo": "Dolors Suárez Altayó: \"El Quinto no pot ser un bingo en català\"",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-mati-dolors-quinto-261126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-26T12:03:06.000Z",
+      "detectado": "2026-11-26T12:48:09.650Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "4ac3d3e22d91139a",
+      "titulo": "Ple ordinari del 26 de novembre de 2026",
+      "enlace": "https://www.ripollet.cat/actualitat/noticies/ple-ordinari-del-26-de-novembre-de-2026",
+      "fuente": "ayto-ripollet",
+      "fuenteNombre": "Ajuntament de Ripollet",
+      "tipo": "oficial",
+      "resumen": "Convocatòria i ordre del dia del Ple ordinari del mes de novembre de 2026",
+      "municipio": "ripollet",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-26T12:02:22.000Z",
+      "detectado": "2026-11-26T12:48:09.650Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "font oficial",
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
       "id": "83b32afa413df62c",
       "titulo": "On podré veure el Llaminer i els personatges de Nadal? Horaris, llocs i novetats dels espectacles a Sabadell",
       "enlace": "https://www.diaridesabadell.com/sabadell/nadal/llaminer-personatges-nadal-horaris-lloc-calendari-somriu-al-nadal.html",
@@ -379,6 +516,25 @@
       ],
       "duplicadaDe": null,
       "propuesta": true
+    },
+    {
+      "id": "f7e8f2793efeb6dd",
+      "titulo": "The Tyets, Ginestà, Serko i Mar Pujol, primers confirmats a l'Embassa't",
+      "enlace": "https://www.diaridesabadell.com/oci-cultura/embassat-tyets-ginesta-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-26T09:24:02.000Z",
+      "detectado": "2026-11-26T12:48:09.650Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
     },
     {
       "id": "b328bd1dafb8df89",
@@ -840,7 +996,30 @@
       ],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "201213199275f9b4",
+      "titulo": "L'Observatori de Ciutat crea una eina interactiva al web municipal per consultar i comparar els resultats electorals",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/lobservatori-de-ciutat-crea-una-eina-interactiva-al-web-municipal-per-consultar-i-comparar-els-resultats-electorals.html",
+      "fuente": "ayto-santa-perpetua",
+      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
+      "tipo": "oficial",
+      "resumen": "L’Ajuntament de Santa Perpètua de Mogoda, a través de l’Observatori de Ciutat, ha posat en marxa una nova eina que permet consultar, analitzar i comparar els resultats de les tres darreres convocatòries d’Eleccions Generals.",
+      "municipio": "santa-perpetua",
+      "municipiosMencionados": [
+        "santa-perpetua"
+      ],
+      "publicado": "2026-11-25T23:00:00.000Z",
+      "detectado": "2026-11-26T12:48:09.650Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
     }
   ],
-  "actualizado": "2026-11-26T11:41:21.020Z"
+  "actualizado": "2026-11-26T12:48:26.039Z"
 }
