@@ -1,34 +1,6 @@
 {
   "eventos": [
     {
-      "id": "7d67808d2ee82107",
-      "t": "2026-11-23T22:07:02.887Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local.",
-      "itemId": "c258f73951e58ed2"
-    },
-    {
-      "id": "54d8f82ad260a781",
-      "t": "2026-11-23T23:50:41.056Z",
-      "agente": "rastreador",
-      "texto": "He recollit «L’INCIVISME TÉ UN COST. I EL PAGUEM ENTRE TOTS.» (Ajuntament de Sentmenat).",
-      "itemId": "5e6064a16e6b98e7"
-    },
-    {
-      "id": "7a48ab4ee0b0abf8",
-      "t": "2026-11-24T08:24:44.349Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Minut de silenci, avui al migdia, davant de l'Ajuntament, pel feminicidi a Ll�via» (Ajuntament de Badia del Vallès).",
-      "itemId": "69239e4649d42330"
-    },
-    {
-      "id": "72eb876709ad4678",
-      "t": "2026-11-24T08:24:44.350Z",
-      "agente": "rastreador",
-      "texto": "He recollit «‘La solució està a l’esquerra’» (iSabadell).",
-      "itemId": "6841e9604b1920f0"
-    },
-    {
       "id": "a3e78a699eea3c4d",
       "t": "2026-11-24T08:24:44.351Z",
       "agente": "etiquetador",
@@ -2799,7 +2771,35 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Mobilitat.",
       "itemId": "c3c9ba7fb474a8ba"
+    },
+    {
+      "id": "a3abe677ad8cab3a",
+      "t": "2026-11-26T19:18:33.199Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Palau al Dia - Notícies del 26/11/2026» (Ràdio Palau - Palau al Dia).",
+      "itemId": "f29f868b254f3c0e"
+    },
+    {
+      "id": "87fe78c884b70d50",
+      "t": "2026-11-26T19:18:33.200Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Javier Castillo i la seva novel·la 'Espinas en el aire' revolucionen La Llar del Llibre» (Ràdio Sabadell).",
+      "itemId": "fc2d909747f5e567"
+    },
+    {
+      "id": "21bce4057d3931ca",
+      "t": "2026-11-26T19:18:33.201Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Obres i urbanisme, Salut.",
+      "itemId": "fc2d909747f5e567"
+    },
+    {
+      "id": "038e0e6c2b824355",
+      "t": "2026-11-26T19:18:33.202Z",
+      "agente": "rastreador",
+      "texto": "He recollit «“Surto a les sis des de Polinyà per entrar a les vuit a classe”» (Diari de Sabadell).",
+      "itemId": "f2f38a81252f1f7f"
     }
   ],
-  "actualizado": "2026-11-26T18:12:59.566Z"
+  "actualizado": "2026-11-26T19:18:48.039Z"
 }

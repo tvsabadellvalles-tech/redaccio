@@ -104,6 +104,53 @@
   },
   "items": [
     {
+      "id": "f2f38a81252f1f7f",
+      "titulo": "“Surto a les sis des de Polinyà per entrar a les vuit a classe”",
+      "enlace": "https://www.diaridesabadell.com/valles/institut-castellarnau-accessibilitat-queixes-obres-graus-alumnes.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "polinya"
+      ],
+      "publicado": "2026-11-26T18:47:11.000Z",
+      "detectado": "2026-11-26T19:18:33.199Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "fc2d909747f5e567",
+      "titulo": "Javier Castillo i la seva novel·la 'Espinas en el aire' revolucionen La Llar del Llibre",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/castillo-novella-espinas-aire-llar",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-26T18:08:34.000Z",
+      "detectado": "2026-11-26T19:18:33.199Z",
+      "sensible": false,
+      "etiquetas": [
+        "urbanismo",
+        "salud"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "obres i urbanisme, salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "c3c9ba7fb474a8ba",
       "titulo": "El Front Ampli proposa més inversions a la xarxa de Rodalies",
       "enlace": "https://www.isabadell.cat/politica/eleccions-generals-2026/el-front-ampli-proposa-mes-inversions-a-la-xarxa-de-rodalies-341681/",
@@ -123,6 +170,27 @@
       "motivos": [
         "mobilitat"
       ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "f29f868b254f3c0e",
+      "titulo": "Palau al Dia - Notícies del 26/11/2026",
+      "enlace": "https://www.radiopalau.cat/podcasts/palau-al-dia/radiopalau_podcast_6859/",
+      "fuente": "radio-palau",
+      "fuenteNombre": "Ràdio Palau - Palau al Dia",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "palau",
+      "municipiosMencionados": [
+        "palau"
+      ],
+      "publicado": "2026-11-26T17:59:59.000Z",
+      "detectado": "2026-11-26T19:18:33.199Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
       "duplicadaDe": null,
       "propuesta": false
     },
@@ -1548,5 +1616,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-26T18:12:59.563Z"
+  "actualizado": "2026-11-26T19:18:48.035Z"
 }
