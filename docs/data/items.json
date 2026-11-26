@@ -104,6 +104,97 @@
   },
   "items": [
     {
+      "id": "83b32afa413df62c",
+      "titulo": "On podré veure el Llaminer i els personatges de Nadal? Horaris, llocs i novetats dels espectacles a Sabadell",
+      "enlace": "https://www.diaridesabadell.com/sabadell/nadal/llaminer-personatges-nadal-horaris-lloc-calendari-somriu-al-nadal.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-26T11:21:34.000Z",
+      "detectado": "2026-11-26T11:41:02.711Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "f609e325bc2706a8",
+      "titulo": "Embassa’t 2027: Serko, The Tyets, Ginestà i Mar Pujol, primers confirmats",
+      "enlace": "https://www.isabadell.cat/cultura/musica/embassat/embassat-2027-serko-the-tyets-ginesta-i-mar-pujol-primers-confirmats-341643/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-26T11:10:03.000Z",
+      "detectado": "2026-11-26T11:41:02.711Z",
+      "sensible": false,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "3713dd063b0d7496",
+      "titulo": "Joan Mena, Front Ampli: “El 29-N ens hi juguem la vida de tots i totes”",
+      "enlace": "https://radiosabadell.fm/actualitat/politica/mena-front-ampli-29N-sabadell",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-26T10:43:40.000Z",
+      "detectado": "2026-11-26T11:41:02.711Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica",
+        "urbanismo"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "política local, obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "1a5312c96786c0ad",
+      "titulo": "Les llums nadalenques s’encendran el 28 de novembre a Terra Nostra i la campanya comercial s’iniciarà un dia abans",
+      "enlace": "https://www.montcada.cat/actualitat/noticies/les-llums-nadalenques-sencendran-el-28-de-novembre-a-terra-nostra-i-la-campanya-comercial-siniciara-un-dia-abans.html",
+      "fuente": "ayto-montcada",
+      "fuenteNombre": "Ajuntament de Montcada i Reixac",
+      "tipo": "oficial",
+      "resumen": "",
+      "municipio": "montcada",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-26T10:30:00.000Z",
+      "detectado": "2026-11-26T11:41:02.711Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "c153a0b2c83e6521",
       "titulo": "Més de 25 mil barberencs i barberenques estan cridades a votar a les Eleccions Generals 2026 del pròxim 29 de novembre",
       "enlace": "https://www.bdv.cat/noticies/mes-de-25-mil-barberencs-i-barberenques-estan-cridades-votar-les-eleccions-generals-2026",
@@ -261,6 +352,33 @@
       "motivos": [],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "1596dc48b856f5a0",
+      "titulo": "Cerdanyola donarà la benvinguda al Nadal amb l’encesa de llums aquest divendres",
+      "enlace": "http://www.cerdanyola.cat/actualitat/cerdanyola-donara-la-benvinguda-al-nadal-amb-lencesa-de-llums-aquest-divendres",
+      "fuente": "ayto-cerdanyola",
+      "fuenteNombre": "Ajuntament de Cerdanyola del Vallès",
+      "tipo": "oficial",
+      "resumen": "Cerdanyola donarà la benvinguda al Nadal amb l’encesa de llums aquest divendres Cerdanyola donarà el tret de sortida oficial a les festes de Nadal aquest divendres 27 de novembre, a partir de les 17:30 h, amb el tradicional acte d’encesa…",
+      "municipio": "cerdanyola",
+      "municipiosMencionados": [
+        "cerdanyola"
+      ],
+      "publicado": "2026-11-26T09:30:33.000Z",
+      "detectado": "2026-11-26T08:33:12.855Z",
+      "sensible": true,
+      "etiquetas": [
+        "movilidad",
+        "politica"
+      ],
+      "puntuacion": 5,
+      "motivos": [
+        "font oficial",
+        "mobilitat, política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
     },
     {
       "id": "b328bd1dafb8df89",
@@ -446,33 +564,6 @@
       "motivos": [],
       "duplicadaDe": null,
       "propuesta": false
-    },
-    {
-      "id": "1596dc48b856f5a0",
-      "titulo": "Cerdanyola donarà la benvinguda al Nadal amb l’encesa de llums aquest divendres",
-      "enlace": "http://www.cerdanyola.cat/actualitat/cerdanyola-donara-la-benvinguda-al-nadal-amb-lencesa-de-llums-aquest-divendres",
-      "fuente": "ayto-cerdanyola",
-      "fuenteNombre": "Ajuntament de Cerdanyola del Vallès",
-      "tipo": "oficial",
-      "resumen": "Cerdanyola donarà la benvinguda al Nadal amb l’encesa de llums aquest divendres Cerdanyola donarà el tret de sortida oficial a les festes de Nadal aquest divendres 27 de novembre, a partir de les 17:30 h, amb el tradicional acte d’encesa…",
-      "municipio": "cerdanyola",
-      "municipiosMencionados": [
-        "cerdanyola"
-      ],
-      "publicado": "2026-11-26T08:30:33.000Z",
-      "detectado": "2026-11-26T08:33:12.855Z",
-      "sensible": true,
-      "etiquetas": [
-        "movilidad",
-        "politica"
-      ],
-      "puntuacion": 5,
-      "motivos": [
-        "font oficial",
-        "mobilitat, política local"
-      ],
-      "duplicadaDe": null,
-      "propuesta": true
     },
     {
       "id": "62f936740b2497ab",
@@ -728,7 +819,28 @@
       ],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "2930e367ce7a0c38",
+      "titulo": "Seleccionades les postals guanyadores del concurs Ja �s Nadal a Badia, d'un total de 605 participants",
+      "enlace": "http://www.badiadelvalles.cat/document.php?id=12341",
+      "fuente": "ayto-badia",
+      "fuenteNombre": "Ajuntament de Badia del Vallès",
+      "tipo": "oficial",
+      "resumen": "",
+      "municipio": "badia",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-25T23:00:00.000Z",
+      "detectado": "2026-11-26T11:41:02.711Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
     }
   ],
-  "actualizado": "2026-11-26T10:42:49.256Z"
+  "actualizado": "2026-11-26T11:41:21.020Z"
 }

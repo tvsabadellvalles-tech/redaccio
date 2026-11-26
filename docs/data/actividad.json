@@ -1,62 +1,6 @@
 {
   "eventos": [
     {
-      "id": "c46307e2eafd842b",
-      "t": "2026-11-23T13:59:34.967Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El PSC crida a les dones a votar: \"Sabadellenques, defenseu els vostres drets!\"» (Diari de Sabadell).",
-      "itemId": "f10a894590b3f380"
-    },
-    {
-      "id": "93d48fda5cd90f20",
-      "t": "2026-11-23T13:59:34.968Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Sant Quirze donarà la benvinguda al Nadal divendres 27 amb l'encesa de l'arbre» (Ajuntament de Sant Quirze del Vallès).",
-      "itemId": "bc7ae3b464819019"
-    },
-    {
-      "id": "05327a367bc7e8f3",
-      "t": "2026-11-23T13:59:34.969Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Hora del conte: Una de pastorets!» (Ajuntament de Barberà del Vallès).",
-      "itemId": "7049262cce2663a4"
-    },
-    {
-      "id": "56e1c6e56e54a1db",
-      "t": "2026-11-23T13:59:34.970Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La segona ronda de Copa, a la Nova Creu Alta: Sabadell-Sporting» (Ràdio Sabadell).",
-      "itemId": "0baddfa6e60066e4"
-    },
-    {
-      "id": "615d3dff56c4b717",
-      "t": "2026-11-23T13:59:34.971Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El Natació Sabadell s'imposa al Sant Just i regna en solitari la Primera Nacional» (Ràdio Sabadell).",
-      "itemId": "e920dd9bed4e968d"
-    },
-    {
-      "id": "8f516d2db3b346f8",
-      "t": "2026-11-23T13:59:34.972Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Esports.",
-      "itemId": "e920dd9bed4e968d"
-    },
-    {
-      "id": "036c7032d383f496",
-      "t": "2026-11-23T13:59:34.973Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Correus ofereix el servei Bústia Ecommerce» (L'Actual - Castellar del Vallès).",
-      "itemId": "c2e148d8889b9400"
-    },
-    {
-      "id": "88448878a1f8f78f",
-      "t": "2026-11-23T13:59:34.974Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Aranda (PSC): “Catalunya ha de ser decisiva el 29-N”» (iSabadell).",
-      "itemId": "8a1b87e6686b028a"
-    },
-    {
       "id": "ea57aa3787b3e67e",
       "t": "2026-11-23T13:59:34.975Z",
       "agente": "etiquetador",
@@ -2799,7 +2743,63 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Educació, Cultura i festes.",
       "itemId": "c153a0b2c83e6521"
+    },
+    {
+      "id": "e1c1147181b69857",
+      "t": "2026-11-26T11:41:02.711Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Seleccionades les postals guanyadores del concurs Ja �s Nadal a Badia, d'un total de 605 participants» (Ajuntament de Badia del Vallès).",
+      "itemId": "2930e367ce7a0c38"
+    },
+    {
+      "id": "aea35d10e166ff62",
+      "t": "2026-11-26T11:41:02.712Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Les llums nadalenques s’encendran el 28 de novembre a Terra Nostra i la campanya comercial s’iniciarà un dia abans» (Ajuntament de Montcada i Reixac).",
+      "itemId": "1a5312c96786c0ad"
+    },
+    {
+      "id": "25d53fac2f3a41ed",
+      "t": "2026-11-26T11:41:02.713Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Joan Mena, Front Ampli: “El 29-N ens hi juguem la vida de tots i totes”» (Ràdio Sabadell).",
+      "itemId": "3713dd063b0d7496"
+    },
+    {
+      "id": "e9192b84a9055bad",
+      "t": "2026-11-26T11:41:02.714Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local, Obres i urbanisme.",
+      "itemId": "3713dd063b0d7496"
+    },
+    {
+      "id": "8ab4f9e104ec971b",
+      "t": "2026-11-26T11:41:02.715Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): política local, obres i urbanisme.",
+      "itemId": "3713dd063b0d7496"
+    },
+    {
+      "id": "6962862d6191b1ae",
+      "t": "2026-11-26T11:41:02.716Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Embassa’t 2027: Serko, The Tyets, Ginestà i Mar Pujol, primers confirmats» (iSabadell).",
+      "itemId": "f609e325bc2706a8"
+    },
+    {
+      "id": "9714d47b5bd0793a",
+      "t": "2026-11-26T11:41:02.717Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "f609e325bc2706a8"
+    },
+    {
+      "id": "825ab2bb44955dcc",
+      "t": "2026-11-26T11:41:02.718Z",
+      "agente": "rastreador",
+      "texto": "He recollit «On podré veure el Llaminer i els personatges de Nadal? Horaris, llocs i novetats dels espectacles a Sabadell» (Diari de Sabadell).",
+      "itemId": "83b32afa413df62c"
     }
   ],
-  "actualizado": "2026-11-26T10:42:49.259Z"
+  "actualizado": "2026-11-26T11:41:21.023Z"
 }
