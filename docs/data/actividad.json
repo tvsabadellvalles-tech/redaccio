@@ -1,97 +1,6 @@
 {
   "eventos": [
     {
-      "id": "dac40ba32ee3bbb7",
-      "t": "2026-11-23T16:08:29.659Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Trasllat temporal a unes noves aules per l'aparició de fongs i humitats a l'escola» (Diari de Sabadell).",
-      "itemId": "74d59582a4809d97"
-    },
-    {
-      "id": "3b77dcad1699a712",
-      "t": "2026-11-23T16:08:29.660Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Emergències, Educació.",
-      "itemId": "74d59582a4809d97"
-    },
-    {
-      "id": "f09237137ee33908",
-      "t": "2026-11-23T16:08:29.661Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): emergències, educació.",
-      "itemId": "74d59582a4809d97"
-    },
-    {
-      "id": "366d48d0b28032a0",
-      "t": "2026-11-23T16:08:29.662Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Un empat agredolç per recuperar sensacions: \"En els moments d'adversitat és quan apareix la convicció\"» (Diari de Sabadell).",
-      "itemId": "14cf54d4a1ecb6cc"
-    },
-    {
-      "id": "ad4f10239a427c41",
-      "t": "2026-11-23T17:11:46.867Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Aprovada per unanimitat la subvenció per finançar les obres a la Nova Creu Alta» (Ràdio Sabadell).",
-      "itemId": "315819c467e838ca"
-    },
-    {
-      "id": "5bbfc5e8b413a879",
-      "t": "2026-11-23T17:11:46.868Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local, Obres i urbanisme, Esports.",
-      "itemId": "315819c467e838ca"
-    },
-    {
-      "id": "903f79d79cab8dfe",
-      "t": "2026-11-23T17:11:46.869Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): política local, obres i urbanisme.",
-      "itemId": "315819c467e838ca"
-    },
-    {
-      "id": "ccee930369bb5243",
-      "t": "2026-11-23T17:11:46.870Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Sabadell celebra la Setmana de l'Emprenedoria» (Ràdio Sabadell).",
-      "itemId": "fd8ce0a4831d6318"
-    },
-    {
-      "id": "6dc9de4d1b9f0510",
-      "t": "2026-11-23T17:11:46.871Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local, Economia i ocupació.",
-      "itemId": "fd8ce0a4831d6318"
-    },
-    {
-      "id": "bef2f512e9370d95",
-      "t": "2026-11-23T17:11:46.872Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): política local, economia i ocupació.",
-      "itemId": "fd8ce0a4831d6318"
-    },
-    {
-      "id": "9f19b5d820c3d398",
-      "t": "2026-11-23T17:11:46.873Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Una professora de ball, jutjada per una presumpta agressió sexual a una menor a Sabadell» (Diari de Sabadell).",
-      "itemId": "0891e19c391a46ec"
-    },
-    {
-      "id": "12a6ce7a4193e056",
-      "t": "2026-11-23T17:11:46.874Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Successos.",
-      "itemId": "0891e19c391a46ec"
-    },
-    {
-      "id": "9b4a960f3137dcc0",
-      "t": "2026-11-23T17:11:46.875Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "0891e19c391a46ec"
-    },
-    {
       "id": "60db0ec5aa21de04",
       "t": "2026-11-23T18:12:16.594Z",
       "agente": "rastreador",
@@ -2799,7 +2708,98 @@
       "agente": "mesa",
       "texto": "Proposo incloure-ho a l'escaleta (4 punts): font oficial · mobilitat, salut.",
       "itemId": "a47b244db3cc910e"
+    },
+    {
+      "id": "204a774449ef35f3",
+      "t": "2026-11-26T14:03:48.158Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La plaça Francesc Macià renovarà i ampliarà el seu arbrat amb 38 nous exemplars i criteris de seguretat ciutadana» (Ajuntament de Montcada i Reixac).",
+      "itemId": "3afc5a174fa50dac"
+    },
+    {
+      "id": "8624bac939dac8f1",
+      "t": "2026-11-26T14:03:48.159Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Obres i urbanisme.",
+      "itemId": "3afc5a174fa50dac"
+    },
+    {
+      "id": "8c93a22c25efa32e",
+      "t": "2026-11-26T14:03:48.160Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La demanda per examinar-se del C2 de català es multiplica per vuit en sis anys» (Ràdio Sabadell).",
+      "itemId": "73312014d8e4ea6c"
+    },
+    {
+      "id": "1386853a9fe551f4",
+      "t": "2026-11-26T14:03:48.161Z",
+      "agente": "deduplicador",
+      "texto": "Descartada perquè és duplicada: coincideix amb «La demanda per examinar-se del C2 de català es multiplica per vuit en sis anys» (Ràdio Sabadell).",
+      "itemId": "73312014d8e4ea6c"
+    },
+    {
+      "id": "c2199ff9405156cc",
+      "t": "2026-11-26T14:03:48.162Z",
+      "agente": "rastreador",
+      "texto": "He recollit «A presó per delictes de terrorisme gihadista un veí de Montcada i Reixac» (Diari de Sabadell).",
+      "itemId": "80a34741417c32f8"
+    },
+    {
+      "id": "8ef8012e58bdd8a9",
+      "t": "2026-11-26T14:03:48.163Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L'escola Ginesta celebra el seu 60 aniversari» (Ajuntament de Montcada i Reixac).",
+      "itemId": "e290926862dfb131"
+    },
+    {
+      "id": "ec5017ef29ed80e4",
+      "t": "2026-11-26T14:03:48.164Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Educació.",
+      "itemId": "e290926862dfb131"
+    },
+    {
+      "id": "40ee712b172f9223",
+      "t": "2026-11-26T14:03:48.165Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Leganés-Sabadell: fer un pas endavant fora de casa» (Ràdio Sabadell).",
+      "itemId": "86c5538bd84ce05b"
+    },
+    {
+      "id": "9469783f84bcdb3c",
+      "t": "2026-11-26T14:03:48.166Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "86c5538bd84ce05b"
+    },
+    {
+      "id": "7747a6ddcd9aca2b",
+      "t": "2026-11-26T14:03:48.167Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Es multiplica per vuit la demanda per examinar-se del C2 a Sabadell» (Ràdio Sabadell).",
+      "itemId": "20d71b90a20668c0"
+    },
+    {
+      "id": "a40b91453a6ae8ba",
+      "t": "2026-11-26T14:03:48.168Z",
+      "agente": "rastreador",
+      "texto": "He recollit «\"És un deure com a societat\": les experiències dels sabadellencs amb el vot per correu» (Diari de Sabadell).",
+      "itemId": "7d3205178b0e4534"
+    },
+    {
+      "id": "82891d3811ab2536",
+      "t": "2026-11-26T14:03:48.169Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Millorar l'efectivitat, el repte del Sabadell a Butarque» (Ràdio Sabadell).",
+      "itemId": "bd5c3e66abcaafbb"
+    },
+    {
+      "id": "c64a612fc2eb4cdf",
+      "t": "2026-11-26T14:03:48.170Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Nova jornada de vaga dels docents» (L'Actual - Castellar del Vallès).",
+      "itemId": "f3fa5247100ef5ca"
     }
   ],
-  "actualizado": "2026-11-26T12:48:26.043Z"
+  "actualizado": "2026-11-26T14:04:01.059Z"
 }

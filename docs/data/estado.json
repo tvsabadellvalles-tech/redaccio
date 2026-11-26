@@ -10,7 +10,7 @@
     },
     "diari-sabadell": {
       "ok": true,
-      "items": 7
+      "items": 9
     },
     "diari-terrassa": {
       "ok": true,
@@ -22,7 +22,7 @@
     },
     "ayto-castellar": {
       "ok": true,
-      "items": 1
+      "items": 2
     },
     "ayto-sentmenat": {
       "ok": true,
@@ -50,7 +50,7 @@
     },
     "ayto-montcada": {
       "ok": true,
-      "items": 3
+      "items": 5
     },
     "avisos-montcada": {
       "ok": true,
@@ -81,6 +81,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-26T12:48:09.650Z",
-  "actualizado": "2026-11-26T12:48:26.040Z"
+  "consultat": "2026-11-26T14:03:48.158Z",
+  "actualizado": "2026-11-26T14:04:01.057Z"
 }

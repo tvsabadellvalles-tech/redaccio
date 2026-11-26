@@ -104,6 +104,134 @@
   },
   "items": [
     {
+      "id": "f3fa5247100ef5ca",
+      "titulo": "Nova jornada de vaga dels docents",
+      "enlace": "https://www.lactual.cat/actualitat/nova-jornada-vaga-docents_55451_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-26T13:53:26.000Z",
+      "detectado": "2026-11-26T14:03:48.158Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "bd5c3e66abcaafbb",
+      "titulo": "Millorar l'efectivitat, el repte del Sabadell a Butarque",
+      "enlace": "https://radiosabadell.fm/podcast/hotel-suis-261126-FerranCosta-Leganes",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-26T13:21:32.000Z",
+      "detectado": "2026-11-26T14:03:48.158Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "7d3205178b0e4534",
+      "titulo": "\"És un deure com a societat\": les experiències dels sabadellencs amb el vot per correu",
+      "enlace": "https://www.diaridesabadell.com/sabadell/deure-dret-eleccions-29-novembre-vot-per-correu-sabadellencs.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-26T13:02:31.000Z",
+      "detectado": "2026-11-26T14:03:48.158Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "20d71b90a20668c0",
+      "titulo": "Es multiplica per vuit la demanda per examinar-se del C2 a Sabadell",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-migdia-261126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-26T12:55:44.000Z",
+      "detectado": "2026-11-26T14:03:48.158Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "86c5538bd84ce05b",
+      "titulo": "Leganés-Sabadell: fer un pas endavant fora de casa",
+      "enlace": "https://radiosabadell.fm/esports/ce-sabadell/previa-leganes-sabadell-jornada-16-hypermotion",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell",
+        "sant-cugat"
+      ],
+      "publicado": "2026-11-26T12:46:02.000Z",
+      "detectado": "2026-11-26T14:03:48.158Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "e290926862dfb131",
+      "titulo": "L'escola Ginesta celebra el seu 60 aniversari",
+      "enlace": "https://www.montcada.cat/actualitat/noticies/lescola-ginesta-celebra-el-seu-60-aniversari.html",
+      "fuente": "ayto-montcada",
+      "fuenteNombre": "Ajuntament de Montcada i Reixac",
+      "tipo": "oficial",
+      "resumen": "",
+      "municipio": "montcada",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-26T12:45:00.000Z",
+      "detectado": "2026-11-26T14:03:48.158Z",
+      "sensible": false,
+      "etiquetas": [
+        "educacion"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "font oficial",
+        "educació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "a47b244db3cc910e",
       "titulo": "Barberà vol construir una ciutat més saludable i demana l'opinió de la ciutadania",
       "enlace": "https://www.bdv.cat/noticies/barbera-vol-construir-una-ciutat-mes-saludable-i-demana-lopinio-de-la-ciutadania",
@@ -131,6 +259,27 @@
       "propuesta": true
     },
     {
+      "id": "80a34741417c32f8",
+      "titulo": "A presó per delictes de terrorisme gihadista un veí de Montcada i Reixac",
+      "enlace": "https://www.diaridesabadell.com/valles/montcada/terrorisme-gihadista-detingut-montcada-sitges.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "montcada"
+      ],
+      "publicado": "2026-11-26T12:39:45.000Z",
+      "detectado": "2026-11-26T14:03:48.158Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "0a6127629aa046e5",
       "titulo": "La demanda per examinar-se del C2 de català es multiplica per vuit en sis anys",
       "enlace": "https://radiosabadell.fm/actualitat/educacio/la-demanda-examinar-se-del-c2-de-catala-es-multiplica-vuit-en-sis-anys",
@@ -156,6 +305,33 @@
       ],
       "duplicadaDe": null,
       "propuesta": true
+    },
+    {
+      "id": "73312014d8e4ea6c",
+      "titulo": "La demanda per examinar-se del C2 de català es multiplica per vuit en sis anys",
+      "enlace": "https://radiosabadell.fm/actualitat/educacio/creix-demanda-c2-catala-261126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-26T12:37:36.000Z",
+      "detectado": "2026-11-26T14:03:48.158Z",
+      "sensible": true,
+      "etiquetas": [
+        "sucesos",
+        "salud",
+        "educacion"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "successos, salut, educació"
+      ],
+      "duplicadaDe": "0a6127629aa046e5",
+      "propuesta": false
     },
     {
       "id": "9f082f368084f42b",
@@ -1019,7 +1195,31 @@
       ],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "3afc5a174fa50dac",
+      "titulo": "La plaça Francesc Macià renovarà i ampliarà el seu arbrat amb 38 nous exemplars i criteris de seguretat ciutadana",
+      "enlace": "https://www.montcada.cat/actualitat/noticies/la-placa-francesc-macia-renovara-i-ampliara-el-seu-arbrat-amb-38-nous-exemplars-i-criteris-de-seguretat-ciutadana.html",
+      "fuente": "ayto-montcada",
+      "fuenteNombre": "Ajuntament de Montcada i Reixac",
+      "tipo": "oficial",
+      "resumen": "Les obres de millora inclouran la plantació de 38 arbres nous, fet que incrementarà el patrimoni verd de la plaça amb un balanç final positiu Els serveis tècnics retiren 23 exemplars —10 dels quals per risc de fractura i caiguda de…",
+      "municipio": "montcada",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-25T23:00:00.000Z",
+      "detectado": "2026-11-26T14:03:48.158Z",
+      "sensible": false,
+      "etiquetas": [
+        "urbanismo"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "font oficial",
+        "obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
     }
   ],
-  "actualizado": "2026-11-26T12:48:26.039Z"
+  "actualizado": "2026-11-26T14:04:01.055Z"
 }
