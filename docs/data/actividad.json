@@ -1,34 +1,6 @@
 {
   "eventos": [
     {
-      "id": "6c2b718c6edd804a",
-      "t": "2026-11-23T20:17:05.170Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): política local, obres i urbanisme.",
-      "itemId": "5ea8efd05d81d438"
-    },
-    {
-      "id": "aee2a6778b9bb9ba",
-      "t": "2026-11-23T22:07:02.884Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El ple, en contra de convertir l'aparcament de Pi i Maragall en un poliesportiu» (Ràdio Sabadell).",
-      "itemId": "5508cce28741812c"
-    },
-    {
-      "id": "27ab718d7a7e0b24",
-      "t": "2026-11-23T22:07:02.885Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local, Esports.",
-      "itemId": "5508cce28741812c"
-    },
-    {
-      "id": "bdeeddf30943634a",
-      "t": "2026-11-23T22:07:02.886Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Els contractes del bloc de Gràcia, prop de renovar-se» (Diari de Sabadell).",
-      "itemId": "c258f73951e58ed2"
-    },
-    {
       "id": "7d67808d2ee82107",
       "t": "2026-11-23T22:07:02.887Z",
       "agente": "etiquetador",
@@ -2799,7 +2771,35 @@
       "agente": "rastreador",
       "texto": "He recollit «Front Ampli reclama l’estació de Can Llong de Sabadell: “És una prioritat”» (Diari de Sabadell).",
       "itemId": "364eb129a1b56883"
+    },
+    {
+      "id": "49c6090defe7f7e0",
+      "t": "2026-11-26T18:12:41.840Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Garantir l’electricitat amb hidrogen, una idea de premi» (iSabadell).",
+      "itemId": "88816a54bf64e380"
+    },
+    {
+      "id": "6be682b1292bcb40",
+      "t": "2026-11-26T18:12:41.841Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Economia i ocupació.",
+      "itemId": "88816a54bf64e380"
+    },
+    {
+      "id": "0951a672ef528827",
+      "t": "2026-11-26T18:12:41.842Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El Front Ampli proposa més inversions a la xarxa de Rodalies» (iSabadell).",
+      "itemId": "c3c9ba7fb474a8ba"
+    },
+    {
+      "id": "6c98195b150cc735",
+      "t": "2026-11-26T18:12:41.843Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat.",
+      "itemId": "c3c9ba7fb474a8ba"
     }
   ],
-  "actualizado": "2026-11-26T17:21:45.849Z"
+  "actualizado": "2026-11-26T18:12:59.566Z"
 }

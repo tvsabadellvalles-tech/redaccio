@@ -104,6 +104,29 @@
   },
   "items": [
     {
+      "id": "c3c9ba7fb474a8ba",
+      "titulo": "El Front Ampli proposa més inversions a la xarxa de Rodalies",
+      "enlace": "https://www.isabadell.cat/politica/eleccions-generals-2026/el-front-ampli-proposa-mes-inversions-a-la-xarxa-de-rodalies-341681/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-26T18:04:14.000Z",
+      "detectado": "2026-11-26T18:12:41.840Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "mobilitat"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "364eb129a1b56883",
       "titulo": "Front Ampli reclama l’estació de Can Llong de Sabadell: “És una prioritat”",
       "enlace": "https://www.diaridesabadell.com/sabadell/front-ampli-estacio-can-llong-sabadell.html",
@@ -328,6 +351,31 @@
       "etiquetas": [],
       "puntuacion": 0,
       "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "88816a54bf64e380",
+      "titulo": "Garantir l’electricitat amb hidrogen, una idea de premi",
+      "enlace": "https://www.isabadell.cat/sabadell/economia/garantir-lelectricitat-amb-hidrogen-una-idea-de-premi-341677/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-26T14:00:00.000Z",
+      "detectado": "2026-11-26T18:12:41.840Z",
+      "sensible": false,
+      "etiquetas": [
+        "economia"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "economia i ocupació"
+      ],
       "duplicadaDe": null,
       "propuesta": false
     },
@@ -1500,5 +1548,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-26T17:21:45.845Z"
+  "actualizado": "2026-11-26T18:12:59.563Z"
 }
