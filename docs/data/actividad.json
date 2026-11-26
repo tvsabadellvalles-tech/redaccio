@@ -1,139 +1,6 @@
 {
   "eventos": [
     {
-      "id": "51f07da2bd47824a",
-      "t": "2026-11-23T12:35:12.193Z",
-      "agente": "rastreador",
-      "texto": "He recollit «L'Astralpool CN Sabadell masculí guanya el CN Barcelona i assegura virtualment la segona posició» (Diari de Sabadell).",
-      "itemId": "77198fdda902ccd5"
-    },
-    {
-      "id": "b3036bd48b8aa1ee",
-      "t": "2026-11-23T12:35:12.194Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Un grup de veïns de Bellaterra reclamen a la Generalitat que escolti la seva voluntat d'annexionar-se a Sant Cugat» (Diari de Sabadell).",
-      "itemId": "f83e76913c16140d"
-    },
-    {
-      "id": "33f7e66300f42721",
-      "t": "2026-11-23T12:35:12.195Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Un incendi afecta almenys dues naus d'un polígon industrial de Valldoreix» (Diari de Sabadell).",
-      "itemId": "0a45a30f619fea1f"
-    },
-    {
-      "id": "997b9a4b03dba83f",
-      "t": "2026-11-23T12:35:12.196Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Emergències, Economia i ocupació.",
-      "itemId": "0a45a30f619fea1f"
-    },
-    {
-      "id": "94fedbe88149d7ba",
-      "t": "2026-11-23T12:35:12.197Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): emergències, economia i ocupació.",
-      "itemId": "0a45a30f619fea1f"
-    },
-    {
-      "id": "e24606b3cba3ac13",
-      "t": "2026-11-23T12:35:12.198Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El Far del Benestar: Una llum per Nadal» (Ajuntament de Barberà del Vallès).",
-      "itemId": "e741b3cc4b34ff50"
-    },
-    {
-      "id": "9a6d4fdb93adeb74",
-      "t": "2026-11-23T12:35:12.199Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "e741b3cc4b34ff50"
-    },
-    {
-      "id": "0f5659572c53c667",
-      "t": "2026-11-23T12:35:12.200Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Activitats infantils, xocolatada i botiga solidària de La Marató» (Ajuntament de Barberà del Vallès).",
-      "itemId": "e1cb9622f1a883da"
-    },
-    {
-      "id": "76025b7cc9a88ba3",
-      "t": "2026-11-23T12:35:12.201Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Sabadell-Sporting: la segona ronda de la Copa del Rei, a casa!» (Ràdio Sabadell).",
-      "itemId": "960f47bef0c7e075"
-    },
-    {
-      "id": "97cd32e67b897bb9",
-      "t": "2026-11-23T12:35:12.202Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Esports.",
-      "itemId": "960f47bef0c7e075"
-    },
-    {
-      "id": "b3804c3cc9597568",
-      "t": "2026-11-23T12:35:12.203Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Concert de Nadal de l'Escola Municipal de Música» (Ajuntament de Barberà del Vallès).",
-      "itemId": "cc56d817c5e59536"
-    },
-    {
-      "id": "989491cf825d73dc",
-      "t": "2026-11-23T12:35:12.204Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Educació, Cultura i festes.",
-      "itemId": "cc56d817c5e59536"
-    },
-    {
-      "id": "1923b3cfa6faf302",
-      "t": "2026-11-23T12:35:12.205Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El CE Sabadell ja coneix el seu segon rival a la Copa del Rei» (Diari de Sabadell).",
-      "itemId": "3787f387608dc2f3"
-    },
-    {
-      "id": "ed3c4a16c04c8712",
-      "t": "2026-11-23T12:35:12.206Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Trenet de Nadal» (Ajuntament de Barberà del Vallès).",
-      "itemId": "162764035f54d8bd"
-    },
-    {
-      "id": "2a9549588306649d",
-      "t": "2026-11-23T12:35:12.207Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El mercat solidari de joguines de Sant Quirze recapta prop de 1.600 euros» (Ajuntament de Sant Quirze del Vallès).",
-      "itemId": "836cabc70940117e"
-    },
-    {
-      "id": "559964c5b9d4adbd",
-      "t": "2026-11-23T12:35:12.208Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El Real Sporting de Gijón, proper rival del CE Sabadell a la Copa» (iSabadell).",
-      "itemId": "e6971aa24219a913"
-    },
-    {
-      "id": "44fdf13eb46ab9fc",
-      "t": "2026-11-23T13:59:34.964Z",
-      "agente": "rastreador",
-      "texto": "He recollit «L'avinguda Tres està tallada al trànsit per obres d'asfaltat» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "6c2b71f5849c1846"
-    },
-    {
-      "id": "bb70c9791f8eda49",
-      "t": "2026-11-23T13:59:34.965Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat, Obres i urbanisme.",
-      "itemId": "6c2b71f5849c1846"
-    },
-    {
-      "id": "3c6dbe8cbeaafde6",
-      "t": "2026-11-23T13:59:34.966Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): font oficial · mobilitat, obres i urbanisme.",
-      "itemId": "6c2b71f5849c1846"
-    },
-    {
       "id": "c46307e2eafd842b",
       "t": "2026-11-23T13:59:34.967Z",
       "agente": "rastreador",
@@ -2799,7 +2666,140 @@
       "agente": "rastreador",
       "texto": "He recollit «La tertúlia: les vagues de mestres, l'increment de la demanda del C2 i el 25-N» (Ràdio Sabadell).",
       "itemId": "37d28a0f917bf85c"
+    },
+    {
+      "id": "671f5d3788f5c4d4",
+      "t": "2026-11-26T10:42:30.713Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Commemoració del 25N a Montcada i Reixac» (Ajuntament de Montcada i Reixac).",
+      "itemId": "56fd57165cb546ea"
+    },
+    {
+      "id": "3c188053b7ba87a4",
+      "t": "2026-11-26T10:42:30.714Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Marta Antonell, infermera: \"No hi ha un consum saludable d'alcohol\"» (Ràdio Sabadell).",
+      "itemId": "33c5e5207d361fdf"
+    },
+    {
+      "id": "29b95a4f68374e48",
+      "t": "2026-11-26T10:42:30.715Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut.",
+      "itemId": "33c5e5207d361fdf"
+    },
+    {
+      "id": "9c152934d84ec338",
+      "t": "2026-11-26T10:42:30.716Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Preocupació a l'escola Samuntada per les avaries recurrents a la caldera: \"Arriba el fred i el problema es repeteix cada any\"» (Diari de Sabadell).",
+      "itemId": "b328bd1dafb8df89"
+    },
+    {
+      "id": "14fc66cd532466db",
+      "t": "2026-11-26T10:42:30.717Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Educació.",
+      "itemId": "b328bd1dafb8df89"
+    },
+    {
+      "id": "06e2275648744cd6",
+      "t": "2026-11-26T10:42:30.718Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El Llaminer estrena un nou conte amb dues sessions de presentació a la Llar del Llibre» (Ràdio Sabadell).",
+      "itemId": "b97e2336a1f5a488"
+    },
+    {
+      "id": "00686f9d6ec41060",
+      "t": "2026-11-26T10:42:30.719Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "b97e2336a1f5a488"
+    },
+    {
+      "id": "fc0888cd2ba52a20",
+      "t": "2026-11-26T10:42:30.720Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "b97e2336a1f5a488"
+    },
+    {
+      "id": "67405769ec262f9c",
+      "t": "2026-11-26T10:42:30.721Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Com reduir els residus?» (Ràdio Sabadell).",
+      "itemId": "b680dbcf7af7a708"
+    },
+    {
+      "id": "402455dd23dac3e9",
+      "t": "2026-11-26T10:42:30.722Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Medi ambient.",
+      "itemId": "b680dbcf7af7a708"
+    },
+    {
+      "id": "38c37a04aeb00b8b",
+      "t": "2026-11-26T10:42:30.723Z",
+      "agente": "rastreador",
+      "texto": "He recollit «3 de desembre: Taula rodona 'L'edatisme en clau de gènere'» (Ajuntament de Barberà del Vallès).",
+      "itemId": "5aae20a2e3b1751a"
+    },
+    {
+      "id": "c0b2a39c865e57a4",
+      "t": "2026-11-26T10:42:30.724Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "5aae20a2e3b1751a"
+    },
+    {
+      "id": "0b47ffc59e75b8b3",
+      "t": "2026-11-26T10:42:30.725Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Noranta espelmes en record de cadascuna de les dones assassinades per violències masclistes» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "1d60980cd544686c"
+    },
+    {
+      "id": "6713b951ac916ef0",
+      "t": "2026-11-26T10:42:30.726Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "1d60980cd544686c"
+    },
+    {
+      "id": "5ea085eeab18f438",
+      "t": "2026-11-26T10:42:30.727Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Eleccions generals 29-N: Joan Mena, número 6 de Comuns-Front ampli» (Ràdio Sabadell).",
+      "itemId": "697099ac3b7a0e20"
+    },
+    {
+      "id": "77bb41630a4bdd3f",
+      "t": "2026-11-26T10:42:30.728Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El Consell d’Adolescents de Sant Quirze inicia el curs 2026-2027» (Ajuntament de Sant Quirze del Vallès).",
+      "itemId": "64b57af7106133ef"
+    },
+    {
+      "id": "59f6d4363eeaddef",
+      "t": "2026-11-26T10:42:30.729Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "64b57af7106133ef"
+    },
+    {
+      "id": "08f8c7fd3834654c",
+      "t": "2026-11-26T10:42:30.730Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Més de 25 mil barberencs i barberenques estan cridades a votar a les Eleccions Generals 2026 del pròxim 29 de novembre» (Ajuntament de Barberà del Vallès).",
+      "itemId": "c153a0b2c83e6521"
+    },
+    {
+      "id": "cec3ad21dbe9038e",
+      "t": "2026-11-26T10:42:30.731Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Educació, Cultura i festes.",
+      "itemId": "c153a0b2c83e6521"
     }
   ],
-  "actualizado": "2026-11-26T09:45:06.660Z"
+  "actualizado": "2026-11-26T10:42:49.259Z"
 }

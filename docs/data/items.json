@@ -104,6 +104,188 @@
   },
   "items": [
     {
+      "id": "c153a0b2c83e6521",
+      "titulo": "Més de 25 mil barberencs i barberenques estan cridades a votar a les Eleccions Generals 2026 del pròxim 29 de novembre",
+      "enlace": "https://www.bdv.cat/noticies/mes-de-25-mil-barberencs-i-barberenques-estan-cridades-votar-les-eleccions-generals-2026",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "Barberà del Vallès comptarà amb 11 col·legis electorals. Un total de 25.570 barberencs i barberenques estan cridades a les urnes el pròxim diumenge, 29 de novembre, per tal de participar a les Eleccions Generals 2026. En aquesta…",
+      "municipio": "barbera",
+      "municipiosMencionados": [
+        "barbera"
+      ],
+      "publicado": "2026-11-26T10:21:00.000Z",
+      "detectado": "2026-11-26T10:42:30.713Z",
+      "sensible": false,
+      "etiquetas": [
+        "educacion",
+        "cultura"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "font oficial",
+        "educació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "64b57af7106133ef",
+      "titulo": "El Consell d’Adolescents de Sant Quirze inicia el curs 2026-2027",
+      "enlace": "https://www.santquirzevalles.cat/actualitat/noticies/el-consell-d2019adolescents-de-sant-quirze-inicia-el-curs-2026-2027",
+      "fuente": "ayto-sant-quirze",
+      "fuenteNombre": "Ajuntament de Sant Quirze del Vallès",
+      "tipo": "oficial",
+      "resumen": "Els representants d’aquest òrgan de participació van constituir-se ahir i van acordar-ne el funcionament",
+      "municipio": "sant-quirze",
+      "municipiosMencionados": [
+        "sant-quirze"
+      ],
+      "publicado": "2026-11-26T10:17:24.000Z",
+      "detectado": "2026-11-26T10:42:30.713Z",
+      "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "697099ac3b7a0e20",
+      "titulo": "Eleccions generals 29-N: Joan Mena, número 6 de Comuns-Front ampli",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-mati-mena-29N-Front-Ampli",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-26T10:15:43.000Z",
+      "detectado": "2026-11-26T10:42:30.713Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "1d60980cd544686c",
+      "titulo": "Noranta espelmes en record de cadascuna de les dones assassinades per violències masclistes",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/noranta-espelmes-en-record-de-cadascuna-de-les-dones-assassinades-per-violencies-masclistes.html",
+      "fuente": "ayto-santa-perpetua",
+      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
+      "tipo": "oficial",
+      "resumen": "Gairebé un centenar de persones va participar ahir a la marxa silenciosa que va recordar a les 90 dones assassinades aquest any, víctimes de la violència masclista.",
+      "municipio": "santa-perpetua",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-26T10:00:00.000Z",
+      "detectado": "2026-11-26T10:42:30.713Z",
+      "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "5aae20a2e3b1751a",
+      "titulo": "3 de desembre: Taula rodona 'L'edatisme en clau de gènere'",
+      "enlace": "https://www.bdv.cat/noticies/3-de-desembre-taula-rodona-ledatisme-en-clau-de-genere",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "Les pluges torrencials del passat mes d'octubre van fer ajornar la taula rodona 'L'edatisme en clau de gènere', que s'emmarcava en la celebració de la Setmana Gran. Ara, aquesta activitat es recupera i es durà a terme el pròxim dijous 3…",
+      "municipio": "barbera",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-26T09:57:00.000Z",
+      "detectado": "2026-11-26T10:42:30.713Z",
+      "sensible": false,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "b680dbcf7af7a708",
+      "titulo": "Com reduir els residus?",
+      "enlace": "https://radiosabadell.fm/podcast/fils-ciutat-fils-ciutat-cada-residu-compta-261126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-26T09:52:56.000Z",
+      "detectado": "2026-11-26T10:42:30.713Z",
+      "sensible": false,
+      "etiquetas": [
+        "medioambiente"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "medi ambient"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "b97e2336a1f5a488",
+      "titulo": "El Llaminer estrena un nou conte amb dues sessions de presentació a la Llar del Llibre",
+      "enlace": "https://radiosabadell.fm/actualitat/cultura/llaminer-estrena-conte-presentacio-llar-llibre-sabadell",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-26T09:46:22.000Z",
+      "detectado": "2026-11-26T10:42:30.713Z",
+      "sensible": true,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "b328bd1dafb8df89",
+      "titulo": "Preocupació a l'escola Samuntada per les avaries recurrents a la caldera: \"Arriba el fred i el problema es repeteix cada any\"",
+      "enlace": "https://www.diaridesabadell.com/sabadell/preocupacio-avaries-recurrents-caldera-escola-samuntada-arriba-fred-passa-cada-any.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-26T09:17:50.000Z",
+      "detectado": "2026-11-26T10:42:30.713Z",
+      "sensible": false,
+      "etiquetas": [
+        "educacion"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "educació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "37d28a0f917bf85c",
       "titulo": "La tertúlia: les vagues de mestres, l'increment de la demanda del C2 i el 25-N",
       "enlace": "https://radiosabadell.fm/podcast/noticies-mati-tertulia-261126",
@@ -119,6 +301,29 @@
       "etiquetas": [],
       "puntuacion": 0,
       "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "33c5e5207d361fdf",
+      "titulo": "Marta Antonell, infermera: \"No hi ha un consum saludable d'alcohol\"",
+      "enlace": "https://radiosabadell.fm/podcast/fils-ciutat-curat-salut-alcohol-261126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-26T09:10:23.000Z",
+      "detectado": "2026-11-26T10:42:30.713Z",
+      "sensible": false,
+      "etiquetas": [
+        "salud"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "salut"
+      ],
       "duplicadaDe": null,
       "propuesta": false
     },
@@ -169,6 +374,29 @@
       ],
       "puntuacion": 0,
       "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "56fd57165cb546ea",
+      "titulo": "Commemoració del 25N a Montcada i Reixac",
+      "enlace": "https://www.montcada.cat/actualitat/noticies/commemoracio-del-25n-a-montcada-i-reixac.html",
+      "fuente": "ayto-montcada",
+      "fuenteNombre": "Ajuntament de Montcada i Reixac",
+      "tipo": "oficial",
+      "resumen": "",
+      "municipio": "montcada",
+      "municipiosMencionados": [
+        "montcada"
+      ],
+      "publicado": "2026-11-26T09:00:00.000Z",
+      "detectado": "2026-11-26T10:42:30.713Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
       "duplicadaDe": null,
       "propuesta": false
     },
@@ -502,5 +730,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-26T09:45:06.656Z"
+  "actualizado": "2026-11-26T10:42:49.256Z"
 }
