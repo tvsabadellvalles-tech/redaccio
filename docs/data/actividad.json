@@ -1,20 +1,6 @@
 {
   "eventos": [
     {
-      "id": "e47319fd23a821ad",
-      "t": "2026-11-24T08:24:44.355Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Les aventures de Mel, Gagà i Tasar» (Ajuntament de Barberà del Vallès).",
-      "itemId": "0564a0d569e26af0"
-    },
-    {
-      "id": "2d48040100c8fd4a",
-      "t": "2026-11-24T08:24:44.356Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Cultura i festes.",
-      "itemId": "0564a0d569e26af0"
-    },
-    {
       "id": "5dcff065d1ddfa44",
       "t": "2026-11-24T08:24:44.357Z",
       "agente": "vigilante",
@@ -2799,7 +2785,21 @@
       "agente": "rastreador",
       "texto": "He recollit «Castellar encén el Nadal» (L'Actual - Castellar del Vallès).",
       "itemId": "0bd10ce693694097"
+    },
+    {
+      "id": "62ff3de30d2b458b",
+      "t": "2026-11-26T23:20:16.754Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Més de 19.600 electors de Santa Perpètua tenen dret a vot a les eleccions generals» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "c1ddf7eefd77dc7e"
+    },
+    {
+      "id": "7c1f962b941bcde2",
+      "t": "2026-11-26T23:20:16.755Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Infopòdcast Sabadell 27.11.26» (Ràdio Sabadell).",
+      "itemId": "415486bb9538b7ac"
     }
   ],
-  "actualizado": "2026-11-26T21:19:16.305Z"
+  "actualizado": "2026-11-26T23:20:39.845Z"
 }
