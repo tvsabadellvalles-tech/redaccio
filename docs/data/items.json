@@ -104,6 +104,70 @@
   },
   "items": [
     {
+      "id": "364eb129a1b56883",
+      "titulo": "Front Ampli reclama l’estació de Can Llong de Sabadell: “És una prioritat”",
+      "enlace": "https://www.diaridesabadell.com/sabadell/front-ampli-estacio-can-llong-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell",
+        "sant-cugat"
+      ],
+      "publicado": "2026-11-26T16:56:49.000Z",
+      "detectado": "2026-11-26T17:21:32.615Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "36c719b9de8f697b",
+      "titulo": "Dolors Suárez, molt més que la mestra de 'Lloros i Cotorres' dels Quintos a Sabadell",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/dolors-suarez-mestra-lloros-cotorres-quintos-sabadell",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-26T16:52:49.000Z",
+      "detectado": "2026-11-26T17:21:32.615Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "388414cf9b0c303d",
+      "titulo": "Amunt El Teló 25/11/26",
+      "enlace": "https://radiosabadell.fm/alacarta/audio/amunt-el-telo-251126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-26T16:41:54.000Z",
+      "detectado": "2026-11-26T17:21:32.615Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "311c17ded5a79501",
       "titulo": "La cessió de Kaua García al futbol croat: \"El meu somni és el primer equip del Sabadell\"",
       "enlace": "https://radiosabadell.fm/esports/ce-sabadell/cessio-kaua-garcia-croacia-dragovoljac-sabadell",
@@ -128,6 +192,83 @@
       ],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "b7d58111ec2cf72c",
+      "titulo": "Ramon Gutiérrez (Comuns): “Hem de reinvertir la piràmide de prioritats de la mobilitat”",
+      "enlace": "https://radiosabadell.fm/actualitat/politica/ramon-gutierrez-comuns-reinvertir-piramide-prioritats",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell",
+        "sant-cugat"
+      ],
+      "publicado": "2026-11-26T16:25:22.000Z",
+      "detectado": "2026-11-26T17:21:32.615Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad",
+        "politica"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "mobilitat, política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "362dbb7515d53478",
+      "titulo": "El Sabadell Atlètic, un club que creix més enllà del futbol",
+      "enlace": "https://www.diaridesabadell.com/esports/sabadell-atletic-club-futbol-creixement-presentacio-innovacio-millores.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-26T16:15:41.000Z",
+      "detectado": "2026-11-26T17:21:32.615Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "aab769d428ba6036",
+      "titulo": "Un bomber de Sabadell, entre els millors del món en rescat en accidents de trànsit",
+      "enlace": "https://www.diaridesabadell.com/sabadell/bomber-sabadell-millors-mon-concurs-excarceracio-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell",
+        "cerdanyola"
+      ],
+      "publicado": "2026-11-26T16:08:24.000Z",
+      "detectado": "2026-11-26T17:21:32.615Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad",
+        "sucesos"
+      ],
+      "puntuacion": 4,
+      "motivos": [
+        "mobilitat, successos"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
     },
     {
       "id": "59bcf0612e36bcdf",
@@ -162,6 +303,27 @@
       "municipiosMencionados": [],
       "publicado": "2026-11-26T15:48:35.000Z",
       "detectado": "2026-11-26T16:11:28.672Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "521d8bda42187a22",
+      "titulo": "Quan arribarà el Llaminer al teu barri? Totes les dates i horaris",
+      "enlace": "https://www.isabadell.cat/nadal/llaminer-barris-sabadell-2026-341565/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-26T15:00:00.000Z",
+      "detectado": "2026-11-26T17:21:32.615Z",
       "sensible": false,
       "etiquetas": [],
       "puntuacion": 0,
@@ -1338,5 +1500,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-26T16:11:53.488Z"
+  "actualizado": "2026-11-26T17:21:45.845Z"
 }

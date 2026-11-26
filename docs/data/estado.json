@@ -2,15 +2,15 @@
   "fuentes": {
     "isabadell": {
       "ok": true,
-      "items": 4
+      "items": 5
     },
     "radio-sabadell": {
       "ok": true,
-      "items": 9
+      "items": 10
     },
     "diari-sabadell": {
       "ok": true,
-      "items": 10
+      "items": 13
     },
     "diari-terrassa": {
       "ok": true,
@@ -69,9 +69,8 @@
       "items": 3
     },
     "ayto-badia": {
-      "ok": false,
-      "error": "fetch failed",
-      "items": 0
+      "ok": true,
+      "items": 1
     },
     "ayto-sant-quirze": {
       "ok": true,
@@ -82,6 +81,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-26T16:11:28.672Z",
-  "actualizado": "2026-11-26T16:11:53.490Z"
+  "consultat": "2026-11-26T17:21:32.615Z",
+  "actualizado": "2026-11-26T17:21:45.847Z"
 }

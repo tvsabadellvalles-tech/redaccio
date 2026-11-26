@@ -1,104 +1,6 @@
 {
   "eventos": [
     {
-      "id": "532fc4ab36768144",
-      "t": "2026-11-23T19:16:43.007Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Un emprenedor crea el vermut Sant Grial, una marca de Sabadell» (Diari de Sabadell).",
-      "itemId": "4da88401de6d4bad"
-    },
-    {
-      "id": "81e931c52fa7d0e6",
-      "t": "2026-11-23T19:16:43.008Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Palau al Dia - Notícies del 23/11/2026» (Ràdio Palau - Palau al Dia).",
-      "itemId": "b9e87c27d98d3e19"
-    },
-    {
-      "id": "ecc67625e331ad12",
-      "t": "2026-11-23T19:16:43.009Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Les principals reivindicacions veïnals de Sabadell arriben al ple municipal» (Ràdio Sabadell).",
-      "itemId": "80194e2f29d3a276"
-    },
-    {
-      "id": "5252717c902fd3cb",
-      "t": "2026-11-23T19:16:43.010Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat, Política local, Salut, Educació, Cultura i festes.",
-      "itemId": "80194e2f29d3a276"
-    },
-    {
-      "id": "b0de584bb0a5b9c7",
-      "t": "2026-11-23T19:16:43.011Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): mobilitat, política local, salut, educació.",
-      "itemId": "80194e2f29d3a276"
-    },
-    {
-      "id": "9da0aa8e4bd05961",
-      "t": "2026-11-23T19:16:43.012Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El moviment veïnal porta al ple un llistat de millores pendents als barris» (iSabadell).",
-      "itemId": "4f4b4c11938f0eb4"
-    },
-    {
-      "id": "64e5cc76bc748af5",
-      "t": "2026-11-23T19:16:43.013Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local.",
-      "itemId": "4f4b4c11938f0eb4"
-    },
-    {
-      "id": "b9717c4c68c90a6a",
-      "t": "2026-11-23T19:16:43.014Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El ple de Sabadell reconeix la lluita del moviment veïnal i les reivindicacions pendents als barris» (Diari de Sabadell).",
-      "itemId": "7baeffe8f2b93f71"
-    },
-    {
-      "id": "1c1e2d6bce23f05d",
-      "t": "2026-11-23T19:16:43.015Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local.",
-      "itemId": "7baeffe8f2b93f71"
-    },
-    {
-      "id": "c96e5e5bb43f4291",
-      "t": "2026-11-23T20:17:05.165Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El ple, a favor de regularitzar les famílies del bloc de la PAH a Gràcia» (iSabadell).",
-      "itemId": "a61d3b27625e7b48"
-    },
-    {
-      "id": "d48b205a2bed67d2",
-      "t": "2026-11-23T20:17:05.166Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local, Obres i urbanisme.",
-      "itemId": "a61d3b27625e7b48"
-    },
-    {
-      "id": "f19e82e3cc69ffa8",
-      "t": "2026-11-23T20:17:05.167Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): política local, obres i urbanisme.",
-      "itemId": "a61d3b27625e7b48"
-    },
-    {
-      "id": "34707419e08c1015",
-      "t": "2026-11-23T20:17:05.168Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Compromís municipal per regularitzar els lloguers del bloc de Gràcia» (Ràdio Sabadell).",
-      "itemId": "5ea8efd05d81d438"
-    },
-    {
-      "id": "543bd062f1a66431",
-      "t": "2026-11-23T20:17:05.169Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local, Obres i urbanisme.",
-      "itemId": "5ea8efd05d81d438"
-    },
-    {
       "id": "6c2b718c6edd804a",
       "t": "2026-11-23T20:17:05.170Z",
       "agente": "mesa",
@@ -2799,7 +2701,105 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Salut, Esports.",
       "itemId": "311c17ded5a79501"
+    },
+    {
+      "id": "1ee57ca492fea109",
+      "t": "2026-11-26T17:21:32.615Z",
+      "agente": "rastreador",
+      "texto": "La font «Ajuntament de Badia del Vallès» torna a respondre.",
+      "itemId": null
+    },
+    {
+      "id": "5b9dbff2f66535ff",
+      "t": "2026-11-26T17:21:32.616Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Quan arribarà el Llaminer al teu barri? Totes les dates i horaris» (iSabadell).",
+      "itemId": "521d8bda42187a22"
+    },
+    {
+      "id": "4f4156432b07f26d",
+      "t": "2026-11-26T17:21:32.617Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Un bomber de Sabadell, entre els millors del món en rescat en accidents de trànsit» (Diari de Sabadell).",
+      "itemId": "aab769d428ba6036"
+    },
+    {
+      "id": "88e1b4d7b998ff6b",
+      "t": "2026-11-26T17:21:32.618Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat, Successos.",
+      "itemId": "aab769d428ba6036"
+    },
+    {
+      "id": "23d451f480406a86",
+      "t": "2026-11-26T17:21:32.619Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): mobilitat, successos.",
+      "itemId": "aab769d428ba6036"
+    },
+    {
+      "id": "e7f4bfce5b6cb6af",
+      "t": "2026-11-26T17:21:32.620Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El Sabadell Atlètic, un club que creix més enllà del futbol» (Diari de Sabadell).",
+      "itemId": "362dbb7515d53478"
+    },
+    {
+      "id": "4b664ff91ff93738",
+      "t": "2026-11-26T17:21:32.621Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "362dbb7515d53478"
+    },
+    {
+      "id": "9963f882fba4df1f",
+      "t": "2026-11-26T17:21:32.622Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Ramon Gutiérrez (Comuns): “Hem de reinvertir la piràmide de prioritats de la mobilitat”» (Ràdio Sabadell).",
+      "itemId": "b7d58111ec2cf72c"
+    },
+    {
+      "id": "598c824cbc7ccfdd",
+      "t": "2026-11-26T17:21:32.623Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Mobilitat, Política local.",
+      "itemId": "b7d58111ec2cf72c"
+    },
+    {
+      "id": "ead6c5a5f36b5cc0",
+      "t": "2026-11-26T17:21:32.624Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (4 punts): mobilitat, política local.",
+      "itemId": "b7d58111ec2cf72c"
+    },
+    {
+      "id": "11e2e64385964a4f",
+      "t": "2026-11-26T17:21:32.625Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Amunt El Teló 25/11/26» (Ràdio Sabadell).",
+      "itemId": "388414cf9b0c303d"
+    },
+    {
+      "id": "cd18140e4d065b23",
+      "t": "2026-11-26T17:21:32.626Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Dolors Suárez, molt més que la mestra de 'Lloros i Cotorres' dels Quintos a Sabadell» (Ràdio Sabadell).",
+      "itemId": "36c719b9de8f697b"
+    },
+    {
+      "id": "7b8a3a1eca07a320",
+      "t": "2026-11-26T17:21:32.627Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "36c719b9de8f697b"
+    },
+    {
+      "id": "085c438a8124ae79",
+      "t": "2026-11-26T17:21:32.628Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Front Ampli reclama l’estació de Can Llong de Sabadell: “És una prioritat”» (Diari de Sabadell).",
+      "itemId": "364eb129a1b56883"
     }
   ],
-  "actualizado": "2026-11-26T16:11:53.491Z"
+  "actualizado": "2026-11-26T17:21:45.849Z"
 }
