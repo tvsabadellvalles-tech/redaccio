@@ -1,20 +1,6 @@
 {
   "eventos": [
     {
-      "id": "a451e020fc8d0603",
-      "t": "2026-11-23T11:30:20.605Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "3137437d6e079a66"
-    },
-    {
-      "id": "8df3e3ac54d5e1d1",
-      "t": "2026-11-23T11:30:20.606Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Concert de la Coral de Nadal de la gent gran» (Ajuntament de Barberà del Vallès).",
-      "itemId": "035ced90ea506b06"
-    },
-    {
       "id": "af76f96cc4cce4e8",
       "t": "2026-11-23T11:30:20.607Z",
       "agente": "etiquetador",
@@ -2799,7 +2785,21 @@
       "agente": "rastreador",
       "texto": "He recollit «Infopòdcast Sabadell 26.11.26» (Ràdio Sabadell).",
       "itemId": "9a471bcc948a9fd6"
+    },
+    {
+      "id": "a838c3e7b944886a",
+      "t": "2026-11-26T07:02:40.198Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La violència masclista, absent de la campanya electoral￼» (iSabadell).",
+      "itemId": "ba8e4c7641d14de5"
+    },
+    {
+      "id": "068f0ab1ea9a06d8",
+      "t": "2026-11-26T07:02:40.199Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "ba8e4c7641d14de5"
     }
   ],
-  "actualizado": "2026-11-25T23:40:05.381Z"
+  "actualizado": "2026-11-26T07:02:53.319Z"
 }

@@ -104,6 +104,25 @@
   },
   "items": [
     {
+      "id": "ba8e4c7641d14de5",
+      "titulo": "La violència masclista, absent de la campanya electoral￼",
+      "enlace": "https://www.isabadell.cat/opinio/la-violencia-masclista-absent-de-la-campanya-electoral%ef%bf%bc-341594/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-26T07:00:00.000Z",
+      "detectado": "2026-11-26T07:02:40.198Z",
+      "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "9a471bcc948a9fd6",
       "titulo": "Infopòdcast Sabadell 26.11.26",
       "enlace": "https://radiosabadell.fm/alacarta/audio/infopodcast-sabadell-261126",
@@ -174,5 +193,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-25T23:40:05.379Z"
+  "actualizado": "2026-11-26T07:02:53.315Z"
 }
