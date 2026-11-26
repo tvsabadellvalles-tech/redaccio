@@ -1,13 +1,6 @@
 {
   "eventos": [
     {
-      "id": "926789e8b07706b3",
-      "t": "2026-11-24T08:24:44.354Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "bd50924afb18426c"
-    },
-    {
       "id": "e47319fd23a821ad",
       "t": "2026-11-24T08:24:44.355Z",
       "agente": "rastreador",
@@ -2799,7 +2792,14 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Esports.",
       "itemId": "da10ee357a12e075"
+    },
+    {
+      "id": "795c9c1daa10a8f3",
+      "t": "2026-11-26T21:19:01.895Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Castellar encén el Nadal» (L'Actual - Castellar del Vallès).",
+      "itemId": "0bd10ce693694097"
     }
   ],
-  "actualizado": "2026-11-26T20:22:13.013Z"
+  "actualizado": "2026-11-26T21:19:16.305Z"
 }

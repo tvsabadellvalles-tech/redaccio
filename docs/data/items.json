@@ -104,6 +104,27 @@
   },
   "items": [
     {
+      "id": "0bd10ce693694097",
+      "titulo": "Castellar encén el Nadal",
+      "enlace": "https://www.lactual.cat/actualitat/castellar-encen-nadal_55463_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [
+        "castellar"
+      ],
+      "publicado": "2026-11-26T20:38:10.000Z",
+      "detectado": "2026-11-26T21:19:01.895Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "da10ee357a12e075",
       "titulo": "Plàcid Garcia-Planas rep el Premi Tenacitat 2026",
       "enlace": "https://radiosabadell.fm/actualitat/societat/placid-garcia-planas-rep-el-premi-tenacitat-2026",
@@ -1658,5 +1679,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-26T20:22:13.009Z"
+  "actualizado": "2026-11-26T21:19:16.301Z"
 }
