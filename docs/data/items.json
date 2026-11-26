@@ -104,6 +104,29 @@
   },
   "items": [
     {
+      "id": "da10ee357a12e075",
+      "titulo": "Plàcid Garcia-Planas rep el Premi Tenacitat 2026",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/placid-garcia-planas-rep-el-premi-tenacitat-2026",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-26T20:15:46.000Z",
+      "detectado": "2026-11-26T20:21:56.136Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "f2f38a81252f1f7f",
       "titulo": "“Surto a les sis des de Polinyà per entrar a les vuit a classe”",
       "enlace": "https://www.diaridesabadell.com/valles/institut-castellarnau-accessibilitat-queixes-obres-graus-alumnes.html",
@@ -117,6 +140,25 @@
       ],
       "publicado": "2026-11-26T18:47:11.000Z",
       "detectado": "2026-11-26T19:18:33.199Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "84038197d28280f2",
+      "titulo": "Raúl Rota \"torna a casa\" després d'un any de turbulències",
+      "enlace": "https://radiosabadell.fm/esports/altres-esports/ciclisme/fitxatge-boavista-raul-rota-torna-casa",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-26T18:29:00.000Z",
+      "detectado": "2026-11-26T20:21:56.136Z",
       "sensible": false,
       "etiquetas": [],
       "puntuacion": 0,
@@ -1616,5 +1658,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-26T19:18:48.035Z"
+  "actualizado": "2026-11-26T20:22:13.009Z"
 }

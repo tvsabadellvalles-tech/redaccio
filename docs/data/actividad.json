@@ -1,27 +1,6 @@
 {
   "eventos": [
     {
-      "id": "a3e78a699eea3c4d",
-      "t": "2026-11-24T08:24:44.351Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local.",
-      "itemId": "6841e9604b1920f0"
-    },
-    {
-      "id": "66a07f8691ac2b8f",
-      "t": "2026-11-24T08:24:44.352Z",
-      "agente": "rastreador",
-      "texto": "He recollit «XXVIII Jocs de Nadal 2026» (Ajuntament de Barberà del Vallès).",
-      "itemId": "d8f2ddd405fa51b4"
-    },
-    {
-      "id": "0b5cf712993115f2",
-      "t": "2026-11-24T08:24:44.353Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Tió Solidari del Casc Antic» (Ajuntament de Barberà del Vallès).",
-      "itemId": "bd50924afb18426c"
-    },
-    {
       "id": "926789e8b07706b3",
       "t": "2026-11-24T08:24:44.354Z",
       "agente": "vigilante",
@@ -2799,7 +2778,28 @@
       "agente": "rastreador",
       "texto": "He recollit «“Surto a les sis des de Polinyà per entrar a les vuit a classe”» (Diari de Sabadell).",
       "itemId": "f2f38a81252f1f7f"
+    },
+    {
+      "id": "ba6723adf37131f0",
+      "t": "2026-11-26T20:21:56.136Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Raúl Rota \"torna a casa\" després d'un any de turbulències» (Ràdio Sabadell).",
+      "itemId": "84038197d28280f2"
+    },
+    {
+      "id": "7ae45554b27c0056",
+      "t": "2026-11-26T20:21:56.137Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Plàcid Garcia-Planas rep el Premi Tenacitat 2026» (Ràdio Sabadell).",
+      "itemId": "da10ee357a12e075"
+    },
+    {
+      "id": "bb9adcc34a6177a3",
+      "t": "2026-11-26T20:21:56.138Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "da10ee357a12e075"
     }
   ],
-  "actualizado": "2026-11-26T19:18:48.039Z"
+  "actualizado": "2026-11-26T20:22:13.013Z"
 }
