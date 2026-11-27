@@ -104,6 +104,141 @@
   },
   "items": [
     {
+      "id": "0c992e0c2ffab9e3",
+      "titulo": "Medalla centenària per a Juan Veraguas Pardo",
+      "enlace": "https://www.lactual.cat/actualitat/medalla-centenaria-juan-veraguas-pardo_55468_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-27T11:18:55.000Z",
+      "detectado": "2026-11-27T11:30:26.975Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "4ea9dd570171b788",
+      "titulo": "El cinefòrum «Espai minvant» aplega prop d’un centenar de persones per reflexionar sobre la situació de Palestina",
+      "enlace": "https://www.santquirzevalles.cat/actualitat/noticies/el-cineforum-espai-minvant-aplega-prop-d2019un-centenar-de-persones-per-reflexionar-sobre-la-situacio-de-palestina",
+      "fuente": "ayto-sant-quirze",
+      "fuenteNombre": "Ajuntament de Sant Quirze del Vallès",
+      "tipo": "oficial",
+      "resumen": "L'activista Juani Rishmawi va parlar sobre la societat civil i les dificultats de les persones defensores dels drets humans",
+      "municipio": "sant-quirze",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-27T11:10:26.000Z",
+      "detectado": "2026-11-27T11:30:26.975Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "bb456755177f86ed",
+      "titulo": "Multen un regidor d'ERC de Santa Perpètua amb 450 euros per amenaces al portaveu de Cs",
+      "enlace": "https://www.diaridesabadell.com/valles/santa-perpetua-mogoda/multa-regidor-erc-santa-perpetua-amenaces-ciutadans.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "santa-perpetua"
+      ],
+      "publicado": "2026-11-27T10:46:40.000Z",
+      "detectado": "2026-11-27T11:30:26.975Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "58b16f04c25ede92",
+      "titulo": "Carles Coll es perd el Mundial en piscina curta per lesió: \"És un cop molt dur per mi\"",
+      "enlace": "https://www.diaridesabadell.com/esports/carles-coll-club-natacio-sabadell-mundial-piscina-curta-baixa-lesio.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-27T10:45:02.000Z",
+      "detectado": "2026-11-27T11:30:26.975Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "bbc5fab92f8db839",
+      "titulo": "Paco Aranda, número 5 del PSC: “No hi ha cap avenç social que no tingui segell socialista”",
+      "enlace": "https://radiosabadell.fm/actualitat/politica/paco-aranda-psc-271126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-27T10:39:56.000Z",
+      "detectado": "2026-11-27T11:30:26.975Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica",
+        "salud"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "política local, salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "7b60cf1e9f4043c0",
+      "titulo": "Mor l’actriu Teresa Cunillé als 102 anys",
+      "enlace": "https://www.isabadell.cat/obituari/mor-actriu-teresa-cunille-als-102-anys-341708/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-27T10:35:53.000Z",
+      "detectado": "2026-11-27T11:30:26.975Z",
+      "sensible": true,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": "212c639631cdb59e",
+      "propuesta": false
+    },
+    {
       "id": "d84c0d6994ae9b0c",
       "titulo": "Comença la temporada del quinto a Sabadell: consulta dates, lloc i hores",
       "enlace": "https://www.diaridesabadell.com/sabadell/campanya-quinto-sabadell-hora-lloc-calendari.html",
@@ -252,6 +387,32 @@
       "motivos": [],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "a9b01c1a65ca1a23",
+      "titulo": "L'Ajuntament de Santa Perpètua fa una declaració Institucional del 25N",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/lajuntament-de-santa-perpetua-fa-una-declaracio-institucional-del-25n-.html",
+      "fuente": "ayto-santa-perpetua",
+      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
+      "tipo": "oficial",
+      "resumen": "El ple de l'Ajuntament de Santa Perpètua del mes de novembre va començar amb una declaració institucional amb motiu del 25N Dia Internacional de lluita per l'eliminació de les violències masclistes que va llegir l'alcalde, Joan Carles…",
+      "municipio": "santa-perpetua",
+      "municipiosMencionados": [
+        "santa-perpetua"
+      ],
+      "publicado": "2026-11-27T10:00:00.000Z",
+      "detectado": "2026-11-27T11:30:26.975Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "font oficial",
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
     },
     {
       "id": "212c639631cdb59e",
@@ -630,7 +791,32 @@
       ],
       "duplicadaDe": null,
       "propuesta": true
+    },
+    {
+      "id": "fcef893264323eea",
+      "titulo": "Polinyà s'omple de llum i activitats per celebrar el Nadal",
+      "enlace": "https://www.polinya.cat/actualitat/noticies/11323-polinya-somple-de-llum-i-activitats-per-celebrar-el-nadal.html",
+      "fuente": "ayto-polinya",
+      "fuenteNombre": "Ajuntament de Polinyà",
+      "tipo": "oficial",
+      "resumen": "Enguany les activitats prèvies a l'arribada dels Reis s'instal·laran a la zona esportiva del Turó, i per accedir-hi hi haurà el Trenet Reial que connectarà des de la plaça de la Vila.",
+      "municipio": "polinya",
+      "municipiosMencionados": [
+        "polinya"
+      ],
+      "publicado": "2026-11-26T23:00:00.000Z",
+      "detectado": "2026-11-27T11:30:26.975Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
     }
   ],
-  "actualizado": "2026-11-27T10:35:45.191Z"
+  "actualizado": "2026-11-27T11:30:39.574Z"
 }

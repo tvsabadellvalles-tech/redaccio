@@ -1,111 +1,6 @@
 {
   "eventos": [
     {
-      "id": "0b547b71defc6278",
-      "t": "2026-11-24T09:41:37.092Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Taller de tions i tiones» (Ajuntament de Barberà del Vallès).",
-      "itemId": "24a6ba05f792f9a5"
-    },
-    {
-      "id": "7fa803218ae70425",
-      "t": "2026-11-24T09:41:37.093Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Gran Sorteig de Nadal del Mercat» (Ajuntament de Barberà del Vallès).",
-      "itemId": "df2d9d99a517270c"
-    },
-    {
-      "id": "e3ac373eab561055",
-      "t": "2026-11-24T09:41:37.094Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Eleccions generals 29-N: Miquel Aguilar, segon suplent de Juntsn al Senat» (Ràdio Sabadell).",
-      "itemId": "6f6a5d56edee558f"
-    },
-    {
-      "id": "0622e20ff3c25b01",
-      "t": "2026-11-24T09:41:37.095Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Taller de cuina per a persones adultes: Fem galetes de Nadal!» (Ajuntament de Barberà del Vallès).",
-      "itemId": "ae5c25963f588d09"
-    },
-    {
-      "id": "2eaf0ef6076c3ba2",
-      "t": "2026-11-24T09:41:37.096Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Salut.",
-      "itemId": "ae5c25963f588d09"
-    },
-    {
-      "id": "e4b40106913d49c4",
-      "t": "2026-11-24T10:39:00.035Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Avui s'inaugura l'exposició del projecte L'última frontera: La lluita pels drets dels joves que migren sols» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "c7f5053fdb175571"
-    },
-    {
-      "id": "915ba1cbea72142d",
-      "t": "2026-11-24T10:39:00.036Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Cultura i festes.",
-      "itemId": "c7f5053fdb175571"
-    },
-    {
-      "id": "f5e4ca91ca21a003",
-      "t": "2026-11-24T10:39:00.037Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La Fira de Nadal se celebrarà el dissabte 28 de novembre a la Rambla i a la plaça de la Vila» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "637281e6b6109a77"
-    },
-    {
-      "id": "af84ba01d15313ad",
-      "t": "2026-11-24T10:39:00.038Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Educació, Cultura i festes.",
-      "itemId": "637281e6b6109a77"
-    },
-    {
-      "id": "ace07409256f7592",
-      "t": "2026-11-24T10:39:00.039Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Els 800 partits de Jordi Bransuela amb el Sabadell: \"No em considero un emblema, ho visc com un soci més\"» (Ràdio Sabadell).",
-      "itemId": "cda041c2fc8877dd"
-    },
-    {
-      "id": "49d773a5ebfed5b3",
-      "t": "2026-11-24T10:39:00.040Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Salut, Esports.",
-      "itemId": "cda041c2fc8877dd"
-    },
-    {
-      "id": "16b6f56a848ad13f",
-      "t": "2026-11-24T10:39:00.041Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Jutgen una professora de ball de Sabadell acusada d'agredir sexualment una menor» (Ràdio Sabadell).",
-      "itemId": "4050b3204db75dd3"
-    },
-    {
-      "id": "01a976f0d441fec5",
-      "t": "2026-11-24T10:39:00.042Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Successos, Educació.",
-      "itemId": "4050b3204db75dd3"
-    },
-    {
-      "id": "cf024186fa77696f",
-      "t": "2026-11-24T10:39:00.043Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "4050b3204db75dd3"
-    },
-    {
-      "id": "27d3a43a2444b496",
-      "t": "2026-11-24T10:39:00.044Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): successos, educació.",
-      "itemId": "4050b3204db75dd3"
-    },
-    {
       "id": "92dd34435c8aa2ab",
       "t": "2026-11-24T10:39:00.045Z",
       "agente": "rastreador",
@@ -2799,7 +2694,112 @@
       "agente": "rastreador",
       "texto": "He recollit «Comença la temporada del quinto a Sabadell: consulta dates, lloc i hores» (Diari de Sabadell).",
       "itemId": "d84c0d6994ae9b0c"
+    },
+    {
+      "id": "5d98cbfac5eb8c56",
+      "t": "2026-11-27T11:30:26.975Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Polinyà s'omple de llum i activitats per celebrar el Nadal» (Ajuntament de Polinyà).",
+      "itemId": "fcef893264323eea"
+    },
+    {
+      "id": "e3db1d591e7474ce",
+      "t": "2026-11-27T11:30:26.976Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "fcef893264323eea"
+    },
+    {
+      "id": "dfb7efbd93e39227",
+      "t": "2026-11-27T11:30:26.977Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L'Ajuntament de Santa Perpètua fa una declaració Institucional del 25N» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "a9b01c1a65ca1a23"
+    },
+    {
+      "id": "a08891eed65893af",
+      "t": "2026-11-27T11:30:26.978Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local.",
+      "itemId": "a9b01c1a65ca1a23"
+    },
+    {
+      "id": "fdc9fd8dba331dea",
+      "t": "2026-11-27T11:30:26.979Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · política local.",
+      "itemId": "a9b01c1a65ca1a23"
+    },
+    {
+      "id": "20cc84e3f1ed440e",
+      "t": "2026-11-27T11:30:26.980Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Mor l’actriu Teresa Cunillé als 102 anys» (iSabadell).",
+      "itemId": "7b60cf1e9f4043c0"
+    },
+    {
+      "id": "b8fc0a2ff585b7fc",
+      "t": "2026-11-27T11:30:26.981Z",
+      "agente": "deduplicador",
+      "texto": "Descartada perquè és duplicada: coincideix amb «Mor l'actriu sabadellenca Teresa Cunillé» (Ràdio Sabadell).",
+      "itemId": "7b60cf1e9f4043c0"
+    },
+    {
+      "id": "de15aec28d59d2e6",
+      "t": "2026-11-27T11:30:26.982Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Paco Aranda, número 5 del PSC: “No hi ha cap avenç social que no tingui segell socialista”» (Ràdio Sabadell).",
+      "itemId": "bbc5fab92f8db839"
+    },
+    {
+      "id": "878380360fbc3bd6",
+      "t": "2026-11-27T11:30:26.983Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local, Salut.",
+      "itemId": "bbc5fab92f8db839"
+    },
+    {
+      "id": "1409751a9ef8f696",
+      "t": "2026-11-27T11:30:26.984Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): política local, salut.",
+      "itemId": "bbc5fab92f8db839"
+    },
+    {
+      "id": "ebd350fc55427475",
+      "t": "2026-11-27T11:30:26.985Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Carles Coll es perd el Mundial en piscina curta per lesió: \"És un cop molt dur per mi\"» (Diari de Sabadell).",
+      "itemId": "58b16f04c25ede92"
+    },
+    {
+      "id": "1c5b99bb1ae5d864",
+      "t": "2026-11-27T11:30:26.986Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Multen un regidor d'ERC de Santa Perpètua amb 450 euros per amenaces al portaveu de Cs» (Diari de Sabadell).",
+      "itemId": "bb456755177f86ed"
+    },
+    {
+      "id": "2a1629bc9f177528",
+      "t": "2026-11-27T11:30:26.987Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local.",
+      "itemId": "bb456755177f86ed"
+    },
+    {
+      "id": "ca862528075b9ef0",
+      "t": "2026-11-27T11:30:26.988Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El cinefòrum «Espai minvant» aplega prop d’un centenar de persones per reflexionar sobre la situació de Palestina» (Ajuntament de Sant Quirze del Vallès).",
+      "itemId": "4ea9dd570171b788"
+    },
+    {
+      "id": "cdf0774196d742c5",
+      "t": "2026-11-27T11:30:26.989Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Medalla centenària per a Juan Veraguas Pardo» (L'Actual - Castellar del Vallès).",
+      "itemId": "0c992e0c2ffab9e3"
     }
   ],
-  "actualizado": "2026-11-27T10:35:45.194Z"
+  "actualizado": "2026-11-27T11:30:39.577Z"
 }
