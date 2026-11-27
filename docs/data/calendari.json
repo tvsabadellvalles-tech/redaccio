@@ -2,72 +2,9 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-27T22:37:18.312Z",
-  "total": 12,
+  "consultat": "2026-11-27T23:32:29.854Z",
+  "total": 7,
   "activitats": [
-    {
-      "titol": "(Paulino) CX - NEX Matí (Black Friday)",
-      "inici": "2026-11-27T07:30:00.000Z",
-      "final": "2026-11-27T08:30:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "Gravació La Mar de bé",
-      "inici": "2026-11-27T10:00:00.000Z",
-      "final": "2026-11-27T12:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "DIRECTE Encesa Ripollet",
-      "inici": "2026-11-27T15:00:00.000Z",
-      "final": "2026-11-27T19:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "Encesa de Llums de Nadal",
-      "inici": "2026-11-27T17:00:00.000Z",
-      "final": "2026-11-27T19:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "(Pep) CX - VIA 15 (1 cop l'Any)",
-      "inici": "2026-11-27T17:00:00.000Z",
-      "final": "2026-11-27T18:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "Entrevista amb Marta López (Amics del Teatre)",
-      "inici": "2026-11-27T17:15:00.000Z",
-      "final": "2026-11-27T17:25:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "Entrevista amb Helena (Presidenta de la Unió de Comerciants)",
-      "inici": "2026-11-27T17:30:00.000Z",
-      "final": "2026-11-27T17:40:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "CD Leganés - CE Sabadell",
-      "inici": "2026-11-27T19:30:00.000Z",
-      "final": "2026-11-27T21:30:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
-      "titol": "Fira Sant Llúcia",
-      "inici": "2026-11-28T09:00:00.000Z",
-      "final": "2026-11-28T10:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
     {
       "titol": "Festa Vi Novell",
       "inici": "2026-11-28T10:30:00.000Z",
@@ -83,13 +20,41 @@
       "color": null
     },
     {
+      "titol": "Fira Sant Llúcia",
+      "inici": "2026-11-28T15:30:00.000Z",
+      "final": "2026-11-28T16:30:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
       "titol": "Encesa Eix Macià",
       "inici": "2026-11-28T17:00:00.000Z",
       "final": "2026-11-28T18:00:00.000Z",
       "totElDia": false,
       "color": null
+    },
+    {
+      "titol": "Eleccions generals",
+      "inici": "2026-11-29T09:00:00.000Z",
+      "final": "2026-11-29T10:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "CE Sabadell 'B' - Rubí",
+      "inici": "2026-11-29T11:00:00.000Z",
+      "final": "2026-11-29T13:00:00.000Z",
+      "totElDia": false,
+      "color": null
+    },
+    {
+      "titol": "Estrena Pessebrista Sabadell",
+      "inici": "2026-11-29T11:00:00.000Z",
+      "final": "2026-11-29T12:00:00.000Z",
+      "totElDia": false,
+      "color": null
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-27T22:37:56.540Z"
+  "actualizado": "2026-11-27T23:33:06.367Z"
 }
