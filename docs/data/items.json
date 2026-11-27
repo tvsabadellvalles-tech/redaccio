@@ -104,6 +104,86 @@
   },
   "items": [
     {
+      "id": "fbadf49e0d3cba46",
+      "titulo": "La Llanterna Màgica 402: Cary Grant, quaranta anys després, el mite continua viu.",
+      "enlace": "https://radiosabadell.fm/alacarta/audio/la-llanterna-magica-402-cary-grant-quaranta-anys-despres-el-mite-continua-viu",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-27T15:30:18.000Z",
+      "detectado": "2026-11-27T15:46:17.624Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "cf4b76a2bb067408",
+      "titulo": "Agenda cultural 27.11.26",
+      "enlace": "https://radiosabadell.fm/alacarta/audio/agenda-cultural-271126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-27T15:22:51.000Z",
+      "detectado": "2026-11-27T15:46:17.624Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "0186deaacfe0afcc",
+      "titulo": "Un quinto solidari a l'Urpí per a inaugurar el Nadal a Sabadell",
+      "enlace": "https://www.diaridesabadell.com/sabadell/un-quinto-solidari-a-lurpi-per-a-inaugurar-el-nadal-a-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-27T15:12:56.000Z",
+      "detectado": "2026-11-27T15:46:17.624Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "c9c88c7654ccc4af",
+      "titulo": "Clara Antúnez apropa la cultura del vi a L'Aula",
+      "enlace": "https://www.lactual.cat/actualitat/clara-antunez-apropa-cultura-vi-aula_55471_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-27T14:59:05.000Z",
+      "detectado": "2026-11-27T15:46:17.624Z",
+      "sensible": false,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "526d9e06406363ae",
       "titulo": "La nova Oficina d'Entitats i Voluntariat començarà a operar a mitjans de desembre",
       "enlace": "https://radiosabadell.fm/actualitat/urbanisme/nova-oficina-entitats-voluntariat-desembre",
@@ -1515,5 +1595,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-27T14:48:27.762Z"
+  "actualizado": "2026-11-27T15:46:36.276Z"
 }
