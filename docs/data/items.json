@@ -104,6 +104,90 @@
   },
   "items": [
     {
+      "id": "cc6b859945935c9f",
+      "titulo": "Milers de persones segueixen una espectacular encesa de l’enllumenat",
+      "enlace": "https://www.isabadell.cat/nadal/milers-de-persones-segueixen-una-espectacular-encesa-de-lenllumenat-341747/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-27T18:35:17.000Z",
+      "detectado": "2026-11-27T18:38:52.916Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "a98c94dfbdb7aba5",
+      "titulo": "FOTOS | Els millors moments de l'encesa de llums de Nadal a Sabadell, en imatges",
+      "enlace": "https://www.diaridesabadell.com/sabadell/nadal/fotos-llaminer-encesa-llums-sabadell-centre-nord-sud.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-27T18:20:24.000Z",
+      "detectado": "2026-11-27T18:38:52.916Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "b44c9fbdb9be4d7b",
+      "titulo": "El CD Leganés - CE Sabadell, en directe",
+      "enlace": "https://www.diaridesabadell.com/esports/cd-leganes-centre-esports-sabadell-directe-minut-a-minut-lliga-hypermotion.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-27T18:18:08.000Z",
+      "detectado": "2026-11-27T18:38:52.916Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "eaeb01a6f2e38d35",
+      "titulo": "Palau al Dia - Notícies del 27/11/2026",
+      "enlace": "https://www.radiopalau.cat/podcasts/palau-al-dia/radiopalau_podcast_6862/",
+      "fuente": "radio-palau",
+      "fuenteNombre": "Ràdio Palau - Palau al Dia",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "palau",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-27T17:59:57.000Z",
+      "detectado": "2026-11-27T18:38:52.916Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "a92d03ac270a5c54",
       "titulo": "Encesos els llums de Nadal a Sabadell",
       "enlace": "https://radiosabadell.fm/actualitat/cultura/encesos-els-llums-de-nadal-sabadell-0",
@@ -150,6 +234,29 @@
       "puntuacion": 0,
       "motivos": [],
       "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "88a181b01066f3cc",
+      "titulo": "FOTOS | El pessebre gegant i la fira de Santa Llúcia donen la benvinguda al Nadal de Sabadell",
+      "enlace": "https://www.diaridesabadell.com/sabadell/nadal/fotos-pessebre-gegant-fira-santa-llucia-nadal-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-27T17:25:07.000Z",
+      "detectado": "2026-11-27T18:38:52.916Z",
+      "sensible": false,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": "338b8e8e91852ce1",
       "propuesta": false
     },
     {
@@ -1665,5 +1772,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-27T17:46:22.290Z"
+  "actualizado": "2026-11-27T18:39:06.655Z"
 }

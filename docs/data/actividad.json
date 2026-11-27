@@ -1,55 +1,6 @@
 {
   "eventos": [
     {
-      "id": "3f5183209f3d1e57",
-      "t": "2026-11-24T12:44:04.945Z",
-      "agente": "deduplicador",
-      "texto": "Descartada perquè és duplicada: coincideix amb «Jutgen una professora de ball de Sabadell acusada d'agredir sexualment una menor» (Ràdio Sabadell).",
-      "itemId": "8873e623727464e9"
-    },
-    {
-      "id": "eac94b066ea04081",
-      "t": "2026-11-24T12:44:04.946Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Recollida d'aliments amb la cultura popular» (Ajuntament de Barberà del Vallès).",
-      "itemId": "d4b8fc5000940ef9"
-    },
-    {
-      "id": "ffcd27c50689f9e5",
-      "t": "2026-11-24T12:44:04.947Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Cultura i festes.",
-      "itemId": "d4b8fc5000940ef9"
-    },
-    {
-      "id": "25ad0606150646f4",
-      "t": "2026-11-24T12:44:04.948Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "d4b8fc5000940ef9"
-    },
-    {
-      "id": "a36bc9bbd85e2e35",
-      "t": "2026-11-24T14:02:55.563Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Instal�lat el pessebre a l'Ajuntament» (Ajuntament de Badia del Vallès).",
-      "itemId": "77df9a050afbbf1b"
-    },
-    {
-      "id": "7e0841e0da8c9722",
-      "t": "2026-11-24T14:02:55.564Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Ni l'OAR Gràcia femení s'enganxa del tot a dalt ni el masculí fuig de la zona de baix» (Ràdio Sabadell).",
-      "itemId": "2670c342041e49e6"
-    },
-    {
-      "id": "3926fefaf588ef82",
-      "t": "2026-11-24T14:02:55.565Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Esports.",
-      "itemId": "2670c342041e49e6"
-    },
-    {
       "id": "8296e1ec93e7ed53",
       "t": "2026-11-24T14:02:55.566Z",
       "agente": "rastreador",
@@ -2799,7 +2750,56 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Política local, Cultura i festes.",
       "itemId": "a92d03ac270a5c54"
+    },
+    {
+      "id": "13c37837c764116e",
+      "t": "2026-11-27T18:38:52.916Z",
+      "agente": "rastreador",
+      "texto": "He recollit «FOTOS | El pessebre gegant i la fira de Santa Llúcia donen la benvinguda al Nadal de Sabadell» (Diari de Sabadell).",
+      "itemId": "88a181b01066f3cc"
+    },
+    {
+      "id": "cb3ecb713d6db541",
+      "t": "2026-11-27T18:38:52.917Z",
+      "agente": "deduplicador",
+      "texto": "Descartada perquè és duplicada: coincideix amb «FOTOS | El pessebre gegant i la fira de Santa Llúcia donen la benvinguda al Nadal de Sabadell» (Diari de Sabadell).",
+      "itemId": "88a181b01066f3cc"
+    },
+    {
+      "id": "66b7e7a9a21e243f",
+      "t": "2026-11-27T18:38:52.918Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Palau al Dia - Notícies del 27/11/2026» (Ràdio Palau - Palau al Dia).",
+      "itemId": "eaeb01a6f2e38d35"
+    },
+    {
+      "id": "02965f9a468a95ec",
+      "t": "2026-11-27T18:38:52.919Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local.",
+      "itemId": "eaeb01a6f2e38d35"
+    },
+    {
+      "id": "400056a117f04a26",
+      "t": "2026-11-27T18:38:52.920Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El CD Leganés - CE Sabadell, en directe» (Diari de Sabadell).",
+      "itemId": "b44c9fbdb9be4d7b"
+    },
+    {
+      "id": "719b7c8253d4e073",
+      "t": "2026-11-27T18:38:52.921Z",
+      "agente": "rastreador",
+      "texto": "He recollit «FOTOS | Els millors moments de l'encesa de llums de Nadal a Sabadell, en imatges» (Diari de Sabadell).",
+      "itemId": "a98c94dfbdb7aba5"
+    },
+    {
+      "id": "4fafd338bbb013d8",
+      "t": "2026-11-27T18:38:52.922Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Milers de persones segueixen una espectacular encesa de l’enllumenat» (iSabadell).",
+      "itemId": "cc6b859945935c9f"
     }
   ],
-  "actualizado": "2026-11-27T17:46:22.293Z"
+  "actualizado": "2026-11-27T18:39:06.659Z"
 }
