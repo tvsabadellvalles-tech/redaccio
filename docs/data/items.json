@@ -104,6 +104,29 @@
   },
   "items": [
     {
+      "id": "cd16ba9e5b04fb91",
+      "titulo": "La Fira de Santa Llúcia dona el tret de sortida al Nadal a Sabadell",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/fira-de-santa-llucia-tret-sortida-nadal-sabadell",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-27T16:17:34.000Z",
+      "detectado": "2026-11-27T12:33:29.481Z",
+      "sensible": false,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "fbadf49e0d3cba46",
       "titulo": "La Llanterna Màgica 402: Cary Grant, quaranta anys després, el mite continua viu.",
       "enlace": "https://radiosabadell.fm/alacarta/audio/la-llanterna-magica-402-cary-grant-quaranta-anys-despres-el-mite-continua-viu",
@@ -389,6 +412,27 @@
       "propuesta": false
     },
     {
+      "id": "0f28aaf56d5f05ee",
+      "titulo": "Aprovat un conveni amb l’AMB per a la futura gestió de la Zona de Baixes Emissions al municipi",
+      "enlace": "https://www.montcada.cat/actualitat/noticies/aprovat-un-conveni-amb-lamb-per-a-la-futura-gestio-de-la-zona-de-baixes-emissions-al-municipi.html",
+      "fuente": "ayto-montcada",
+      "fuenteNombre": "Ajuntament de Montcada i Reixac",
+      "tipo": "oficial",
+      "resumen": "",
+      "municipio": "montcada",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-27T12:00:00.000Z",
+      "detectado": "2026-11-27T16:52:01.316Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "bf5632b323801f84",
       "titulo": "Canvis a les pròximes activitats del 25N del mes de desembre",
       "enlace": "https://www.bdv.cat/noticies/canvis-les-proximes-activitats-del-25n-del-mes-de-desembre",
@@ -525,29 +569,6 @@
       "propuesta": false
     },
     {
-      "id": "cd16ba9e5b04fb91",
-      "titulo": "La Fira de Santa Llúcia dona el tret de sortida al Nadal a Sabadell",
-      "enlace": "https://radiosabadell.fm/actualitat/societat/fira-de-santa-llucia-tret-sortida-nadal-sabadell",
-      "fuente": "radio-sabadell",
-      "fuenteNombre": "Ràdio Sabadell",
-      "tipo": "medio",
-      "resumen": "",
-      "municipio": "sabadell",
-      "municipiosMencionados": [
-        "sabadell"
-      ],
-      "publicado": "2026-11-27T11:17:34.000Z",
-      "detectado": "2026-11-27T12:33:29.481Z",
-      "sensible": false,
-      "etiquetas": [
-        "cultura"
-      ],
-      "puntuacion": 0,
-      "motivos": [],
-      "duplicadaDe": null,
-      "propuesta": false
-    },
-    {
       "id": "4ea9dd570171b788",
       "titulo": "El cinefòrum «Espai minvant» aplega prop d’un centenar de persones per reflexionar sobre la situació de Palestina",
       "enlace": "https://www.santquirzevalles.cat/actualitat/noticies/el-cineforum-espai-minvant-aplega-prop-d2019un-centenar-de-persones-per-reflexionar-sobre-la-situacio-de-palestina",
@@ -557,7 +578,7 @@
       "resumen": "L'activista Juani Rishmawi va parlar sobre la societat civil i les dificultats de les persones defensores dels drets humans",
       "municipio": "sant-quirze",
       "municipiosMencionados": [],
-      "publicado": "2026-11-27T11:10:26.000Z",
+      "publicado": "2026-11-27T11:10:00.000Z",
       "detectado": "2026-11-27T11:30:26.975Z",
       "sensible": false,
       "etiquetas": [],
@@ -1595,5 +1616,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-27T15:46:36.276Z"
+  "actualizado": "2026-11-27T16:52:17.866Z"
 }

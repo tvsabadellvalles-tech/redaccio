@@ -10,7 +10,7 @@
     },
     "diari-sabadell": {
       "ok": true,
-      "items": 8
+      "items": 7
     },
     "diari-terrassa": {
       "ok": true,
@@ -50,7 +50,7 @@
     },
     "ayto-montcada": {
       "ok": true,
-      "items": 2
+      "items": 3
     },
     "avisos-montcada": {
       "ok": true,
@@ -81,6 +81,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-27T15:46:17.624Z",
-  "actualizado": "2026-11-27T15:46:36.277Z"
+  "consultat": "2026-11-27T16:52:01.316Z",
+  "actualizado": "2026-11-27T16:52:17.868Z"
 }
