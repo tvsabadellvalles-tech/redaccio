@@ -1,48 +1,6 @@
 {
   "eventos": [
     {
-      "id": "ca0501d55625bd91",
-      "t": "2026-11-24T12:44:04.929Z",
-      "agente": "deduplicador",
-      "texto": "Descartada perquè és duplicada: coincideix amb «Quadri Liameed renova amb el Centre d'Esports Sabadell fins al 2029» (Ràdio Sabadell).",
-      "itemId": "ffdef996546c6dbd"
-    },
-    {
-      "id": "0fb3a91d3ea9a2bf",
-      "t": "2026-11-24T12:44:04.930Z",
-      "agente": "rastreador",
-      "texto": "He recollit «‘El ple crític’. Qüestions socials i electorals» (iSabadell).",
-      "itemId": "986e26af65bb8098"
-    },
-    {
-      "id": "34f0bc7129bd844f",
-      "t": "2026-11-24T12:44:04.931Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local.",
-      "itemId": "986e26af65bb8098"
-    },
-    {
-      "id": "acc4fe8054624bc3",
-      "t": "2026-11-24T12:44:04.932Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Cerdanyola donarà la benvinguda al Nadal amb l’encesa de llums aquest divendres» (Ajuntament de Cerdanyola del Vallès).",
-      "itemId": "1596dc48b856f5a0"
-    },
-    {
-      "id": "b5bdb11c68e6ffac",
-      "t": "2026-11-24T12:44:04.933Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local.",
-      "itemId": "1596dc48b856f5a0"
-    },
-    {
-      "id": "eb580ece94657bf4",
-      "t": "2026-11-24T12:44:04.934Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "1596dc48b856f5a0"
-    },
-    {
       "id": "2a19bbb441f1afde",
       "t": "2026-11-24T12:44:04.935Z",
       "agente": "mesa",
@@ -2799,7 +2757,49 @@
       "agente": "rastreador",
       "texto": "He recollit «Veni, Vidi, Vici amb Julià Guillamon i Cristòfol Jordà» (Ràdio Sabadell).",
       "itemId": "e4150257a0397c6f"
+    },
+    {
+      "id": "926adca0f6e94a76",
+      "t": "2026-11-27T14:48:09.261Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Resum del ple ordinari del 26 de novembre de 2026» (Ajuntament de Cerdanyola del Vallès).",
+      "itemId": "2dc1a0e9aac84841"
+    },
+    {
+      "id": "fde8da7db9d59828",
+      "t": "2026-11-27T14:48:09.262Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Emergències, Mobilitat, Política local, Obres i urbanisme, Economia i ocupació, Educació, Medi ambient, Esports, Cultura i festes.",
+      "itemId": "2dc1a0e9aac84841"
+    },
+    {
+      "id": "0774deac62411a06",
+      "t": "2026-11-27T14:48:09.263Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (5 punts): font oficial · emergències, mobilitat, política local, obres i urbanisme, economia i ocupació, educació, medi ambient.",
+      "itemId": "2dc1a0e9aac84841"
+    },
+    {
+      "id": "2e5a4589d62ca0eb",
+      "t": "2026-11-27T14:48:09.264Z",
+      "agente": "rastreador",
+      "texto": "He recollit «29N: 20.466 electors a Castellar» (L'Actual - Castellar del Vallès).",
+      "itemId": "969ef0e5412058bf"
+    },
+    {
+      "id": "3a1adf2481ee158c",
+      "t": "2026-11-27T14:48:09.265Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La nova Oficina d'Entitats i Voluntariat començarà a operar a mitjans de desembre» (Ràdio Sabadell).",
+      "itemId": "526d9e06406363ae"
+    },
+    {
+      "id": "a328347f46c24813",
+      "t": "2026-11-27T14:48:09.266Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Obres i urbanisme, Educació.",
+      "itemId": "526d9e06406363ae"
     }
   ],
-  "actualizado": "2026-11-27T13:55:32.073Z"
+  "actualizado": "2026-11-27T14:48:27.765Z"
 }

@@ -104,6 +104,53 @@
   },
   "items": [
     {
+      "id": "526d9e06406363ae",
+      "titulo": "La nova Oficina d'Entitats i Voluntariat començarà a operar a mitjans de desembre",
+      "enlace": "https://radiosabadell.fm/actualitat/urbanisme/nova-oficina-entitats-voluntariat-desembre",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-27T14:11:23.000Z",
+      "detectado": "2026-11-27T14:48:09.261Z",
+      "sensible": false,
+      "etiquetas": [
+        "urbanismo",
+        "educacion"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "obres i urbanisme, educació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "969ef0e5412058bf",
+      "titulo": "29N: 20.466 electors a Castellar",
+      "enlace": "https://www.lactual.cat/actualitat/29n-20466-electors-castellar_55470_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [
+        "castellar"
+      ],
+      "publicado": "2026-11-27T14:02:01.000Z",
+      "detectado": "2026-11-27T14:48:09.261Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "e4150257a0397c6f",
       "titulo": "Veni, Vidi, Vici amb Julià Guillamon i Cristòfol Jordà",
       "enlace": "https://radiosabadell.fm/alacarta/audio/veni-vidi-vici-amb-julia-guillamon-i-cristofol-jorda",
@@ -1211,6 +1258,40 @@
       "propuesta": false
     },
     {
+      "id": "2dc1a0e9aac84841",
+      "titulo": "Resum del ple ordinari del 26 de novembre de 2026",
+      "enlace": "http://www.cerdanyola.cat/actualitat/resum-del-ple-ordinari-del-26-de-novembre-de-2026",
+      "fuente": "ayto-cerdanyola",
+      "fuenteNombre": "Ajuntament de Cerdanyola del Vallès",
+      "tipo": "oficial",
+      "resumen": "Resum del ple ordinari del 26 de novembre de 2026 La sessió ordinària de novembre del Ple Municipal de Cerdanyola del Vallès es va celebrar ahir, 26 de novembre, a les 19:30 h. La sessió plenària es pot visionar al canal de Youtube de…",
+      "municipio": "cerdanyola",
+      "municipiosMencionados": [
+        "cerdanyola"
+      ],
+      "publicado": "2026-11-27T07:24:09.000Z",
+      "detectado": "2026-11-27T14:48:09.261Z",
+      "sensible": false,
+      "etiquetas": [
+        "emergencias",
+        "movilidad",
+        "politica",
+        "urbanismo",
+        "economia",
+        "educacion",
+        "medioambiente",
+        "deportes",
+        "cultura"
+      ],
+      "puntuacion": 5,
+      "motivos": [
+        "font oficial",
+        "emergències, mobilitat, política local, obres i urbanisme, economia i ocupació, educació, medi ambient"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
       "id": "06921f68a3f4519f",
       "titulo": "Les fonts ornamentals del Passeig es reactivaran amb un nou espectacle de música i llums",
       "enlace": "https://radiosabadell.fm/actualitat/societat/les-fonts-ornamentals-del-passeig-es-reactivaran-amb-un-nou-espectacle-de",
@@ -1434,5 +1515,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-27T13:55:32.070Z"
+  "actualizado": "2026-11-27T14:48:27.762Z"
 }
