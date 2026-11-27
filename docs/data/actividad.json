@@ -1,90 +1,6 @@
 {
   "eventos": [
     {
-      "id": "18575ea21e72de9e",
-      "t": "2026-11-24T08:24:44.361Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Quinto Tradicional» (Ajuntament de Barberà del Vallès).",
-      "itemId": "cccda37852dce0fe"
-    },
-    {
-      "id": "cfc8f11949bc6872",
-      "t": "2026-11-24T08:24:44.362Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Ball de Nadal de la Gent Gran» (Ajuntament de Barberà del Vallès).",
-      "itemId": "54595843b83b82d7"
-    },
-    {
-      "id": "7f7cbaefd2ecbe59",
-      "t": "2026-11-24T08:24:44.363Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Cultura i festes.",
-      "itemId": "54595843b83b82d7"
-    },
-    {
-      "id": "0a4566487404dc43",
-      "t": "2026-11-24T08:24:44.364Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Teatre - Hats (Cia.Jam)» (Ajuntament de Barberà del Vallès).",
-      "itemId": "3ea31c8d16852994"
-    },
-    {
-      "id": "dedaea9acd9c0ebb",
-      "t": "2026-11-24T08:24:44.365Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Cultura i festes.",
-      "itemId": "3ea31c8d16852994"
-    },
-    {
-      "id": "3f52c18d66916a5e",
-      "t": "2026-11-24T08:24:44.366Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Canvis en els sentits de circulació a Can Casablanques» (Ajuntament de Sant Quirze del Vallès).",
-      "itemId": "c0fc4e78f3c7e4e2"
-    },
-    {
-      "id": "d31c81eec57072cd",
-      "t": "2026-11-24T08:24:44.367Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat.",
-      "itemId": "c0fc4e78f3c7e4e2"
-    },
-    {
-      "id": "26a0d07f5db4e137",
-      "t": "2026-11-24T08:24:44.368Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · mobilitat.",
-      "itemId": "c0fc4e78f3c7e4e2"
-    },
-    {
-      "id": "6892eda3387705b1",
-      "t": "2026-11-24T08:24:44.369Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Un terç de la roba que es recull a l’Estat aterra a Sabadell» (Diari de Sabadell).",
-      "itemId": "cb823cc509c922f6"
-    },
-    {
-      "id": "673ce60fcd64aa42",
-      "t": "2026-11-24T08:24:44.370Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Interrompuda la circulació en un tram de la línia R4 de Rodalies» (Diari de Sabadell).",
-      "itemId": "adc435056dc6cea0"
-    },
-    {
-      "id": "85d9312b95c09dae",
-      "t": "2026-11-24T08:24:44.371Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat.",
-      "itemId": "adc435056dc6cea0"
-    },
-    {
-      "id": "2ae59371f0876ae1",
-      "t": "2026-11-24T08:24:44.372Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Teatre - El professor Bromera» (Ajuntament de Barberà del Vallès).",
-      "itemId": "ff6daa6cfc83d0d0"
-    },
-    {
       "id": "9d0be1d1c14d588b",
       "t": "2026-11-24T08:24:44.373Z",
       "agente": "etiquetador",
@@ -2799,7 +2715,91 @@
       "agente": "rastreador",
       "texto": "He recollit «L'Assemblea Fènix decidirà avui les activitats de 2027» (Ajuntament de Santa Perpètua de Mogoda).",
       "itemId": "e7ceb1fc2a4ec596"
+    },
+    {
+      "id": "e4d8d6928a2831d1",
+      "t": "2026-11-27T09:35:51.336Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El Ple acorda per unanimitat la creació de la Mesa Institucional i Tècnica del Bosc d’en Vilaró per buscar solucions de consens» (Ajuntament de Montcada i Reixac).",
+      "itemId": "050bcf7274d7827f"
+    },
+    {
+      "id": "f5d08a67d3340db2",
+      "t": "2026-11-27T09:35:51.337Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local.",
+      "itemId": "050bcf7274d7827f"
+    },
+    {
+      "id": "0381407774891272",
+      "t": "2026-11-27T09:35:51.338Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · política local.",
+      "itemId": "050bcf7274d7827f"
+    },
+    {
+      "id": "a094d191f75b64b5",
+      "t": "2026-11-27T09:35:51.339Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Quina forma té el sistema solar?» (Ràdio Sabadell).",
+      "itemId": "6b86b7a9ee6712cf"
+    },
+    {
+      "id": "25a119106205d14c",
+      "t": "2026-11-27T09:35:51.340Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Rufián defensa no tenir \"cap complex\" i sentir \"honor\" de representar els socialistes catalanistes \"decebuts\"» (Diari de Sabadell).",
+      "itemId": "d9713b493fe6503c"
+    },
+    {
+      "id": "6616215217f14667",
+      "t": "2026-11-27T09:35:51.341Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut.",
+      "itemId": "d9713b493fe6503c"
+    },
+    {
+      "id": "f3b166d3a85b1029",
+      "t": "2026-11-27T09:35:51.342Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Un grup de treball per coordinar la desescalada de la pesta porcina africana» (Diari de Sabadell).",
+      "itemId": "678a0b9c04006361"
+    },
+    {
+      "id": "1ab45c03dcdd9f6a",
+      "t": "2026-11-27T09:35:51.343Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local.",
+      "itemId": "678a0b9c04006361"
+    },
+    {
+      "id": "61ebec0c097bb1e5",
+      "t": "2026-11-27T09:35:51.344Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Sant Quirze disposarà de 3,1 milions d’euros per inversions financerament sostenibles» (Ajuntament de Sant Quirze del Vallès).",
+      "itemId": "d18e5c303d03da26"
+    },
+    {
+      "id": "6bec0df98dfced60",
+      "t": "2026-11-27T09:35:51.345Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local.",
+      "itemId": "d18e5c303d03da26"
+    },
+    {
+      "id": "e374ac871ebd5ac1",
+      "t": "2026-11-27T09:35:51.346Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · política local.",
+      "itemId": "d18e5c303d03da26"
+    },
+    {
+      "id": "5e54bdb7cbddb342",
+      "t": "2026-11-27T09:35:51.347Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Eleccions generals 29-N: Paco Aranda, número 5 del PSC pel 29N» (Ràdio Sabadell).",
+      "itemId": "6730cce932ab80b3"
     }
   ],
-  "actualizado": "2026-11-27T08:19:15.865Z"
+  "actualizado": "2026-11-27T09:36:12.889Z"
 }

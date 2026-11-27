@@ -104,6 +104,118 @@
   },
   "items": [
     {
+      "id": "6730cce932ab80b3",
+      "titulo": "Eleccions generals 29-N: Paco Aranda, número 5 del PSC pel 29N",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-mati-paco-aranda-psc-271126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-27T09:27:15.000Z",
+      "detectado": "2026-11-27T09:35:51.336Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "d18e5c303d03da26",
+      "titulo": "Sant Quirze disposarà de 3,1 milions d’euros per inversions financerament sostenibles",
+      "enlace": "https://www.santquirzevalles.cat/actualitat/noticies/sant-quirze-disposara-de-3-1-milions-d2019euros-per-inversions-financerament-sostenibles",
+      "fuente": "ayto-sant-quirze",
+      "fuenteNombre": "Ajuntament de Sant Quirze del Vallès",
+      "tipo": "oficial",
+      "resumen": "El Ple aprova la millora de ferms i voreres, amb més de 1,5 milions d’euros, i la millora paisatgística del parc de les Morisques",
+      "municipio": "sant-quirze",
+      "municipiosMencionados": [
+        "sant-quirze"
+      ],
+      "publicado": "2026-11-27T09:04:19.000Z",
+      "detectado": "2026-11-27T09:35:51.336Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "font oficial",
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "678a0b9c04006361",
+      "titulo": "Un grup de treball per coordinar la desescalada de la pesta porcina africana",
+      "enlace": "https://www.diaridesabadell.com/valles/ppa-pesta-porcina-desescalada-reobertura.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-27T08:31:56.000Z",
+      "detectado": "2026-11-27T09:35:51.336Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "d9713b493fe6503c",
+      "titulo": "Rufián defensa no tenir \"cap complex\" i sentir \"honor\" de representar els socialistes catalanistes \"decebuts\"",
+      "enlace": "https://www.diaridesabadell.com/valles/rufian-rubi-acte-campanya.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "rubi"
+      ],
+      "publicado": "2026-11-27T08:26:07.000Z",
+      "detectado": "2026-11-27T09:35:51.336Z",
+      "sensible": false,
+      "etiquetas": [
+        "salud"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "6b86b7a9ee6712cf",
+      "titulo": "Quina forma té el sistema solar?",
+      "enlace": "https://radiosabadell.fm/podcast/fils-ciutat-univers-infinit-sistema-solar-271126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-27T08:15:02.000Z",
+      "detectado": "2026-11-27T09:35:51.336Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "e7ceb1fc2a4ec596",
       "titulo": "L'Assemblea Fènix decidirà avui les activitats de 2027",
       "enlace": "https://www.staperpetua.cat/actualitat/noticies/lassemblea-fenix-decidira-avui-les-activitats-de-2027.html",
@@ -232,7 +344,31 @@
       ],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "050bcf7274d7827f",
+      "titulo": "El Ple acorda per unanimitat la creació de la Mesa Institucional i Tècnica del Bosc d’en Vilaró per buscar solucions de consens",
+      "enlace": "https://www.montcada.cat/actualitat/noticies/el-ple-acorda-per-unanimitat-la-creacio-de-la-mesa-institucional-i-tecnica-del-bosc-den-vilaro-per-buscar-solucions-de-consens.html",
+      "fuente": "ayto-montcada",
+      "fuenteNombre": "Ajuntament de Montcada i Reixac",
+      "tipo": "oficial",
+      "resumen": "",
+      "municipio": "montcada",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-26T23:00:00.000Z",
+      "detectado": "2026-11-27T09:35:51.336Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "font oficial",
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
     }
   ],
-  "actualizado": "2026-11-27T08:19:15.862Z"
+  "actualizado": "2026-11-27T09:36:12.886Z"
 }

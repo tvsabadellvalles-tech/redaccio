@@ -6,11 +6,11 @@
     },
     "radio-sabadell": {
       "ok": true,
-      "items": 2
+      "items": 4
     },
     "diari-sabadell": {
       "ok": true,
-      "items": 0
+      "items": 2
     },
     "diari-terrassa": {
       "ok": true,
@@ -50,7 +50,7 @@
     },
     "ayto-montcada": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "avisos-montcada": {
       "ok": true,
@@ -74,13 +74,13 @@
     },
     "ayto-sant-quirze": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "324-comarques": {
       "ok": true,
       "items": 0
     }
   },
-  "consultat": "2026-11-27T08:19:02.494Z",
-  "actualizado": "2026-11-27T08:19:15.863Z"
+  "consultat": "2026-11-27T09:35:51.336Z",
+  "actualizado": "2026-11-27T09:36:12.887Z"
 }
