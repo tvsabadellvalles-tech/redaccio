@@ -1,34 +1,6 @@
 {
   "eventos": [
     {
-      "id": "3832f8b0a47e22f7",
-      "t": "2026-11-24T14:02:55.570Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La pista de gel dels Jardinets obrirà del 27 de novembre al 10 de gener» (Diari de Sabadell).",
-      "itemId": "1a9b556ac46515a3"
-    },
-    {
-      "id": "ea297ffa089e7e39",
-      "t": "2026-11-24T14:02:55.571Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Medi ambient.",
-      "itemId": "1a9b556ac46515a3"
-    },
-    {
-      "id": "ff51f3a037961f94",
-      "t": "2026-11-24T14:02:55.572Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Les obres de la residència de CIPO a Can Gambús avancen sobre el previst» (Ràdio Sabadell).",
-      "itemId": "93365f79146c2d55"
-    },
-    {
-      "id": "b4ca80e097cbc81a",
-      "t": "2026-11-24T14:02:55.573Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local, Obres i urbanisme.",
-      "itemId": "93365f79146c2d55"
-    },
-    {
       "id": "edd3bbbe34f3659e",
       "t": "2026-11-24T14:02:55.574Z",
       "agente": "mesa",
@@ -2799,7 +2771,35 @@
       "agente": "rastreador",
       "texto": "He recollit «Empat d’ofici i competit del CE Sabadell a Butarque (0-0)» (iSabadell).",
       "itemId": "78618f23a5ffe33f"
+    },
+    {
+      "id": "93959c6c5d1ff1d2",
+      "t": "2026-11-27T22:37:18.313Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Encesos els llums de Nadal a Sabadell» (Ràdio Sabadell).",
+      "itemId": "6baf85a99d9b7ec4"
+    },
+    {
+      "id": "9c0447762ec9c8ec",
+      "t": "2026-11-27T22:37:18.314Z",
+      "agente": "deduplicador",
+      "texto": "Descartada perquè és duplicada: coincideix amb «Encesos els llums de Nadal a Sabadell» (Ràdio Sabadell).",
+      "itemId": "6baf85a99d9b7ec4"
+    },
+    {
+      "id": "ea5941dc06bea28e",
+      "t": "2026-11-27T22:37:18.315Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Leganés 0-0 Sabadell: un altre punt de competitivitat» (Ràdio Sabadell).",
+      "itemId": "13425b3583fcf489"
+    },
+    {
+      "id": "9b546fced6739d5b",
+      "t": "2026-11-27T22:37:18.316Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut, Esports.",
+      "itemId": "13425b3583fcf489"
     }
   ],
-  "actualizado": "2026-11-27T21:37:09.967Z"
+  "actualizado": "2026-11-27T22:37:37.259Z"
 }

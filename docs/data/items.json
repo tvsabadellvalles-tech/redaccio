@@ -104,6 +104,32 @@
   },
   "items": [
     {
+      "id": "13425b3583fcf489",
+      "titulo": "Leganés 0-0 Sabadell: un altre punt de competitivitat",
+      "enlace": "https://radiosabadell.fm/esports/ce-sabadell/leganes-0-0-sabadell-jornada-16-laliga-hypermotion",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-27T21:39:10.000Z",
+      "detectado": "2026-11-27T22:37:18.312Z",
+      "sensible": false,
+      "etiquetas": [
+        "salud",
+        "deportes"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "78618f23a5ffe33f",
       "titulo": "Empat d’ofici i competit del CE Sabadell a Butarque (0-0)",
       "enlace": "https://www.isabadell.cat/esports/futbol/empat-dofici-i-competit-del-ce-sabadell-a-butarque-0-0-341755/",
@@ -272,6 +298,32 @@
         "política local"
       ],
       "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "6baf85a99d9b7ec4",
+      "titulo": "Encesos els llums de Nadal a Sabadell",
+      "enlace": "https://radiosabadell.fm/actualitat/cultura/encesa-llums-sabadell-nadal-2026",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-27T17:34:01.000Z",
+      "detectado": "2026-11-27T22:37:18.312Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica",
+        "cultura"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "política local"
+      ],
+      "duplicadaDe": "a92d03ac270a5c54",
       "propuesta": false
     },
     {
@@ -1833,5 +1885,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-27T21:37:09.964Z"
+  "actualizado": "2026-11-27T22:37:37.257Z"
 }
