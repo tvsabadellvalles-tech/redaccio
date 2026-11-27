@@ -1,27 +1,6 @@
 {
   "eventos": [
     {
-      "id": "0417ce6a71e73da3",
-      "t": "2026-11-24T14:02:55.567Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Emergències, Salut, Educació, Cultura i festes.",
-      "itemId": "9552ee07144cafb6"
-    },
-    {
-      "id": "ff5801bff8a92920",
-      "t": "2026-11-24T14:02:55.568Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (5 punts): font oficial · emergències, salut, educació.",
-      "itemId": "9552ee07144cafb6"
-    },
-    {
-      "id": "e3393dfad9603a85",
-      "t": "2026-11-24T14:02:55.569Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Torna la pista de gel als Jardinets: dates i horaris» (iSabadell).",
-      "itemId": "a22b2ab8ae818c33"
-    },
-    {
       "id": "3832f8b0a47e22f7",
       "t": "2026-11-24T14:02:55.570Z",
       "agente": "rastreador",
@@ -2799,7 +2778,28 @@
       "agente": "rastreador",
       "texto": "He recollit «VÍDEO | La ciutat es torna a guarnir de Nadal: \"És un dia molt especial per als més petits!\"» (Diari de Sabadell).",
       "itemId": "a0118cbf84b78ba1"
+    },
+    {
+      "id": "1ff514aaf05a69d2",
+      "t": "2026-11-27T21:36:58.332Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La Fira de Nadal, en marxa» (L'Actual - Castellar del Vallès).",
+      "itemId": "8bbf299e82c7e17d"
+    },
+    {
+      "id": "66e60b076f66ea49",
+      "t": "2026-11-27T21:36:58.333Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "8bbf299e82c7e17d"
+    },
+    {
+      "id": "0714bd325de0aec4",
+      "t": "2026-11-27T21:36:58.334Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Empat d’ofici i competit del CE Sabadell a Butarque (0-0)» (iSabadell).",
+      "itemId": "78618f23a5ffe33f"
     }
   ],
-  "actualizado": "2026-11-27T20:38:10.445Z"
+  "actualizado": "2026-11-27T21:37:09.967Z"
 }
