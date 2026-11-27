@@ -104,6 +104,71 @@
   },
   "items": [
     {
+      "id": "e7ceb1fc2a4ec596",
+      "titulo": "L'Assemblea Fènix decidirà avui les activitats de 2027",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/lassemblea-fenix-decidira-avui-les-activitats-de-2027.html",
+      "fuente": "ayto-santa-perpetua",
+      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
+      "tipo": "oficial",
+      "resumen": "El divendres 27 de novembre a les 18 h a La Promotora tindrà lloc l’Assemblea Fènix que decidirà les activitats de 2027.",
+      "municipio": "santa-perpetua",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-27T08:00:00.000Z",
+      "detectado": "2026-11-27T08:19:02.494Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "637281e6b6109a77",
+      "titulo": "La Fira de Nadal se celebrarà el dissabte 28 de novembre a la Rambla i a la plaça de la Vila",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/la-fira-de-nadal-se-celebrara-el-dissabte-28-de-novembre-a-la-rambla-i-a-la-placa-de-la-vila.html",
+      "fuente": "ayto-santa-perpetua",
+      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
+      "tipo": "oficial",
+      "resumen": "L'activitat inclou l'encesa dels llums de Nadal que anirà precedida de dues actuacions de l'Escola Municipal de les Arts (EMA).",
+      "municipio": "santa-perpetua",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-27T07:30:00.000Z",
+      "detectado": "2026-11-27T08:19:02.494Z",
+      "sensible": false,
+      "etiquetas": [
+        "educacion",
+        "cultura"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "font oficial",
+        "educació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "06921f68a3f4519f",
+      "titulo": "Les fonts ornamentals del Passeig es reactivaran amb un nou espectacle de música i llums",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/les-fonts-ornamentals-del-passeig-es-reactivaran-amb-un-nou-espectacle-de",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-27T06:25:00.000Z",
+      "detectado": "2026-11-27T08:19:02.494Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "3f73776b51b1f3de",
       "titulo": "Jonathan López Granados: \"Amb 40 anys al club, crec que era el moment ideal de ser president\"",
       "enlace": "https://www.lactual.cat/esports/jonathan-lopez-granados-40-anys-club-crec-era-moment-ideal-ser-president_55453_102.html",
@@ -169,5 +234,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-27T06:51:12.715Z"
+  "actualizado": "2026-11-27T08:19:15.862Z"
 }

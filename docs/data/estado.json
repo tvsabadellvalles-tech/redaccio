@@ -6,7 +6,7 @@
     },
     "radio-sabadell": {
       "ok": true,
-      "items": 1
+      "items": 2
     },
     "diari-sabadell": {
       "ok": true,
@@ -42,7 +42,7 @@
     },
     "ayto-santa-perpetua": {
       "ok": true,
-      "items": 1
+      "items": 3
     },
     "avisos-santa-perpetua": {
       "ok": true,
@@ -81,6 +81,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-27T06:50:56.367Z",
-  "actualizado": "2026-11-27T06:51:12.717Z"
+  "consultat": "2026-11-27T08:19:02.494Z",
+  "actualizado": "2026-11-27T08:19:15.863Z"
 }

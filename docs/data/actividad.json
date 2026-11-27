@@ -1,20 +1,6 @@
 {
   "eventos": [
     {
-      "id": "f647f4f05d5d7488",
-      "t": "2026-11-24T08:24:44.359Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Cultura i festes.",
-      "itemId": "6e277807bded71a4"
-    },
-    {
-      "id": "45f10b588e1bed61",
-      "t": "2026-11-24T08:24:44.360Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "6e277807bded71a4"
-    },
-    {
       "id": "18575ea21e72de9e",
       "t": "2026-11-24T08:24:44.361Z",
       "agente": "rastreador",
@@ -2799,7 +2785,21 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Esports.",
       "itemId": "3f73776b51b1f3de"
+    },
+    {
+      "id": "5e270fc88aff0dd8",
+      "t": "2026-11-27T08:19:02.494Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Les fonts ornamentals del Passeig es reactivaran amb un nou espectacle de música i llums» (Ràdio Sabadell).",
+      "itemId": "06921f68a3f4519f"
+    },
+    {
+      "id": "2e6de87e705f8880",
+      "t": "2026-11-27T08:19:02.497Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L'Assemblea Fènix decidirà avui les activitats de 2027» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "e7ceb1fc2a4ec596"
     }
   ],
-  "actualizado": "2026-11-27T06:51:12.719Z"
+  "actualizado": "2026-11-27T08:19:15.865Z"
 }
