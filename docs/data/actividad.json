@@ -1,34 +1,6 @@
 {
   "eventos": [
     {
-      "id": "56b90885af70d2e2",
-      "t": "2026-11-24T12:44:04.941Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "2a97a6e442e46626"
-    },
-    {
-      "id": "313a0579b587ff1a",
-      "t": "2026-11-24T12:44:04.942Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Barberà se suma a la Setmana Europea per a la Prevenció de Residus amb accions informatives i de sensibilització» (Ajuntament de Barberà del Vallès).",
-      "itemId": "15f564b8fb8583a5"
-    },
-    {
-      "id": "35673472bbf9463a",
-      "t": "2026-11-24T12:44:04.943Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Medi ambient.",
-      "itemId": "15f564b8fb8583a5"
-    },
-    {
-      "id": "78f90104be6792bc",
-      "t": "2026-11-24T12:44:04.944Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Jutgen una professora de ball per agredir sexualment una menor» (iSabadell).",
-      "itemId": "8873e623727464e9"
-    },
-    {
       "id": "3f5183209f3d1e57",
       "t": "2026-11-24T12:44:04.945Z",
       "agente": "deduplicador",
@@ -2799,7 +2771,35 @@
       "agente": "rastreador",
       "texto": "He recollit «Aprovat un conveni amb l’AMB per a la futura gestió de la Zona de Baixes Emissions al municipi» (Ajuntament de Montcada i Reixac).",
       "itemId": "0f28aaf56d5f05ee"
+    },
+    {
+      "id": "5b90a5465338fed8",
+      "t": "2026-11-27T17:46:06.509Z",
+      "agente": "rastreador",
+      "texto": "He recollit «FOTOS | El pessebre gegant i la fira de Santa Llúcia donen la benvinguda al Nadal de Sabadell» (Diari de Sabadell).",
+      "itemId": "338b8e8e91852ce1"
+    },
+    {
+      "id": "293c4853ed985cc8",
+      "t": "2026-11-27T17:46:06.510Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "338b8e8e91852ce1"
+    },
+    {
+      "id": "e4102bc9e3b2d028",
+      "t": "2026-11-27T17:46:06.511Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Encesos els llums de Nadal a Sabadell» (Ràdio Sabadell).",
+      "itemId": "a92d03ac270a5c54"
+    },
+    {
+      "id": "55bb6cd5e56ca505",
+      "t": "2026-11-27T17:46:06.512Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local, Cultura i festes.",
+      "itemId": "a92d03ac270a5c54"
     }
   ],
-  "actualizado": "2026-11-27T16:52:17.870Z"
+  "actualizado": "2026-11-27T17:46:22.293Z"
 }
