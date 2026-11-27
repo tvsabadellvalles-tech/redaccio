@@ -104,6 +104,25 @@
   },
   "items": [
     {
+      "id": "a0118cbf84b78ba1",
+      "titulo": "VÍDEO | La ciutat es torna a guarnir de Nadal: \"És un dia molt especial per als més petits!\"",
+      "enlace": "https://www.diaridesabadell.com/sabadell/nadal/triple-encesa-llums-sabadell-nadal-2026.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-27T19:44:18.000Z",
+      "detectado": "2026-11-27T20:37:57.074Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "cc6b859945935c9f",
       "titulo": "Milers de persones segueixen una espectacular encesa de l’enllumenat",
       "enlace": "https://www.isabadell.cat/nadal/milers-de-persones-segueixen-una-espectacular-encesa-de-lenllumenat-341747/",
@@ -1772,5 +1791,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-27T18:39:06.655Z"
+  "actualizado": "2026-11-27T20:38:10.441Z"
 }

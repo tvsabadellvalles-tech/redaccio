@@ -1,13 +1,6 @@
 {
   "eventos": [
     {
-      "id": "8296e1ec93e7ed53",
-      "t": "2026-11-24T14:02:55.566Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Minut de silenci per condemnar el feminicidi d'una veïna de Llívia» (Ajuntament de Barberà del Vallès).",
-      "itemId": "9552ee07144cafb6"
-    },
-    {
       "id": "0417ce6a71e73da3",
       "t": "2026-11-24T14:02:55.567Z",
       "agente": "etiquetador",
@@ -2799,7 +2792,14 @@
       "agente": "rastreador",
       "texto": "He recollit «Milers de persones segueixen una espectacular encesa de l’enllumenat» (iSabadell).",
       "itemId": "cc6b859945935c9f"
+    },
+    {
+      "id": "04a11307c3910fb2",
+      "t": "2026-11-27T20:37:57.074Z",
+      "agente": "rastreador",
+      "texto": "He recollit «VÍDEO | La ciutat es torna a guarnir de Nadal: \"És un dia molt especial per als més petits!\"» (Diari de Sabadell).",
+      "itemId": "a0118cbf84b78ba1"
     }
   ],
-  "actualizado": "2026-11-27T18:39:06.659Z"
+  "actualizado": "2026-11-27T20:38:10.445Z"
 }
