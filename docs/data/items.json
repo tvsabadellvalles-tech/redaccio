@@ -104,6 +104,27 @@
   },
   "items": [
     {
+      "id": "3f73776b51b1f3de",
+      "titulo": "Jonathan López Granados: \"Amb 40 anys al club, crec que era el moment ideal de ser president\"",
+      "enlace": "https://www.lactual.cat/esports/jonathan-lopez-granados-40-anys-club-crec-era-moment-ideal-ser-president_55453_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-27T06:21:35.000Z",
+      "detectado": "2026-11-27T06:50:56.367Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "415486bb9538b7ac",
       "titulo": "Infopòdcast Sabadell 27.11.26",
       "enlace": "https://radiosabadell.fm/alacarta/audio/infopodcast-sabadell-271126",
@@ -148,5 +169,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-26T23:20:39.843Z"
+  "actualizado": "2026-11-27T06:51:12.715Z"
 }

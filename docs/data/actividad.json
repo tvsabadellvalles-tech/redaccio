@@ -1,20 +1,6 @@
 {
   "eventos": [
     {
-      "id": "5dcff065d1ddfa44",
-      "t": "2026-11-24T08:24:44.357Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "0564a0d569e26af0"
-    },
-    {
-      "id": "08abb0ddff88c9a1",
-      "t": "2026-11-24T08:24:44.358Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Caga Tió Popular» (Ajuntament de Barberà del Vallès).",
-      "itemId": "6e277807bded71a4"
-    },
-    {
       "id": "f647f4f05d5d7488",
       "t": "2026-11-24T08:24:44.359Z",
       "agente": "etiquetador",
@@ -2799,7 +2785,21 @@
       "agente": "rastreador",
       "texto": "He recollit «Infopòdcast Sabadell 27.11.26» (Ràdio Sabadell).",
       "itemId": "415486bb9538b7ac"
+    },
+    {
+      "id": "11306befb1c0f269",
+      "t": "2026-11-27T06:50:56.367Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Jonathan López Granados: \"Amb 40 anys al club, crec que era el moment ideal de ser president\"» (L'Actual - Castellar del Vallès).",
+      "itemId": "3f73776b51b1f3de"
+    },
+    {
+      "id": "f8db717539a07bf5",
+      "t": "2026-11-27T06:50:56.368Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "3f73776b51b1f3de"
     }
   ],
-  "actualizado": "2026-11-26T23:20:39.845Z"
+  "actualizado": "2026-11-27T06:51:12.719Z"
 }
