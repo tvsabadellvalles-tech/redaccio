@@ -2,7 +2,7 @@
   "fuentes": {
     "isabadell": {
       "ok": true,
-      "items": 2
+      "items": 4
     },
     "radio-sabadell": {
       "ok": true,
@@ -42,7 +42,7 @@
     },
     "ayto-santa-perpetua": {
       "ok": true,
-      "items": 6
+      "items": 7
     },
     "avisos-santa-perpetua": {
       "ok": true,
@@ -62,7 +62,7 @@
     },
     "ayto-barbera": {
       "ok": true,
-      "items": 1
+      "items": 2
     },
     "ayto-cerdanyola": {
       "ok": true,
@@ -70,7 +70,7 @@
     },
     "ayto-badia": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "ayto-sant-quirze": {
       "ok": true,
@@ -81,6 +81,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-27T12:33:29.481Z",
-  "actualizado": "2026-11-27T12:33:45.850Z"
+  "consultat": "2026-11-27T13:55:16.803Z",
+  "actualizado": "2026-11-27T13:55:32.072Z"
 }

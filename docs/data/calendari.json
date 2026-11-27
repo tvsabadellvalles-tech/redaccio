@@ -2,8 +2,8 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-27T12:33:29.481Z",
-  "total": 12,
+  "consultat": "2026-11-27T13:55:16.803Z",
+  "total": 11,
   "activitats": [
     {
       "titol": "(Paulino) CX - NEX Matí (Black Friday)",
@@ -62,13 +62,6 @@
       "color": null
     },
     {
-      "titol": "Fira Sant Llúcia",
-      "inici": "2026-11-28T10:00:00.000Z",
-      "final": "2026-11-28T11:00:00.000Z",
-      "totElDia": false,
-      "color": null
-    },
-    {
       "titol": "Festa Vi Novell",
       "inici": "2026-11-28T10:30:00.000Z",
       "final": "2026-11-28T11:30:00.000Z",
@@ -91,5 +84,5 @@
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-27T12:34:04.758Z"
+  "actualizado": "2026-11-27T13:55:50.751Z"
 }

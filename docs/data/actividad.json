@@ -1,118 +1,6 @@
 {
   "eventos": [
     {
-      "id": "0ba685489d1a6783",
-      "t": "2026-11-24T11:37:53.398Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Quadri Liameed renova amb el Centre d'Esports Sabadell fins al 2029» (Ràdio Sabadell).",
-      "itemId": "f9ce691190456ada"
-    },
-    {
-      "id": "7838ee08e8e32a22",
-      "t": "2026-11-24T11:37:53.399Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Esports.",
-      "itemId": "f9ce691190456ada"
-    },
-    {
-      "id": "dafc9b88c5b74c38",
-      "t": "2026-11-24T12:44:04.915Z",
-      "agente": "rastreador",
-      "texto": "He recollit «L’HC Sentmenat presenta els seus equips en una jornada de club, esport i convivència» (Ajuntament de Sentmenat).",
-      "itemId": "a27f0a29dce14976"
-    },
-    {
-      "id": "26eabcab12d44f40",
-      "t": "2026-11-24T12:44:04.916Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Esports.",
-      "itemId": "a27f0a29dce14976"
-    },
-    {
-      "id": "521e54172c442702",
-      "t": "2026-11-24T12:44:04.917Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Els Mossos de Ripollet alerten a la gent gran dels riscos de robatoris i estafes durant el cobrament de la paga doble de Nadal» (Ajuntament de Ripollet).",
-      "itemId": "16358688fe63031e"
-    },
-    {
-      "id": "d8b6b6c9b23c419d",
-      "t": "2026-11-24T12:44:04.918Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Successos.",
-      "itemId": "16358688fe63031e"
-    },
-    {
-      "id": "31a581688233c8aa",
-      "t": "2026-11-24T12:44:04.919Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · successos.",
-      "itemId": "16358688fe63031e"
-    },
-    {
-      "id": "359115e9379ce95a",
-      "t": "2026-11-24T12:44:04.920Z",
-      "agente": "rastreador",
-      "texto": "He recollit «35 persones de 22 entitats participen en la 10a Jornada Associativa» (Ajuntament de Barberà del Vallès).",
-      "itemId": "70e51b2f30b7b149"
-    },
-    {
-      "id": "06cb67ef4ed9011d",
-      "t": "2026-11-24T12:44:04.921Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Local Friday 2026: Torna la campanya de Botigues al Carrer!» (Ajuntament de Barberà del Vallès).",
-      "itemId": "c54d0c42badff801"
-    },
-    {
-      "id": "1f9042e90e22e709",
-      "t": "2026-11-24T12:44:04.922Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat, Economia i ocupació, Cultura i festes.",
-      "itemId": "c54d0c42badff801"
-    },
-    {
-      "id": "a08abcad8123efc8",
-      "t": "2026-11-24T12:44:04.923Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): font oficial · mobilitat, economia i ocupació.",
-      "itemId": "c54d0c42badff801"
-    },
-    {
-      "id": "829bb91be2b4e5a7",
-      "t": "2026-11-24T12:44:04.924Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El Parc Taulí crea la Unitat de Pediatria Social» (Ràdio Sabadell).",
-      "itemId": "1fc1aa67989c7a88"
-    },
-    {
-      "id": "0d75b1887cce476d",
-      "t": "2026-11-24T12:44:04.925Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Salut.",
-      "itemId": "1fc1aa67989c7a88"
-    },
-    {
-      "id": "3cf01cbe467878aa",
-      "t": "2026-11-24T12:44:04.926Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "1fc1aa67989c7a88"
-    },
-    {
-      "id": "7aeb5197378b68fa",
-      "t": "2026-11-24T12:44:04.927Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Presentada la campanya ‘A Ripollet, Nadal... a sac!’» (Ajuntament de Ripollet).",
-      "itemId": "1aaaf5737cbf5daf"
-    },
-    {
-      "id": "bffadb149bc72ac7",
-      "t": "2026-11-24T12:44:04.928Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Quadri Liameed renova fins al 2029» (iSabadell).",
-      "itemId": "ffdef996546c6dbd"
-    },
-    {
       "id": "ca0501d55625bd91",
       "t": "2026-11-24T12:44:04.929Z",
       "agente": "deduplicador",
@@ -2799,7 +2687,119 @@
       "agente": "mesa",
       "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · salut, educació.",
       "itemId": "bf5632b323801f84"
+    },
+    {
+      "id": "008be6e9883cc56e",
+      "t": "2026-11-27T13:55:16.803Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Santa Perpètua participa a la jornada Sumem Capacitats que aborda com acompanyar els infants autistes» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "228563f31642ae39"
+    },
+    {
+      "id": "73a14f9efc6f3012",
+      "t": "2026-11-27T13:55:16.804Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "228563f31642ae39"
+    },
+    {
+      "id": "bcc020f99dd4321c",
+      "t": "2026-11-27T13:55:16.805Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Col�legis electorals a Badia per a les Eleccions Generals de diumenge» (Ajuntament de Badia del Vallès).",
+      "itemId": "cccc669eba574da6"
+    },
+    {
+      "id": "b673b48d31055ed2",
+      "t": "2026-11-27T13:55:16.806Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Garcia-Planas: “El periodisme s’ha convertit en una fotocopiadora”» (iSabadell).",
+      "itemId": "725f88b2bbadaab7"
+    },
+    {
+      "id": "f5e87f18e6ff4173",
+      "t": "2026-11-27T13:55:16.807Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "725f88b2bbadaab7"
+    },
+    {
+      "id": "04fbcfc24abc0d44",
+      "t": "2026-11-27T13:55:16.808Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Sabadell enceta la temporada de quinto: calendari i horaris» (iSabadell).",
+      "itemId": "e06b85aec28faa23"
+    },
+    {
+      "id": "90d0c9b7ed4fe141",
+      "t": "2026-11-27T13:55:16.809Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El Maloa celebra el segon aniversari amb un vespreig» (Ràdio Sabadell).",
+      "itemId": "bf2a929f7f0f8d82"
+    },
+    {
+      "id": "5a6837761c832c47",
+      "t": "2026-11-27T13:55:16.810Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut, Esports, Cultura i festes.",
+      "itemId": "bf2a929f7f0f8d82"
+    },
+    {
+      "id": "757659094a926c8d",
+      "t": "2026-11-27T13:55:16.811Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Jose Luis Castet, Maloa: \"Estem consolidats\"» (Ràdio Sabadell).",
+      "itemId": "bce209405642eb94"
+    },
+    {
+      "id": "2329e4d218096d49",
+      "t": "2026-11-27T13:55:16.812Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Plàcid Garcia-Planas, periodista: 'Tenim moltes dades, però poca informació''» (Ràdio Sabadell).",
+      "itemId": "1b5ec122cc1b4044"
+    },
+    {
+      "id": "b163230808375cb4",
+      "t": "2026-11-27T13:55:16.813Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Barberà comença a teixir Nadal!» (Ajuntament de Barberà del Vallès).",
+      "itemId": "175bbba8b53fba71"
+    },
+    {
+      "id": "988357365568488b",
+      "t": "2026-11-27T13:55:16.814Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local, Economia i ocupació, Salut, Medi ambient, Cultura i festes.",
+      "itemId": "175bbba8b53fba71"
+    },
+    {
+      "id": "5a9c454401b75b5a",
+      "t": "2026-11-27T13:55:16.815Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (5 punts): font oficial · política local, economia i ocupació, salut, medi ambient.",
+      "itemId": "175bbba8b53fba71"
+    },
+    {
+      "id": "917d8e5b87c9678a",
+      "t": "2026-11-27T13:55:16.816Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L'última hora del Leganés-Sabadell d'aquest vespre (20:30h)» (Ràdio Sabadell).",
+      "itemId": "a15f7e889d7a7793"
+    },
+    {
+      "id": "471b2f8b40c615df",
+      "t": "2026-11-27T13:55:16.817Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Sabadell estrena el Nadal amb l'encesa de llums» (Ràdio Sabadell).",
+      "itemId": "1456646693d279ff"
+    },
+    {
+      "id": "46cef0d5376700a7",
+      "t": "2026-11-27T13:55:16.818Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Veni, Vidi, Vici amb Julià Guillamon i Cristòfol Jordà» (Ràdio Sabadell).",
+      "itemId": "e4150257a0397c6f"
     }
   ],
-  "actualizado": "2026-11-27T12:33:45.853Z"
+  "actualizado": "2026-11-27T13:55:32.073Z"
 }

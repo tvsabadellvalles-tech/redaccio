@@ -104,6 +104,164 @@
   },
   "items": [
     {
+      "id": "e4150257a0397c6f",
+      "titulo": "Veni, Vidi, Vici amb Julià Guillamon i Cristòfol Jordà",
+      "enlace": "https://radiosabadell.fm/alacarta/audio/veni-vidi-vici-amb-julia-guillamon-i-cristofol-jorda",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-27T13:48:01.000Z",
+      "detectado": "2026-11-27T13:55:16.803Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "1456646693d279ff",
+      "titulo": "Sabadell estrena el Nadal amb l'encesa de llums",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-migdia-271126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-27T13:37:43.000Z",
+      "detectado": "2026-11-27T13:55:16.803Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "a15f7e889d7a7793",
+      "titulo": "L'última hora del Leganés-Sabadell d'aquest vespre (20:30h)",
+      "enlace": "https://radiosabadell.fm/podcast/hotel-suis-271126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-27T13:32:19.000Z",
+      "detectado": "2026-11-27T13:55:16.803Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "175bbba8b53fba71",
+      "titulo": "Barberà comença a teixir Nadal!",
+      "enlace": "https://www.bdv.cat/noticies/barbera-comenca-teixir-nadal",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "‘Teixim Nadal a Barberà' és el lema d'enguany, que engloba prop d'una cinquantena d’activitats fins al gener de 2027. Barberà del Vallès va donar el tret de sortida a un Nadal ple de màgia, cultura i activitats per a tots els públics el…",
+      "municipio": "barbera",
+      "municipiosMencionados": [
+        "sabadell",
+        "sentmenat",
+        "barbera"
+      ],
+      "publicado": "2026-11-27T13:08:00.000Z",
+      "detectado": "2026-11-27T13:55:16.803Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica",
+        "economia",
+        "salud",
+        "medioambiente",
+        "cultura"
+      ],
+      "puntuacion": 5,
+      "motivos": [
+        "font oficial",
+        "política local, economia i ocupació, salut, medi ambient"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "1b5ec122cc1b4044",
+      "titulo": "Plàcid Garcia-Planas, periodista: 'Tenim moltes dades, però poca informació''",
+      "enlace": "https://radiosabadell.fm/alacarta/audio/placid-garcia-planas-periodista-tenim-moltes-dades-pero-poca-informacio",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-27T12:54:23.000Z",
+      "detectado": "2026-11-27T13:55:16.803Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "bce209405642eb94",
+      "titulo": "Jose Luis Castet, Maloa: \"Estem consolidats\"",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-mati-maloa-2-anys-271126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-27T12:41:15.000Z",
+      "detectado": "2026-11-27T13:55:16.803Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "bf2a929f7f0f8d82",
+      "titulo": "El Maloa celebra el segon aniversari amb un vespreig",
+      "enlace": "https://radiosabadell.fm/actualitat/cultura/maloa-segon-aniversari-271126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-27T12:39:18.000Z",
+      "detectado": "2026-11-27T13:55:16.803Z",
+      "sensible": false,
+      "etiquetas": [
+        "salud",
+        "deportes",
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "bf5632b323801f84",
       "titulo": "Canvis a les pròximes activitats del 25N del mes de desembre",
       "enlace": "https://www.bdv.cat/noticies/canvis-les-proximes-activitats-del-25n-del-mes-de-desembre",
@@ -870,6 +1028,27 @@
       "propuesta": true
     },
     {
+      "id": "e06b85aec28faa23",
+      "titulo": "Sabadell enceta la temporada de quinto: calendari i horaris",
+      "enlace": "https://www.isabadell.cat/nadal/quinto-sabadell-nadal-2026-341734/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-27T09:00:00.000Z",
+      "detectado": "2026-11-27T13:55:16.803Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "678a0b9c04006361",
       "titulo": "Un grup de treball per coordinar la desescalada de la pesta porcina africana",
       "enlace": "https://www.diaridesabadell.com/valles/ppa-pesta-porcina-desescalada-reobertura.html",
@@ -980,6 +1159,29 @@
       "motivos": [
         "font oficial"
       ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "725f88b2bbadaab7",
+      "titulo": "Garcia-Planas: “El periodisme s’ha convertit en una fotocopiadora”",
+      "enlace": "https://www.isabadell.cat/societat/garcia-planas-tenacitat-341697/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-27T08:00:00.000Z",
+      "detectado": "2026-11-27T13:55:16.803Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
       "duplicadaDe": null,
       "propuesta": false
     },
@@ -1186,7 +1388,51 @@
       ],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "228563f31642ae39",
+      "titulo": "Santa Perpètua participa a la jornada Sumem Capacitats que aborda com acompanyar els infants autistes",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/santa-perpetua-participa-a-la-jornada-sumem-capacitats-que-aborda-com-acompanyar-els-infants-autistes.html",
+      "fuente": "ayto-santa-perpetua",
+      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
+      "tipo": "oficial",
+      "resumen": "L’Ajuntament de Santa Perpètua va participar en la Jornada Comarcal Al Vallès Occidental, sumem capacitats!",
+      "municipio": "santa-perpetua",
+      "municipiosMencionados": [
+        "santa-perpetua"
+      ],
+      "publicado": "2026-11-26T23:00:00.000Z",
+      "detectado": "2026-11-27T13:55:16.803Z",
+      "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "cccc669eba574da6",
+      "titulo": "Col�legis electorals a Badia per a les Eleccions Generals de diumenge",
+      "enlace": "http://www.badiadelvalles.cat/document.php?id=12342",
+      "fuente": "ayto-badia",
+      "fuenteNombre": "Ajuntament de Badia del Vallès",
+      "tipo": "oficial",
+      "resumen": "",
+      "municipio": "badia",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-26T23:00:00.000Z",
+      "detectado": "2026-11-27T13:55:16.803Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
     }
   ],
-  "actualizado": "2026-11-27T12:33:45.847Z"
+  "actualizado": "2026-11-27T13:55:32.070Z"
 }
