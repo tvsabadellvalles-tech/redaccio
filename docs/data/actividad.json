@@ -1,230 +1,6 @@
 {
   "eventos": [
     {
-      "id": "92dd34435c8aa2ab",
-      "t": "2026-11-24T10:39:00.045Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Rebutgen la proposta de construir un nou equipament esportiu a la Creu Alta» (Diari de Sabadell).",
-      "itemId": "26b3ba79aaac6da8"
-    },
-    {
-      "id": "47f3a66c35b8321d",
-      "t": "2026-11-24T10:39:00.046Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local, Esports.",
-      "itemId": "26b3ba79aaac6da8"
-    },
-    {
-      "id": "4f4c212f990793f9",
-      "t": "2026-11-24T10:39:00.047Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Quinto de Nadal» (Ajuntament de Barberà del Vallès).",
-      "itemId": "c1cfb87603c91281"
-    },
-    {
-      "id": "7e9c4733aa9d581a",
-      "t": "2026-11-24T10:39:00.048Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El Canya Jove celebra 30 anys d'acompanyament als adolescents i joves de Sant Quirze» (Ajuntament de Sant Quirze del Vallès).",
-      "itemId": "7edcc82bf71edc90"
-    },
-    {
-      "id": "5eccc62c0ca8d8a0",
-      "t": "2026-11-24T10:39:00.049Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "7edcc82bf71edc90"
-    },
-    {
-      "id": "c01e18e4802d91e9",
-      "t": "2026-11-24T10:39:00.050Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La Caserna o les inversions a la Nova Creu Alta centren el Debat de Política Municipal» (Ràdio Sabadell).",
-      "itemId": "2b51f77e4b41e328"
-    },
-    {
-      "id": "90153cdb1d69bae8",
-      "t": "2026-11-24T10:39:00.051Z",
-      "agente": "rastreador",
-      "texto": "He recollit «1r Trofeu Nadal Penya Barça Futsal» (Ajuntament de Barberà del Vallès).",
-      "itemId": "da1ffc3c5ef4db78"
-    },
-    {
-      "id": "2fad8b6446706a50",
-      "t": "2026-11-24T10:39:00.052Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Esports.",
-      "itemId": "da1ffc3c5ef4db78"
-    },
-    {
-      "id": "5b31e876d240bf8e",
-      "t": "2026-11-24T10:39:00.053Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Parc de Nadal Infantil» (Ajuntament de Barberà del Vallès).",
-      "itemId": "24eb6d6cb492bbeb"
-    },
-    {
-      "id": "605fb0c98d7443cf",
-      "t": "2026-11-24T10:39:00.054Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "24eb6d6cb492bbeb"
-    },
-    {
-      "id": "d098c1c1c2352f75",
-      "t": "2026-11-24T11:37:53.376Z",
-      "agente": "rastreador",
-      "texto": "He recollit «L'EMA ofereix activitats de cant i creativitat per a les persones majors de 60 anys» (Ajuntament de Santa Perpètua de Mogoda).",
-      "itemId": "5a185f972a1dfc85"
-    },
-    {
-      "id": "d0a2c94db54bb8e1",
-      "t": "2026-11-24T11:37:53.377Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Educació.",
-      "itemId": "5a185f972a1dfc85"
-    },
-    {
-      "id": "07c7e7e6fdfcb87e",
-      "t": "2026-11-24T11:37:53.378Z",
-      "agente": "rastreador",
-      "texto": "He recollit «28 i 29 de novembre, primer cap de setmana de Fira de Nadal!» (Ajuntament de Barberà del Vallès).",
-      "itemId": "55402c239bf7f546"
-    },
-    {
-      "id": "7e37f193ba894fe5",
-      "t": "2026-11-24T11:37:53.379Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Salut, Cultura i festes.",
-      "itemId": "55402c239bf7f546"
-    },
-    {
-      "id": "c103c1ea131473cf",
-      "t": "2026-11-24T11:37:53.380Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "55402c239bf7f546"
-    },
-    {
-      "id": "2a139afb02f81ce1",
-      "t": "2026-11-24T11:37:53.381Z",
-      "agente": "rastreador",
-      "texto": "He recollit «VÍDEO | Tot a punt per l'encesa de les fonts al passeig de la Plaça Major de Sabadell» (Diari de Sabadell).",
-      "itemId": "20c5c53638a1a26c"
-    },
-    {
-      "id": "6eff6ea5ef8752eb",
-      "t": "2026-11-24T11:37:53.382Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Medi ambient.",
-      "itemId": "20c5c53638a1a26c"
-    },
-    {
-      "id": "194ea46c05bf1161",
-      "t": "2026-11-24T11:37:53.383Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Sabadell té 84 contenidors de roba: consulta quin és el més proper al teu barri» (Diari de Sabadell).",
-      "itemId": "ce01673bae6cf480"
-    },
-    {
-      "id": "ad418eb1fc57c992",
-      "t": "2026-11-24T11:37:53.384Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La màgia del Nadal torna a il·luminar el Vallès Occidenal» (Diari de Sabadell).",
-      "itemId": "ee1a11e4327c5ca7"
-    },
-    {
-      "id": "9c8af8623f11e368",
-      "t": "2026-11-24T11:37:53.385Z",
-      "agente": "rastreador",
-      "texto": "He recollit «PP i Vox \"ocupen\" espais electorals del Front Ampli a Sabadell» (Diari de Sabadell).",
-      "itemId": "13b5d80323afade9"
-    },
-    {
-      "id": "0049903bffac64a3",
-      "t": "2026-11-24T11:37:53.386Z",
-      "agente": "rastreador",
-      "texto": "He recollit «L’Ajuntament inicia una nova fase del Pla d’Asfaltat amb actuacions de millora en set carrers de Cerdanyola» (Ajuntament de Cerdanyola del Vallès).",
-      "itemId": "7cbb8547628537a8"
-    },
-    {
-      "id": "0697befba45be445",
-      "t": "2026-11-24T11:37:53.387Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Mobilitat, Obres i urbanisme, Esports.",
-      "itemId": "7cbb8547628537a8"
-    },
-    {
-      "id": "8890e493dd94c8d4",
-      "t": "2026-11-24T11:37:53.388Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): font oficial · mobilitat, obres i urbanisme.",
-      "itemId": "7cbb8547628537a8"
-    },
-    {
-      "id": "ac4e6406e8ffb998",
-      "t": "2026-11-24T11:37:53.389Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Taller de cuina per a persones adultes: Aperitius interactiu de Cap d'Any» (Ajuntament de Barberà del Vallès).",
-      "itemId": "c024304f05d81c56"
-    },
-    {
-      "id": "dd639cdd05971ed2",
-      "t": "2026-11-24T11:37:53.390Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Salut.",
-      "itemId": "c024304f05d81c56"
-    },
-    {
-      "id": "bf9a004f87f5dda0",
-      "t": "2026-11-24T11:37:53.391Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Sant Quirze guarda un minut de silenci per condemnar un nou feminicidi a Catalunya» (Ajuntament de Sant Quirze del Vallès).",
-      "itemId": "db5c5f6886b2906a"
-    },
-    {
-      "id": "b44f97da15d9f008",
-      "t": "2026-11-24T11:37:53.392Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "db5c5f6886b2906a"
-    },
-    {
-      "id": "a65eaafb6c0ebb89",
-      "t": "2026-11-24T11:37:53.393Z",
-      "agente": "rastreador",
-      "texto": "He recollit «II Festa dels 2 Nassos» (Ajuntament de Barberà del Vallès).",
-      "itemId": "041fe1863cb20fa0"
-    },
-    {
-      "id": "5922c3b94601dd7b",
-      "t": "2026-11-24T11:37:53.394Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Cultura i festes.",
-      "itemId": "041fe1863cb20fa0"
-    },
-    {
-      "id": "b8fb15f79a65a7c1",
-      "t": "2026-11-24T11:37:53.395Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La comunitat educativa reivindica i celebra els drets dels Infants» (L'Actual - Castellar del Vallès).",
-      "itemId": "abe4822169e62043"
-    },
-    {
-      "id": "28d48bcac101dca8",
-      "t": "2026-11-24T11:37:53.396Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "abe4822169e62043"
-    },
-    {
-      "id": "5d7e03b6ee885706",
-      "t": "2026-11-24T11:37:53.397Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Tradicional cercavila de l'Home dels Nassos» (Ajuntament de Barberà del Vallès).",
-      "itemId": "7b10ef53cb424bee"
-    },
-    {
       "id": "0ba685489d1a6783",
       "t": "2026-11-24T11:37:53.398Z",
       "agente": "rastreador",
@@ -2799,7 +2575,231 @@
       "agente": "rastreador",
       "texto": "He recollit «Medalla centenària per a Juan Veraguas Pardo» (L'Actual - Castellar del Vallès).",
       "itemId": "0c992e0c2ffab9e3"
+    },
+    {
+      "id": "2f143e2eac720a02",
+      "t": "2026-11-27T12:33:29.481Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El punt informatiu de la campanya Petits gestos, grans canvis atén 130 persones» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "7f5f92297a17f87c"
+    },
+    {
+      "id": "d4a7cf8d0df27ac4",
+      "t": "2026-11-27T12:33:29.482Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Consells de Mossos per Nadal» (Ajuntament de Ripollet).",
+      "itemId": "16358688fe63031e"
+    },
+    {
+      "id": "34a23c9025d3401c",
+      "t": "2026-11-27T12:33:29.485Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Acords del Ple Municipal del 26/11/26» (Ajuntament de Ripollet).",
+      "itemId": "ff678b52939ff82d"
+    },
+    {
+      "id": "201a255a4ebb1b31",
+      "t": "2026-11-27T12:33:29.486Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local.",
+      "itemId": "ff678b52939ff82d"
+    },
+    {
+      "id": "a4c0634f059daabf",
+      "t": "2026-11-27T12:33:29.487Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · política local.",
+      "itemId": "ff678b52939ff82d"
+    },
+    {
+      "id": "3c4df00772bb0371",
+      "t": "2026-11-27T12:33:29.488Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Cerdanyola ho té tot a punt per a la jornada electoral del 29N» (Ajuntament de Cerdanyola del Vallès).",
+      "itemId": "4c6021227406f261"
+    },
+    {
+      "id": "417825d43fc4d1bb",
+      "t": "2026-11-27T12:33:29.489Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Educació, Esports.",
+      "itemId": "4c6021227406f261"
+    },
+    {
+      "id": "a18aae5efae2c297",
+      "t": "2026-11-27T12:33:29.490Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "4c6021227406f261"
+    },
+    {
+      "id": "1cb944f06c766d9a",
+      "t": "2026-11-27T12:33:29.491Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Cerdanyola presenta un Nadal ple d’espectacles, música i grans atraccions per a tota la família» (Ajuntament de Cerdanyola del Vallès).",
+      "itemId": "6698070bae409fd2"
+    },
+    {
+      "id": "e6ad803a2fa7c6fa",
+      "t": "2026-11-27T12:33:29.492Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local, Economia i ocupació, Salut, Esports, Cultura i festes.",
+      "itemId": "6698070bae409fd2"
+    },
+    {
+      "id": "bc9c0b655da229b5",
+      "t": "2026-11-27T12:33:29.493Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "6698070bae409fd2"
+    },
+    {
+      "id": "2dd9feda9a815e3a",
+      "t": "2026-11-27T12:33:29.494Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (5 punts): font oficial · política local, economia i ocupació, salut.",
+      "itemId": "6698070bae409fd2"
+    },
+    {
+      "id": "585cace436d7664e",
+      "t": "2026-11-27T12:33:29.495Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El Nadal arriba amb l'encesa de llums i l'obertura d'El Bosc Màgic» (Ajuntament de Ripollet).",
+      "itemId": "1aaaf5737cbf5daf"
+    },
+    {
+      "id": "aea5e81a2584b6a6",
+      "t": "2026-11-27T12:33:29.500Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L’Ordenança reguladora de les terrasses de restauració s’aprova definitivament» (Ajuntament de Santa Perpètua de Mogoda).",
+      "itemId": "09f54d73ce5a4783"
+    },
+    {
+      "id": "7739447f646d208a",
+      "t": "2026-11-27T12:33:29.501Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local, Cultura i festes.",
+      "itemId": "09f54d73ce5a4783"
+    },
+    {
+      "id": "78926b3ac4be222f",
+      "t": "2026-11-27T12:33:29.502Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · política local.",
+      "itemId": "09f54d73ce5a4783"
+    },
+    {
+      "id": "8f2a1e7c62fb98ec",
+      "t": "2026-11-27T12:33:29.503Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El Sabadell Pickleball Club guanya el premi a la millor escola de Pickleball d'Espanya 2026» (Ràdio Sabadell).",
+      "itemId": "eb0e62f54099a1ae"
+    },
+    {
+      "id": "8f95dfbf8168667d",
+      "t": "2026-11-27T12:33:29.504Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut, Educació, Esports.",
+      "itemId": "eb0e62f54099a1ae"
+    },
+    {
+      "id": "af0011089a7dc82c",
+      "t": "2026-11-27T12:33:29.505Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La Fira de Santa Llúcia dona el tret de sortida al Nadal a Sabadell» (Ràdio Sabadell).",
+      "itemId": "cd16ba9e5b04fb91"
+    },
+    {
+      "id": "a78dc1c7772d02f7",
+      "t": "2026-11-27T12:33:29.506Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "cd16ba9e5b04fb91"
+    },
+    {
+      "id": "e3b2d46c1f25722b",
+      "t": "2026-11-27T12:33:29.507Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Les últimes reflexions i records de Teresa Cunillé, la gran intèrpret del teatre català» (Diari de Sabadell).",
+      "itemId": "57ba29acec5edb86"
+    },
+    {
+      "id": "835e377c60615b61",
+      "t": "2026-11-27T12:33:29.508Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "57ba29acec5edb86"
+    },
+    {
+      "id": "f0e996eea28bfc99",
+      "t": "2026-11-27T12:33:29.509Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "57ba29acec5edb86"
+    },
+    {
+      "id": "8a5a96cd31f13d45",
+      "t": "2026-11-27T12:33:29.510Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Renovació de la plaça Lluís Companys» (L'Actual - Castellar del Vallès).",
+      "itemId": "7867a5878b58b8c1"
+    },
+    {
+      "id": "0e8b9b443787eed0",
+      "t": "2026-11-27T12:33:29.511Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Dolors Cases, presidenta: \"Fa 47 anys que soc a la Fira i, encara que em toqui la loteria, jo la faré sempre\"» (Ràdio Sabadell).",
+      "itemId": "fa421a051b26b449"
+    },
+    {
+      "id": "c5499a481186b440",
+      "t": "2026-11-27T12:33:29.512Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "fa421a051b26b449"
+    },
+    {
+      "id": "7387fb5d8751ead7",
+      "t": "2026-11-27T12:33:29.513Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Llaminer, teatre, música, vi… Tot a punt per a un gran cap de setmana» (iSabadell).",
+      "itemId": "5e839f80276f1bd7"
+    },
+    {
+      "id": "b44208a9da3cd25e",
+      "t": "2026-11-27T12:33:29.514Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut, Cultura i festes.",
+      "itemId": "5e839f80276f1bd7"
+    },
+    {
+      "id": "7f8c2300fa1f6627",
+      "t": "2026-11-27T12:33:29.515Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Canvis a les pròximes activitats del 25N del mes de desembre» (Ajuntament de Barberà del Vallès).",
+      "itemId": "bf5632b323801f84"
+    },
+    {
+      "id": "6493c0a1da028e8f",
+      "t": "2026-11-27T12:33:29.516Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Salut, Educació, Cultura i festes.",
+      "itemId": "bf5632b323801f84"
+    },
+    {
+      "id": "a6fe4eda741bc09d",
+      "t": "2026-11-27T12:33:29.517Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "bf5632b323801f84"
+    },
+    {
+      "id": "34eaa283d4b7bc54",
+      "t": "2026-11-27T12:33:29.518Z",
+      "agente": "mesa",
+      "texto": "Proposo incloure-ho a l'escaleta (3 punts): font oficial · salut, educació.",
+      "itemId": "bf5632b323801f84"
     }
   ],
-  "actualizado": "2026-11-27T11:30:39.577Z"
+  "actualizado": "2026-11-27T12:33:45.853Z"
 }

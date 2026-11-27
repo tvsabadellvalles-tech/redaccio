@@ -104,6 +104,100 @@
   },
   "items": [
     {
+      "id": "bf5632b323801f84",
+      "titulo": "Canvis a les pròximes activitats del 25N del mes de desembre",
+      "enlace": "https://www.bdv.cat/noticies/canvis-les-proximes-activitats-del-25n-del-mes-de-desembre",
+      "fuente": "ayto-barbera",
+      "fuenteNombre": "Ajuntament de Barberà del Vallès",
+      "tipo": "oficial",
+      "resumen": "En el mes de desembre, s'han produït diversos canvis en el programa d'activitats del 25 de novembre, Dia Internacional per a l'Eliminació de la Violència contra les Dones. Així, el pròxim dimecres 2 de desembre a les 18 h, la Biblioteca…",
+      "municipio": "barbera",
+      "municipiosMencionados": [
+        "barbera"
+      ],
+      "publicado": "2026-11-27T11:58:00.000Z",
+      "detectado": "2026-11-27T12:33:29.481Z",
+      "sensible": true,
+      "etiquetas": [
+        "salud",
+        "educacion",
+        "cultura"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "font oficial",
+        "salut, educació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "5e839f80276f1bd7",
+      "titulo": "Llaminer, teatre, música, vi… Tot a punt per a un gran cap de setmana",
+      "enlace": "https://www.isabadell.cat/oci/teatre-musica-vi-tot-a-punt-per-a-un-gran-cap-de-setmana-341694/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-27T11:40:59.000Z",
+      "detectado": "2026-11-27T12:33:29.481Z",
+      "sensible": false,
+      "etiquetas": [
+        "salud",
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "fa421a051b26b449",
+      "titulo": "Dolors Cases, presidenta: \"Fa 47 anys que soc a la Fira i, encara que em toqui la loteria, jo la faré sempre\"",
+      "enlace": "https://radiosabadell.fm/alacarta/audio/dolors-cases-presidenta-fa-47-anys-que-soc-la-fira-i-encara-que-em-toqui-la-loteria",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-27T11:38:26.000Z",
+      "detectado": "2026-11-27T12:33:29.481Z",
+      "sensible": false,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "7867a5878b58b8c1",
+      "titulo": "Renovació de la plaça Lluís Companys",
+      "enlace": "https://www.lactual.cat/actualitat/renovacio-placa-lluis-companys_55469_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-27T11:37:35.000Z",
+      "detectado": "2026-11-27T12:33:29.481Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "0c992e0c2ffab9e3",
       "titulo": "Medalla centenària per a Juan Veraguas Pardo",
       "enlace": "https://www.lactual.cat/actualitat/medalla-centenaria-juan-veraguas-pardo_55468_102.html",
@@ -117,6 +211,52 @@
       "detectado": "2026-11-27T11:30:26.975Z",
       "sensible": false,
       "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "57ba29acec5edb86",
+      "titulo": "Les últimes reflexions i records de Teresa Cunillé, la gran intèrpret del teatre català",
+      "enlace": "https://www.diaridesabadell.com/oci-cultura/teresa-cunille-actriu-sabadell-anys.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-27T11:17:52.000Z",
+      "detectado": "2026-11-27T12:33:29.481Z",
+      "sensible": true,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "cd16ba9e5b04fb91",
+      "titulo": "La Fira de Santa Llúcia dona el tret de sortida al Nadal a Sabadell",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/fira-de-santa-llucia-tret-sortida-nadal-sabadell",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-27T11:17:34.000Z",
+      "detectado": "2026-11-27T12:33:29.481Z",
+      "sensible": false,
+      "etiquetas": [
+        "cultura"
+      ],
       "puntuacion": 0,
       "motivos": [],
       "duplicadaDe": null,
@@ -139,6 +279,33 @@
       "puntuacion": 1,
       "motivos": [
         "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "eb0e62f54099a1ae",
+      "titulo": "El Sabadell Pickleball Club guanya el premi a la millor escola de Pickleball d'Espanya 2026",
+      "enlace": "https://radiosabadell.fm/esports/altres-esports/sabadell-pickleball-club-millor-escola-2026",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-27T10:58:43.000Z",
+      "detectado": "2026-11-27T12:33:29.481Z",
+      "sensible": false,
+      "etiquetas": [
+        "salud",
+        "educacion",
+        "deportes"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "salut, educació"
       ],
       "duplicadaDe": null,
       "propuesta": false
@@ -462,6 +629,31 @@
       "propuesta": false
     },
     {
+      "id": "09f54d73ce5a4783",
+      "titulo": "L’Ordenança reguladora de les terrasses de restauració s’aprova definitivament",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/lordenanca-reguladora-de-les-terrasses-de-restauracio-saprova-definitivament.html",
+      "fuente": "ayto-santa-perpetua",
+      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
+      "tipo": "oficial",
+      "resumen": "El Ple de novembre va aprovar el dilluns 6 de setembre com a festiu local de Festa Major i la pròrroga del I Pla Local de diversitat afectiva, sexual i de gènere",
+      "municipio": "santa-perpetua",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-27T09:45:00.000Z",
+      "detectado": "2026-11-27T12:33:29.481Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica",
+        "cultura"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "font oficial",
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
       "id": "b82386da5c2ede6b",
       "titulo": "Jhoanna Sierralta, directora d'opera: \"'Pagliacci' i 'Cavalleria Rusticana' expliquen històries de veritat\"",
       "enlace": "https://radiosabadell.fm/podcast/noticies-mati-foc-271126",
@@ -502,6 +694,56 @@
       "propuesta": false
     },
     {
+      "id": "1596dc48b856f5a0",
+      "titulo": "Cerdanyola donarà la benvinguda al Nadal amb l’encesa de llums aquest divendres",
+      "enlace": "http://www.cerdanyola.cat/actualitat/cerdanyola-donara-la-benvinguda-al-nadal-amb-lencesa-de-llums-aquest-divendres",
+      "fuente": "ayto-cerdanyola",
+      "fuenteNombre": "Ajuntament de Cerdanyola del Vallès",
+      "tipo": "oficial",
+      "resumen": "Cerdanyola donarà la benvinguda al Nadal amb l’encesa de llums aquest divendres Cerdanyola donarà el tret de sortida oficial a les festes de Nadal aquest divendres 27 de novembre, a partir de les 17:30 h, amb el tradicional acte d’encesa…",
+      "municipio": "cerdanyola",
+      "municipiosMencionados": [
+        "cerdanyola"
+      ],
+      "publicado": "2026-11-27T09:30:33.000Z",
+      "detectado": "2026-11-27T12:33:29.481Z",
+      "sensible": true,
+      "etiquetas": [
+        "movilidad",
+        "politica"
+      ],
+      "puntuacion": 5,
+      "motivos": [
+        "font oficial",
+        "mobilitat, política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "1aaaf5737cbf5daf",
+      "titulo": "El Nadal arriba amb l'encesa de llums i l'obertura d'El Bosc Màgic",
+      "enlace": "https://www.ripollet.cat/actualitat/noticies/presentada-la-campanya-2018a-ripollet-nadal-a-sac-2019",
+      "fuente": "ayto-ripollet",
+      "fuenteNombre": "Ajuntament de Ripollet",
+      "tipo": "oficial",
+      "resumen": "La programació de ‘A Ripollet, Nadal... a sac!’ comença aquest divendres, 27 de novembre, amb l’encesa de l’enllumenat nadalenc i del Bosc Màgic, i s’allargarà fins a mitjans de gener. La campanya manté les activitats que es van estrenar…",
+      "municipio": "ripollet",
+      "municipiosMencionados": [
+        "ripollet"
+      ],
+      "publicado": "2026-11-27T09:30:00.000Z",
+      "detectado": "2026-11-27T12:33:29.481Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "6730cce932ab80b3",
       "titulo": "Eleccions generals 29-N: Paco Aranda, número 5 del PSC pel 29N",
       "enlace": "https://radiosabadell.fm/podcast/noticies-mati-paco-aranda-psc-271126",
@@ -521,6 +763,63 @@
       "propuesta": false
     },
     {
+      "id": "6698070bae409fd2",
+      "titulo": "Cerdanyola presenta un Nadal ple d’espectacles, música i grans atraccions per a tota la família",
+      "enlace": "http://www.cerdanyola.cat/actualitat/cerdanyola-presenta-un-nadal-ple-despectacles-musica-i-grans-atraccions-tota-la-familia",
+      "fuente": "ayto-cerdanyola",
+      "fuenteNombre": "Ajuntament de Cerdanyola del Vallès",
+      "tipo": "oficial",
+      "resumen": "Cerdanyola presenta un Nadal ple d’espectacles, música i grans atraccions per a tota la família El Teatre Ateneu ha acollit aquest dimarts 17 de novembre la presentació de la Programació de Nadal 2026, una proposta que tornarà a omplir…",
+      "municipio": "cerdanyola",
+      "municipiosMencionados": [
+        "cerdanyola"
+      ],
+      "publicado": "2026-11-27T09:25:15.000Z",
+      "detectado": "2026-11-27T12:33:29.481Z",
+      "sensible": true,
+      "etiquetas": [
+        "politica",
+        "economia",
+        "salud",
+        "deportes",
+        "cultura"
+      ],
+      "puntuacion": 5,
+      "motivos": [
+        "font oficial",
+        "política local, economia i ocupació, salut"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "4c6021227406f261",
+      "titulo": "Cerdanyola ho té tot a punt per a la jornada electoral del 29N",
+      "enlace": "http://www.cerdanyola.cat/actualitat/cerdanyola-ho-te-tot-punt-la-jornada-electoral-del-29n",
+      "fuente": "ayto-cerdanyola",
+      "fuenteNombre": "Ajuntament de Cerdanyola del Vallès",
+      "tipo": "oficial",
+      "resumen": "Cerdanyola ho té tot a punt per a la jornada electoral del 29N El diumenge, 29 de novembre, se celebren les eleccions generals a les Corts Generals, en què la ciutadania està cridada a escollir els seus representants al Congrés dels…",
+      "municipio": "cerdanyola",
+      "municipiosMencionados": [
+        "cerdanyola"
+      ],
+      "publicado": "2026-11-27T09:15:57.000Z",
+      "detectado": "2026-11-27T12:33:29.481Z",
+      "sensible": true,
+      "etiquetas": [
+        "educacion",
+        "deportes"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "font oficial",
+        "educació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "d18e5c303d03da26",
       "titulo": "Sant Quirze disposarà de 3,1 milions d’euros per inversions financerament sostenibles",
       "enlace": "https://www.santquirzevalles.cat/actualitat/noticies/sant-quirze-disposara-de-3-1-milions-d2019euros-per-inversions-financerament-sostenibles",
@@ -534,6 +833,30 @@
       ],
       "publicado": "2026-11-27T09:04:00.000Z",
       "detectado": "2026-11-27T09:35:51.336Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "font oficial",
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "ff678b52939ff82d",
+      "titulo": "Acords del Ple Municipal del 26/11/26",
+      "enlace": "https://www.ripollet.cat/actualitat/noticies/el-ple-de-ripollet-de-novembre-va-aprovar-diverses-mesures-municipals-i-mocions-sobre-pensions-seguretat-ciutadana-i-el-tribut-metropolita-1",
+      "fuente": "ayto-ripollet",
+      "fuenteNombre": "Ajuntament de Ripollet",
+      "tipo": "oficial",
+      "resumen": "El Ple Municipal va aprovar el DUPROCIM, diverses ordenances; i mocions sobre pensions, el Tribut Metropolità i el 25N. També va prendre coneixement de la renúncia del regidor del PP Víctor Diéguez",
+      "municipio": "ripollet",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-27T09:00:00.000Z",
+      "detectado": "2026-11-27T12:33:29.481Z",
       "sensible": false,
       "etiquetas": [
         "politica"
@@ -568,6 +891,32 @@
       ],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "16358688fe63031e",
+      "titulo": "Consells de Mossos per Nadal",
+      "enlace": "https://www.ripollet.cat/actualitat/noticies/els-mossos-de-ripollet-alerten-la-gent-gran-dels-riscos-de-robatoris-i-estafes-durant-el-cobrament-de-la-paga-doble-de-nadal",
+      "fuente": "ayto-ripollet",
+      "fuenteNombre": "Ajuntament de Ripollet",
+      "tipo": "oficial",
+      "resumen": "Els Mossos de Ripollet alerten a la gent gran dels riscos de robatoris i estafes durant el cobrament de la paga doble de Nadal. La policia recomana extremar les precaucions a l'hora de fer operacions bancàries i evitar retirar grans…",
+      "municipio": "ripollet",
+      "municipiosMencionados": [
+        "ripollet"
+      ],
+      "publicado": "2026-11-27T08:30:00.000Z",
+      "detectado": "2026-11-27T12:33:29.481Z",
+      "sensible": false,
+      "etiquetas": [
+        "sucesos"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "font oficial",
+        "successos"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
     },
     {
       "id": "d9713b493fe6503c",
@@ -816,7 +1165,28 @@
       ],
       "duplicadaDe": null,
       "propuesta": false
+    },
+    {
+      "id": "7f5f92297a17f87c",
+      "titulo": "El punt informatiu de la campanya Petits gestos, grans canvis atén 130 persones",
+      "enlace": "https://www.staperpetua.cat/actualitat/noticies/el-punt-informatiu-de-la-campanya-petits-gestos-grans-canvis-aten-130-persones-.html",
+      "fuente": "ayto-santa-perpetua",
+      "fuenteNombre": "Ajuntament de Santa Perpètua de Mogoda",
+      "tipo": "oficial",
+      "resumen": "El Punt d’informació del programa “Petits gestos, grans canvis” que el Consell Comarcal del Vallès Occidental va instal·lar aquest dijous al mercat setmanal del passeig de la Florida va atendre 130 persones",
+      "municipio": "santa-perpetua",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-26T23:00:00.000Z",
+      "detectado": "2026-11-27T12:33:29.481Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 1,
+      "motivos": [
+        "font oficial"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
     }
   ],
-  "actualizado": "2026-11-27T11:30:39.574Z"
+  "actualizado": "2026-11-27T12:33:45.847Z"
 }
