@@ -104,6 +104,243 @@
   },
   "items": [
     {
+      "id": "d84c0d6994ae9b0c",
+      "titulo": "Comença la temporada del quinto a Sabadell: consulta dates, lloc i hores",
+      "enlace": "https://www.diaridesabadell.com/sabadell/campanya-quinto-sabadell-hora-lloc-calendari.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-27T10:25:39.000Z",
+      "detectado": "2026-11-27T10:35:27.651Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "19c0fa85033ce2f4",
+      "titulo": "Sabadell es prepara per a l'encesa de llums de Nadal amb talls de trànsit a l'Eix Macià",
+      "enlace": "https://www.diaridesabadell.com/sabadell/talltransit-eixmacia-llumsnadal-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-27T10:20:40.000Z",
+      "detectado": "2026-11-27T10:35:27.651Z",
+      "sensible": false,
+      "etiquetas": [
+        "movilidad"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "mobilitat"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "6ff41b2cd0371781",
+      "titulo": "Un Nadal segur per a la gent gran",
+      "enlace": "https://www.santquirzevalles.cat/actualitat/noticies/un-nadal-segur-per-a-la-gent-gran",
+      "fuente": "ayto-sant-quirze",
+      "fuenteNombre": "Ajuntament de Sant Quirze del Vallès",
+      "tipo": "oficial",
+      "resumen": "L’Ajuntament organitza una xerrada amb Policia i Mossos sobre seguretat quotidiana en dates nadalenques",
+      "municipio": "sant-quirze",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-27T10:17:03.000Z",
+      "detectado": "2026-11-27T10:35:27.651Z",
+      "sensible": false,
+      "etiquetas": [
+        "sucesos"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "font oficial",
+        "successos"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
+    },
+    {
+      "id": "0520800bf1a0584f",
+      "titulo": "Castellar alça la veu contra la violència envers les dones",
+      "enlace": "https://www.lactual.cat/actualitat/castellar-alca-veu-contra-violencia-envers-dones_55447_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [
+        "castellar"
+      ],
+      "publicado": "2026-11-27T10:12:37.000Z",
+      "detectado": "2026-11-27T10:35:27.651Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "0bd10ce693694097",
+      "titulo": "Castellar encén el Nadal",
+      "enlace": "https://www.lactual.cat/actualitat/castellar-encen-nadal_55463_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [
+        "castellar"
+      ],
+      "publicado": "2026-11-27T10:12:00.000Z",
+      "detectado": "2026-11-27T10:35:27.651Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "f3ebef59983f65cb",
+      "titulo": "La tecnologia a la llar: intel·ligència artificial i domòtica al dia a dia",
+      "enlace": "https://radiosabadell.fm/alacarta/audio/la-tecnologia-la-llar-intelligencia-artificial-i-domotica-al-dia-dia",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-27T10:07:05.000Z",
+      "detectado": "2026-11-27T10:35:27.651Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "d2c60371c054ae78",
+      "titulo": "Programa 596 28/11/26",
+      "enlace": "https://radiosabadell.fm/alacarta/audio/programa-596-281126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-27T10:04:18.000Z",
+      "detectado": "2026-11-27T10:35:27.651Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "212c639631cdb59e",
+      "titulo": "Mor l'actriu sabadellenca Teresa Cunillé",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/mor-lactriu-sabadellenca-teresa-cunille",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-27T09:57:23.000Z",
+      "detectado": "2026-11-27T10:35:27.651Z",
+      "sensible": true,
+      "etiquetas": [
+        "urbanismo",
+        "cultura"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "obres i urbanisme"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "5b184e7ee43ee1d4",
+      "titulo": "Tres dies de Fira de Nadal",
+      "enlace": "https://www.lactual.cat/actualitat/tres-dies-fira-nadal_55467_102.html",
+      "fuente": "ayto-castellar",
+      "fuenteNombre": "L'Actual - Castellar del Vallès",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "castellar",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-27T09:49:21.000Z",
+      "detectado": "2026-11-27T10:35:27.651Z",
+      "sensible": false,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "b82386da5c2ede6b",
+      "titulo": "Jhoanna Sierralta, directora d'opera: \"'Pagliacci' i 'Cavalleria Rusticana' expliquen històries de veritat\"",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-mati-foc-271126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-27T09:42:16.000Z",
+      "detectado": "2026-11-27T10:35:27.651Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "bf39f70954de5db4",
+      "titulo": "La tertúlia: el 29-N i la prèvia del Nadal a Sabadell",
+      "enlace": "https://radiosabadell.fm/podcast/noticies-mati-tertulia-271126",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-27T09:34:33.000Z",
+      "detectado": "2026-11-27T10:35:27.651Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "6730cce932ab80b3",
       "titulo": "Eleccions generals 29-N: Paco Aranda, número 5 del PSC pel 29N",
       "enlace": "https://radiosabadell.fm/podcast/noticies-mati-paco-aranda-psc-271126",
@@ -134,7 +371,7 @@
       "municipiosMencionados": [
         "sant-quirze"
       ],
-      "publicado": "2026-11-27T09:04:19.000Z",
+      "publicado": "2026-11-27T09:04:00.000Z",
       "detectado": "2026-11-27T09:35:51.336Z",
       "sensible": false,
       "etiquetas": [
@@ -368,7 +605,32 @@
       ],
       "duplicadaDe": null,
       "propuesta": true
+    },
+    {
+      "id": "a7c03c9ffdc8a642",
+      "titulo": "La transformació del polígon de Can Cuiàs avança amb l’aprovació inicial de la modificació del Pla General Metropolità",
+      "enlace": "https://www.montcada.cat/actualitat/noticies/la-transformacio-del-poligon-de-can-cuias-avanca-amb-laprovacio-inicial-de-la-modificacio-del-pla-general-metropolita.html",
+      "fuente": "ayto-montcada",
+      "fuenteNombre": "Ajuntament de Montcada i Reixac",
+      "tipo": "oficial",
+      "resumen": "",
+      "municipio": "montcada",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-26T23:00:00.000Z",
+      "detectado": "2026-11-27T10:35:27.651Z",
+      "sensible": false,
+      "etiquetas": [
+        "urbanismo",
+        "economia"
+      ],
+      "puntuacion": 3,
+      "motivos": [
+        "font oficial",
+        "obres i urbanisme, economia i ocupació"
+      ],
+      "duplicadaDe": null,
+      "propuesta": true
     }
   ],
-  "actualizado": "2026-11-27T09:36:12.886Z"
+  "actualizado": "2026-11-27T10:35:45.191Z"
 }
