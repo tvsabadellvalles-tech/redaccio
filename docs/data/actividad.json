@@ -1,41 +1,6 @@
 {
   "eventos": [
     {
-      "id": "da9e1a0ed5ad3519",
-      "t": "2026-11-24T16:15:36.366Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Medi ambient, Cultura i festes.",
-      "itemId": "6e0441061d571d77"
-    },
-    {
-      "id": "d01c593c3c0efba9",
-      "t": "2026-11-24T16:15:36.367Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "6e0441061d571d77"
-    },
-    {
-      "id": "474f4ccf816404f8",
-      "t": "2026-11-24T16:15:36.368Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Castellar obre el cicle nadalenc» (L'Actual - Castellar del Vallès).",
-      "itemId": "e6b73825339efcc5"
-    },
-    {
-      "id": "0256c3829b68cc10",
-      "t": "2026-11-24T17:20:41.553Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La residència de Cipo agafa forma: l'equipament podria entrar en funcionament el 2028» (Diari de Sabadell).",
-      "itemId": "6df2d42625b152e5"
-    },
-    {
-      "id": "573fe880f68ad10e",
-      "t": "2026-11-24T17:20:41.554Z",
-      "agente": "deduplicador",
-      "texto": "Descartada perquè és duplicada: coincideix amb «La futura residència de CIPO podria entrar en funcionament el 2028» (iSabadell).",
-      "itemId": "6df2d42625b152e5"
-    },
-    {
       "id": "4607e8d316ae266d",
       "t": "2026-11-24T17:20:41.555Z",
       "agente": "rastreador",
@@ -2799,7 +2764,42 @@
       "agente": "deduplicador",
       "texto": "Descartada perquè és duplicada: coincideix amb «El Llaminer estrena un nou conte: 'El Llaminer i la clau màgica'» (Ràdio Sabadell).",
       "itemId": "0eda730a9a7a42c3"
+    },
+    {
+      "id": "b04e36572dbb265d",
+      "t": "2026-11-28T13:32:06.862Z",
+      "agente": "rastreador",
+      "texto": "He recollit «La Bodega Coca dona la benvinguda al vi novell» (Ràdio Sabadell).",
+      "itemId": "61b3d6c64056a81f"
+    },
+    {
+      "id": "26c965485f7c3737",
+      "t": "2026-11-28T13:32:06.863Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "61b3d6c64056a81f"
+    },
+    {
+      "id": "fed92cde83991ef5",
+      "t": "2026-11-28T13:32:06.864Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "61b3d6c64056a81f"
+    },
+    {
+      "id": "f1c9758cb1338f9a",
+      "t": "2026-11-28T13:32:06.865Z",
+      "agente": "rastreador",
+      "texto": "He recollit «L’Astralpool CN Sabadell goleja la SIS Roma (17-7) i reforça el seu lideratge a Europa» (Diari de Sabadell).",
+      "itemId": "57e1408347fc59c1"
+    },
+    {
+      "id": "22522b283c8d6a49",
+      "t": "2026-11-28T13:32:06.866Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "57e1408347fc59c1"
     }
   ],
-  "actualizado": "2026-11-28T11:30:03.714Z"
+  "actualizado": "2026-11-28T13:32:26.918Z"
 }

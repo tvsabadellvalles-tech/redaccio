@@ -104,6 +104,52 @@
   },
   "items": [
     {
+      "id": "57e1408347fc59c1",
+      "titulo": "L’Astralpool CN Sabadell goleja la SIS Roma (17-7) i reforça el seu lideratge a Europa",
+      "enlace": "https://www.diaridesabadell.com/esports/astralpool-cn-sabadell-sis-roma-17-7-lideratge-europa.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-28T13:14:28.000Z",
+      "detectado": "2026-11-28T13:32:06.861Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "61b3d6c64056a81f",
+      "titulo": "La Bodega Coca dona la benvinguda al vi novell",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/bodega-coca--vi-novell-festa",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-28T13:05:05.000Z",
+      "detectado": "2026-11-28T13:32:06.861Z",
+      "sensible": true,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "456877bad80fe0a0",
       "titulo": "El Llaminer estrena un nou conte: 'El Llaminer i la clau màgica'",
       "enlace": "https://radiosabadell.fm/actualitat/societat/el-llaminer-estrena-un-nou-conte-el-llaminer-i-la-clau-magica",
@@ -251,5 +297,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-28T11:30:03.712Z"
+  "actualizado": "2026-11-28T13:32:26.914Z"
 }
