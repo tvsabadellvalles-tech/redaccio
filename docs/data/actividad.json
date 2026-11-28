@@ -1,20 +1,6 @@
 {
   "eventos": [
     {
-      "id": "c6591c844f617f03",
-      "t": "2026-11-24T14:02:55.576Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Successos, Cultura i festes.",
-      "itemId": "677190e9f1127660"
-    },
-    {
-      "id": "b7cdfa5f46ad8322",
-      "t": "2026-11-24T14:02:55.577Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El Sabadell lliga la continuïtat de Quadri fins al 2029» (Ràdio Sabadell).",
-      "itemId": "6278641290360bc5"
-    },
-    {
       "id": "87e53d74e46cf1e3",
       "t": "2026-11-24T14:02:55.578Z",
       "agente": "rastreador",
@@ -2799,7 +2785,21 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Política local.",
       "itemId": "23696de384bb889d"
+    },
+    {
+      "id": "dbaecf7352e40aa1",
+      "t": "2026-11-28T07:58:28.965Z",
+      "agente": "rastreador",
+      "texto": "He recollit «‘Els bancs d’aliments en la diana de la dreta i de l’extrema dreta?’» (iSabadell).",
+      "itemId": "5e427ec7f6577562"
+    },
+    {
+      "id": "84da17fe8a94748a",
+      "t": "2026-11-28T07:58:28.966Z",
+      "agente": "rastreador",
+      "texto": "He recollit «De la recerca de feina a una nova vocació: una història d’oportunitats» (iSabadell).",
+      "itemId": "5fc30cd8f3c14832"
     }
   ],
-  "actualizado": "2026-11-28T05:42:28.638Z"
+  "actualizado": "2026-11-28T07:58:45.101Z"
 }
