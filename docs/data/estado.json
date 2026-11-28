@@ -65,7 +65,8 @@
       "items": 0
     },
     "ayto-cerdanyola": {
-      "ok": true,
+      "ok": false,
+      "error": "fetch failed",
       "items": 0
     },
     "ayto-badia": {
@@ -81,6 +82,6 @@
       "items": 0
     }
   },
-  "consultat": "2026-11-28T10:37:21.128Z",
-  "actualizado": "2026-11-28T10:37:34.173Z"
+  "consultat": "2026-11-28T11:29:41.376Z",
+  "actualizado": "2026-11-28T11:30:03.713Z"
 }

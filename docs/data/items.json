@@ -125,6 +125,27 @@
       "propuesta": false
     },
     {
+      "id": "0eda730a9a7a42c3",
+      "titulo": "El Llaminer estrena un nou conte: 'El Llaminer i la clau màgica'",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/llaminer-clau-magica",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-28T10:21:34.000Z",
+      "detectado": "2026-11-28T11:29:41.376Z",
+      "sensible": true,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": "456877bad80fe0a0",
+      "propuesta": false
+    },
+    {
       "id": "69a8528c655f2331",
       "titulo": "El Black Friday s'avança al Nadal: \"Ajuda moltíssim tenir aquests tipus de descomptes a les portes de Nadal\"",
       "enlace": "https://www.diaridesabadell.com/sabadell/blackfriday-regals-compres-nadal-sabadell.html",
@@ -230,5 +251,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-28T10:37:34.172Z"
+  "actualizado": "2026-11-28T11:30:03.712Z"
 }
