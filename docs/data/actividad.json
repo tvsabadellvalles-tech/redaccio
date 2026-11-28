@@ -1,20 +1,6 @@
 {
   "eventos": [
     {
-      "id": "a493592cf90d3650",
-      "t": "2026-11-24T15:04:27.032Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (4 punts): font oficial · política local, economia i ocupació.",
-      "itemId": "04076576f085cb9e"
-    },
-    {
-      "id": "a57713c0b1da59d7",
-      "t": "2026-11-24T15:04:27.033Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La futura residència de CIPO podria entrar en funcionament el 2028» (iSabadell).",
-      "itemId": "6368fde0b838fb3b"
-    },
-    {
       "id": "b58626e90d7ee2e4",
       "t": "2026-11-24T15:04:27.034Z",
       "agente": "rastreador",
@@ -2799,7 +2785,21 @@
       "agente": "rastreador",
       "texto": "He recollit «El Black Friday s'avança al Nadal: \"Ajuda moltíssim tenir aquests tipus de descomptes a les portes de Nadal\"» (Diari de Sabadell).",
       "itemId": "69a8528c655f2331"
+    },
+    {
+      "id": "f71d5f2c42bc558f",
+      "t": "2026-11-28T10:37:21.128Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El Llaminer estrena un nou conte: 'El Llaminer i la clau màgica'» (Ràdio Sabadell).",
+      "itemId": "456877bad80fe0a0"
+    },
+    {
+      "id": "b27530a62e3604b2",
+      "t": "2026-11-28T10:37:21.129Z",
+      "agente": "vigilante",
+      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
+      "itemId": "456877bad80fe0a0"
     }
   ],
-  "actualizado": "2026-11-28T09:41:21.598Z"
+  "actualizado": "2026-11-28T10:37:34.175Z"
 }
