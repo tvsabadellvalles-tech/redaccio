@@ -1,20 +1,6 @@
 {
   "eventos": [
     {
-      "id": "edd3bbbe34f3659e",
-      "t": "2026-11-24T14:02:55.574Z",
-      "agente": "mesa",
-      "texto": "Proposo incloure-ho a l'escaleta (3 punts): política local, obres i urbanisme.",
-      "itemId": "93365f79146c2d55"
-    },
-    {
-      "id": "460aa790a851271b",
-      "t": "2026-11-24T14:02:55.575Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Denuncien una agressió feixista a la festa de la Víbria de la Creu Alta» (iSabadell).",
-      "itemId": "677190e9f1127660"
-    },
-    {
       "id": "c6591c844f617f03",
       "t": "2026-11-24T14:02:55.576Z",
       "agente": "etiquetador",
@@ -2799,7 +2785,21 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Salut, Esports.",
       "itemId": "13425b3583fcf489"
+    },
+    {
+      "id": "d3fad76af5a669dc",
+      "t": "2026-11-28T05:42:12.469Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Més de 162.000 sabadellencs, cridats a les urnes aquest 29-N» (iSabadell).",
+      "itemId": "23696de384bb889d"
+    },
+    {
+      "id": "d1002d2c14bd547c",
+      "t": "2026-11-28T05:42:12.470Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Política local.",
+      "itemId": "23696de384bb889d"
     }
   ],
-  "actualizado": "2026-11-27T22:37:37.259Z"
+  "actualizado": "2026-11-28T05:42:28.638Z"
 }

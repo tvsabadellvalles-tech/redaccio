@@ -102,6 +102,30 @@
     "deportes": "Esports",
     "cultura": "Cultura i festes"
   },
-  "items": [],
-  "actualizado": "2026-11-27T23:32:46.594Z"
+  "items": [
+    {
+      "id": "23696de384bb889d",
+      "titulo": "Més de 162.000 sabadellencs, cridats a les urnes aquest 29-N",
+      "enlace": "https://www.isabadell.cat/politica/eleccions-generals-2026/eleccions-generals-29n-sabadell-previa-341662/",
+      "fuente": "isabadell",
+      "fuenteNombre": "iSabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-28T05:00:00.000Z",
+      "detectado": "2026-11-28T05:42:12.469Z",
+      "sensible": false,
+      "etiquetas": [
+        "politica"
+      ],
+      "puntuacion": 2,
+      "motivos": [
+        "política local"
+      ],
+      "duplicadaDe": null,
+      "propuesta": false
+    }
+  ],
+  "actualizado": "2026-11-28T05:42:28.635Z"
 }
