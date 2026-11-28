@@ -104,6 +104,48 @@
   },
   "items": [
     {
+      "id": "69a8528c655f2331",
+      "titulo": "El Black Friday s'avança al Nadal: \"Ajuda moltíssim tenir aquests tipus de descomptes a les portes de Nadal\"",
+      "enlace": "https://www.diaridesabadell.com/sabadell/blackfriday-regals-compres-nadal-sabadell.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [],
+      "publicado": "2026-11-28T09:11:36.000Z",
+      "detectado": "2026-11-28T09:41:07.934Z",
+      "sensible": false,
+      "etiquetas": [],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
+      "id": "262eb5d167839a6c",
+      "titulo": "Per què Sabadell és un motor de la cultura catalana?",
+      "enlace": "https://www.diaridesabadell.com/sabadell/50-anys-diari-de-sabadell/per-que-sabadell-es-un-motor-de-la-cultura-catalana.html",
+      "fuente": "diari-sabadell",
+      "fuenteNombre": "Diari de Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "comarca",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-28T09:09:12.000Z",
+      "detectado": "2026-11-28T09:41:07.934Z",
+      "sensible": false,
+      "etiquetas": [
+        "cultura"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "5e427ec7f6577562",
       "titulo": "‘Els bancs d’aliments en la diana de la dreta i de l’extrema dreta?’",
       "enlace": "https://www.isabadell.cat/opinio/motu-proprio/banc-aliments-en-la-diana-341568/",
@@ -167,5 +209,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-28T07:58:45.098Z"
+  "actualizado": "2026-11-28T09:41:21.595Z"
 }

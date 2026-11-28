@@ -1,27 +1,6 @@
 {
   "eventos": [
     {
-      "id": "87e53d74e46cf1e3",
-      "t": "2026-11-24T14:02:55.578Z",
-      "agente": "rastreador",
-      "texto": "He recollit «El conseller Raül Moreno visita la nova llar residència-centre ocupacional de Can Gambús» (Ràdio Sabadell).",
-      "itemId": "013cb532ed31bef6"
-    },
-    {
-      "id": "003972a447d00150",
-      "t": "2026-11-24T15:04:27.030Z",
-      "agente": "rastreador",
-      "texto": "He recollit «La regidoria de Comerç obre les inscripcions per participar a la Fira de Nadal 2026» (Ajuntament de Montcada i Reixac).",
-      "itemId": "04076576f085cb9e"
-    },
-    {
-      "id": "8b3b0596a8676ad3",
-      "t": "2026-11-24T15:04:27.031Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Política local, Economia i ocupació, Cultura i festes.",
-      "itemId": "04076576f085cb9e"
-    },
-    {
       "id": "a493592cf90d3650",
       "t": "2026-11-24T15:04:27.032Z",
       "agente": "mesa",
@@ -2799,7 +2778,28 @@
       "agente": "rastreador",
       "texto": "He recollit «De la recerca de feina a una nova vocació: una història d’oportunitats» (iSabadell).",
       "itemId": "5fc30cd8f3c14832"
+    },
+    {
+      "id": "ceeaf96cd279e412",
+      "t": "2026-11-28T09:41:07.934Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Per què Sabadell és un motor de la cultura catalana?» (Diari de Sabadell).",
+      "itemId": "262eb5d167839a6c"
+    },
+    {
+      "id": "e5636bc9f4db0478",
+      "t": "2026-11-28T09:41:07.935Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Cultura i festes.",
+      "itemId": "262eb5d167839a6c"
+    },
+    {
+      "id": "b55b80da3a2888c9",
+      "t": "2026-11-28T09:41:07.936Z",
+      "agente": "rastreador",
+      "texto": "He recollit «El Black Friday s'avança al Nadal: \"Ajuda moltíssim tenir aquests tipus de descomptes a les portes de Nadal\"» (Diari de Sabadell).",
+      "itemId": "69a8528c655f2331"
     }
   ],
-  "actualizado": "2026-11-28T07:58:45.101Z"
+  "actualizado": "2026-11-28T09:41:21.598Z"
 }
