@@ -1,20 +1,6 @@
 {
   "eventos": [
     {
-      "id": "4607e8d316ae266d",
-      "t": "2026-11-24T17:20:41.555Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Ca n’Oriac porta la solidaritat a la pell: tatuatges a 20 euros per ajudar una nena a tornar a caminar» (Diari de Sabadell).",
-      "itemId": "855762ce681e08af"
-    },
-    {
-      "id": "4f47ea485465a08f",
-      "t": "2026-11-24T17:20:41.556Z",
-      "agente": "vigilante",
-      "texto": "Possible tema sensible (menors, víctimes, detinguts o dades personals): cal una revisió humana abans de qualsevol ús.",
-      "itemId": "855762ce681e08af"
-    },
-    {
       "id": "6a0f5004fd6cfd1d",
       "t": "2026-11-24T17:20:41.557Z",
       "agente": "rastreador",
@@ -2799,7 +2785,21 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Esports.",
       "itemId": "57e1408347fc59c1"
+    },
+    {
+      "id": "ec1ff1e297fd6020",
+      "t": "2026-11-28T14:25:20.763Z",
+      "agente": "rastreador",
+      "texto": "He recollit «Astralpool CN Sabadell 17-7 SIS Roma: una primera volta de '10'» (Ràdio Sabadell).",
+      "itemId": "3998c8760d71ca0b"
+    },
+    {
+      "id": "9a19038fc1d72b0a",
+      "t": "2026-11-28T14:25:20.764Z",
+      "agente": "etiquetador",
+      "texto": "Etiquetes: Esports.",
+      "itemId": "3998c8760d71ca0b"
     }
   ],
-  "actualizado": "2026-11-28T13:32:26.918Z"
+  "actualizado": "2026-11-28T14:25:38.616Z"
 }

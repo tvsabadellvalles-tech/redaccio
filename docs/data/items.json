@@ -104,6 +104,29 @@
   },
   "items": [
     {
+      "id": "3998c8760d71ca0b",
+      "titulo": "Astralpool CN Sabadell 17-7 SIS Roma: una primera volta de '10'",
+      "enlace": "https://radiosabadell.fm/esports/waterpolo/astralpool-cn-sabadell-17-7-sis-roma-champions-league",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-28T13:49:00.000Z",
+      "detectado": "2026-11-28T14:25:20.762Z",
+      "sensible": false,
+      "etiquetas": [
+        "deportes"
+      ],
+      "puntuacion": 0,
+      "motivos": [],
+      "duplicadaDe": null,
+      "propuesta": false
+    },
+    {
       "id": "57e1408347fc59c1",
       "titulo": "L’Astralpool CN Sabadell goleja la SIS Roma (17-7) i reforça el seu lideratge a Europa",
       "enlace": "https://www.diaridesabadell.com/esports/astralpool-cn-sabadell-sis-roma-17-7-lideratge-europa.html",
@@ -297,5 +320,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-28T13:32:26.914Z"
+  "actualizado": "2026-11-28T14:25:38.613Z"
 }
