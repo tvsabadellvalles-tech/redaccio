@@ -2,7 +2,7 @@
   "estat": "ok",
   "origen": "ical",
   "colorsDisponibles": false,
-  "consultat": "2026-11-28T05:42:12.469Z",
+  "consultat": "2026-11-28T06:43:30.002Z",
   "total": 8,
   "activitats": [
     {
@@ -41,16 +41,16 @@
       "color": null
     },
     {
-      "titol": "Cerdanyola FC - UE Tona",
+      "titol": "Estrena Pessebrista Sabadell",
       "inici": "2026-11-29T11:00:00.000Z",
-      "final": "2026-11-29T13:00:00.000Z",
+      "final": "2026-11-29T12:00:00.000Z",
       "totElDia": false,
       "color": null
     },
     {
-      "titol": "Estrena Pessebrista Sabadell",
+      "titol": "Cerdanyola FC - UE Tona",
       "inici": "2026-11-29T11:00:00.000Z",
-      "final": "2026-11-29T12:00:00.000Z",
+      "final": "2026-11-29T13:00:00.000Z",
       "totElDia": false,
       "color": null
     },
@@ -63,5 +63,5 @@
     }
   ],
   "aviso": "Configura GOOGLE_CALENDAR_API_KEY per recuperar els colors dels esdeveniments.",
-  "actualizado": "2026-11-28T05:42:50.549Z"
+  "actualizado": "2026-11-28T06:44:07.354Z"
 }
