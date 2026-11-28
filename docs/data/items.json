@@ -104,6 +104,31 @@
   },
   "items": [
     {
+      "id": "9e434e9f7950ca1e",
+      "titulo": "162.105 sabadellencs estan cridats a les urnes aquest diumenge",
+      "enlace": "https://radiosabadell.fm/actualitat/societat/sabadellencs-cridats-urnes-diumenge",
+      "fuente": "radio-sabadell",
+      "fuenteNombre": "Ràdio Sabadell",
+      "tipo": "medio",
+      "resumen": "",
+      "municipio": "sabadell",
+      "municipiosMencionados": [
+        "sabadell"
+      ],
+      "publicado": "2026-11-28T14:25:10.000Z",
+      "detectado": "2026-11-28T15:16:29.786Z",
+      "sensible": false,
+      "etiquetas": [
+        "educacion"
+      ],
+      "puntuacion": 1,
+      "motivos": [
+        "educació"
+      ],
+      "duplicadaDe": "23696de384bb889d",
+      "propuesta": false
+    },
+    {
       "id": "3998c8760d71ca0b",
       "titulo": "Astralpool CN Sabadell 17-7 SIS Roma: una primera volta de '10'",
       "enlace": "https://radiosabadell.fm/esports/waterpolo/astralpool-cn-sabadell-17-7-sis-roma-champions-league",
@@ -320,5 +345,5 @@
       "propuesta": false
     }
   ],
-  "actualizado": "2026-11-28T14:25:38.613Z"
+  "actualizado": "2026-11-28T15:16:43.092Z"
 }

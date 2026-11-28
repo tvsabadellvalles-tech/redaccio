@@ -1,20 +1,6 @@
 {
   "eventos": [
     {
-      "id": "6a0f5004fd6cfd1d",
-      "t": "2026-11-24T17:20:41.557Z",
-      "agente": "rastreador",
-      "texto": "He recollit «Compte enrere per inaugurar la Residència del Sud» (Ràdio Sabadell).",
-      "itemId": "7de269d7bb43713e"
-    },
-    {
-      "id": "cb697fadda6e573a",
-      "t": "2026-11-24T17:20:41.558Z",
-      "agente": "etiquetador",
-      "texto": "Etiquetes: Obres i urbanisme, Salut.",
-      "itemId": "7de269d7bb43713e"
-    },
-    {
       "id": "62f758faebd477f1",
       "t": "2026-11-24T17:20:41.559Z",
       "agente": "rastreador",
@@ -2799,7 +2785,21 @@
       "agente": "etiquetador",
       "texto": "Etiquetes: Esports.",
       "itemId": "3998c8760d71ca0b"
+    },
+    {
+      "id": "01ed37f372f091cb",
+      "t": "2026-11-28T15:16:29.786Z",
+      "agente": "rastreador",
+      "texto": "He recollit «162.105 sabadellencs estan cridats a les urnes aquest diumenge» (Ràdio Sabadell).",
+      "itemId": "9e434e9f7950ca1e"
+    },
+    {
+      "id": "e8cff9a3170f4f61",
+      "t": "2026-11-28T15:16:29.787Z",
+      "agente": "deduplicador",
+      "texto": "Descartada perquè és duplicada: coincideix amb «Més de 162.000 sabadellencs, cridats a les urnes aquest 29-N» (iSabadell).",
+      "itemId": "9e434e9f7950ca1e"
     }
   ],
-  "actualizado": "2026-11-28T14:25:38.616Z"
+  "actualizado": "2026-11-28T15:16:43.095Z"
 }
